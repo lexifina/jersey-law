@@ -1,0 +1,1 @@
+A LAW to establish a new scheme of social security to replace that contained in the Insular Insurance (Jersey) Law, 1950, and to provide for connected purposes, sanctioned by Order of Her Majesty in Council of the
