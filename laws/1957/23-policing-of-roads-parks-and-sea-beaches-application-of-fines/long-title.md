@@ -1,0 +1,1 @@
+A LAW to empower the States to provide that fines imposed for offences against Regulations relating to the policing of roads, parks and sea beaches shall be awarded for the benefit of the Parishes, sanctioned by Order of Her Majesty in Council of the
