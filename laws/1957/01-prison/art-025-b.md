@@ -1,0 +1,3 @@
+# 25B APPLICATION OF LAW TO YOUNG OFFENDERS’ CENTRE
+(1) With the exception of paragraphs (2) to (6) of Article 19, the preceding provisions of this Law shall, subject to such adaptations and modifications as the Prison Board may by Rules prescribe, apply to the young offenders’ centre provided under Article 25A of this Law and to persons detained therein as they apply to the prison and to prisoners.
+(2) References in the preceding provisions of this Law to imprisonment shall, so far as those provisions apply to the young offenders’ centre provided under Article 25A of this Law be construed as including detention in such a centre.
