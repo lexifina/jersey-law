@@ -1,0 +1,1 @@
+A LAW relating to records concerning States functions and other public functions in Jersey, relating to access to those records when they become archives and conferring various functions on the Jersey Heritage Trust, an Archivist and a Records Advisory Panel; sanctioned by Order of Her Majesty in Council of the
