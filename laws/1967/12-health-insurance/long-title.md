@@ -1,0 +1,1 @@
+A LAW to establish a system of insurance in relation to medical, dental and ophthalmic services and pharmaceutical supplies required in connexion therewith, and for purposes ancillary thereto, sanctioned by Order of Her Majesty in Council of the
