@@ -1,0 +1,1 @@
+A LAW to provide for the control of the marketing of agricultural produce, to empower the States to approve schemes for this purpose and to provide for other matters incidental thereto, sanctioned by Order of Her Majesty in Council of the
