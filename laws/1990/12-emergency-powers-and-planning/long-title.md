@@ -1,0 +1,1 @@
+A LAW to constitute an Emergencies Council, to prescribe its functions and powers, to provide generally for planning in case of emergencies and to re-enact with amendments the provisions relating to the declaration of a state of emergency, sanctioned by Order of Her Majesty in Council of the
