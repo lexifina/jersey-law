@@ -1,0 +1,1 @@
+A LAW to abolish penal servitude and hard labour and otherwise to reform existing methods and provide new methods of dealing with offenders and persons liable to imprisonment, and for purposes connected therewith, sanctioned by Order of Her Majesty in Council of the
