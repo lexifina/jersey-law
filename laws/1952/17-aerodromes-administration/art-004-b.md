@@ -1,0 +1,2 @@
+# 4B
+All fines imposed for offences under any regulations made under Article 4 of this Law shall be awarded for the benefit of the General Revenues of the States, except where the maximum fine which may be inflicted for the offence does not exceed five pounds, in which case one half of the fine shall be awarded for the benefit of the General Revenues of the State and one half for the benefit of the parish in which the offence was committed and shall be applied towards the cost of maintenance of the by-roads of the parish.]
