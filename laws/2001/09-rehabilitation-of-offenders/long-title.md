@@ -1,0 +1,1 @@
+A LAW to provide for the rehabilitation of certain offenders who have not been reconvicted, within a certain period of time, for a serious offence, to penalize the unauthorized disclosure of spent convictions, to amend the law of defamation and for connected purposes; sanctioned by Order of Her Majesty in Council of the
