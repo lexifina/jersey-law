@@ -1,0 +1,1 @@
+A LAW to provide for the regulation of the borrowing and raising of money, the issue of securities, and the circulation of offers of securities for subscription, sale or exchange, and for purposes connected with the matters aforesaid sanctioned by Order of His Majesty in Council of the
