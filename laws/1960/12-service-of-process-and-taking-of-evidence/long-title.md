@@ -1,0 +1,1 @@
+A LAW to regulate the service within the Island of process of courts outside the Island, and vice versa, and to provide for taking evidence in proceedings pending before courts outside the Island, sanctioned by Order of Her Majesty in Council of the
