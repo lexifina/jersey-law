@@ -1,0 +1,1 @@
+A LAW to provide for the registration of places of refreshment and of persons carrying on and managing such places, for the proper conduct and control of such places, and for matters in connexion therewith, sanctioned by Order of Her Majesty in Council of the
