@@ -1,0 +1,1 @@
+A LAW to amend the customary law of the Island to enable the granting of permits for the exclusive possession and use of certain areas of land to which the public of the Island has access and to amend the Highways (Jersey) Law 1956, sanctioned by Order of Her Majesty in Council of the
