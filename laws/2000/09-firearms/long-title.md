@@ -1,0 +1,1 @@
+A LAW to make new provision for the control of the manufacture, acquisition, transfer, possession and use of firearms, imitation firearms and other weapons and ammunition in place of the Firearms (Jersey) Law 1956 and the Loi (1879) sur le Port d’Armes, and for matters connected therewith, sanctioned by Order of Her Majesty in Council of the
