@@ -1,0 +1,14 @@
+# SCHEDULE C
+The Schedule referred to in this Law as Schedule C is as follows -
+Tax under this Schedule shall be charged in respect of all profits arising from interest and dividends which are payable either out of the public revenues of the Island or by coupon, for every twenty shillings of the annual value thereof.
+ARTICLE 59
+PAYMENT OF TAX UNDER SCHEDULE C
+(1) The Treasurer of the States on payment of any interest payable out of the public revenues of the Island, whether by coupon or otherwise, shall (except where such interest is specifically exempted from income tax) deduct thereout a sum representing the amount of income tax thereon at the rate of tax in force at the date on which the said interest falls due for payment.
+(2) Sums so deducted by the Treasurer of the States shall be charged as interest as if it had been paid in cash, and credited to the General Revenues of the States as having been received from income tax.
+(3) Before paying or placing to the credit of the person entitled thereto any profits arising from interest and dividends which are payable by coupon, a banker shall deduct thereout a sum representing the amount of income tax thereon at the rate of tax in force at the date on which the said interest and dividends are paid.
+(4) Within seven days of the thirty-first day of March, the thirtieth day of June, the thirtieth day of September and the thirty-first day of December in each year, every banker shall pay to the Treasurer of the States the amount of income tax deducted by him under paragraph (3) of this Article during the three months ending on those dates (but excluding the amount deducted from coupons issued by the States of Jersey) and shall at the same time give a certificate signed by the manager of the bank stating the amount so paid over to the Treasurer of the States and further declaring that it represents tax at the rate specified in the said paragraph (3) on the whole of the coupons (other than those issued by the States of Jersey) which have been paid or credited by him as banker during that period.
+ARTICLE 60
+TAX EXEMPTION CERTIFICATES
+(1) If a person to whom any interest or dividends chargeable under Schedule C is payable satisfies the Comptroller that he is not liable to income tax in any year, the Comptroller may issue a certificate to that effect, and the Treasurer of the States, or the banker who under Article 59 of this Law is required to deduct income tax from such interest or dividends, may, on sight of such certificate, pay or credit to that person the profits arising from such interest or dividends, free of income tax for that year.
+(2) In all cases where a banker pays interest or dividends free of income tax by virtue of this Article, he shall modify the certificate required to be given by him under Article 59 of this Law accordingly.
+PART X

@@ -1,0 +1,5 @@
+# SCHEDULE C AND PRINCIPAL PROVISIONS RELATING THERETO
+ARTICLE 57
+INTERPRETATION OF PART IX
+In this Part of this Law, “banker” includes a person acting as a banker.
+ARTICLE 58
