@@ -1,0 +1,1 @@
+A LAW to make provision for the creation of security interests in respect of certain intangible moveable property and with regard to capacity of persons to give security over certain property under the law of another jurisdiction and for connected purposes, sanctioned by Order of Her Majesty in Council of the
