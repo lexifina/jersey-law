@@ -1,0 +1,1 @@
+A LAW to regulate the practices of acupuncture, body and ear piercing, electrolysis and tattooing and the premises on which those practices are conducted, whether or not for reward, and for matters incidental thereto and connected therewith; sanctioned by Order of Her Majesty in Council of the
