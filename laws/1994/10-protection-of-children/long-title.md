@@ -1,0 +1,1 @@
+A LAW to prohibit the taking of indecent photographs of children and to penalise the possession, distribution, showing and advertisement of such indecent photographs; sanctioned by Order of Her Majesty in Council of the
