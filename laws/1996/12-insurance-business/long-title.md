@@ -1,0 +1,1 @@
+A LAW to make new provision for the authorisation and supervision of insurance businesses, and generally to provide for purposes connected therewith and incidental thereto, sanctioned by Order of Her Majesty in Council of the
