@@ -1,0 +1,1 @@
+A LAW to provide for the registration of persons carrying on the business of accepting money for investment on deposit, to penalise fraudulent inducements to invest money, and generally to provide for purposes connected with the matters aforesaid, sanctioned by Order of Her Majesty in Council of the
