@@ -1,0 +1,1 @@
+A LAW to empower the Petty Debts Court to make orders with respect to the separation of married persons, the legal custody of children of the marriage and the maintenance of the wife and children, and for other purposes in connexion therewith, sanctioned by Order of Her Majesty in Council of the
