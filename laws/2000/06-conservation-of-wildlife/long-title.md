@@ -1,0 +1,1 @@
+A LAW to consolidate and amend the law relating to the conservation of wild animals, wild birds and wild plants in the Island, and for related purposes; sanctioned by Order of Her Majesty in Council of the
