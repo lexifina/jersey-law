@@ -1,0 +1,1 @@
+A LAW to establish the Jersey Police Complaints Authority, to make provision for the investigation of complaints about and the procedures, rights and powers relating to disciplinary charges against members of the Force, port control officers and members of the Honorary Police, and for related purposes, sanctioned by Order of Her Majesty in Council of the
