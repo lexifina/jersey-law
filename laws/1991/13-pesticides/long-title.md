@@ -1,0 +1,1 @@
+A LAW to replace the Agricultural Preparations (Jersey) Law, 1960 with fresh provision for the regulation of pesticides and substances, preparations and organisms prepared or used for the control of pests or for protection against pests; sanctioned by Order of the Counsellors of State in Council of the
