@@ -1,0 +1,1 @@
+A LAW to enable two international Conventions relating respectively to the civil aspects of international child abduction and to the recognition and enforcement of custody decisions to be extended to Jersey.
