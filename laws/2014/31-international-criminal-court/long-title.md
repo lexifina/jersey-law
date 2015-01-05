@@ -1,0 +1,1 @@
+A LAW to give effect to the Statute of the International Criminal Court, to provide for offences under the law of Jersey corresponding to offences within the jurisdiction of that Court, and for connected purposes.
