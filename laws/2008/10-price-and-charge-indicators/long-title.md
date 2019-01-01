@@ -1,0 +1,1 @@
+A LAW to enable the imposition of a requirement for prices to be indicated on or in relation to goods that are or may be for sale by retail, for charges to be indicated for services which may be provided, and for connected purposes.
