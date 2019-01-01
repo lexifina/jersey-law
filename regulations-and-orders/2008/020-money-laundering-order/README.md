@@ -1,0 +1,37 @@
+# Money Laundering (Jersey) Order 2008
+
+R&O.20/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20190530>
+
+| Provision | File | Heading |
+| --- | --- | --- |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Beneficial ownership and control |
+| Art. 3 | [art-003.md](art-003.md) | 3 Meaning of “customer due diligence measures” |
+| Art. 4 | [art-004.md](art-004.md) | 4 Meaning of “one-off transaction” |
+| Art. 5 | [art-005.md](art-005.md) | 5 Equivalent business |
+| Art. 6 | [art-006.md](art-006.md) | 6 Designated police and customs officers |
+| Art. 7 | [art-007.md](art-007.md) | 7 Compliance officer |
+| Art. 8 | [art-008.md](art-008.md) | 8 Reporting officer |
+| Art. 9 | [art-009.md](art-009.md) | 9 Designated persons |
+| Art. 10 | [art-010.md](art-010.md) | 10 Exemptions from Articles 7 and 8 |
+| Art. 10A | [art-010-a.md](art-010-a.md) | 10A Financial services business carried on outside Jersey |
+| Art. 11 | [art-011.md](art-011.md) | 11 Policies, procedures and training to prevent and detect money laundering |
+| Art. 12 | [art-012.md](art-012.md) | 12 Exception from Article 11 |
+| Art. 13 | [art-013.md](art-013.md) | 13 Application and timing of customer due diligence measures |
+| Art. 14 | [art-014.md](art-014.md) | 14 Termination where customer due diligence measures are not completed |
+| Art. 15 | [art-015.md](art-015.md) | 15 Enhanced customer due diligence |
+| Art. 16 | [art-016.md](art-016.md) | 16 Reliance on relevant person or person carrying on equivalent business |
+| Art. 16A | [art-016-a.md](art-016-a.md) | 16A Reliance upon persons in same financial group as relevant person |
+| Art. 17 | [art-017.md](art-017.md) | 17 Simplified identification measures in circumstances where the customer is a relevant person |
+| Art. 18 | [art-018.md](art-018.md) | 18 Simplified customer due diligence measures |
+| Art. 19 | [art-019.md](art-019.md) | 19 Records to be kept |
+| Art. 20 | [art-020.md](art-020.md) | 20 Periods for which records must be kept |
+| Art. 21 | [art-021.md](art-021.md) | 21 Reporting procedures and related disclosure requirements |
+| Art. 22 | [art-022.md](art-022.md) | 22 Reports that need not be forwarded |
+| Art. 22A | [art-022-a.md](art-022-a.md) | 22A Disclosure within the relevant person’s organization |
+| Art. 23 | [art-023.md](art-023.md) | 23 Duty to report evidence of money laundering |
+| Art. 23A | [art-023-a.md](art-023-a.md) | 23A Shell banks |
+| Art. 23B | [art-023-b.md](art-023-b.md) | 23B Anonymous accounts |
+| Art. 24 | [art-024.md](art-024.md) | 24 Citation and commencement |
+| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Application to certain businesses |
+| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
