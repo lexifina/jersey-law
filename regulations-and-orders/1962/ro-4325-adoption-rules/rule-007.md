@@ -1,0 +1,6 @@
+# 7 Previous proceedings
+If it appears that the applicant has previously made an application for an adoption order in respect of the same child and that the Court, after having heard the case, dismissed the application on its merits, the guardian ad litem shall bring the matter to the attention of the Court and the application shall not be proceeded with unless the Court is satisfied that there has been a substantial change in the circumstances since the previous application.
+Subject to the provisions of Rule 9, the Judicial Greffier shall appoint JFCAS to be the guardian ad litem of the child for the purposes of the application.
+(1) If the applicant desires that some body or person other than JFCAS should be appointed to act as guardian ad litem, his or her application for an adoption order must ask for the appointment of a guardian ad litem and must be supported by an affidavit by him or her stating the facts.
+(2) If the applicant asks for the appointment of a guardian ad litem other than JFCAS, the Court may appoint any other suitably qualified body or person as guardian ad litem.
+The Judicial Greffier shall, as soon as practicable after the filing of an application for an adoption order, serve on the guardian ad litem a copy of the application together with the documents attached thereto.
