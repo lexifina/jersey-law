@@ -1,0 +1,1 @@
+A LAW to enable the States and Ministers to give effect in Jersey to legislation of the European Union and to make supplementary provision in relation to that legislation, to make amendments and other provision in connection with the withdrawal of the United Kingdom from the European Union, and for related purposes
