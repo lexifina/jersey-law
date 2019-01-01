@@ -1,1 +1,1 @@
-A LAW to prevent the application to merchandise of fraudulent marks and to require an indication of origin to be given in the case of certain imported goods, sanctioned by Order of Her Majesty in Council of the
+A LAW to prevent the application to merchandise of fraudulent marks and to require an indication of origin to be given in the case of certain imported goods
