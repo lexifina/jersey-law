@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Article 3 of the Gambling (Jersey) Law 1964 and Regulations 10, 12 and 14 of the Gambling (Channel Islands Lottery) (Jersey) Regulations 1975, orders as follows -
