@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Article 19 of the Registration of Business Names (Jersey) Law 1956 after consultation with the Jersey Financial Services Commission, has made the following Order -
