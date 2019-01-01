@@ -1,0 +1,2 @@
+# 6A Extension of right in nature of dower to surviving spouses and surviving civil partners
+Where a civil partner or in the case of a marriage by persons of the same sex, a spouse, dies testate as to immovable estate, his or her civil partner or spouse, as the case may be, shall have a right of usufruit in that immovable estate to the same extent and upon the same terms as a widow has by virtue of her right of dower in the immovable estate as to which her husband dies testate.

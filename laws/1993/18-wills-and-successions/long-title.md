@@ -1,1 +1,1 @@
-A LAW to amend the law relating to inheritance, wills of movable and immovable estate, and the administration of estates of deceased persons, to abolish certain rules of customary law, and for other purposes connected therewith sanctioned by Order of Her Majesty in Council of the
+A LAW to amend the law relating to inheritance, wills of movable and immovable estate, and the administration of estates of deceased persons, to abolish certain rules of customary law and for other purposes connected therewith
