@@ -1,0 +1,1 @@
+THE STATES, in pursuance of Articles 2, 5, 7, 8 and 29 of the Sea Fisheries (Jersey) Law 1994 having consulted with the Secretary of State and obtained his concurrence, have made the following Regulations -
