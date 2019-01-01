@@ -1,0 +1,2 @@
+# 8 Supplemental: cause application for annulment on ground of respondent’s gender having become acquired gender at time of formation of civil partnership
+Where a cause application for annulment is brought under Article 36(1)(f) of the Law and a full gender recognition certificate has been issued to the respondent, the applicant must file a copy of that full certificate with the application, unless otherwise directed.

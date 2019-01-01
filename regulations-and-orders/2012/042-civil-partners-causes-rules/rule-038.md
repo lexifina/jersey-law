@@ -1,0 +1,3 @@
+# 38 Respondent’s statement as to arrangements for children
+(1) A respondent on whom there is served a statement in accordance with Rule 5(5) may, whether or not he or she agreed that statement, file a written statement of his or her views on the present and proposed arrangements for the children in Form CP5, and the respondent, upon filing any such statement, must send a copy of it to the applicant.
+(2) Any such statement of the respondent’s views must, if practicable, be filed within the time limited for giving notice of intention to defend and in any event before the Court considers the arrangements or proposed arrangements for the upbringing and welfare of the children of the family.

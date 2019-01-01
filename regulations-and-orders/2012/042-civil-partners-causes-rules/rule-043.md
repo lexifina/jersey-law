@@ -1,0 +1,7 @@
+# 43 Intervention by Attorney General
+(1) If the Attorney General wishes to show cause against a conditional order, the Attorney General shall give notice to that effect to the Court and to the party in whose favour it was pronounced.
+(2) Within 21 days of giving notice under paragraph (1) the Attorney General shall file a plea setting out the grounds on which the Attorney General desires to show cause, together with a copy for service on the party in whose favour the conditional order was made and every other party affected by it.
+(3) The Greffier shall serve a copy of the plea on each of the persons mentioned in paragraph (2).
+(4) Subject to paragraphs (5) and (6), these Rules shall apply to all subsequent pleadings and proceedings in respect of the plea as if it were an application by which a cause is begun.
+(5) If no answer to the plea is filed within the time limited, or if an answer is filed and struck out or not proceeded with, the Attorney General may move the Court forthwith to rescind the conditional order and dismiss the application.
+(6) Rule 33 shall apply to proceedings in respect of a plea by the Attorney General as it applies to the trial of a cause, so however that if all the charges in the plea are denied in the answer, the application for directions shall be made by the Attorney General and in any other case it shall be made by the party in whose favour the conditional order has been made.

@@ -1,0 +1,4 @@
+# 42 Request under Article 32(3) of the Law
+(1) A request to the Court for it to consider the financial position of the respondent after dissolution must be made by notice in Form CP16.
+(2) An applicant served with a notice in Form CP16 must (unless the applicant has already filed an affidavit of means) within 14 days after service of the notice, file an affidavit in answer to the request containing full particulars of property and income, and if that is not done, the Court may order the applicant to file an affidavit containing such particulars.
+(3) Within 14 days after service of any affidavit under paragraph (2), or within such time as the Court may direct, the respondent must file an affidavit in reply containing full particulars of the respondent’s property and income unless already given in an affidavit of means filed by the respondent.

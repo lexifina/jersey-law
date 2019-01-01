@@ -1,0 +1,8 @@
+# 24 Contents of answer and subsequent pleadings
+(1) If an answer, reply or subsequent pleading contains more than a simple denial of the facts stated in the cause application, answer or reply, as the case may be, the pleading must set out with sufficient particularity the facts relied on but not the evidence by which they are to be proved.
+(2) Unless otherwise directed, an answer by a civil partner who disputes any statement required by Rule 5(1)(f), (g), (h) and (i) to be included in the cause application must contain full particulars of the facts relied on.
+(3) Rule 5(7) shall, where appropriate, apply with the necessary modifications to a respondent’s answer as it applies to a cause application save that it shall not be necessary to include in the answer any claim for costs against the applicant.
+(4) If an answer to a cause application contains a prayer for relief, the answer must contain the information required by Rule 5(1)(k) in the case of the cause application in so far as it has not been given by the applicant.
+(5) An answer containing a claim for a residence order in respect of any minor child of the family must be accompanied by a separate written statement containing the information required by Form CP5.
+(6) A party cited or person named in an answer who has given notice of intention to defend the answer and wishes to defend all or any of the charges made therein must, within 14 days after the expiration of the time limited for giving notice of intention to defend, file an answer to the charges by sending it by post or by leaving it at the Judicial Greffe.
+(7) Every answer or subsequent pleading, if settled by an advocate or solicitor, must be signed by that person and, if not so settled, must be signed by the party filing it.
