@@ -1,0 +1,1 @@
+A LAW to incorporate The Law Society of Jersey; to provide for its administration; to provide for the recognition of legal services bodies; and for the disciplinary control of advocates and solicitors of the Royal Court and of legal services bodies; and for connected purposes.
