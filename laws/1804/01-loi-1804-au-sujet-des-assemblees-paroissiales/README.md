@@ -1,18 +1,7 @@
 # Loi (1804) au sujet des assemblées paroissiales
 
-L.1/1804 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-01-1804.aspx>
+L.1/1804 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_1804_20220119>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| art-001 | [art-001.md](art-001.md) | 1 |
-| art-002 | [art-002.md](art-002.md) | 2 |
-| art-004 | [art-004.md](art-004.md) | 4 |
-| art-005 | [art-005.md](art-005.md) | 5 |
-| art-006 | [art-006.md](art-006.md) | 6 |
-| art-008 | [art-008.md](art-008.md) | 8 |
-| art-009 | [art-009.md](art-009.md) | 9 |
-| art-010 | [art-010.md](art-010.md) | 10 |
-| art-011 | [art-011.md](art-011.md) | 11 |
-| art-012 | [art-012.md](art-012.md) | 12 |
-| art-013 | [art-013.md](art-013.md) | 13 |
-| art-014 | [art-014.md](art-014.md) | 14 |
+| Long title | [long-title.md](long-title.md) | PAROISSANT que le Règlement passé par les Etats le 26 octobre dernier, concernant les Assemblées Paroissiales, n’a point |
