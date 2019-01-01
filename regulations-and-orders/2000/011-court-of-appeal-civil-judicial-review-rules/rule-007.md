@@ -1,0 +1,3 @@
+# 7 Power to extend and abridge time
+(1) The Court or a judge thereof shall have power to enlarge or abridge the time appointed by these Rules, or fixed by an order, for doing any act or taking any proceeding, on such terms (if any) as the justice of the case may require, and any such enlargement may be ordered although the application for the same is not made until after the expiration of the time appointed or allowed.
+(2) Without prejudice to the power of the Court or a judge thereof under paragraph (1) to enlarge or abridge the time prescribed by any provision of these Rules, the period for serving notice of appeal under Rule 6(3) may be enlarged or abridged by the court below at any time.
