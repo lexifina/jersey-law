@@ -1,1 +1,1 @@
-A LAW to provide for the conferring of privileges and immunities in relation to an economic and trade office established in the United Kingdom or in the Island by the government of the Hong Kong Special Administrative Region; sanctioned by Order of Her Majesty in Council of the
+A LAW to provide for the conferring of privileges and immunities in relation to an economic and trade office established in the United Kingdom or in Jersey by the government of the Hong Kong Special Administrative Region
