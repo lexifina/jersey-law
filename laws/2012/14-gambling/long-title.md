@@ -1,0 +1,1 @@
+A LAW to restate and amend the law relating to gambling; to licence commercial provision of forms of gambling services; to regulate private and non-commercial gambling; to establish enforcement powers and provide for offences in relation to gambling; and for connected purposes.
