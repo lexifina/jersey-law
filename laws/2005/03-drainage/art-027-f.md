@@ -1,0 +1,4 @@
+# 27F Savings and transitional provisions
+(1) If immediately before the coming into force of this Part a valid trade effluent discharge consent granted by the Minister under Article 22 is in force in respect of any trade premises to which this Part applies, that consent shall continue in force until the earlier of the date on which it is suspended or revoked under Part 3 and the date which falls 12 months after the commencement of this Part.
+(2) Despite Article 19A, Part 3 shall continue to apply in respect of discharges from trade premises vested in or operated by the Minister until the date on which the Minister has issued a trade effluent discharge certificate under this Part in respect of those premises or the date which falls 12 months after the commencement of this Part.
+(3) Article 27A(2) and (3) shall not have effect in respect of any premises to which paragraph (1) or (2) applies until 12 months after the commencement of this Part.
