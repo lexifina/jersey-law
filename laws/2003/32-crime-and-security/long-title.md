@@ -1,0 +1,1 @@
+A LAW to create new offences regarding the use of weapons of mass destruction and noxious things and confer powers of entry in relation thereto; and to confer a power to make orders freezing the assets of a person outside Jersey engaged in acts detrimental to the economy or which threaten life or property
