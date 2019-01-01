@@ -1,1 +1,1 @@
-A LAW to make provision for the repair, maintenance and control of watercourses, to control the erection of buildings in relation to sewers and watercourses, and to amend in various respects the Law relating to sewers and watercourses, sanctioned by Order of Her Majesty in Council of the
+A LAW to make provision for the repair, maintenance and control of watercourses, to control the erection of buildings in relation to sewers and watercourses, and to amend in various respects the Law relating to sewers and watercourses.
