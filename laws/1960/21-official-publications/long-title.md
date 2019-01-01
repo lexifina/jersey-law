@@ -1,1 +1,1 @@
-A LAW to amend the Law regarding the manner in which the enactment of legislation, the convening of parish assemblies and other public matters are to be brought to the notice of the public, sanctioned by Order of Her Majesty in Council of the
+A LAW regarding the manner in which the enactment of legislation, the convening of parish assemblies and other public matters are to be brought to the notice of the public

@@ -1,14 +1,12 @@
 # Official Publications (Jersey) Law 1960
 
-L.21/1960 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-21-1960.aspx>
+L.21/1960 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_21_1960_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to amend the Law regarding the manner in which the enactment of legislation, the convening of parish assemblies an |
-| art-001 | [art-001.md](art-001.md) | 1 THE JERSEY GAZETTE |
-| art-002 | [art-002.md](art-002.md) | 2 MODIFICATION OF PREVIOUS ENACTMENTS REGARDING PUBLICATION IN NEWSPAPERS |
-| art-003 | [art-003.md](art-003.md) | 3 PROVISIONS REGARDING PUBLICITY TO BE GIVEN TO ENACTMENTS |
-| art-004 | [art-004.md](art-004.md) | 4 NOTICES CONVENING MEETINGS OF PARISH ASSEMBLIES MAY BE IN FRENCH OR ENGLISH |
-| art-005 | [art-005.md](art-005.md) | 5 REPEAL |
-| art-006 | [art-006.md](art-006.md) | 6 SHORT TITLE AND COMMENCEMENT |
-| sch-01 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Long title | [long-title.md](long-title.md) | A LAW regarding the manner in which the enactment of legislation, the convening of parish assemblies and other public ma |
+| Art. 1 | [art-001.md](art-001.md) | 1 The Jersey Gazette |
+| Art. 2 | [art-002.md](art-002.md) | 2 Construction of enactments providing for publication in a newspaper |
+| Art. 3 | [art-003.md](art-003.md) | 3 Provisions regarding publicity to be given to enactments |
+| Art. 4 | [art-004.md](art-004.md) | 4 Notices convening meetings of parish assemblies may be in French or English |
+| Art. 5 | [art-005.md](art-005.md) | 5 Citation |
