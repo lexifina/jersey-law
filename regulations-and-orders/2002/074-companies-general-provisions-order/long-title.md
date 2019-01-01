@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Articles 7, 29, 71, 188 and 219 of the Companies (Jersey) Law 1991, and having consulted the Jersey Financial Services Commission, orders as follows -
