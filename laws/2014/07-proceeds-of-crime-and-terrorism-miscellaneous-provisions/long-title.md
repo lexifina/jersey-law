@@ -1,0 +1,1 @@
+A LAW to amend further the Terrorism (Jersey) Law 2002, the Proceeds of Crime (Jersey) Law 1999 and the Misuse of Drugs (Jersey) Law 1978; to repeal the Drug Trafficking Offences (Jersey) Law 1988 and make consequential provision; and for connected purposes.
