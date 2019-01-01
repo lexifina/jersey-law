@@ -1,0 +1,13 @@
+# 15A Transitional arrangements
+(1) This Article applies where a fire certificate (“existing fire certificate”) has been issued under this Law and is in force immediately before the coming into force of Article 3 of the Fire Precautions (Amendment No. 2) (Jersey) Law 2012.
+(2) The existing certificate shall remain in force for a period of 3 years beginning with the date of the coming into force of Article 3 of the Fire Precautions (Amendment No. 2) (Jersey) Law 2012 or until 3 months after the date of a notice given under paragraph (3) in respect of the premises to which it relates, whichever period ends sooner.
+(3) At any time during the period of 3 years beginning with the date of the coming into force of Article 3 of the Fire Precautions (Amendment No. 2) (Jersey) Law 2012, the Minister may give notice to the person the Minister reasonably believes to be the responsible person in respect of any premises that -
+(a) an application for a new certificate in respect of those premises must be made on or before the date specified in the notice;
+(b) the existing fire certificate for those premises will expire the day after the date specified in the notice;
+(c) if an application for a new fire certificate is not received on or before the date specified in the notice as being the date by which an application must be made the premises will be treated as having no fire certificate in respect of it from the day that falls immediately after the date specified in the notice; and
+(d) the person receiving the notice must inform the Minister within 14 days of the date of the notice if that person is not the responsible person for the premises, and that a failure to do so is a criminal offence.
+(4) The date specified in the notice under paragraph (3) shall be not less than 3 months after the date of the notice.
+(5) If a person who is given a notice under paragraph (3) is not the responsible person for the premises, the person receiving the notice shall inform the Minister of that fact within 14 days of the date of the notice.
+(6) This Article does not affect any power of an inspector or the Minister under this Law, or the duty of the responsible person to notify the Minister of a proposal under Article 6(2) or (3) of this Law.
+(7) Nothing in this Article shall prevent any person making an application for a fire certificate within 3 years of the coming into force of Article 3 of the Fire Precautions (Amendment No. 2) (Jersey) Law 2012 in respect of any premises that has an existing fire certificate.
+(8) A person who fails to comply with paragraph (5) shall be guilty of an offence and shall be liable to a fine of 1evel 2 on the standard scale.
