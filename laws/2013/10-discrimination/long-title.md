@@ -1,0 +1,1 @@
+A LAW to prohibit certain kinds of discrimination and for connected purposes, and to further amend the Employment (Jersey) Law 2003, the Jersey Advisory and Conciliation (Jersey) Law 2003 and the Employment Relations (Jersey) Law 2007.
