@@ -1,0 +1,1 @@
+THE STATES, in pursuance of section 33(3) of the Immigration Act 1971 of the United Kingdom as it is extended to Jersey, with modifications, by the Immigration (Jersey) Order 1993, have made the following Act
