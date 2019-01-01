@@ -1,0 +1,1 @@
+A LAW to require a Minister, or a committee or panel or other body constituted by the Standing Orders of the States of Jersey, to follow certain procedures when exercising a power conferred by an enactment to make, approve, extend or terminate an appointment to an office; and to amend enactments
