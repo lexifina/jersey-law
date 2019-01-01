@@ -1,0 +1,1 @@
+A LAW to provide for the control and management of waste operations within Jersey; to regulate the transboundary movement of wastes, as far as they involve Jersey, in accordance with certain international agreements relating to such movement; and for related purposes.
