@@ -1,1 +1,1 @@
-A LAW to make provision in connexion with the introduction of decimal currency, to specify the extent to which coins shall be legal tender, to impose restrictions on the melting or breaking of metal coins and to provide for matters connected therewith, sanctioned by Order of Her Majesty in Council of the
+A LAW to make provision in connection with the introduction of decimal currency, to specify the extent to which coins shall be legal tender, to impose restrictions on the melting or breaking of metal coins and to provide for matters connected therewith
