@@ -1,1 +1,1 @@
-A LAW to provide in criminal proceedings for formal admissions of facts; for notice of alibis; for matters relating to the admissibility of expert evidence; for the reading of written statements and depositions as evidence; and for connected purposes; sanctioned by Order of Her Majesty in Council of the
+A LAW to provide in criminal proceedings for formal admissions of facts; for notice of alibis; for matters relating to the admissibility of expert evidence; for the reading of written statements and depositions as evidence; and for other purposes
