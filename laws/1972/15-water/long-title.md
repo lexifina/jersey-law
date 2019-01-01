@@ -1,1 +1,1 @@
-A LAW to give certain powers to, and impose certain obligations on, the Jersey New Waterworks Company Limited, to make provisions in relation to the conservation and prevention of pollution of water, to amend the Fire Service (Jersey) Law, 1959 and to provide for ancillary matters, sanctioned by Order of Her Majesty in Council of the
+A LAW to give certain powers to, and impose certain obligations on, The Jersey New Waterworks Company Limited, to make provisions in relation to the conservation and prevention of pollution of water and to provide for ancillary matters
