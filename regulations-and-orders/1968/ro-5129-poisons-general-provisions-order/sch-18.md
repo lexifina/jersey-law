@@ -1,0 +1,9 @@
+# SCHEDULE 18
+(Article 16)
+Form of authority for purchasing aluminium phosphide for killing moles
+Authority for the purchase of aluminium phosphide for killing moles in pursuance of Article 16(9)(d) of the Poisons (General Provisions) (Jersey) Order 1968.
+I being a person duly authorized by the Minister for Health and Social Services authorize (a)…................................................................ to purchase during the period of 24 months from the date hereof aluminium phosphide for the purpose of killing moles.
+Signature…........................................
+Description….....................................
+Date…................................................
+(a) insert full name of intending purchaser
