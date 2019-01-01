@@ -1,0 +1,1 @@
+A LAW to repeal and re-enact the provisions of the Criminal Justice (Anonymity in Rape Cases) (Jersey) Law 1992 and to make new provision for the anonymity of victims of sexual offences other than rape
