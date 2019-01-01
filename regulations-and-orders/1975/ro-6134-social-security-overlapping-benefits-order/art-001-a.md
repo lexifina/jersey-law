@@ -1,0 +1,2 @@
+# 1A Insolvency benefit: limited adjustment for wages and holiday pay
+Despite Article 1(1)(b), insolvency benefit payable to a person is only to be adjusted in accordance with Article 1(3) to the extent of the values of such of the components of that benefit as are referred to in Article 26C(1), (2)(c) and (2)(d) of the Law and as relate to any day in respect of which short term incapacity allowance or maternity allowance, or both of them, is payable to the person.
