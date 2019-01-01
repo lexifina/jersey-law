@@ -1,33 +1,38 @@
 # Patents (Jersey) Law 1957
 
-L.10/1957 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-10-1957.aspx>
+L.10/1957 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_10_1957_20200710>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to provide for the protection in the Island of inventions the subject of letters patent, and for matters incidenta |
-| art-001 | [art-001.md](art-001.md) | 1 DEFINITIONS |
-| art-002 | [art-002.md](art-002.md) | 2 LIMITATION OF POWERS OF ROYAL COURT IN RELATION TO REGISTRATION OF PATENTS |
-| art-003 | [art-003.md](art-003.md) | 3 REGISTER OF PATENTS |
-| art-004 | [art-004.md](art-004.md) | 4 REGISTRATION OF PATENTS |
-| art-005 | [art-005.md](art-005.md) | 5 REGISTRATION OF EXTENSION, ADDITIONS AND AMENDMENTS AND OF RESTORATION OF LAPSED PATENTS |
-| art-006 | [art-006.md](art-006.md) | 6 REGISTRATION OF ASSIGNMENTS, ETC |
-| art-007 | [art-007.md](art-007.md) | 7 LEGAL PRESENCE IN ISLAND UNNECESSARY FOR PURPOSE OF MAKING APPLICATIONS |
-| art-008 | [art-008.md](art-008.md) | 8 EFFECT OF REGISTRATION |
-| art-009 | [art-009.md](art-009.md) | 9 POWER OF COURT TO REVOKE REGISTRATION |
-| art-010 | [art-010.md](art-010.md) | 10 RECTIFICATION OF REGISTER |
-| art-011 | [art-011.md](art-011.md) | 11 POWER TO CORRECT CLERICAL ERRORS |
-| art-012 | [art-012.md](art-012.md) | 12 USE OF INVENTIONS OF REGISTERED PATENTS FOR THE SERVICES OF THE CROWN |
-| art-013 | [art-013.md](art-013.md) | 13 USE OF INVENTIONS OF REGISTERED PATENTS FOR THE SERVICE OF THE STATES |
-| art-014 | [art-014.md](art-014.md) | 14 REFERENCE OF DISPUTES AS TO USE BY CROWN OR STATES |
-| art-015 | [art-015.md](art-015.md) | 15 RESTRICTIONS ON RECOVERY OF DAMAGES FOR INFRINGEMENT |
-| art-016 | [art-016.md](art-016.md) | 16 PROCEEDINGS BY EXCLUSIVE LICENSEE FOR INFRINGEMENT OF REGISTERED PATENT |
-| art-017 | [art-017.md](art-017.md) | 17 REMEDY FOR GROUNDLESS THREATS OF INFRINGEMENT PROCEEDINGS |
-| art-018 | [art-018.md](art-018.md) | 18 AVOIDANCE OF CERTAIN RESTRICTIVE CONDITIONS |
-| art-019 | [art-019.md](art-019.md) | 19 DETERMINATION OF CERTAIN CONTRACTS |
-| art-020 | [art-020.md](art-020.md) | 20 SPECIAL PROVISIONS AS TO VESSELS, AIRCRAFT AND LAND VEHICLES |
-| art-021 | [art-021.md](art-021.md) | 21 FALSIFICATION OF REGISTER, ETC |
-| art-022 | [art-022.md](art-022.md) | 22 UNAUTHORIZED CLAIM OF PATENT RIGHTS |
-| art-023 | [art-023.md](art-023.md) | 23 RULES OF COURT |
-| art-024 | [art-024.md](art-024.md) | 24 POWERS OF STATES AS REGARDS FEES |
-| art-025 | [art-025.md](art-025.md) | 25 SAVING OF VESTED RIGHTS |
-| art-026 | [art-026.md](art-026.md) | 26 SHORT TITLE AND COMMENCEMENT |
+| Long title | [long-title.md](long-title.md) | A LAW to provide for the protection in Jersey of inventions the subject of letters patent, and for matters incidental th |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Limitation of powers of Royal Court in relation to registration of patents |
+| Art. 3 | [art-003.md](art-003.md) | 3 Register of patents |
+| Art. 4 | [art-004.md](art-004.md) | 4 Registration of patents |
+| Art. 5 | [art-005.md](art-005.md) | 5 Registration of extension, additions and amendments and of restoration of lapsed patents |
+| Art. 6 | [art-006.md](art-006.md) | 6 Registration of assignments, etc. |
+| Art. 7 | [art-007.md](art-007.md) | 7 Legal presence in Jersey unnecessary for purpose of making applications |
+| Art. 8 | [art-008.md](art-008.md) | 8 Effect of registration |
+| Art. 9 | [art-009.md](art-009.md) | 9 Power of court to revoke registration |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Compulsory licences - applications and grant |
+| Art. 9B | [art-009-b.md](art-009-b.md) | 9B Other matters relating to compulsory licences |
+| Art. 10 | [art-010.md](art-010.md) | 10 Rectification of register |
+| Art. 11 | [art-011.md](art-011.md) | 11 Power to correct clerical errors |
+| Art. 12 | [art-012.md](art-012.md) | 12 Use of inventions of registered patents for the services of the Crown |
+| Art. 13 | [art-013.md](art-013.md) | 13 Use of inventions of registered patents for the service of the States |
+| Art. 14 | [art-014.md](art-014.md) | 14 Reference of disputes as to use by Crown or States |
+| Art. 15 | [art-015.md](art-015.md) | 15 Restrictions on recovery of damages for infringement |
+| Art. 16 | [art-016.md](art-016.md) | 16 Proceedings by exclusive licensee for infringement of registered patent |
+| Art. 17 | [art-017.md](art-017.md) | 17 Burden of proof in certain cases |
+| Art. 18 | [art-018.md](art-018.md) | 18 Remedy for groundless threats of infringement proceedings |
+| Art. 19 | [art-019.md](art-019.md) | 19 Avoidance of certain restrictive conditions |
+| Art. 20 | [art-020.md](art-020.md) | 20 Determination of certain contracts |
+| Art. 21 | [art-021.md](art-021.md) | 21 Special provisions as to vessels, aircraft and land vehicles |
+| Art. 22 | [art-022.md](art-022.md) | 22 Falsification of register, etc. |
+| Art. 23 | [art-023.md](art-023.md) | 23 Unauthorized claim of patent rights |
+| Art. 24 | [art-024.md](art-024.md) | 24 Rules of Court |
+| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Regulations |
+| Art. 25 | [art-025.md](art-025.md) | 25 Powers of States as regards fees |
+| Art. 26 | [art-026.md](art-026.md) | 26 Saving of vested rights |
+| Art. 26A | [art-026-a.md](art-026-a.md) | 26A Transitional provisions |
+| Art. 27 | [art-027.md](art-027.md) | 27 Citation |
