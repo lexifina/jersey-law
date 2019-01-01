@@ -1,0 +1,1 @@
+A LAW requiring the registration of ophthalmic and dispensing opticians, to provide for the enrolment of bodies corporate carrying on business as opticians, to regulate the practice of opticians and the conduct by such bodies corporate of their business as opticians, and for purposes connected therewith
