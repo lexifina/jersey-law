@@ -1,0 +1,18 @@
+# 59A Conversion of benefits into lump sum not exceeding £30,000
+(1) A teacher, including a former teacher, may apply to the Management Board to receive a lump sum by way of exchange of the capital value of all his or her accrued benefits payable out of the Fund, provided that at the time the application is made -
+(a) the teacher has attained the age of 60;
+(b) the teacher has not commenced drawing his or her accrued benefits; and
+(c) the aggregate of the following amounts does not exceed £30,000 -
+(i) the capital value of the teacher’s accrued benefits,
+(ii) all lump sums that the teacher has previously exchanged -
+(A) under Article 131CE of the Income Tax Law, or
+(B) before 1st January 2015 under any of the previous trivial commutation provisions referred to in Article 131CE(2) of the Income Tax Law, that were in force before that date.
+(2) An exchange under paragraph (1) is not permitted where the capital value of the teacher’s accrued benefits includes any amount transferred from a scheme, trust or contract (however called and whether approved under any Article of the Income Tax Law or under the jurisdiction of a country or territory outside Jersey).
+(3) An application under paragraph (1) shall be made in such form and manner as the Management Board may specify.
+(4) The calculation of the lump sum payable under this Article shall be determined by the Management Board after consulting the Actuary.
+(5) Payment of the lump sum shall -
+(a) in the case of -
+(i) a teacher, be due on the day after the teacher ceases to be employed in reckonable service, or
+(ii) a former teacher, be made within 3 months following the date of the application under paragraph (1); and
+(b) extinguish the teacher’s rights to any other benefits payable out of the fund, as well as the rights of any person contingently entitled to any benefit payable upon that teacher’s death.
+(6) In this Article “former teacher” means a teacher who has ceased to be employed in reckonable service (other than by reason of retirement).

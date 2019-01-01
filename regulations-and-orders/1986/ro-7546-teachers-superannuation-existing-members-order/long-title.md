@@ -1,0 +1,1 @@
+THE EDUCATION, SPORT AND CULTURE COMMITTEE, in pursuance of Articles 2 and 7 of the Teachers’ Superannuation (Jersey) Law 1979, and after consultation with representatives of persons to whom the Order applies, orders as follows -
