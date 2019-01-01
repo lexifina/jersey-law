@@ -1,0 +1,1 @@
+THE HEALTH AND SOCIAL SERVICES COMMITTEE in pursuance of Articles 57 and 110 of the Medicines (Jersey) Law 1995, after consultation with the Medicines Advisory Council and having otherwise complied with Article 110 of the Law, orders as follows -
