@@ -1,0 +1,1 @@
+A LAW to make provision for facilitating the transfer between Jersey and places outside the British Islands of persons for the time being detained in prisons, hospitals or other institutions by virtue of orders made in the course of the exercise by courts and tribunals of their criminal jurisdiction and for connected purposes.
