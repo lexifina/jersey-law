@@ -1,1 +1,1 @@
-A LAW to enable Jersey to co-operate with other countries in criminal investigations and proceedings; to repeal the Drug Offences (International Co-operation) (Jersey) Law 1996; and for related purposes, sanctioned by Order of Her Majesty in Council of the
+A LAW to enable Jersey to co-operate with other countries in criminal investigations and proceedings and for related purposes
