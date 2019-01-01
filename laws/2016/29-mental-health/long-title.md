@@ -1,0 +1,1 @@
+A LAW to make provision as to the care and treatment of persons suffering mental disorder; and as to the treatment, under the criminal justice system, of offenders and other persons who may suffer mental disorder; and for connected purposes
