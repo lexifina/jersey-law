@@ -1,0 +1,2 @@
+# 34 Non-compliance with procedural requirements
+If a party fails to comply with an order made or direction given under Rule 30 or 33, the Court may, on the application of any other party to the action, make such order as it thinks just including, in particular, an order that the action be dismissed or, as the case may be, that the answer or other pleading be struck out and judgment entered accordingly, and such order for costs as may be appropriate.

@@ -1,0 +1,3 @@
+# 48 Admissions
+(1) A party to any proceedings may give notice, by his or her pleading or otherwise in writing, that he or she admits the truth of the whole or any part of the case of any other party.
+(2) Where admissions of fact are made by a party to the proceedings either by his or her pleadings or otherwise, any other party to the proceedings may apply to the Court for such judgment or order as on those admissions he or she may be entitled to, without waiting for the determination of any other question between the parties, and the Court may give such judgment or make such order on the application as it thinks just.

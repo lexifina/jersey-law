@@ -1,0 +1,4 @@
+# 20 Service of process for recovery of land where no-one appears to be in possession
+Where proceedings are brought for the cancellation of a contract of lease of or to recover the possession of land, the Court may -
+(a) if satisfied on an ex parte application that no person appears to be in possession of the land and that service cannot otherwise be carried out on any defendant, authorize service on that defendant to be carried out by affixing a copy of the process to some conspicuous part of the land;
+(b) if satisfied on such an application that no person appears to be in possession of the land and that service could not otherwise be carried out on any defendant, order that service already carried out by affixing the process to some conspicuous part of the land shall be treated as good service on that defendant.
