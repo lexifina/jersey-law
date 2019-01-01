@@ -1,0 +1,1 @@
+THE SUPERIOR NUMBER OF THE ROYAL COURT, in pursuance of Article 13 of the Royal Court (Jersey) Law 1948 and of Article 19 of the Registration of Business Names (Jersey) Law 1956, and all other powers enabling it in this behalf, has made the following Rules -
