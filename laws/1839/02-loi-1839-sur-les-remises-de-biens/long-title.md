@@ -1,0 +1,16 @@
+CONSIDERANT que la Loi sur les remises de biens entre les mains de la Justice est défectueuse, d’autant que lesdites remises sont accordées sans aucun examen préalable pour vérifier l’état présenté à la Justice, et que souvent les personnes qui ont obtenu cette indulgence refusent, au grand préjudice de leurs créanciers, de se guider par l’avis et conseil des autorisés de Justice:
+Celui qui demandera la permission de remettre son bien entre les mains de la Justice sera tenu de présenter un état détaillé de ses biens-meubles et héritages.
+Il sera tenu, si la Cour ne rejette sur-le-champ sa demande, de déclarer par serment que ledit état est juste et fidèle.
+La Cour, avant d’accorder ladite demande, nommera 2 des Jurés-Justiciers pour faire l’examen desdits biens; lesquels feront dans quinze jours un rapport à la Cour Royale de la valeur desdits biens, et donneront leur opinion s’il est utile d’accorder ladite remise.
+La Cour, après la présentation dudit rapport et avoir entendu ceux qui opposeront ladite remise, accordera ou refusera ladite permission. Cette décision sera finale et sans appel.
+Les Autorisés de Justice, avant de faire leur rapport à la Cour, pourront employer une ou plusieurs personnes compétentes -
+(a) à évaluer lesdits biens-meubles et héritages;
+(b) à réunir les créanciers et autres intéressés afin, s’il y a lieu, de les consulter sur la demande faite à la Cour de remettre lesdits biens entre les mains de la Justice,
+et autrement à les aider dans l’examen du bien se proposé d’être remis entre les mains de la Justice.
+L’Acte qui accordera la remise de biens entre les mains de la Justice contiendra, de la part de celui qui obtient ladite permission, l’autorisation aux personnes nommées par la Cour pour l’examen desdits biens de bailler, vendre, aliéner, et autrement disposer desdits biens-meubles et héritages.
+Celui qui aura obtenu la permission de remettre ses biens entre les mains de la Justice ne pourra agir que d’après le conseil et avis des personnes autorisées de Justice pour l’examen dudit bien.
+Si les biens remis entre les mains de la Justice ne sont pas suffisans pour acquitter toutes les dettes et redevances, les autorisés de Justice pourront, si les héritages sont suffisans pour acquitter les rentes et hypothèques, faire vendre lesdits biens-meubles et héritages, et, après le paiement intégral des dettes privilégiées, en partager le produit entre les autres créanciers.
+La demande de remettre ses biens entre les mains de la Justice produira en cas de décret les mêmes effets, relativement à la date des contrats et Actes de la Cour, qui sont réglés par les Articles 23 et 24 de la Loi (1832) sur les Décrets, lors d’une demande de faire cession.
+Nul Acte de la Cour obtenu dans les 10 jours avant la demande d’une remise de biens, ou d’une demande de faire cession, ne donnera aucune préférence à celui qui l’aura obtenu sur les autres créanciers, soit sur les meubles, soit sur les héritages.
+Les autorisés pourront se faire assister d’une ou plusieurs personnes compétentes dont ils régleront les honoraires dans l’arrangement du bien remis entre les mains de la Justice.
+Les frais encourus par les autorisés de la Justice pour l’examen d’un bien seront privilégiés sur toutes dettes et hypothèques; et, en cas de décret ou dégrèvement, seront payables par le tenant auxdits héritages.
