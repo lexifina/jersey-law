@@ -1,0 +1,1 @@
+A LAW to abolish the customary law right to bring an action for breach of promise of marriage, subject to a saving for such actions in respect of void marriages; to make provision, upon an agreement to marry being ended, for the return of gifts made by one of them to the other; and for connected purposes
