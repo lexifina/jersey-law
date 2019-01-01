@@ -1,0 +1,14 @@
+RÈGLEMENT modifiant la procédure devant la Cour pour le Recouvrement de menues dettes, et autorisant le recouvrement sommaire de loyer et d’effets de commerce
+CONSIDERANT que le meuble est le gage du loyer; que souvent un propriétaire de maison se voit privé de son loyer par les délais inévitables qu’entraîne une assignation devant le Juge de la Cour pour le recouvrement de Menues Dettes;
+Considérant de plus que les nécessités au commerce demandent que les porteurs de billets-à-ordre et autres effets de commerce, puissent recouvrer sommairement le montant de ces effets;
+Tout propriétaire de maison, édifice, ou terres pourra, en vertu d’un Ordre Provisoire délivré sous le seing du Juge de la Cour pour le recouvrement de Menues Dettes ou du Magistrat qui pourrait être appelé momentanément à remplir ses fonctions, faire arrêter les biens-meubles du locataire qui se trouveront sur les prémisses qu’il occupe, ou qui en auront été enlevés: pour appliquer au paiement du loyer qui sera dû, et pour assurance de paiement du loyer à écheoir - pourvu que l’entier de la demande réclamée n’excède pas la somme de £30,000.
+Lorsqu’un arrêt fait en vertu de cet Article aura été confirmé, il aura préférence sur tout autre arrêt ou demande.
+Cet arrêt pourra être effectué tant par les Officiers de Justice qui exercent ou qui exerceront devant la Cour pour le recouvrement de Menues Dettes, que par les Officiers de Justice qui exercent ou qui exerceront devant la Cour Royale.
+L’Officier de Justice ne pourra séquestrer les meubles arrêtés -excepté après confirmation de l’arrêt - que dans le cas où le Juge aurait donné une autorisation spéciale à cet effet.
+Lorsqu’il n’y aura pas de loyer dû au moment de l’arrêt, les frais seront à la charge du demandeur.
+Tout porteur de billet-à-ordre, billet payable au porteur, lettre de change ou autre effet payable à présentation, pour la somme de £30,000 et au-dessous, pourra, en cas de défaut de paiement par les débiteurs après échéance, faire arrêter les biens-meubles ou faire saisir la personne de tels débiteurs, tireurs, endosseurs, et signataires desdits effets, et procéder vers eux sommairement: pour les obliger au paiement, ou à fournir caution du paiement de leurs soussignés. Toutefois, la saisie de la personne ne sera permise qu’à l’égard des étrangers ou personnes expatriables.
+Dans les cas prévus par l’Article 5, l’Officier devra suivre la procédure indiquée dans l’Article 1 de cette Loi, ainsi que les dispositions de l’Article 4 de la Loi (1862) sur les saises en vertu d’ordres provisoires.
+La présente Loi n’affecte pas ce qui est réglé par la Loi établissant ladite Cour, dans les cas de désastre.
+Toute matière en ce qui concerne les frais est régie par -
+(a) l’Article 13 de la Loi dite “Royal Court (Jersey) Law 1948”; et
+(b) l’Article 3 de la Loi dite “Civil Proceedings (Jersey) Law 1956”.
