@@ -1,75 +1,74 @@
 # Loi (1880) sur la propriété foncière
 
-L.1/1880 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-01-1880.aspx>
+L.1/1880 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_1880_20260611>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| art-001 | [art-001.md](art-001.md) | 1 DEFINITIONS |
-| art-002 | [art-002.md](art-002.md) | 2 |
-| art-003 | [art-003.md](art-003.md) | 3 |
-| art-004 | [art-004.md](art-004.md) | 4 |
-| art-005 | [art-005.md](art-005.md) | 5 |
-| art-006 | [art-006.md](art-006.md) | 6 |
-| art-007 | [art-007.md](art-007.md) | 7 |
-| art-008 | [art-008.md](art-008.md) | 8 |
-| art-009 | [art-009.md](art-009.md) | 9 |
-| art-010 | [art-010.md](art-010.md) | 10 |
-| art-011 | [art-011.md](art-011.md) | 11 |
-| art-012 | [art-012.md](art-012.md) | 12 |
-| art-013 | [art-013.md](art-013.md) | 13 |
-| art-014 | [art-014.md](art-014.md) | 14 |
-| art-015 | [art-015.md](art-015.md) | 15 |
-| art-016 | [art-016.md](art-016.md) | 16 |
-| art-017 | [art-017.md](art-017.md) | 17 |
-| art-018 | [art-018.md](art-018.md) | 18 |
-| art-019 | [art-019.md](art-019.md) | 19 |
-| art-020 | [art-020.md](art-020.md) | 20 |
-| art-021 | [art-021.md](art-021.md) | 21 |
-| art-022 | [art-022.md](art-022.md) | 22 |
-| art-023 | [art-023.md](art-023.md) | 23 |
-| art-024 | [art-024.md](art-024.md) | 24 |
-| art-025 | [art-025.md](art-025.md) | 25 |
-| art-026 | [art-026.md](art-026.md) | 26 |
-| art-027 | [art-027.md](art-027.md) | 27 |
-| art-028 | [art-028.md](art-028.md) | 28 |
-| art-030 | [art-030.md](art-030.md) | 30 |
-| art-031 | [art-031.md](art-031.md) | 31 |
-| art-032 | [art-032.md](art-032.md) | 32 |
-| art-033 | [art-033.md](art-033.md) | 33 |
-| art-034 | [art-034.md](art-034.md) | 34 |
-| art-035 | [art-035.md](art-035.md) | 35 |
-| art-036 | [art-036.md](art-036.md) | 36 |
-| art-037 | [art-037.md](art-037.md) | 37 |
-| art-038 | [art-038.md](art-038.md) | 38 |
-| art-039 | [art-039.md](art-039.md) | 39 |
-| art-041 | [art-041.md](art-041.md) | 41 |
-| art-042 | [art-042.md](art-042.md) | 42 |
-| art-043 | [art-043.md](art-043.md) | 43 |
-| art-044 | [art-044.md](art-044.md) | 44 |
-| art-045 | [art-045.md](art-045.md) | 45 |
-| art-046 | [art-046.md](art-046.md) | 46 |
-| art-047 | [art-047.md](art-047.md) | 47 |
-| art-048 | [art-048.md](art-048.md) | 48 |
-| art-049 | [art-049.md](art-049.md) | 49 |
-| art-050 | [art-050.md](art-050.md) | 50 |
-| art-051 | [art-051.md](art-051.md) | 51 |
-| art-052 | [art-052.md](art-052.md) | 52 |
-| art-053 | [art-053.md](art-053.md) | 53 |
-| art-054 | [art-054.md](art-054.md) | 54 |
-| art-091 | [art-091.md](art-091.md) | 91 |
-| art-092 | [art-092.md](art-092.md) | 92 |
-| art-093 | [art-093.md](art-093.md) | 93 |
-| art-094 | [art-094.md](art-094.md) | 94 |
-| art-095 | [art-095.md](art-095.md) | 95 |
-| art-096 | [art-096.md](art-096.md) | 96 |
-| art-097 | [art-097.md](art-097.md) | 97 |
-| art-098 | [art-098.md](art-098.md) | 98 |
-| art-099 | [art-099.md](art-099.md) | 99 |
-| art-100 | [art-100.md](art-100.md) | 100 |
-| art-101 | [art-101.md](art-101.md) | 101 |
-| art-102 | [art-102.md](art-102.md) | 102 |
-| art-103 | [art-103.md](art-103.md) | 103 |
-| art-104 | [art-104.md](art-104.md) | 104 |
-| art-105 | [art-105.md](art-105.md) | 105 |
-| art-106 | [art-106.md](art-106.md) | 106 |
-| art-107 | [art-107.md](art-107.md) | 107 |
+| Long title | [long-title.md](long-title.md) | LOI sur la propriété foncière |
+| Art. 1 | [art-001.md](art-001.md) | 1 ‎ |
+| Art. 2 | [art-002.md](art-002.md) | 2 ‎ |
+| Art. 3 | [art-003.md](art-003.md) | 3 ‎ |
+| Art. 4 | [art-004.md](art-004.md) | 4 ‎ |
+| Art. 5 | [art-005.md](art-005.md) | 5 ‎ |
+| Art. 6 | [art-006.md](art-006.md) | 6 ‎ |
+| Art. 7 | [art-007.md](art-007.md) | 7 ‎ |
+| Art. 8 | [art-008.md](art-008.md) | 8 ‎ |
+| Art. 9 | [art-009.md](art-009.md) | 9 ‎ |
+| Art. 10 | [art-010.md](art-010.md) | 10 ‎ |
+| Art. 11 | [art-011.md](art-011.md) | 11 ‎ |
+| Art. 13 | [art-013.md](art-013.md) | 13 ‎ |
+| Art. 15 | [art-015.md](art-015.md) | 15 ‎ |
+| Art. 17 | [art-017.md](art-017.md) | 17 ‎ |
+| Art. 18 | [art-018.md](art-018.md) | 18 ‎ |
+| Art. 19 | [art-019.md](art-019.md) | 19 ‎ |
+| Art. 20 | [art-020.md](art-020.md) | 20 ‎ |
+| Art. 21 | [art-021.md](art-021.md) | 21 ‎ |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A ‎ |
+| Art. 22 | [art-022.md](art-022.md) | 22 ‎ |
+| Art. 23 | [art-023.md](art-023.md) | 23 ‎ |
+| Art. 25 | [art-025.md](art-025.md) | 25 ‎ |
+| Art. 26 | [art-026.md](art-026.md) | 26 ‎ |
+| Art. 27 | [art-027.md](art-027.md) | 27 ‎ |
+| Art. 28 | [art-028.md](art-028.md) | 28 ‎ |
+| Art. 29 | [art-029.md](art-029.md) | 29 ‎ |
+| Art. 30 | [art-030.md](art-030.md) | 30 ‎ |
+| Art. 31 | [art-031.md](art-031.md) | 31 ‎ |
+| Art. 32 | [art-032.md](art-032.md) | 32 ‎ |
+| Art. 33 | [art-033.md](art-033.md) | 33 ‎ |
+| Art. 34 | [art-034.md](art-034.md) | 34 ‎ |
+| Art. 35 | [art-035.md](art-035.md) | 35 ‎ |
+| Art. 36 | [art-036.md](art-036.md) | 36 ‎ |
+| Art. 37 | [art-037.md](art-037.md) | 37 ‎ |
+| Art. 38 | [art-038.md](art-038.md) | 38 ‎ |
+| Art. 39 | [art-039.md](art-039.md) | 39 ‎ |
+| Art. 40 | [art-040.md](art-040.md) | 40 ‎ |
+| Art. 41 | [art-041.md](art-041.md) | 41 ‎ |
+| Art. 42 | [art-042.md](art-042.md) | 42 ‎ |
+| Art. 43 | [art-043.md](art-043.md) | 43 ‎ |
+| Art. 44 | [art-044.md](art-044.md) | 44 ‎ |
+| Art. 45 | [art-045.md](art-045.md) | 45 ‎ |
+| Art. 46 | [art-046.md](art-046.md) | 46 ‎ |
+| Art. 47 | [art-047.md](art-047.md) | 47 ‎ |
+| Art. 48 | [art-048.md](art-048.md) | 48 ‎ |
+| Art. 49 | [art-049.md](art-049.md) | 49 ‎ |
+| Art. 50 | [art-050.md](art-050.md) | 50 ‎ |
+| Art. 51 | [art-051.md](art-051.md) | 51 ‎ |
+| Art. 53 | [art-053.md](art-053.md) | 53 ‎ |
+| Art. 54 | [art-054.md](art-054.md) | 54 ‎ |
+| Art. 91 | [art-091.md](art-091.md) | 91 ‎ |
+| Art. 92 | [art-092.md](art-092.md) | 92 ‎ |
+| Art. 93 | [art-093.md](art-093.md) | 93 ‎ |
+| Art. 94 | [art-094.md](art-094.md) | 94 ‎ |
+| Art. 95 | [art-095.md](art-095.md) | 95 ‎ |
+| Art. 96 | [art-096.md](art-096.md) | 96 ‎ |
+| Art. 97 | [art-097.md](art-097.md) | 97 ‎ |
+| Art. 98 | [art-098.md](art-098.md) | 98 ‎ |
+| Art. 99 | [art-099.md](art-099.md) | 99 ‎ |
+| Art. 100 | [art-100.md](art-100.md) | 100 ‎ |
+| Art. 101 | [art-101.md](art-101.md) | 101 ‎ |
+| Art. 102 | [art-102.md](art-102.md) | 102 ‎ |
+| Art. 103 | [art-103.md](art-103.md) | 103 ‎ |
+| Art. 104 | [art-104.md](art-104.md) | 104 ‎ |
+| Art. 105 | [art-105.md](art-105.md) | 105 ‎ |
+| Art. 106 | [art-106.md](art-106.md) | 106 ‎ |
+| Art. 107 | [art-107.md](art-107.md) | 107 ‎ |
