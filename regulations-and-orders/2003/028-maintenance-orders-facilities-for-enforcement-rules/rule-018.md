@@ -1,0 +1,2 @@
+# 18 Notice of application under Article 27(4)(b)
+Notice under Article 27(4)(b) of the Law of an application for the variation or revocation of an order under Part 3 of the Law shall be in the form set out in Schedule 4 and shall be sent by post not less than 6 weeks before the date of the hearing of the application to the Lieutenant-Governor for transmission to the appropriate authority in the convention country in which the defendant to the application is residing.

@@ -1,0 +1,2 @@
+# 27 Recovery of sums in arrear under Part 4
+Where it appears to the Viscount that any sums payable under an order registered under Part 4 of the Law are in arrear the Viscount may, and if such sums are in arrear to any amount equal to 4 times the sum payable weekly under the order, the Viscount shall proceed in his or her own name for the recovery of those sums, unless it appears to the Viscount that it is unreasonable in the circumstances to do so.

@@ -1,0 +1,6 @@
+# 10 Notice of variation, revocation or confirmation of order or setting aside of registration
+(1) Where under Article 6 of the Law a court makes an order (not being a provisional order) varying or revoking an order to which that Article applies, the Greffier shall send to any court in a Commonwealth country in which to the Greffier’s knowledge the original order is registered or by which it was confirmed, written notice of the variation or revocation.
+(2) Where under Article 9 of the Law a court sets aside the registration of an order, the Greffier shall send written notice of that action to the Lieutenant-Governor.
+(3) Where under Article 10(7) of the Law a court confirms a provisional order, the Greffier shall send written notice of the confirmation and of any alteration made in the provisional order to the court which made the provisional order.
+(4) Where under Article 12 of the Law a court makes an order, not being a provisional order, varying or revoking an order to which that Article applies, the Greffier shall send written notice of the variation or revocation to the court which made the order.
+(5) Where under Article 13(2) of the Law a court confirms a provisional order, the Greffier shall send written notice of the confirmation and of any alteration made in the provisional order to the court which made the provisional order.
