@@ -1,0 +1,1 @@
+A LAW to provide for the implementation in Jersey of the United Nations Convention Against Transnational Organised Crime adopted by the General Assembly of the United Nations on 15 November 2000, the Protocol thereto to Prevent, Suppress and Punish Trafficking in Persons and the Protocol thereto Against Smuggling of Migrants; and for related purposes.
