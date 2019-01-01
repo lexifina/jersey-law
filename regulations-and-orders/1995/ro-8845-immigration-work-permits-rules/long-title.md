@@ -1,0 +1,1 @@
+THE HOME AFFAIRS COMMITTEE, in exercise of the powers conferred by section 1(4) of the Immigration Act 1971 of the United Kingdom, as extended to Jersey by the Immigration (Jersey) Order 1993, makes the following Rules
