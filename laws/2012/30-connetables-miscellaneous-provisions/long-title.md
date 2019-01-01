@@ -1,0 +1,1 @@
+A LAW to repeal the policing functions of the Connétables, to empower a Procureur du Bien Public to deputise for a Connétable in certain circumstances, to remove certain other functions from the Connétables and to make ancillary and consequential amendments.
