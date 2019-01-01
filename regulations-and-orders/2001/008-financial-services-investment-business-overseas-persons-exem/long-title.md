@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Article 7(2)(a)(ii) and (b) of the Financial Services (Jersey) Law 1998, and on the recommendation of the Jersey Financial Services Commission orders as follows -
