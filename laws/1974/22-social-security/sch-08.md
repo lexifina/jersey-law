@@ -1,0 +1,5 @@
+# SCHEDULE 3
+(Article 49)
+OATHS OF OFFICE
+Form of oath to be taken by the Controller.
+You swear and promise before God that you will well and faithfully discharge the duties of Controller of Social Security in accordance with the laws relating to social security; that you will conduct yourself without hatred, favour or partiality; that you will exercise the powers entrusted to you by the said laws in such manner only as shall appear to you to be necessary for the due execution of the same; and that you will not disclose any information which may come to your knowledge in the performance of your duties except to such persons only as shall act in execution of the said laws and where it shall be necessary to disclose the same to them for the purposes of the said laws, or in so far as you may be required to disclose the same for the purposes or in the course of a prosecution for an offence against the said laws, or in such cases as you are expressly authorized by the said laws to disclose the same.

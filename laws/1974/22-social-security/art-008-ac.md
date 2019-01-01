@@ -1,0 +1,6 @@
+# 8AC Method of paying sub-contractor’s LTC contributions
+(1) A building contractor who is liable, under Article 41E of the 1961 Law, to deduct tax from payments made to a sub-contractor who is an insured person or to a person nominated by the sub-contractor for the purpose shall also be liable to pay instalments of the sub-contractor’s LTC contribution on behalf of the sub-contractor in accordance with Schedule 1D and Article 41E as modified by Article 49B of that Law.
+(2) For the purposes of this Law, contributions paid by the building contractor on behalf of a sub-contractor under this Article shall be deemed to be LTC contributions paid by that sub-contractor.
+(3) A building contractor shall be entitled, subject to and in accordance with Schedule 1D, to recover from a sub-contractor, or from a person nominated by the sub-contractor to receive payments for the sub-contractor, the amount of any LTC contribution paid or to be paid by the building contractor on behalf of the sub-contractor.
+(4) The liability to pay instalments under this Article commences on 1st January 2015.
+(5) In this Article, “building contractor” and “sub-contractor” have the same meaning as in Article A15 of the 1961 Law.

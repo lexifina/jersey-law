@@ -1,49 +1,37 @@
-# SECOND SCHEDULE
-(Article 14)
-CONTRIBUTION CONDITIONS
-Sickness benefit
-1.-(1) The contribution conditions for sickness benefit are that -
-(a) the claimant has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is less than 0.25; and
-(b) the claimant has been paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00.
-(2) In this paragraph the expression “relevant quarter” means the previous quarter but one before the quarter in which the entitlement to sickness benefit first arises.
-Invalidity benefit
-2.-(1) The contribution conditions for invalidity benefit are that -
-(a) the claimant has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.5; and
-(b) the claimant has paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00.
-(2) In this paragraph the expression “relevant quarter” means the previous quarter but one before the quarter in which entitlement to invalidity benefit first arises.
-Accident benefit
-3.-(1) The contribution conditions for accident benefit are that either -
-(a) a contribution was payable by or in respect of the claimant in respect of the contribution month in which the relevant accident occurred; or
-(b) (i) the claimant has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25; and
-(ii) the claimant has either paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is not less than 0.33.
-(2) In this paragraph the expression “relevant quarter” means the previous quarter but one before the quarter in which the relevant accident occurs.
-Maternity allowance
-4.-(1) The contribution conditions for maternity allowance are that -
-(a) the claimant has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25; and
-(b) the claimant has paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00.
-(2) In this paragraph the expression “relevant quarter” means the previous quarter but one before the quarter in which the beginning of the maternity allowance period falls.
-Maternity grant
-5.-(1) The contribution conditions for maternity grant are that -
-(a) the relevant person has paid contributions prior to the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25; and
-(b) the relevant person has paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is not less than 0.33.
-(2) In this paragraph -
-(a) the expression “relevant person” means the person by whom the conditions are to be satisfied;
-(b) the expression “relevant quarter” means the previous quarter but one before the quarter in which the confinement takes place or, where the relevant person is the husband and he was dead or over pensionable age on that date, the date of his attaining pensionable age or dying under that age.
-Widow’s benefit and old age pension
-6.-(1) The contribution conditions for widow’s benefit or old age pension are that -
-(a) the relevant person has paid contributions before the relevant time and the annual contribution factor derived from those contributions is not less than 0.5; and
-(b) the life average contribution factor derived from the contributions paid by or credited to that person (as at the relevant time) is 1.00:
-Provided that where the death of the relevant person has resulted from an accident happening within the Bailiwick, the contribution conditions shall be that either -
-(i) the relevant person satisfied the contributions set out in sub-paragraphs (a) and (b) of this paragraph; or
-(ii) the relevant person satisfied the contribution conditions for accident benefit set out in sub-paragraph (a) or (b) of paragraph 3 of this Schedule.
-(2) In this paragraph -
-(a) the expression “relevant person” means the person by whom the conditions are to be satisfied;
-(b) the expression “relevant time” means the date of the relevant person attaining pensionable age or dying under that age.
-Death grant
-7.-(1) The contribution conditions for a death grant are that -
-(a) a contribution was payable by the relevant person in respect of the contribution month in which the death occurred; or
-(b) (i) the relevant person has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25; and
-(ii) the relevant person has been paid or been credited with contributions in respect of the relevant quarter and the relevant quarterly contribution factor derived from those contributions is not more than 0.33.
-(2) In this paragraph -
-(a) the expression “relevant person” means the person by whom the conditions are to be satisfied;
-(b) the expression “relevant quarter” means the previous quarter but one before the quarter in which the death occurred or, where immediately before the date of the deceased’s death the relevant person was dead or over pensionable age, the previous quarter but one before the quarter in which that person attained pensionable age or died under that age.
+# SCHEDULE 1A
+(Articles 5(4), 9 and 30(3))
+class 1 factors and contribution rates
+1 Class 1 - earnings
+For the purposes of determining the amount of Class 1 contributions payable in respect of a Class 1 insured person, and subject to any Order made under Article 1(5) or 11, the earnings of a Class 1 insured person include any sums payable to the person (whether under a contract of service or any other office, employment or arrangement whereby the person is rewarded for work done or services rendered) by way of wages, salary, fees, bonuses, commission, overtime pay or any other emolument including the value of any loan, perquisite or any other benefit in kind.
+2 Class 1 - monthly earnings limits
+(1) For the purposes of this Law, subject to sub-paragraphs (2) and (3) -
+(a) the lower monthly earnings limit for Class 1 contributions is £776;
+(b) the standard monthly earnings limit for Class 1 contributions is £3,686;
+(c) the upper monthly earnings limit for Class 1 contributions is £12,500.
+(2) On the 1st January in 2012 and every subsequent year, the limits in sub-paragraph (1)(a) and (b) shall each be increased or decreased, as the case requires, by the percentage figure equal to the percentage rise or fall in the Jersey Index of Earnings during the 12 months ending on 30th June in the preceding year.
+(3) On the 1st January in 2013 and every subsequent year, the limit in sub-paragraph (1)(c) shall be increased or decreased, as the case requires, by the percentage figure equal to the percentage rise or fall in the Jersey Index of Earnings during the 12 months ending on 30th June in the preceding year.
+3 Class 1 - monthly contributions
+(1) The amount of an employed person’s primary Class 1 contributions in respect of the monthly earnings of an employment is the aggregate of the following amounts -
+(a) 0.8% of the person’s earnings that do not exceed the standard monthly earnings limit, which amount shall be allocated to the Health Insurance Fund; and
+(b) 5.2% of the person’s earnings that do not exceed the standard monthly earnings limit.
+(2) The amount of an employer’s secondary Class 1 contributions in respect of the monthly earnings of an employee is the aggregate of the following amounts -
+(a) 1.2% of the employee’s earnings that do not exceed the standard monthly earnings limit, which amount shall be allocated to the Health Insurance Fund;
+(b) 5.3% of the employee’s earnings that do not exceed the standard monthly earnings limit; and
+(c) 2% of the employee’s earnings that exceed the standard monthly earnings limit but do not exceed the upper monthly earnings limit.
+3A Class 1 - standard contribution
+The standard contribution for a month is, in the case of a Class 1 insured person, the sum of -
+(a) the maximum amount payable under paragraph 3(1)(b) for the month; and
+(b) the maximum amount payable under paragraph 3(2)(b) for the month.
+4 Class 1 - supplementation
+(1) Where -
+(a) contributions have been paid in respect of a Class 1 insured person for a month; and
+(b) the sum of the social security contributions paid and credited in respect of the Class 1 insured person for the month exceed the contribution threshold but are less than the standard contribution,
+the social security contributions shall be supplemented for the month by an amount sufficient to cause those contributions in respect of the person for the month to equal the standard contribution.
+(2) No supplementation shall be awarded in respect of -
+(a) secondary Class 1 contributions alone; or
+(b) social security contributions paid and credited in respect of a person which exceed the contribution threshold but are less than the standard contribution but which would not have been less than the standard contribution had contribution liability been discharged in full.
+(3) For the purposes of this paragraph -
+(a) the contribution threshold is the sum of -
+(i) 5.2% of the lower monthly earnings limit, and
+(ii) 5.3% of the lower monthly earnings limit;
+(b) “social security contributions” means so much of the contributions paid or credited in respect of a Class 1 insured person as are to be paid into the Social Security Fund.

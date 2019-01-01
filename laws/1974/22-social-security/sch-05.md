@@ -1,34 +1,79 @@
-# FIFTH SCHEDULE
-(Article 53)
-AMENDMENT OF HEALTH INSURANCE (JERSEY) LAW, 1967
-1. In paragraph (1) of Article 1 -
-(a) the definition of “contribution week”, “employed contributor’s employment”, “employer’s contribution”, “employed person”, “employment”, “the Health Insurance Tribunal”, “the Insular Insurance Law”, “insurance stamps”, non-employed person”, and “self-employed person” are hereby repealed;
-(b) for the definition of “compulsory insurance age” there shall be substituted the following definition -
-“ ‘compulsory insurance age’ means the age of sixty five;”
-(c) for the definition of “the Family Allowances Law” there shall be substituted the following definition -
-“ ‘the Family Allowance Law’ means the Family Allowances (Jersey) Law, 1972;”
-(d) after the definition of “prescribed” there shall be inserted the following definitions -
-“ ‘the Social Security Law’ means the Social Security (Jersey) Law, 1974; and
-‘the Social Security Tribunal’ means the tribunal constituted and so called by virtue of the Fourth Schedule to the Social Security Law.”
-2. Sub-paragraph (d) of paragraph (3), and paragraph (4) of Article 1 are hereby repealed.
-3. For Article 4 there shall be substituted the following Article -
-“ARTICLE 4
-CHILD OF THE FAMILY
-For the purposes of this Law -
-(a) ‘child’ means a person under the age of sixteen years, and a person who, by virtue of an order made under paragraph (1) of Article 10 of the Social Security Law, is expected from liability to pay contributions under that Law on the ground that he is a person in full time education;
-(b) a person shall be deemed to have a family which includes a child or children if that person, (not being a child) and a child or children (with or without a wife or husband of that person) would be treated for the purposes of the Family Allowances Law and is constituting a family, and references to a child of a person’s family shall be construed accordingly.”
-4. Articles 6, 7, 8, 9, 10, 11, 12, 13, 14 and 47, and the First and Fourth Schedules are hereby repealed.
-5. In Article 17 -
-(a) in paragraph (1), for the words “thirteen contribution weeks” there shall be substituted the words “three months”;
-(b) in paragraph (1A), for the words “thirteen contribution weeks” and “twenty-six contribution weeks” there shall be substituted the words “three months” and “six months” respectively;
-(c) sub-paragraph (b) of paragraph (2) is hereby repealed.
-6. In Article 19, for the words “Insular Insurance Fund” and “Insular Insurance Law” there shall be substituted the words “Social Security Fund” and “Social Security Law” respectively.
-7. For paragraph (1) of Article 30 there shall be substituted the following paragraph -
-“(1) For the purposes of this Law, there shall be established, under the control and management of the Committee, a fund called “the Health Insurance Fund” into which shall be paid the Health Insurance Fund Allocations specified in Article 30 of the Social Security Law and such other sums as the States may determine, and out of which shall be paid all claims for money benefit and all sums payable in respect of pharmaceutical benefit provided under this Law, and all expenses incurred by the Committee in carrying this Law into effect.”
-8. In Article 37 -
-(a) for the words “Health Insurance Tribunal”, wherever they appear, there shall be substituted the words “Social Security Tribunal”;
-(b) sub-paragraph (a) of paragraph (2), paragraph (3), and sub-paragraph (b) of paragraph (8) are hereby repealed;
-(c) in paragraph (8), the words “(3) or” and “the Insular Insurance Law or” shall be deleted.
-9. In this Article 38, for the words “Health Insurance Tribunal”, wherever they appear, there shall be substituted the words “Social Security Tribunal”.
-10. In paragraph (2) of Article 39, the words “whether contributions are or have been payable, or have been duly paid, by or in respect of any person, or” shall be deleted.
-11. In Article 44, sub-paragraphs (a), (b), (c), (d), (e) and (f) of paragraph (1), and paragraphs (4) and (5) are hereby repealed.
+# SCHEDULE 1D
+(Articles 8AA(3), 8AB(1) and (3), 8AC(1) and 8AC(3))
+collection of ltc contributions
+1 Interpretation of Schedule 1D
+In this Schedule -
+“building contractor” has the same meaning as in Article A15 of the 1961 Law;
+“Comptroller” means the person appointed under Article 6 of the 1961 Law;
+“earnings” has the meaning given in Article A15 of the 1961 Law;
+“employee” has the meaning given in Article A15 of the 1961 Law;
+“employer” shall be construed having regard to the definition “employee” and in accordance with Article A15(6) and (7) of the 1961 Law;
+“new taxpayer” means a person to whom Article 41H of the 1961 Law applies;
+“sub-contractor” has the same meaning as in Article A15 of the 1961 Law;
+“tax” means income tax;
+“taxable income” has the same meaning as in paragraph 1 of Schedule 1C.
+2 Date by which LTC contribution must be paid
+(1) The Comptroller, when serving a notice of an assessment of tax on an insured person under the 1961 Law may, at the same time, serve notice of the amount of the LTC contribution that the person is liable to pay for a year or an estimate of that amount.
+(2) Subject to paragraph 3 and to Articles 8AB(1) and 8AC(1), an LTC contribution or an estimate of an LTC contribution notified under sub-paragraph (1) is due and payable on the same day as the tax contained in the assessment.
+(3) A notice of the amount of the LTC contribution that a person is liable to pay or an estimate of the person’s LTC contribution, served under sub-paragraph (1), shall be deemed to be a demand for payment.
+2A Estimate of LTC contribution
+(1) An estimate of the amount of a person’s LTC contribution for a year (the “payment year”) shall be calculated in accordance with this paragraph.
+(2) Schedule 1C shall apply as if references in it to -
+(a) the upper annual income limit; and
+(b) subject to sub-paragraph (6), the person’s gross income and taxable income, and the person’s entitlement to a reduction under Article 92C of the 1961 Law,
+were references to those amounts or that entitlement -
+(i) for the purposes described in sub-paragraph (3) - for the year preceding the payment year;
+(ii) for the purposes described in sub-paragraph (4) - for the year that is 2 years before the payment year;
+(iii) for the purposes described in sub-paragraph (5) - for the payment year.
+(3) The purposes referred to in sub-paragraph (2)(i) are -
+(a) serving a notice under paragraph 2 of an estimate of the amount of the LTC contribution of a person who is not a new taxpayer;
+(b) calculating the LTC contribution effective rate of a person who is not a new taxpayer and whose ITIS effective rate is calculated under Article 41C(2) of the 1961 Law;
+(c) calculating the LTC contribution effective rate of a new taxpayer whose ITIS effective rate is calculated under Article 41C(5) of the 1961 Law.
+(4) The purposes referred to in sub-paragraph (2)(ii) are -
+(a) calculating an estimate of the amount of a person’s LTC contribution for the purposes of Article 41A of the 1961 Law as modified by Article 49B of that Law;
+(b) calculating the LTC contribution effective rate of a person who is not a new taxpayer and whose ITIS effective rate is calculated under Article 41C(5) of the 1961 Law.
+(5) The purposes referred to in sub-paragraph (2)(iii) are -
+(a) serving a notice under paragraph 2 of an estimate of the amount of the LTC contribution of a new taxpayer;
+(b) calculating the LTC contribution effective rate of a new taxpayer whose ITIS effective rate is calculated under Article 41C(2) of the 1961 Law as modified by Article 41H of that Law.
+(6) Where the calculation is to be made for the purpose of calculating a person’s LTC contribution effective rate, in the case of a person whose ITIS effective rate is calculated by reference to his or her estimated liability to income tax for a year, the amounts referred to in sub-paragraph (2)(b) shall also be estimates.
+3 Duty of insured person to pay instalment of LTC contribution
+An insured person who is liable to pay an instalment of tax for a year of assessment, in accordance with Article 41A of the 1961 Law, is also liable to pay an instalment of his or her LTC contribution for the year in which the instalment is due, at the same time and in the same manner as the instalment of tax, in accordance with Article 41A of the 1961 Law as modified by Article 49B(2) of the 1961 Law.
+4 LTC contribution effective rate
+(1) In this paragraph, “payment year” and “the year of assessment” have the same meaning as in Article 41C(1) of the 1961 Law.
+(2) The LTC contribution effective rate applicable in an employee’s case shall be determined in accordance with the following formula -
+L x 100 = LTC contribution effective rate
+I
+Where -
+L is the sum of -
+(a) the employee’s estimated LTC contribution for the payment year, calculated in accordance with paragraph 2A; and
+(b) an amount not exceeding the aggregate of any LTC contributions unpaid for any preceding years; and
+I has the same value as in Article 41C(2) of the 1961 Law or, as the employee’s case requires, Article 41C(2) as modified by paragraph (5) of that Article or Article 41H(10).
+(3)
+(4)
+(5) Where an employee makes an election under Article 41C(8) of the 1961 Law, the Comptroller shall calculate an LTC contribution effective rate that exceeds the rate that would otherwise apply in the employee’s case, in accordance with the foregoing provisions of this paragraph, by an amount that corresponds to the amount by which the rate of tax notified under Article 41C(8)(b) of the 1961 Law exceeds the rate that would otherwise apply in the employee’s case.
+(6) If, on an appeal by an employee against the effective rate of tax applicable in his or her case, that rate is revised, the Comptroller -
+(a) shall correspondingly revise the LTC contribution effective rate applicable in the employee’s case; and
+(b) in accordance with Article 41C(7) of the 1961 Law, shall calculate a revised combined effective rate applicable in the employee’s case.
+4A Surcharge for late payment of LTC contribution
+(1) In this paragraph, “specified time” means 6 p.m. on the Friday following the first Monday in December in a year.
+(2) An insured person who is liable to pay an LTC contribution for a year shall be liable to pay an amount in addition to that contribution (hereafter referred to as the “LTC surcharge”) equal to 10% of so much of the LTC contribution for the year which remains unpaid, if the LTC contribution for the year is not paid in full by the specified time.
+(3) A person shall not be liable to pay the LTC surcharge if -
+(a) the Comptroller has, under Article 41I(2) of the 1961 Law, waived the person’s payment of the tax surcharge due; or
+(b) the person is not, by virtue of Article 41I(3) of the 1961 Law, liable to pay the tax surcharge.
+(4) If, on an appeal under Article 41I(7) of the 1961 Law, the Commissioners direct that a person’s liability under Article 41I(2) shall be waived, the person’s liability to the LTC surcharge shall be taken to have been waived.
+(5) In this paragraph “tax surcharge” means a surcharge that a person is liable to pay under Article 41I of the 1961 Law.
+5 Consequences of appeal against assessment to tax
+(1) Where an insured person appeals against any assessment on him or her made by the Comptroller of Taxes in any first or additional assessment -
+(a) the insured person, when estimating his or tax in accordance with Article 28(2) of the 1961 Law, shall also estimate his or her LTC contribution that will become payable consequentially on the determination of the appeal;
+(b) pending the person’s appeal against his or her assessment to income tax, the LTC contribution estimated in accordance with clause (a) shall be due and payable at the same time as his or her tax estimated in accordance with Article 28(2) of the 1961 Law and due and payable as described in paragraph (3) of that Article; and
+(c) where, on determination of the appeal, a balance of tax chargeable must be paid in respect of a portion of the insured person’s income, the balance of any corresponding LTC contribution payable in respect of that portion of the insured person’s income is also due, and must be paid at the same time and in the same manner as the balance of tax.
+(2) Where -
+(a) an insured person appeals against a notice of assessment served under Article 25 of the 1961 Law or against a determination by the Commissioners under Article 36 of the Law; and
+(b) on determination of the appeal, a balance of tax overpaid is required to be repaid,
+the corresponding balance of any LTC contribution that has been overpaid must be repaid at the same time and in the same manner.
+(3) Where, on an appeal under Article 36 of the 1961 Law, any balance of tax is to be paid or repaid, the corresponding balance of any LTC contribution that has been underpaid or overpaid must be paid or, as the case requires, repaid, at the same time and in the same manner.
+6 Consequences of error in or adjustment of assessment to tax
+(1) Where, in the circumstances described in Article 37 or 38 of the 1961 Law, a repayment of tax is due to an insured person, any corresponding overpayment of the insured person’s LTC contribution shall also be due and repaid at the same time, and in the same manner, as the repayment of tax.
+(2) Where an insured person is repaid an amount formerly paid for tax for a year of assessment under Part 13 of the 1961 Law, the person shall also be repaid any corresponding amount of LTC contribution that was aggregated with and paid by the person together with the amount formerly paid for tax.
+7 Age determination
+If a person, by reason of attaining an age during the course of a month, becomes liable for contributions or different amounts of contribution, the Social Security Department shall determine whether any such contribution is payable in respect of that month either by treating the person as having attained that age at the beginning of the month or as not having attained that age until the end of the month.
