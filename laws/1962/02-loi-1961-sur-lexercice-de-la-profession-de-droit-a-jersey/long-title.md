@@ -1,0 +1,10 @@
+LOI pour règler l’exercice de la profession de droit à Jersey
+Dans la présente Loi, les mots “personne diplômée” désignent le Procureur Général, l’Avocat Général, un Avocat du Barreau ou un Écrivain de la Cour Royale, et les mots “personne non diplômée” désignent une personne autre qu’une personne diplômée.
+(1) Toute personne non diplômée qui signera une bille ou instituera de quelque manière que ce soit une action devant les Cours de cette Ile sera coupable d’une contravention à la présente Loi:
+Cependant les dispositions de cet alinéa ne s’appliqueront pas à l’acteur même.
+(2) Toute personne non diplômée qui présentera au Chef Magistrat un contrat entre particuliers, une procuration ou une administratelle, sera coupable d’une contravention à la présente Loi.
+Toute personne non diplômée qui volontairement se fait passer pour une personne possédant des qualités qui la rend apte à intenter un procès ou à donner des conseils au sujet des lois et coutumes de cette Ile ou qui fait usage d’un nom, titre, mention de titre ou qualités ou désignation emportant qu’elle possède de telles qualités sera coupable d’une contravention à la présente Loi.
+Tout Avocat du Barreau ou Écrivain de la Cour Royale qui volontairement prête son concours à une personne non diplômée à l’effet de la soustraire aux prescriptions de la présente Loi sera coupable d’une contravention à la présente Loi.
+Les contrevenants à la présente Loi seront poursuivis d’office par le Procureur-Général par devant le Nombre Inférieur de la Cour Royale et seront passibles d’une amende pour chaque contravention et, dans le cas d’une contravention à l’Article 4, la Cour pourra suspendre le contrevenant de ses fonctions pour telle période qu’elle jugera à propos.
+La présente Loi ne déroge en rien à toute autre Loi conférant à une personne non diplômée le pouvoir de plaider ou de défendre une cause ou autrement d’agir relativement aux procès.
+La présente Loi pourra être citée sous le titre de Loi (1961) sur l’exercice de la profession de droit à Jersey.
