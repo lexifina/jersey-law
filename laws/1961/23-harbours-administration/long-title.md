@@ -1,1 +1,1 @@
-A LAW to revise the Law with regard to the policing, control and administration of the harbours of the Island, sanctioned by Order of Her Majesty in Council of the
+A LAW for the administration of harbours and territorial waters
