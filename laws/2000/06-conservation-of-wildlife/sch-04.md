@@ -1,4 +1,4 @@
-# FOURTH SCHEDULE
+# SCHEDULE 4
 (Article 11(1))
 Reptiles and amphibians which may not be exported
 Common Name
@@ -6,14 +6,14 @@ Scientific Name
 Frog, agile
 Rana dalmatina
 Lizard, green
-Lacerta viridis
+Lacerta viridis, or Lacerta bilineata
 Lizard, wall
 Podarcis muralis
 Newt, palmate
-Triturus helveticus
+Lissotriton helveticus, also known as Triturus helveticus
 Slow worm
 Anguis fragilis
 Snake, grass
 Natrix natrix
 Toad, common
-Bufo bufo
+Bufo bufo and Bufo spinosus

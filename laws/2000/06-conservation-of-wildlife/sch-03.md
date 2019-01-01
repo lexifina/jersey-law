@@ -1,4 +1,4 @@
-# THIRD SCHEDULE
+# SCHEDULE 3
 (Article 10)
 Animals which may not be killed or taken by certain methods
 Common Name
@@ -14,7 +14,7 @@ Rana dalmatina
 Hedgehog
 Erinaceus europaeus
 Lizard, green
-Lacerta viridis
+Lacerta viridis, or Lacerta bilineata
 Lizard, wall
 Podarcis muralis
 Shrew, common or French
@@ -24,4 +24,4 @@ Crocidura suaveolens
 Squirrel, red
 Sciurus vulgaris
 Vole, Jersey bank
-Clethrionomys glareolus ssp. caesarius
+Myodes glareolus spp. caesarius, also known as Clethrionomys glareolus ssp. caesarius

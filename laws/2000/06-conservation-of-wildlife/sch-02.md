@@ -1,4 +1,4 @@
-# SECOND SCHEDULE
+# SCHEDULE 2
 (Article 2(3))
 Specially protected wild birds
 Common Name
