@@ -1,0 +1,1 @@
+A LAW to increase the standard scale of fines; to increase the sentencing powers of the Magistrate; to amend penalties for offences; to provide for the construction of fines in Orders in Council that have effect in Jersey; and for connected purposes
