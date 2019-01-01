@@ -1,0 +1,1 @@
+A LAW to allow for directions to be made in response to threats from abroad to the interests of Jersey relating to money laundering, terrorist financing or weapons development and for related and incidental purposes.
