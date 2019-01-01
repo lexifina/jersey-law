@@ -1,0 +1,8 @@
+# 7A Transitional provision regarding United Kingdom reportable accounts
+(1) In relation to a United Kingdom reportable account maintained by a reporting Jersey financial institution during 2016 which -
+(a) is a pre-existing individual low-value account or pre-existing entity account referred to in Annex F to the Agreement;
+(b) is not identified as a reportable account for the purpose of exchanging information by September 2017, as referred to in that Annex; and
+(c) is an account which the reporting Jersey financial institution chooses to treat as if it were a reportable account for the purpose of exchanging information by September 2017, as referred to that Annex,
+these Regulations shall apply as if the account were identified as a reportable account for the purpose of exchanging information by September 2017.
+(2) In relation to a United Kingdom reportable account maintained by a reporting Jersey financial institution during 2016 which is a reportable account under any provision of these Regulations for the purpose of exchanging information by September 2017 under these Regulations, compliance by the reporting Jersey financial institution with the due diligence requirements of the Taxation (Implementation) (International Tax Compliance) (United Kingdom) (Jersey) Regulations 2014 for the year 2016 (notwithstanding Regulation 1(8) of those Regulations) may be treated as compliance with the due diligence requirements of these Regulations.
+(3) In this Regulation ‘United Kingdom reportable account’ and ‘reporting Jersey financial institution’ have the same meaning as in the Taxation (Implementation) (International Tax Compliance) (United Kingdom) (Jersey) Regulations 2014.
