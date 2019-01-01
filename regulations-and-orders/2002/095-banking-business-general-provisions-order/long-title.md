@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Articles 5, 8, 9, 11, 20, 34 and 51 of the Banking Business (Jersey) Law 1991, on the recommendation of the Jersey Financial Commission and having consulted with such persons as appear to the Committee to represent the interests of accountants and registered persons, orders as follows -
