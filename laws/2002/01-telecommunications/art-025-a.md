@@ -1,0 +1,2 @@
+# 25A Relationship with other enactments
+Nothing in or done under this Part shall relieve any person from an obligation to obtain any permit, consent, permission or authorization required under the Road Works and Events (Jersey) Law 2016 or any other enactment.
