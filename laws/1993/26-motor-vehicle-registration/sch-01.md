@@ -1,9 +1,7 @@
 # SCHEDULE
-(Article 17)
-Enactments repealed
-Motor Vehicle Duty (Jersey) Law 1957
-Motor Vehicle Duty (Amendment No. 2) (Jersey) Law 1963
-Motor Vehicle Duty (Amendment No. 3) (Jersey) Law 1964
-Motor Vehicle Duty (Amendment No. 4) (Jersey) Law 1965
-Motor Vehicle Duty (Amendment No. 5) (Jersey) Law 1969
-Motor Vehicle Duty (Amendment No. 6) (Jersey) Law 1988
+(Article14(1))
+Offences for which Centenier may inflict and levy fines summarily
+Offence
+Maximum amount that Centenier may inflict and levy
+1. Any contravention of Article 11(2) of this Law.
+1. Level 1 on the standard scale.
