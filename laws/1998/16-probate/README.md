@@ -1,41 +1,40 @@
 # Probate (Jersey) Law 1998
 
-L.16/1998 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-16-1998.aspx>
+L.16/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_16_1998_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to consolidate and further amend the law relating to grants of probate and letters of administration, the administ |
-| art-001 | [art-001.md](art-001.md) | 1 |
-| art-002 | [art-002.md](art-002.md) | 2 |
-| art-003 | [art-003.md](art-003.md) | 3 |
-| art-004 | [art-004.md](art-004.md) | 4 |
-| art-005 | [art-005.md](art-005.md) | 5 |
-| art-006 | [art-006.md](art-006.md) | 6 |
-| art-007 | [art-007.md](art-007.md) | 7 |
-| art-008 | [art-008.md](art-008.md) | 8 |
-| art-009 | [art-009.md](art-009.md) | 9 |
-| art-010 | [art-010.md](art-010.md) | 10 |
-| art-011 | [art-011.md](art-011.md) | 11 |
-| art-012 | [art-012.md](art-012.md) | 12 |
-| art-013 | [art-013.md](art-013.md) | 13 |
-| art-014 | [art-014.md](art-014.md) | 14 |
-| art-015 | [art-015.md](art-015.md) | 15 |
-| art-016 | [art-016.md](art-016.md) | 16 |
-| art-017 | [art-017.md](art-017.md) | 17 |
-| art-018 | [art-018.md](art-018.md) | 18 |
-| art-019 | [art-019.md](art-019.md) | 19 |
-| art-020 | [art-020.md](art-020.md) | 20 |
-| art-021 | [art-021.md](art-021.md) | 21 |
-| art-022 | [art-022.md](art-022.md) | 22 |
-| art-023 | [art-023.md](art-023.md) | 23 |
-| art-024 | [art-024.md](art-024.md) | 24 |
-| art-025 | [art-025.md](art-025.md) | 25 |
-| art-026 | [art-026.md](art-026.md) | 26 |
-| art-027 | [art-027.md](art-027.md) | 27 |
-| art-028 | [art-028.md](art-028.md) | 28 |
-| art-029 | [art-029.md](art-029.md) | 29 |
-| art-030 | [art-030.md](art-030.md) | 30 |
-| art-031 | [art-031.md](art-031.md) | 31 |
-| art-032 | [art-032.md](art-032.md) | 32 |
-| art-033 | [art-033.md](art-033.md) | 33 |
-| art-034 | [art-034.md](art-034.md) | 34 |
+| Long title | [long-title.md](long-title.md) | A LAW to consolidate and further amend the law relating to grants of probate and letters of administration, the administ |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Jurisdiction of the Court |
+| Art. 3 | [art-003.md](art-003.md) | 3 The Bailiff, Jurats and officers of the Court |
+| Art. 4 | [art-004.md](art-004.md) | 4 Power of the Court as to witnesses and documents |
+| Art. 5 | [art-005.md](art-005.md) | 5 Power and rôle of Judicial Greffier |
+| Art. 6 | [art-006.md](art-006.md) | 6 Application for and making of grant |
+| Art. 7 | [art-007.md](art-007.md) | 7 Evidence of death |
+| Art. 8 | [art-008.md](art-008.md) | 8 Oath of executor or administrator |
+| Art. 9 | [art-009.md](art-009.md) | 9 Caveats |
+| Art. 10 | [art-010.md](art-010.md) | 10 Proceedings consequent on caveats |
+| Art. 11 | [art-011.md](art-011.md) | 11 Grant to a trust corporation |
+| Art. 12 | [art-012.md](art-012.md) | 12 Grant to attorney |
+| Art. 13 | [art-013.md](art-013.md) | 13 Grant to executor dative |
+| Art. 14 | [art-014.md](art-014.md) | 14 Entitlement to grant as administrator or executor dative |
+| Art. 15 | [art-015.md](art-015.md) | 15 Viscount or other person in possession pendente lite |
+| Art. 16 | [art-016.md](art-016.md) | 16 Revocation of grant by consent |
+| Art. 17 | [art-017.md](art-017.md) | 17 Removal of executor or administrator |
+| Art. 18 | [art-018.md](art-018.md) | 18 Second and subsequent grants |
+| Art. 19 | [art-019.md](art-019.md) | 19 Necessity for production of grant |
+| Art. 20 | [art-020.md](art-020.md) | 20 Protection for person releasing movable estate under grant |
+| Art. 21 | [art-021.md](art-021.md) | 21 Protection for person releasing movable estate without grant |
+| Art. 22 | [art-022.md](art-022.md) | 22 Release or payment under revoked grant |
+| Art. 23 | [art-023.md](art-023.md) | 23 Penalty for intermeddling |
+| Art. 24 | [art-024.md](art-024.md) | 24 Duty of executor or administrator as to inventory |
+| Art. 25 | [art-025.md](art-025.md) | 25 Variation of dispositions etc. by consent |
+| Art. 26 | [art-026.md](art-026.md) | 26 Disclaimer of interest |
+| Art. 27 | [art-027.md](art-027.md) | 27 Deposit of and access to wills and other documents |
+| Art. 28 | [art-028.md](art-028.md) | 28 Official copies |
+| Art. 29 | [art-029.md](art-029.md) | 29 Validity of will |
+| Art. 30 | [art-030.md](art-030.md) | 30 Domicile of dependence for probate purposes |
+| Art. 31 | [art-031.md](art-031.md) | 31 Regulations |
+| Art. 32 | [art-032.md](art-032.md) | 32 Rules of Court |
+| Art. 33 | [art-033.md](art-033.md) | 33 Citation |
