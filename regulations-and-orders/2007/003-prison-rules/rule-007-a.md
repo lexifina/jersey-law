@@ -1,0 +1,10 @@
+# 7A Keeping and destruction of prisoners’ records
+(1) Except as required under or by Rule 7B, Governor shall ensure that a prisoner’s record and any matter kept with it -
+(a) are used only for the purposes of identification and management of the prisoner whilst in custody; and
+(b) are kept confidential.
+(2) The Governor shall cause a record for an untried prisoner to be destroyed, without delay, following -
+(a) in the case of a person remanded in custody in the prison pending or in the course of the hearing of a charge for an offence, the person’s release from custody in the prison upon the withdrawal of all charges in respect of which the prisoner was remanded in custody, the withdrawal or dismissal of proceedings for all such charges or the prisoner’s acquittal of all such charges;
+(b) in the case of a person detained under the Immigration Act 1971 of the United Kingdom as extended to Jersey by the Immigration (Jersey) Order 1993, the person’s release from custody in the prison upon the prisoner’s successful defence of proceedings brought under that Act;
+(c) in the case of a person detained pending his or her removal from Jersey for the purposes of the investigation of or proceedings in respect of a suspected service disciplinary offence, the person’s release from custody in the prison upon the conclusion, without charge, of any investigation of all suspected service disciplinary offences in respect of which the prisoner was detained in the prison, the withdrawal or dismissal of proceedings for all such offences or the prisoner’s acquittal of all such offences.
+(3) The Governor shall cause a record for a civil prisoner to be destroyed, without delay, following the prisoner’s release from custody in the prison.
+(4) Where a photograph or an imprint of the fingerprints of a prisoner kept with the prisoner’s record is stored in any electronic form, the Governor shall cause the image to be deleted or otherwise made inaccessible at the same time as the photograph or imprint is destroyed, or as soon as is practicable after that.

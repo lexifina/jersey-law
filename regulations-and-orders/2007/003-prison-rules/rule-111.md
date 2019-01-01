@@ -1,0 +1,3 @@
+# 111 Communications to the press and others
+(1) No officer or employee shall, without the authority of the Governor, communicate directly or indirectly with a representative of the press or any other person concerning matters which have become known to the officer or employee in the course of his or her duties.
+(2) No officer or employee shall, without the authority of the Governor or in such circumstances as may be authorized by directions issued by the Minister, publish any matter or make any public pronouncement relating to the administration of the prison or to any person lawfully detained there.
