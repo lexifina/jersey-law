@@ -1,1 +1,1 @@
-A LAW to augment the jurisdiction of the Petty Debts Court, to provide for certain rights of appeal therefrom and for the transfer of actions between that Court and the Royal Court and for connected purposes; sanctioned by Order of Her Majesty in Council of the
+A LAW to augment the jurisdiction of the Petty Debts Court, to provide for certain rights of appeal therefrom and for the transfer of actions between that Court and the Royal Court and for connected purposes
