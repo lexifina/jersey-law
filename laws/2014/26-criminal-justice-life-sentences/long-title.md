@@ -1,0 +1,1 @@
+A LAW to make provision for a minimum period of imprisonment to be ordered by a court when a person is sentenced to life imprisonment and for review of such a person’s detention and release from prison on licence
