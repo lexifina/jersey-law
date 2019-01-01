@@ -1,0 +1,19 @@
+# Schedule 3
+(Article 3)
+MANNER OF INDICATING ZEBRA CONTROLLED AREA AND PROVISION AS TO PLACING OF GIVE-WAY LINE
+PART 1
+Road marks
+1. Subject to the provisions of Article 3(3), the road marks which are to be placed on a road in the vicinity of a zebra crossing for the purpose of constituting a zebra controlled area lying on both sides of the limits of the crossing or on only one side of such limits and indicating the presence and limits of such an area shall consist of a pattern of lines of the size and type shown in the diagram in Part 2 of this Schedule and so placed as hereinafter provided.
+2. A pattern of lines shall, subject as hereinafter provided, consist of -
+(a) a transverse white broken line (in this Order referred to as a “give-way line”) placed on the carriageway one metre from and parallel to the nearer line of studs indicating the limits of the crossing and shall extend across the carriageway in the manner indicated in the said diagram; and
+(b) 2 or more longitudinal white broken lines (hereinafter referred to as “zig-zag lines”) placed on the carriageway or, where the road is a dual-carriageway road, on each part of the carriageway, each zig-zag line containing not less than 8 nor more than 18 marks and extending away from the crossing at a point 150 millimetres from the nearest part of the give-way line on the same side of the crossing to a point 150 millimetres from the nearest part of a terminal line of the size and type shown in the said diagram (hereinafter referred to as a “terminal line”).
+3. Where the Minister is satisfied in relation to a particular area of carriageway in the vicinity of a zebra crossing that by reason of the layout or character of the roads in the vicinity of the crossing it would be impracticable to lay the pattern of lines as shown in the diagram in Part 2 of this Schedule and in accordance with the preceding paragraph any of the following variations as respects the pattern shall be permitted -
+(a) the number of marks contained in each zig-zag line may be reduced from 8 to not less than 2;
+(b) a mark contained in a zig-zag line may be varied in length so as to extend for a distance not less than one metre and less than 2 metres, but where such a variation is made as respects a mark each other mark in each zig-zag line shall be of the same or substantially the same length as that mark, so however that the number of marks in each zig-zag line shall not be more than 8 nor less than 2.
+4. The angle of the give-way line (if any) in relation to, and its distance from the nearer line of studs indicating the limits of, a crossing may be varied, if the Minister is satisfied that such variation is necessary having regard to the angle of the crossing in relation to the edge of the carriageway at the place where the crossing is situated.
+5. Where by reason of Article 3(3), an area of carriageway in the vicinity of a zebra crossing is not constituted a zebra controlled area by the placing of a pattern of lines as provided in the preceding provisions of this Schedule, a give-way line shall nevertheless be placed on the carriageway as previously provided in this Schedule unless the Minister is satisfied that by reason of the position of that crossing it is impracticable so to place the line.
+6. Each mark contained in a give-way line or in a zig-zag line and each terminal line may be illuminated by the use of reflecting material.
+7. A zebra controlled area or its limits shall not be deemed to have ceased to be indicated in accordance with the provisions of this Schedule by reason only of the imperfection, discoloration or partial displacement of either a terminal line or one or more of the marks comprised in a give-way line or zig-zag line, so long as the general indication of any such line is not thereby materially impaired.
+PART 2
+Diagram referred to in Part 1
+Pattern of lines on one or both lines of a crossing indicating zebra controlled area

@@ -1,0 +1,2 @@
+# 16A Exception for public service vehicle stopping on approach to crossing
+A public service vehicle shall not, by Article 14, be prevented from stopping in a zebra controlled area or, by Article 15, be prevented from stopping in the approach to a “Pelican” crossing indicated in accordance with Schedule 5, where the driver of the vehicle causes the vehicle to stop at a stand established by a Minister under Article 37(2) or (3) of the Motor Traffic (Jersey) Law 1935 for public service vehicles of a class or description to which the vehicle belongs.
