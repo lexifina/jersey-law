@@ -1,155 +1,169 @@
-# SCHEDULE 6
-(Article 119)
-Convention on Limitation of Liability for Maritime Claims 1976
+# SCHEDULE 7
+(Articles 128 and 129)
+International Convention on Salvage 1989
 PART 1
-Text of Convention
+TEXT OF CONVENTION
 CHAPTER I
-THE RIGHT OF LIMITATION
+GENERAL PROVISIONS
 ARTICLE 1
-Persons entitled to limit liability
-1. Shipowners and salvors, as hereinafter defined, may limit their liability in accordance with the rules of this Convention for claims set out in Article 2.
-2. The term “shipowner” shall mean the owner, charterer, manager or operator of a seagoing ship.
-3. Salvor shall mean any person rendering services in direct connection with salvage operations. Salvage operations shall also include operations referred to in Article 2, paragraph 1(d), (e) and (f).
-4. If any claims set out in Article 2 are made against any person for whose act, neglect or default the shipowner or salvor is responsible, such person shall be entitled to avail himself of the limitation of liability provided for in this Convention.
-5. In this Convention the liability of a shipowner shall include liability in an action brought against the vessel herself.
-6. An insurer of liability for claims subject to limitation in accordance with the rules of this Convention shall be entitled to the benefits of this Convention to the same extent as the assured himself.
-7. The act of invoking limitation of liability shall not constitute an admission of liability.
+Definitions
+For the purpose of this Convention -
+(a) Salvage operation means any act or activity undertaken to assist a vessel or any other property in danger in navigable waters or in any other waters whatsoever.
+(b) Vessel means any ship or craft, or any structure capable of navigation.
+(c) Property means any property not permanently and intentionally attached to the shoreline and includes freight at risk.
+(d) Damage to the environment means substantial physical damage to human health or to marine life or resources in coastal or inland waters or areas adjacent thereto, caused by pollution, contamination, fire, explosion or similar major incidents.
+(e) Payment means any reward, remuneration or compensation due under this Convention.
+(f) Organisation means the International Maritime Organisation.
+(g) Secretary-General means the Secretary-General of the Organisation.
 ARTICLE 2
-Claims subject to limitation
-1. Subject to Articles 3 and 4 the following claims, whatever the basis of liability may be, shall be subject to limitation of liability:
-(a) claims in respect of loss of life or personal injury or loss of or damage to property (including damage to harbour works, basins and waterways and aids to navigation), occurring on board or in direct connection with the operation of the ship or with salvage operations, and consequential loss resulting therefrom;
-(b) claims in respect of loss resulting from delay in the carriage by sea of cargo, passengers or their luggage;
-(c) claims in respect of other loss resulting from infringement of rights other than contractual rights, occurring in direct connection with the operation of the ship or salvage operations;
-(d) claims in respect of the raising, removal, destruction or the rendering harmless of a ship which is sunk, wrecked, stranded or abandoned, including anything that is or has been on board such ship;
-(e) claims in respect of the removal, destruction or the rendering harmless of the cargo of the ship;
-(f) claims of a person other than the person liable in respect of measures taken in order to avert or minimise loss for which the person liable may limit his liability in accordance with this Convention, and further loss caused by such measures.
-2. Claims set out in paragraph 1 shall be subject to limitation of liability even if brought by way of recourse or for indemnity under a contract or otherwise. However, claims set out under paragraph 1(d), (e) and (f) shall not be subject to limitation of liability to the extent that they relate to remuneration under a contract with the person liable.
+Application of the Convention
+This Convention shall apply whenever judicial or arbitral proceedings relating to matters dealt with in this Convention are brought in a State Party.
 ARTICLE 3
-Claims excepted from limitation
-The rules of this Convention shall not apply to:
-(a) claims for salvage or contribution in general average;
-(b) claims for oil pollution damage within the meaning of the International Convention on Civil Liability for Oil Pollution Damage dated 29th November 1969 or of any amendment or Protocol thereto which is in force;
-(c) claims subject to any international convention or national legislation governing or prohibiting limitation of liability for nuclear damage;
-(d) claims against the shipowner of a nuclear ship for nuclear damage;
-(e) claims by servants of the shipowner or salvor whose duties are connected with the ship or the salvage operations, including claims of their heirs, dependants or other persons entitled to make such claims, if under the law governing the contract of service between the shipowner or salvor and such servants the shipowner or salvor is not entitled to limit his liability in respect of such claims, or if he is by such law only permitted to limit his liability to an amount greater than that provided for in Article 6.
+Platforms and drilling units
+This Convention shall not apply to fixed or floating platforms or to mobile offshore drilling units when such platforms or units are on location engaged in the exploration, exploitation or production of sea-bed mineral resources.
 ARTICLE 4
-Conduct barring limitation
-A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
+State-owned vessels
+1. Without prejudice to article 5, this Convention shall not apply to warships or other non-commercial vessels owned or operated by a State and entitled, at the time of salvage operations, to sovereign immunity under generally recognized principles of international law unless that State decides otherwise.
+2. Where a State Party decides to apply the Convention to its warships or other vessels described in paragraph 1, it shall notify the Secretary-General thereof specifying the terms and conditions of such application.
 ARTICLE 5
-Counterclaims
-Where a person entitled to limitation of liability under the rules of this Convention has a claim against the claimant arising out of the same occurrence, their respective claims shall be set off against each other and the provisions of this Convention shall only apply to the balance, if any.
-CHAPTER II
-LIMITS OF LIABILITY
+Salvage operations controlled by public authorities
+1. This Convention shall not affect any provisions of national law or any international convention relating to salvage operations by or under the control of public authorities.
+2. Nevertheless, salvors carrying out such salvage operations shall be entitled to avail themselves of the rights and remedies provided for in this Convention in respect of salvage operations.
+3. The extent to which a public authority under a duty to perform salvage operations may avail itself of the rights and remedies provided for in this Convention shall be determined by the law of the State where such authority is situated.
 ARTICLE 6
-The general limits
-1. The limits of liability for claims other than those mentioned in Article 7 arising on any distinct occasion, shall be calculated as follows:
-(a) in respect of claims for loss of life or personal injury,
-(i) 333,000 Units of Account for a ship with a tonnage not exceeding 500 tons,
-(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in (i):
-for each ton from 501 to 3,000 tons, 500 Units of Account;
-for each ton from 3,001 to 30,000 tons, 333 Units of Account;
-for each ton from 30,001 to 70,000 tons, 250 Units of Account, and
-for each ton in excess of 70,000 tons, 167 Units of Account,
-(b) in respect of any other claims,
-(i) 167,000 Units of Account for a ship with a tonnage not exceeding 500 tons,
-(ii) for a ship with a tonnage in excess thereof the following amount in addition to that mentioned in (i):
-for each ton from 501 to 30,000 tons, 167 Units of Account;
-for each ton from 30,001 to 70,000 tons, 125 Units of Account; and
-for each ton in excess of 70,000 tons, 83 Units of Account.
-2. Where the amount calculated in accordance with paragraph 1(a) is insufficient to pay the claims mentioned therein in full, the amount calculated in accordance with paragraph 1(b) shall be available for payment of the unpaid balance of claims under paragraph 1(a) and such unpaid balance shall rank rateably with claims mentioned under paragraph 1(b).
-4. The limits of liability for any salvor not operating from any ship or for any salvor operating solely on the ship to, or in respect of which he is rendering salvage services, shall be calculated according to a tonnage of 1,500 tons.
+Salvage contracts
+1. This Convention shall apply to any salvage operations save to the extent that a contract otherwise provides expressly or by implication.
+2. The master shall have the authority to conclude contracts for salvage operations on behalf of the owner of the vessel. The master or the owner of the vessel shall have the authority to conclude such contracts on behalf of the owner of the property on board the vessel.
+3. Nothing in this article shall affect the application of article 7 nor duties to prevent or minimise damage to the environment.
 ARTICLE 7
-The limit for passenger claims
-1. In respect of claims arising on any distinct occasion for loss of life or personal injury to passengers of a ship, the limit of liability of the shipowner thereof shall be an amount of 46,666 Units of Account multiplied by the number of passengers which the ship is authorised to carry according to the ship’s certificate, but not exceeding 25 million Units of Account.
-2. For the purpose of this Article “claims for loss of life or personal injury to passengers of a ship” shall mean any such claims brought by or on behalf of any person carried in that ship:
-(a) under a contract of passenger carriage, or
-(b) who, with the consent of the carrier, is accompanying a vehicle or live animals which are covered by a contract for the carriage of goods.
+Annulment and modification of contracts
+A contract or any terms thereof may be annulled or modified if -
+(a) the contract has been entered into under undue influence or the influence of danger and its terms are inequitable; or
+(b) the payment under the contract is in an excessive degree too large or too small for the services actually rendered.
+CHAPTER II
+PERFORMANCE OF SALVAGE OPERATIONS
 ARTICLE 8
-Unit of Account
-The Unit of Account referred to in Articles 6 and 7 is the special drawing right as defined by the International Monetary Fund. The amounts mentioned in Articles 6 and 7 shall be converted into the national currency of the State in which limitation is sought, according to the value of that currency at the date the limitation fund shall have been constituted, payment is made, or security is given which under the law of that State is equivalent to such payment.
+Duties of the salvor and of the owner and master
+1. The salvor shall owe a duty to the owner of the vessel or other property in danger -
+(a) to carry out the salvage operations with due care;
+(b) in performing the duty specified in subparagraph (a), to exercise due care to prevent or minimise damage to the environment;
+(c) whenever circumstances reasonably require, to seek assistance from other salvors; and
+(d) to accept the intervention of other salvors when reasonably requested to do so by the owner or master of the vessel or other property in danger; provided however that the amount of his reward shall not be prejudiced should it be found that such a request was unreasonable.
+2. The owner and master of the vessel or the owner of other property in danger shall owe a duty to the salvor -
+(a) to co-operate fully with him during the course of the salvage operations;
+(b) in so doing, to exercise due care to prevent or minimise damage to the environment; and
+(c) when the vessel or other property has been brought to a place of safety, to accept redelivery when reasonably requested by the salvor to do so.
 ARTICLE 9
-Aggregation of claims
-1. The limits of liability determined in accordance with Article 6 shall apply to the aggregate of all claims which arise on any distinct occasion:
-(a) against the person or persons mentioned in paragraph 2 of Article 1 and any person for whose act, neglect or default he or they are responsible; or
-(b) against the shipowner of a ship rendering salvage services from that ship and the salvor or salvors operating from such ship and any person for whose act, neglect or default he or they are responsible; or
-(c) against the salvor or salvors who are not operating from a ship or who are operating solely on the ship to, or in respect of which, the salvage services are rendered and any person for whose act, neglect or default he or they are responsible.
-2. The limits of liability determined in accordance with Article 7 shall apply to the aggregate of all claims subject thereto which may arise on any distinct occasion against the person or persons mentioned in paragraph 2 of Article 1 in respect of the ship referred to in Article 7 and any person for whose act, neglect or default he or they are responsible.
+Rights of coastal States
+Nothing in this Convention shall affect the right of the coastal State concerned to take measures in accordance with generally recognized principles of international law to protect its coastline or related interests from pollution or the threat of pollution following upon a maritime casualty or acts relating to such a casualty which may reasonably be expected to result in major harmful consequences, including the right of a coastal State to give directions in relation to salvage operations.
 ARTICLE 10
-Limitation of liability without constitution of a limitation fund
-1. Limitation of liability may be invoked notwithstanding that a limitation fund as mentioned in Article 11 has not been constituted.
-2. If limitation of liability is invoked without the constitution of a limitation fund, the provisions of Article 12 shall apply correspondingly.
-3. Questions of procedure arising under the rules of this Article shall be decided in accordance with the national law of the State Party in which action is brought.
-CHAPTER III
-THE LIMITATION FUND
+Duty to render assistance
+1. Every master is bound, so far as he can do so without serious danger to his vessel and persons thereon, to render assistance to any person in danger of being lost at sea.
+2. The States Parties shall adopt the measures necessary to enforce the duty set out in paragraph 1.
+3. The owner of the vessel shall incur no liability for a breach of the duty of the master under paragraph 1.
 ARTICLE 11
-Constitution of the Fund
-1. Any person alleged to be liable may constitute a fund with the Court or other competent authority in any State Party in which legal proceedings are instituted in respect of claims subject to limitation. The fund shall be constituted in the sum of such of the amounts set out in Articles 6 and 7 as are applicable to claims for which that person may be liable, together with interest thereon from the date of the occurrence giving rise to the liability until the date of the constitution of the fund. Any fund thus constituted shall be available only for the payment of claims in respect of which limitation of liability can be invoked.
-2. A fund may be constituted, either by depositing the sum, or by producing a guarantee acceptable under the legislation of the State Party where the fund is constituted and considered to be adequate by the Court or other competent authority.
-3. A fund constituted by one of the persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2 of Article 9 or his insurer shall be deemed constituted all persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2, respectively.
+Co-operation
+A State Party shall, whenever regulating or deciding upon matters relating to salvage operations such as admittance to ports of vessels in distress or the provision of facilities to salvors, take into account the need for co-operation between salvors, other interested parties and public authorities in order to ensure the efficient and successful performance of salvage operations for the purpose of saving life or property in danger as well as preventing damage to the environment in general.
+CHAPTER III
+RIGHTS OF SALVORS
 ARTICLE 12
-Distribution of the fund
-1. Subject to the provisions of paragraphs 1 and 2 of Article 6 and of Article 7, the fund shall be distributed among the claimants in proportion to their established claims against the fund.
-2. If, before the fund is distributed, the person liable, or his insurer, has settled a claim against the fund such person shall, up to the amount he has paid, acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
-3. The right of subrogation provided for in paragraph 2 may also be exercised by persons other than those therein mentioned in respect of any amount of compensation which they may have paid, but only to the extent that such subrogation is permitted under the applicable national law.
-4. Where the person liable or any other person establishes that he may be compelled to pay, at a later date, in whole or in part any such amount of compensation with regard to which such person would have enjoyed a right of subrogation pursuant to paragraphs 2 and 3 had the compensation been paid before the fund was distributed, the Court or other competent authority of the State where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
+Conditions for reward
+1. Salvage operations which have had a useful result give right to a reward.
+2. Except as otherwise provided, no payment is due under this Convention if the salvage operations have had no useful result.
+3. This chapter shall apply, notwithstanding that the salved vessel and the vessel undertaking the salvage operations belong to the same owner.
 ARTICLE 13
-Bar to other actions
-1. Where a limitation fund has been constituted in accordance with Article 11, any person having made a claim against the fund shall be barred from exercising any right in respect of such a claim against any other assets of a person by or on behalf of whom the fund has been constituted.
-2. After a limitation fund has been constituted in accordance with Article 11, any ship or other property, belonging to a person on behalf of whom the fund has been constituted, which has been arrested or attached within the jurisdiction of a State Party for a claim which may be raised against the fund, or any security given, may be released by order of the Court or other competent authority of such State. However, such release shall always be ordered if the limitation fund has been constituted:
-(a) at the port where the occurrence took place, or, if it took place out of port, at the first port of call thereafter; or
-(b) at the port of disembarkation in respect of claims for loss of life or personal injury; or
-(c) at the port of discharge in respect of damage to cargo; or
-(d) in the State where the arrest is made.
-3. The rules of paragraphs 1 and 2 shall apply only if the claimant may bring a claim against the limitation fund before the Court administering that fund and the fund is actually available and freely transferable in respect of that claim.
+Criteria for fixing the reward
+1. The reward shall be fixed with a view to encouraging salvage operations, taking into account the following criteria without regard to the order in which they are presented below -
+(a) the salved value of the vessel and other property;
+(b) the skill and efforts of the salvors in preventing or minimising damage to the environment;
+(c) the measure of success obtained by the salvor;
+(d) the nature and degree of the danger;
+(e) the skill and efforts of the salvors in salving the vessel, other property and life;
+(f) the time used and expenses and losses incurred by the salvors;
+(g) the risk of liability and other risks run by the salvors or their equipment;
+(h) the promptness of the services rendered;
+(i) the availability and use of vessels or other equipment intended for salvage operations;
+(j) the state of readiness and efficiency of the salvor’s equipment and the value thereof.
+2. Payment of a reward fixed according to paragraph 1 shall be made by all of the vessel and other property interests in proportion to their respective salved values. However, a State Party may in its national law provide that the payment of a reward has to be made by one of these interests, subject to a right of recourse of this interest against the other interests for their respective shares. Nothing in this article shall prevent any right of defence.
+3. The rewards, exclusive of any interest and recoverable legal costs that may be payable thereon, shall not exceed the salved value of the vessel and other property.
 ARTICLE 14
-Governing law
-Subject to the provisions of this Chapter the rules relating to the constitution and distribution of a limitation fund, and all rules of procedure in connection therewith, shall be governed by the law of the State Party in which the fund constituted.
-CHAPTER IV
-SCOPE OF APPLICATION
+Special compensation
+1. If the salvor has carried out salvage operations in respect of a vessel which by itself or its cargo threatened damage to the environment and has failed to earn a reward under article 13 at least equivalent to the special compensation assessable in accordance with this article, he shall be entitled to special compensation from the owner of that vessel equivalent to his expenses as herein defined.
+2. If, in the circumstances set out in paragraph 1, the salvor by his salvage operations has prevented or minimised damage to the environment, the special compensation payable by the owner to the salvor under paragraph 1 may be increased up to a maximum of 30 per cent of the expenses incurred by the salvor. However, the tribunal, if it deems it fair and just to do so and bearing in mind the relevant criteria set out in article 13, paragraph 1, may increase such special compensation further, but in no event shall the total increase be more than 100 per cent of the expenses incurred by the salvor.
+3. Salvor’s expenses for the purpose of paragraphs 1 and 2 means the out-of-pocket expenses reasonably incurred by the salvor in the salvage operation and a fair rate for equipment and personnel actually and reasonably used in the salvage operation, taking into consideration the criteria set out in article 13, paragraph 1(h), (i) and (j).
+4. The total special compensation under this article shall be paid only if and to the extent that such compensation is greater than any reward recoverable by the salvor under article 13.
+5. If the salvor has been negligent and has thereby failed to prevent or minimise damage to the environment, he may be deprived of the whole or part of any special compensation due under this article.
+6. Nothing in this article shall affect any right of recourse on the part of the owner of the vessel.
 ARTICLE 15
-This Convention shall apply whenever any person referred to in Article 1 seeks to limit his liability before the Court of a State Party or seeks to procure the release of a ship or other property or the discharge of any security given within the jurisdiction of any such State.
+Apportionment between salvors
+1. The apportionment of a reward under article 13 between salvors shall be made on the basis of the criteria contained in that article.
+2. The apportionment between the owner, master and other persons in the service of each salving vessel shall be determined by the law of the flag of that vessel. If the salvage has not been carried out from a vessel, the apportionment shall be determined by the law governing the contract between the salvor and his servants.
+ARTICLE 16
+Salvage of persons
+1. No remuneration is due from persons whose lives are saved, but nothing in this article shall affect the provisions of national law on this subject.
+2. A salvor of human life, who has taken part in the services rendered on the occasion of the accident giving rise to salvage, is entitled to a fair share of the payment awarded to the salvor for salving the vessel or other property or preventing or minimising damage to the environment.
+ARTICLE 17
+Services rendered under existing contracts
+No payment is due under the provisions of this Convention unless the services rendered exceed what can be reasonably considered as due performance of a contract entered into before the danger arose.
+ARTICLE 18
+The effect of salvor’s misconduct
+A salvor may be deprived of the whole or part of the payment due under this Convention to the extent that the salvage operations have become necessary or more difficult because of fault or neglect on his part or if the salvor has been guilty of fraud or other dishonest conduct.
+ARTICLE 19
+Prohibition of salvage operations
+Services rendered notwithstanding the express and reasonable prohibition of the owner or master of the vessel or the owner of any other property in danger which is not and has not been on board the vessel shall not give rise to payment under this Convention.
+CHAPTER IV
+CLAIMS AND ACTIONS
+ARTICLE 20
+Maritime lien
+1. Nothing in this Convention shall affect the salvor’s maritime lien under any international convention or national law.
+2. The salvor may not enforce his maritime lien when satisfactory security for his claim, including interest and costs, has been duly tendered or provided.
+ARTICLE 21
+Duty to provide security
+1. Upon the request of the salvor a person liable for a payment due under this Convention shall provide satisfactory security for the claim, including interest and costs of the salvor.
+2. Without prejudice to paragraph 1, the owner of the salved vessel shall use his best endeavours to ensure that the owners of the cargo provide satisfactory security for the claims against them including interest and costs before the cargo is released.
+3. The salved vessel and other property shall not, without the consent of the salvor, be removed from the port or place at which they first arrive after the completion of the salvage operations until satisfactory security has been put up for the salvor’s claim against the relevant vessel or property.
+ARTICLE 22
+Interim payment
+1. The tribunal having jurisdiction over the claim of the salvor may, by interim decision, order that the salvor shall be paid on account such amount as seems fair and just, and on such terms including terms as to security where appropriate, as may be fair and just according to the circumstances of the case.
+2. In the event of an interim payment under this article the security provided under article 21 shall be reduced accordingly.
+ARTICLE 23
+Limitation of actions
+1. Any action relating to payment under this Convention shall be time-barred if judicial or arbitral proceedings have not been instituted within a period of two years. The limitation period commences on the day on which the salvage operations are terminated.
+2. The person against whom a claim is made may at any time during the running of the limitation period extend that period by a declaration to the claimant. This period may in the like manner be further extended.
+3. An action for indemnity by a person liable may be instituted even after the expiration of the limitation period provided for in the preceding paragraphs, if brought within the time allowed by the law of the State where proceedings are instituted.
+ARTICLE 24
+Interest
+The right of the salvor to interest on any payment due under this Convention shall be determined according to the law of the State in which the tribunal seized of the case is situated.
+ARTICLE 25
+State-owned cargoes
+Unless the State owner consents, no provision of this Convention shall be used as a basis for the seizure, arrest or detention by any legal process of, nor for any proceedings in rem against, non-commercial cargoes owned by a State and entitled, at the time of the salvage operations, to sovereign immunity under generally recognized principles of international law.
+ARTICLE 26
+Humanitarian cargoes
+No provision of this Convention shall be used as a basis for the seizure, arrest or detention of humanitarian cargoes donated by a State, if such State has agreed to pay for salvage services rendered in respect of such humanitarian cargoes.
+ARTICLE 27
+Publication of arbitral awards
+States Parties shall encourage, as far as possible and with the consent of the parties, the publication of arbitral awards made in salvage cases.
 PART 2
-Provisions having effect in connection with Convention
+PROVISIONS HAVING EFFECT IN CONNECTION WITH CONVENTION
 Interpretation
-1.-(1) In this Part of this Schedule “the Convention” means the Convention as set out in Part 1 of this Schedule, and a reference to a numbered article is a reference to the article of the Convention that is so numbered.
-(2) A reference in the Convention and this Part of this Schedule to -
-(a) a court, is a reference to the Royal Court;
-(b) a ship, includes a reference to a structure, whether completed or in the course of completion, launched and intended for use in navigation as a ship or part of a ship.
-Right to limit liability
-2. Subject to paragraph 6, the right to limit liability under the Convention applies in relation to any ship, whether seagoing or not, and the definition of “shipowner” in paragraph 2 of article 1 is to be construed accordingly.
-Claims subject to limitation
-3.-(1) Paragraph 1(a) of article 2 has effect as if the reference to “loss of life or personal injury” did not include a reference to loss of life or personal injury to passengers of seagoing ships;
-(2) Paragraph 1(d) of article 2 does not apply in Jersey.
-Claims excluded from limitation
-4.-(1) Claims for damage within the meaning of the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea 1996, or any amendment of or Protocol to that Convention, that arise from occurrences that take place after the coming into force of the first Regulations made by the States under Article 117 of this Law are to be excluded from the Convention.
-(2) The claims excluded from the Convention by paragraph (c) of article 3 are claims made by virtue of sections 10 or 11 of the Nuclear Installations Act 1965 of the United Kingdom as extended to Jersey by the Nuclear Installations (Jersey) Order 1980.
-The general limits
-5.-(1) In the application of article 6 to a ship with a tonnage of less than 300 tons that article has effect as if -
-(a) paragraph 1(a)(i) referred to 1,000,000 Units of Account; and
-(b) paragraph 1(b)(i) referred to 500,000 Units of Account.
-(2) For the purposes of article 6 and this paragraph, a ship’s tonnage is its gross tonnage calculated in a manner that may be prescribed by an Order made by the Committee.
-Limit for passenger claims
-6.-(1) Article 7 of the Convention does not apply in respect of a seagoing ship; and has effect in the case of a ship that is not seagoing as if, in paragraph 1 of that article -
-(a) after “thereof” there were inserted “in respect of each passenger,”; and
-(b) the words from “multiplied” onwards were omitted.
-(2) In paragraph 2 of article 7 the reference to claims brought on behalf of a person includes a reference to a claim in respect of the death of a person under the Fatal Accidents (Jersey) Law 1962.
-Units of Account
-7.-(1) For the purpose of converting the amounts mentioned in articles 6 and 7 from special drawing rights into sterling, one special drawing right is to be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being one special drawing right for -
-(a) the relevant date under paragraph 1 of article 8; or
-(b) if no sum has been so fixed for that day, the last day before that day for which a sum has been so fixed.
-(2) A certificate given on behalf of the Finance and Economics Committee stating -
-(a) that a particular sum in sterling has been fixed as mentioned in sub-paragraph (1) for a particular day; or
-(b) that no sum has been so fixed for that day and a particular sum in sterling has been so fixed for a day that is the last preceding day for which a sum has been so fixed,
-is conclusive evidence of those matters for the purposes of those articles; and a document purporting to be such a certificate is to be received in evidence in any proceedings and, unless the contrary is proved, is to be treated as such a certificate.
-Applicable law
-8.-(1) If an action is brought in Jersey, the reference in paragraph 3 of article 10 to the national law of the State Party is to be construed as a reference to the law of Jersey.
-(2) In article 14, the reference to the law of the State Party is, if the fund is constituted in Jersey, to be construed as a reference to the law of Jersey.
-Constitution of fund
-9.-(1) The Committee may, with the concurrence of the Finance and Economics Committee, by Order prescribe the rate of interest to be applied for the purposes of paragraph 1 of article 11; but in the absence of such a prescription the rate of interest is the rate applicable in the United Kingdom under an order made by the Secretary of State for that purpose.
-(2) If a fund is constituted with the court in accordance with article 11 for the payment of claims arising out of any occurrence, the court may stay any proceedings relating to a claim arising out of that occurrence that are pending against the person by whom the fund has been constituted.
-Distribution of fund
-10. A lien or other right in respect of any ship or property does not affect the proportions in which under article 12 the fund is distributed among several claimants.
-Bar to other actions
-11. If the release of a ship or other property is ordered under paragraph 2 of article 13, the person on whose application it is ordered to be released is to be regarded as having submitted to the jurisdiction of the court to adjudicate on the claim for which the property was arrested or attached.
+1
+(1) In this Part of this Schedule “the Convention” means the Convention as set out in Part 1 of this Schedule, and a reference to a numbered article is a reference to the article of the Convention that is so numbered.
+(2) A reference in the Convention to judicial proceedings is a reference to proceedings in the Royal Court; and a reference to the tribunal having jurisdiction, in so far as it refers to judicial proceedings, is to be construed accordingly.
+Assistance to persons at sea
+2
+(1) The master of a vessel who fails to comply with the duty imposed on him by paragraph 1 of article 10 commits an offence and is liable to imprisonment for 2 years and a fine.
+(2) Compliance by the master of a vessel with that duty does not affect his right or the right of another person to a payment under the Convention or under any contract.
+The reward and special compensation: the common understanding
+3
+In fixing a reward under article 13 and assessing special compensation under article 14 the court or arbitrator is under no duty to fix a reward under article 13 up to the maximum salved value of the vessel and other property before assessing the special compensation to be paid under article 14.
+Recourse for life salvage payment
+4
+(1) This paragraph applies if -
+(a) services are rendered wholly or in part in Jersey waters in saving life from a vessel of any nationality, or elsewhere in saving life from a Jersey ship; and
+(b) either -
+(i) the vessel and other property are destroyed, or
+(ii) the sum to which the salvor is entitled under paragraph 2 of article 16 is less than a reasonable amount for the services rendered in saving life.
+(2) If this paragraph applies, the Minister may pay to the salvor a sum, or as the case may be an additional sum, as the Minister thinks fit in respect of the services rendered in saving life.
 Meaning of “State Party”
-12. If Her Majesty in Council declares that a State specified in the Order is a party to the Convention as amended by the 1996 Protocol, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact; but the Order shall not have effect in Jersey unless registered by the Royal Court.
+5
+If Her Majesty in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country or territory, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.
