@@ -1,30 +1,32 @@
 # Registered Designs (Jersey) Law 1957
 
-L.11/1957 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-11-1957.aspx>
+L.11/1957 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_11_1957_20200710>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to provide for the registration in the Island of designs registered in the United Kingdom, and for matters inciden |
-| art-001 | [art-001.md](art-001.md) | 1 DEFINITIONS |
-| art-002 | [art-002.md](art-002.md) | 2 LIMITATION OF POWERS OF ROYAL COURT IN RELATION TO REGISTRATION OF DESIGNS |
-| art-003 | [art-003.md](art-003.md) | 3 REGISTER OF DESIGNS |
-| art-004 | [art-004.md](art-004.md) | 4 REGISTRATION OF DESIGNS |
-| art-005 | [art-005.md](art-005.md) | 5 REGISTRATION OF EXTENSIONS OF COPYRIGHT IN DESIGNS |
-| art-006 | [art-006.md](art-006.md) | 6 REGISTRATION OF ASSIGNMENTS, ETC |
-| art-007 | [art-007.md](art-007.md) | 7 CANCELLATION OF REGISTRATION, AND REGISTRATION OF CHANGE OF NAME AND ADDRESS |
-| art-008 | [art-008.md](art-008.md) | 8 LEGAL PRESENCE IN ISLAND UNNECESSARY FOR PURPOSE OF MAKING APPLICATIONS |
-| art-009 | [art-009.md](art-009.md) | 9 EFFECT OF REGISTRATION |
-| art-010 | [art-010.md](art-010.md) | 10 POWER OF COURT TO CANCEL REGISTRATION |
-| art-011 | [art-011.md](art-011.md) | 11 RECTIFICATION OF REGISTER |
-| art-012 | [art-012.md](art-012.md) | 12 POWER TO CORRECT CLERICAL ERRORS |
-| art-013 | [art-013.md](art-013.md) | 13 USE OF REGISTERED DESIGNS FOR THE SERVICES OF THE CROWN |
-| art-014 | [art-014.md](art-014.md) | 14 USE OF REGISTERED DESIGNS FOR THE SERVICE OF THE STATES |
-| art-015 | [art-015.md](art-015.md) | 15 REFERENCE OF DISPUTES AS TO USE BY CROWN OR STATES |
-| art-016 | [art-016.md](art-016.md) | 16 EXEMPTION OF INNOCENT INFRINGER FROM LIABILITY FOR DAMAGES |
-| art-017 | [art-017.md](art-017.md) | 17 REMEDY FOR GROUNDLESS THREATS OF INFRINGEMENT PROCEEDINGS |
-| art-018 | [art-018.md](art-018.md) | 18 FALSIFICATION OF REGISTER, ETC |
-| art-019 | [art-019.md](art-019.md) | 19 FINE FOR FALSELY REPRESENTING A DESIGN AS REGISTERED |
-| art-020 | [art-020.md](art-020.md) | 20 RULES OF COURT |
-| art-021 | [art-021.md](art-021.md) | 21 POWERS OF STATES AS REGARDS FEES |
-| art-022 | [art-022.md](art-022.md) | 22 SAVING OF VESTED RIGHTS |
-| art-023 | [art-023.md](art-023.md) | 23 SHORT TITLE AND COMMENCEMENT |
+| Long title | [long-title.md](long-title.md) | A LAW to provide for the registration in Jersey of designs registered in the United Kingdom, and for matters incidental  |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Limitation of powers of Royal Court in relation to registration of designs |
+| Art. 3 | [art-003.md](art-003.md) | 3 Register of designs |
+| Art. 4 | [art-004.md](art-004.md) | 4 Registration of designs |
+| Art. 5 | [art-005.md](art-005.md) | 5 Extension and restoration of rights in designs |
+| Art. 6 | [art-006.md](art-006.md) | 6 Registration of assignments, etc. |
+| Art. 7 | [art-007.md](art-007.md) | 7 Cancellation of registration, and registration of change of name and address |
+| Art. 8 | [art-008.md](art-008.md) | 8 Legal presence in Jersey unnecessary for purpose of making applications |
+| Art. 9 | [art-009.md](art-009.md) | 9 Effect of registration |
+| Art. 10 | [art-010.md](art-010.md) | 10 Power of court to cancel registration |
+| Art. 11 | [art-011.md](art-011.md) | 11 Rectification of register |
+| Art. 12 | [art-012.md](art-012.md) | 12 Power to correct clerical errors |
+| Art. 13 | [art-013.md](art-013.md) | 13 Use of registered designs for the services of the Crown |
+| Art. 14 | [art-014.md](art-014.md) | 14 Use of registered designs for the service of the States |
+| Art. 15 | [art-015.md](art-015.md) | 15 Reference of disputes as to use by Crown or States |
+| Art. 16 | [art-016.md](art-016.md) | 16 Exemption of innocent infringer from liability for damages |
+| Art. 17 | [art-017.md](art-017.md) | 17 Remedy for groundless threats of infringement proceedings |
+| Art. 18 | [art-018.md](art-018.md) | 18 Falsification of register etc. |
+| Art. 19 | [art-019.md](art-019.md) | 19 False representation that a design is registered |
+| Art. 20 | [art-020.md](art-020.md) | 20 Rules of court |
+| Art. 20A | [art-020-a.md](art-020-a.md) | 20A Regulations |
+| Art. 21 | [art-021.md](art-021.md) | 21 Powers of states as regards fees |
+| Art. 22 | [art-022.md](art-022.md) | 22 Saving of vested rights |
+| Art. 22A | [art-022-a.md](art-022-a.md) | 22A Transitional provisions |
+| Art. 23 | [art-023.md](art-023.md) | 23 Citation |
