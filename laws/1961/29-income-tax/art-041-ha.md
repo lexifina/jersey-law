@@ -1,0 +1,4 @@
+# 41HA Tax deducted under the Social Security (Jersey) Law 1974
+(1) If the Minister of Social Security is required under the Social Security (Jersey) Law 1974 to deduct income tax from a component of a benefit payable to a person under that Law, tax shall be deducted at the same effective rate which the person’s employer would have been required to deduct had such component been paid by the employer to the person as earnings when such earnings were due to be paid.
+(2) The Comptroller may issue a notice, in writing, to the Minister for Social Security, of the effective rate for the purposes of paragraph (1).
+(3) The amount of income tax deducted under paragraph (1) shall be remitted to the Comptroller and received by the Comptroller as a payment of tax by the person to whom the benefit is paid.

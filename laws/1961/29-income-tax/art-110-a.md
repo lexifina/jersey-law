@@ -1,0 +1,5 @@
+# 110A Losses arising from possessions out of Jersey
+(1) Where a person sustains a loss of income arising from possessions out of Jersey (such a loss to be computed in like manner as income under the provisions of this Law applicable to Case V of Schedule D), the person may, on giving notice in writing to the Comptroller within 2 years after the year of assessment, claim for the amount of such loss to be deducted from any other income on which he or she is assessed under Case V of Schedule D.
+(2) Except where paragraph (3) applies, a deduction following a claim under paragraph (1) may be made only from income arising in the same year of assessment as the loss.
+(3) Where the loss arises from possession of land out of Jersey, the loss (or such portion of the loss in respect of which no relief has been given) may be carried forward to be deducted from income arising from the same possession of land out of Jersey on which the person is assessed under Case V of Schedule D in any subsequent year of assessment.
+(4) For the purposes of this Article “land” includes buildings and other structures on land.

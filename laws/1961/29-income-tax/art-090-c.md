@@ -1,0 +1,10 @@
+# 90C Marginal income deduction in respect of maintenance payments under existing obligations
+(1) This Article applies to a payment due on or after 1st January 1998 which is made under an existing obligation.
+(2) Notwithstanding anything in Article 86 or 87, a payment to which this Article applies shall be made without deduction of tax.
+(3) An individual making a payment to which this Article applies shall be entitled, for the year of assessment in which the payment falls due, to a marginal income deduction of an amount determined in accordance with paragraph (4).
+(4) The amount to be determined in an individual’s case shall be equal to the aggregate amount of the payments made by the individual to which this Article applies which fall due in that year, except that it shall not in any event exceed an amount equal to the aggregate amount of any payments due in the year of assessment 1997 under an existing obligation and in respect of which the individual was entitled to make a deduction in computing the individual’s income for that year.
+(5) Where, pursuant to paragraph (3), an individual is entitled to a marginal income deduction in respect of a payment, the payment shall form part of the income of the recipient, but subject to paragraph (6).
+(6) The amount which, by virtue of paragraph (5), is treated as forming part of the recipient’s income for a year of assessment by reason of payments made by an individual shall not exceed an amount equal to the aggregate amount of any payments made by that individual under an existing obligation which formed part of the recipient’s income for the year of assessment 1997.
+(7) A payment to which this Article applies shall be within the charge to tax under Case III or (if it arises outside Jersey) Case V of Schedule D but the tax chargeable shall be computed on the payments falling due in the year of assessment, so far as paid in that or any other year.
+(8) No deduction shall be made under Article 80(1)(c) on account of any payment to which this Article applies.
+(9)

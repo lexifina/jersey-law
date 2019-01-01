@@ -1,0 +1,2 @@
+# 54A Deductions under Schedule A in respect of property development or quarrying, etc.
+Articles 70, 70A and 83 shall apply for the purposes of computing the amount of the profits or gains to be charged under Schedule A pursuant to Article 51(1)(b) or (c) as they apply for the purposes of computing the amount of the profits or gains to be charged under Schedule D Case I in respect of a trade.

@@ -1,1 +1,1 @@
-A LAW to re-enact, with minor amendments, the enactments relating to income tax, sanctioned by Order of Her Majesty in Council of the
+A LAW relating to income tax and the collection of long-term care contributions due under the Social Security (Jersey) Law 1974

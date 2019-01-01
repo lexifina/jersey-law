@@ -1,0 +1,6 @@
+# 19A Duty of employer or building contractor to register
+(1) A person who becomes an employer shall, no later than one month after so becoming, notify the Comptroller, in writing, of the date the person became an employer.
+(2) A building contractor shall, no later than one month after first entering into a contract with a sub-contractor, notify the Comptroller, in writing, of the date the building contractor first entered into such a contract.
+(3) A person who fails to comply with paragraph (1) or (2) shall be guilty of an offence and liable to a fine of level 3 on the standard scale.
+(4) Where the secretary or another officer of a body corporate or any other person engaged in the management of the body corporate is deemed to be the employer by virtue of Article A15(6) or (7), the body corporate, as well as that person, shall be liable to a penalty for failure to comply with paragraph (1).
+(5) Where the secretary or another officer of a body corporate or any other person engaged in the management of the body corporate is deemed to be the building contractor, by virtue of Article A15(4) or (5), the body corporate, as well as that person, shall be liable to a penalty for failure to comply with paragraph (2) of this Article.

@@ -1,0 +1,2 @@
+# 118A Exemption in respect of States of Jersey securities held by non-residents
+Where the Minister issues any securities which he or she has power to issue for the purposes of raising any money or loan with a condition that the interest on the securities shall not be liable to income tax so long as it is shown that the securities are in the beneficial ownership of persons who are not ordinarily resident in Jersey, the interest on securities issued with such a condition shall be exempt from tax.

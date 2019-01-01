@@ -1,0 +1,11 @@
+# 134A Power of Comptroller to make assessment to prevent avoidance of income tax
+(1) If the Comptroller is of the opinion that the main purpose, or one of the main purposes, of a transaction, or a combination or series of transactions, is the avoidance, or reduction, of the liability of any person to income tax, the Comptroller may, subject as hereinafter provided, make such assessment or additional assessment on that person as the Comptroller considers appropriate to counteract such avoidance or reduction of liability:
+Provided that no assessment or additional assessment shall be made under this Article if the person shows to the satisfaction of the Comptroller either -
+(a) that the purpose of avoiding or reducing liability to income tax was not the main purpose or one of the main purposes for which the transaction, or the combination or series of transactions was effected; or
+(b) that the transaction was a bona fide commercial transaction, or that the combination or series of transactions was a bona fide combination or series of transactions and was not designed for the purpose of avoiding or reducing liability to income tax.
+(2) The provisions of this Law shall apply to any assessment or additional assessment made under this Article as if it had been made in pursuance of Part 5.
+(3) Without prejudice to the generality of paragraph (2), any person who is aggrieved by any assessment or additional assessment made on the person under this Article shall be entitled to appeal to the Commissioners on the ground that -
+(a) the avoidance, or reduction, of the liability of that person to income tax was not the main purpose, or one of the main purposes, of the transaction, or the combination or series of transactions;
+(b) the transaction was a bona fide commercial transaction, or that the combination or series of transactions was a bona fide combination or series of transactions and was not designed for the purpose of avoiding or reducing liability to income tax; or
+(c) that the person has been overcharged by the assessment or additional assessment,
+and all the provisions of this Law relating to appeals against any assessment shall apply to any appeal made under this Article.

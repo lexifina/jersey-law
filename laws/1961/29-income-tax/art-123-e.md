@@ -1,0 +1,3 @@
+# 123E Apportionment on change of status during year
+(1) Where, a company is a company to which Article 123C or 123D applies for only part of a year of assessment, the company shall only be charged to tax in accordance with Article 123C or 123D, as the case requires, on the portion of its income, profits or gains on which it is charged to tax under Schedule D for that year that equates to the portion of year for which it is a company to which the relevant Article applies.
+(2) This Article is subject to Articles 64C to 64E in the case of the commencement, discontinuance or transfer of a trade, profession or vocation.

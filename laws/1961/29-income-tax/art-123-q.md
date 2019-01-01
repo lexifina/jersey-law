@@ -1,0 +1,3 @@
+# 123Q Application of Part 14A (foreign company income relief)
+(1) In Article 114A, the definition “qualifying company” shall be deemed to include a large corporate retailer and the remaining provisions of Part 14A shall be construed accordingly.
+(2) In respect of a qualifying company deemed to be a large corporate retailer under paragraph (1), in calculating the amount of its income, profits and gains for the purposes of Article 123L(1), in addition to any deductions and credits referred to paragraph (1)(a) and (b) of that Article, no account shall be taken of any credit under Article 114B or 114C.

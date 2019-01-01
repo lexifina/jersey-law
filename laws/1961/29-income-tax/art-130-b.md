@@ -1,0 +1,9 @@
+# 130B Fund value
+(1) For the purposes of this Part “fund value” means, at any time -
+(a) in relation to a member of an occupational pension scheme that is a defined contribution scheme, or, following the death of the member, his or her estate or any person entitled to a payment from the scheme, as permitted by Article 131(9), the aggregate, at that time, of the amounts accumulated in the scheme for the benefit of the member or of his or her estate or any person, as the case requires;
+(b) in relation to a member of an occupational pension scheme that is a defined benefit scheme or, following the death of the member, his or her estate or any person entitled to a payment from the scheme, as permitted by Article 131(9), the capital value of the benefits to which the member, or his or her estate or any person, as the case requires, is entitled at that time, calculated by an actuary;
+(c) in relation to an individual who has made a retirement annuity contract or the primary beneficiary of a retirement trust scheme or, following the death of the individual or primary beneficiary, his or her estate or any person entitled to a payment from the contract or scheme, as permitted by Article 131B(7) or 131CA(6), the fund accumulated under the contract or trust at that time.
+(2) In paragraph (1) -
+“actuary” means a person who is or a body of persons each of whom is a Fellow of the Institute and Faculty of Actuaries;
+“defined benefit scheme” means a scheme where the scheme rules define the benefit independently of the contributions payable and benefits are not directly related to the investments of the scheme;
+“defined contribution scheme” means a scheme where the benefits of a member under the scheme are determined by reference to contributions paid into the scheme in respect of that member, usually increased by an amount based on profits and gains arising from those contributions.

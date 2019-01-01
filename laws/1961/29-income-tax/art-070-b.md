@@ -1,0 +1,2 @@
+# 70B Deduction on account of a levy paid to the Jersey Bank Depositors Compensation Board
+Notwithstanding Article 70, in computing the profits or gains to be charged in respect of a trade or profession under Schedule D there shall be allowed to be deducted by a bank as expenses in any year an amount equal to any levy paid by the bank in that year to the Jersey Bank Depositors Compensation Board established by the Banking Business (Depositors Compensation) (Jersey) Regulations 2009.

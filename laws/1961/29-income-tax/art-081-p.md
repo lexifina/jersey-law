@@ -1,0 +1,7 @@
+# 81P Shareholder loans: statements to be provided to borrower
+(1) Where a company makes a shareholder loan, the secretary of the company or other officer performing the duties of secretary shall, no later than 31st March following the year in which the loan is made or paid by or otherwise derived from the company, provide the borrower with a statement, in writing, showing the amount attributable to the loan for that year, in accordance with Article 81O.
+(2) Where, in any year following the year in which a loan described in paragraph (1) is made or paid by or otherwise derived from the company, the borrower makes a repayment or reimbursement in respect of the loan, the secretary of the company or other officer performing the duties of secretary shall, no later than 31st March following the year in which the repayment or reimbursement is made, issue the borrower with a statement, in writing, showing -
+(a) the amount repaid or reimbursed by the borrower in the year;
+(b) the amount attributable to the loan, in accordance with Article 81O, for the year in which it was made or paid by or otherwise derived from the company.
+(3) If the secretary of the company or other officer performing the duties of secretary does not comply with paragraph (1) or (2), he or she shall be guilty of an offence and liable to a fine of level 3 on the standard scale.
+(4) In this Article “the borrower” has the same meaning as in Article 81O.

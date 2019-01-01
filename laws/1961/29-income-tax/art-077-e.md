@@ -1,0 +1,3 @@
+# 77E Treatment of attributable earnings for other purposes
+(1) Any amount charged to tax as attributable earnings (after taking into account any deduction allowed under Article 77C) shall not be chargeable to tax under Case II or Case V of Schedule D or treated as a distribution for the purposes of Case III(f) or Case IX of Schedule D.
+(2) In calculating an individual’s allocated share of specified profits for the purposes of Case IX of Schedule D, the ISV shall, when calculating the amount of the ISV’s specified profits for any particular period, disregard any amounts chargeable to tax under Case IIA in respect of payments received by the ISV during that period.

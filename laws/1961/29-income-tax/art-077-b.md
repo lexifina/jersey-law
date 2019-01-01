@@ -1,0 +1,3 @@
+# 77B Basis of computation under Case IIA
+(1) Subject to Articles 77C and 77D, tax under Case IIA of Schedule D is computed on the full amount of payments made by a client to an ISV in a year of assessment for the supply of services by an individual to the client pursuant to the relevant arrangements as if those payments were earnings of the individual chargeable to tax under Case II (such payments being referred to as “attributable earnings”).
+(2) This Article applies only to payments made to an ISV in respect of services supplied by an individual who, at the time of supplying the services, is resident in Jersey.
