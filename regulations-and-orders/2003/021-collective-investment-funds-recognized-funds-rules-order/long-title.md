@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Articles 11, 14 and 20 of the Collective Investment Funds (Jersey) Law 1988, and on the recommendation of the Jersey Financial Services Commission, orders as follows -
