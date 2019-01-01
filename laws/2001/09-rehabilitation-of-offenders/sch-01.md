@@ -1,9 +1,9 @@
 # SCHEDULE
 (Article 5(1))
 SERVICE DISCIPLINARY CONVICTIONS
-1. Any conviction for an offence mentioned in this Schedule is a conviction referred to in Article 5(1)(a)(i).
+1 Any conviction for an offence mentioned in this Schedule is a conviction referred to in Article 5(1)(a)(i).
 Provisions of the Army Act 1955 and the Air Force Act 1955
-2. Any offence under any of the provisions of the Army Act 1955 or the Air Force Act 1955 listed in the first column of the following table -
+2 Any offence under any of the provisions of the Army Act 1955 of the United Kingdom or the Air Force Act 1955 of the United Kingdom listed in the first column of the following table -
 Provision
 Subject-matter
 Section 29
@@ -34,8 +34,6 @@ Section 44
 Damage to, and loss of, public or service property etc.
 Section 44A
 Damage to, and loss of, Her Majesty’s aircraft or aircraft material.
-Provision
-Subject-matter
 Section 44B
 Interference etc. with equipment, messages or signals.
 Section 45
@@ -68,10 +66,10 @@ Section 63
 Offences against civilian population.
 Section 69
 Conduct to prejudice of military discipline or air-force discipline.
-3. Any offence under section 68 or 68A of the Army Act 1955 in relation to an offence under any of the provisions of that Act listed in paragraph 2.
-4. Any offence under section 68 or 68A of the Air Force Act 1955 in relation to an offence under any of the provisions of that Act listed in paragraph 2.
+3 Any offence under section 68 or 68A of the Army Act 1955 of the United Kingdom in relation to an offence under any of the provisions of that Act listed in paragraph 2.
+4 Any offence under section 68 or 68A of the Air Force Act 1955 of the United Kingdom in relation to an offence under any of the provisions of that Act listed in paragraph 2.
 Provisions of the Naval Discipline Act 1957
-5. Any offence under any of the provisions of the Naval Discipline Act 1957 listed in the first column of the following table -
+5 Any offence under any of the provisions of the Naval Discipline Act 1957 of the United Kingdom listed in the first column of the following table -
 Provision
 Subject-matter
 Section 6
@@ -118,8 +116,6 @@ Section 32
 Billeting offences.
 Section 33
 Offences in relation to the requisitioning of vehicles etc.
-Provision
-Subject-matter
 Section 33A
 Permitting escape, and unlawful release of prisoners.
 Section 33B
@@ -136,4 +132,4 @@ Section 38
 Offences in relation to courts-martial.
 Section 39
 Conduct to the prejudice of naval discipline.
-6. Any offence under section 40 or 41 of the Naval Discipline Act 1957 in relation to an offence under any of the provisions of that Act listed in paragraph 5.
+6 Any offence under section 40 or 41 of the Naval Discipline Act 1957 of the United Kingdom in relation to an offence under any of the provisions of that Act listed in paragraph 5.
