@@ -1,21 +1,21 @@
 # SCHEDULE 1
-(Article 3)
-PERSONS OF SAME DESCENT
-Mother
-Father
-Adoptive mother or former adoptive mother
-Adoptive father or former adoptive father
-Daughter
-Son
-Adoptive daughter or former adoptive daughter
-Adoptive son or former adoptive son
-Grandmother
-Grandfather
-Granddaughter
-Grandson
-Sister
-Brother
-Father’s or mother’s sister
-Father’s or mother’s brother
-Brother’s or sister’s daughter
-Brother’s or sister’s son
+(Article 3(3) and 5)
+relations whom person is prohibited to marry
+parent
+adoptive parent
+former adoptive parent
+child
+adoptive child
+former adoptive child
+grandparent
+grandchild
+adoptive grandchild
+former adoptive grandchild
+sister
+half-sister
+brother
+half-brother
+aunt
+uncle
+niece
+nephew

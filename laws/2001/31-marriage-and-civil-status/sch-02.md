@@ -1,19 +1,11 @@
 # SCHEDULE 2
-(Article 6(1))
+(Article 4(3) and 5)
 CONSENTS REQUIRED TO THE MARRIAGE OF A MINOR
-1. Where the minor is legitimate -
-(a) where both parents are living -
-(i) if the parents are divorced or separated by order of a court or by agreement, the consent shall be required of -
-(A) the parent to whom sole custody of the minor is committed by order of that court or by the agreement, or
-(B) both parents, if the custody of the minor is so committed to one parent during part of the year and to the other parent during the rest of the year,
-or
-(ii) if both parents have been deprived of custody of the minor by order of a court, the consent shall be required of the person to whose custody the minor is committed by order of that court, or
-(iii) in any other case, the consent shall be required of both parents;
-(b) where one parent is dead, the consent shall be required of -
-(i) the surviving parent, or
-(ii) if the surviving parent has been deprived of custody of the minor by order of a court, of the person to whose custody the minor is committed by order of that court;
-or
-(c) where both parents are dead, the consent shall be required of the guardian.
-2. Where the minor is illegitimate -
-(a) if the mother of the minor is alive her consent shall be required or, if she has been deprived of custody of the minor by order of a court, the consent shall be required of the person to whom the custody of the minor has been committed by order of that court;
-(b) if the mother of the minor is dead, the consent shall be required of the guardian.
+1 The consents are -
+(a) subject to sub-paragraphs (b) to (d), the consent of -
+(i) each parent (if any) of the minor who has parental responsibility for the minor, and
+(ii) each guardian (if any) of the minor;
+(b) where a residence order is in force with respect to the minor, the consent of the person or persons with whom the minor lives, or is to live, as a result of the order (in substitution for the consents mentioned in sub-paragraph (a));
+(c) where a care order is in force with respect to the minor, the consent of the Minister for Health and Social Services (in addition to the consents mentioned in sub-paragraph (a)); and
+(d) where neither sub-paragraph (b) nor (c) applies but a residence order was in force with respect to the minor immediately before the minor reached the age of 16, the consent of the person or persons with whom the minor lives, or was to live, as a result of the order (in substitution for the consents mentioned in sub-paragraph (a)).
+2 In this Schedule “guardian”, “parental responsibility”, “residence order” and “care order” have the same meaning as in the Children (Jersey) Law 2002.
