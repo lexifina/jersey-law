@@ -1,1 +1,1 @@
-A LAW to extend the period of prescription of actions founded on tort, to amend the Law relating to proceedings against, and contributions between, tortfeasors, and to amend the Law relating to contributory negligence, sanctioned by Order of Her Majesty in Council of the
+A LAW to extend the period of prescription of actions founded on tort, to amend the law relating to proceedings against, and contributions between, tortfeasors, and to amend the law relating to contributory negligence
