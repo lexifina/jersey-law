@@ -1,26 +1,17 @@
-# SECOND SCHEDULE
-(Articles 1 and 24)
-PHARMACEUTICAL BENEFIT ADVISORY COMMITTEE
-1.-(1) In this Schedule, “the Advisory Committee” means the Pharmaceutical Benefit Advisory Committee.
-(2) References in this Schedule to approved suppliers are references to approved suppliers who are pharmaceutical chemists.
-2. The Advisory Committee shall consist of : -
-(a) a chairman and two other persons appointed by the Committee ;
-(b) a pharmaceutical chemist appointed by the Committee ;
-(c) the Medical Officer of Health ;
-(d) two approved medical practitioners and two approved suppliers, appointed in accordance with the provisions of paragraph 6 of this Schedule.
-3. The Committee shall appoint a secretary of the Advisory Committee and there shall be paid to the secretary such remuneration and allowances as the Committee thinks fit.
-4.-(1) The chairman and other appointed members of the Advisory Committee shall hold office for a period of twelve months ending on the twelfth day of April and shall be re-eligible :
-Provided that the first chairman and members shall be appointed as soon as may be after the appointed day and shall remain in office until the twelfth day of April next following.
-(2) The chairman or any appointed member of the Advisory Committee shall cease to hold office -
-(a) if he tenders his resignation in writing to the Committee ; or
-(b) if he appoints a special attorney without whom he may not transact in matters real or personal ; or
-(c) if a curator is appointed to his person or his property ; or
-(d) if, without reasonable excuse, he absents himself from three consecutive meetings of the Advisory Committee.
-(3) A person appointed to fill a casual vacancy in the office of chairman or member of the Advisory Committee shall hold office until the date on which the person in whose place he is appointed would have ceased to hold office.
-5. The following persons shall be ineligible for appointment under paragraph 2(a) of this Schedule, namely, members of the States, medical practitioners, dentists, opticians and pharmaceutical chemists, and persons who hold any paid office or other place of profit under the Crown or the States or any administration of the States or any parochial authority.
-6. The approved medical practitioners and approved suppliers to be appointed in pursuance of paragraph 2(d) of this Schedule shall be appointed respectively by the persons who on the twenty-first day preceding that on which the term of office is to commence are approved medical practitioners or, as the case may be, approved suppliers.
-7. The Advisory Committee shall appoint one of the members appointed in pursuance of paragraph 2(a) of this Schedule to be vice-chairman of the Advisory Committee, and in the absence of the chairman the vice-chairman shall preside at meetings of the Advisory Committee.
-8. Subject to the provisions of paragraph 7 of this Schedule, any member of the Advisory Committee may appoint a deputy to act on his behalf at any meeting of the Advisory Committee at which he is unable to be present and if a deputy has been so appointed and his appointment notified to the secretary of the Advisory Committee he shall be entitled to act in the place of the person by whom he is appointed :
-Provided that an approved medical practitioner or an approved supplier may only appoint a person of like qualifications to act on his behalf.
-9. On any matter on which the votes of the Advisory Committee are divided, the manner in which the members have voted shall be recorded.
-10. The Committee may by order make provision for regulating any matter which, in its opinion, requires regulating for the purpose of carrying any of the provisions of this Schedule into effect.
+# SCHEDULE 2
+(Articles 1 and 27)
+HEALTH SERVICES DISCIPLINARY TRIBUNAL
+1 In this Schedule, the “Tribunal” means the Health Services Disciplinary Tribunal.
+2 The States, on the recommendation of the Minister, shall appoint from among the advocates and solicitors of the Royal Court of not less than 5 years standing, to hold office during such period as the States may direct, a chairman of the Tribunal to preside at sittings of the Tribunal and a deputy chairman of the Tribunal to preside at such sittings where the chairman is unable to preside or is an interested party to the matter before the Tribunal.
+3 (1) The States, on the recommendation of the Minister, shall constitute a panel of not less than 5 persons who may be called upon to serve as members of the Tribunal.
+(2) The following persons shall be ineligible for inclusion in the said panel, namely, Jurats, members of the States, advocates and solicitors of the Royal Court, medical practitioners, dentists, opticians and pharmacists, and persons who hold any paid office or other place of profit under the Crown or the States or any administration of the States or any parochial authority.
+(3) The constitution of the said panel may be reviewed from time to time, and the States, on the recommendation of the Minister, may make such additions thereto and deletions therefrom as they consider necessary.
+4 (1) The Minister shall constitute 4 panels of persons who may be called upon to serve as members of the Tribunal, namely -
+(a) a panel of not less than 4 medical practitioners;
+(b) a panel of not less than 4 dentists;
+(c) a panel of not less than 4 opticians; and
+(d) a panel of not less than 4 pharmacists.
+(2) In relation to the constitution of each of the panels mentioned in sub-paragraph (1), the Minister shall consult with such insular organization as the Minister may recognize as representative of the profession concerned.
+(3) The constitution of the said panels may be reviewed from time to time and, subject to sub-paragraph (2), the Minister may make such additions thereto or deletions therefrom as the Minister considers necessary.
+5 The Tribunal shall consist of the chairman or deputy chairman and of 4 members selected by the Minister for each sitting, 2 from the panel constituted under paragraph 3 of this Schedule and 2 from a panel constituted under paragraph 4 of this Schedule, being persons belonging to the same profession as the person whose case is being investigated.
+6 The Minister shall appoint a secretary of the Tribunal and there shall be paid to the secretary such remuneration and allowances as the Minister thinks fit.
