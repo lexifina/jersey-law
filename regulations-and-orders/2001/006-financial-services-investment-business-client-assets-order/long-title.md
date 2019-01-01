@@ -1,0 +1,1 @@
+THE ECONOMIC DEVELOPMENT COMMITTEE, in pursuance of Articles 20 and 42 of the Financial Services (Jersey) Law 1998, and on the recommendation of the Jersey Financial Services Commission, orders as follows -
