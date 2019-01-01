@@ -1,0 +1,5 @@
+# SCHEDULE
+(Article 2(c))
+Text to be included in listing particulars or offer document to which this Order applies
+“The investments described in this document do not constitute a collective investment fund for the purpose of the Collective Investment Funds (Jersey) Law 1988, as amended, on the basis that they are investment products designed for financially sophisticated investors with specialist knowledge of, and experience of investing in, such investments, who are capable of fully evaluating the risks involved in making such investments and who have an asset base sufficiently substantial as to enable them to sustain any loss that they might suffer as a result of making such investments. These investments are not regarded by the Jersey Financial Services Commission as suitable investments for any other type of investor.
+Any individual intending to invest in any investment described in this document should consult his or her professional adviser and ensure that he or she fully understands all the risks associated with making such an investment and has sufficient financial resources to sustain any loss that may arise from it.”.
