@@ -1,0 +1,4 @@
+# 6A Persons in receipt of incapacity pensions
+(1) Subject to paragraph (3), an insured person who is in receipt of an incapacity pension shall be excepted from liability to pay a contribution under the Law for the period from the date on which the person becomes entitled to that pension until the end of the month before the one in which the person attains pensionable age.
+(2) An insured person who has been excepted from liability to pay a contribution for any period by virtue of paragraph (1) shall be credited, for that period, with contributions of the appropriate class in accordance with and subject to paragraph (3) and Article 15.
+(3) A person shall not be excepted from liability and contributions shall not be credited in respect of any period before the commencement of the period for which the person receives the incapacity pension.
