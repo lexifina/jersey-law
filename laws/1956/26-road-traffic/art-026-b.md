@@ -1,0 +1,12 @@
+# 26B Causing serious injury by careless driving when under the influence of drink or drugs
+(1) A person who causes serious injury to another person by driving a motor vehicle on a road or other public place without due care and attention or without reasonable consideration for other persons using the road or place and -
+(a) the person is, at the time when driving, unfit to drive through drink or drugs;
+(b) the person has consumed so much alcohol that the proportion of it in his or her breath, blood or urine at that time exceeds the prescribed limit;
+(c) the person is, within 18 hours after that time, required to provide a specimen under Article 30, but, without reasonable excuse, fails to provide it; or
+(d) the person is required by a police officer to give permission for a laboratory test of a specimen of blood taken from the person under Article 30A, but without reasonable excuse fails to do so,
+is guilty of an offence.
+(2) For the purposes of this Article, a person is taken to be unfit to drive if his or her ability to drive properly is for the time being impaired.
+(3) A person guilty of an offence under this Article is liable to imprisonment for a term of 4 years and to a fine.
+(4) Particulars of any conviction for an offence under this Article must be endorsed on any licence held by the person convicted.
+(5) A person convicted of an offence under this Article shall, without limiting the power of the court to order a longer period of disqualification and, unless the court shall for any special reason think fit to order otherwise, in the case of a first offence, be disqualified for a period of 2 years and in the case of a second or subsequent offence committed within 10 years of the last such offence, for a period of 3 years, for holding or obtaining a licence.
+(6) In paragraph (5) “offence” means an offence under this Article or under Article 26, 27, 28, 30 or 30B.
