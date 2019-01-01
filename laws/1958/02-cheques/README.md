@@ -1,13 +1,14 @@
 # Cheques (Jersey) Law 1957
 
-L.2/1958 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-02-1958.aspx>
+L.2/1958 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_2_1958_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to amend the Law relating to cheques and certain other instruments, sanctioned by Order of Her Majesty in Council  |
-| art-001 | [art-001.md](art-001.md) | 1 PROTECTION OF BANKERS PAYING UNINDORSED OR IRREGULARLY INDORSED CHEQUES, ETC |
-| art-002 | [art-002.md](art-002.md) | 2 RIGHTS OF BANKERS COLLECTING CHEQUES NOT INDORSED BY HOLDERS |
-| art-003 | [art-003.md](art-003.md) | 3 UNINDORSED CHEQUES AS EVIDENCE OF PAYMENT |
-| art-004 | [art-004.md](art-004.md) | 4 PROTECTION OF BANKERS COLLECTING PAYMENT OF CHEQUES, &C |
-| art-005 | [art-005.md](art-005.md) | 5 INTERPRETATION |
-| art-006 | [art-006.md](art-006.md) | 6 SHORT TITLE AND COMMENCEMENT |
+| Long title | [long-title.md](long-title.md) | A LAW relating to cheques and certain other instruments |
+| Art. 1 | [art-001.md](art-001.md) | 1 Protection of bankers paying unindorsed or irregularly indorsed cheques, etc. |
+| Art. 2 | [art-002.md](art-002.md) | 2 Rights of bankers collecting cheques not indorsed by holders |
+| Art. 3 | [art-003.md](art-003.md) | 3 Unindorsed cheques as evidence of payment |
+| Art. 4 | [art-004.md](art-004.md) | 4 Non-transferable cheques |
+| Art. 5 | [art-005.md](art-005.md) | 5 Protection of bankers collecting payment of cheques, etc. |
+| Art. 6 | [art-006.md](art-006.md) | 6 Interpretation |
+| Art. 7 | [art-007.md](art-007.md) | 7 Citation |
