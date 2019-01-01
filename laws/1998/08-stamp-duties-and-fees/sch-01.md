@@ -1,3194 +1,1356 @@
-# FIRST SCHEDULE
+# SCHEDULE 1
 (Article 2)
-PART I
-JUDICIAL FEES
-Item
-Stamp Duty
+judicial fees
+1 Lettered Rates
+In the column headed “Stamp Duty, by Figure or Rate” in the tables in paragraph 3, the amounts represented by the lettered rates (if shown) in those tables are -
+(a) by rate A, £1;
+(b) by rate B, £15;
+(c) by rate C, £30;
+(d) by rate D, £40;
+(e) by rate E, £60;
+(f) by rate F, £80;
+(g) by rate G, £120;
+(h) by rate H, £150;
+(i) by rate I, £200;
+(j) by rate J, £300;
+(k) by rate K, £360;
+(l) by rate L, £500;
+(m) by rate M, £1,500.
+2 Bands relating to value in item 13
+The table set out in this paragraph is to be read as included in each paragraph of item 13 where there is an entry “See table in paragraph 2”.
+Item 13
+Stamp Duty by Figure or Rate
+Chargeable Document
+Designated Officer
+(i) does not exceed £50,000
+50p each £100 or part of £100 subject to a minimum of £10
+Contract
+Greffier
+(ii) exceeds £50,000 but does not exceed £300,000
+£250 in respect of the first £50,000, plus £1.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii) exceeds £300,000 but does not exceed £500,000
+£4,000 in respect of the first £300,000, plus £2 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iv) exceeds £500,000 but does not exceed £700,000
+£8,000 in respect of the first £500,000, plus £2.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(v) exceeds £700,000 but does not exceed £1,000,000
+£13,000 in respect of the first £700,000, plus £3 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vi) exceeds £1,000,000 but does not exceed £1,500,000
+£22,000 in respect of the first £1,000,000 plus £3.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vii) exceeds £1,500,000 but does not exceed £2,000,000
+£39,500 in respect of the first £1,500,000 plus £4 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(viii) exceeds £2,000,000
+£59,500 in respect of the first £2,000,000 plus £5 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+Provided that in the case of a contract concerning land on which a dwelling is, or is to be, constructed, for clauses (iv) to (viii) there is substituted -
+(iv) exceeds £500,000 but does not exceed £700,000
+£8,000 in respect of the first £500,000, plus £3 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(v) exceeds £700,000 but does not exceed £1,000,000
+£14,000 in respect of the first £700,000, plus £3.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vi) exceeds £1,000,000 but does not exceed £1,500,000
+£24,500 in respect of the first £1,000,000 plus £4.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vii) exceeds £1,500,000 but does not exceed £2,000,000
+£47,000 in respect of the first £1,500,000 plus £5.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(viii) exceeds £2,000,000 but does not exceed £3,000,000
+£74,500 in respect of the first £2,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(ix) exceeds £3,000,000 but does not exceed £6,000,000
+£139,500 in respect of the first £3,000,000 plus £8.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(x) exceeds £6,000,000
+£394,500 in respect of the first £6,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+3 Tables of judicial fees
+Item 1.
+Stamp Duty, by Figure or Rate
 Chargeable Document
 Designated Officer
 1.
-ACKNOWLEDGE-MENT OF DEBT ON “TABLE” OR “AU GREFFE” -
-(a)
-Where the borrow-ing relates to a contract of purchase falling to be charged -
-(i)
-under clause (i) of sub-paragraph (b) of item 15 of this Part of this Schedule
-£25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) “Billet”
+ACKNOWLEDGEMENT OF DEBT ON TABLE OR AU GREFFE -
+(aa)
+Where -
+(i) the borrowing relates to a contract of purchase, or a contract of lease or transfer of lease, of land on which a dwelling is, or is to be, constructed for occupation by the purchaser,
+(ii) the borrowing and the contract relate to the same property,
+(iii) the acknowledgement and the contract were registered in the Public Registry and passed before the Royal Court on the same day, and
+(iv) where the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale, is £700,000 or less -
+(A) where the value of the property does not exceed £600,000
+NIL
+Billet
 Greffier
-(ii)
-under clause (ii) of sub-paragraph (b) of item 15 of this Part of this Schedule
-12.5p for each £100 or part of £100 of the amount to be acknow-ledged, with a minimum fee of £25.00
-(iii)
-under clause (iii) of sub-paragraph (b) of item 15 of this Part of this Schedule
-25p for each £100 or part of £100 of the amount to be acknowledged, with a minimum fee of £25.00
-(iv)
-under clause (iv) of sub-paragraph (b) of item 15 of this Part of this Schedule
-37.5p for each £100 or part of £100 of the amount to be acknow-ledged, with a minimum fee of £25.00
+(B) where the value of the property exceeds £600,000 but does not exceed £700,000
+0.5% x
+((Y - 600,000)
+/100,000)
+where Y is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of sale
+Billet
+Greffier
 (b)
-Where the borrower produces to the designated officer a letter from the Comptroller of Income Tax confir-ming that it qualifies for exemp-tion from income tax pursuant to Article 115(a), (aa) or (ab) of the Income Tax (Jersey) Law 1961
-£5.00
+Where the borrower produces to the designated officer a letter from the Comptroller of Taxes confirming that it qualifies for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+£5
+Billet
+Greffier
+(ba)
+Where an acknowledgement of debt document specifies a new amount of borrowing (the “new borrowing document”) for a dwelling in respect of which another acknowledgement of debt document specifying an amount of borrowing is registered in the Public Registry and for which stamp duty has been paid (the “registered borrowing document”), and some or all of the amount specified in the registered borrowing document remains unpaid (the “unpaid amount”) -
+(i) where the amount of borrowing specified in the new borrowing document is less than or equal to the unpaid amount
+rate F
+Billet
+Greffier
+(ii) where the amount of borrowing specified in the new borrowing document is greater than the unpaid amount,
+(I) for the portion of the amount that is equal to the unpaid amount, and
+rate F
+Billet
+Greffier
+(II) for the portion of the amount that is greater than the unpaid amount
+50p for each £100 or part of £100 of the amount to be acknowledged subject to a minimum of £5
+Billet
+Greffier
+and if the new borrowing document is for land on which a dwelling is to be constructed and in respect of which there is a registered borrowing document for the same land and dwelling and there is an unpaid amount, then sub-paragraphs (i) and (ii) shall apply to the registration of that new borrowing document for that land and that dwelling in the same way as they apply to a registration of a new borrowing document for a dwelling
+The stamp duty specified in paragraph (ba) for registration of a new borrowing document shall not be substituted for the stamp duty specified in paragraph (c) unless the Greffier is satisfied that -
+(A) stamp duty has been paid in respect of the registered borrowing document (whether under item 1(a) or (c));
+(B) the registered borrowing document will be cancelled in the Public Registry (rayé) and replaced by the new borrowing document;
+(C) all the same persons have acknowledged indebtedness in both the new borrowing document and the registered borrowing document;
+(D) the borrowing applies to a dwelling that is -
+(a) owned and occupied by the person who has acknowledged indebtedness (the “borrower”) as his or her sole place of residence in Jersey and the owner and occupier of the dwelling on the date of registration of the registered borrowing document are the same owner and occupier of the dwelling on the date on which the new borrowing document is to be registered, or
+(b) owned by a company and occupied by a person (the “occupier”) as his or her sole place of residence in Jersey who is entitled to occupy that dwelling by virtue of owning shares in that company and the borrowing is undertaken by or on behalf of the occupier and the occupier of the dwelling on the date of registration of the registered borrowing document is the same occupier of the dwelling on the date on which the new borrowing document is to be registered,
+(or if the dwelling is not yet constructed, it will comply with either sub-clause (a) or (b) when constructed);
+(E) the borrower to whom clause (D)(a) applies or the occupier to whom clause D(b) applies is a person who -
+(i) has Entitled status in accordance with the Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013, other than by virtue of Regulation 2(1)(e) of those Regulations,
+(ii) has Licensed status in accordance with those Regulations, or
+(iii) is the spouse or civil partner of a person described in clause (i) or (ii) and is a joint borrower or occupier with that person; and
+(F) the new borrowing document and the registered borrowing document relate to the same dwelling (or where the dwelling is not yet constructed, the new borrowing document and the registered borrowing document relate to the same land and the construction of that dwelling on it).
 (c)
 In any other case
-50p for each £100 or part of £100 of the amount to be acknowl-edged, with a minimum fee of £5.00:
+50p for each £100 or part of £100 of the amount to be acknowledged subject to a minimum of £5
+Billet
+Greffier
+(d)
+In all cases under this item, except paragraph (ba), for each document registered
+rate F
+Billet
+Greffier
+Provided that where the Greffier is satisfied that the document is a renewal or further renewal of a judicial hypothec on which stamp duty has already been paid and which has become prescribed by lapse of time under Article 29 of the Loi (1880) sur la Propriété Foncière, the total fee payable -
+(A)
+under paragraph (a) or (c) of this item shall be rate F; and
+(B)
+under paragraph (b) of this item shall be rate B
+Item 2.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
 2.
 ACTIONS -
-(A)
+(1)
 In the Petty Debts Court -
-(a)
-Where the claim does not exceed £100
-£1.50
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) “Billet”
-(b)
-Where the claim exceeds £100 but does not exceed £500
-£7.50
-(c)
-Where the claim exceeds £500
-£15.00
-(d)
-For explusion of a refractory tenant
-£7.50
-(e)
-In pursuance of the Separation and Maintenance Orders (Jersey) Law 1953, or the Maintenance Orders (Facilities for Enforcement) (Jersey) Law 1953
-£1.50
+(a) Where the claim does not exceed £100
+£7
+Claim Summary
 Greffier
-(f)
-Each plea, applica-tion, declaration, intervention or opposition made during the hearing
-£1.00
-)
-)
-)
-)
-)
-)
-(B)
-In the Royal Court (excluding acknowledgement of debt) on “Table” or “au Greffe” -
-(a)
-First “billet” in the proceedings, counterclaim in an action or notice of appeal -
-(i)
-where the amount claimed does not exceed £5,000
-£15.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(ii)
-where the amount claimed exceeds £5,000 but does not exceed £10,000
-£20.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-where the amount claimed exceeds £10,000 or there is a claim for general damages
-£25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iv)
-where no sum of money is claimed
-£10.00
-)
-)
-) “Billet”
-)
-)
-) Greffier
-) counter-
-) claim or
-) notice of
-) appeal
-) filed
-)
-)
-)
-)
-)
-)
-)
-(v)
-before the Superior Number
-£15.00
-)
-)
-)
-)
-)
-)
-(vi)
-on an appeal to the Inferior Number
-£10.00
-)
-)
-)
-)
-)
-)
-(b)
-Setting down for hearing
-£10.00
-)
-)Application
-)
-)
-)
-(c)
-Hearing of the action in a case, or any interlocutory matter therein, where the court appoints a special day for judging a dispute between parties, whether or not witnesses are heard, for each day or part of a day
-£80.00
-)
-)
-)
-)
-)
-)
-)
-)
-) “Billet”
-) or
-) application
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(d)
-Each plea, application, declara-tion, intervention or opposition made during the course of an action
-£3.00
-Plea, etc.
-)
-)
-)
-)
-)
-)
-)
-(C)
-In which the Attorney General is joined -
-(a)
-Attorney General attending -
-(i)
-in Court when leave to intervene is given
-£50.00
-)
-)
-)
-)
-) Such
-) document
-) as the
-) Attorney
-) General
-(ii)
-to examine documents
-£25.00
-(iii)
-outside chambers
-£50.00
-Attorney General
-) may
-) direct
-)
-(b)
-Signature of each summons
-£25.00
-)
-)
-)
-(c)
-Each consultation
-£25.00
-)
-)
-(d)
-Preparation of each plea
-£25.00
-)
-)
-)
-(e)
-Each attendance in Court
-£50.00
-)
-)
+(b) Where the claim exceeds £100 but does not exceed £500
+rate B
+Claim Summary
+Greffier
+(c) Where the claim exceeds £500 but does not exceed £1,000
+rate C
+Claim Summary
+Greffier
+(d) Where the claim exceeds £1,000 but does not exceed £5,000
+rate F
+Claim Summary
+Greffier
+(da) Where the claim exceeds £5,000 but does not exceed £10,000
+rate G
+Claim Summary
+Greffier
+(db) Where the claim exceeds £10,000, but does not exceed £15,000
+rate H
+Claim Summary
+Greffier
+(dc) Where the claim exceeds £15,000, but does not exceed £25,000
+rate I
+Claim Summary
+Greffier
+(dd) Where the claim exceeds £25,000, but does not exceed £30,000
+rate J
+Claim Summary
+Greffier
+(e) For expulsion of a refractory tenant
+rate G
+Claim Summary
+Greffier
+(f) In pursuance of the Separation and Maintenance Orders (Jersey) Law 1953 or the Maintenance Orders (Facilities for Enforcement) (Jersey) Law 2000
+rate E
+Claim Summary
+Greffier
+(g) Each intervention or opposition made during the hearing
+rate E
+Intervention or Opposition
+Greffier
+(ga) Hearing of the action in a case, or any interlocutory matter in a case, for each day or part of a day where -
+(i) the court appoints a special day for judging a dispute between parties, whether or not witnesses are heard, and
+(ii) the claim exceeds £3,000
+rate J
+Billet or application
+Greffier
+(h) Fixing a date for a trial or hearing
+rate C
+Application or Claim Summary
+Greffier
+(2)
+In the Royal Court (excluding acknowledgement of debt) on Table or au Greffe -
+(a) First billet in the proceedings or counterclaim in an action
+rate J
+Billet or Counterclaim
+Greffier
+(b) Before the Superior Number
+rate J
+Billet
+Greffier
+(c) Appeal to the Inferior Number
+rate J
+Notice of Appeal
+Greffier
+(d) Setting down for hearing
+rate J
+Application
+Greffier
+(e) Hearing of the action in a case, or any interlocutory matter therein, where the court appoints a special day for judging a dispute between parties, whether or not witnesses are heard, for each half day or part of a half day -
+Billet or application
+Greffier
+(i) where the claim does not exceed £2 million
+rate J
+(ii) where the claim exceeds £2 million
+rate M
+(f) Each intervention or opposition made during the course of an action
+rate E
+Intervention or Opposition
+Greffier
+Item 3.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
 3.
-ACT OF THE COURT REGISTERED IN THE REGISTER OF OBLIGATIONS, CANCELLATION OF -
-(a)
-Where the Act is produced
-£5.00
-Act
-)
-)
-)
-) Greffier
-(b)
-Where the Act cannot be produced
-£10.00
-Affidavit or declaration
-)
-)
-)
+ACT OF THE COURT REGISTERED IN THE REGISTER OF OBLIGATIONS, cancellation of
+rate E
+Act, Affidavit or Declaration
+Greffier
+Item 4.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
 4.
-ADOPTION -
-Application and hearing under the Adoption (Jersey) Law 1961
-£25.00
+ADOPTION, application and hearing under the Adoption (Jersey) Law 1961
+rate G
 Application
 Greffier
+Item 5.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
 5.
-“AFFRANCHISSE- MENT” UNDER “LOI (1915) SUR LA PROPRIETE FONCIERE (GARANTIES)” -
-The procedure shall be free with the exception of -
-(a)
-The action and registration referred to in the fifth paragraph of Article 5;
-(b)
-The contracts refer-red to in Article 6;
-(c)
-The contracts and actions referred to in the first and second paragraphs of Article 12;
-(d)
-The action against the buyer, and the contracts and actions, referred to in the third para-graph of Article 12;
-(e)
-The fees referred to in the last paragraph of Article 12.
-6.
-APPLICATION OR DECLARATION -
-Not otherwise provided for in this Schedule
-£5.00
-Application
-or
-declaration
+APPLICATION OR DECLARATION, not otherwise provided for in this Schedule
+rate F
+Application or Declaration
 Greffier
-7.
-ARBITRATION BEFORE GREFFIER -
-(a)
-For each atten-dance, fee payable by the plaintiff, for each half day or part thereof
-£30.00
+Item 6.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+6.
+ARBITRATION BEFORE GREFFIER, for each attendance, fee payable by the plaintiff, for each half day or part of a half day
+rate L
 Record
-)
-)
-)
-)
-) Greffier
-)
-(b)
-For each plea filed by the parties
-£3.00
-Plea
-)
-)
-8.
-ARREST OF DEBTOR (“SAISIE”)
+Greffier
+Item 7.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+7.
+ARREST OF DEBTOR (SAISIE) -
 (a)
 Arrest and notification
-At discretion of Viscount with a maximum of £100.00
+At discretion of Viscount subject to a maximum of rate L
 Order of justice, provisional order or Act of the Court
-)
-)
-)
-)
-)
-)
-)
+Viscount
 (b)
-Certifying copy of account
-£1.00
-Copy of account
-)
-)
-)
-)
-(c)
 Discharge of arrest
-£5.00
+rate G
 Record
-) Viscount
-)
+Viscount
+(c)
+Accepting surety to release arrest of debtor, or to produce debtor before Court on pain of satisfying judgment
+rate G
+Record
+Viscount
 (d)
-Accepting surety to release arrest of debtor, or to produce him before Court on pain of satisfying judgment
-£10.00
-Record
-)
-)
-)
-)
-)
-)
-)
-(e)
 Attending to arrest debtor, arrest not effected
-At discretion of Viscount with a maximum of £100.00
+At discretion of Viscount subject to a maximum of rate L
 Order of justice, provisional order or Act of the Court
-)
-)
-)
-)
-)
-)
-)
-Where, in addition to the arrest of a debtor, his goods are distrained on, the fees specified under item No. 22 of this Part of this Schedule shall be payable in addition to the fees specified under this item.
-9.
-AUTHORITY TO PRACTISE AS -
-Architect, dentist, medical practitioner, optician, pharma-ceutical, chemist, veterinary surgeon
-£25.00
+Viscount
+Provided that where, in addition to the arrest of a debtor, the debtor’s goods are distrained on, the fees specified under item 19 of this Part shall be payable in addition to the fees specified under this item.
+Item 8.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+8.
+AUTHORITY TO PRACTISE as an architect, dentist, medical practitioner, optician, veterinary surgeon
+rate H
 Application
 Greffier
-10.
-BUSINESS NAMES, REGISTRATION OF - REGISTRATION OF BUSINESS NAMES (JERSEY) LAW 1956
-(a)
-Filing -
-(i)
-statement of particulars required by Article 4
-£20.00
-)
-)
-)
-)
-)
-(ii)
-statement of particulars required by Article 3 when such particulars are not furnished with the statement required by Article 4
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Statement
-Greffier
-)
-(iii)
-statement of change furnished in accordance with Article 7
-£10.00
-)
-)
-)
-)
-)
-The fees paid under sub-paragraph (a) of this item cover the furnishing of one certificate of registration.
-(b)
-Searches -
-(i)
-for each personal search
-£2.00
-Search
-)
-)
-ticket
-)
-) Greffier
-(ii)
-for each postal search
-£5.00
-Letter of application
-)
-)
-)
-(c)
-Copies -
-(i)
-copy of certificate of registration
-25p
-)
-)
-)
-)
-(ii)
-copy of, or extract from, registered particulars, each page
-25p
-) Applic-
-) ation
-)
-)
-)
-Greffier
-)
-(iii)
-Greffier’s certificate and signature
-£5.00
-)
-)
-)
-11.
-“CASIER JUDICIAIRE” -
-Certificate relating to criminal convictions
-£20.00
+Item 9.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+9.
+CASIER JUDICIAIRE, certificate relating to criminal convictions
+rate G
 Certificate
 Greffier
-12.
-CAVEAT IN RELATION TO THE PASSING OF A CONTRACT TRANSFERRING IMMOVABLE PROPERTY
+Item 10.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+10.
+CAVEAT IN RELATION TO THE PASSING OF A CONTRACT TRANSFERRING IMMOVABLE PROPERTY -
 (a)
 Lodging caveat with Bailiff
-£10.00
-)
-)
+rate E
+Caveat
+Bailiff
 (b)
 Renewal of caveat
-£10.00
-) Caveat
-)
+rate E
+Caveat
 Bailiff
 The fees paid under this item include delivery to the debtor of a copy of the caveat and filing a copy in the Public Registry.
-13.
-“CESSION” -
-Application to Court to make “cession”, and posting of notice
-£2.00
+Item 11.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+11.
+CESSION, application to Court to make cession, and posting of notice
+rate G
 Application
 Greffier
-14.
-COMMISSION PAYABLE IN RESPECT OF THE ADMINISTRATION BY THE VISCOUNT OF PROPERTY OTHER THAN PROPERTY “EN DESASTRE”
+Item 12.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+12.
+COMMISSION PAYABLE IN RESPECT OF THE ADMINISTRATION BY THE VISCOUNT of property other than property en désastre -
 (a)
 In respect of money or assets received
 10%
-)
-)
-) Record
+Record
 Viscount
 (b)
 On any money or assets paid out or distributed
 2½%
-)
-)
-)
-15.
+Record
+Viscount
+Item 13.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+13.
 CONTRACTS -
 (a)
-Of sale of immovable property other than “rentes anciennes” but including “rentes nouvelles” and simple conventional hypothecs (except as provided by sub-paragraphs (b), (k), (l) or (u) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
-(i)
-does not exceed £50,000
-50p each £100 or part of £100, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-(ii)
-exceeds £50,000 but does not exceed £300,000
-£250.00 in respect of the first £50,000, plus £1.00 for each £100 or part of £100 in excess thereof
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-)
-)
-Greffier
-)
-(iii)
-exceeds £300,000
-£2,750 in respect of the first £300,000 plus £1.25 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-In the case of a contract of exchange of immovable property the fees specified in this paragraph shall be separately calculated in respect of the gross value of each property transferred.
+Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (b), (j), (k) or (t) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
+SEE TABLE IN PARAGRAPH 2
+Provided that in the case of a contract of exchange of immovable property the fees specified in the table in this paragraph shall be separately calculated in respect of the gross value of each property transferred.
 (b)
 Of sale of land on which a dwelling is, or is to be, constructed for occupation by the purchaser where (subject as is hereinafter provided) the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale -
-(i)
-does not exceed £100,000
-£100.00
-)
-)
-)
-(ii)
-exceeds £100,000 but does not exceed £110,000
-25% of the fee calculated in accordance with sub-paragraph (a) of this item, with a minimum fee of £100.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-exceeds £110,000 but does not exceed £130,000
-50% of the fee calculated in accordance with sub-paragraph (a) of this item, with a minimum fee of £100.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iv)
-exceeds £130,000 but does not exceed £150,000
-75% of the fee calculated in accordance with sub-paragraph (a) of this item, with a minimum fee of £100.00:
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Provided that the fees specified in this sub-paragraph shall only be substituted for those payable under sub-paragraph (a) of this item where the transaction fulfils all the following conditions -
-(i)
-the purchaser requests that the stamp duty be assessed in accordance with this sub-paragraph;
-(ii)
-the purchaser is a person to whom any of sub-paragraphs (a) to (h) or clause (ii) of sub-paragraph (n) of paragraph (1) of Regulation 1 of the Housing (General Provisions) (Jersey) Regulations 1970 applies;
-(iii)
-the purchaser satisfies the designated officer that he does not own or hold on contract lease, whether in his own name either solely or jointly or in common with any other person, or beneficially through a nominee or limited liability company or other corporate body, and has not previously so owned or held on contract lease, any dwelling accommodation in Jersey or elsewhere; and
-(iv)
-the consideration for the sale is not less, or not substantially less, than the gross value of the property as sold.
-(c)
-Of gift, resignation or cession without cash consideration of im-movable property (except as provided by sub-paragraphs (k), (l) or (u) of this item), where the net value of the im-movable property transferred -
-(i)
-does not exceed £50,000
-50p for each £100 or part of £100,with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-(ii)
-exceeds £50,000 but does not exceed £300,000
-£250.00 in respect of the first £50,000, plus £1.00 for each £100 or part of £100 in excess thereof
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Greffier
-)
-(iii)
-exceeds £300,000
-£2,750 in respect of the first £300,000, plus £1.25 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(d)
-Of creation of “rente nouvelle” or of a simple conventional hypothec or hypothecs -
-)
-)
-)
-)
-)
-(i)
-in association with a contract of purchase falling to be charged under clause (i) of sub-paragraph (b) of this item
-£25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(ii)
-in association with a contract of purchase falling to be charged under clause (ii) of sub-paragraph (b) of this item
-12.5p for each £100 or part of £100 of the capital sum hypoth-ecated, with a minimum fee of £25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-in association with a contract of purchase falling to be charged under clause (iii) of sub-paragraph (b) of this item
-25p for each £100 or part of £100 of the capital sum hypoth-ecated, with a minimum fee of £25.00
-)
-)
-)
-)
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Greffier
-)
-(iv)
-in association with a contract of purchase falling to be charged under clause (iv) of sub-paragraph (b) of this item
-37.5p for each £100 or part of £100 of the capital sum hypoth- ecated, with a minimum fee of £25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(v)
-where the borrower produces to the designated officer a letter from the Comptroller of Income Tax confirming that it qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ab) of the Income Tax (Jersey) Law 1961
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(vi)
-in any other case
-50p for each £100 or part of £100 of the capital sum hypoth-ecated, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(e)
-Sale of “rente ancienne”
-50p for each £100 or part of £100 of the consi-deration for the sale, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(f)
-Of creation or sale of an annuity or of cession or sale of life-enjoyment of immovable property (except as provided by sub-paragraph (j) of this item)
-50p for each £100 or part of £100 of the capital value of the annuity or life - enjoy-ment, as agreed with the Greffier, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Greffier
-)
-(g)
-Of assignment or reimbursement of “rente ancienne” or of reimbursement of “rente nouvelle” or of a simple conventional hypothec or hypo-thecs, where the capital reimbursable value of the “rente” or hypothec assigned or reimbursed -
-) Contract
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Greffier
-)
-(i)
-does not exceed £5
-25p
-)
-)
-)
-(ii)
-exceeds £5 but not £10
-5p
-)
-)
-)
-(iii)
-exceeds £10 but not £100
-£1.00
-)
-)
-)
-(iv)
-exceeds £100 but not £1,000
-£5.00
-)
-)
-)
-(v)
-exceeds £1,000
-£10.00
-)
-)
-(h)
-Of “partage” (except as provided by sub-paragraph (j) of this item)
-50p for each £100 or part of £100 of the total net value of the immovable property disposed by the contract, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(j)
-Of cession without cash consideration of the life-enjoyment of immovable property passed before Court at the same time as, or within one month directly following, the contract of acqui-sition of the property by the transferor, if the transferee is a member of the trans-feror’s family; or, except where the proviso to item 53 applies, of “partage” of devised immovable property passed before Court within the eighteen months next following regis-tration of the will of the deceased; or of “sous-partage”
-£2.00 for each page of the contract, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-Greffier
-)
-(k)
-Of sale, gift, cession or other transfer of immovable property by a sole owner into joint ownership with another person, where the cash consideration for the transfer or, if one half of the net value of the property exceeds such consi-deration, one half of the net value of the property -
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(i)
-does not exceed £50,000
-50p for each £100 or part of £100, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-(ii)
-exceeds £50,000 but does not exceed £300,000
-£250.00 in respect of the first £50,000, plus £1.00 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-exceeds £300,000
-£2,750 in respect of the first £300,000 plus £1.25 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-If the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be
-£2.00 for each page of the contract, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-Greffier
-)
-Where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, the fee specified in this paragraph shall be reduced to a fee of £2.00 for each page of the contract with a minimum fee of £5.00.
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(l)
-Of sale, gift, cession or other transfer of immovable property by a joint owner into sole ownership, where the cash consideration for the transfer -
-)
-)
-)
-)
-)
-)
-)
-)
-(i)
-does not exceed £50,000
-50p for each £100 or part of £100, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-(ii)
-exceeds £50,000 but does not exceed £300,000
-£250.00 in respect of the first £50,000, plus £1.00 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-exceeds £300,000
-£2,750 in respect of the first £300,000 plus £1.25 for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-If the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be minimum fee of £5.00
-£2.00 for each page of the contract, with a mini-mum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-Greffier
-)
-Where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, the fee specified in this paragraph shall be reduced to a fee of £2.00 for each page of the contract with a minimum fee of £5.00.
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(m)
-Of lease, sub-lease or transfer or extension of lease or sub-lease, where (subject as is hereinafter provided, and except as provided by sub-paragraphs (n) or (u) of this item) the figure being the product of the annual rental stipulated in the contract multi-plied by the number of years for which the contract provides that the lessee, sub-lessee or transferee shall have posses-sion of the demised premises (excluding any period in excess of 21 years) with the addition of any consideration (other than agent’s com-mission and legal fees) to whomsoever paid or payable in respect of the transaction by the lessee, sub-lessee or transferee, whether stipulated in the contract or not -
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(i)
-does not exceed £100,000
-25p for each £100 or part of £100, with a mini-mum fee of £5.00
-)
-) Contract
-)
-)
-)
-)
-)
-Greffier
-)
-(ii)
-exceeds £100,000
-£250.00 in respect of the first £100,000, plus 50p for each £100 or part of £100 in excess thereof
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-In calculating the fee payable under this sub-paragraph -
-(i)
-in determining the number of years to be taken into account, any fraction of a year shall be reckoned as a full year and any optional extension of the term of the lease or sub-lease shall be included;
-(ii)
-in the case of a transfer or extension of a lease or sub-lease, (except as hereinafter provided) the rental to be taken as a basis for calculating the fee shall be the rental currently pay-able for the demised premises at the date of the contract;
-(iii)
-where a lease or sub-lease is granted, trans-ferred or exten-ded for less than the pre-vailing market rental of the demised pre-mises, a fee calculated on such rental shall be agreed with the Greffier;
-(iv)
-any contract increasing the rental payable in respect of an existing lease or sub-lease shall be dee-med to be a contract of lease for the purpose of this Law, and shall be subject to the fee speci-fied in this sub-paragraph in respect of the increased rental or any part thereof on which stamp duty has not previously been paid under clause (iii) above;
-(v)
-in the case of an extension of a lease or sub-lease, the term of years on which stamp duty has pre-viously been paid by the lessee or sub-lessee may, at the discretion of the Greffier, be taken into account in determining the fee to be paid under this sub-paragraph in respect of the extension.
-(n)
-Of lease or transfer of lease of dwelling accommodation where (subject as is hereinafter provided) the transaction falls within the financial limits of the Building Loans (Miscella-neous Provisions) (Jersey) Regulations 1961 (whether or not a loan is actually made under those Regulations) and the gross value of the premium for granting or transfer of the lease, calculated on the basis of market values obtaining at the time of the passing of the contract -
-(i)
-does not exceed £100,000
-£100.000
-)
-)
-)
-(ii)
-exceeds £100,000 but does not exceed £110,000
-25% of the fee calcula-ted in accordance with sub-paragraph (m) of this item with a minimum fee of £100.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iii)
-exceeds £110,000 but does not exceed £130,000
-50% of the fee calcula-ted in accordance with sub-paragraph (m) of this item with a minimum fee of £100.00
-)
-)
-)
-) Contract
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(iv)
-exceeds £130,000 but does not exceed £150,000
-75% of the fee calcula-ted in accordance with sub-paragraph (m) of this item, with a minimum fee of £100.00:
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Provided that the fees specified in this sub-paragraph shall only be substituted for those payable under sub-paragraph (m) of this item where the transaction fulfils all the following conditions -
-(i)
-the lessee or transferee requests that the stamp duty be assessed in accordance with this sub-paragraph;
-(ii)
-the lessee or transferee is a person to whom any of sub-paragraphs (a) to (h) or clause (ii) of sub-paragraph (n) of paragraph (1) of Regulation 1 of the Housing (General Provisions) (Jersey) Regulations 1970 applies;
-(iii)
-the lessee or transferee satisfies the designated officer that he does not own or hold on contract lease, whether in his own name either solely or jointly or in common with any other person, or beneficially through a nominee or limited liability company or other corporate body and has not previously so owned or held on contract lease, any dwelling accommodation in Jersey or elsewhere; and
-(iv)
-the premium for the granting or transfer of the lease is not less, or not substantially less, than the gross value of the premium calculated in accordance with the foregoing provisions of this sub-paragraph.
-(o)
-Not otherwise provi-ded for under this item -
-)
-)
-)
-)
-(i)
-where a consideration is stipulated in the contract
-50p for each £100 or part of £100, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract
-Greffier
-(ii)
-where no consi-deration is stipulated in the contract
-£2.00 for each page of the contract, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(p)
-Power of attorney, or letters of appoint-ment of guardian, or of administration to property, or of attainment of majority
-£5.00
-Power of
-Greffier
-attorney or letters
-(q)
-Where contracts, powers of attorney, or letters of appoint-ment of guardian, or of administration to property, or of attain-ment of majority, are passed in private, or otherwise than on a day or at a time appointed by rules of court for the public passing of contracts, an additional fee shall be payable of
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(r)
-For any contract, power of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority, passed “en minute” an additional fee shall be payable of
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract,
-Greffier
-) power of
-) attorney
-)or letters
-(s)
-For the sealing of a contract by the Bailiff
-£10.00
+(i) does not exceed £350,000
+NIL
 Contract
-)
-)
-)
-) Greffier
-(t)
-For the signing of a copy of a contract by the Bailiff
-£10.00
-Copy of
-)
-)
-)
-contract
-)
-(u)
-Of sale within the terms of sub-paragraph (a) of this item, of gift, resignation or cession within the terms of sub-paragraph (c) of this item or of lease, sublease or transfer or extension of lease or sub-lease within the terms of sub-paragraph (m) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Income Tax confirming that it qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ab) of the Income Tax (Jersey) Law 1961
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Contract
 Greffier
-16.
-“LOI (1991) SUR LA COPROPRIETE DES IMMEUBLES BATIS”
+(ii) exceeds £350,000 but does not exceed £450,000
+NIL in respect of the first £350,000 plus £1 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii) exceeds £450,000 but does not exceed £500,000
+the amount of stamp duty that would have been payable if paragraph (a) had applied reduced by the following formula:
+6,000 - ((V- 450,000) x 12%)
+Where V is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
+Contract
+Greffier
+Provided that the fees specified in this paragraph shall only be substituted for those payable under paragraph (a) of this item where the transaction fulfills all the following conditions -
+(A) the purchaser requests that the stamp duty be assessed in accordance with this sub-paragraph;
+(B) the purchaser is a person who has Entitled status in accordance with the Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013, other than by virtue of Regulation 2(1)(e) of those Regulations, or is the spouse or a civil partner of such a person and is joint transferee with that person;
+(C) the purchaser satisfies the designated officer that he or she has never owned a reversionary interest in any dwelling accommodation wherever situated nor has he or she ever previously been entitled to occupy such dwelling accommodation (or would have been so entitled if clause (B) applied) by virtue of having owned the accommodation, and for the purposes of this clause “owned” includes -
+(a) having held such accommodation on contract lease;
+(b) having owned such accommodation together with any other person;
+(c) having owned shares that confer entitlement to occupy such accommodation; and
+(d) any arrangement whereby such accommodation was held in the name of a nominee or trustee, or of a company owned by such nominee or trustee, for the benefit of the purchaser; and
+(D) the consideration for the sale is not less, or not substantially less, than the gross value of the property as sold.
+(c)
+Of gift, resignation or cession without cash consideration of immovable property (except as provided by paragraphs (j), (k) or (t) of this item), where the gross value of the immovable property transferred -
+SEE TABLE IN PARAGRAPH 2
+(d)
+Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, in association with a contract of purchase or a contract of lease or transfer of lease, of land on which a dwelling is, or is to be, constructed for occupation by the purchaser, where -
+(i) the contract of creation of the rente nouvelle, hypothec or hypothecs and the contract of purchase, lease or transfer of lease relate to the same property,
+(ii) both contracts were registered in the Public Registry and passed before the Royal Court on the same day, and
+(iii) the capital value of the rente nouvelle or the capital sum hypothecated, in respect of duty due before 1st January 2015, does not exceed £450,000 or, in respect of duty due on or after that date, does not exceed £700,000,
+if that value or sum -
+(A) does not exceed £600,000
+NIL
+Contract
+Greffier
+(B) exceeds £600,000 but does not exceed £700,000
+0.5% x
+((Y - 600,000)
+/100,000)
+where Y is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of sale
+Contract
+Greffier
+(d1)
+Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, where the borrower produces to the designated officer a letter from the Comptroller of Taxes confirming that the relevant contracts qualify for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+rate F
+Contract
+Greffier
+(d2)
+Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, in any case to which neither paragraph (d) nor paragraph (d1) of this item applies
+50p for each £100 or part of £100 of the capital value of the rente nouvelle or the capital sum hypothecated, subject to a minimum of £10
+Contract
+Greffier
+(e)
+Sale of rente ancienne
+50p for each £100 or part of £100 of the consideration for the sale subject to a minimum of £5
+Contract
+Greffier
+(f)
+Of creation or sale of an annuity or of cession or sale of life-enjoyment of immovable property (except as provided by paragraph (i) of this item)
+50p for each £100 or part of £100 of the capital value of the annuity or life-enjoyment, as agreed with the Greffier subject to a minimum of £10
+Contract
+Greffier
+(g)
+Of assignment or reimbursement of rente ancienne or of reimbursement of rente nouvelle or of a simple conventional hypothec or hypothecs, where the capital reimbursable value of the rente or hypothec assigned or reimbursed -
+(i) does not exceed £100
+rate B
+Contract
+Greffier
+(ii) exceeds £100
+rate E
+Contract
+Greffier
+(h)
+Of partage (except as provided by paragraph (i) of this item) where the total net value of the immovable property of the estate to which the partage relates -
+SEE TABLE IN PARAGRAPH 2
+(i)
+Of cession without cash consideration of the life-enjoyment of immovable property passed before Court at the same time as, or within one month directly following, the contract of acquisition of the property by the transferor, if the transferee is a member of the transferor’s family; or, except where the proviso to item 46 applies, of partage of devised immovable property passed before Court within the 18 months next following registration of the will of the deceased; or of sous-partage
+£5 for each page of the contract subject to a minimum of £10
+Contract
+Greffier
+(j)
+Of sale, gift, cession or other transfer of immovable property by a sole owner into joint ownership with another person, where the cash consideration for the transfer or, if one half of the gross value of the property exceeds such consideration, one half of the gross value of the property -
+SEE TABLE IN PARAGRAPH 2
+Provided that -
+(A) if the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be £5 for each page of the contract subject to a minimum of £10;
+(B) where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949 or Article 48 of the Civil Partnership (Jersey) Law 2012, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10; and
+(C) where any transfer of immoveable property by a sole owner is into the joint ownership of that person and his or her spouse or civil partner and, at the time of the transfer, that property is their matrimonial home or civil partnership home, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10.
+(k)
+Of sale, gift, cession or other transfer of immovable property by a joint owner into sole ownership, where the cash consideration for the transfer or, if one half of the gross value of the property exceeds such consideration, one half of the gross value of the property -
+SEE TABLE IN PARAGRAPH 2
+Provided that -
+(A) if the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be £5 for each page of the contract subject to a minimum of £10;
+(B) where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949 or Article 48 of the Civil Partnership (Jersey) Law 2012, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10; and
+(C) where any transfer of immoveable property in the joint ownership of spouses or civil partners is by one of them into the sole ownership of the other and, at the time of the transfer, that property is their matrimonial home or civil partnership home, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10.
+(l)
+Of lease, sub-lease, licence to occupy premises, or transfer or extension of lease, sub-lease or licence (subject as is hereinafter provided, and except as provided by paragraphs (m) or (t) of this item) where -
+(1) the annual rental stipulated in the contract multiplied by the number of years for which the contract provides that the lessee, sub-lessee or transferee shall have possession of the demised premises, or the amount payable annually for the licence to occupy the premises multiplied by the number of years for which the contract provides that the licensee shall be entitled to occupy the premises (in either case excluding any period in excess of 21 years) -
+(i) does not exceed £100,000
+50p for each £100 or part of £100 subject to a minimum of £10
+Contract
+Greffier
+(ii) exceeds £100,000
+£500 in respect of the first £100,000, plus 75p for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+In calculating the fee payable under this sub-paragraph -
+(A) in determining the number of years to be taken into account, any fraction of a year shall be reckoned as a full year and any optional extension of the term of the lease, sub-lease or licence shall be included;
+(B) except as hereinafter provided, in the case of a transfer or extension of -
+(i) a lease or sub-lease, the rental to be taken as a basis for calculating the fee shall be the rental currently payable for the demised premises at the date of the contract; or
+(ii) a licence, the amount to be taken as a basis for calculating the fee shall be the amount currently payable for the right to occupy the premises to which the licence relates at the date of the contract;
+(C) where -
+(i) a lease or sub-lease is granted, transferred or extended for less than the prevailing market rental of the demised premises, a fee calculated on such rental shall be agreed with the Greffier; or
+(ii) a licence is granted, transferred or extended for less than the prevailing market value of a licence to occupy the premises to which the licence relates, a fee calculated on such amount for the licence shall be agreed with the Greffier;
+(D) any contract increasing the rental payable in respect of an existing lease or sub-lease, or the amount payable under the licence, shall be deemed to be a contract of lease or licence, as the case may be, for the purpose of this Law, and shall be subject to the fee specified in this sub-paragraph in respect of the increased rental or charge or any part thereof on which stamp duty has not previously been paid under sub-clause (C); and
+(E) in the case of an extension of a lease, sub-lease or licence, the term of years on which stamp duty has previously been paid by the lessee, sub-lessee or licensee may, at the discretion of the Greffier, be taken into account in determining the fee to be paid under this sub-paragraph in respect of the extension.
+(2) any additional consideration (other than agent’s commission and legal fees) to whomsoever paid or payable in respect of the transaction by the lessee, sub-lessee, transferee or licensee, whether stipulated in the contract or not -
+Contract
+Greffier
+SEE TABLE IN PARAGRAPH 2
+(m)
+Of lease or transfer of lease of dwelling accommodation where (subject as is hereinafter provided) the transaction falls within the financial limits of the Building Loans (Miscellaneous Provisions) (Jersey) Regulations 1961 (whether or not a loan is actually made under those Regulations) and the gross value of the premium for granting or transfer of the lease, calculated on the basis of market values obtaining at the time of the passing of the contract -
+(i) does not exceed £350,000
+NIL
+Contract
+Greffier
+(ii) exceeds £350,000 but does not exceed £450,000
+NIL in respect of the first £350,000 plus £1 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii) exceeds £450,000 but does not exceed £500,000
+the amount of stamp duty that would have been payable if paragraph (a) had applied reduced by the following formula:
+6,000 - ((V- 450,000) x 12%)
+Where V is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
+Contract
+Greffier
+Provided that the fees specified in this paragraph shall only be substituted for those payable under paragraph (l) of this item where the transaction fulfils all the following conditions -
+(A) the lessee or transferee requests that the stamp duty be assessed in accordance with this paragraph;
+(B) the lessee or transferee is a person who has Entitled status in accordance with the Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013, other than by virtue of Regulation 2(1)(e) of those Regulations or is the spouse or a civil partner of such a person and is joint lessee or transferee with that person.
+(C) the lessee or transferee satisfies the designated officer that the lessee or transferee has never previously been entitled to occupy dwelling accommodation wherever situated (or would have been so entitled if clause (B) applied) by virtue of having owned the accommodation, and for the purposes of this clause “owned” includes -
+(a) having held such accommodation on contract lease;
+(b) having owned such accommodation together with any other person;
+(c) having owned shares that confer entitlement to occupy such accommodation; and
+(d) any arrangement whereby such accommodation was held in the name of a nominee or trustee, or of a company owned by such nominee or trustee, for the benefit of the lessee or transferee; and
+(D) the premium for the granting or transfer of the lease is not less, or not substantially less, than the gross value of the premium calculated in accordance with the foregoing provisions of this paragraph.
+(n)
+Not otherwise provided for under this item -
+(A) where the consideration stipulated in the contract -
+SEE TABLE IN PARAGRAPH 2
+(B) where no consideration is stipulated in the contract
+£5 for each page of the contract subject to a minimum of £10
+Contract
+Greffier
+(o)
+Power of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority
+rate F
+Power of attorney or letters
+Greffier
+(p)
+Where contracts, powers of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority, are passed in private, or otherwise than on a day or at a time appointed by rules of court for the public passing of contracts, an additional fee shall be payable of
+rate F
+Contract, power of attorney or letters
+Greffier
+(q)
+For any contract, power of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority, passed en minute an additional fee shall be payable of
+rate F
+Contract, power of attorney or letters
+Greffier
+(r)
+For the sealing of a contract by the Bailiff
+rate E
+Contract
+Greffier
+(s)
+For the signing of a copy of a contract by the Bailiff
+rate E
+Copy of contract
+Greffier
+(t)
+Of sale within the terms of paragraph (a) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Taxes confirming that it qualifies for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+rate F
+Contract
+Greffier
+(u)
+In all cases under this item, for each document registered
+rate F
+Contract, power of attorney or letters
+Greffier
+Item 14.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+14.
+LOI (1991) SUR LA COPROPRIETE DES IMMEUBLES BATIS -
 (a)
 Application for registration of a co-ownership declaration (Article 3(1))
-£50.00
+rate I
 Application
 Greffier
 (b)
 Application for registration of an amendment to a co-ownership declaration (Article 3(5))
-£25.00
+rate G
 Application
 Greffier
-17.
+Item 15.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+15.
 COPY OF ACT or other document, other than the copy to which a plaintiff or grantee, as the case may be, is entitled free of charge, and excluding copies otherwise provided for in this Schedule, for -
 (a)
 A typewritten copy, each page
-£1.00
-) Copy of
-) Act or
+rate B
+Copy of Act or other document
 Greffier
-) other
-) document
-)
 (b)
 A photostat copy, each page
-25p
-)
-)
-)
+rate A
+Copy of Act or other document
+Greffier
 (c)
 Greffier’s certificate and signature
-£5.00
-)
-)
-No fee shall be taken under this item in respect of any extract or copy for which a fee is taken under sub-paragraph (a) of item 27 of this Part of this Schedule.
-18.
-DEBTORS AND CREDITORS - “LOI (1867) AU SUJET DES DEBITEURS ET CREANCIERS”
-(a)
-Application for permission to enter into agreement with creditors and posting of Act
-£3.00
-Application
-)
-)
-)
-)
-)
-)
-(b)
-Registration
-of report of
-“Juge-
-Commissaire”
-£5.00
-Report
-) Greffier
-)
-)
-)
-)
-(c)
-Conduct of proceedings by “Juge-
-Commissaire”
-£20.00
-Report
-)
-)
-)
-)
-19.
-DEED POLL
-Registration of
-£25.00
+rate C
+Copy of Act or other document
+Greffier
+Provided that no fee shall be taken under this item in respect of any extract or copy for which a fee is taken under paragraph (a) of item 23 of this Part.
+Item 16.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+16.
+DEED POLL, registration of
+rate E
 Application
 Greffier
-20.
-“DEGREVE-MENT”
+Item 17.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+17.
+DEGREVEMENT -
 (a)
-Application to Court for permission to conduct “dégrèvement”
-£10.00
+Application to Court for permission to conduct dégrèvement
+rate G
 Application
-)
-)
-)
-)
-)
+Greffier
 (b)
-Conduct of “dégrèvement” by Greffier
-£50.00
-Record of
-) Greffier
-)
-)
-“dégrève- ment”
-)
-)
-)
+Conduct of dégrèvement by Greffier, for each half day or part of a half day
+rate L
+Record of dégrèvement
+Greffier
 (c)
-Each insertion by an unsecured creditor, and each “protêt”
-50p
-Claim or
-)
-)
-)
-“protêt”
-)
-(d)
-Putting into possession a person entitled after a “dégrèvement”, for each corpus fundi
-£10.00
+Putting into possession a person entitled after a dégrèvement for each corpus fundi
+rate G
 Record
 Viscount
-21.
-“DESASTRE”
+Item 18.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+18.
+DESASTRE -
 (a)
-Application to Court to declare the movable property (“biens meubles”) of a person “en désastre”
-£25.00
+Application to the Court to declare the movable property (biens meubles) of a person en désastre
+rate I
 Application
 Greffier
 (b)
 Viscount -
-(i)
-attending to take inventory of movable property sequestrated
-£25.00
-)
-)
-)
-)
-)
-)
-(ii)
-preparing notice requiring creditors to file claims
-£10.00
-)
-)
-)
-)
-)
-(iii)
-attending at Court in course of “désastre” proceedings, for each day or part of a day
-£50.00
-) Copy of
-) Vis-
-) count’s
-) accounts
-)
-)
+(i) attending the taking of an inventory of movable property sequestrated
+rate I
+Copy of Viscount’s accounts
 Viscount
-)
-(iv)
-preparing notice concerning inspection of statements of claim
-£5.00
-)
-)
-)
-)
-)
-)
-)
-(v)
-making arrangements for, and preparing notice of, sale
-£25.00
-)
-)
-)
-)
-)
-)
-(vi)
-attending sale
-£25.00
-) Copy of
-) Vis-
-) count’s
-) accounts
+(ii) preparing notice requiring creditors to file claims
+rate E
+Copy of Viscount’s accounts
 Viscount
-)
+(iii) attending at Court in course of désastre proceedings, for each half day or part of a half day
+rate J
+Copy of Viscount’s accounts
+Viscount
+(iv) preparing notice concerning inspection of statements of claim
+rate E
+Copy of Viscount’s accounts
+Viscount
+(v) making arrangements for, and preparing notice of, sale
+rate H
+Copy of Viscount’s accounts
+Viscount
+(vi) attending sale
+rate H
+Copy of Viscount’s accounts
+Viscount
 (c)
 Commission on -
-)
-)
-(i)
-money or assets received
+(i) money or assets received
 10%
-)
-)
-)
-(ii)
-money or assets distributed among creditors
+Copy of Viscount’s accounts
+Viscount
+(ii) money or assets distributed among creditors
 2½%
-)
-)
-)
-)
-22.
-DISTRAINT (“ARRET”) by virtue of an order of justice, a provisional order or an act of the Court
+Copy of Viscount’s accounts
+Viscount
+Item 19.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+19.
+DISTRAINT (ARRET), by virtue of an order of justice, a provisional order or an act of the Court -
 (a)
 Distraint, notification and release
-At discretion of Viscount subject to maximum of £100.00
+At discretion of Viscount subject to a maximum of rate L
 Order of justice, provisional order or Act of the Court
-)
-)
-)
-)
-)
-)
-)
-)
+Viscount
 (b)
-Certifying of copy of account
-£1.00
-Copy of
-)
-)
-account
-)
-)
-(c)
 Acceptance of surety -
-)
-)
-)
-(i)
-to avoid distraint
-£10.00
-)
-)
-)
-)
-)
-)
-(ii)
-to release distraint
-£10.00
-) Record
-)
-)
-)
-)
-)
+(i) to avoid distraint
+rate G
+Record
+Viscount
+(ii) to release distraint
+rate G
+Record
+Viscount
+(c) Renewal of distraint
+rate G
+Record
+Viscount
 (d)
-Renewal of distraint
-£10.00
-)
-) Viscount
-)
-(e)
 Making arrangements for, and preparing notices of, sale; attendance at sale, and commission on amount realised; registration and notice of sale
-)
-)
-)
-)
-)
-)
-)
-) £20.00 plus
-) 5% of
-) amount
-) realised
+rate I plus 10% of amount realised
 Book of sales
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(f)
+Viscount
+(e)
 Attending to effect distraint, distraint not effected
-At discretion of Viscount subject to maximum of £100.00
+At discretion of Viscount subject to a maximum of rate L
 Order of justice, provisional order or Act of the Court
-)
-)
-)
-)
-)
-)
-)
-23.
-DOCUMENTS (INCLUDING WILLS) LODGED “AU GREFFE”
-For each document
-£1.00
+Viscount
+Item 20.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+20.
+DOCUMENTS (INCLUDING WILLS) LODGED AU GREFFE, for each document
+rate F
 Document lodged
 Greffier
-24.
-DOCUMENTS, MARKING OF BY GREFFIER
-For each document
-50p
-Document marked
-Greffier
-25.
-ENROLMENT OF ACTS AND OTHER DOCUMENTS “AU GREFFE”
-For each page
-£1.00
+Item 21.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+21.
+ENROLMENT OF ACTS AND OTHER DOCUMENTS AU GREFFE, for each document
+rate E
 Act or document enrolled
 Greffier
-26.
-EVIDENCE OF WITNESS TAKEN IN WRITING BEFORE VISCOUNT
-Viscount attending to take evidence, for each half day or part thereof
-£50.00
+Item 22.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+22.
+EVIDENCE OF WITNESS TAKEN IN WRITING BEFORE VISCOUNT OR GREFFIER -
+(a)
+Viscount or Greffier attending to take evidence, for each half day or part of a half day
+rate L
 Deposition
 Viscount
-27.
+(b)
+Copy of transcript of, for each page
+rate B
+Transcript
+Viscount
+Item 23.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+23.
 EXTRACTS OR COPIES FROM PUBLIC REGISTRY
 (a)
-Extracts and copies, other than the lists mentioned in sub-paragraph (b) of this Item -
-(i)
-for each page
-50p
-)
-)
-)
-)
-(ii)
-for Greffier’s certificate and signature
-£5.00
-) Extract
-) or copy
-)
-)
-)
-)
-)
+Extracts and copies, other than the lists mentioned in paragraph (b) of this item -
+(i) for each page
+rate A
+Extract or copy
+Greffier
+(ii) for Greffier’s certificate and signature
+rate C
+Extract or copy
+Greffier
 (b)
 Lists of transfers of immovable property furnished annually to -
-)
-)
-)
-)
-)
-(i)
-the parish of St. Helier
-£40.00
-)
-)
-)
-)
-)
-)
-(ii)
-the parish of St. Brelade
-£30.00
-)
-)
-)
-)
-)
-)
-(iii)
-the parish of St. Saviour
-£30.00
-) List
-)
-) Greffier
-)
-)
-)
-(iv)
-any other parish
-£20.00
-)
-)
-)
-)
-)
-)
-(v)
-States’ department (complete list)
-£50.00
-)
-)
-)
-)
-)
-)
-28.
-GUARDIAN AD LITEM
-Appointment of
-£5.00
+(i) the parish of St. Helier
+rate J
+List
+Greffier
+(ii) the parish of St. Brelade
+rate I
+List
+Greffier
+(iii) the parish of St. Saviour
+rate I
+List
+Greffier
+(iv) any other parish
+rate G
+List
+Greffier
+(v) States’ department (complete list)
+rate K
+List
+Greffier
+Item 24.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+24.
+GUARDIAN AD LITEM, appointment of
+rate E
 Application
 Greffier
-29.
-JUDGMENT DEBTS
-Act lodged with Viscount and found to be unenforceable by reason either that the debtor cannot be found or that he is without assets
-At discretion of Viscount subject to maximum of £20.00
+Item 25.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+25.
+JUDGMENT DEBTS, Act of Court lodged with Viscount and found to be unenforceable by reason either that the debtor cannot be found or that he or she is without assets
+At discretion of Viscount subject to a maximum of rate L
 Act of Court
 Viscount
-30.
-JUDGMENTS, REGISTRATION OF - JUDGMENTS (RECIPROCAL ENFORCEMENT) (JERSEY) LAW 1960
+Item 26.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+26.
+JUDGMENTS, REGISTRATION OF, under Judgments (Reciprocal Enforcement) (Jersey) Law 1960 -
 (a)
 Application for
-£50.00
+rate H
 Application
 Greffier
 (b)
 Application for a certified copy of a judgment obtained in the Royal Court
-£10.00
+rate C
 Affidavit
 Bailiff
-31.
-LEGITIMACY (JERSEY) LAW 1973
-(a)
-Presentation of petition for decree of legitimacy or illegitimacy
-£5.00
+Item 27.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+27.
+LEGITIMACY (JERSEY) LAW 1973, presentation and hearing of petition for decree of legitimacy or illegitimacy
+rate H
 Petition
-)
-)
-)
-) Greffier
-)
-(b)
-Hearing of petition
-£10.00
-“Billet”
-)
-32.
-LICENSING (JERSEY) LAW 1974
-(a)
-Each application, other than an application to which the Licensing (Licence Fees) (Jersey) Regulations 1988 apply and each declaration made in pursuance of the Law to the Licensing Assembly or the Royal Court
-£5.00
-Application
 Greffier
-or declaration
-(b)
-Each application to the Bailiff for the grant of a special permit under Article 89 of the Law
-£10.00
-Application
-Bailiff
-33.
-JERSEY GAS COMPANY (JERSEY) LAW 1989
+Item 28.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+28.
+LICENSING (JERSEY) LAW 1974, each application (other than an application to which the Licensing (Licence Fees) (Jersey) Regulations 2007 apply) and each declaration made in pursuance of the Law to the Licensing Assembly or the Royal Court
+rate F
+Application or declaration
+Greffier
+Item 29.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+29.
+JERSEY GAS COMPANY (JERSEY) LAW 1989 -
 (a)
 Delivery of copy of statement of members or shareholders of the Company (Article 12(2))
-£110
+rate H
 Statement
 Greffier
 (b)
 Searches -
-(i)
-for each personal search
-£3.00
+(i) for each personal search
+rate B
 Search ticket
 Greffier
-(ii)
-for each postal search
-£6.00
+(ii) for each postal search
+rate B
 Letter of application
 Greffier
 (c)
 Copies -
-(i)
-copy of, or extract from, registered particulars of the Company, each page
-25p
+(i) copy of, or extract from, registered particulars of the Company, each page
+rate A
 Application
 Greffier
-(ii)
-Greffier’s certificate and signature
-£10.00
+(ii) Greffier’s certificate and signature
+rate C
 Application
 Greffier
-34.
-MENTAL HEALTH (JERSEY) LAW 1969
+Item 30.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+30.
+MENTAL HEALTH (JERSEY) LAW 2016 -
 (a)
-Application to deal with interdict’s property (Article 50(17))
-£5.00
+Application to sell, exchange, gift or dispose of P’s property, where such an application is required by the Court further to conditions or restrictions imposed by the Court on such sale, exchange etc. under Article 28(2) of the Capacity and Self-Determination (Jersey) Law 2016 -
+(i) in the case of a professional application
+rate F
+Application
+Greffier
+(ii) in any other case
+rate I
 Application
 Greffier
 (b)
-Application for appointment of acting nearest relative (Article 39)
-£10.00
+Application for appointment of nearest person (Article 11)
+rate F
 Summons
 Greffier
 (c)
-Application for discharge or variation of order appointing acting nearest relative (Article 40)
-£10.00
+Application for discharge or variation of order appointing nearest person (Article 12)
+rate F
 Summons
 Greffier
-(d)
-Application for leave to institute proceedings (Article 57(2))
-£20.00
-Summons
-Greffier
-35.
-ORDERS OF JUSTICE AND PROVISIONAL ORDERS
+Item 31.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+31.
+ORDERS OF JUSTICE AND PROVISIONAL ORDERS -
 (a)
 Order of justice signed by Bailiff
-£20.00
+rate E
 Order of justice
 Bailiff
 (b)
 Provisional order -
-(i)
-signed by Bailiff
-£10.00
+(i) signed by Bailiff
+rate E
 Provisional order
 Bailiff
-(ii)
-signed by Judge of Petty Debts Court
-£5.00
+(ii) signed by Judge of Petty Debts Court
+rate E
 Provisional order
 Greffier
-36.
-PATENTS AND DESIGNS - PATENTS (JERSEY) LAW 1957 AND REGISTERED DESIGNS (JERSEY) LAW 1957
+Item 32.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+32.
+PATENTS AND DESIGNS under Patents (Jersey) Law 1957 and Registered Designs (Jersey) Law 1957 -
 (a)
 Application for registration
-£20.00
+rate G
 Application
 Greffier
 (b)
 Searches -
-(i)
-for each personal search
-£2.00
-)
-) Search
+(i) for each personal search
+rate C
+Search ticket or letter of application
 Greffier
-)ticket or
-) letter of
-)application
-(ii)
-for each postal search
-£5.00
-)
-)
+(ii) for each postal search
+rate E
+Search ticket or letter of application
+Greffier
 (c)
 Copies -
-(i)
-copy of certificate of registration
-25p
-)
-)
-)
-)
-(ii)
-copy of, or extract from, register, each page
-25p
-) Applic-
-) ation
-)
-)
+(i) copy of certificate of registration
+rate A
+Application
 Greffier
-)
-(iii)
-Greffier’s certificate and signature
-£5.00
-)
-)
-)
-37.
-POWER OF ATTORNEY
+(ii) copy of, or extract from, register, each page
+rate A
+Application
+Greffier
+(iii) Greffier’s certificate and signature
+rate C
+Application
+Greffier
+Item 32A.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+32A.
+POLITICAL PARTIES (REGISTRATION) (JERSEY) LAW 2008
+(a)
+Application for registration of political party
+rate E
+Application
+Greffier
+(b)
+Application to change name or abbreviation of name of a registered political party or to register or change the emblem of a registered political party
+rate E
+Application
+Greffier
+(c)
+Copy of constitution or statement of accounts, per page
+rate A
+Application
+Greffier
+Item 33.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+33.
+POWER OF ATTORNEY -
 (a)
 Registration of
-£5.00
-)
-) Power of
-)
-)
-) attorney
-)
-)
-)
+rate E
+Power of attorney
+Greffier
 (b)
-Filing of
-£1.00
-)
-) Greffier
-)
-(c)
-Registration of decla-ration abandoning or revoking
-£5.00
+Registration of declaration abandoning or revoking
+rate E
 Declaration
-)
-)
-)
-)
-38.
-PRISONER FOR DEBT
-Conducting from prison to Court and from Court to prison
-£15.00
+Greffier
+Item 34.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+34.
+PRISONER FOR DEBT, conducting from prison to Court and from Court to prison
+rate L
 Application to produce debtor before Court
 Viscount
-39.
-“REALISATION” - “LOI (1904) (AMENDEMENT No. 2) SUR LA PROPRIETE FONCIERE”
+Item 35.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+35.
+REALISATION under Loi (1880) sur la Propriété Foncière -
 (a)
-Application to carry out a “réalisation”
-£10.00
+Application to carry out a réalisation
+rate G
 Application
-)
-)
-)
-(b)
-Conduct of proceedings by Greffier
-£50.00
-List of
-)
-)
-) Greffier
-creditors
-)
-)
-(c)
-Each claim, objection or search by a creditor
-50p
-Receipt or search ticket
-)
-)
-)
-)
-)
-40.
-REMONS-TRANCE, REPRESENTA-TION OR “DOLEANCE”
-(i)
-Presentation to Court
-£10.00
-)
-) Remons-
 Greffier
-) trance,
-) represen-
-) tation or
-) doléance
-)
-(ii)
-Where the Court fixes a special day for the hearing, each day or part thereof
-£80.00
-)
-)
-)
-)
-)
-)
-41.
-“RENTES”, REIMBURSE- MENT OF
-Attendance of Viscount to witness accounting and pay-ing, in a case where the owner of a “rente” refuses to accept reimbursement
-£20.00
-Record
-Viscount
-42.
-SEALS, AFFIXING OF BY VISCOUNT
-£5.00
-Record
-Viscount
-43.
-SEARCHES “AU GREFFE”, EXCLUDING SEARCHES OTHERWISE PROVIDED FOR IN THIS SCHEDULE -
+(b)
+Preparation and conduct of proceedings by Greffier, for each half day or part of a half day
+rate L
+List of creditors
+Greffier
+Item 36.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+36.
+REMONSTRANCE, REPRESENTATION OR DOLEANCE -
+(a)
+Presentation to Court
+rate G
+Remonstrance, representation or doléance
+Greffier
+(b)
+Where the Court fixes a special day for the hearing, each half day or part of a half day
+rate L
+Remonstrance, representation or doléance
+Greffier
+Item 37.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+37.
+SEARCHES AU GREFFE, excluding searches otherwise provided for in a Schedule -
 (a)
 By members of Greffe staff, each half hour
-£5.00
-)
-)
-) Search
+rate C
+Search ticket
 Greffier
-) ticket
 (b)
 Other searches, each half hour
-£2.00
-)
-)
-44.
-SUMMONS, HEARING OF
-(a)
-Consent order by the Court
-£8.00
-)
-)
-)
-(b)
-Consent order by the Greffier
-£5.00
-)
-)
-)
-(c)
-Contested order by the Court, each day or part thereof
-£80.00
-) Summons
-)
-)
+rate B
+Search ticket
 Greffier
-)
-(d)
-Contested order by the Greffier, each half day or part thereof
-£30.00
-)
-)
-)
-)
-45.
-SUMMONS, SERVICE OF, BY VISCOUNT
+Item 38.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+38.
+SUMMONS, HEARING OF -
 (a)
-In pursuance of an order of justice regarding guardian-ship, administration of property or attainment of majo-rity, each person
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-) Viscount
+Fixing date for hearing before the Greffier
+rate C
+Summons
+Greffier
 (b)
-In connection with any other order of justice remonstrance, representation or “doléance”, each person
-At discretion of Viscount subject to a maximum of £50.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-In the case of the arrest of a debtor or the effecting of a distraint, the fees set out in paragraph (b) of this item shall be taken in addition to the fees set out in item 8 or 22 of Part I of this Schedule
+Contested order by the Court, each half day or part of a half day
+rate K
+Summons
+Greffier
 (c)
-Renewal of summons in connection with an order of justice or remonstrance, each person
-£3.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(d)
-Certifying each copy of an order of justice, remonstrance, representation or “doléance”
-£1.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(e)
-On a debtor requiring him to pay a claim within two months on pain of dégrèvement
-£5.00
-)
-)
-)
-)
-) Record
-)
-)
-)
-)
-) Viscount
-)
-)
-(f)
-In a “dégrèvement” or “réalisation”, each person
-£5.00
-)
-)
-)
-)
-)
-)
-)
-)
-(g)
-In connection with an Order in Council between parties
-£6.00
-)
-)
-)
-)
-)
-)
-(h)
-On a party to appear before -
-(i)
-the Royal Court
-£10.00
-)
-)
-)
-)
-(ii)
-the Petty Debts Court
-£5.00
-)
-)
-)
-)
-)
-)
-(j)
-On a witness to appear before -
-) Instruct-
-) ions
-) to
-) Viscount
-) Viscount
-)
-)
-)
-)
-)
-(i)
-the Royal Court
-£5.00
-)
-)
-)
-)
-(ii)
-the Petty Debts Court
-£5.00
-)
-)
-)
-)
-)
-(k)
-Notice to repay a bond “rente” or simple conventional hypothec
-£5.00
-)
-)
-)
-) Record
-)
-)
-)
-)
-)
-)
-(l)
-Any summons or notice not otherwise provided for
-£5.00
-)
-)
-)
-)
-)
-)
-46.
-SUMMONS, SERVICE OF
+Contested order by the Greffier, each half day or part of a half day
+rate J
+Summons
+Greffier
+Item 39.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+39.
+SUMMONS, SERVICE OF OR ATTEMPTED SERVICE OF, BY VISCOUNT -
 (a)
-Order for service out of jurisdiction
-£10.00
+In pursuance of an order of justice regarding guardianship, administration of property or attainment of majority, each person
+rate G
+Viscount
+(b)
+In connection with any other order of justice, remonstrance, representation or doléance, each person
+At discretion of Viscount subject to a maximum of rate J
+Viscount
+Provided that in the case of the arrest of a debtor or the effecting of a distraint, the fees set out in paragraph (b) of this item shall be taken in addition to the fees set out in item 7 or 19 of this Part
+(c)
+Certifying each copy of an order of justice, remonstrance, representation or doléance
+rate E
+Record
+Viscount
+(d)
+On a debtor requiring the debtor to pay a claim within 2 months on pain of dégrèvement
+At discretion of Viscount subject to a maximum of rate J
+Record
+Viscount
+(e)
+Any summons or notice not otherwise provided for
+At discretion of Viscount subject to a maximum of rate J
+Record
+Viscount
+Item 40.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+40.
+SUMMONS, SERVICE OF, order for service out of jurisdiction and/or substituted service
+rate E
 Order
 Bailiff or Greffier
-(b)
-Order for substituted service
-£10.00
-Order
-Greffier
-47.
+Item 41.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+41.
 TAXATION OF COSTS BY GREFFIER, for each half hour
-£10.00
+rate E
 Bill of costs
 Greffier
-48.
-TENANTS, EXPULSION OF REFRACTORY - “LOI (1919) SUR LA LOCATION DES BIEN - FONDS” AND “LOI (1946) CONCERNANT L’EXPULSION DES LOCATAIRES REFRACTAIRES”
+Item 42.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+42.
+TENANTS, EXPULSION OF REFRACTORY under Loi (1919) sur la location de bien-fonds and Loi (1946) concernant l’expulsion des locataires refractaires -
 (a)
 Notice to quit served on -
-(i)
-a tenant at the instance of a landlord
-At discretion of Viscount subject to maximum of £15.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-(ii)
-a landlord at the instance of a tenant
-At discretion of Viscount subject to maximum £15.00
-)
-)
-) Record
-)
-)
-)
-)
-)
-)
-) Viscount
-)
-)
-)
-)
+(i) a tenant at the instance of a landlord
+At discretion of Viscount subject to a maximum of rate G
+Record
+Viscount
+(ii) a landlord at the instance of a tenant
+At discretion of Viscount subject to a maximum of rate G
+Record
+Viscount
 (b)
 Notice of eviction served on a tenant
-At discretion of Viscount subject to maximum of £25.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
+At discretion of Viscount subject to a maximum of rate J
+Act of the Court
+Viscount
 (c)
-Carrying out eviction
-At discretion of Viscount subject to maximum of £50.00
-) Act of
-) the Court
-)
-)
-)
-)
-)
-)
-)
-)
-49.
-TRADE MARKS - TRADE MARKS (JERSEY) LAW 1958
-(a)
-Filing application under -
-(i)
-Article 4(1)
-£20.00
-)
-)
-(ii)
-Article 4(2)
-£20.00
-)
-)
-(iii)
-Article 5
-£20.00
-) Applic-
-Greffier
-) ation
-(iv)
-Article 6
-£20.00
-)
-)
-(v)
-Article 7(1)(b), 7(2)
-£5.00
-)
-)
-The fees taken under clauses (i) to (iv) of sub-paragraph (a) of this item include the furnishing of one certificate of registration.
-(b)
-Searches -
-(i)
-for each per-sonal search
-£2.00
-)
-) Search
-Greffier
-) ticket or
-) letter of
-) applic-
-)ation
-(ii)
-for each postal search
-£5.00
-)
-)
-(c)
-Copies -
-(i)
-copy of certi-ficate of registration
-25p
-)
-)
-)
-)
-(ii)
-copy of, or extract from, register, each page
-25p
-)
-)
-) Applic-
-)ation
-Greffier
-)
-(iii)
-Greffier’s certificate and signature
-£5.00
-)
-)
-)
-50.
-TRUSTS AND CORPORATIONS - “LOI (1862) SUR LES TENEURES EN FIDEICOMMIS ET L’INCORPOR-ATION D’ASSOC-IATIONS”
-Application for creation or extension of a trust or an Act of incorporation
-£25.00
+Carrying out eviction, for each half day or part of a half day
+At discretion of Viscount subject to a maximum of rate L
+Act of the Court
+Viscount
+Item 43.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+43.
+TRUSTS AND CORPORATIONS under Loi (1862) sur les teneures en fideicommis et l’incorporation d’associations, application for creation or extension of a trust or an Act of incorporation
+rate E
 Application
 Greffier
-51.
-“VUE DE JUSTICE”
+Item 44.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+44.
+VUE DE JUSTICE -
 (a)
-Preparation of list of “voyeurs” or experts
-£5.00
-)
-)
-)
-(b)
-Service of summons on each “voyeur” or expert
-£5.00
-)
-)
-)
-)
-(c)
-Viscount attending at “Vue”
-£50.00
-)
-) Record of
+Preparation of list of voyeurs or experts
+rate J
+Record of service
 Viscount
-) service
+(b)
+Service of summons on each voyeur or expert
+rate G
+Record of service
+Viscount
+(c)
+Viscount or Bailiff attending at Vue, each half day or part of a half day
+rate L
+Record of service
+Viscount
 (d)
 Each attendance by Viscount for which provision is not otherwise made
-£10.00
-)
-)
-)
-)
+rate G
+Record of service
+Viscount
 (e)
-Record of the “Vue”
-£10.00 for the first 100 words and £2.50 for each additional 100 words
+Preparation and record of the Vue
+At discretion of Viscount subject to a minimum of £350 and a maximum of £750
 Record
 Greffier
-52.
-“VUE DU VICOMTE”
+Item 45.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+45.
+VUE DE VICOMTE -
 (a)
 Preparation of list of experts
-£5.00
-)
-)
-)
+rate J
+Record
+Viscount
 (b)
 Service of summons on each expert
-£5.00
-)
-)
-)
-(c)
-Viscount attending at “Vue”
-£50.00 thereof
-)
-)
-) Record
+rate G
+Record
 Viscount
-)
+(c)
+Viscount attending at Vue, each half day or part of a half day
+rate L
+Record
+Viscount
 (d)
 Each attendance for which provision is not otherwise made
-£10.00
-)
-)
-)
-)
+rate G
+Record
+Viscount
 (e)
-Record of the “Vue”
-£10.00 for the first 100 words and £2.50 for each additional 100 words
-)
-)
-)
-)
-)
-)
-)
-53.
-WILLS DEVISING IMMOVABLE PROPERTY
-The person by whom the application is signed shall certify on the application the net value of the immovable property devised at the time of the death of the testator. Application for registration and furnishing copy of will to applicant, where the net value of the immovable property devised -
-(a)
-Does not exceed £50,000
-50p for each £100 or part of £100, with a minimum fee of £5.00
-)
-)
-)
-)
-)
-)
-)
-)
-(b)
-Exceeds £50,000
-£250 for the first £50,000, plus £1.00 for each £100 or part of £100 in excess thereof
-) Applic-
-) ation
-)
-)
-)
-)
-)
-)
-)
-Greffier
-Provided that -
-(a)
-where the will devises all the immovable property of the testator to those persons to whom the property would have passed on an intestacy and in the same shares, the fee shall be £2 per page subject to a minimum fee of £5; and
-(b)
-on the annulment of a will by the Court, the Greffier, on application being made to him, shall issue a certificate authorizing the Treasurer of the States to reimburse to the applicant the amount of the fee originally paid or so much thereof as the Greffier shall determine.
-PART II
-FEES IN MATRIMONIAL CAUSES
-Item
-Stamp Duty
+Record of the Vue
+At discretion of Viscount subject to a minimum of £350 and a maximum of £750
+Record
+Viscount
+Item 46.
+Stamp Duty, by Figure or Rate
 Chargeable Document
 Designated Officer
-1.
-Filing petition to include all docu-ments for service
-£15.00
-The petition
-)
-)
-)
-)
-)
-2.
-Greffier’s certificate
-)
-)
-(a)
-issuing
-£7.00
-)
-)
-) The
-)
-(b)
-renewing
-£5.00
-) certificate
-)
-)
-3.
-Hearing cause
-)
-)
-(a)
-undefended
-£8.00
-The
-“billet”
-)
-)
-)
-(b)
-defended, for each half day or part thereof
-£40.00
-The
-“billet”
-)
-)
-)
-)
-)
-4.
-Applying for decree absolute (to include issue of one copy)
-£6.00
-The application
-)
-)
-)
-)
-)
-5.
-Making any ex parte application by affidavit
-£5.00
-The affidavit
-)
-)
-)
-)
-)
-6.
-Lodging and marking any agreement on ancillary matters
-£5.00
-The agreement
-)
-)
-) Greffier
-)
-)
-7.
-Originating appli-cation, summons or notice of ancillary relief (including adjourned ancillary hearing)
-)
-)
-)
-)
-)
-)
-)
-(a)
-filing summons, fixing date, signing copy for service
-£5.00
-The summons of notice
-)
-)
-)
-)
-)
-)
-(b)
-hearing -
-)
-before the Greffier -
-)
-)
-)
-uncontested
-£5.00
-The summons
-)
-)
-)
-contested, for each half day or part thereof
-£30.00
-The summons
-)
-)
-)
-)
-)
-)
-before the Court -
-)
-)
-)
-uncontested
-£8.00
-The summons
-)
-)
-)
-contested, for each half day or part thereof
-£40.00
-The summons
-)
-)
-)
-)
-)
-)
-8.
-Filing any additional plea (including signing any docu-ment for service) and filing further and better particulars
-£6.00
-The document filed
-)
-)
-)
-)
-)
-)
-)
-)
-)
-9.
-Lodging or filing any document not other-wise provided for in this Part of this Schedule, or issuing copy of any document
-£1.00
-The document filed
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Copy certified by Greffier
-£5.00
-The copy document
-)
-)
-)
-)
-10.
-Appeals -
-)
-on filing notice of appeal from an order of the Greffier
-£6.00
-The notice of appeal
-)
-)
-)
-)
-)
-hearing by the Court of any appeal from an order of the Greffier, for each half day or part thereof
-£40.00
-The “billet”
-)
-)
-)
-)
-)
-)
-)Greffier
-)
-11.
-Guardian ad litem - appointment of
-£5.00
-The application
-)
-)
-)
-)
-12.
-Commission for examination of witnesses abroad - issue of
-£15.00
-The application
-)
-)
-)
-)
-)
-)
-13.
-Letters of request -
-)
-)
-(i)
-for service of process out of the Bailiwick
-£15.00
-The undertaking
-)
-)
-)
-)
-)
-(ii)
-for the examination of witnesses abroad
-£15.00
-The undertaking
-)
-)
-)
-)
-)
-)
-14.
-Medical inspection - administering oath and filing report
-£5.00
-The application
-)
-)
-)
-)
-)
-15.
-Evidence - taking of in writing by Viscount, for each half day or part thereof
-£50.00
-The deposition
-)
-)
-)
-)
-)
-)
-)
-16.
-Service by Viscount
-)
-personal, each party served
-up to a maximum of £20.00
-The record
-)
-) Viscount
-)
-)
-)
-other than personal, each party served
-£10.00
-The record
-)
-)
-)
-)
-17.
-Translation of any document
-£5.00
-The translation
-)
-)
-)
-)
-18.
-Taxing bill of costs, for each half hour
-£10.00
-The bill
-)
-)
-PART III
-PROBATE FEES
-Item
-Stamp Duty
-Chargeable Document
-Designated Officer
-1.
-ACTIONS -
-(a)
-“Billet à la Table” or “Billet au Greffe” -
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-“Billet” in the cause
-Greffier
-First billet in the cause
-£10.00
-(b)
-Where the court fixes a special day for the hearing or trial the following additional fee shall be paid -
-For each day or part of a day
-£80.00
-2.
-BOND
-Application for the assignment of a bond
-£5.00
+46.
+WILLS DEVISING IMMOVABLE PROPERTY (The person by whom the application is signed shall certify on the application the net value of the immovable property devised at the time of the death of the testator) -
+(1)
+Application for registration and furnishing copy of will to applicant, where the net value of the immovable property devised -
+(a) does not exceed £50,000
+50p each £100 or part of £100, with a minimum fee of £12
 Application
 Greffier
-3.
-CAVEATS
-For the entry or renewal of a caveat
-£5.00
-Caveat
+(b) exceeds £50,000 but does not exceed £300,000
+£250 in respect of the first £50,000, plus £1.50 for each £100 or part of £100 in excess thereof
+Application
 Greffier
-4.
-COPIES
+(c) exceeds £300,000 but does not exceed £500,000
+£4,000 in respect of the first £300,000 plus £2 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(d) exceeds £500,000 but does not exceed £700,000
+£8,000 in respect of the first £500,000, plus £3 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(e) exceeds £700,000 but does not exceed £1,000,000
+£14,000 in respect of the first £700,000, plus £3.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(f) exceeds £1,000,000 but does not exceed £1,500,000
+£24,500 in respect of the first £1,000,000 plus £4.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(g) exceeds £1,500,000 but does not exceed £2,000,000
+£47,000 in respect of the first £1,500,000 plus £5.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(h) exceeds £2,000,000 but does not exceed £3,000,000
+£74,500 in respect of the first £2,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(i) exceeds £3,000,000 but does not exceed £6,000,000
+£139,500 in respect of the first £3,000,000 plus £8.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(j) exceeds £6,000,000
+£394,500 in respect of the first £6,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+Application
+Greffier
+(2)
+In all cases under this item -
+(a) in the case of a professional application, for each document registered
+rate F
+Application
+Greffier
+(b) in any other case, for each document registered
+rate I
+Application
+Greffier
+Notwithstanding paragraphs (1) and (2) -
+(A) where the testator devises to his or her spouse or civil partner a property which, at the time of the testator’s death, was their matrimonial home or civil partnership home, as the case may be, the net value of that property shall be disregarded in determining the net value of the immoveable property devised;
+(AA) where the testator devises immovable property, whether as sole devisee or jointly with others -
+(a) to a corporation, association or trust, or a non-profit organization, described in Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961; and
+(b) that body produces to the Greffier a letter from the Comptroller of Taxes confirming that the body qualifies for exemption under one of those provisions,
+the only fee payable by the body shall be the fee payable under paragraph (2)(a) or, as the case may be, (2)(b) (but any other devisees shall be liable to pay the fees required by this item based on the net value of that part of the property not devised to the body);
+(B) where the will devises all the immovable property of the testator to those persons to whom the property would have passed on an intestacy and in the same shares, the only fee payable shall be that specified in paragraph (2)(a) or, as the case may be, (2)(b); and
+(C) on the annulment of a will by the Court, the Greffier shall on application issue a certificate authorizing the Treasurer of the States to reimburse to the applicant the amount of the fee originally paid or so much thereof as the Greffier shall determine.
+Item 47.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+47.
+CHILDREN (JERSEY) LAW 2002
 (a)
-Photographic copies -
-)
-)
-)
-)
-) Copy
-)
-)
-)
-)
-)
-)
-)
+Application for order in relation to parental responsibility (Article 5(1)(a) and (2))
+rate G
+Application
 Greffier
-For each sheet photographed
-25p
 (b)
-Typewritten or written copies -
-For each page
-£1.00
-Sealed and certified copies
-£5.00
-5.
-DOCUMENT (including will) lodged “au Greffe” -
-Each document
-£1.00
-Document
+Application for order appointing guardian (Article 7(1))
+rate G
+Application
 Greffier
-6.
-EVIDENCE of a witness taken in writing before the Viscount -
-For each half day
-£50.00
-Deposition
-Viscount
-7.
-GUARANTEE CORPORATIONS -
-Approval of, under Article 19 of the Probate (Jersey) Law 1949
-£50.00
-Such document as the Greffier may determine
-Greffier
-8.
-INTERVENTION of the Attorney General -
-(a)
-Attending in Court when the intervention is granted
-£50.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Such docu-ment as the Attorney General may determine
-Attorney General
-(b)
-Each subsequent attendance in Court without pleading
-£50.00
 (c)
-Each subsequent attendance in Court, with pleading (Inferior Number)
-£50.00
+Record of disclaimer of appointment as guardian (Article 8(6))
+rate G
+Record
+Greffier
 (d)
-Each subsequent attendance in Court, with plead-ing (Superior Number)
-£50.00
+Application for contact order, prohibited steps order, residence order or specific issue order (Article 10)
+rate G
+Application
+Greffier
 (e)
-Drawing plea or other proceedings
-£25.00
+Application for leave to change child’s surname or to remove child from Jersey (Article 14(1))
+rate G
+Application
+Greffier
 (f)
-Attending to examine exhibits
-£25.00
+Application for order relating to financial provision (Schedule 1)
+rate G
+Application
+Greffier
 (g)
-Each consultation
-£25.00
-9.
-ORDER OF JUSTICE -
-Signature of Bailiff
-£20.00
-Order of Justice
-Bailiff
-10.
-PERSONAL APPLICATIONS -
-For drawing up, perusing and settling and administering oaths, affidavits or other documents
-£50.00
-Oath
+An application made on Form C2 in the Children Rules 2005
+rate G
+Application
 Greffier
-11.
-PLEADINGS, APPLICATIONS, DECLARA-TIONS, INTERVEN-TIONS OR OPPOSITIONS in a probate action
-£3.00
-Pleading or other document
+Notwithstanding the above sub-paragraphs, if an application referred to in any of the above sub-paragraphs is required to be made on Form C1 in the Children Rules 2005 and is required to be accompanied by an application for special leave in Form C2 in those Rules, no fee is payable in relation to the application made in Form C1.
+No fee is payable in relation to an application referred to in Rule 6 of the Children Rules 2005.
+Item 48.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+48.
+PLANNING APPEALS “ON THE PAPERS”
+For Planning Appeals dealt with by the Greffier without the need for an oral hearing under the provisions of Rule 15/3C of the Royal Court Rules 2004
+rate L
+Notice of Appeal
 Greffier
-12.
-PROBATE OR LETTERS OF ADMINIS-TRATION -
-If the net value of the personal estate is sworn -
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Oath leading to the grant
+Item 49.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+49.
+APPLICATION FOR GENDER RECOGNITION CERTIFICATE
+For an application under Article 2 of the Gender Recognition (Jersey) Law 2010
+rate E
+Application
 Greffier
-(a)
-Not to exceed £5,000
-no fee
-(b)
-Not to exceed £10,000
-£50.00
-(c)
-Not to exceed £50,000
-£50.00 for each £10,000 or part of £10,000
-(d)
-To exceed £50,000
-£250.00 in respect of the first £50,000, plus £75.00 for each additional £10,000 or part thereof
-Where another executor is appointed under Article 26 of the Probate (Jersey) Law 1949, no additional fee shall be payable under this head.
-13.
-REPRESENTA-TIONS TO THE COURT -
-(a)
-Presentation to the Court of
-£10.00
-)
-)
-)
-)
-)
-)
-)
-)
-Representations
+Item 50.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+50.
+APPLICATION FOR REGISTRATION OF SOCIAL SECURITY HYPOTHEC
+For an application under Article 2(2) of the Social Security Hypothecs (Jersey) Law 2014
+rate F
+Application
 Greffier
-(b)
-Where the Court fixes a special day for the hearing -
-For each day or part of a day
-£80.00
-14.
-SEARCHES in the Probate Registry -
-Each half hour
-£10.00
-Such document as the Greffier may determine
-Greffier
-15.
-SUMMONSES -
-(a)
-Summoning a party, and record
-£10.00
-)
-)
-)
-)
-)
-)
-Instruct-ions given to the Viscount
-Viscount
-(b)
-Summoning a witness, and record
-£5.00
-16.
-TRUST COR-PORATIONS -
-Authorization of, under paragraph (5) of Article 12 of the Probate (Jersey) Law 1949
-£50.00
-Such document as the Greffier may determine
-Greffier
-17.
-VISCOUNT AS ADMINISTRATOR UNDER ARTICLE 14 OF THE PROBATE (JERSEY) LAW 1949 -
-(a)
-Attendances to obtain particulars of the estate and attendances with the Greffier to obtain administration
-£50.00
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-Such docu-ment as the Viscount may determine
-Viscount
-(b)
-Preparation of the inventory -
-For each half day
-£25.00
-(c)
-Administration of the estate -
-(i)
-commission on the gross nature of the personal estate -
-on the first £2,000
-10%
-on the next £2,000
-8%
-on the next £4,000
-4%
-on the balance in excess of £8,000
-2%
-(ii)
-com-mission on all monies paid or distributed
-2½%
-(d)
-Attendances of the Viscount not provided above
-£25.00
-18.
-VISCOUNT IN POSSESSION PENDENTE LITE UNDER ARTICLE 15 OF THE PROBATE (JERSEY) LAW 1949
-Such fees and percentages as may be determined by the Royal Court in each particular case
-Such document as the Viscount may determine
-Viscount

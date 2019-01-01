@@ -1,23 +1,25 @@
 # Stamp Duties and Fees (Jersey) Law 1998
 
-L.8/1998 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-08-1998.aspx>
+L.8/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1998_20191231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to provide for the charging of fees for the registration of documents in the Public Registry or with the Royal Cou |
-| art-001 | [art-001.md](art-001.md) | 1 |
-| art-002 | [art-002.md](art-002.md) | 2 |
-| art-003 | [art-003.md](art-003.md) | 3 |
-| art-004 | [art-004.md](art-004.md) | 4 |
-| art-005 | [art-005.md](art-005.md) | 5 |
-| art-006 | [art-006.md](art-006.md) | 6 |
-| art-007 | [art-007.md](art-007.md) | 7 |
-| art-008 | [art-008.md](art-008.md) | 8 |
-| art-009 | [art-009.md](art-009.md) | 9 |
-| art-010 | [art-010.md](art-010.md) | 10 |
-| art-011 | [art-011.md](art-011.md) | 11 |
-| art-012 | [art-012.md](art-012.md) | 12 |
-| art-013 | [art-013.md](art-013.md) | 13 |
-| art-014 | [art-014.md](art-014.md) | 14 |
-| sch-01 | [sch-01.md](sch-01.md) | FIRST SCHEDULE |
-| sch-02 | [sch-02.md](sch-02.md) | SECOND SCHEDULE |
+| Long title | [long-title.md](long-title.md) | A LAW to provide for the charging of fees for the registration of documents in the Public Registry or with the Royal Cou |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Stamp duty |
+| Art. 3 | [art-003.md](art-003.md) | 3 Regulations |
+| Art. 4 | [art-004.md](art-004.md) | 4 Mode of calculating stamp duty in respect of foreign currency |
+| Art. 5 | [art-005.md](art-005.md) | 5 Stamp duty in cases of grant of probate or administration |
+| Art. 6 | [art-006.md](art-006.md) | 6 Reduction or remission of stamp duty |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Remission of stamp duty on Jersey Homebuy contracts |
+| Art. 7 | [art-007.md](art-007.md) | 7 Exemption from payment of stamp duty on financial grounds |
+| Art. 8 | [art-008.md](art-008.md) | 8 Registration of chargeable documents and grant of probate or administration |
+| Art. 9 | [art-009.md](art-009.md) | 9 Refund of stamp duty |
+| Art. 10 | [art-010.md](art-010.md) | 10 Determinations and appeals |
+| Art. 11 | [art-011.md](art-011.md) | 11 Offences |
+| Art. 12 | [art-012.md](art-012.md) | 12 Validity of stamp duty charged under previous legislation |
+| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Transitional provision |
+| Art. 13 | [art-013.md](art-013.md) | 13 Citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
