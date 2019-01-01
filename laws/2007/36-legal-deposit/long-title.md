@@ -1,0 +1,1 @@
+A LAW to require the deposit in the Jersey Library of copies of works that are published in Jersey; to provide for their preservation as part of the cultural heritage of Jersey; and for related matters.
