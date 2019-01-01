@@ -1,0 +1,2 @@
+# 7A Use of microchips
+Where, in this Order, there is a reference to two ear tags or to a second ear tag, the reference extends to there being, instead of one of the two ear tags, or of the second ear tag, an electronic identification device that contains substantially the same information as the tag would be required to contain (whether or not the device contains additional information, whether or not the device is in an ear of the relevant animal, and whether or not the device is in an ear tag).
