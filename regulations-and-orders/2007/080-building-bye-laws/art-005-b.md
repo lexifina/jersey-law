@@ -1,0 +1,3 @@
+# 5B Requirements relating to a change to energy status
+(1) Where there is a change to a building’s energy status, such building work shall be carried out as is necessary to ensure that the building complies with the requirements of Part 11 of Schedule 2.
+(2) However, if the change concerns the energy status of only part of the building, being a part designed, or altered, to have fixed building services that are separate from those of other parts of the building, then it shall be sufficient compliance with paragraph (1) if the building work that is carried out ensures that the part complies with the requirements of Part 11 of Schedule 2.
