@@ -1,0 +1,2 @@
+# 15 Orders for disclosure of information
+At any stage in proceedings under the European Convention the Court may, if it has reason to believe that any person may have relevant information about the child who is the subject of those proceedings, order that person to disclose such information and may for that purpose order that the person attend before it or file affidavit evidence.

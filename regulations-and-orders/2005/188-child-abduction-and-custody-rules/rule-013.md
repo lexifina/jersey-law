@@ -1,0 +1,2 @@
+# 13 Obtaining authenticated copies of decisions
+Any person who intends to make an application under the Hague Convention in a Contracting State other than the United Kingdom shall, on satisfying the Greffier as to that intention, be entitled to obtain an office copy sealed with the official seal of the Court of any order made by the Court relating to the child in respect of whom the application is made.
