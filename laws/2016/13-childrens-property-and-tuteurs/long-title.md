@@ -1,0 +1,1 @@
+A LAW to provide for the appointment and discharge of tuteurs and the duties and liabilities of tuteurs and former tuteurs; to empower the Royal Court to give directions in relation to the property of any minor; to empower the States to make Regulations amending the Loi (1959) touchant la vente des immeubles de mineurs; and for connected purposes
