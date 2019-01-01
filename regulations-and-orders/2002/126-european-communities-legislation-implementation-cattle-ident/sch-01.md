@@ -1,0 +1,3 @@
+# SCHEDULE 1
+(Regulation 3)
+LOGO FOR EARTAGS
