@@ -1,5 +1,5 @@
-# FIRST SCHEDULE
-DISEASES TO WHICH ARTICLE 25(1) APPLIES
+# SCHEDULE 1
+DISEASES TO WHICH ARTICLE 22(1) APPLIES
 Acute inflammation of the throat.
 Diphtheria.
 Dysentery.
