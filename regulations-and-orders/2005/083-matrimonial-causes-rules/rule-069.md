@@ -1,0 +1,2 @@
+# 69 Change of advocate or solicitor
+Any party may change his or her advocate or solicitor at any stage of the proceedings but, until notice of any such change is filed by the new advocate or solicitor and copies of the notice are served on every other party to the proceedings (not being a party in default), the former advocate or solicitor shall be taken to be the advocate or solicitor of the party.

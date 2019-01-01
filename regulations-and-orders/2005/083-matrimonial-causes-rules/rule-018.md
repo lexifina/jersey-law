@@ -1,0 +1,8 @@
+# 18 Contents of answer and subsequent pleadings
+(1) If an answer, reply or subsequent pleading contains more than a simple denial of the facts stated in the petition, answer or reply, as the case may be, the pleading must set out with sufficient particularity the facts relied on but not the evidence by which they are to be proved.
+(2) Unless otherwise directed, an answer by a husband or wife who disputes any statement required by Rule 5(1)(f)(g)(h) and (i) to be included in the petition must contain full particulars of the facts relied on.
+(3) Rule 5(7) shall, where appropriate, apply with the necessary modifications to a respondent's answer as it applies to a petition save that it shall not be necessary to include in the answer any claim for costs against the petitioner.
+(4) If an answer to any petition contains a prayer for relief, it must contain the information required by Rule 5(1)(k) in the case of the petition in so far as it has not been given by the petitioner.
+(5) An answer containing a claim for a residence order in respect of any minor child of the family must be accompanied by a separate written statement containing the information required by Form 5.
+(6) A party cited or person named in an answer who has given notice of intention to defend the answer and wishes to defend all or any of the charges made therein must, within 14 days after the expiration of the time limited for giving notice of intention to defend, file an answer to the charges by sending it by post or by leaving it at the Judicial Greffe.
+(7) Every answer or subsequent pleading, if settled by an advocate or solicitor, must be signed by that person and, if not so settled, must be signed by the party filing it.

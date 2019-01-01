@@ -1,0 +1,2 @@
+# 16C Supplemental: answer praying for decree of nullity on ground of petitioner’s gender having become acquired gender at time of marriage
+Where an answer under Rule 16(1) prays for a decree of nullity under Article 18(1)(i) of the Law and a full gender recognition certificate has been issued to the petitioner, the respondent must file a copy of the full certificate with the answer, unless otherwise directed.

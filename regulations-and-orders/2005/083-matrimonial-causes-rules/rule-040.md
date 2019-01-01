@@ -1,0 +1,3 @@
+# 40 Rescission of decree nisi by consent
+(1) If, after a decree nisi has been pronounced but before it has been made absolute, or after a decree of judicial separation has been pronounced, the petitioner and the respondent have become reconciled, either party may apply to the Greffier by summons for an order rescinding the decree by consent.
+(2) A copy of the summons by which an application under paragraph (1) is made, in addition to being served on the petitioner or the respondent, as the case may be, must be served on any other party against whom costs have been awarded or who is otherwise affected by the decree; and such other party shall be entitled to be heard.

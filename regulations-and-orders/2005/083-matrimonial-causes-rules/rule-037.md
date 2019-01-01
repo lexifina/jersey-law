@@ -1,0 +1,4 @@
+# 37 Application under Article 11(3) of the Law
+(1) An application by the respondent to a petition for divorce for the Court to consider the financial position of the respondent after the divorce must be made by notice in Form 17.
+(2) A petitioner served with a notice in Form 17 must (unless the petitioner has already filed an affidavit of means) within 14 days after service of the notice, file an affidavit in answer to the application containing full particulars of property and income, and if that is not done, the Court may order the petitioner to file an affidavit containing such particulars.
+(3) Within 14 days after service of any affidavit under paragraph (2), or within such time as the Court may direct, the respondent must file an affidavit in reply containing full particulars of the respondent’s property and income unless already given in an affidavit of means filed by the respondent.
