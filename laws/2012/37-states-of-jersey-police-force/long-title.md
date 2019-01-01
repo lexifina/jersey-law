@@ -1,0 +1,1 @@
+A LAW to provide for the administration and supervision of the States of Jersey Police Force, the establishment of a Jersey Police Authority, the establishment of arrangements for independent custody visiting in order to monitor the detention of persons in the custody of the police or immigration or customs officers and for connected purposes.
