@@ -1,4 +1,4 @@
-# FIRST SCHEDULE
+# SCHEDULE 1
 (Articles 1(1) and (4), and 21(1))
 Kinds of dangerous wild animals
 First Column
@@ -42,7 +42,7 @@ The Pronghorn
 Bovidae (except any domestic form of the genera Bos and Bubalus, of the species Capra aegagrus (hircus) and the species Ovis aries)
 Antelopes, bison, buffalo, cattle, gazelles, goats and sheep (except domestic cattle, goats and sheep)
 Camelidae (except the species Lama glama and Lama pacos)
-Camels, the guanaco and the vicugna (except the domestic Hama and alpaca)
+Camels, the guanaco and the vicugna (except the domestic llama and alpaca)
 Cervidae of the species Alces alces and Rangifer tarandus (except any domestic form of the species Rangifer tarandus)
 The moose or elk and the caribou or reindeer (except the domestic reindeer)
 Giraffidae
