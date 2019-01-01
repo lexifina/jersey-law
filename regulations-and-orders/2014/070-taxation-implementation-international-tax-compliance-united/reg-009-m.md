@@ -1,0 +1,7 @@
+# 9M Obstructing an authorized person
+(1) A person shall be guilty of an offence if, without reasonable excuse, the person -
+(a) obstructs an authorized person in the exercise of the authorized person’s powers under Regulation 9L; or
+(b) fails to provide such reasonable assistance as an authorized person may require when the authorized person is exercising his or her powers under Regulation 9L.
+(2) A person who intentionally alters, suppresses or destroys any business document that has been specified in a notice under Regulation 9L(4) shall be guilty of an offence.
+(3) A person who is guilty of an offence under paragraph (1) shall be liable to imprisonment for a term of 6 months and to a fine.
+(4) A person who is guilty of an offence under paragraph (2) shall be liable to imprisonment for a term of 2 years and to a fine.
