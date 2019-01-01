@@ -1,0 +1,1 @@
+A LAW to provide for the safety of civil aviation in Jersey; to establish the office of Director of Civil Aviation; to charge the Director with functions in respect of the safety of civil aviation in Jersey and its airspace; and for related matters.
