@@ -1,0 +1,1 @@
+A LAW to replace the Fire Service (Jersey) Law 1959, to continue to provide for the States of Jersey Fire and Rescue Service; to provide for the better protection of life, property and the environment against fire and emergencies arising from other causes, and for related matters.
