@@ -1,0 +1,3 @@
+# 13B Payments of income support
+(1) Subject to paragraph (2), where a claim for income support has been made on behalf of a household and it has been determined that the household is entitled to an award, the entitlement shall have effect from the day on which the claim is treated as having been made, in accordance with Article 6(3) to (5).
+(2) Where, on the day the claim is treated as having been made, the household does not satisfy one or more of the conditions for entitlement to the award, the claim shall be treated as having been made on day on which the last of those conditions is satisfied.

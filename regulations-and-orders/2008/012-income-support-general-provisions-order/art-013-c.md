@@ -1,0 +1,11 @@
+# 13C Changes in circumstances affecting payments of income support
+(1) Where, by virtue of a change in circumstances, a household’s entitlement to income support ceases, or the level of payments to which the household is entitled decreases, the cessation of, or decrease in, payments has effect from the date of the change in circumstances.
+(2) Where, by virtue of a change in circumstances, a household is entitled to an increase in the level of payments of income support to which it is entitled, the increase has effect in accordance with paragraph (3) or (4).
+(3) Where notice of the change in circumstances is given to the Minister within the time required by Article 8(1) -
+(a) if the Minister does not require any further information under Article 8(2) as a consequence of the change - the increase has effect from the date of the change in circumstances;
+(b) if further information required under Article 8(2) as a consequence of the change is furnished to the Minister within the time specified by the Minister under Article 8(2) - the increase has effect from the date of the change in circumstances;
+(c) if further information required under Article 8(2) as a consequence of the change is not furnished to the Minister within the time specified by the Minister under Article 8(2) - the increase has effect from the date the further information is furnished to the Minister.
+(4) Where notice of the change in circumstances is not given to the Minister within the time required by Article 8(1) -
+(a) if the Minister does not require any further information under Article 8(2) as a consequence of the change - the increase has effect from the date the notice of the change in circumstances is given to the Minister;
+(b) if further information required under Article 8(2) as a consequence of the change is furnished to the Minister within the time specified by the Minister under Article 8(2) - the increase has effect from the date the notice of the change in circumstances is given to the Minister;
+(c) if further information required under Article 8(2) as a consequence of the change is not furnished to the Minister within the time specified by the Minister under Article 8(2) - the increase has effect from the date the further information is furnished to the Minister.
