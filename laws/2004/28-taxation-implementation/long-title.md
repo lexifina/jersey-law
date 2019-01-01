@@ -1,0 +1,1 @@
+A LAW enabling the States to make Regulations implementing agreements with, and obligations owed to, the governments of other countries and territories regarding or relating to taxation, and for connected purposes.
