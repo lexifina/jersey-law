@@ -1,0 +1,7 @@
+# 38B Transitional and savings provisions
+(1) A person who is -
+(a) by virtue of being a senior States’ employee in a Ministerial department, an accounting officer under Article 37(1) or (2) or Article 38A of this Law immediately before the commencement of Part 2 of the Machinery of Government (Miscellaneous Amendments) (Jersey) Law 2018; or
+(b) an accounting officer for the purposes of this Law under an express provision to that effect in any enactment, immediately before the commencement of Part 2 of the Machinery of Government (Miscellaneous Amendments) (Jersey) Law 2018,
+shall be deemed to be appointed by the PAO as an accountable officer under Article 38 in compliance with the provisions for appointment under Article 38A.
+(2) In relation to a non-Ministerial States funded body, Articles 37, 38 and 39 of this Law shall continue to apply to the extent they applied to such a body immediately before the commencement of Part 2 of the Machinery of Government (Miscellaneous Amendments) (Jersey) Law 2018.
+(3) In relation to any other States funded body which does not have an accounting officer as described in paragraph (1), Articles 37, 38 and 39 of this Law shall continue to apply to the extent they applied to such a body immediately before the commencement of Part 2 of the Machinery of Government (Miscellaneous Amendments) (Jersey) Law 2018 until such time (if at all) as an accountable officer is appointed under Part 5.
