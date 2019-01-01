@@ -1,0 +1,30 @@
+# SCHEDULE 1
+(Rule 1/1(1))
+Provisions of these Rules in which references to the court do not include references to the Greffier.
+Rule 6/3
+Rule 6/7
+Rule 6/9(1)
+Rule 6/24
+Rule 6/30
+Rule 6/39
+Rule 9/2
+Rule 9/3
+Rule 9/4(8)
+Rule 10/1
+Rule 10/2
+Rule 10/4
+Rule 11/1
+Rule 11/4
+Rule 14A/10(2)(e)
+Rule 14A/13(2)
+Rule 15/1
+Rule 15/2(1)
+Rule 15B/1(2)(c)
+Part 16
+Rule 16A/1(1)
+Rule 16B/1(1)
+Rule 16B/5(1)
+Rule 18/5
+Rule 18/6
+Rule 20/1
+Rule 20/2
