@@ -1,0 +1,1 @@
+A LAW to require the registration of persons carrying on the business of an employment agency, to enable the introduction of a code of conduct in respect thereof, and to provide for matters connected therewith
