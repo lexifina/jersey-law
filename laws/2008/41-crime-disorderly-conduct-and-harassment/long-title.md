@@ -1,0 +1,1 @@
+A LAW to create an offence of threatening, abusive, or disorderly conduct and an offence of harassment, to enable restraining orders to be imposed in respect of persons convicted of harassment, and for related purposes.
