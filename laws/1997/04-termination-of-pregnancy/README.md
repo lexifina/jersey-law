@@ -1,19 +1,18 @@
 # Termination of Pregnancy (Jersey) Law 1997
 
-L.4/1997 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-04-1997.aspx>
+L.4/1997 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_1997_20210701>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to codify and amend the customary law of the Island relating to the termination of pregnancy by registered medical |
-| art-001 | [art-001.md](art-001.md) | 1 |
-| art-002 | [art-002.md](art-002.md) | 2 |
-| art-003 | [art-003.md](art-003.md) | 3 |
-| art-004 | [art-004.md](art-004.md) | 4 |
-| art-005 | [art-005.md](art-005.md) | 5 |
-| art-006 | [art-006.md](art-006.md) | 6 |
-| art-007 | [art-007.md](art-007.md) | 7 |
-| art-008 | [art-008.md](art-008.md) | 8 |
-| art-009 | [art-009.md](art-009.md) | 9 |
-| art-010 | [art-010.md](art-010.md) | 10 |
-| art-011 | [art-011.md](art-011.md) | 11 |
-| sch-01 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Long title | [long-title.md](long-title.md) | A LAW to codify and amend the customary law of Jersey relating to the termination of pregnancy by registered medical pra |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Circumstances in which termination is not to be unlawful |
+| Art. 3 | [art-003.md](art-003.md) | 3 Requirement for consultation |
+| Art. 4 | [art-004.md](art-004.md) | 4 Referral following compliance with requirement for consultation |
+| Art. 5 | [art-005.md](art-005.md) | 5 Conscientious objection to participation in treatment |
+| Art. 6 | [art-006.md](art-006.md) | 6 Approved registered medical practitioners |
+| Art. 7 | [art-007.md](art-007.md) | 7 Approved places |
+| Art. 8 | [art-008.md](art-008.md) | 8 Supplementary provisions |
+| Art. 10 | [art-010.md](art-010.md) | 10 Orders |
+| Art. 10A | [art-010-a.md](art-010-a.md) | 10A Forms |
+| Art. 11 | [art-011.md](art-011.md) | 11 Citation |
