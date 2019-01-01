@@ -1,1 +1,1 @@
-A LAW to regulate the importation, manufacture, storage, conveyance, sale, purchase, transfer, acquisition and possession of explosives and for purposes connected therewith, sanctioned by Order of Her Majesty in Council of the
+A LAW to regulate the importation, manufacture, storage, use, conveyance, sale, purchase, transfer, acquisition and possession of explosives and for purposes connected therewith
