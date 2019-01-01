@@ -1,0 +1,1 @@
+A LAW to make provision for the encouragement and development of Tourism in Jersey, to establish effective control of the accommodation and attractions available for tourists and to provide for connected matters
