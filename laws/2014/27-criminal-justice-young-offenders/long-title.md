@@ -1,0 +1,1 @@
+A LAW to replace the Criminal Justice (Young Offenders) (Jersey) Law 1994 and to make provision for the establishment of a Placement Panel in relation to the detention of persons under 18 years and for connected purposes.
