@@ -1,0 +1,57 @@
+# 8B Grant or refusal of certificate, imposition of conditions and cancellation of certificate
+(1) The Commission may grant, or refuse to grant, to an applicant a certificate in relation to an unclassified fund.
+(2) A certificate may be granted either unconditionally or subject to the conditions that the Commission considers appropriate.
+(3) Every certificate shall specify the collective investment fund and the class of fund (if any) to which the certificate relates.
+(4) The Commission may from time to time vary any condition attached to the grant of a certificate under paragraph (2) or attach a new condition.
+(5) The Minister may, on the recommendation of the Commission, by Order prescribe conditions applicable to -
+(a) all certificates;
+(b) certain classes of certificates; or
+(c) all certificates granted in relation to collective investment funds of a certain kind.
+(6) Conditions attached, varied or prescribed under paragraph (2), (4) or (5) may indicate that a code of practice is to be wholly or partly disregarded for the purposes of Article 15(4).
+(7) The Commission may refuse to grant a certificate on one or more of the following grounds, namely that -
+(a) having regard to the information before the Commission as to -
+(i) the integrity, competence, financial standing, structure and organization of the applicant,
+(ii) the persons employed by or associated with the applicant for the purposes of the applicant’s business or who are principal persons in relation to the applicant,
+(iii) the nature of the collective investment fund to which the applicant’s role relates,
+(iv) the role to be performed by the applicant in relation to the collective investment fund,
+(v) the reputation of the applicant, and
+(vi) any other fund service providers there are or may be in respect of the collective investment fund to which the application relates,
+the Commission is not satisfied that the applicant is a fit and proper person to be granted a certificate;
+(b) the applicant has at any time and whether or not in relation to the application, in any case where information was required under this Law in any connection -
+(i) failed to provide any such information, or
+(ii) provided to the Commission information which was untrue or misleading in any material particular;
+(c) the applicant has at any time failed to comply in any material respect with -
+(i) any condition attached to the grant of a certificate or to the grant of a permit, including any varied condition, or
+(ii) any condition prescribed as applicable to a certificate or permit (whether generally or not);
+(d) the applicant or any person employed by or associated with the applicant for the purposes of the applicant’s business has been convicted of -
+(i) an offence (whether under the law of Jersey or of a country or territory outside Jersey) involving fraud or other dishonesty,
+(ii) an offence under -
+(A) this Law,
+(B) the Banking Business (Jersey) Law 1991,
+(C) the Financial Services (Jersey) Law 1998,
+(D) the Insurance Business (Jersey) Law 1996,
+(E) any Regulation or Order made under any of those Laws;
+(iii) any similar offence to those listed in clause (ii) under the laws of any country or territory outside Jersey,
+(iv) where clause (ii) or (iii) does not apply, an offence under any enactment (whether of Jersey or of a country or territory outside Jersey) relating to building societies, companies, consumer credit, consumer protection, credit unions, friendly societies, industrial and provident societies, insider dealing, insolvency, insurance, money laundering or terrorist financing, or
+(v) an offence (whether under the law of Jersey or of a country or territory outside Jersey) of perjury or conspiracy to pervert the course of justice;
+(e) it appears to the Commission, as a result of information provided in pursuance of requirements of or under Article 8A, or information otherwise obtained, that -
+(i) for the protection of the public or of existing or potential participants in the collective investment fund, the applicant should not be granted a certificate,
+(ii) in order to protect the reputation and integrity of Jersey in financial and commercial matters, the applicant should not be granted a certificate, or
+(iii) in the best economic interests of Jersey, the applicant should not be granted a certificate;
+(f) the Commission has reason to believe that the applicant has at some time contravened a code of practice;
+(g) the applicant has failed at any time to comply with a direction by the Commission under Article 13.
+(8) In exercising its or his or her powers under paragraphs (2), (4) or (5), the Commission or Minister, as the case may be, shall have regard to such of the matters referred to in paragraph (7) as it, he or she thinks appropriate.
+(9) For the purposes of paragraph (8), when the Commission is exercising its powers under paragraph (4), paragraph (7) shall apply with the substitution for references to the applicant of references to the certificate holder.
+(10) The Commission may cancel a certificate in relation to a collective investment fund -
+(a) if the fund has ceased to operate;
+(b) at the request of -
+(i) where the fund is a company issuing units, the company,
+(ii) where the fund is a unit trust, a trustee of the unit trust, or
+(iii) where the fund is an incorporated limited partnership, a limited partnership or a separate limited partnership, the general partner of the partnership;
+(c) if it appears to the Commission that any requirements of the Commission in respect of the collective investment fund, or the class of fund of which the fund is a member, are no longer satisfied;
+(d) if it appears to the Commission that any provision of this Law, or any Regulation or Order made, or a condition of any certificate granted, under this Law, has been contravened by a person who is employed on behalf of the fund or provides services to the fund or if a person has, in purported compliance with any such provision, provided the Commission with false, inaccurate or misleading information;
+(e) on one or more of the grounds set out in paragraph (7), which shall apply in such a case with the substitution for references to the applicant of references to the certificate holder; or
+(f) if the certificate holder fails to pay any fee published in accordance with paragraph (13).
+(11) Any person who fails to comply with any condition attached to a certificate under paragraph (2) or (4) or any condition applicable to a certificate under paragraph (5) shall be guilty of an offence.
+(12) The record of the conviction of any person for an offence under paragraph (11) shall be admissible in civil proceedings as evidence of the fact of the breach of a condition attached or applicable under this Article.
+(13) The Commission may, in accordance with Article 15 of the Financial Services Commission (Jersey) Law 1998, publish fees that shall be payable by the holders of certificates at such intervals and upon the occurrence of such events as the Commission may determine.
