@@ -1,26 +1,20 @@
 # Honorary Police (Jersey) Law 1974
 
-L.24/1974 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-24-1974.aspx>
+L.24/1974 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_1974_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to make new provision in relation to the policing of the Island, sanctioned by Order of Her Majesty in Council of  |
-| art-001 | [art-001.md](art-001.md) | 1 INTERPRETATION |
-| art-002 | [art-002.md](art-002.md) | 2 DUTY OF POLICE OFFICER |
-| art-003 | [art-003.md](art-003.md) | 3 POWER OF POLICE OFFICER |
-| art-004 | [art-004.md](art-004.md) | 4 COMPOSITION OF HONORARY POLICE |
-| art-005 | [art-005.md](art-005.md) | 5 JURISDICTION |
-| art-006 | [art-006.md](art-006.md) | 6 PRESCRIBED OFFENCES |
-| art-007 | [art-007.md](art-007.md) | 7 REPORT OF OCCURRENCES |
-| art-008 | [art-008.md](art-008.md) | 8 DUTIES AND POWERS OF COMMITTEE |
-| art-009 | [art-009.md](art-009.md) | 9 THE CHIEF OFFICER |
-| art-010 | [art-010.md](art-010.md) | 10 JURISDICTION |
-| art-011 | [art-011.md](art-011.md) | 11 RESTRICTION ON TAKING OTHER EMPLOYMENT |
-| art-012 | [art-012.md](art-012.md) | 12 THE POLICE ASSOCIATION |
-| art-013 | [art-013.md](art-013.md) | 13 OATH OF OFFICE |
-| art-014 | [art-014.md](art-014.md) | 14 PROPERTY IN POSSESSION OF POLICE |
-| art-015 | [art-015.md](art-015.md) | 15 IMPERSONATION ETC. OF POLICE OFFICER |
-| art-016 | [art-016.md](art-016.md) | 16 ORDERS |
-| art-017 | [art-017.md](art-017.md) | 17 REPEALS |
-| art-018 | [art-018.md](art-018.md) | 18 SHORT TITLE AND COMMENCEMENT |
-| sch-01 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Long title | [long-title.md](long-title.md) | A LAW to make provision for the Honorary Police, and for related purposes. |
+| Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2 | [art-002.md](art-002.md) | 2 Duty of police officer |
+| Art. 3 | [art-003.md](art-003.md) | 3 Power of police officer |
+| Art. 4 | [art-004.md](art-004.md) | 4 Composition of Honorary Police |
+| Art. 5 | [art-005.md](art-005.md) | 5 Jurisdiction |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Requests for assistance |
+| Art. 20 | [art-020.md](art-020.md) | 20 Property in possession of Honorary Police |
+| Art. 22 | [art-022.md](art-022.md) | 22 Remedies against members of the Honorary Police |
+| Art. 23 | [art-023.md](art-023.md) | 23 Impersonation etc. of police officer |
+| Art. 24 | [art-024.md](art-024.md) | 24 Wasting Honorary Police time |
+| Art. 30 | [art-030.md](art-030.md) | 30 Citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
