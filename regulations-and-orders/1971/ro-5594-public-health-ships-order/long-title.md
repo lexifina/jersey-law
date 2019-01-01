@@ -1,0 +1,1 @@
+THE HEALTH AND SOCIAL SERVICES COMMITTEE in pursuance of Article 2 of the Public Health (Vessels and Aircraft) (Jersey) Law 1950, and after consultation with the Harbours and Airport Committee, orders as follows -
