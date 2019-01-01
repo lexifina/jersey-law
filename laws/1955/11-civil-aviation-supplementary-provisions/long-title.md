@@ -1,1 +1,1 @@
-A LAW to provide for the purchase of, and the exercise of control over, land in the interests of civil aviation, for the indication of the presence of obstructions to flying, and for matters incidental thereto, sanctioned by Order of Her Majesty in Council of the
+A LAW to provide for the purchase of, and the exercise of control over, land in the interests of civil aviation, for the indication of the presence of obstructions to flying, and for matters incidental thereto
