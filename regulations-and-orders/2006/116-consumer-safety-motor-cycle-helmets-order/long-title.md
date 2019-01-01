@@ -1,0 +1,1 @@
+THE MINISTER FOR ECONOMIC DEVELOPMENT, in pursuance of Articles 9 and 33 of the Consumer Safety (Jersey) Law 2006 and after consultation with such organisations as appear to the Minister to be representative of interests substantially affected by the proposal and such other persons as the Minister considers appropriate, orders as follows -
