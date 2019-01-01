@@ -1,9 +1,9 @@
 # Customary Law Amendment (Jersey) Law 1948
 
-L.3/1948 · as enacted · <https://www.jerseylaw.je/laws/enacted/Pages/L-03-1948.aspx>
+L.3/1948 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_3_1948>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| long-title | [long-title.md](long-title.md) | A LAW to amend the law as to the effect of death in relation to causes of action, sanctioned by Order of His Majesty in  |
-| art-001 | [art-001.md](art-001.md) | 1 |
-| art-002 | [art-002.md](art-002.md) | 2 |
+| Long title | [long-title.md](long-title.md) | A LAW to amend the law as to the effect of death in relation to causes of action |
+| Art. 1 | [art-001.md](art-001.md) | 1 Cause of action |
+| Art. 2 | [art-002.md](art-002.md) | 2 Citation |
