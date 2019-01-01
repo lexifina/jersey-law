@@ -1,6 +1,6 @@
 # SCHEDULE
 (Article 12)
-PROVISIONS OF COMMUNITY TRADE MARK REGULATION APPLIED TO THE ISLAND
+PROVISIONS OF COMMUNITY TRADE MARK REGULATION APPLIED TO JERSEY
 TITLE I: GENERAL PROVISIONS
 Article 1
 (Community trade mark)
@@ -22,7 +22,7 @@ Article 14
 Article 15
 (Use of Community trade marks)
 Article 16
-(Dealing with Community trade marks as national trade marks
+(Dealing with Community trade marks as national trade marks)
 Article 19
 (rights in rem), except paragraph 2
 Article 22
@@ -79,7 +79,7 @@ Article 107
 TITLE XIII: FINAL PROVISIONS
 Article 142
 (Compatibility with other Community legal provisions)
-TEXT OF THE PROVISIONS OF COUNCIL REGULATION (EC) No 40/94 OF 20 DECEMBER 1993 ON THE COMMUNITY TRADE MARK AS APPLICABLE IN THE ISLAND
+TEXT OF THE PROVISIONS OF COUNCIL REGULATION (EC) No 40/94 OF 20 DECEMBER 1993 ON THE COMMUNITY TRADE MARK AS APPLICABLE IN JERSEY
 (For information only - not part of this Law)
 THE COUNCIL OF THE EUROPEAN UNION,
 Having regard to the Treaty establishing the European Community, and in particular Article 235 thereof,
@@ -108,7 +108,7 @@ HAS ADOPTED THIS REGULATION:
 TITLE I: GENERAL PROVISIONS
 ARTICLE 1
 Community trade mark
-1. A trade mark for goods or services which is registered in accordance with the conditions contained in this Regulation and in the manner herein provided is hereinafter referred to as a ‘Community trade mark’.
+1. A trade mark for goods or services which is registered in accordance with the conditions contained in this Regulation and in the manner herein provided is hereinafter referred to as a “Community trade mark”.
 2. A Community trade mark shall have a unitary character. It shall have equal effect throughout the Community: it shall not be registered, transferred or surrendered or be the subject of a decision revoking the rights of the proprietor or declaring it invalid, nor shall its use be prohibited, save in respect of the whole Community. This principle shall apply unless otherwise provided in this Regulation.
 ARTICLE 2
 * * * * * * *
@@ -150,7 +150,7 @@ A Community trade mark shall not entitle the proprietor to prohibit a third part
 (a) his own name or address;
 (b) indications concerning the kind, quality, quantity, intended purpose, value, geographical origin, the time of production of the goods or of rendering of the service, or other characteristics of the goods or service;
 (c) the trade mark where it is necessary to indicate the intended purpose of a product or service, in particular as accessories or spare parts,
-provided he uses them in accordance with honest practises in industrial or commercial matters.
+provided he uses them in accordance with honest practices in industrial or commercial matters.
 ARTICLE 13
 Exhaustion of the rights conferred by a Community trade mark
 1. A Community trade mark shall not entitle the proprietor to prohibit its use in relation to goods which have been put on the market in the Community under that trade mark by the proprietor or with his consent.

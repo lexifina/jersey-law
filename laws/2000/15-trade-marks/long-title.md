@@ -1,1 +1,1 @@
-A LAW to make new provision for the registration in the Island of trade marks; to allow for the recognition of Community trade marks and to afford protection to certain international trade marks; and for connected purposes; sanctioned by Order of Her Majesty in Council of the
+A LAW to make provision for the registration in Jersey of trade marks; to allow for the recognition of Community trade marks and to afford protection to certain international trade marks; and for connected purposes

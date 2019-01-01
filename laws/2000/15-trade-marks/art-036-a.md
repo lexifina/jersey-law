@@ -1,0 +1,3 @@
+# 36A Transitional provisions
+(1) Any act done on or after the date that the Intellectual Property (Registered Rights) (Miscellaneous Provisions) (Jersey) Law 2015 enters into force pursuant to any agreement or arrangement made before that date shall not constitute infringement of a registered trade mark if it would not have constituted an infringement before that date.
+(2) For the avoidance of doubt, any act done before the date that the Intellectual Property (Registered Rights) (Miscellaneous Provisions) (Jersey) Law 2015 came into force shall not be treated as infringing a trade mark from that date if the act did not infringe a trade mark before that date.
