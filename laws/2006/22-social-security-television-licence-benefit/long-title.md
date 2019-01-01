@@ -1,0 +1,1 @@
+A LAW to permit the making of Regulations providing for certain persons to be entitled to be paid, or have paid on their behalf, the amount of the fee for issue of a licence in relation to a television, and for related matters
