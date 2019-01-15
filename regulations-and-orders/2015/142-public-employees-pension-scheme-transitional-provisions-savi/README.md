@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Transitional Provisions, Savings and Consequential Amendments) (Jersey) Regulations 2015
 
-R&O.142/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_142_2015_20190114>
+R&O.142/2015 · official consolidation showing the law from 2019-01-15 · <https://www.jerseylaw.je/laws/current/ro_142_2015_20190617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
