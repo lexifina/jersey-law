@@ -1,6 +1,6 @@
 # Air Navigation (Jersey) Law 2014
 
-L.24/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_2014_20190121>
+L.24/2014 · official consolidation showing the law from 2019-01-22 · <https://www.jerseylaw.je/laws/current/l_24_2014_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
