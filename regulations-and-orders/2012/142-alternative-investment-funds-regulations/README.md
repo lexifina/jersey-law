@@ -1,6 +1,6 @@
 # Alternative Investment Funds (Jersey) Regulations 2012
 
-R&O.142/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_142_2012_20190121>
+R&O.142/2012 · official consolidation showing the law from 2019-01-22 · <https://www.jerseylaw.je/laws/current/ro_142_2012_20190530>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ R&O.142/2012 · official consolidation showing the law from 2019-01-01 · <https
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Notice of decisions and reasons |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 Delay in taking effect |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Appeals |
-| Reg. 14 | [reg-014.md](reg-014.md) | 14 Power to obtain information and require production of documents |
+| Reg. 14 | [reg-014.md](reg-014.md) | 14 General power to require information and documents |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Misleading statements and practices |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Orders classifying or regulating AIFs |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Objection to principal person or key person and to changes in holdings |
