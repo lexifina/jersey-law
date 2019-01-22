@@ -293,6 +293,7 @@ An aircraft operated on or in the vicinity of an aerodrome shall -
 (3) An aircraft approaching another aircraft or a vessel head-on, or approximately so, shall alter its heading to the right to keep well clear.
 (4) The aircraft or vessel which is being overtaken has the right of way, and the one overtaking shall alter its heading to keep well clear.
 (5) Aircraft landing on or taking off from the water shall, in so far as practicable, keep well clear of all vessels and avoid impeding their navigation.
+(6) At night or during any other period specified by the competent authority, all aircraft on the water shall display lights as required by the Convention on the International Regulations for Preventing Collisions at Sea 1972, unless it is impractical for them to do so, in which case they shall display lights as closely similar as possible in characteristics and position to those required by the International Regulations.
 Chapter 3 - Signals
 26 General (SERA.3301)
 (1) Upon observing or receiving any of the signals given in Appendix 1, aircraft shall take such action as may be required by the interpretation of the signal given in that Appendix.
@@ -345,7 +346,7 @@ FLIGHT PLANS
 (2) For a flight plan submitted during flight, the departure aerodrome or operating site provided shall be the location from which supplementary information concerning the flight may be obtained, if required, and the information to be provided in lieu of the estimated off-block time shall be the time over the first point of the route to which the flight plan relates.
 30 Completion of a flight plan (SERA.4010)
 (1) A flight plan shall contain information, as applicable, on relevant items including the information specified in Rule 29(1)(a), (b), (c), (d), (e), (f), (g), (h), (i), (j) and (k), regarding the whole route or the portion thereof for which the flight plan is submitted.
-(2) A flight plan shall, in addition to the information specified in paragraph (1), contain information, as applicable, the information specified in Rule 29(1)(l), (m), (n) and (o) when so specified by the competent authority or when otherwise deemed necessary by the person submitting the flight plan.
+(2) A flight plan shall, in addition to the information specified in paragraph (1), contain information, as applicable, on all other items when so specified by the competent authority or when otherwise deemed necessary by the person submitting the flight plan.
 31 Changes to a flight plan (SERA.4015)
 (1) Subject to Rule 47(2) all changes to a flight plan submitted for an IFR flight, or a VFR flight operated as a controlled flight, shall be reported as soon as practicable to the appropriate air traffic services unit.
 (2) For VFR flights, other than those referred to in paragraph (1), significant changes to a flight plan shall be reported as soon as practicable to the appropriate air traffic services unit.
@@ -355,7 +356,7 @@ FLIGHT PLANS
 (2) Submission of an arrival report is not required after landing on an aerodrome where air traffic services are provided on condition that radio communication or visual signals indicate that the landing has been observed.
 (3) When a flight plan has been submitted only in respect of a portion of a flight, other than the remaining portion of a flight to destination, it shall, when required, be closed by an appropriate report to the relevant air traffic services unit.
 (4) When no air traffic services unit exists at the arrival aerodrome or operating site, the arrival report, when required, shall be made as soon as practicable after landing and by the quickest means available to the nearest air traffic services unit.
-(5) When communication facilities at the arrival aerodrome or operating site are known to be inadequate and alternate arrangements for the handling of arrival reports on the ground are not available, immediately prior to landing, the aircraft shall, if practicable, transmit to the appropriate air traffic services unit, a message comparable to an arrival report, where such a report is required.
+(5) When communication facilities at the arrival aerodrome or operating site are known to be inadequate and alternate arrangements for the handling of arrival reports on the ground are not available, the aircraft shall, immediately prior to landing, if practicable, transmit to the appropriate air traffic services unit, a message comparable to an arrival report, where such a report is required.
 (6) Normally, the transmission referred to in sub-paragraph (5) shall be made to the aeronautical station serving the air traffic services unit in charge of the flight information region in which the aircraft is operated.
 (7) Arrival reports made by aircraft shall contain the following elements of information -
 (a) aircraft identification;
@@ -436,9 +437,9 @@ Clear of cloud and with the surface in sight
 (i) clear of cloud and with the surface in sight,
 (ii) with the flight visibility of not less than 1 500 m or, for helicopters, not less than 800 m,
 (iii) at a speed of 140 kts IAS or less to give adequate opportunity to observe other traffic and any obstacles in time to avoid a collision; and
-(c) an air traffic control unit shall not issue a special VFR clearance to aircraft to take off or land at an aerodrome within the control zone or aerodrome traffic circuit when the reported meteorological conditions at the aerodrome are below the following minima -
-(i) the ground visibility is not less than 1 500 m or, for helicopters, not less than 800 m,
-(ii) the ceiling is not less than 180 m (600 ft).
+(c) an air traffic control unit shall not issue a special VFR clearance to aircraft to take off or land at an aerodrome within a control zone, or enter the aerodrome traffic zone or aerodrome traffic circuit when the reported meteorological conditions at the aerodrome are below the following minima -
+(i) the ground visibility is less than 1 500 m or, for helicopters, less than 800 m,
+(ii) the ceiling is less than 180 m (600 ft).
 36 Instrument Flight Rules (IFR) - Rules applicable to all IFR flights (SERA.5015)
 (1) Aircraft shall be equipped with suitable instruments and with navigation equipment appropriate to the route to be flown and in accordance with the applicable law relating to air operations.
 (2) Except when necessary for take-off or landing, or except when specifically authorized by the competent authority, an IFR flight shall be flown at a level which is not below the minimum flight altitude established by the State whose territory is overflown, or, where no such minimum flight altitude has been established -
@@ -446,6 +447,8 @@ Clear of cloud and with the surface in sight
 (b) elsewhere than as specified in sub-paragraph (a), at a level which is at least 300 m (1 000 ft) above the highest obstacle located within 8 km of the estimated position of the aircraft.
 (3) An aircraft electing to change the conduct of its flight from compliance with the Instrument Flight Rules to compliance with the visual flight rules shall notify the appropriate air traffic services unit specifically that the IFR flight is cancelled and communicate thereto the changes to be made to its current flight plan.
 (4) When an aircraft operating under the Instrument Flight Rules is flown in or encounters visual meteorological conditions it shall not cancel its IFR flight unless it is anticipated, and intended, that the flight will be continued for a reasonable period of time in uninterrupted visual meteorological conditions.
+(5) A change from IFR flight to VFR flight shall only be acceptable when a message initiated by the pilot-in-command containing the specific expression “CANCELLING MY IFR FLIGHT”, together with the changes, if any, to be made to the current flight plan, is received by an ATS unit.
+(6) An invitation to change from IFR flight to VFR flight shall not be made by ATS either directly or by inference.
 37 IFR - Rules applicable to IFR flights within controlled airspace (SERA.5020)
 (1) IFR flights shall comply with Part 8 when operated in controlled airspace.
 (2) An IFR flight operating in cruising flight in controlled airspace shall be flown at a cruising level, or, if authorized by the air traffic services unit to employ cruise climb techniques, between 2 levels or above a level, selected from the table of cruising levels in Appendix 3, except that the correlation of levels to track prescribed therein shall not apply whenever otherwise indicated in ATC clearances or specified by the competent authority in Aeronautical Information Publications.
@@ -456,7 +459,7 @@ Clear of cloud and with the surface in sight
 PART 6
 AIRSPACE CLASSIFICATION
 39 Classification of airspaces (SERA.6001)
-(1) Airspace may be designated and notified by a competent authority in accordance with the following airspace classification and in accordance with Appendix 4 -
+(1) A competent authority may designate airspace in accordance with the following airspace classification and in accordance with Appendix 4 -
 (a) Class A in which -
 (i) IFR flights only are permitted,
 (ii) all flights are provided with air traffic control service and are separated from each other,
@@ -517,6 +520,10 @@ The objectives of the air traffic services shall be to -
 (c) expedite and maintain an orderly flow of air traffic;
 (d) provide advice and information useful for the safe and efficient conduct of flights;
 (e) notify appropriate authorities regarding aircraft in need of search and rescue aid, and assist such authorities as required.
+41A Collision hazard information when ATS based on surveillance are provided (SERA.7002)
+When an identified controlled flight is observed to be on a conflicting path with an unknown aircraft, deemed to constitute a collision hazard, the pilot of the controlled flight shall, whenever practicable -
+(a) be informed of the unknown aircraft, and, if the pilot so requests, or if the situation so warrants in the opinion of the controller, avoiding action shall be suggested; and
+(b) be notified when the conflict no longer exists.
 42 Coordination between the aircraft operator and air traffic services (SERA.7005)
 (1) Air traffic services units, in carrying out their objectives, shall have due regard for the requirements of the aircraft operators consequent on their obligations as specified in the applicable law on air operations, and, if so required by the aircraft operators, shall make available to them or their designated representatives such information as may be available to enable them or their designated representatives to carry out their responsibilities.
 (2) When so requested by an aircraft operator, messages (including position reports) received by air traffic services units and relating to the operation of the aircraft for which operational control service is provided by that aircraft operator shall, so far as practicable, be made available immediately to the aircraft operator or a designated representative in accordance with locally agreed procedures.
@@ -542,7 +549,7 @@ Air traffic control service shall be provided -
 (c) between IFR flights and VFR flights in airspace Class C;
 (d) between IFR flights and special VFR flights;
 (e) between special VFR flights unless otherwise prescribed by the competent authority,
-except that, when requested by the pilot of an aircraft and agreed by the pilot of the other aircraft and if so prescribed by the competent authority for the cases listed this paragraph in airspace Classes D and E, a flight may be cleared subject to maintaining own separation in respect of a specific portion of the flight below 3 050 m (10 000 ft) during climb or descent, during day in visual meteorological conditions.
+except that, when requested by the pilot of an aircraft and agreed by the pilot of the other aircraft and if so prescribed by the competent authority for the cases listed in this paragraph in airspace Classes D and E, a flight may be cleared subject to maintaining own separation in respect of a specific portion of the flight below 3 050 m (10 000 ft) during climb or descent, during day in visual meteorological conditions.
 (3) Except for cases when a reduction in separation minima in the vicinity of aerodromes can be applied, separation by an air traffic control unit shall be obtained by at least one of the following -
 (a) vertical separation, obtained by assigning different levels selected from the table of cruising levels in Appendix 3 except that the correlation of levels to track as specified therein shall not apply whenever otherwise indicated in appropriate Aeronautical Information Publications or ATC clearances;
 (b) horizontal separation, obtained by providing -
@@ -555,8 +562,16 @@ except that, when requested by the pilot of an aircraft and agreed by the pilot 
 (3) Details of the selected separation minima and of their areas of application shall be notified -
 (a) to the air traffic services units concerned; and
 (b) to pilots and aircraft operators through Aeronautical Information Publications, where separation is based on the use by aircraft of specified navigation aids or specified navigation techniques.
+45A Application of wake turbulence separation (SERA.8012)
+Wake turbulence separation minima shall be applied to aircraft in the approach and departure phases of flight under the following circumstances -
+(a) an aircraft is operating directly behind another aircraft at the same altitude or less than 300 m (1 000 ft) below it;
+(b) both aircraft are using the same runway or parallel runways separated by less than 760 m (2 500 ft); or
+(c) an aircraft is crossing behind another aircraft at the same altitude or less than 300 m (1 000 ft) below it.
 46 Air traffic control clearances (ATC clearance) (SERA.8015)
-(1) ATC clearances shall be based solely on the requirements for providing air traffic control service.
+(1) ATC clearances shall be based solely on the following requirements for providing air traffic control service -
+(a) clearances shall be issued solely for expediting and separating air traffic and be based on known traffic conditions which affect safety in aircraft operation and such traffic conditions include not only aircraft in the air, and on the manoeuvring area over which control is being exercised, but also any vehicular traffic or other obstructions not permanently installed on the manoeuvring area in use;
+(b) ATC units shall issue such ATC clearances as necessary to prevent collisions and to expedite and maintain an orderly flow of air traffic; and
+(c) ATC clearances shall be issued early enough to ensure that they are transmitted to the aircraft in sufficient time for it to comply with them.
 Operation subject to clearance
 (2) An ATC clearance shall be obtained prior to operating a controlled flight, or a portion of a flight as a controlled flight and such clearance shall be requested through the submission of a flight plan to an air traffic control unit.
 (3) The pilot-in-command of an aircraft shall inform ATC if an ATC clearance is not satisfactory and in such cases, ATC will issue an amended clearance, if practicable.
@@ -570,9 +585,10 @@ Contents of clearances
 (9) An ATC clearance shall indicate -
 (a) aircraft identification as shown in the flight plan;
 (b) clearance limit;
-(c) route of flight;
+(c) route of flight which shall be detailed in each clearance when deemed necessary;
 (d) levels of flight for the entire route or part thereof and changes of levels if required;
 (e) any necessary instructions or information on other matters such as approach or departure manoeuvres, communications and the time of expiry of the clearance.
+(9A) The phrase “cleared via flight planned route” shall not be used when granting a re-clearance.
 Read-back of clearances and safety-related information
 (10) The flight crew shall read back to the air traffic controller safety-related parts of ATC clearances and instructions which are transmitted by voice. The following items shall always be read back -
 (a) ATC route clearances;
@@ -582,6 +598,24 @@ Read-back of clearances and safety-related information
 (11) Other clearances or instructions, including conditional clearances and taxi instructions, shall be read back or acknowledged in a manner to clearly indicate that they have been understood and will be complied with.
 (12) The controller shall listen to the read-back to ascertain that the clearance or instruction has been correctly acknowledged by the flight crew and shall take immediate action to correct any discrepancies revealed by the read-back.
 (13) Voice read-back of controller-pilot data link communications messages shall not be required, unless otherwise specified by the ANSP.
+Changes in clearance regarding route or level
+(13A) When issuing a clearance covering a requested change in route or level, the exact nature of the change shall be included in the clearance.
+(13B) When traffic conditions will not permit clearance of a requested change, the word “UNABLE” shall be used and, when warranted by circumstances, an alternative route or level shall be offered.
+Clearance related to altimetry
+(13C) For flights in areas where a transition altitude is established, the vertical position of the aircraft shall, except as provided for in paragraph (13H), be expressed in terms of altitudes at or below the transition altitude and in terms of flight levels at or above the transition level.
+(13D) While passing through the transition layer, the vertical position shall be expressed in terms of flight levels when climbing and in terms of altitudes when descending.
+(13E) The flight crew shall be provided with the transition level in due time prior to reaching it during descent.
+(13F) A QNH altimeter setting shall be included in the descent clearance when first cleared at an altitude below the transition level, in approach clearances or clearances to enter the traffic circuit, and in taxi clearances for departing aircraft, except when it is known that the aircraft has already received the information in a directed transmission.
+(13G) A QFE altimeter setting shall be provided to aircraft on request or on a regular basis in accordance with local arrangements.
+(13H) When an aircraft which has been given clearance to land is completing its approach using atmospheric pressure at aerodrome elevation (QFE), the vertical position of the aircraft shall be expressed in terms of height above aerodrome elevation during that portion of its flight for which QFE may be used, except that it shall be expressed in terms of height above runway threshold elevation:
+(a) for instrument runways if the threshold is 2 m (7 ft) or more below the aerodrome elevation; and
+(b) for precision approach runways.
+Conditional clearances
+13(I) Conditional phrases, such as ‘behind landing aircraft’ or ‘after departing aircraft’, shall not be used for movements affecting the active runway(s), except when the aircraft or vehicles concerned are seen by the appropriate controller and pilot and the aircraft or vehicle causing the condition in the clearance issued shall be the first aircraft or vehicle to pass in front of the other aircraft concerned. In all cases, a conditional clearance shall be given in the following order and consist of -
+(a) the call sign;
+(b) the condition;
+(c) the clearance, and
+(d) a brief reiteration of the condition.
 Coordination of clearances
 (14) An ATC clearance shall be coordinated between air traffic control units to cover the entire route of an aircraft or a specified portion thereof as described in paragraphs (2) to (6).
 (15) An aircraft shall be cleared for the entire route to the aerodrome of first intended landing -
@@ -605,7 +639,7 @@ Inadvertent changes
 (5) In the event that a controlled flight inadvertently deviates from its current flight plan, the following action shall be taken -
 (a) deviation from track - if the aircraft is off track, action shall be taken forthwith to adjust the heading of the aircraft to regain track as soon as practicable;
 (b) variation in true airspeed - if the average true airspeed at cruising level between reporting points varies or is expected to vary by plus or minus 5 per cent of the true airspeed, from that given in the flight plan, the appropriate air traffic services unit shall be so informed;
-(c) change in time estimate - if the time estimate for the next applicable reporting point, flight information region boundary or destination aerodrome, whichever comes first, is found to be in error in excess of 2 minutes from that notified to air traffic services, or such other period of time as is prescribed by the competent authority or on the basis of ICAO regional air navigation agreements, a revised estimated time shall be notified as soon as possible to the appropriate air traffic services unit;
+(c) change in time estimate - if the time estimate for the next applicable reporting point, flight information region boundary or destination aerodrome, whichever comes first, is found to be in error in excess of 2 minutes from that notified to air traffic services, or such other period of time as is specified by the competent authority, a revised estimated time shall be notified as soon as possible to the appropriate air traffic services unit;
 (d) when an ADS-C agreement is in place, the air traffic services unit shall be informed automatically via data link whenever changes occur beyond the threshold values stipulated by the ADS-C event contract.
 Intended changes
 (6) Requests for flight plan changes shall include the following information -
@@ -623,6 +657,11 @@ Weather deterioration below the VMC
 (1) Unless exempted by the competent authority or by the appropriate air traffic services unit under conditions specified by that competent authority, a controlled flight shall report to the appropriate air traffic services unit, as soon as possible, the time and level of passing each designated compulsory reporting point, together with any other required information, and position reports shall similarly be made in relation to additional points when requested by the appropriate air traffic services unit.
 (2) In the absence of designated reporting points, position reports shall be made at intervals prescribed by the competent authority or specified by the appropriate air traffic services unit.
 (3) Controlled flights providing position information to the appropriate air traffic services unit via data link communications shall only provide voice position reports when requested.
+(4) When a controlled flight has been exempted from the requirement to report at compulsory reporting points, pilots shall, unless automated position reporting is in effect, resume voice or CPDLC position reporting -
+(a) when so instructed;
+(b) when advised that the ATS surveillance service has been terminated; or
+(c) when advised that the ATS surveillance identification is lost.
+(5) The format of position reports shall be in accordance with Part A of Appendix 5.
 49 Termination of control (SERA.8030)
 A controlled flight shall, except when landing at a controlled aerodrome, advise the appropriate air traffic control unit as soon as it ceases to be subject to air traffic control service.
 50 Communications (SERA.8035)
@@ -670,7 +709,7 @@ ATIS for arriving and departing aircraft
 (i) holding delay, if appropriate;
 (j) transition level, if applicable,
 (k) other essential operational information;
-(l) surface wind direction and speed, including significant variations and, if surface wind sensors related specifically to the sections of runway in use are available and the information is required by aircraft operators, the indication of the runway and the section of the runway to which the information refers;
+(l) surface wind direction (in degrees magnetic) and speed, including significant variations and, if surface wind sensors related specifically to the sections of runway in use are available and the information is required by aircraft operators, the indication of the runway and the section of the runway to which the information refers;
 (m) visibility and, when applicable, RVR*;
 (*These elements are replaced by the term “CAVOK” when the following conditions occur simultaneously at the time of observation: (a) visibility, 10 km or more, and the lowest visibility not reported, (b) no cloud of operational significance, and (c) no weather of significance to aviation.)
 (n) present weather*;
@@ -737,25 +776,25 @@ ATIS for departing aircraft
 PART 10
 ALERTING SERVICE
 54 Application (SERA.10001)
-Alerting service shall be provided by the air traffic services units -
+(1) Alerting service shall be provided by the air traffic services units -
 (a) for all aircraft provided with air traffic control service;
 (b) in so far as practicable, to all other aircraft having filed a flight plan or otherwise known to the ATS; and
 (c) to any aircraft known or believed to be the subject of unlawful interference.
+(2) Unless otherwise prescribed by the competent authority, aircraft equipped with suitable two-way radio-communications shall report during the period 20 to 40 minutes following the time of the last contact, whatever the purpose of such contact, merely to indicate that the flight is progressing according to plan, and such report shall comprise identification of the aircraft and the words “Operations normal”.
+(3) The “Operations normal” message shall be transmitted by air-ground voice communication to an appropriate ATS unit.
 55 Information to aircraft operating in the vicinity of an aircraft in a state of emergency (SERA.10005)
 (1) When it has been established by an air traffic services unit that an aircraft is in a state of emergency, other aircraft known to be in the vicinity of the aircraft involved shall, except as provided in paragraph (2), be informed of the nature of the emergency as soon as practicable.
 (2) When an air traffic services unit knows or believes that an aircraft is being subjected to unlawful interference, no reference shall be made in ATS air-ground communications to the nature of the emergency unless it has first been referred to in communications from the aircraft involved and it is certain that such reference will not aggravate the situation.
 PART 11
 INTERFERENCE, EMERGENCY CONTINGENCIES AND INTERCEPTION
-56 Unlawful interference (SERA.11001)
-(1) An aircraft which is being subjected to unlawful interference shall endeavour to set the transponder to Code 7500 and notify the appropriate air traffic services unit of any significant circumstances associated therewith, and any deviation from the current flight plan necessitated by the circumstances, in order to enable the air traffic services unit to give priority to the aircraft and to minimize conflict with other aircraft.
-(2) If an aircraft is subjected to unlawful interference, the pilot-in-command shall attempt to land as soon as practicable at the nearest suitable aerodrome or at a dedicated aerodrome assigned by the competent authority unless considerations aboard the aircraft dictate otherwise.
-57 Service to aircraft in the event of an emergency (SERA.11005)
-(1) In the case of an aircraft known or believed to be in a state of emergency, including being subjected to unlawful interference, air traffic services units shall give the aircraft maximum consideration, assistance and priority over other aircraft as may be necessitated by the circumstances.
-(2) When an occurrence of unlawful interference with an aircraft takes place or is suspected -
-(a) air traffic services units shall attend promptly to requests by the aircraft;
-(b) information pertinent to the safe conduct of the flight shall continue to be transmitted; and
-(c) necessary action shall be taken to expedite the conduct of all phases of the flight, especially the safe landing of the aircraft.
-(3) When an occurrence of unlawful interference with an aircraft takes place or is suspected, air traffic services units shall, in accordance with locally agreed procedures, immediately inform the appropriate authority designated by the State and exchange necessary information with the aircraft operator or its designated representative.
+56 General (SERA.11001)
+(1) In case of an aircraft known or believed to be in a state of emergency, including being subjected to unlawful interference, air traffic services units shall give the aircraft maximum consideration, assistance and priority over other aircraft, as may be necessitated by the circumstances.
+(2) Subsequent ATC actions shall be based on the intentions of the pilot, the overall air traffic situation and the real-time dynamics of the contingency.
+57 Unlawful interference (SERA.11005)
+(1) An aircraft which is being subjected to unlawful interference shall endeavour to set the transponder to Code 7500 and notify the appropriate air traffic services unit of any significant circumstances associated therewith and any deviation from the current flight plan necessitated by the circumstances, in order to enable the air traffic services unit to give priority to the aircraft and to minimise conflict with other aircraft.
+(2) If an aircraft is subjected to unlawful interference, the pilot-in-command shall attempt to land as soon as practicable at the nearest suitable aerodrome or at a dedicated aerodrome assigned by the competent authority, unless considerations aboard the aircraft dictate otherwise.
+(3) When an occurrence of unlawful interference with an aircraft takes place or is suspected, air traffic services units shall attend promptly to requests by the aircraft and information pertinent to the safe conduct of the flight shall continue to be transmitted and necessary action shall be taken to expedite the conduct of all phases of the flight, especially the safe landing of the aircraft.
+(4) When an occurrence of unlawful interference with an aircraft takes place or is suspected, air traffic services units shall, in accordance with locally agreed procedures, immediately inform the appropriate authority designated by the State and exchange necessary information with the aircraft operator or its designated representative.
 58 Strayed or unidentified aircraft (SERA.11010)
 (1) As soon as an air traffic services unit becomes aware of a strayed aircraft it shall take all necessary steps in paragraphs (2) and (4) to assist the aircraft and to safeguard its flight.
 (2) If the aircraft’s position is not known, the air traffic services unit shall -
@@ -766,7 +805,7 @@ INTERFERENCE, EMERGENCY CONTINGENCIES AND INTERCEPTION
 (e) request from the units referred to in sub-paragraphs (c) and (d) and from other aircraft in flight every assistance in establishing communication with the aircraft and determining its position.
 (3) The requirements in paragraph (2)(d) and (e) shall apply also to air traffic services units informed in accordance with paragraph (2)(c).
 (4) When the aircraft’s position is established, the air traffic services unit shall -
-(a) advise the aircraft of its position and corrective action to be taken and this advice shall be immediately provided when the air traffic services unit is aware that there is a possibility of interception or other hazard to the safety of the aircraft; and
+(a) advise the aircraft of its position and the corrective action to be taken and this advice shall be immediately provided when the air traffic services unit is aware that there is a possibility of interception or other hazard to the safety of the aircraft; and
 (b) provide, as necessary, other air traffic services units and appropriate military units with relevant information concerning the strayed aircraft and any advice given to that aircraft.
 (5) As soon as an air traffic services unit becomes aware of an unidentified aircraft in its area, it shall endeavour to establish the identity of the aircraft whenever this is necessary for the provision of air traffic services or required by the appropriate military authorities in accordance with locally agreed procedures and to this end, the air traffic services unit shall take such of the following steps as are appropriate in the circumstances -
 (a) attempt to establish two-way communication with the aircraft;
@@ -775,6 +814,32 @@ INTERFERENCE, EMERGENCY CONTINGENCIES AND INTERCEPTION
 (d) attempt to obtain information from other aircraft in the area;
 (e) inform the appropriate military unit as soon as the identity of the aircraft has been established.
 (6) In the case of a strayed or unidentified aircraft, the possibility of the aircraft being the subject of unlawful interference shall be taken into account and should the air traffic services unit consider that a strayed or unidentified aircraft may be the subject of unlawful interference, the appropriate authority designated by the State shall immediately be informed, in accordance with locally agreed procedures.
+58A Minimum fuel and fuel emergency (SERA.11012)
+(1) When a pilot reports a state of minimum fuel, the controller shall inform the pilot as soon as practicable of any anticipated delays or that no delays are expected.
+(2) When the level of fuel renders declaring a situation of distress necessary, the pilot, in accordance with Rule 92 (SERA.14095), shall indicate that by using the radiotelephony distress signal (MAYDAY), preferably spoken three times, followed by the nature of the distress condition (FUEL).
+58B Degraded aircraft performance (SERA.11013)
+(1) When, as a result of failure or degradation of navigation, communications, altimetry, flight control or other systems, aircraft performance is degraded below the level required for the airspace in which it is operating, the flight crew shall advise the air traffic unit concerned without delay.
+(2) Where the failure or degradation affects the separation minimum currently being employed, the controller shall take action to establish another appropriate type of separation or separation minimum.
+(3) When an aircraft cannot meet the specifications as required by the RNAV route or procedure, as a result of a failure or degradation of the RNAV system, a revised clearance shall be requested by the pilot.
+(4) The pilot shall inform ATC as soon as possible of any circumstances where the vertical navigation performance requirements for RVSM airspace cannot be maintained. In such cases, the pilot shall obtain a revised ATC clearance prior to initiating any deviation from the cleared route and/or flight level, whenever possible.
+(5) When a revised ATC clearance cannot be obtained prior to such a deviation, the pilot shall obtain a revised clearance as soon as possible thereafter.
+(6) During operations in, or vertical transit through, RVSM airspace with aircraft not approved for RVSM operations, pilots shall report non-approved status as follows -
+(a) at initial call on any channel within RVSM airspace;
+(b) in all requests for level changes; and
+(c) in all read-backs of level clearances.
+(7) Air traffic controllers shall explicitly acknowledge receipt of messages from aircraft reporting RVSM non-approved status.
+(8) When informed by the pilot of an RVSM-approved aircraft operating in RVSM airspace that the aircraft’s equipment no longer meets the RVSM requirements, ATC shall consider the aircraft as non-RVSM-approved.
+(9) ATC shall take action immediately to provide a minimum vertical separation of 600 m (2 000 ft) or an appropriate horizontal separation from all other aircraft concerned that are operating in RVSM airspace. An aircraft rendered non-RVSM-approved shall normally be cleared out of RVSM airspace by ATC when it is possible to do so.
+(10) Pilots shall inform ATC, as soon as practicable, of any restoration of the proper functioning of equipment required to meet the RVSM requirements.
+(11) The first ACC to become aware of a change in an aircraft’s RVSM status shall coordinate with adjacent ACCs, as appropriate.
+(12) When an aircraft operating in RVSM airspace encounters severe turbulence due to weather or wake vortex that the pilot believes will impact the aircraft’s capability to maintain its cleared flight level, the pilot shall inform ATC.
+(13) ATC shall establish either an appropriate horizontal separation or an increased minimum vertical separation.
+(14) ATC shall, to the extent possible, accommodate pilot requests for flight level and/or route changes and shall pass on traffic information, as required.
+(15) ATC shall solicit reports from other aircraft to determine whether RVSM should be suspended entirely or within a specific flight level band and/or area.
+(16) The ACC suspending RVSM shall coordinate with adjacent ACCs such suspension(s) and any required adjustments to sector capacities, as appropriate, to ensure an orderly progression of the transfer of traffic.
+(17) When a meteorological forecast is predicting severe turbulence within RVSM airspace, ATC shall determine whether RVSM should be suspended and, if so, for how long and for which specific flight level(s) and/or area.
+(18) In cases where RVSM will be suspended, the ACC suspending RVSM shall coordinate with adjacent ACCs with regard to the flight levels appropriate for the transfer of traffic, unless a contingency flight level allocation scheme has been determined by letter of agreement.
+(19) The ACC suspending RVSM shall also coordinate applicable sector capacities with adjacent ACCs, as appropriate.
 59 ACAS resolution advisory (RA) (SERA.11014)
 (1) ACAS II shall be used during flight, except as provided in any minimum equipment list specified in respect of that aircraft in a mode that enables RA indications to be produced for the flight crew when undue proximity to another aircraft is detected.
 (2) Paragraph (1) shall not apply if inhibition of RA indication mode (using traffic advisory (TA) indication only or equivalent) is called for by an abnormal procedure or due to performance-limiting conditions.
@@ -937,6 +1002,9 @@ The following aircraft observations shall be made during any phase of the flight
 (g) volcanic ash cloud;
 (h) pre-eruption volcanic activity or a volcanic eruption.
 (2) Competent authorities shall prescribe as necessary other conditions which shall be reported by all aircraft when encountered or observed.
+(3) Flight crews shall compile the reports using forms based on the model AIREP SPECIAL form as set out in Part A of Appendix 5 and those reports shall comply with the detailed instructions for reporting, as provided in paragraph 2 of Appendix 5.
+(4) The detailed instructions, including the formats of messages and the phraseologies provided in Appendix 5, shall be used by flight crews when transmitting air-reports and by ATS units when retransmitting such reports.
+(5) Special air-reports containing observations of volcanic activity shall be recorded on the special air-report of volcanic activity form. Forms based on the model form for special air-reports of volcanic activity set out in Part B of Appendix 5 shall be provided for flight crews operating on routes which could be affected by volcanic ash clouds.
 63 Other non-routine aircraft observations (SERA.12010)
 When other meteorological conditions not listed under Rule 62(1), for example wind shear, are encountered and which, in the opinion of the pilot-in-command, may affect the safety or markedly affect the efficiency of other aircraft operations, the pilot-in-command shall advise the appropriate air traffic services unit as soon as practicable.
 64 Reporting of aircraft observations by voice communication (SERA.12015)
@@ -948,13 +1016,493 @@ When other meteorological conditions not listed under Rule 62(1), for example wi
 (b) the associated meteorological watch office (MWO); and
 (c) other air traffic services units concerned.
 (2) Transmissions to aircraft shall be repeated at a frequency and continued for a period of time which shall be determined by the air traffic services unit concerned.
+PART 13
+SSR Transponder
+66 Operation of an SSR transponder (SERA.13001)
+(1) When an aircraft carries a serviceable SSR transponder, the pilot shall operate the transponder at all times during flight, regardless of whether the aircraft is within or outside airspace where SSR is used for ATS purposes.
+(2) Pilots shall not operate the IDENT feature unless requested by ATS.
+(3) Except for flight in airspace designated by the competent authority for mandatory operation of the transponder, aircraft without sufficient electrical power supply are exempted from the requirement to operate the transponder at all times.
+67 SSR transponder Mode A code setting (SERA.13005)
+(1) To indicate that it is in a specific contingency situation, the pilot of an aircraft equipped with secondary surveillance radar shall -
+(a) select Code 7700 to indicate a state of emergency unless ATC has previously directed the pilot to operate the transponder on a specified code and, in the latter case, a pilot may nevertheless select Code 7700 whenever there is a specific reason to believe that this would be the best course of action;
+(b) select Code 7600 to indicate a state of radio-communication failure; or
+(c) attempt to select Code 7500 to indicate a state of unlawful interference,
+and if circumstances so warrant, Code 7700 should be used instead.
+(2) Except in the cases described in (a) above, the pilot shall -
+(a) select codes as instructed by the ATS unit; or
+(b) in the absence of ATS instructions related to code setting, select code 2000 or another code as prescribed by the competent authority; or
+(c) when not receiving air traffic services, select code 7000 in order to improve the detection of suitably equipped aircraft, unless otherwise prescribed by the competent authority.
+(3) When it is observed that the code shown on the situation display is different from what has been assigned to the aircraft -
+(a) the pilot shall be requested to confirm the code selected and, if the situation warrants, to reselect the correct code; and
+(b) if the discrepancy between assigned and displayed codes still persists, the pilot may be requested to stop the operation of the aircraft’s transponder. The next control position and any other affected unit using SSR or multilateration (MLAT) in the provision of ATS shall be informed accordingly.
+68 Pressure-altitude-derived information (SERA.13010)
+(1) When the aircraft carries serviceable Mode C equipment, the pilot shall continuously operate this mode unless otherwise dictated by ATC.
+(2) Unless otherwise prescribed by the competent authority, verification of the pressure-altitude-derived level information displayed to the controller shall be effected at least once by each suitably equipped ATC unit on initial contact with the aircraft concerned or, if this is not feasible, as soon as possible thereafter.
+69 SSR transponder Mode S aircraft identification setting (SERA.13015)
+(1) Aircraft equipped with Mode S having an aircraft identification feature shall transmit the aircraft identification as specified in Item 7 of the ICAO flight plan or, when no flight plan has been filed, the aircraft registration.
+(2) Whenever it is observed on the situation display that the aircraft identification transmitted by a Mode S-equipped aircraft is different from that expected from the aircraft, the pilot shall be requested to confirm and, if necessary, re-enter the correct aircraft identification.
+(3) If, following confirmation by the pilot that the correct aircraft identification has been set on the Mode S identification feature, the discrepancy continues to exist, the controller shall take the following actions -
+(a) inform the pilot of the persistent discrepancy;
+(b) where possible, correct the label showing the aircraft identification on the situation display; and
+(c) notify the next control position and any other unit concerned using Mode S for identification purposes that the aircraft identification transmitted by the aircraft is erroneous.
+70 SSR transponder failure when the carriage of a functioning transponder is mandatory (SERA.13020)
+(1) In case of a transponder failure after departure, ATC units shall attempt to provide for continuation of the flight to the destination aerodrome in accordance with the flight plan but pilots may be expected to comply with specific restrictions.
+(2) In the case of a transponder which has failed and cannot be restored before departure, pilots shall -
+(a) inform ATS as soon as possible, preferably before submission of a flight plan;
+(b) insert in Item 10 of the ICAO flight plan form under SSR the character “N” for complete unserviceability of the transponder or, in case of partial transponder failure, insert the character corresponding to the remaining transponder capability; and
+(c) comply with any published procedures for requesting an exemption from the requirements to carry a functioning SSR transponder.
+PART 14
+Voice communication procedures
+71 General (SERA.14001)
+Standardised phraseology shall be used in all situations for which it has been specified. Only when standardised phraseology cannot serve an intended transmission, plain language shall be used.
+72 Categories of messages (SERA.14005)
+The categories of messages handled by the aeronautical mobile service, and the order of priority in the establishment of communications and the transmission of messages shall be in accordance with the following table -
+Table S14-1
+Message category and radiotelephony order of priority signal
+Radiotelephony signal
+(a)
+Distress calls, distress messages and distress traffic
+MAYDAY
+(b)
+Urgency messages, including messages preceded by the medical transports signal
+PAN PAN or PAN PAN MEDICAL
+(c)
+Communications relating to direction finding
+-
+(d)
+Flight safety messages
+-
+(e)
+Meteorological messages
+-
+(f)
+Flight regularity messages
+-
+(2) Distress messages and distress traffic shall be handled in accordance with the provisions of Rule 92 (SERA.14095).
+(3) Urgency messages and urgency traffic, including messages preceded by the medical transports signal, shall be handled in accordance with the provisions of Rule 92 (SERA.14095).
+73 Flight safety messages (SERA.14010)
+Flight safety messages shall comprise the following -
+(a) movement and control messages;
+(b) messages originated by an aircraft operator or by an aircraft of immediate concern to an aircraft in flight;
+(c) meteorological advice of immediate concern to an aircraft in flight or about to depart (individually communicated or for broadcast); or
+(d) other messages concerning aircraft in flight or about to depart.
+74 Language to be used in air-ground communication (SERA.14015)
+(1) The air-ground radiotelephony communications shall be conducted in the English language or in the language normally used by the station on the ground.
+(2) The languages available at a given station on the ground shall form part of the Aeronautical Information Publications and other published aeronautical information concerning such facilities.
+75 Word spelling in radiotelephony (SERA.14020)
+When proper names, service abbreviations and words of which the spelling is doubtful are spelled out in radiotelephony, the alphabet in the following table shall be used -
+Table S14-2
+The radiotelephony spelling alphabet
+Letter
+Word
+Approximate pronunciation
+(Latin alphabet representation)
+A
+Alfa
+AL FAH
+B
+Bravo
+BRAH VOH
+C
+Charlie
+CHAR LEE or SHAR LEE
+D
+Delta
+DELL TAH
+E
+Echo
+ECK OH
+F
+Foxtrot
+FOKS TROT
+G
+Golf
+GOLF
+H
+Hotel
+HO TELL
+I
+India
+IN DEE AH
+J
+Juliett
+JEW LEE ETT
+K
+Kilo
+KEY LOH
+L
+Lima
+LEE MAH
+M
+Mike
+MIKE
+N
+November
+NO VEM BER
+O
+Oscar
+OSS CAH
+P
+Papa
+PAH PAH
+Q
+Quebec
+KEH BECK
+R
+Romeo
+ROW ME OH
+S
+Sierra
+SEE AIR RAH
+T
+Tango
+TANG GO
+U
+Uniform
+YOU NEE FORM or OO NEE FORM
+V
+Victor
+VIK TAH
+W
+Whiskey
+WISS KEY
+X
+X-ray
+ECKS RAY
+Y
+Yankee
+YANG KEY
+Z
+Zulu
+ZOO LOO
+In the approximate representation using the Latin alphabet, syllables to be emphasised are underlined.
+76 Principles governing the identification of ATS routes other than standard departure and arrival routes (SERA.14025)
+(1) In voice communications, the basic letter of a designator shall be spoken in accordance with the spelling alphabet as defined in Table S14-2.
+(2) Where the prefixes K, U or S are used, they shall, in voice communications, be spoken as follows -
+(a)
+-
+K
+-
+KOPTER;
+(b)
+-
+U
+-
+UPPER;
+(c)
+-
+S
+-
+SUPERSONIC.
+(3) The word “kopter” shall be pronounced as in the word “helicopter” and the words “upper” and “supersonic” as in the English language.
+77 Significant points (SERA.14026)
+(1) Normally the plain language name for significant points marked by the site of a radio navigation aid, or the unique five-letter pronounceable “name-code” for significant points not marked by the site of a radio navigation aid, shall be used to refer to the significant point in voice communications.
+(2) If the plain language name for the site of a radio navigation aid is not used, it shall be replaced by the coded designator which, in voice communications, shall be spoken in accordance with the spelling alphabet as defined in Table S14-2.
+78 Use of designators for standard instrument departure and arrival routes (SERA.14030)
+The plain language designator for standard instrument departure or arrival routes shall be used in voice communications.
+79 Transmission of numbers in radiotelephony (SERA.14035)
+(1) All numbers used in the transmission of aircraft call sign, headings, runway, wind direction and speed shall be transmitted by pronouncing each digit separately.
+(2) Flight levels shall be transmitted by pronouncing each digit separately, except for the case of flight levels in whole hundreds.
+(3) The altimeter setting shall be transmitted by pronouncing each digit separately, except for the case of a setting of 1 000 hPa, which shall be transmitted as “ONE THOUSAND”.
+(4) All numbers used in the transmission of transponder codes shall be transmitted by pronouncing each digit separately except that, when the transponder codes contain whole thousands only, the information shall be transmitted by pronouncing the digit in the number of thousands followed by the word “THOUSAND”.
+(5) All numbers used in transmission of other information than those described in paragraph (1) shall be transmitted by pronouncing each digit separately, except that all numbers containing whole hundreds and whole thousands shall be transmitted by pronouncing each digit in the number of hundreds or thousands followed by the word “HUNDRED” or “THOUSAND”, as appropriate. Combinations of thousands and whole hundreds shall be transmitted by pronouncing each digit in the number of thousands followed by the word “THOUSAND”, followed by the number of hundreds followed by the word “HUNDRED”.
+(6) In cases where there is a need to clarify the number transmitted as whole thousands and/or whole hundreds, the number shall be transmitted by pronouncing each digit separately.
+(7) When providing information regarding the relative bearing to an object or to conflicting traffic in terms of the 12-hour clock, the information shall be given pronouncing the digits together such as “TEN O’CLOCK” or “ELEVEN O’CLOCK”.
+(8) Numbers containing a decimal point shall be transmitted as prescribed in paragraph (1) with the decimal point in appropriate sequence, indicated by the word “DECIMAL”.
+(9) All six digits of the numerical designator shall be used to identify the transmitting channel in very high frequency (VHF) radiotelephony communications, except in the case of both the fifth and sixth digits being zeros, in which case only the first four digits shall be used.
+80 Pronunciation of numbers (SERA.14040)
+When the language used for communication is English, numbers shall be transmitted using the pronunciation shown in Table S14-3:
+Table S14-3
+Numeral or numeral element
+Pronunciation
+0
+ZE-RO
+1
+WUN
+2
+TOO
+3
+TREE
+4
+FOW-er
+5
+FIFE
+6
+SIX
+7
+SEV-en
+8
+AIT
+9
+NIN-er
+10
+TEN
+11
+EE-LE-VEN
+12
+TWELF
+Decimal
+DAY-SEE-MAL
+Hundred
+HUN-dred
+Thousand
+TOU-SAND
+81 Transmitting technique (SERA.14045)
+(1) Transmissions shall be conducted concisely in a normal conversational tone.
+(2) The following words and phrases shall be used in radiotelephony communications as appropriate and shall have the meaning ascribed in the following table -
+Table S14-4
+Phrase
+Meaning
+ACKNOWLEDGE
+“Let me know that you have received and understood this message.”
+AFFIRM
+“Yes.”
+APPROVED
+“Permission for proposed action granted.”
+BREAK
+“I hereby indicate the separation between portions of the message.”
+BREAK BREAK
+“I hereby indicate the separation between messages transmitted to different aircraft in a very busy environment.”
+CANCEL
+“Annul the previously transmitted clearance.”
+CHECK
+“Examine a system or procedure.”
+CLEARED
+“Authorised to proceed under the conditions specified.”
+CONFIRM
+“I request verification of: (clearance, instruction, action, information).”
+CONTACT
+“Establish communications with….. .”
+CORRECT
+“True” or “Accurate”.
+CORRECTION
+“An error has been made in this transmission (or message indicated). The correct version is…”
+DISREGARD
+“Ignore.”
+HOW DO YOU READ
+“What is the readability of my transmission?” (see Rule 86 (SERA.14070(c))).
+I SAY AGAIN
+“I repeat for clarity or emphasis.”
+MAINTAIN
+“Continue in accordance with the condition(s) specified” or in its literal sense.
+MONITOR
+“Listen out on (frequency).”
+NEGATIVE
+“No” or “Permission not granted” or “That is not correct” or “Not capable”.
+OVER
+“My transmission is ended, and I expect a response from you.”
+OUT
+“This exchange of transmissions is ended and no response is expected.”
+READ BACK
+“Repeat all, or the specified part, of this message back to me exactly as received.”
+RECLEARED
+“A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof.”
+REPORT
+“Pass me the following information…”
+REQUEST
+“I should like to know…” or “I wish to obtain…”
+ROGER
+“I have received all of your last transmission.”
+SAY AGAIN
+“Repeat all, or the following part, of your last transmission.”
+SPEAK SLOWER
+“Reduce your rate of speech.”
+STANDBY
+“Wait and I will call you.”
+UNABLE
+“I cannot comply with your request, instruction, or clearance.”
+WILCO
+(Abbreviation for “will comply”)
+“I understand your message and will comply with it.”
+WORDS TWICE
+(a) As a request: “Communication is difficult. Please send every word, or group of words, twice.”
+(b) As information: “Since communication is difficult, every word, or group of words, in this message will be sent twice.”
+82 Radiotelephony call signs for aircraft (SERA.14050)
+(1) An aircraft radiotelephony call sign shall be one of the following types -
+(a) Type (a) - the characters corresponding to the registration marking of the aircraft;
+(b) Type (b) - the telephony designator of the aircraft operator, followed by the last four characters of the registration marking of the aircraft;
+(c) Type (c) - the telephony designator of the aircraft operator, followed by the flight identification; or
+(d) The aircraft radiotelephony call signs shown in this paragraph, with the exception of Type (c), may be abbreviated under the circumstances set out in Rule 83 (SERA.14055(c)).
+(2) Abbreviated call signs shall be in the following form -
+(a) Type (a) - the first character of the registration and at least the last two characters of the call sign;
+(b) Type (b) - the telephony designator of the aircraft operator, followed by at least the last two characters of the call sign; or
+(c) Type (c) - no abbreviated form.
+83 Radiotelephony procedures (SERA.14055)
+(1) An aircraft shall not change the type of its radiotelephony call sign during flight, except temporarily on the instruction of an ATC unit in the interests of safety.
+(2) Except for reasons of safety, no transmission shall be directed to an aircraft during take-off, during the last part of the final approach or during the landing roll.
+(3) Full radiotelephony call signs shall always be used when establishing communication.
+(4) When establishing communication, aircraft shall start their call by the designation of the station called, followed by the designation of the station calling.
+(5) The reply to the above calls shall use the call sign of the station calling, followed by the call sign of the station answering, which shall be considered an invitation to proceed with transmission by the station calling.
+(6) For transfers of communication within one ATS unit, the call sign of the ATS unit may be omitted, when so authorised by the competent authority.
+(7) Communications shall commence with a call and a reply when it is desired to establish contact, except that, when it is certain that the station called will receive the call, the calling station may transmit the message, without waiting for a reply from the station called.
+(8) Abbreviated radiotelephony call signs, as prescribed in Rule 82 (SERA.14050(b)), shall be used only after satisfactory communication has been established and provided that no confusion is likely to arise.
+(9) An aircraft shall use its abbreviated call sign only after it has been addressed in this manner by the aeronautical station.
+(10) When issuing ATC clearances and reading back such clearances, controllers and pilots shall always add the call sign of the aircraft to which the clearance applies.
+(11) For other than those occasions, continuous two-way communication after contact has been established shall be permitted without further identification or call until termination of the contact.
+84 Transfer of VHF communications (SERA.14060)
+(1) An aircraft shall be advised by the appropriate ATS unit to transfer from one radio frequency to another in accordance with agreed procedures. In the absence of such advice, the aircraft shall notify the ATS unit before such a transfer takes place.
+(2) When establishing initial contact on, or when leaving, a VHF frequency, an aircraft shall transmit such information as may be prescribed by the ANSP responsible for the provision of services and approved by the competent authority.
+85 Radiotelephony procedures for air-ground voice communication channel changeover (SERA.14065)
+(1) Unless otherwise prescribed by the ANSP responsible for the provision of services and approved by the competent authority, the initial call to an ATS unit after a change of air-ground voice communication channel shall contain the following elements -
+(a) the designation of the ATS unit being called;
+(b) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy” or “Super” if that aircraft has been so identified by the competent authority;
+(c) level, including passing and cleared levels, if not maintaining the cleared level;
+(d) speed, if assigned by ATC; and
+(e) additional elements, as required by the ANSP responsible for the provision of services and approved by the competent authority.
+(2) Pilots shall provide level information at the nearest full 30 m or 100 ft as indicated on the pilot’s altimeter.
+(3) For aircraft being provided with aerodrome control service, the initial call to the aerodrome control tower shall contain -
+(a) the designation of the ATS unit being called;
+(b) the call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy” or “Super” if that aircraft has been so identified by the competent authority;
+(c) the position; and
+(d) additional elements, as required by the ANSP responsible for the provision of services and approved by the competent authority.
+86 Test procedures (SERA.14070)
+(1) The form of test transmissions shall be as follows -
+(a) the identification of the station being called;
+(b) the identification of the station calling;
+(c) the words “RADIO CHECK”; and
+(d) the frequency being used.
+(2) The reply to a test transmission shall be as follows -
+(a) the identification of the station requesting the test;
+(b) the identification of the station replying; and
+(c) information regarding the readability of the station requesting the test transmission.
+(3) When the tests are made, the following readability scale in the following table shall be used -
+Readability Scale
+(1)
+1
+Unreadable
+(2)
+2
+Readable now and then
+(3)
+3
+Readable but with difficulty
+(4)
+4
+Readable
+(5)
+5
+Perfectly readable
+87 Exchange of communications (SERA.14075)
+(1) Communications shall be concise and unambiguous, using standard phraseology whenever available.
+(2) When transmitted by an aircraft, the acknowledgement of receipt of a message shall comprise the call sign of that aircraft.
+(3) When acknowledgement of receipt is transmitted by an ATS unit to an aircraft, it shall comprise the call sign of the aircraft, followed if considered necessary, by the call sign of the ATS unit.
+(4) A radiotelephone conversation shall be terminated by the receiving ATS unit or the aircraft using its own call sign.
+(5) When an error has been made in transmission, the word “CORRECTION” shall be spoken, the last correct group or phrase repeated, and then the correct version transmitted.
+(6) If a correction can best be made by repeating the entire message, the phrase “CORRECTION, I SAY AGAIN” shall be used before the message is transmitted a second time.
+(7) If the receiving station is in doubt as to the correctness of the message received, a repetition either in full or in part shall be requested.
+(8) If repetition of an entire message is required, the words “SAY AGAIN” shall be spoken. If repetition of a portion of a message is required, the phrase: “SAY AGAIN ALL BEFORE… (first word satisfactorily received)” shall be used; or “SAY AGAIN… (word before missing portion) TO…(word after missing portion)”; or “SAY AGAIN ALL AFTER… (last word satisfactorily received)”.
+(9) If, in checking the correctness of a read-back, incorrect items are noticed, the words “NEGATIVE I SAY AGAIN” shall be transmitted at the conclusion of the read-back followed by the correct version of the items concerned.
+88 Communications watch/Hours of service (SERA.14080)
+(1) During flight, aircraft shall maintain watch as required by the competent authority and shall not cease watch, except for reasons of safety, without informing the ATS unit concerned.
+(2) Aircraft on long over-water flights or on flights over designated areas over which the carriage of an emergency locator transmitter (ELT) is required, shall continuously guard the VHF emergency frequency 121,5 MHz, except for those periods when aircraft carry out communications on other VHF channels or when airborne equipment limitations or cockpit duties do not permit simultaneous guarding of two channels.
+(3) Aircraft shall continuously guard the VHF emergency frequency 121,5 MHz in areas or over routes where the possibility of interception of aircraft or other hazardous situations exists, and a requirement has been established by the competent authority.
+(4) Aeronautical stations shall maintain a continuous listening watch on VHF emergency channel 121,5 MHz during the hours of service of the units at which it is installed and where two or more such stations are co-located, provision of 121,5 MHz listening watch at one of them shall meet that requirement.
+(5) When it is necessary for an aircraft or ATS unit to suspend operation for any reason, it shall, if possible, so inform other stations concerned, giving the time at which it is expected that operation will be resumed, and when -
+(a) operation is resumed, other stations concerned shall be so informed; and
+(b) it is necessary to suspend operation beyond the time specified in the original notice, a revised time of resumption of operation shall, if possible, be transmitted at or near the time first specified.
+89 Use of blind transmission (SERA.14085)
+(1) When an aircraft fails to establish contact on the designated channel, on the previous channel used or on another channel appropriate to the route, and fails to establish communication with the appropriate ATS unit, other ATS unit or other aircraft using all available means, the aircraft shall transmit its message twice on the designated channel(s), preceded by the phrase “TRANSMITTING BLIND” and, if necessary, include the addressee(s) for which the message is intended.
+(2) When an aircraft is unable to establish communication due to receiver failure, it shall transmit reports at the scheduled times, or positions, on the channel in use preceded by the phrase “TRANSMITTING BLIND DUE TO RECEIVER FAILURE” and the aircraft shall -
+(a) transmit the intended message, following this by a complete repetition;
+(b) advise the time of its next intended transmission; and
+(c) when provided with ATS, transmit information regarding the intention of the pilot-in-command with respect to the continuation of the flight.
+90 Use of relay communication technique (SERA.14087)
+(1) When an ATS unit has been unable to establish contact with an aircraft after calls on the frequencies on which the aircraft is believed to be listening, it shall -
+(a) request other ATS units to render assistance by calling the aircraft and relaying traffic, if necessary; and
+(b) request aircraft on the route to attempt to establish communication with the aircraft and relay traffic, if necessary.
+(2) Paragraph (1) shall also be applied -
+(a) at request of the ATS unit concerned;
+(b) when an expected communication from an aircraft has not been received within a time period such that the occurrence of a communication failure is suspected.
+91 Specific communication procedures (SERA.14090)
+(1) Phraseologies for the movement of vehicles, other than tow-tractors, on the manoeuvring area shall be the same as those used for the movement of aircraft, with the exception of taxi instructions, in which case the word “PROCEED” shall be substituted for the word “TAXI” when communicating with vehicles.
+(2) Air traffic advisory service does not deliver “clearances” but only “advisory information” and it shall use the word “advise” or “suggest” when a course of action is proposed to an aircraft.
+(3) For aircraft in the heavy wake turbulence category, the word “Heavy” shall be included immediately after the aircraft call sign in the initial radiotelephony contact between such aircraft and ATS units.
+(4) For specific aircraft in the heavy wake turbulence category, as identified by the competent authority, the word “Super” shall be included immediately after the aircraft call sign in the initial radiotelephony contact between such aircraft and ATS units.
+(5) When the pilot initiates communications with ATC, a rapid response may be obtained by stating “WEATHER DEVIATION REQUIRED” to indicate that priority is desired on the frequency and for ATC response. When necessary, the pilot shall initiate communications using the urgency call “PAN PAN” (preferably spoken three times).
+92 Distress and urgency radiotelephony communication procedures (SERA.14095)
+General
+(1) Distress and urgency traffic shall comprise all radiotelephony messages relative to the distress and urgency conditions respectively.
+(2) Distress and urgency conditions are defined as follows -
+(a) Distress - a condition of being threatened by serious or imminent danger or both and of requiring immediate assistance; and
+(b) Urgency - a condition concerning the safety of an aircraft or other vehicle, or of some person on board or within sight, but which does not require immediate assistance.
+(3) The radiotelephony distress signal “MAYDAY” and the radiotelephony urgency signal “PAN PAN” shall be used at the commencement of the first distress and urgency communication respectively. At the commencement of any subsequent communication in distress and urgency traffic, it shall be permissible to use the radiotelephony distress and urgency signals.
+(4) The originator of messages addressed to an aircraft in distress or urgency condition shall restrict to the minimum the number and volume and content of such messages as required by the condition.
+(5) If no acknowledgement of the distress or urgency message is made by the ATS unit addressed by the aircraft, other ATS units shall render assistance as prescribed in points (b)(2) and (b)(3) respectively.
+(6) Distress and urgency traffic shall normally be maintained on the frequency on which such traffic was initiated until it is considered that better assistance can be provided by transferring that traffic to another frequency.
+(7) In cases of distress and urgency communications, in general, the transmissions by radiotelephony shall be made slowly and distinctly, each word being clearly pronounced to facilitate transcription.
+Radiotelephony distress communications
+Action by the aircraft in distress
+(8) In addition to being preceded by the radiotelephony distress signal “MAYDAY” in accordance with paragraph (3), preferably spoken three times, the distress message to be sent by an aircraft in distress shall -
+(a) be on the air-ground frequency in use at the time; and
+(b) consist of as many as possible of the following elements spoken distinctly and, if possible, in the following order -
+(i) the name of the ATS unit addressed (time and circumstances permitting),
+(ii) the identification of the aircraft,
+(iii) the nature of the distress condition,
+(iv) the intention of the pilot-in-command, and
+(v) present position, level and heading.
+(9) The ATS unit addressed by an aircraft in distress, or the first ATS unit acknowledging the distress message, shall -
+(a) immediately acknowledge the distress message;
+(b) take control of the communications or specifically and clearly transfer that responsibility, advising the aircraft if a transfer is made; and
+(c) make immediate action to ensure that all necessary information is made available, as soon as possible, to -
+(i) the ATS unit concerned, and
+(ii) the aircraft operator concerned, or its representative, in accordance with pre-established arrangements;
+(d) warn other ATS units, as appropriate, in order to prevent the transfer of traffic to the frequency of the distress communication.
+(10) The aircraft in distress, or the ATS unit in control of distress traffic, shall be permitted to impose silence, either on all stations of the mobile service in the area or on any station which interferes with the distress traffic, and -
+(a) it shall address these instructions ‘to all stations’ or to one station only, according to the circumstances; and
+(b) in either case, it shall use -
+(i) “STOP TRANSMITTING”, and
+(ii) the radiotelephony distress signal “MAYDAY”.
+(11) The use of the signals specified in paragraph (10) shall be reserved for the aircraft in distress and for the ATS unit controlling the distress traffic.
+(12) The distress communications have absolute priority over all other communications and ATS units and aircraft aware of them shall not transmit on the frequency concerned unless -
+(a) the distress is cancelled or the distress traffic is terminated;
+(b) all distress traffic has been transferred to other frequencies;
+(c) the ATS unit controlling communications gives permission; or
+(d) it has itself to render assistance.
+(13) Any ATS unit/aircraft which has knowledge of distress traffic, and which cannot itself assist the aircraft in distress, shall nevertheless continue listening to such traffic until it is evident that assistance is being provided.
+(14) When an aircraft is no longer in distress, it shall transmit a message cancelling the distress condition.
+(15) When the ATS unit which has controlled the distress communication traffic becomes aware that the distress condition is ended, it shall take immediate action to ensure that this information is made available, as soon as possible, to -
+(a) the ATS units concerned; and
+(b) the aircraft operator concerned, or its representative, in accordance with pre-established arrangements.
+(16) The distress communication and silence conditions shall be terminated by transmitting a message, including the words “DISTRESS TRAFFIC ENDED”, on the frequency or frequencies being used for the distress traffic and this message shall be originated only by the ATS unit controlling the communications when, after the reception of the message prescribed in paragraph (14), it is authorised to do so by the competent authority.
+Radiotelephony urgency communications
+Action by the aircraft reporting an urgency condition except as indicated in paragraphs (21) and (22).
+(17) In addition to being preceded by the radiotelephony urgency signal “PAN PAN” in accordance with paragraph (3), preferably spoken three times and each word of the group pronounced as the French word “panne”, the urgency message to be sent by an aircraft reporting an urgency condition shall -
+(a) be on the air-ground frequency in use at the time; and
+(b) consist of as many as required of the following elements spoken distinctly and, if possible, in the following order -
+(i) the name of the ATS unit addressed,
+(ii) the identification of the aircraft,
+(iii) the nature of the urgency condition,
+(iv) the intention of the pilot-in-command,
+(v) present position, level and heading, and
+(vi) any other useful information.
+Action by the ATS unit addressed or first ATS unit acknowledging the urgency message.
+(18) The ATS unit addressed by an aircraft reporting an urgency condition or the first ATS unit acknowledging the urgency message shall -
+(a) acknowledge the urgency message;
+(b) take immediate action to ensure that all necessary information is made available, as soon as possible, to -
+(i) the ATS unit concerned, and
+(ii) the aircraft operator concerned, or its representative, in accordance with pre-established arrangements;
+(c) if necessary, exercise control of communications.
+Action by all other ATS units/aircraft
+(19) The urgency communications have priority over all other communications except distress communications and all ATS units/aircraft shall take care not to interfere with the transmission of urgency traffic. pursuant to the 1949 Geneva Conventions and Additional Protocols.
+Action by an aircraft used for medical transports
+(20) The use of the signal described in paragraph (21) shall indicate that the message which follows concerns a protected medical transport pursuant to the 1949 Geneva Conventions and Additional Protocols.
+(21) For the purpose of announcing and identifying aircraft used for medical transports, a transmission of the radiotelephony urgency signal “PAN PAN”, preferably spoken three times, and each word of the group pronounced as the French word “panne”, shall be followed by the radiotelephony signal for medical transports “MAY-DEE-CAL”, pronounced as in the French “medical” and the use of such signals indicates that the message which follows concerns a protected medical transport.
+(22) The message shall convey the following data -
+(a) the call sign or other recognised means of identification of the medical transports;
+(b) position of the medical transports;
+(c) number and type of the medical transports;
+(d) intended route;
+(e) estimated time en-route and of departure and arrival, as appropriate; and
+(f) any other information such as flight altitude, radio frequencies guarded, languages used and secondary surveillance radar modes and codes.
+Action by the ATS units addressed, or by other stations receiving a medical transports message.
+(23) Paragraphs (18) and (19) shall apply as appropriate to ATS units receiving a medical transports message.
 APPENDIX 1
 (Rule 26 (SERA.3301))
 Signals
 1. DISTRESS AND URGENCY SIGNALS
 1.1. General
 1.1.1. Notwithstanding the provisions in 1.2 and 1.3, an aircraft in distress shall use any means at its disposal to attract attention, make known its position and obtain help.
-1.1.2. The telecommunication transmission procedures for the distress and urgency signals shall be in accordance with Volume II of Annex 10 to the Chicago Convention.
+1.1.2. The telecommunication transmission procedures for the distress and urgency signals shall be in accordance with Part 14.
 1.2. Distress signals
 1.3.1 The following signals, used either together or separately, mean that grave and imminent danger threatens, and immediate assistance is requested:
 (a) a signal made by radiotelegraphy or by any other signalling method consisting of the group SOS (...- - -... in the Morse Code);
@@ -993,8 +1541,6 @@ Cleared to taxi
 Series of red flashes
 Aerodrome unsafe, do not land
 Taxi clear of landing area in use
-Series of white flashes
-Land at this aerodrome and proceed to apron (*)
 Return to starting point on the aerodrome
 Red pyrotechnic
 Notwithstanding any previous instructions, do not land for the time being
@@ -1526,7 +2072,7 @@ Yes
 VFR
 VFR from IFR
 (1) Air traffic control service for separation from IFR.
-(2) Air traffic control service, VFR/VFR traffic information (and traffic
+(2) Air traffic control service, VFR/VFR traffic information (and traffic avoidance advice on request)
 250 kts IAS below 3 050 m
 (10 000 ft) AMSL
 Yes
@@ -1543,7 +2089,7 @@ Yes
 Yes
 VFR
 Nil
-Air traffic control service, IFR/VFR and VFR/VFR traffic information (and traffic avoidance advice on
+Air traffic control service, IFR/VFR and VFR/VFR traffic information (and traffic avoidance advice on request)
 250 kts IAS below 3 050 m
 (10 000 ft) AMSL
 Yes
@@ -1604,24 +2150,88 @@ No
 (**) Pilots shall maintain continuous air-ground voice communication watch and establish two-way communication, as necessary, on the appropriate communication channel in RMZ.
 (***) Air-ground voice communications mandatory for flights participating in the advisory service. Pilots shall maintain continuous air-ground voice communication watch and establish two-way communication, as necessary, on the appropriate communication channel in RMZ.
 APPENDIX 5
-(Rule 64 (SERA.12015))
+(Rule 39 (SERA.12015))
 Requirements regarding services in air navigation
 TECHNICAL SPECIFICATIONS RELATED TO AIRCRAFT OBSERVATIONS AND REPORTS BY VOICE COMMUNICATIONS
+PART A
+REPORTING INSTRUCTIONS
 1. CONTENTS OF AIR-REPORTS
-1.1 Special air-reports
-1.1.1 The elements contained in special air-reports shall be:
-Message type designator
-Section 1 (Position information)
-Aircraft identification
-Position or latitude and longitude
-Time
-Level or range of levels
-Section 3 (Meteorological information)
-Condition prompting the issuance of a special air-report, to be selected from the list of observations in Rule 62(1) (SERA.12005(a)).
-2. SPECIFIC PROVISIONS RELATED TO REPORTING WIND SHEAR AND VOLCANIC ASH
-2.1. Reporting of wind shear
-2.1.1. When reporting aircraft observations of wind shear encountered during the climb-out and approach phases of flight, the aircraft type shall be included.
-2.1.2. Where wind shear conditions in the climb-out or approach phases of flight were reported or forecast but not encountered, the pilot-in-command shall advise the appropriate air traffic services unit as soon as practicable unless the pilot-in-command is aware that the appropriate air traffic services unit has already been so advised by a preceding aircraft.
-2.2. Post-flight reporting of volcanic activity
-2.2.1. On arrival of a flight at an aerodrome, the completed report of volcanic activity shall be delivered by the aircraft operator or a flight crew member, without delay, to the aerodrome meteorological office, or if such office is not easily accessible to arriving flight crew members, the completed form shall be dealt with in accordance with local arrangements made by the meteorological authority and the aircraft operator.
-2.2.2. The completed report of volcanic activity received by a meteorological office shall be transmitted without delay to the meteorological watch office responsible for the provision of meteorological watch for the flight information region in which the volcanic activity was observed.
+1.1. Position reports and special air-reports
+1.1.1. Section 1 of the model set out in this Part is obligatory for position reports and special air-reports, although Items 5 and 6 thereof may be omitted. Section 2 shall be added, in whole or in part, only when so requested by the operator or its designated representative, or when deemed necessary by the pilot-in-command. Section 3 shall be included in special air-reports.
+1.1.2. Conditions prompting the issuance of a special air-report are to be selected from the list presented in Rule 62(1) (SERA.12005(a)).
+1.1.3. In the case of special air-reports containing information on volcanic activity, a post-flight report shall be made using the volcanic activity reporting form (Model VAR) set out in Part B. All elements which are observed shall be recorded and indicated respectively in the appropriate places on the form Model VAR.
+1.1.4. Special air-reports shall be issued as soon as practicable after a phenomenon calling for a special air-report has been observed.
+2. DETAILED REPORTING INSTRUCTIONS
+2.1 Items of an air-report shall be reported in the order in which they are listed in the model AIREP SPECIAL form.
+- MESSAGE TYPE DESIGNATOR. Report “SPECIAL” for a special air-report.
+Section 1
+Item 1 - AIRCRAFT IDENTIFICATION. Report the aircraft radiotelephony call sign as prescribed in Rule 82 (SERA.14050).
+Item 2 - POSITION. Report position in latitude (degrees as 2 numerics or degrees and minutes as 4 numerics, followed by “North” or “South”) and longitude (degrees as 3 numerics or degrees and minutes as 5 numerics followed by “East” or “West”), or as a significant point identified by a coded designator (2 to 5 characters), or as a significant point followed by magnetic bearing (3 numerics) and distance in nautical miles from the point. Precede significant point with “ABEAM”, if applicable.
+Item 3 - TIME. Report time in hours and minutes UTC (4 numerics) unless reporting time in minutes past the hour (2 numerics) is prescribed on the basis of regional air navigation agreements. The time reported must be the actual time of the aircraft at the position and not the time of origination or transmission of the report. Time shall always be reported in hours and minutes UTC when issuing a special air-report.
+Item 4 - FLIGHT LEVEL OR ALTITUDE. Report flight level by 3 numerics when on standard pressure altimeter setting. Report altitude in metres followed by “METRES” or in feet followed by “FEET” when on QNH. Report “CLIMBING” (followed by the level) when climbing or “DESCENDING” (followed by the level) when descending to a new level after passing the significant point.
+Item 5 - NEXT POSITION AND ESTIMATED TIME OVER. Report the next reporting point and the estimated time over such reporting point, or report the estimated position that will be reached one hour later, according to the position reporting procedures in force. Use the data conventions specified in Item 2 for position. Report the estimated time over this position. Report time in hours and minutes UTC (4 numerics) unless reporting time in minutes past the hour (2 numerics) as prescribed by regional air navigation agreements.
+Item 6 - ENSUING SIGNIFICANT POINT. Report the ensuing significant point following the ‘next position and estimated time over’.
+Section 2
+Item 7 - ESTIMATED TIME OF ARRIVAL. Report the name of the aerodrome of the first intended landing, followed by the estimated time of arrival at this aerodrome in hours and minutes UTC (4 numerics).
+Item 8 - ENDURANCE. Report “ENDURANCE” followed by fuel endurance in hours and minutes (4 numerics).
+Section 3
+Item 9 - PHENOMENON PROMPTING A SPECIAL AIR-REPORT. Report one of the following phenomena encountered or observed:
+- moderate turbulence as “TURBULENCE MODERATE”, and
+- severe turbulence as “TURBULENCE SEVERE”.
+The following specifications apply:
+- Moderate - Conditions in which moderate changes in aircraft attitude and/or altitude may occur but the aircraft remains in positive control at all times. Usually, small variations in airspeed. Changes in accelerometer readings of 0,5 g to 1,0 g at the aircraft's centre of gravity. Difficulty in walking. Occupants feel strain against seat belts. Loose objects move about.
+- Severe - Conditions in which abrupt changes in aircraft attitude and/or altitude occur; aircraft may be out of control for short periods. Usually, large variations in airspeed. Changes in accelerometer readings greater than 1,0 g at the aircraft’s centre of gravity. Occupants are forced violently against seat belts. Loose objects are tossed about.
+- moderate icing as “ICING MODERATE”, severe icing as “ICING SEVERE”, -
+The following specifications apply:
+- Moderate - Conditions in which change of heading and/or altitude may be considered desirable.
+- Severe - Conditions in which immediate change of heading and/or altitude is considered essential.
+- Severe mountain wave as “MOUNTAIN WAVE SEVERE”,
+The following specification applies,
+- Severe - Conditions in which the accompanying downdraft is 3,0 m/s (600 ft/min) or more and/or severe turbulence is encountered.
+- Thunderstorm without hail as “THUNDERSTORM”, thunderstorm with hail as “THUNDERSTORM WITH HAIL”;
+The following specification applies.
+Only report those thunderstorms which are:
+- obscured in haze, or
+- embedded in cloud, or
+- widespread, or
+- forming a squall line.
+- Heavy duststorm or sandstorm as “DUSTSTORM HEAVY” or “SANDSTORM HEAVY”,
+- Volcanic ash cloud as “VOLCANIC ASH CLOUD”,
+- Pre-eruption volcanic activity or a volcanic eruption as “PRE-ERUPTION VOLCANIC ACTIVITY” or “VOLCANIC ERUPTION”,
+The following specification applies:
+“Pre-eruption volcanic activity” in this context means unusual and/or increasing volcanic activity which could presage a volcanic eruption.
+2.2. Information recorded on the volcanic activity reporting form (Model VAR) is not for transmission by RTF but, on arrival at an aerodrome, is to be delivered without delay by the operator or a flight crew member to the aerodrome meteorological office. If such an office is not easily accessible, the completed form shall be delivered in accordance with local arrangements agreed upon between MET and ATS providers and the aircraft operator.
+3. FORWARDING OF METEOROLOGICAL INFORMATION RECEIVED BY VOICE COMMUNICATIONS
+When receiving special air-reports, ATS units shall forward these air-reports without delay to the associated meteorological watch office (MWO). In order to ensure assimilation of air-reports in ground-based automated systems, the elements of such reports shall be transmitted using the data conventions specified below and in the order prescribed.
+- ADDRESSEE. Record the station called and, when necessary, relay required.
+- MESSAGE TYPE DESIGNATOR. Record “ARS” for a special air-report.
+- AIRCRAFT IDENTIFICATION. Record the aircraft identification using the data convention specified for Item 7 of the flight plan, without a space between the operator’s designator and the aircraft registration or flight identification, if used.
+Section 1
+Item 0 - POSITION. Record position in latitude (degrees as 2 numerics or degrees and minutes as 4 numerics, followed, without a space, by N or S) and longitude (degrees as 3 numerics or degrees and minutes as 5 numerics, followed without a space by E or W), or as a significant point identified by a coded designator (2 to 5 characters), or as a significant point followed by magnetic bearing (3 numerics) and distance in nautical miles (3 numerics) from the point. Precede significant point with “ABEAM”, if applicable.
+Item 1 - TIME. Record time in hours and minutes UTC (4 numerics).
+Item 2 - FLIGHT LEVEL OR ALTITUDE. Record ‘F’ followed by 3 numerics (e.g. “F310”) when a flight level is reported. Record altitude in metres followed by “M” or in feet followed by “FT” when an altitude is reported. Record “ASC” (level) when climbing or “DES” (level) when descending.
+Section 2
+Item 9 - PHENOMENON PROMPTING A SPECIAL AIR-REPORT. Record the phenomenon reported as follows:
+- moderate turbulence as “TURB MOD”,
+- severe turbulence as “TURB SEV”,
+- moderate icing as “ICE MOD”,
+- severe icing as “ICE SEV”,
+- severe mountain wave as “MTW SEV”,
+- thunderstorm without hail as “TS”,
+- thunderstorm with hail as “TSGR”,
+- heavy duststorm or sandstorm as “HVY SS”,
+- volcanic ash cloud as “VA CLD”,
+- pre-eruption volcanic activity or a volcanic eruption as “VA”,
+- hail as “GR”,
+- cumulonimbus clouds as “CB”.
+TIME TRANSMITTED. Record only when Section 3 is transmitted.
+4. SPECIFIC PROVISIONS RELATED TO REPORTING WIND SHEAR AND VOLCANIC ASH
+4.1. Reporting of wind shear
+4.1.1. When reporting aircraft observations of wind shear encountered during the climb-out and approach phases of flight, the aircraft type shall be included.
+4.1.2. Where wind shear conditions in the climb-out or approach phases of flight were reported or forecast but not encountered, the pilot-in-command shall advise the appropriate ATS unit as soon as practicable unless the pilot-in-command is aware that the appropriate ATS unit has already been so advised by a preceding aircraft.
+4.2. Post-flight reporting of volcanic activity
+4.2.1. On arrival of a flight at an aerodrome, the completed report of volcanic activity shall be delivered by the aircraft operator or a flight crew member, without delay, to the aerodrome meteorological office, or if such office is not easily accessible to arriving flight crew members, the completed form shall be dealt with in accordance with local arrangements agreed upon between MET and ATS providers and the aircraft operator.
+4.2.2. The completed report of volcanic activity received by an aerodrome meteorological office shall be transmitted without delay to the meteorological watch office responsible for the provision of meteorological watch for the flight information region in which the volcanic activity was observed.
+PART B
+SPECIAL AIR-REPORT OF VOLCANIC ACTIVITY FORM (MODEL VAR)
+”
