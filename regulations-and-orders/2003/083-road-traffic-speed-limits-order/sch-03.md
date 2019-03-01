@@ -25,13 +25,12 @@ La Rue au Seigneur
 La Verte Rue
 Rue Crèvecoeur
 GROUVILLE
-Le Côtil Vautier (between Les Monts and La Passage Danby)
-La Passage Danby
-Le Passage de l’Hôpital
-La Rue du Douettin
-La Rue du Puits
+La Rue des Moulins
 La Rue des Teurs Champs
-The unnamed road between Queen’s Valley reservoir and Les Monts
+La Rue du Douettin
+La Rue du Puits (from La Rigondaine east to its closed end)
+Le Passage Danby
+Le Passage de l’Hôpital
 ST. HELIER
 Beechfield Lane
 Clarke Avenue

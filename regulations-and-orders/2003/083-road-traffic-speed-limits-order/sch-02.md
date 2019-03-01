@@ -49,25 +49,70 @@ The estate roads at Princess Place
 Samarès Avenue
 The estate roads at Le Squez
 GROUVILLE
-Le Chemin au Grèves
-La Rue à Don (from a point 186 yards north of its junction with La Rue de la Ville és Renauds to a point 70 yards south-west of that junction)
-La Rue de la Ville és Renauds (from its junction with La Rue à Don to a point 137 yards south of that junction)
+Beach Road
+Fernlea Close
+Gorey Village Main Road (from Le Mont de Gouray to La Rue Horman)
+La Chevre Rue (between Gorey Village Main Road and Le Chemin des Maltieres)
+La Rue à Don (between La Croix Crescent and Links Court)
+La Rue de la Gare
+La Rue de la Haye du Puits
+La Rue de la Ville-ès-Renauds (from La Rue à Don to the unnamed road between la Rue à Don and Le Clos Royale)
+La Rue des Pres
+La Rue Hilgrove
+La Rue Horman
+La Rue Maraval
+Le Chemin au Greves
+Le Chemin des Maltieres (between La Rue Horman and La Chevre Rue)
+Le Mont de Gouray
+New Road
+Old Road
+Rue de la Croix
+Union Road
 ST. HELIER
-Albert Street
-Brighton Road
-Clairvale Road
-Clearview Street
-Columbus Street
-Dorset Street
-Garden Lane
-Les Grands Vaux
-The estate roads at Le Jardin des Carreaux
-Old St. John’s Road
-La Rue de Mon Sejour
-La Rue de Trachy (from Mont Cochon to La Route de St. Aubin)
 La Rue des Canons
+La Rue de Mon Sejour
+La Rue de Trachy (from La Route du Mont Cochon to La Route de St. Aubin)
+Les Grands Vaux
+Old St. John’s Road
 West Hill
-Windsor Road
+Cleveland Avenue
+Cleveland Road
+Croydon Lane
+Croydon Road
+D’Auvergne Lane
+Green Street (from Havre des Pas to The Tunnel)
+Hastings Lane
+Hastings Road
+Havre des Pas
+Havre des Pas Gardens
+Marett Road
+Mount Bingham (from Green Street to the eastern junction with South Hill)
+Nelson Avenue
+Rodney Avenue
+Roseville Street
+Any road within the area bounded by -
+St. Marks Road, from the boundary of the parish of St. Saviour to Janvrin Road,
+Janvrin Road, from St. Marks Road to Springfield Road,
+Springfield Road, from Janvrin Road to La Petite Rue du Val Plaisant,
+La Petite Rue du Val Plaisant,
+Val Plaisant, from La Petite Rue du Val Plaisant to Rouge Bouillon,
+Rouge Bouillon, from Val Plaisant to Elizabeth Place,
+Elizabeth Place,
+Cheapside,
+St. Aubin’s Road,
+La Route de St. Aubin from St. Aubin’s Road to Esplanade,
+Esplanade, from St. Aubin’s Road to the western junction with La Route de la Liberation,
+La Route de la Liberation,
+The Tunnel,
+Green Street, from the Tunnel to Grenville Street,
+Grenville Street,
+La Colomberie, from Grenville Street to Don Road,
+Don Road, from La Colomberie to St. James Street,
+St. James Street,
+St. Saviour’s Road, from St. James Street to La Rue le Masurier,
+La Rue le Masurier, from St. Saviour’s Road to the boundary with the parish of St. Saviour, and
+the boundary with the parish of St. Saviour, from la Rue le Masurier to St. Marks Road,
+except for Gloucester Street (from The Esplanade to the southwestern junction with The Parade), New St. James Place, Pier Road, St. James Mews and The Parade (from Elizabeth Place to Gloucester Street).
 ST. JOHN
 The estate roads at La Ville des Chênes
 ST. LAWRENCE

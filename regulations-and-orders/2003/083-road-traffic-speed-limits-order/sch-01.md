@@ -57,16 +57,16 @@ La Rue de Pontlietaut
 La Rue de Samarès
 La Ruelle des Tours
 GROUVILLE
-Beach Road
-Le Chemin des Maltieres (between La Rue Horman and La Chevre Rue)
-La Chevre Rue (between Gorey Village Main Road and Le Chemin des Maltieres)
-Gorey Village Road (from Le Mont de Gouray to La Rue Horman)
-Le Mont de Gouray
-New Road
-Old Road
-La Rue à Don (from a point 50 yards south of Union Road to the boundary with the parish of St. Martin)
-La Rue Horman
-Union Road
+La Grande Route des Sablons
+La Rue à Don (from a point 50 yards southwest of Union Road to the boundary with the parish of St. Martin)
+La Rue de la Ville-ès-Renauds (from La Grande Route des Sablons to the unnamed road between la Rue à Don and Le Clos Royale)
+La Rue Martel
+La Sente des Fonds (from La Grande Route des Sablons to a point 27 yards west of La Grande Route des Sablons)
+La Rue de la Marais à la Cocque (from La Grande Route des Sablons to a point 36 yards west of La Grande Route des Sablons)
+La Rue de Fauvic (from La Grande Route des Sablons to a point 36 yards west of La Grande Route des Sablons)
+La Rue de la Sente Maillard (from La Grande Route des Sablons to a point 66 yards west of La Grande Route des Sablons)
+La Rue du Puits Mahaut (from La Grande Route des Sablons to a point 35 yards west of La Grande Route des Sablons)
+La Rue du Pont (from La Grande Route des Sablons to a point 26 yards north of La Grande Route des Sablons)
 ST. HELIER
 Any road in the parish, except -
 (a) a road specified in Schedule 2 or Schedule 3; and
