@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_26_1956_20190228>
+L.26/1956 · official consolidation showing the law from 2019-03-01 · <https://www.jerseylaw.je/laws/current/l_26_1956_20200720>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ L.26/1956 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 54 | [art-054.md](art-054.md) | 54 Restrictions on persons being towed by, getting on to or tampering with motor vehicles |
 | Art. 55 | [art-055.md](art-055.md) | 55 Prohibition on leaving of vehicles on roads in positions likely to cause danger or obstruction |
 | Art. 56 | [art-056.md](art-056.md) | 56 Removal of vehicles illegally, obstructively or dangerously parked, abandoned or broken down, and disposal of vehicle |
-| Art. 57 | [art-057.md](art-057.md) | 57 Provisions with respect to stretching of ropes etc., across public roads |
+| Art. 57 | [art-057.md](art-057.md) | 57 Provisions with respect to stretching of ropes etc, across public roads |
 | Art. 58 | [art-058.md](art-058.md) | 58 Compulsory acquisition of land for provision of parking places |
 | Art. 59 | [art-059.md](art-059.md) | 59 Orders with regard to public parking places |
 | Art. 60 | [art-060.md](art-060.md) | 60 Badges for display on motor vehicles used by disabled persons |
