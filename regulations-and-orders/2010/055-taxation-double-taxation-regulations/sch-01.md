@@ -22,12 +22,21 @@ The Hong Kong Special Administrative Region, being any territory where the tax l
 Isle of Man
 The island of the Isle of Man including its territorial sea, in accordance with international law.
 10th July 2013
+Liechtenstein
+The Principality of Liechtenstein. When used in a geographical sense, means the area of the sovereign territory of the Principality of Liechtenstein in accordance with international law and domestic law.
+21st December 2018
 Luxembourg
 The Grand Duchy of Luxembourg. When used in a geographical sense, means the territory of the Grand Duchy of Luxembourg.
 5th August 2014
 Malta
 The Republic of Malta. When used in a geographical sense, this means the island of Malta, the island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources.
 19th July 2010
+Mauritius
+The Republic of Mauritius including -
+(i) all the territories and islands which, in accordance with the laws of Mauritius, constitute the State of Mauritius;
+(ii) the territorial sea of Mauritius; and
+(iii) any area outside the territorial sea of Mauritius which in accordance with international law has been or may hereafter be designated, under the laws of Mauritius, as an area, including the Continental Shelf, within which the rights of Mauritius with respect to the sea, the sea-bed and sub-soil and their natural resources may be exercised.
+19th December 2018
 Qatar
 The State of Qatar’s lands, internal waters, territorial sea including its bed and subsoil, the air space over them, the exclusive economic zone and the continental shelf, over which the State of Qatar exercises sovereign rights and jurisdiction in accordance with the provisions of international law and Qatar’s national laws and regulations.
 22nd November 2012

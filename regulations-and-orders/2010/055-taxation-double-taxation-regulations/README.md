@@ -1,6 +1,6 @@
 # Taxation (Double Taxation) (Jersey) Regulations 2010
 
-R&O.55/2010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_55_2010_20190306>
+R&O.55/2010 · official consolidation showing the law from 2019-03-07 · <https://www.jerseylaw.je/laws/current/ro_55_2010_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
