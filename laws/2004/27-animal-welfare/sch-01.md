@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 6(3))
 Operations which may be performed without anaesthetic
 1. The following operations may be performed without an anaesthetic -

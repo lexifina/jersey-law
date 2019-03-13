@@ -1,6 +1,6 @@
 # Animal Welfare (Jersey) Law 2004
 
-L.27/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2004_20190312>
+L.27/2004 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/l_27_2004_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -44,5 +44,6 @@ L.27/2004 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 37 | [art-037.md](art-037.md) | 37 Power of States Veterinary Officer to destroy animal |
 | Art. 38 | [art-038.md](art-038.md) | 38 Notices |
 | Art. 39 | [art-039.md](art-039.md) | 39 Orders |
+| Art. 39A | [art-039-a.md](art-039-a.md) | 39A Orders to deal with deficiencies arising from withdrawal of UK from EU |
 | Art. 40 | [art-040.md](art-040.md) | 40 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
