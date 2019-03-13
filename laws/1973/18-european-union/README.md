@@ -1,6 +1,6 @@
 # European Union (Jersey) Law 1973
 
-L.18/1973 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_18_1973_20190312>
+L.18/1973 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/l_18_1973>
 
 | Provision | File | Heading |
 | --- | --- | --- |
