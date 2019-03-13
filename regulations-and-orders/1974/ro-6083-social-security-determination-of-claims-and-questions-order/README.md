@@ -1,6 +1,6 @@
 # Social Security (Determination of Claims and Questions) (Jersey) Order 1974
 
-R&O.6083 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6083_20190312>
+R&O.6083 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/ro_6083_20190430>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ R&O.6083 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 16 | [art-016.md](art-016.md) | 16 Review of decisions of the Royal Court |
 | Art. 17 | [art-017.md](art-017.md) | 17 Review of decision involving payment or increase of benefit |
 | Art. 18 | [art-018.md](art-018.md) | 18 Adjustment of benefit |
+| Art. 18A | [art-018-a.md](art-018-a.md) | 18A Classification changes |
 | Art. 19 | [art-019.md](art-019.md) | 19 Revision etc. of decisions involving non-payment or reduction of benefit |
 | Art. 20 | [art-020.md](art-020.md) | 20 Interpretation |
 | Art. 21 | [art-021.md](art-021.md) | 21 Citation |
