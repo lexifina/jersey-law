@@ -1,6 +1,6 @@
 # EU Legislation (Aquatic Animal Health) (Jersey) Regulations 2016
 
-R&O.42/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_42_2016_20190312>
+R&O.42/2016 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/ro_42_2016_20191007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -43,5 +43,6 @@ R&O.42/2016 · official consolidation showing the law from 2019-01-01 · <https:
 | Reg. 37 | [reg-037.md](reg-037.md) | 37 Reconsideration of Minister’s decision |
 | Reg. 38 | [reg-038.md](reg-038.md) | 38 Power to prescribe fees |
 | Reg. 39 | [reg-039.md](reg-039.md) | 39 Electronic communication of notices |
+| Reg. 39A | [reg-039-a.md](reg-039-a.md) | 39A Orders to deal with deficiencies arising from withdrawal of UK from EU |
 | Reg. 40 | [reg-040.md](reg-040.md) | 40 Orders - supplementary and other provisions |
 | Reg. 41 | [reg-041.md](reg-041.md) | 41 Citation |
