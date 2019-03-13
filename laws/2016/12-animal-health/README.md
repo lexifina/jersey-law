@@ -1,6 +1,6 @@
 # Animal Health (Jersey) Law 2016
 
-L.12/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_2016_20190312>
+L.12/2016 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/l_12_2016_20191009>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,6 +36,7 @@ L.12/2016 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 29 | [art-029.md](art-029.md) | 29 Offences |
 | Art. 30 | [art-030.md](art-030.md) | 30 General provisions as to offences |
 | Art. 31 | [art-031.md](art-031.md) | 31 Protection of inspectors |
+| Art. 31A | [art-031-a.md](art-031-a.md) | 31A Orders to deal with deficiencies arising from withdrawal of UK from EU |
 | Art. 32 | [art-032.md](art-032.md) | 32 Orders generally |
 | Art. 33 | [art-033.md](art-033.md) | 33 Minor and consequential amendments to enactments |
 | Art. 34 | [art-034.md](art-034.md) | 34 Citation |
