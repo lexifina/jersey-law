@@ -1,9 +1,10 @@
 # Road Traffic (Public Parking Places) (Jersey) Order 2006
 
-R&O.83/2006 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20190321>
+R&O.83/2006 · official consolidation showing the law from 2019-03-22 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20200816>
 
 | Provision | File | Heading |
 | --- | --- | --- |
+| Long title | [long-title.md](long-title.md) | THE MINISTER FOR TRANSPORT AND TECHNICAL SERVICES, in pursuance of Articles 59 and 84 of the Road Traffic (Jersey) Law 1 |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Use of parking places |
 | Art. 3 | [art-003.md](art-003.md) | 3 Controlling body may control use of parking place |
