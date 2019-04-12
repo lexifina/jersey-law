@@ -4,7 +4,7 @@ Requirements as to registration marks
 PART 1
 PRELIMINARY
 1 Interpretation
-In this Schedule, unless the context otherwise requires -
+In this Schedule, unless the context otherwise requires-
 “figure” means a letter or numeral;
 “hours of darkness” means the time between half an hour after sunset and half an hour before sunrise;
 “moped”, “motorcycle” and “trailer” have the meanings assigned to them respectively in the Road Traffic (Jersey) Law 1956;

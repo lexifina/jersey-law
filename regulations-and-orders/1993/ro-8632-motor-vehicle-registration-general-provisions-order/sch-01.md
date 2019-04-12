@@ -2,11 +2,17 @@
 (Article 2)
 Particulars of motor vehicles contained in the register
 1.
-owner’s name and address in Jersey
+owner’s name, address and contact details in Jersey in Jersey
+1A.
+owner’s date of birth
+2A.
+owner’s driving licence number, if delivered to the Inspector
 2.
 manufacturer
 3.
 manufacturer’s model description
+3A.
+vehicle category
 4.
 particulars of type approval, certificate of approval or certificate of exemption
 5.
@@ -48,6 +54,6 @@ details of any insurance write off
 23.
 whether or not the vehicle is to be used exclusively as a hire vehicle
 24.
-CO2 emission rate (LPVs only)
+CO2 emission rate
 25.
 whether or not the vehicle is a restricted speed agricultural tractor

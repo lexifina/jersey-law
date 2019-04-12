@@ -10,15 +10,16 @@ In this Schedule -
 (2) Sub-paragraph (3) applies if the Inspector receives -
 (a) an application under sub-paragraph (1) in respect of a registered motor vehicle;
 (b) a fee of £93;
-(c) the vehicle’s current registration document; and
+(c) the vehicle’s current registration document, if that document has not been issued as an electronic communication; and
 (d) any other evidence that the Inspector may reasonably require in relation to the registration of the vehicle and the person’s compliance with this Order.
 (3) The Inspector shall withdraw the registration mark assigned to that vehicle and shall assign to that vehicle another registration mark, being -
 (a) the particular registration mark applied for under paragraph 3, if that paragraph so requires; or
 (b) if that paragraph does not so require, a registration mark determined by the Inspector under Article 5A(4) of the Law.
 (4) On assigning a registration mark under sub-paragraph (3), the Inspector shall amend the register and the registration document accordingly.
+(5) An application under sub-paragraph (1) may be delivered to the Inspector as an electronic communication in such manner as the Inspector approves.
 3 Assignment of a particular registration mark under a mark-right
 (1) This paragraph applies if the Inspector grants, under paragraph 4 or 5, to a person a right (a “mark-right”) to the assignment of a particular registration mark.
-(2) The Inspector shall assign that registration mark to a motor vehicle if the person to whom the mark-right was granted, within 6 months of the grant -
+(2) The Inspector shall assign that registration mark to a motor vehicle if the person to whom the mark-right was granted, within 6 months of the grant or such other extended time period as the Inspector may allow under sub-paragraph (4) -
 (a) applies, as the owner of that vehicle, to the Inspector -
 (i) to register, under Article 4 of the Law, the vehicle, or
 (ii) if the vehicle is registered, to withdraw, under paragraph 2, the registration mark for the time being assigned to it;
@@ -27,6 +28,7 @@ In this Schedule -
 (3) A mark-right expires -
 (a) when the registration mark is assigned under sub-paragraph (2); or
 (b) 6 months after it was granted, if the person to whom it was granted has not by that time met the requirements of all of clauses (a) to (c) of that sub-paragraph.
+(4) The Inspector may, on the application of a person and on receipt of a fee of £93, extend the period of 6 months referred to in sub-paragraphs (2) and (3) by a further period of not more than 6 months.
 4 Grant of mark-right for registration mark that ceases to be assigned to a vehicle
 (1) Paragraph (2) applies if -
 (a) the owner of a registered motor vehicle notifies the Inspector under Article 5(1)(c) of the Law, and the Inspector cancels the registration under paragraph (5)(b) of that Article; or
