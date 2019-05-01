@@ -1,10 +1,10 @@
 # Social Security (Assessment of Long Term Incapacity) (Jersey) Order 2004
 
-R&O.88/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_88_2004_20190430>
+R&O.88/2004 · official consolidation showing the law from 2019-05-01 · <https://www.jerseylaw.je/laws/current/ro_88_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | THE EMPLOYMENT AND SOCIAL SECURITY COMMITTEE, in pursuance of Article 16 and 51 of the Social Security (Jersey) Law 1974 |
+| Long title | [long-title.md](long-title.md) | THE EMPLOYMENT AND SOCIAL SECURITY COMMITTEE, in pursuance of Articles 16, 18 and 51 of the Social Security (Jersey) Law |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Principles of assessment |
 | Art. 3 | [art-003.md](art-003.md) | 3 Losses of faculty described in the Schedule |
