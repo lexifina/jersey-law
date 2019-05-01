@@ -1,10 +1,10 @@
 # Social Security (Determination of Claims and Questions) (Jersey) Order 1974
 
-R&O.6083 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/ro_6083_20190430>
+R&O.6083 · official consolidation showing the law from 2019-05-01 · <https://www.jerseylaw.je/laws/current/ro_6083_20201123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | THE EMPLOYMENT AND SOCIAL SECURITY COMMITTEE, in pursuance of Articles 29 and 33 of the Social Security (Jersey) Law 197 |
+| Long title | [long-title.md](long-title.md) | THE EMPLOYMENT AND SOCIAL SECURITY COMMITTEE, in pursuance of Articles 29, 33 and 34AA of the Social Security (Jersey) L |
 | Art. 1 | [art-001.md](art-001.md) | 1 Functions of determining officers |
 | Art. 1A | [art-001-a.md](art-001-a.md) | 1A Reconsideration by second determining officer |
 | Art. 2 | [art-002.md](art-002.md) | 2 Determination to be conclusive for purposes of proceedings under the Law, etc. |
