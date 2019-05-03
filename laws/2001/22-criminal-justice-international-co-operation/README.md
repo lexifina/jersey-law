@@ -1,6 +1,6 @@
 # Criminal Justice (International Co-operation) (Jersey) Law 2001
 
-L.22/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_22_2001_20190502>
+L.22/2001 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_22_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,8 @@ L.22/2001 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 5 | [art-005.md](art-005.md) | 5 Evidence for, and assistance in, criminal proceedings in overseas court etc. |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Giving of evidence in proceedings under Article 5 |
 | Art. 5B | [art-005-b.md](art-005-b.md) | 5B Transmission of evidence received in proceedings under Article 5 |
+| Art. 5C | [art-005-c.md](art-005-c.md) | 5C Order to preserve data pending request for assistance |
+| Art. 5D | [art-005-d.md](art-005-d.md) | 5D Offence of unauthorized disclosure of preservation order |
 | Art. 6 | [art-006.md](art-006.md) | 6 Additional co-operation powers |
 | Art. 7 | [art-007.md](art-007.md) | 7 Enforcement of overseas forfeiture orders |
 | Art. 8 | [art-008.md](art-008.md) | 8 Rules of Court |
