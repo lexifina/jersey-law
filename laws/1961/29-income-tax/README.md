@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20190502>
+L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_29_1961_20191231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -301,6 +301,7 @@ L.29/1961 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 141B | [art-141-b.md](art-141-b.md) | 141B Power to enter business premises and examine business documents |
 | Art. 141C | [art-141-c.md](art-141-c.md) | 141C Obstructing an authorized person |
 | Art. 142 | [art-142.md](art-142.md) | 142 Provisions for giving effect to any increase, during any year of assessment, in the standard rate of income tax |
+| Art. 142A | [art-142-a.md](art-142-a.md) | 142A Power to make Regulations relating to personal injury lump sum payments |
 | Art. 143 | [art-143.md](art-143.md) | 143 Power to make Regulations relating to other legal entities |
 | Art. 143A | [art-143-a.md](art-143-a.md) | 143A General provisions as to Regulations |
 | Art. 144 | [art-144.md](art-144.md) | 144 Power to make Orders |
