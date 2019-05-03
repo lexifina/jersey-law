@@ -1,6 +1,6 @@
 # Regulation of Investigatory Powers (Jersey) Law 2005
 
-L.17/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_17_2005_20190502>
+L.17/2005 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_17_2005_20230716>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -32,6 +32,7 @@ L.17/2005 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 25 | [art-025.md](art-025.md) | 25 Lawful acquisition and disclosure of communications data |
 | Art. 26 | [art-026.md](art-026.md) | 26 Authorizations and notices to obtain and disclose communications data |
 | Art. 27 | [art-027.md](art-027.md) | 27 Form and duration of authorizations and notices |
+| Art. 27A | [art-027-a.md](art-027-a.md) | 27A Offence of unauthorized disclosure by postal or telecommunications operator |
 | Art. 28 | [art-028.md](art-028.md) | 28 Arrangements for payments |
 | Art. 29 | [art-029.md](art-029.md) | 29 Persons designated to give authorizations and notices under this Chapter |
 | Art. 30 | [art-030.md](art-030.md) | 30 Interpretation of Part 3 |
@@ -47,6 +48,14 @@ L.17/2005 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 40 | [art-040.md](art-040.md) | 40 General rules for grant, renewal and duration of authorizations |
 | Art. 41 | [art-041.md](art-041.md) | 41 Cancellation of authorizations |
 | Art. 42 | [art-042.md](art-042.md) | 42 Power to extend or modify authorization provisions |
+| Art. 42A | [art-042-a.md](art-042-a.md) | 42A Interpretation of Part 3A |
+| Art. 42B | [art-042-b.md](art-042-b.md) | 42B Power to require disclosure of protected information or key |
+| Art. 42C | [art-042-c.md](art-042-c.md) | 42C Effect of notice imposing disclosure requirement |
+| Art. 42D | [art-042-d.md](art-042-d.md) | 42D Cases in which key required |
+| Art. 42E | [art-042-e.md](art-042-e.md) | 42E Contribution to costs of disclosure |
+| Art. 42F | [art-042-f.md](art-042-f.md) | 42F Offence: failure to comply with a notice |
+| Art. 42G | [art-042-g.md](art-042-g.md) | 42G Offence: tipping-off |
+| Art. 42H | [art-042-h.md](art-042-h.md) | 42H General duties of specified authorities |
 | Art. 43 | [art-043.md](art-043.md) | 43 Investigatory Powers Commissioner |
 | Art. 44 | [art-044.md](art-044.md) | 44 Co-operation with and reports by the Commissioner |
 | Art. 45 | [art-045.md](art-045.md) | 45 Assistant Investigatory Powers Commissioners |
@@ -66,4 +75,5 @@ L.17/2005 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 59 | [art-059.md](art-059.md) | 59 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 2A |
+| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 3 |
