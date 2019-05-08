@@ -35,7 +35,7 @@ Mauritius
 Monaco
 Nauru
 New Zealand
-Nuie
+Niue
 Pakistan
 Panama
 Qatar
