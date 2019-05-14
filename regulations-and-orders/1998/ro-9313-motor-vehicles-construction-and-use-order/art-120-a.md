@@ -2,6 +2,7 @@
 (1) This Article applies, subject to paragraph (8), to a vehicle (a “relevant vehicle”) that -
 (a) is -
 (i) a large goods vehicle,
+(ia) a medium-sized goods vehicle,
 (ii) a semi-trailer, or
 (iii) a trailer, the unladen weight of which exceeds 1,020 kg;
 (b) is used in the course of a business; and
@@ -28,5 +29,7 @@
 (6) Articles 118 and 119 apply following an examination under paragraph (4) as they do following a test under Article 117.
 (7) Articles 120(1B), (2), (4), (5), (6), (8) and (9) apply in respect of a certificate of compliance under this Article as they apply in respect of a certificate of compliance under Article 120.
 (8) Paragraphs (2) and (3) do not apply to a relevant vehicle until whichever is the sooner of -
-(a) 14th May 2019; and
+(a) the relevant date for that type of vehicle, being -
+(i) if the vehicle is a medium-sized goods vehicle, 14th May 2020, or
+(ii) if the vehicle is any other relevant vehicle, 14th May 2019; and
 (b) the date, if any, on which, by appointment with the Inspector of Motor Traffic, the vehicle is first submitted for examination under paragraph (4).

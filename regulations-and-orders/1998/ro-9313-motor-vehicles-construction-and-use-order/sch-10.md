@@ -57,7 +57,7 @@ PART 3
 Provided that, where alterations are made to a vehicle which may render the vehicle fit for use at weights which exceed those referred to in this paragraph and shown on the plate -
 (a) there may be shown on the plate, in place of any of those weights, such new weights as the manufacturer of the vehicle or any person carrying on business as a manufacturer of motor vehicles or trailers (or a person duly authorized on behalf of that manufacturer or any such person) (that person being also authorized by the Inspector of Motor Traffic) considers to represent the weight limits at or below which the vehicle will then be fit for use, having regard to its design, construction and equipment and to those alterations and to the stresses to which it is likely to be subject in use; and
 (b) the name of the person who has determined the new weights shall be shown on the plate as having made that determination and, where the person is a person authorized by the Inspector of Motor Traffic, the person’s appointment shall be so shown.
-(2) In relation to a vehicle manufactured on or after 1st October 1972 in sub‑paragraph (1) -
+(2) In relation to a vehicle manufactured on or after 1st October 1972 in sub-paragraph (1) -
 (a) the references to equipment shall not be treated as including a reference to the type of tyres with which the vehicle is equipped; and
 (b) for the words “weight limits at or below” in both places where they occur there shall be substituted the words “maximum weights at”.
 3.
