@@ -40,7 +40,7 @@ calculated income
 (a) subject to sub-paragraph (3), the value of any dwelling owned by a member of the household and occupied by the household as its principal residence;
 (b) the value of any dwelling purchased by a member of the household that is intended to be occupied by the household as its principal residence, until the property is so occupied or for a period not exceeding 13 weeks from when the property was purchased, whichever is the earlier;
 (c) the value of assets integral to the running of any business owned by a member of the household for which a member of the household is normally engaged in remunerative work, or for which the person would be so engaged were he or she not prevented from being so engaged by reason of ill health, for a period of more than 26 weeks;
-(d) the household furniture and effects of any dwelling occupied by the household and articles of clothing and personal effects of any member of the household, other than a motor vehicle or any item bought as an investment;
+(d) the household furniture and effects of any dwelling occupied by the household as its principal residence, and articles of clothing and personal effects of any member of the household, other than a motor vehicle or any item bought as an investment;
 (e) the value of such motor vehicles as are appropriate to the needs of the household;
 (f) any capital that has been accumulated solely to provide for the future care of a member of a household who meets the criteria for the rate of personal care element of the impairment component payable under paragraph 6(3)(c) of Schedule 1 to the Regulations, for as long as the member continues to meet that criteria;
 (g) any capital that has been accumulated solely to provide for the future care of a member of a household who is a child who meets the criteria in Regulation 3 of the Income Support (Special Payments) (Child Personal Care) (Jersey) Regulations 2014 for as long as the member continues to meet that criteria.
@@ -87,8 +87,8 @@ In assessing the weekly income of the household there shall be disregarded -
 (h)
 (i) in the case of a person who -
 (i) is under 25 years,
-(ii) is treated for the purpose of Article 5(1) as being a member of the same household of another person, and
-(iii) is so treated because he or she occupies the same dwelling as his or her principal residence as that other person and is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) of the Law (persons undergoing education or training on any course approved by the Minister) but does not meet the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(b) or (c) of Schedule 1 to the Regulations,
+(ii) is treated under Article 5(1) as being a member of the same household of another person, and
+(iii) is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) of the Law (persons undergoing education or training on any course approved by the Minister) but does not meet the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(b) or (c) of Schedule 1 to the Regulations,
 100% of the aggregate of the person’s earnings and any income derived from a pension received by the person, up to the value of the basic component payable in respect of that person under Article 5(2)(a) of the Law.
 6 Interpretation
 In this Schedule -
