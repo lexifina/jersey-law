@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2019-03-21 · <https://www.jerseylaw.je/laws/current/l_32_2008_20190525>
+L.32/2008 · official consolidation showing the law from 2019-05-26 · <https://www.jerseylaw.je/laws/current/l_32_2008_20190530>
 
 | Provision | File | Heading |
 | --- | --- | --- |
