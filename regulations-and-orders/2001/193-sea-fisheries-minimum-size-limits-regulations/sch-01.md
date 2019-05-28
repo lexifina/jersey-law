@@ -115,7 +115,7 @@ Clam (Venus verrucosa)
 40 millimetres measured across the broadest part of the shell
 Crabs -
 (a) Chancre (Edible crab) (Cancer pagurus)
-14 centimetres measured across the broadest part of the back
+15 centimetres measured across the broadest part of the back
 (b) Lady crab (Velvet crab) (Necora puber)
 6.5 centimetres measured across the broadest part of the back
 (c) Spider crab (Maja brachydactyla)
