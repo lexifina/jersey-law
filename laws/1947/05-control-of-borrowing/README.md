@@ -1,6 +1,6 @@
 # Control of Borrowing (Jersey) Law 1947
 
-L.5/1947 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1947_20190530>
+L.5/1947 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_5_1947_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
