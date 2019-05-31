@@ -1,6 +1,6 @@
 # Limited Liability Partnerships (Dissolution and Winding Up) (Jersey) Regulations 2018
 
-R&O.76/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_76_2018_20190530>
+R&O.76/2018 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/ro_76_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ R&O.76/2018 · official consolidation showing the law from 2019-01-01 · <https:
 | Reg. 41 | [reg-041.md](reg-041.md) | 41 Insolvency manager to report criminal offences |
 | Reg. 42 | [reg-042.md](reg-042.md) | 42 Obligations and powers arising under Regulation 41 |
 | Reg. 43 | [reg-043.md](reg-043.md) | 43 Authority for search |
-| Reg. 44 | [reg-044.md](reg-044.md) | 44 Failure to co-operate with Chief Minister, Commission or inspector |
+| Reg. 44 | [reg-044.md](reg-044.md) | 44 Failure to co-operate with Minister, Commission or inspector |
 | Reg. 45 | [reg-045.md](reg-045.md) | 45 Inspector’s report to be evidence |
 | Reg. 46 | [reg-046.md](reg-046.md) | 46 Privileged information |
 | Reg. 47 | [reg-047.md](reg-047.md) | 47 Enforcement of duty of partner or insolvency manager to deliver document or give notice |
