@@ -25,7 +25,7 @@ Jersey Charity Commissioner
 3 Termination of office as Commissioner
 (1) A person ceases to be appointed as the Commissioner if -
 (a) he or she resigns from office by giving not less than 3 months’ notice in writing to the Minister;
-(b) the Minister terminates his or her appointment under sub-paragraph (2); or
+(b) the Minister terminates his or her appointment under sub‑paragraph (2); or
 (c) his or her appointment expires under sub-paragraph (4).
 (2) The Minister may terminate the appointment of a person as the Commissioner, after satisfying himself or herself that the person -
 (a) has been absent from his or her duties for a period longer than 4 consecutive weeks;
