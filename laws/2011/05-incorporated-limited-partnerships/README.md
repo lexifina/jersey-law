@@ -1,6 +1,6 @@
 # Incorporated Limited Partnerships (Jersey) Law 2011
 
-L.5/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_5_2011_20190530>
+L.5/2011 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_5_2011_20210105>
 
 | Provision | File | Heading |
 | --- | --- | --- |
