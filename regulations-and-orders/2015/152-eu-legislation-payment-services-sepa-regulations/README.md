@@ -1,6 +1,6 @@
 # EU Legislation (Payment Services - SEPA) (Jersey) Regulations 2015
 
-R&O.152/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_152_2015_20190530>
+R&O.152/2015 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/ro_152_2015_20190913>
 
 | Provision | File | Heading |
 | --- | --- | --- |
