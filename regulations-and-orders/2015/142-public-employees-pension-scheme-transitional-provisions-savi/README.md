@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Transitional Provisions, Savings and Consequential Amendments) (Jersey) Regulations 2015
 
-R&O.142/2015 · official consolidation showing the law from 2019-01-15 · <https://www.jerseylaw.je/laws/current/ro_142_2015_20190617>
+R&O.142/2015 · official consolidation showing the law from 2019-06-18 · <https://www.jerseylaw.je/laws/current/ro_142_2015_20200720>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,8 @@ R&O.142/2015 · official consolidation showing the law from 2019-01-15 · <https
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Retirement benefits |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Conversion of 1967 Scheme retirement benefits into lump sum |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Calculation of final pensionable earnings |
+| Reg. 9A | [reg-009-a.md](reg-009-a.md) | 9A Award of compensatory added years |
+| Reg. 9B | [reg-009-b.md](reg-009-b.md) | 9B Calculation of final pensionable earnings where Regulation 9A applies |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Survivor benefits |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Extension of 1967 Scheme survivor benefits to nominated cohabiting partner |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 Ill-health pension - qualifying period etc. for purposes of the Scheme |
