@@ -32,7 +32,7 @@ A freezing order shall provide for notice to be given to persons affected by the
 subject to such exceptions and conditions as may be specified by the Court.
 (3) The Royal Court may require any person having possession of property in respect of which a receiver is appointed under this paragraph to give possession of it to the receiver.
 (4) The powers conferred on a receiver by this paragraph shall be exercised with a view to securing that the property specified in the order is available for satisfying the forfeiture order or, as the case may be, any forfeiture order that may be made in the ICC proceedings in relation to which the order was made.
-(5) A receiver appointed under this paragraph shall not be liable to any person in respect of any loss or damage resulting from any action taken by the receiver which the receiver believed on reasonable grounds that he or she was entitled to take, except in so far as the loss or damage is caused by his or her negligence.
+(5) A receiver appointed under this paragraph shall not be liable to any person in respect of any loss or damage resulting from any action taken by the receiver which the receiver believed on reasonable grounds that he or she was entitled to take, except in so far as the loss or damage is caused by his or her bad faith.
 7 Seizure to prevent removal from jurisdiction
 (1) Where a freezing order has been made, the Viscount or a police officer may, for the purpose of preventing any property specified in the order from being removed from Jersey, seize the property.
 (2) Property seized under this paragraph shall be dealt with in accordance with the directions of the Royal Court.
@@ -63,7 +63,7 @@ is excluded from the property of the bankrupt for the purposes of the 1990 Law.
 (1) This paragraph applies where the Viscount, an interim receiver, a liquidator or provisional liquidator, as the case may be, seizes or disposes of property which is subject to a freezing order and he or she -
 (a) reasonably believes that he or she is entitled to do so in the exercise of his or her functions; and
 (b) would be so entitled if the property were not subject to a freezing order.
-(2) The Viscount, interim receiver, liquidator or provisional liquidator, as the case may be, shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his or her negligence.
+(2) The Viscount, interim receiver, liquidator or provisional liquidator, as the case may be, shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his or her bad faith.
 (3) The Viscount, interim receiver, liquidator or provisional liquidator, as the case may be, shall have a lien on the property seized or the proceeds of its sale -
 (a) for such of his or her expenses as were incurred in connection with the bankruptcy or winding up in relation to which the seizure or disposal purported to take place; and
 (b) for so much of his or her remuneration as may be reasonably assigned for having acted in connection with the bankruptcy or winding up.
