@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Jersey) Regulations 1967
 
-R&O.5010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5010_20190624>
+R&O.5010 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_5010_20200720>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,6 +19,7 @@ R&O.5010 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Transitional provision in relation to female contributory member |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Benefit to be inalienable |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Reduction of salary |
+| Reg. 15A | [reg-015-a.md](reg-015-a.md) | 15A Award of additional service |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Augmentation |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Modification of scheme for Air Traffic Control Officers |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Modification of scheme for Emergency Ambulance Officers |
