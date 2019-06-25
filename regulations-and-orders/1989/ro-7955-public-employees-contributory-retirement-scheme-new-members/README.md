@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (New Members) (Jersey) Regulations 1989
 
-R&O.7955 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7955_20190624>
+R&O.7955 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_7955_20191231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,6 +28,7 @@ R&O.7955 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Augmentation |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Pensionable allowances |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Added years in respect of a pensionable allowance |
+| Reg. 19A | [reg-019-a.md](reg-019-a.md) | 19A Award of compensatory added years |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Bankruptcy and non-assignment of benefits |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Part-time employees |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Transitional provisions |
