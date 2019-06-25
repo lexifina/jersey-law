@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Former Hospital Scheme) (Jersey) Regulations 1992
 
-R&O.8443 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8443_20190624>
+R&O.8443 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_8443_20200720>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ R&O.8443 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Augmentation |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Pensionable allowances |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Added years in respect of pensionable allowance |
+| Reg. 17A | [reg-017-a.md](reg-017-a.md) | 17A Award of compensatory added years |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Modification of scheme for the Chief and Assistant Chief Ambulance Officers |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Forfeiture |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Bankruptcy and non-assignment of benefits |
