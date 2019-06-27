@@ -122,6 +122,7 @@ Diethylpropion
 Dihydrocodeine
 Ethylmorphine (3-ethylmorphine)
 Fenethylline
+3-Fluorophenmetrazine
 Glutethimide
 Lefatamine
 Mecloqualone

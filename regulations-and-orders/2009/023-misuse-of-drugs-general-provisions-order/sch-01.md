@@ -4,8 +4,8 @@ Schedule 1 DRUGS
 1 The following substances and products -
 (a) Bufotenine
 1-Cyclohexyl-4-(1,2diphenylethyl)piperazine (MT-45)
-Cannabinol (not falling within paragraph 10 of Schedule 2)
-Cannabinol derivatives (not falling within paragraph 10 of Part 2), other than dronabinol or a stereoisomer of dronabinol
+Cannabinol (not falling within Article 2(5) or within paragraph 10 of Schedule 2)
+Cannabinol derivatives (not falling within Article 2(5) or within paragraph 10 of Schedule 2), other than dronabinol or a stereoisomer of dronabinol
 Cannabis (not falling within paragraph 10 of Schedule 2 or within paragraph 10 of Schedule 4)
 Cannabis resin (not falling within paragraph 10 of Schedule 2)
 Cathinone
