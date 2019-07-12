@@ -516,6 +516,12 @@ Measures to be taken against air pollution by emissions from motor vehicles
 70/22 as amended by 74/290, 77/102, 78/665, 83/351, 88/76, 88/436, 89/458, 91/441 and 93/59
 4L
 2J
+83
+96/38
+17.6.96
+L187, 26.7.96, p.95
+Anchorages for motor vehicle safety belts
+76/115 as amended by 81/575, 82/318, 90/629 and 2005/41
 TABLE 2
 ECE Regulations
 1
@@ -604,6 +610,31 @@ Anchorages for seat belts
 22.11.84
 12A
 -
+9A
+14.03
+14
+30.1.70
+Anchorages for seat belts
+29.1.92
+9B
+14.03
+14
+30.1.70
+Anchorages for seat belts
+29.1.92
+12A
+9C
+14.04
+14
+30.1.70
+Anchorages for seat belts
+18.1.98
+9D
+14.05
+14
+30/1/70
+Anchorages for seat belts
+4.2.99
 10
 15.03
 15
