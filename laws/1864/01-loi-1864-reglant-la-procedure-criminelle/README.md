@@ -1,6 +1,6 @@
 # Loi (1864) Réglant la Procédure Criminelle
 
-L.1/1864 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_1864_20190717>
+L.1/1864 · official consolidation showing the law from 2019-07-18 · <https://www.jerseylaw.je/laws/current/l_1_1864_20190723>
 
 | Provision | File | Heading |
 | --- | --- | --- |
