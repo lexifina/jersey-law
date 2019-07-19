@@ -1,6 +1,6 @@
 # Crime and Security (Jersey) Law 2003
 
-L.32/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_32_2003_20190718>
+L.32/2003 · official consolidation showing the law from 2019-07-19 · <https://www.jerseylaw.je/laws/current/l_32_2003_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,6 +16,5 @@ L.32/2003 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 9 | [art-009.md](art-009.md) | 9 Review and duration of freezing order |
 | Art. 10 | [art-010.md](art-010.md) | 10 The Crown |
 | Art. 11 | [art-011.md](art-011.md) | 11 Offences: general |
-| Art. 12 | [art-012.md](art-012.md) | 12 Orders |
 | Art. 13 | [art-013.md](art-013.md) | 13 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
