@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Administration) (Jersey) Regulations 2015
 
-R&O.139/2015 · official consolidation showing the law from 2019-01-15 · <https://www.jerseylaw.je/laws/current/ro_139_2015_20190722>
+R&O.139/2015 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/ro_139_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
