@@ -1,6 +1,6 @@
 # Civil Asset Recovery (International Co-operation) (Jersey) Law 2007
 
-L.39/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_39_2007_20190722>
+L.39/2007 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_39_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
