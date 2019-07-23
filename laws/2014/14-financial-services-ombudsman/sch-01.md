@@ -141,7 +141,7 @@ the Deputy Chairman must perform the functions of the Chairman under paragraph 1
 (2) Sub-paragraph (1) is without prejudice to -
 (a) any provision of this Law, including in particular paragraph 12, or of any other enactment; and
 (b) any obligation to comply with any condition lawfully attached to any funding accepted by the OFSO from the States.
-(3) Sub-paragraph (1) is not to be construed as preventing the OFSO from being an independently audited States body for the purposes of the Public Finances (Jersey) Law 2005.
+(3) Sub-paragraph (1) is not to be construed as preventing the OFSO from being an independently audited States body for the purposes of the Comptroller and Auditor General (Jersey) Law 2014.
 (4) Despite sub-paragraphs (2) and (3) -
 (a) the OFSO is not to be regarded as exercising functions on behalf of the Minister or the States;
 (b) the Ombudsmen and the OFSO’s staff, board members and committee members are not to be regarded as employees of the States; and

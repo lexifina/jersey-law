@@ -12,7 +12,7 @@ Finances of OFSO
 (5) The accounts of the OFSO must -
 (a) be audited by auditors appointed in respect of each financial year by the board and qualified for appointment as auditors of a company by virtue of Article 113 of the Companies (Jersey) Law 1991; and
 (b) be prepared in accordance with generally accepted accounting principles and show a true and fair view of the profit or loss of the OFSO for the period and of the state of the OFSO’s affairs at the end of the period.
-(6) This Article is without prejudice to any additional requirements in relation to accounts that are imposed by the Public Finances (Jersey) Law 2005 or any other enactment.
+(6) This Article is without prejudice to any additional requirements in relation to accounts that are imposed by the Public Finances (Jersey) Law 2019 or any other enactment.
 (7) In this paragraph, and in paragraph 2, “financial year” means the period beginning with the day on which this Schedule comes into force and ending with the 31st day of December next following, and each subsequent period of 12 months ending with the 31st day of December.
 2 Budget
 (1) The OFSO must, before the start of each financial year (or as soon as practicable after that start, in the case of the first such year), adopt an annual budget which has been approved by the Minister.
