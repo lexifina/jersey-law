@@ -1,6 +1,6 @@
 # Social Housing (Transfer) (Jersey) Law 2013
 
-L.12/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_2013_20190722>
+L.12/2013 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_12_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,6 +14,5 @@ L.12/2013 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 7 | [art-007.md](art-007.md) | 7 Stamp duty |
 | Art. 8 | [art-008.md](art-008.md) | 8 Transfer of staff |
 | Art. 9 | [art-009.md](art-009.md) | 9 Saving of rights under retirement schemes |
-| Art. 10 | [art-010.md](art-010.md) | 10 Amendment of medium term financial plan approved under Public Finances (Jersey) Law 2005 |
 | Art. 11 | [art-011.md](art-011.md) | 11 Regulations |
 | Art. 12 | [art-012.md](art-012.md) | 12 Citation |
