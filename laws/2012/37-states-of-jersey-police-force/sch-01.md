@@ -1,6 +1,6 @@
 # SCHEDULE 1
 (Article 32)
-Transitional provisions
+TRansitional provisions
 1 Chief Officer and Deputy Chief Officer
 (1) The persons who, immediately before 1st August 2014, were the holders of the offices of Chief Officer and Deputy Chief Officer continue to hold those offices as if they had been appointed to those offices under this Law.
 (2) Until their terms and conditions are amended under this Law, they do so on the same terms and conditions of appointment as applied to them immediately before 1st August 2014.
