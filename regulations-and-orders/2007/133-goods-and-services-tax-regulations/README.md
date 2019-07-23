@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Regulations 2007
 
-R&O.133/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_133_2007_20190722>
+R&O.133/2007 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/ro_133_2007_20191231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
