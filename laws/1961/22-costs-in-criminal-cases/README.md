@@ -1,6 +1,6 @@
 # Costs in Criminal Cases (Jersey) Law 1961
 
-L.22/1961 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_22_1961_20190722>
+L.22/1961 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_22_1961_20210930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
