@@ -1,6 +1,6 @@
 # Long-Term Care (States Contribution) (Jersey) Regulations 2013
 
-R&O.158/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_158_2013_20190722>
+R&O.158/2013 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/ro_158_2013_20250220>
 
 | Provision | File | Heading |
 | --- | --- | --- |
