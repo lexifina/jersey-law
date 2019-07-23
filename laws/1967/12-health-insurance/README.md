@@ -1,6 +1,6 @@
 # Health Insurance (Jersey) Law 1967
 
-L.12/1967 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_1967_20190722>
+L.12/1967 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_12_1967_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,8 +8,11 @@ L.12/1967 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 General administration |
 | Art. 3 | [art-003.md](art-003.md) | 3 Insured persons |
+| Art. 4 | [art-004.md](art-004.md) | 4 Child of the family |
+| Art. 5 | [art-005.md](art-005.md) | 5 Dependant wife |
 | Art. 6 | [art-006.md](art-006.md) | 6 Right to benefit |
 | Art. 7 | [art-007.md](art-007.md) | 7 Descriptions of benefit |
+| Art. 8 | [art-008.md](art-008.md) | 8 Qualifying period |
 | Art. 9 | [art-009.md](art-009.md) | 9 Medical benefit |
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Registration with general medical practice |
 | Art. 10 | [art-010.md](art-010.md) | 10 Medical services |

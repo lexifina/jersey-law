@@ -17,7 +17,7 @@
 (iii) the descriptions or classes of patients to whom a medical service will be provided,
 (iv) the power of the Minister to vary the terms of a contract (including a power to suspend or terminate any obligation of the contractor under a contract),
 (v) rights of entry and inspection of the contractor’s premises and rights of inspection of -
-(A) documents (other than clinical records) that are in the possession or control of the contractor; and,
+(A) documents (other than clinical records) that are in the possession or control of the contractor; and
 (B) subject to paragraph (7), clinical records that are in the possession or control of the contractor,
 by an officer authorized by the Minister for the purpose,
 (vi) the circumstances in which and the manner in which the contract may be terminated,
