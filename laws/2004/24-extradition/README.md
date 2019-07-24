@@ -1,6 +1,6 @@
 # Extradition (Jersey) Law 2004
 
-L.24/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_2004_20190723>
+L.24/2004 · official consolidation showing the law from 2019-07-24 · <https://www.jerseylaw.je/laws/current/l_24_2004_20210930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -110,10 +110,12 @@ L.24/2004 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 96 | [art-096.md](art-096.md) | 96 Duty of court to consider bail for person in custody |
 | Art. 97 | [art-097.md](art-097.md) | 97 Presumption in favour of bail |
 | Art. 98 | [art-098.md](art-098.md) | 98 Bail conditions |
+| Art. 98A | [art-098-a.md](art-098-a.md) | 98A Application of the Criminal Procedure (Bail) (Jersey) Law 2017 |
 | Art. 99 | [art-099.md](art-099.md) | 99 Warning to person bailed |
 | Art. 100 | [art-100.md](art-100.md) | 100 Variation of bail |
 | Art. 101 | [art-101.md](art-101.md) | 101 Arrest without court order |
 | Art. 102 | [art-102.md](art-102.md) | 102 Arrest on order of court |
+| Art. 102A | [art-102-a.md](art-102-a.md) | 102A References to period of 48 hours |
 | Art. 103 | [art-103.md](art-103.md) | 103 Evidence |
 | Art. 104 | [art-104.md](art-104.md) | 104 Time limit for extradition following deferral for competing claim |
 | Art. 105 | [art-105.md](art-105.md) | 105 Proceedings where proceedings on warrant or request deferred |

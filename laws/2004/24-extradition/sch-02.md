@@ -173,7 +173,7 @@ Appeals
 (3) An appeal under this paragraph may be brought on a question of law or fact.
 (4) Notice of an appeal under this paragraph shall be given in accordance with rules of court before the end of the period of 14 days commencing on the day on which the order is made.
 (5) But where a person gives notice of application for leave to appeal after the end of the permitted period, the Royal Court shall not for that reason refuse to entertain the application if the person did everything reasonably possible to ensure that the notice was given as soon as it could be given.
-26 Royal Court’s powers on appeal against decision ordering re‑extradition
+26 Royal Court’s powers on appeal against decision ordering re-extradition
 (1) On an appeal under paragraph 25, the Royal Court may -
 (a) allow the appeal; or
 (b) dismiss the appeal.
