@@ -49,15 +49,14 @@ Pourvu que, si -
 (c) son avocat ne soutient pas que le contenu desdites dépositions manque à fonder une cause prima facie contre son client,
 le Juge enverra le prévenu devant la Cour Royale sans besoin d’étudier le contenu desdites dépositions.
 Pour éviter le doute, les dispositions de l’Article 19 s’appliquent tant dans le cas d’une accusation de contravention que dans le cas d’une accusation de crime ou de délit.
-En tout état de la cause, même lors du renvoi à la Cour Royale, le Juge pourra, s’il y a lieu, admettre le prévenu à donner caution de sa comparution en Justice, et fixera le montant du cautionnement à fournir, soit à la Cour même, soit à l’Officier de la Cour que le Juge désignera. En cas d’absence de l’Officier désigné, le cautionnement pourra être reçu par un des autres Officiers de la Cour.
-Si le cautionnement est fourni à l’Officier, il en fera un record, qui sera signé de l’Officier et de la personne qui s’est portée caution du prévenu, et qui sera annexé aux pièces de la procédure.
+En tout état de la cause, même lors du renvoi à la Cour Royale, le Juge pourra admettre le prévenu en liberté provisoire conformément à la Loi dite Criminal Procedure (Bail) (Jersey) Law 2017.
 Le Juge, lorsqu’il enverra la cause devant la Cour Royale, fera déposer sans retard au Greffe de ladite Cour Royale, et en original, les dépositions des témoins qui auront été prises et rédigées d’après les dispositions de l’Article 18 ou déférées à la Cour d’après les dispositions de l’Article 9 de la Loi dite Criminal Justice (Evidence and Procedure) (Jersey) Law 1998, lesquelles il attestera par sa signature.
 Les pièces de conviction, s’il y en a eu de produites devant le Juge, seront remises au Centenier qui a présenté le rapport, afin qu’il les dépose au Greffe lorsque le prévenu sera présenté à la Cour supérieure.
 Le Centenier qui a traduit le prévenu devant le Juge remettra son rapport à la Partie Publique, avec l’Acte d’envoi du procès devant la Cour Royale, aussitôt que possible après la clôture de l’instruction; et un jour rapproché sera fixé pour la production du prévenu devant ladite Cour.
 Le jour indiqué, le Centenier présentera l’accusé, et les pièces de conviction qu’il peut avoir à produire.
 La Partie Publique produira l’Acte d’Accusation, et le Greffier Judiciaire en donnera lecture.
 L’accusé plaidera.
-Si l’accusé plaide non-coupable, il sera constitué prisonnier, mais pourra, s’il y a lieu, être admis à caution, la Cour fixant le montant du cautionnement.
+Si l’accusé plaide non-coupable, il sera constitué prisonnier, mais pourra, être admis en liberté provisoire conformément à la Loi dite Criminal Procedure (Bail) (Jersey) Law 2017.
 Si l’accusé refuse de plaider, le procès tirera outre, comme s’il se fût déclaré non-coupable.
 Si l’accusé se reconnaît coupable, la Cour prononcera sentence, soit séance tenante, soit dans le délai qu’elle fixera.
 Néanmoins, si le cas le requiert, la Cour pourra se faire présenter les dépositions des témoins prises devant le Juge ou en vertu de l’Article 9 de la Loi dite Criminal Justice (Evidence and Procedure) (Jersey) Law 1998, et, au besoin, la Cour pourra ordonner que le procès soit continué et qu’il y ait un verdict de l’enquête avant le prononcé de la sentence.
