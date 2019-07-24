@@ -1,7 +1,7 @@
 # 50 Visit by person in connection with criminal or civil proceedings
 (1) An untried prisoner shall be entitled to receive a visit, at any reasonable time, by any person for the purpose of -
 (a) the proceedings for the offence with which the prisoner is charged; or
-(b) providing a security or proposing a surety as a condition of the prisoner’s bail.
+(b) providing a security or proposing a surety as a condition of the prisoner’s bail in accordance with Article 12 of the Criminal Procedure (Bail) (Jersey) Law 2017.
 (2) A civil prisoner shall be entitled to receive a visit, at any reasonable time, by any person for the purpose of the proceedings in respect of which the prisoner is committed to prison.
 (3) A prisoner who has been convicted but not sentenced shall be entitled to receive a visit, at any reasonable time, by any person for the purpose of the preparation of reports for and representations to the court by which the prisoner will be sentenced.
 (4) A prisoner who has appealed against a conviction or sentence shall be entitled to receive a visit, at any reasonable time, by any person for the purpose of the appeal.
