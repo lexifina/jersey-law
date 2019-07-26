@@ -77,6 +77,7 @@ Ethyloestrenol
 Fluoxymesterone
 Formebolone
 Furazabol
+Gabapentin (1-(aminomethyl)cyclohexaneacetic acid)
 Gestrinone
 3-Hydroxy-5α-androstan-17-one
 Mebolazine
@@ -105,6 +106,7 @@ Oxandrolone
 Oxymesterone
 Oxymetholone
 Prasterone
+Pregabalin ((S)-3-(aminomethyl)-5-methylhexanoic acid)
 Propetandrol
 Prostanozol
 Quinbolone
