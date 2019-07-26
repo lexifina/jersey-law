@@ -1,6 +1,6 @@
 # Freedom of Information (Jersey) Law 2011
 
-L.17/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_17_2011_20190725>
+L.17/2011 · official consolidation showing the law from 2019-07-26 · <https://www.jerseylaw.je/laws/current/l_17_2011_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
