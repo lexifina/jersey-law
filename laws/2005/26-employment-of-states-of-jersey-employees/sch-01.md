@@ -14,3 +14,4 @@ Deputy Greffier of the States
 Master of the Royal Court
 Magistrate
 Information Commissioner
+Commissioner for Children and Young People (within the meaning of the Commissioner for Children and Young People (Jersey) Law 2019)

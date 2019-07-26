@@ -1,6 +1,6 @@
 # Employment of States of Jersey Employees (Jersey) Law 2005
 
-L.26/2005 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_26_2005_20190725>
+L.26/2005 · official consolidation showing the law from 2019-07-26 · <https://www.jerseylaw.je/laws/current/l_26_2005_20211221>
 
 | Provision | File | Heading |
 | --- | --- | --- |
