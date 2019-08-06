@@ -1,0 +1,1 @@
+THE MINISTER FOR THE ENVIRONMENT makes this Order under Articles 2(4B) and 29 of the Sea Fisheries (Jersey) Law 1994 and Regulations 5 and 5A of the Sea Fisheries (Miscellaneous Provisions) (Jersey) Regulations 1998 -
