@@ -1,6 +1,6 @@
 # Telecommunications (Jersey) Law 2002
 
-L.1/2002 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_2002_20190821>
+L.1/2002 · official consolidation showing the law from 2019-08-22 · <https://www.jerseylaw.je/laws/current/l_1_2002_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
