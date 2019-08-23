@@ -71,6 +71,26 @@ Commercial Buildings
 East side (between the southern boundary of “Professional Business Systems” and a point 12 yards north).
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
+East side (between a point 26 yards south of its junction with the Tunnel and a point 37 yards further south)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
+East side (between a point 104 yards south of its junction with the Tunnel and a point 137 yards further south)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
+East side (between a point 202 yards south of its junction with the Tunnel and a point 219 yards further south)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
+East side (between a point 254 yards south of its junction with the Tunnel and a point 263 yards further south)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
+East side (between a point 292 yards south of its junction with the Tunnel and a point 305 yards further south)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
 Commercial Street
 South side (between a point 9 yards east of Castle Street and a point 10 yards further east)
 20 minutes
@@ -108,6 +128,10 @@ North side (between a point 124 yards east of its junction with Castle Street an
 North side (between a point 14 yards east of the eastern boundary of “Marina Court” and a point 9 yards further east).
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
+South side (between a point 25 yards west of its junction with Castle Street to a point 20 yards further west)
+20 minutes
+5 a.m. to 6 p.m.
+Monday to Saturday
 Gloucester Street
 South side (between the eastern boundary of “Everton House” and the western boundary of No. 15)
 20 minutes
@@ -270,7 +294,7 @@ North side (between a point 49 yards east of the western boundary of No. 36 and 
 Esplanade
 North side (between a point 188 yards east of its junction with Castle Street and a point 12 yards further east)
 20 minutes
-2 a.m. to 3 p.m. Monday to Saturday
+5 a.m. to 6 p.m. Monday to Saturday
 Halkett Place
 East side (between a point 10 yards south of Queen Street and a point 15 yards further south)
 20 minutes

@@ -390,6 +390,8 @@ South side (between its junction with St. John’s Road and a point 22 yards wes
 South side (between a point 56 yards west of its junction with St. John’s Road and a point 80 yards further west)
 South side (between a point 120 yards west of its junction with St. John’s Road and a point 67 yards further west)
 South side (between the northern boundary of No. 35 Le Clos Vaze and the side of the unnamed access road forming the boundary of No. 44 Le Clos Vaze, and the side of the unnamed access road forming the boundary of No. 45 Le Clos Vaze)
+Both sides (from the western boundary of No. 45 Le Clos Vaze to the eastern boundary of No. 58 Le Clos Vaze)
+Both sides (from the eastern boundary of No. 58 Le Clos Vaze to the eastern boundary of No. 69 Le Clos Vaze)
 Le Geyt Street
 Both sides
 Le Quai aux Marchands
@@ -524,6 +526,8 @@ South side (between Elizabeth Place and Elizabeth Lane)
 South side (between St. John’s Road and a point 2 yards east of the northern corner of Le Verger Substation boundary)
 Paris Lane
 Both sides
+Patrick Freely Lane
+Both sides (between La Pouquelaye and Upper Clarendon Road)
 Patriotic Place
 Both sides
 Patriotic Street
@@ -595,7 +599,8 @@ South and west sides
 North and east sides (between the western boundary of “Shalimar” and a point 4 yards north of the northern boundary of “Newlands”)
 Roseville Street
 East side (between Colomberie and a point 20 yards south)
-East side (between a point 16 yards north of its junction with La Route du Fort and a point 16 yards south of Hastings Road)
+East side (between Hastings Road and a point 16 yards south)
+East side (between La Route du Fort and a point 16 yards north)
 East side (between La Route du Fort and a point 37 yards south)
 East side (between a point 4 yards north of the northern boundary of “Alphington” and a point 28 yards south of Croydon Road)
 East side (between the southern boundary of No. 87 and Havre des Pas)

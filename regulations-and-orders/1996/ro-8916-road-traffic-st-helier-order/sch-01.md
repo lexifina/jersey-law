@@ -143,8 +143,10 @@ Garden Lane (between Windsor Road and Dorset Street)
 Windsor Road to Dorset Street
 Garden Lane (between Windsor Road and Devonshire Place)
 Windsor Road to Devonshire Place
-Gas Place
-Bath Street to Oxford Road
+Gas Place (between David Place and Apsley Road)
+David Place to Apsley Road
+Gas Place (between Apsley Road and Chevalier Road)
+Chevalier Road to Apsley Road
 Gloucester Street (between the Parade (west side) and the Esplanade)
 The Parade (west side) to the Esplanade
 Gloucester Street (between the Parade (west side) and the Parade (east side))

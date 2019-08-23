@@ -29,6 +29,9 @@ at all times
 Garden Lane
 (between its junction with Dorset Street and its junction with Windsor Road)
 at all times
+Gas Place
+(between its junction with Chevalier Road and its junction with Common Lane)
+at all times
 Halkett Street
 at all times
 Hilgrove Street
@@ -102,6 +105,8 @@ Vehicle
 Charing Cross
 Pedal cycles
 (between its junction with Broad Street and its junction with Sand Street)
+Gas Place (between its junction with Chevalier Road and its junction with Common Lane)
+Pedal Cycles
 La Grande Route du Mont à l’Abbé (between St. John’s Road and the entrance to Chestnut Farm)
 Pedal cycles
 King Street (that part which forms its junction with New Street and New Cut)
