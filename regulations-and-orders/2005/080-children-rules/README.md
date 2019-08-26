@@ -1,6 +1,6 @@
 # Children Rules 2005
 
-R&O.80/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_80_2005_20190825>
+R&O.80/2005 · official consolidation showing the law from 2019-08-26 · <https://www.jerseylaw.je/laws/current/ro_80_2005_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,6 +30,7 @@ R&O.80/2005 · official consolidation showing the law from 2019-01-01 · <https:
 | Rule 23 | [rule-023.md](rule-023.md) | 23 Appeals from the Greffier |
 | Rule 24 | [rule-024.md](rule-024.md) | 24 Appeals to the Court of Appeal |
 | Rule 25 | [rule-025.md](rule-025.md) | 25 Confidentiality of documents |
+| Rule 25A | [rule-025-a.md](rule-025-a.md) | 25A Disclosure of documents: Inspections |
 | Rule 26 | [rule-026.md](rule-026.md) | 26 Notification of consent |
 | Rule 27 | [rule-027.md](rule-027.md) | 27 Exclusion requirements: interim care orders and emergency protection orders |
 | Rule 28 | [rule-028.md](rule-028.md) | 28 Investigation under Article 29 |
