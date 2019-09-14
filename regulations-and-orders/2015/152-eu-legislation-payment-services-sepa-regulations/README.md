@@ -1,6 +1,6 @@
 # EU Legislation (Payment Services - SEPA) (Jersey) Regulations 2015
 
-R&O.152/2015 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/ro_152_2015_20190913>
+R&O.152/2015 · official consolidation showing the law from 2019-09-14 · <https://www.jerseylaw.je/laws/current/ro_152_2015_20201230>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -50,6 +50,7 @@ R&O.152/2015 · official consolidation showing the law from 2019-05-31 · <https
 | Reg. 43 | [reg-043.md](reg-043.md) | 43 Right of recourse |
 | Reg. 44 | [reg-044.md](reg-044.md) | 44 Force majeure |
 | Reg. 44A | [reg-044-a.md](reg-044-a.md) | 44A Consent for use of personal data |
+| Reg. 44B | [reg-044-b.md](reg-044-b.md) | 44B Authentication |
 | Reg. 45 | [reg-045.md](reg-045.md) | 45 Interpretation of Part 4 |
 | Reg. 46 | [reg-046.md](reg-046.md) | 46 Object of Part 4 |
 | Reg. 47 | [reg-047.md](reg-047.md) | 47 Application of Part 4 |
