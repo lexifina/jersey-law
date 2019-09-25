@@ -30,9 +30,5 @@ The last Monday in August is to be observed as a public holiday.
 part 2
 (Article 1(2))
 rules for specific years
-A1 2011: Royal wedding
-Friday 29th April 2011 is to be observed as a public holiday.
-1 2012: Queen’s Diamond Jubilee
-In 2012 -
-(a) notwithstanding paragraph 5(3) of Part 1, Monday 4th June is to be observed as a public holiday instead of the last Monday in May; and
-(b) Tuesday 5th June is to be observed as a public holiday.
+2020: 75th anniversary of VE Day
+Friday 8th May 2020 is to be observed as a public holiday.
