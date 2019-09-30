@@ -8,7 +8,7 @@ Column 1
 Column 2
 Column 3
 Column 4
-South footway of La Route de la Libération between Albert Pier and Gloucester Street
+South footway of La Route de la Libération
 St. Helier
 Shared
 Both directions
@@ -34,8 +34,13 @@ Both directions
 East footway of La Route de Veulle, between the reclamation access road and Le Quai aux Marchands
 St. Helier
 Both directions
-West footway of Le Quai aux Marchands, between La Route de Veulle and the entrance to South Pier
+West footway of Le Quai aux Marchands, between La Route de Veulle and Commercial Buildings
 St. Helier
+Shared
+Both directions
+South and west footways of Commercial Buildings
+St. Helier
+Shared
 Both directions
 South footway of Gas Place, between Bath Street and Oxford Road
 St. Helier
@@ -47,6 +52,43 @@ Shared
 Both directions
 Le Perquage
 St. Lawrence
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from a point 62 yards south of the junction of La Vallée de St. Pierre and La Rue des Prés Sorsoleil to the east side of La Rue du Moulin de Tesson
+St. Lawrence
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from the west side of La Rue du Moulin de Tesson, to the south east side of Le Mont Fallu
+St. Lawrence
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from the north west side of Le Mont Fallu to the parish boundary with St. Peter
+St. Lawrence
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from the parish boundary with St. Lawrence to the south side of Le Mont des Louannes
+St. Peter
+Shared
+Both directions
+The path (to the south east of the junction of La Route de L’Aleval and La Vallée de St. Pierre) connecting La Vallée de St. Pierre with the way alongside La Vallée de St. Pierre
+St. Lawrence
+St. Peter
+Shared
+Both directions
+The path (to the west of the junction of La Route de L’Aleval and La Vallée de St. Pierre) connecting La Vallée de St. Pierre with the way alongside La Vallée de St. Pierre
+St. Peter
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from north side of Le Mont des Louannes to the south side of Le Mont du Presbytère
+St. Peter
+Shared
+Both directions
+The way alongside La Vallée de St. Pierre, from the north side of Le Mont du Presbytère to the south side of Le Mont de L’Ecole
+St. Peter
+Shared
+Both directions
+The way from a point 98 yards north of the junction of Le Mont L’Ecole and La Rue du Moulin de la Hague to the southernmost junction of La Vallée de Bas and La Rue de la Vallée.
+St. Peter
 Shared
 Both directions
 South footway at Charing Cross, St. Aubin, between Le Boulevard and La Rue au Moestre
@@ -68,6 +110,10 @@ Shared
 Both directions
 La Rue à Don promenade from Gorey Harbour
 St. Martin
+Shared
+Both directions
+The way east of the junction of La Rue Maraval with La Grande Route des Sablons to a point 62 yards north east of the junction of La Rue à Don and La Rue de la Ville es Renauds
+Grouville
 Shared
 Both directions
 The way on the north side of La Rue à Don from Prés de Douet to the Gorey Village road junction with La Rue Horman

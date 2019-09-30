@@ -1,6 +1,6 @@
 # Cycle Tracks (Jersey) Order 2000
 
-R&O.51/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_51_2000_20190929>
+R&O.51/2000 · official consolidation showing the law from 2019-09-30 · <https://www.jerseylaw.je/laws/current/ro_51_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
