@@ -33,7 +33,7 @@ calculated income
 (j) in the case of a household containing -
 (i) a child who meets the criteria in Regulation 2 of the Income Support (Special Payments) (Child Personal Care) (Jersey) Regulations 2014, and
 (ii) only one adult, where that adult is under pensionable age
-£13,706
+£13,706.
 (1A) In determining, for the purposes of sub-paragraph (1), the number of adults contained in a household there shall be disregarded any adult described in Article 5(2).
 (1B) Where, upon the death of an adult (the “deceased”), a household ceases to be a household containing 2 or more adults and becomes a household containing a sole adult, whichever of sub-paragraph (1)(c), (d) or (f) applied to the household immediately before the deceased’s death shall continue to apply to the household, for the period of 12 months following the deceased’s death.
 (2) The following capital shall also be disregarded -
@@ -42,7 +42,9 @@ calculated income
 (c) the value of assets integral to the running of any business owned by a member of the household for which a member of the household is normally engaged in remunerative work, or for which the person would be so engaged were he or she not prevented from being so engaged by reason of ill health, for a period of more than 26 weeks;
 (d) the household furniture and effects of any dwelling occupied by the household as its principal residence, and articles of clothing and personal effects of any member of the household, other than a motor vehicle or any item bought as an investment;
 (e) the value of such motor vehicles as are appropriate to the needs of the household;
-(f) any capital that has been accumulated solely to provide for the future care of a member of a household who meets the criteria for the rate of personal care element of the impairment component payable under paragraph 6(3)(c) of Schedule 1 to the Regulations, for as long as the member continues to meet that criteria;
+(f) for as long as the criteria in either clause (i) or (ii) is met, any capital that has been accumulated solely to provide for the future care of a member of a household who meets the criteria for -
+(i) the rate of personal care element of the impairment component for which provision is made under paragraph 6(3)(c) or 6(4) of Schedule 1 to the Regulations, or
+(ii) the rate of long-term care benefit for which provision is made under Article 8 of the Long-Term Care (Benefits) (Jersey) Order 2014;
 (g) any capital that has been accumulated solely to provide for the future care of a member of a household who is a child who meets the criteria in Regulation 3 of the Income Support (Special Payments) (Child Personal Care) (Jersey) Regulations 2014 for as long as the member continues to meet that criteria.
 (3) If the dwelling mentioned in sub-paragraph (2)(a) is not appropriate to the needs of the household the capital to be disregarded is the average market value of a dwelling that is so appropriate.
 (4) In this paragraph a dwelling is appropriate to the needs of the household if it is no larger than is reasonably necessary for that household or if, having regard to all the circumstances, it would be unreasonable to expect the household to move from that dwelling.
@@ -68,20 +70,20 @@ or over such other period as will most accurately enable average weekly earnings
 (5) If the calculation of the income of a household under paragraph (1) results in a zero or negative value, the income of the household shall be deemed to have a zero value.
 5 Percentage of income to be disregarded
 In assessing the weekly income of the household there shall be disregarded -
-(a) 25% of the earnings of any adults in the household;
+(a) 26% of the earnings of any adults in the household;
 (b) 100% of the earnings of any children in the household;
 (c)
-(d) 25% of any income derived from any qualifying maintenance payment received by any person in the household;
+(d) 26% of any income derived from any qualifying maintenance payment received by any person in the household;
 (da) 100% of any income derived from a pension received by any children in the household;
 (e)
 (f) the following pension income -
 (i) in the case of one existing pensioner in the household, whichever is the greater of -
 (A) 100% of the first £55.23 of his or her pension income, or
-(B) 25% of his or her pension income,
+(B) 26% of his or her pension income,
 (ii) in the case of any other existing pensioner in the household, whichever is the greater of -
 (A) 100% of the first £35.77 of his or her pension income, or
-(B) 25% of his or her pension income,
-(iii) in the case of any new pensioner in the household, 25% of his or her pension income;
+(B) 26% of his or her pension income,
+(iii) in the case of any new pensioner in the household, 26% of his or her pension income;
 (g)
 (ga)
 (h)

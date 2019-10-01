@@ -16,7 +16,7 @@ the determining officer shall not, in notifying that adult, provide that adult w
 (4A) In the case of a determination under Article 12(1A), a notice under this Article must also explain -
 (a) the effect of the determination;
 (b) the period for which the effect of the determination remains in force; and
-(c) the consequences of a failure, by the person to whom the notice relates, to comply with Regulation 4 of the 2007 Regulations whilst the effect of the determination remains in force.
+(c) the consequences of a failure, by the person to whom the notice relates, to comply with Regulation 4 of the Regulations whilst the effect of the determination remains in force.
 (5) A notice of a determination or redetermination -
 (a) may be sent by post; and
 (b) shall be treated as duly sent if sent to the person’s usual or last known address.
