@@ -1,6 +1,6 @@
 # Building Bye-laws (Jersey) 2007
 
-R&O.80/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_80_2007_20190930>
+R&O.80/2007 · official consolidation showing the law from 2019-10-01 · <https://www.jerseylaw.je/laws/current/ro_80_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |

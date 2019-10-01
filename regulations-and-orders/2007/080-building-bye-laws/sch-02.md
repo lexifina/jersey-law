@@ -31,7 +31,7 @@ To inhibit the spread of fire within a building, any material used to line a par
 (2) A wall common to 2 or more buildings must be designed and constructed so that it adequately resists the spread of fire between the buildings.
 (3) For the purpose of paragraph (2) a house in a terrace and a semi-detached house are separate buildings.
 (4) To inhibit the spread of fire within a building, the building must be sub-divided with fire resisting construction to the extent appropriate to the size and intended use of the building.
-2.4 External fire spread.
+2.4 External fire spread
 (1) The external walls of a building must adequately resist the spread of fire over the walls and from one building to another, having regard to the height, use and position of the building.
 (2) The roof of a building must adequately resist the spread of fire over the roof and from one building to another, having regard to the use and position of the building.
 2.5 Access and facilities for the fire service
@@ -45,10 +45,10 @@ PART 3 - COMBUSTION APPLIANCES AND FUEL STORAGE SYSTEMS
 (1) Combustion appliances must have adequate provision for the discharge of products of combustion to the outside air.
 (2) This requirement only applies to fixed combustion appliances (including incinerators).
 3.2A Warning of release of carbon monoxide
-(1) Where a combustion appliance is provided, appropriate provision must be made, having regard to the design and location of the appliance, to detect and give early warning of the release of carbon monoxide at levels harmful to persons.
-(2) This requirement only applies to fixed combustion appliances located in dwellings.
+Where a combustion appliance is installed, appropriate provision must be made, having regard to the design and location of the appliance, to detect and give early warning of the release of carbon monoxide at levels harmful to persons.
 3.3 Protection of Building
 (1) Combustion appliances and fluepipes must be so installed and fire-places and chimneys must be so constructed and installed, as to reduce to a reasonable level the risk of people suffering burns or the building catching fire in consequence of their use.
+(1A) Where a fixed gas burning appliance provided for the purpose of space heating, water heating or cooking is removed from a building, adequate provision must be made to prevent gas from the gas supply pipework escaping into the building.
 (2) This requirement only applies to fixed combustion appliances (including incinerators).
 3.4 Provision of information
 Where a hearth, fireplace, flue or chimney is provided or extended, a durable notice containing information on the performance capabilities of the hearth, fireplace, flue or chimney must be affixed in a suitable place in the building to enable combustion appliances to be safely installed.
@@ -69,15 +69,16 @@ that are located outside the building and that serve fixed combustion appliances
 A building must not be erected or increased in height so that any part of its roof within 2300 mm of the chimney or flue of another building -
 (a) if the roof of the other building is a pitched roof - is higher than 600 mm below the top of any chimney or flue passing through the ridge of that roof or is higher than 1000 mm below the top of any other chimney or flue on that roof; or
 (b) if the roof of the other building is not a pitched roof - is higher than 1000 mm below the top of any such chimney or flue.
-PART 4 - SITE PREPARATION AND RESISTANCE TO MOISTURE
+PART 4 - SITE PREPARATION AND RESISTANCE TO Contaminants and MOISTURE
 4.1 Preparation of site
-(1) The ground to be covered by a building must be reasonably clear of organic matter.
+(1) The ground to be covered by a building must be reasonably free from any material that might damage that building or affect its stability, including organic matter, topsoil and pre-existing foundations.
 (2) This requirement does not apply to a building used wholly to store goods or to accommodate plant or machinery, if anybody habitually employed in the building is not employed in the building otherwise than to store, to care for or to remove the goods, plant or machinery.
 (3) Nor does this requirement apply to a building to be used wholly for a purpose such that -
 (a) compliance with the requirement would not serve to increase protection to the health or safety of any person habitually employed in the building; or
 (b) non-compliance with the requirement would not cause damage to the fabric of the building.
-4.2 Resistance to contaminants
-Reasonable precautions must be taken to avoid danger to health or safety caused by substances found on or in the ground to be covered by a building.
+4.2 Precautions in relation to contaminants
+(1) Reasonable precautions must be taken to avoid danger to health and safety caused by contaminants on, or in the ground covered, or to be covered by a building and, contaminants on or in any land associated with that building.
+(2) For the purposes of this requirement, “contaminant” means any substance which is, or may become, harmful to persons or buildings including substances which are corrosive, explosive flammable, radioactive or toxic.
 4.3 Subsoil drainage
 (1) Subsoil drainage must be provided if it is needed to avoid -
 (a) the passage of ground moisture to the interior of a building; and
@@ -87,7 +88,11 @@ Reasonable precautions must be taken to avoid danger to health or safety caused 
 (a) compliance with the requirement would not serve to increase protection to the health or safety of any person habitually employed in the building; or
 (b) non-compliance with the requirement would not cause damage to the fabric of the building.
 4.4 Resistance to weather and ground moisture
-(1) The walls, floors and roof of a building must be capable of resisting the passage of moisture to the interior of the building.
+(1) The walls, floors and roof of a building must adequately protect that building and people who use it from harmful effects caused by -
+(a) ground moisture;
+(b) precipitation including wind-driven spray;
+(c) interstitial and surface condensation; and
+(d) spillage of water from, or associated with, sanitary fittings or fixed appliances.
 (2) This requirement does not apply to a building used wholly to store goods or to accommodate plant or machinery, if anybody habitually employed in the building is not employed in the building otherwise than to store, to care for or to remove the goods, plant or machinery.
 (3) Nor does this requirement apply to a building to be used wholly for a purpose such that -
 (a) compliance with the requirement would not serve to increase protection to the health or safety of any person habitually employed in the building; or
@@ -166,7 +171,7 @@ Any stairs, ramp, floor or balcony installed in or in connection with a building
 7.3 Vehicle barriers
 Any vehicle ramp installed in or in connection with a building, or any floor or roof area of a building to which vehicles have access, must be guarded with barriers if this is necessary to provide protection for people in or about the building.
 PART 8 - ACCESS TO AND USE OF BUILDINGS
-8.1 Access and use.
+8.1 Access and use
 (1) Reasonable provision must be made for people -
 (a) to gain access to; and
 (b) to use,
@@ -180,7 +185,7 @@ the building and its facilities.
 (a) an extension to a dwelling; or
 (b) an extension that is used solely to enable the building or any service or fitting in the building to be inspected, repaired or maintained.
 (3) Nor does this requirement apply where suitable access to the extension is provided through the extended building.
-8.3 Sanitary Conveniences in extensions to buildings.
+8.3 Sanitary Conveniences in extensions to buildings
 (1) If sanitary conveniences are provided in a building that is to be extended, reasonable provision must be made within the extension for sanitary conveniences.
 (2) This requirement does not apply to -
 (a) an extension to a dwelling; or
@@ -210,7 +215,7 @@ provide reasonable resistance to sound.
 9.3 Reverberation in the common internal parts of buildings containing flats or rooms for residential purposes
 (1) The common internal parts of buildings that contain flats or rooms for residential purposes must be designed and constructed in such a way as to prevent more reverberation around the common parts than is reasonable.
 (2) Sub-paragraph (1) only applies to corridors, stairwells, hallways and entrance halls that give access to a flat or room for residential purposes.
-9.4 Acoustic conditions in schools.
+9.4 Acoustic conditions in schools
 (1) Each room or other space in a school building must be designed and constructed in such a way that it has the acoustic conditions and the insulation against disturbance by noise appropriate to its intended use.
 (2) In sub-paragraph (1) -
 “school” means an institution used for full or part time education;
