@@ -1,6 +1,6 @@
 # Adoption Rules 1962
 
-R&O.4325 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_4325_20191008>
+R&O.4325 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/ro_4325_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
