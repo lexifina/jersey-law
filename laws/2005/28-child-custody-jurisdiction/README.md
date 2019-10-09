@@ -1,6 +1,6 @@
 # Child Custody (Jurisdiction) (Jersey) Law 2005
 
-L.28/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_28_2005_20191008>
+L.28/2005 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_28_2005_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
