@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20191008>
+R&O.86/2018 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20210225>
 
 | Provision | File | Heading |
 | --- | --- | --- |
