@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Law 2001
 
-L.31/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_31_2001_20191008>
+L.31/2001 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200324>
 
 | Provision | File | Heading |
 | --- | --- | --- |
