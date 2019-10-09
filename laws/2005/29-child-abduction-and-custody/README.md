@@ -1,6 +1,6 @@
 # Child Abduction and Custody (Jersey) Law 2005
 
-L.29/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_2005_20191008>
+L.29/2005 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_29_2005_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
