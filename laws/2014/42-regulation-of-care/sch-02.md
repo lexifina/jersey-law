@@ -27,7 +27,7 @@ In this Schedule, “JAC” means the Jersey Appointments Commission established
 4 Disqualification for appointment
 (1) A person cannot be a Commissioner if he or she is a member of the States of Jersey or of the States of Guernsey or Tynwald.
 (2) A person cannot be a Commissioner if the person -
-(a) is working or has worked, whether as a States’ employee or pursuant to a contract for services, in any administration of the States for which the Minister for Health and Social Services is responsible;
+(a) is working or has worked, whether as a States’ employee or pursuant to a contract for services, in any administration of the States for which the Minister for Health and Social Services or Minister for Children and Housing is responsible;
 (b) is working or has worked, whether as an employee or pursuant to a contract for services, for any public authority in Guernsey or the Isle of Man that provides substantially the same services as any administration described in clause (a);
 (c) has, or has had, any other interest in the provision of health or social care in Jersey, Guernsey or the Isle of Man, whether that interest is or was financial, or as an officer, member, trustee, employee or associate or otherwise.
 (3) A person is not precluded from being a Commissioner by reason only that he or she is or has been a user of any service provided by an administration or public authority described in sub-paragraph (2)(a) or (b) or any regulated activity.
