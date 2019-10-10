@@ -43,14 +43,22 @@ Peste de Petit Ruminants (Goat plague)
 Goats and sheep
 Porcine Epidemic Diarrhoea
 Swine
+Psittacosis (otherwise known as Ornithosis
+Birds
 Rift Valley fever
 Goats, sheep and cattle
+Rinderpest virus
+Cattle
 Sheep and goat pox
 Goats and sheep
 Sheep scab
 Sheep
 Swine influenza
 Swine
+Teschen disease
+Swine
+Trichinellosis
+Swine and horses
 Vesicular stomatitis
 Cattle, horses, swine
 West Nile fever

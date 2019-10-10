@@ -1,6 +1,6 @@
 # Animal Health (Miscellaneous Exotic Diseases) (Jersey) Order 2017
 
-R&O.12/2017 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_12_2017_20191009>
+R&O.12/2017 · official consolidation showing the law from 2019-10-10 · <https://www.jerseylaw.je/laws/current/ro_12_2017_20210819>
 
 | Provision | File | Heading |
 | --- | --- | --- |

@@ -23,4 +23,6 @@ Lumpy skin disease
 Peste des petit ruminants (Goat plague)
 Porcine Epidemic Diarrhoea
 Rift Valley fever
+Rinderpest virus
+Trichinellosis
 Vesicular stomatitis
