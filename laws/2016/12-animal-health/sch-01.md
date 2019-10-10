@@ -34,15 +34,19 @@ Newcastle disease
 Paramyxovirus infection
 Peste de Petit Ruminants (Goat plague)
 Porcine Epidemic Diarrhoea
+Psittacosis (also known as Ornithosis)
 Rabies
 Rabies in bats
 Rift Valley fever
+Rinderpest virus
 Scrapie
 Sheep and goat pox
 Sheep scab
 Small hive beetle
 Swine influenza
 Swine vesicular disease
+Teschen disease
+Trichinellosis
 Tropilaelops mite
 Vesicular stomatitis
 West Nile fever

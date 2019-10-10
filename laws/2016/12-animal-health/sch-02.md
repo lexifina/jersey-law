@@ -40,6 +40,7 @@ Newcastle disease (avian paramyxovirus type 1) viruses that are -
 (b) have an intracerebral pathogenicity index in one-day-old chicks of 0.4 or more, when not less than 10 million 50% egg infectious doses (EID50) are administered to each bird in the test.
 Nipah disease virus.
 Peste des petits ruminants virus.
+Psittacosis (also known as Ornithosis).
 Rabies virus and all viruses of the genus Lyssavirus.
 Rift Valley Fever virus.
 Rinderpest virus.

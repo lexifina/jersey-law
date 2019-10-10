@@ -1,6 +1,6 @@
 # Animal Health (Jersey) Law 2016
 
-L.12/2016 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/l_12_2016_20191009>
+L.12/2016 · official consolidation showing the law from 2019-10-10 · <https://www.jerseylaw.je/laws/current/l_12_2016_20191021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
