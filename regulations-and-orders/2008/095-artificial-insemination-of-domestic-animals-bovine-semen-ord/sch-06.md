@@ -7,5 +7,5 @@ duties of OPERATOR of on-farm bovine semen collection facilities
 (b) had not been vaccinated against foot and mouth disease within the preceding 30 days; and
 (c) had not been allowed to serve naturally since the date of the application for its approval for semen collection.
 3 The operator must ensure that when the semen collected is moved to a domestic collection centre for processing, it is also accompanied by a document that certifies that for at least the 3 months before the collection of the semen -
-(a) Jersey had been free from foot and month disease; and
+(a) Jersey had been free from foot and mouth disease; and
 (b) the place where the semen was collected had been free from the bovine diseases listed in Annex E(I) to Directive 64/432/EEC.
