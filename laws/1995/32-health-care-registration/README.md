@@ -1,6 +1,6 @@
 # Health Care (Registration) (Jersey) Law 1995
 
-L.32/1995 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_32_1995_20191014>
+L.32/1995 · official consolidation showing the law from 2019-10-15 · <https://www.jerseylaw.je/laws/current/l_32_1995_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |

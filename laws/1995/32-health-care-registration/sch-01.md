@@ -10,20 +10,24 @@ Clinical psychologist
 Clinical scientist
 Dietitian
 Midwife
-Midwife prescribing practitioner
 Nurse
-Nurse prescribing practitioner
+Nurse independent prescriber
 Occupational therapist
 Operating department practitioner
+Optometrist independent prescriber
 Orthoptist
 Osteopath
+Paramedic independent prescriber
+Pharmacist independent prescriber
 Physiotherapist
+Physiotherapist independent prescriber
 Podiatrist
+Podiatrist independent prescriber
 Psychotherapist
 Radiographer
 Registered nurse: first level
 Registered nurse: second level
 Social worker
 Specialist community public health nurse
-Specialist community public health nurse prescribing practitioner
 Speech and language therapist
+Therapeutic radiographer independent prescriber
