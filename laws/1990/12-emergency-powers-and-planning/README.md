@@ -1,6 +1,6 @@
 # Emergency Powers and Planning (Jersey) Law 1990
 
-L.12/1990 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_1990_20191018>
+L.12/1990 · official consolidation showing the law from 2019-10-19 · <https://www.jerseylaw.je/laws/current/l_12_1990_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,6 +14,7 @@ L.12/1990 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Powers of competent authority in relation to postal services |
 | Art. 7 | [art-007.md](art-007.md) | 7 Powers of competent authority in relation to gas |
 | Art. 8 | [art-008.md](art-008.md) | 8 Powers of competent authority in relation to food |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Powers of competent authority in relation to medical supplies |
 | Art. 9 | [art-009.md](art-009.md) | 9 Powers of competent authority in relation to water |
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Powers of competent authority in relation to port operations |
 | Art. 10 | [art-010.md](art-010.md) | 10 Documents and information |
@@ -24,6 +25,6 @@ L.12/1990 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 15 | [art-015.md](art-015.md) | 15 Notices, authorizations and proof of documents |
 | Art. 16 | [art-016.md](art-016.md) | 16 False documents and false statements |
 | Art. 17 | [art-017.md](art-017.md) | 17 Restriction on disclosing information |
-| Art. 18 | [art-018.md](art-018.md) | 18 Offences by corporations |
+| Art. 18 | [art-018.md](art-018.md) | 18 Offences: responsibility of directors, partners and officers etc. |
 | Art. 19 | [art-019.md](art-019.md) | 19 Offences and penalties |
 | Art. 20 | [art-020.md](art-020.md) | 20 Citation |
