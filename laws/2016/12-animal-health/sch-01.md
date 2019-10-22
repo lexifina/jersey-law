@@ -19,6 +19,7 @@ Contagious bovine pleuro-pneumonia
 Contagious epididymitis
 Contagious equine metritis
 Dourine
+Ebola in non-human primates
 Enzootic bovine leukosis
 Epizootic haemorrhagic disease
 Epizootic lymphangitis
