@@ -1,6 +1,6 @@
 # European Communities Legislation (Implementation) (Cattle Identification) (Jersey) Regulations 2002
 
-R&O.126/2002 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_126_2002_20191021>
+R&O.126/2002 · official consolidation showing the law from 2019-10-22 · <https://www.jerseylaw.je/laws/current/ro_126_2002_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
