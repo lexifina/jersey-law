@@ -1,6 +1,6 @@
 # Community Provisions (Bovine Embryos) (Jersey) Regulations 2010
 
-R&O.106/2010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_106_2010_20191021>
+R&O.106/2010 · official consolidation showing the law from 2019-10-22 · <https://www.jerseylaw.je/laws/current/ro_106_2010_20201207>
 
 | Provision | File | Heading |
 | --- | --- | --- |
