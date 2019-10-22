@@ -21,7 +21,7 @@ This prohibition does not apply to the importation of a live animal or an animal
 (a) that is imported from a member State in compliance with the EU Legislation (Veterinary and Zootechnical Checks - Trade with Member States) (Jersey) Regulations 2016; or
 (b) that originated outside the Community area and is imported in compliance with those Regulations, pursuant to Regulation 5(2) of the EU Legislation (Veterinary Checks - Imports from Third Countries) (Jersey) Regulations 2016.
 5
-Antilocapridae, Camelidae, Caprinae, Cervidae, Giraffidae, Suidae and Tragulidae.
+Antilocapridae, Camelidae, Caprinae, Cervidae, Elephantidae, Giraffidae, Hippopotamidae, Rhinocerotidae, Suidae, Tayassuidae and Tragulidae.
 All countries.
 6
 Semen, ova and embryos of Bovidae and of animals mentioned in prohibition Number 5.
