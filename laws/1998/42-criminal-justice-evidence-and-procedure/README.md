@@ -1,16 +1,15 @@
 # Criminal Justice (Evidence and Procedure) (Jersey) Law 1998
 
-L.42/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_42_1998_20191030>
+L.42/1998 · official consolidation showing the law from 2019-10-31 · <https://www.jerseylaw.je/laws/current/l_42_1998_20210930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | A LAW to provide in criminal proceedings for formal admissions of facts; for notice of alibis; for matters relating to t |
+| Long title | [long-title.md](long-title.md) | A LAW to provide in criminal proceedings for formal admissions of facts; for matters relating to the admissibility of ex |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Application |
 | Art. 3 | [art-003.md](art-003.md) | 3 Admissions of fact |
 | Art. 4 | [art-004.md](art-004.md) | 4 Effect of admission |
 | Art. 5 | [art-005.md](art-005.md) | 5 Withdrawal of admission |
-| Art. 6 | [art-006.md](art-006.md) | 6 Notice of alibi |
 | Art. 7 | [art-007.md](art-007.md) | 7 Notice of expert evidence in Royal Court |
 | Art. 8 | [art-008.md](art-008.md) | 8 Expert reports |
 | Art. 9 | [art-009.md](art-009.md) | 9 Admissibility of written statements as evidence |
