@@ -1,6 +1,6 @@
 # Magistrate’s Court (Miscellaneous Provisions) (Jersey) Law 1949
 
-L.7/1949 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_7_1949_20191030>
+L.7/1949 · official consolidation showing the law from 2019-10-31 · <https://www.jerseylaw.je/laws/current/l_7_1949_20200324>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,6 @@ L.7/1949 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 3 | [art-003.md](art-003.md) | 3 Maximum penalties |
 | Art. 4 | [art-004.md](art-004.md) | 4 Committal for sentence |
 | Art. 5 | [art-005.md](art-005.md) | 5 Saving |
-| Art. 6 | [art-006.md](art-006.md) | 6 Power to hear accused through television links |
 | Art. 7 | [art-007.md](art-007.md) | 7 Power to hear witnesses elsewhere than in court |
 | Art. 9 | [art-009.md](art-009.md) | 9 Summons |
 | Art. 11 | [art-011.md](art-011.md) | 11 Errors in summons |
