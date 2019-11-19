@@ -27,7 +27,16 @@ Finances of OFSO
 (a) raise sufficient income to enable the OFSO to carry out its functions under this Law; and
 (b) provide a reserve of such amount as the OFSO considers necessary for carrying out such functions.
 (6) Nothing in sub-paragraph (5) is to be read as requiring the OFSO to set any case-fee or levy in any particular financial year, if the board considers that its duty under sub-paragraph (4)(a) can be met without doing so.
-(7) For the purposes of sub-paragraphs (4)(a) and (5), in relation to the financial years 2014, 2015, 2016, 2017, 2018 and 2019, the references to financial service providers, fees, levy, resources, OFSO, income, functions and reserve are to be read as including references to the equivalents of those terms in any enactment in or under the Financial Services Ombudsman (Bailiwick of Guernsey) Law, 2014 of the Bailiwick of Guernsey, as amended from time to time during those financial years.
+(7) Sub-paragraph (8) applies in relation to any financial year if at any time in that year -
+(a) there is in force in or under the Guernsey Law a provision equivalent to sub-paragraph (8)(b) requiring cooperation with OFSO; and
+(b) there is an arrangement described in Article 6(1)(a) for the sharing of resources, which provides for the finances of the schemes to be united.
+(8) In relation to that financial year -
+(a) the references in sub-paragraphs (1) to (6) to financial service providers, fees, levy, resources, OFSO, income, functions and reserve are to be read as including references to the equivalents of those terms in any enactment in or under the Guernsey Law;
+(b) the OFSO must cooperate with the body that is equivalent to OFSO under the Guernsey Law in adopting and operating a joint budget, including a joint reserve;
+(c) the OFSO must publish the arrangement mentioned in sub-paragraph (7)(b) and ensure that an electronic copy is freely available to the public;
+(d) paragraph 1 is to be read as referring to joint accounts, records and reports for the OFSO and the body that is equivalent to OFSO under the Guernsey Law, and the OFSO must cooperate with that body in carrying out its functions under that paragraph; and
+(e) the OFSO must report to the Minister if it becomes aware that the condition in sub-paragraph (7)(a) is no longer met.
+(9) In sub-paragraphs (7) and (8) “Guernsey Law” means the Financial Services Ombudsman (Bailiwick of Guernsey) Law, 2014 of the Bailiwick of Guernsey, as amended from time to time.
 3 Case-fees
 (1) The States may by Regulations provide for fees (“case-fees”) to be payable by respondents to the OFSO in respect of complaints against them.
 (2) Without prejudice to the generality of sub-paragraph (1), Regulations under that sub-paragraph may -
