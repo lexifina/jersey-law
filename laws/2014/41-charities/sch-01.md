@@ -20,12 +20,12 @@ Jersey Charity Commissioner
 (2) The Commissioner is independent of the States and the Minister.
 (3) The terms and conditions of the appointment of the Commissioner must not be construed so as to create a contract of employment or agency between the States, or the Minister, and the person appointed.
 (4) Despite sub-paragraphs (2) and (3) -
-(a) the remuneration or other payment for services of the Commissioner, due under the terms of his or her appointment, must be paid out of the annual income of the States; and
+(a) subject to Article 20(1) of the Dormant Bank Accounts (Jersey) Law 2017, the remuneration or other payment for services of the Commissioner, due under the terms of his or her appointment, must be paid out of the annual income of the States; and
 (b) all fees and other sums received by the Commissioner in the exercise of his or her functions must be paid to the income of the States.
 3 Termination of office as Commissioner
 (1) A person ceases to be appointed as the Commissioner if -
 (a) he or she resigns from office by giving not less than 3 months’ notice in writing to the Minister;
-(b) the Minister terminates his or her appointment under sub‑paragraph (2); or
+(b) the Minister terminates his or her appointment under sub-paragraph (2); or
 (c) his or her appointment expires under sub-paragraph (4).
 (2) The Minister may terminate the appointment of a person as the Commissioner, after satisfying himself or herself that the person -
 (a) has been absent from his or her duties for a period longer than 4 consecutive weeks;
@@ -50,7 +50,7 @@ Jersey Charity Commissioner
 (b) there is a vacancy in the office of Commissioner,
 on a temporary basis until the Commissioner becomes able to act again or a new Commissioner is appointed under paragraph 1.
 (6) The Minister must provide such accommodation and equipment as the Minister considers are required for the proper and effective discharge of the Commissioner’s functions.
-(7) The cost of providing staff, accommodation and equipment under this paragraph must be met out of the annual income of the States.
+(7) Subject to Article 20(1) of the Dormant Bank Accounts (Jersey) Law 2017, the cost of providing staff, accommodation and equipment under this paragraph must be met out of the annual income of the States.
 (8) The Commissioner must prepare and publish a report on the activities of the Commissioner in each calendar year.
 (9) The Commissioner must provide the Minister with the report as soon as practicable after the end of the year to which the report relates, but in no case later than 4 months after the end of that year.
 (10) The Minister must lay a copy of the report so provided before the States as soon as practicable after the Minister receives the report.
