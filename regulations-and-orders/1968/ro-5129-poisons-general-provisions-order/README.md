@@ -1,6 +1,6 @@
 # Poisons (General Provisions) (Jersey) Order 1968
 
-R&O.5129 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5129_20191217>
+R&O.5129 · official consolidation showing the law from 2019-12-18 · <https://www.jerseylaw.je/laws/current/ro_5129_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |

@@ -54,7 +54,7 @@ Alteplase
 Alverine Citrate
 Amantadine Hydrochloride
 Amethocaine (except in preparations for non-parenteral use other than those for local opthalmic use.)
-Amidopyrine; its salts; amidopyrine sulphonates; their salts, p‑Aminobenzenesulphonamide; its salts; derivatives of p‑aminobenzenesulphonamide having any of the hydrogen atoms of the p‑animo group or of the sulphonamide group substituted by another radical; their salts; except when contained in ointments or surgical dressings or in preparations for the prevention and treatment of diseases in poultry.
+Amidopyrine; its salts; amidopyrine sulphonates; their salts, p-Aminobenzenesulphonamide; its salts; derivatives of p-aminobenzenesulphonamide having any of the hydrogen atoms of the p-animo group or of the sulphonamide group substituted by another radical; their salts; except when contained in ointments or surgical dressings or in preparations for the prevention and treatment of diseases in poultry.
 Amiloride Hydrochloride
 Aminocaproic Acid
 Aminoglutethimide
@@ -136,7 +136,7 @@ Chlorphenoxamine; its salts.
 Chlorphentermine; its salts.
 Chlorpropamide; its salts.
 Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts.
-Chlorthalidone and other derivatives of o-chlorobenzene sulphonamide
+Chlorthalidone and other derivatives of o -chlorobenzene sulphonamide
 Chorionic Godadotrophin
 Cilastatin Sodium
 Cilazapril

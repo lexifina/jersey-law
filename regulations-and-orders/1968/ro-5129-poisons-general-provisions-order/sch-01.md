@@ -55,7 +55,6 @@ Benzylmorphine; its salts.
 Betameprodine; its salts.
 Betaprodine; its salts.
 Busulphan; its salts.
-Cannabis; the resin of cannabis, extracts of cannabis; tinctures of cannabis; cannabin tannate.
 Cantharidin except substances containing less than 0.1% of cantharidin.
 Cantharidates except substances containing less than the equivalent of 0.01% of cantharidin.
 Carbachol.
