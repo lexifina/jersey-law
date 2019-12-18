@@ -103,7 +103,7 @@ Amidopyrine; its salts; amidopyrine sulphonates; their salts
 Amikacin Sulphate
 Amiloride Hydrochloride
 Amino-alcohols esterified with benzoic acid, phenylaceticacid, phenylpropionic acid, cinnamic acid or the derivatives of these acids; their salts
-p-Aminobenzenesulphonamide; its salts; derivatives of p‑aminobenzenesulphonamide having any of the hydrogen atoms of the p‑amino group or of the sulphonamide group substituted by anotherradical; their salts
+p-Aminobenzenesulphonamide; its salts; derivatives of p‑aminobenzenesulphonamide having any of the hydrogen atoms of the p-amino group or of the sulphonamide group substituted by anotherradical; their salts
 p-Aminobenzoic acid, esters of; their salts
 Aminocaproic Acid
 Aminoglutethimide
@@ -291,8 +291,6 @@ Calcium Carbimide
 Calcium Folinate
 Calcium Metrizoate
 Candicidin
-Cannabinol and its tetrahydro derivatives, prepared wholly or partly by synthesis; their 3-alkyl homologues; any esters or ether of any substance falling within this item
-Cannabis (the dried flowering or fruiting tops of Cannabis Sativa Linn); the resin of cannabis; extracts of cannabis; tinctures of cannabis; cannabin tannate
 Canrenoic Acid
 Cantharidin; cantharidates
 Capreomycin Sulphate

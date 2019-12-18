@@ -1,6 +1,6 @@
 # Poisons List (Jersey) Order 1986
 
-R&O.7526 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7526_20191217>
+R&O.7526 · official consolidation showing the law from 2019-12-18 · <https://www.jerseylaw.je/laws/current/ro_7526>
 
 | Provision | File | Heading |
 | --- | --- | --- |
