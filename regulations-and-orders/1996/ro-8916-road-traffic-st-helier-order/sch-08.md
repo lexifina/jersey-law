@@ -105,7 +105,6 @@ Halkett Place
 East side (between Burrard Street and a point 26 yards north of Beresford Street)
 East side (between a point 27 yards north of Burrard Street and a point 2 yards north of the northern boundary of Halkett Villas)
 West side (between Burrard Street and a point 26 yards north of Beresford Street)
-West side (between the northern boundary of the “Mechanics Institute” and a point 11 yards south)
 Hope Street
 South side (between Wharf Street and a point 27 yards west of Bond Street)
 Hilary Street
@@ -119,7 +118,7 @@ North side (between a point 10 yards west of Great Union Road and a point 13 yar
 Mont Cochon
 West side (between a point 37 yards north of its junction with La Route de St. Aubin and a point 32 yards further north)
 Parade, The (eastern arm)
-West side (between a point 23 yards north of its junction with Union Street and a point 90 yards further north)
+West side (between a point 29 yards north of its junction with Union Street and a point 84 yards further north)
 Parade, The (western arm)
 East side (between a point 43 yards south of Gloucester Street and a point 32 yards further south)
 West side (between a point 22 yards north of the northern boundary of the Town Hall and a point 11 yards further north)
@@ -345,3 +344,10 @@ Part 14
 Special Business Parking Permit Area
 Seale Street
 North side (between the western boundary of No. 20 and a point 16 yards further west)
+Part 15
+(Article 27B)
+car club permit parking
+Halkett Place
+West side (from a point 30 yards north of its junction with Burrard Street to a point 11 yards south)
+Parade, The (eastern arm)
+West side (between a point 23 yards north of its junction with Union Street and a point 6 yards further north)
