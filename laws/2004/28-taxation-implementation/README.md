@@ -1,6 +1,6 @@
 # Taxation (Implementation) (Jersey) Law 2004
 
-L.28/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_28_2004_20191231>
+L.28/2004 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_28_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
