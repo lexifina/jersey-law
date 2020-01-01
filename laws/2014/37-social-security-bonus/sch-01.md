@@ -95,7 +95,7 @@ the period of 2 years referred to in sub-paragraph (1) is extended to the date o
 (d) in relation to the applicant only -
 (i) confirmation of that person’s period of ordinary residence in Jersey, and
 (ii) details of a bank account, if available, into which the cold weather bonus can be paid, including the name of the bank, the sort code, the account number and the name of the account holder.
-(3) The determining officer may treat an application as not having been made unless and until each adult member of the household has taken any step requested of that member by the determining officer to assist in enabling the Comptroller of Taxes to release to the determining officer any information that -
+(3) The determining officer may treat an application as not having been made unless and until each adult member of the household has taken any step requested of that member by the determining officer to assist in enabling the Comptroller of Revenue to release to the determining officer any information that -
 (a) is held by the Comptroller; and
 (b) is required by the determining officer in order to determine whether the household meets the second condition, as set out in paragraph 3(3).
 8 Persons unable to act

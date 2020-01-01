@@ -1,6 +1,6 @@
 # Social Security (Bonus) (Jersey) Law 2014
 
-L.37/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_37_2014_20191231>
+L.37/2014 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_37_2014_20220927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
