@@ -1,6 +1,6 @@
 # Stamp Duties and Fees (Jersey) Law 1998
 
-L.8/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1998_20191231>
+L.8/1998 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1998_20201231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

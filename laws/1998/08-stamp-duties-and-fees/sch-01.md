@@ -106,7 +106,7 @@ where Y is the gross value of the property or, where the dwelling has not been c
 Billet
 Greffier
 (b)
-Where the borrower produces to the designated officer a letter from the Comptroller of Taxes confirming that it qualifies for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+Where the borrower produces to the designated officer a letter from the Comptroller of Revenue confirming that it qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961
 £5
 Billet
 Greffier
@@ -424,7 +424,7 @@ where Y is the gross value of the property or, where the dwelling has not been c
 Contract
 Greffier
 (d1)
-Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, where the borrower produces to the designated officer a letter from the Comptroller of Taxes confirming that the relevant contracts qualify for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, where the borrower produces to the designated officer a letter from the Comptroller of Revenue confirming that it qualifies for exemption from income tax under Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961
 rate F
 Contract
 Greffier
@@ -559,7 +559,9 @@ rate E
 Copy of contract
 Greffier
 (t)
-Of sale within the terms of paragraph (a) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Taxes confirming that it qualifies for exemption from income tax pursuant to Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961
+Of sale within the terms of paragraph (a) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Revenue confirming that the purchaser, donee, lessee, sub-lessee or transferee -
+(a) qualifies for exemption from income tax under Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961; or
+(b) is a company prescribed under Article 2 of the Social Housing (Transfer) (Jersey) Law 2013, and qualifies for exemption from income tax under Article 115(c) of the Income Tax (Jersey) Law 1961
 rate F
 Contract
 Greffier
@@ -1276,8 +1278,8 @@ Greffier
 Notwithstanding paragraphs (1) and (2) -
 (A) where the testator devises to his or her spouse or civil partner a property which, at the time of the testator’s death, was their matrimonial home or civil partnership home, as the case may be, the net value of that property shall be disregarded in determining the net value of the immoveable property devised;
 (AA) where the testator devises immovable property, whether as sole devisee or jointly with others -
-(a) to a corporation, association or trust, or a non-profit organization, described in Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961; and
-(b) that body produces to the Greffier a letter from the Comptroller of Taxes confirming that the body qualifies for exemption under one of those provisions,
+(a) to a corporation, association or trust, or a non-profit organization, described in Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961, or to a social housing provider qualifying for exemption from income tax under paragraph (ae) of that Article; and
+(b) that body produces to the Greffier a letter from the Comptroller of Revenue confirming that the body qualifies for exemption under one of those provisions,
 the only fee payable by the body shall be the fee payable under paragraph (2)(a) or, as the case may be, (2)(b) (but any other devisees shall be liable to pay the fees required by this item based on the net value of that part of the property not devised to the body);
 (B) where the will devises all the immovable property of the testator to those persons to whom the property would have passed on an intestacy and in the same shares, the only fee payable shall be that specified in paragraph (2)(a) or, as the case may be, (2)(b); and
 (C) on the annulment of a will by the Court, the Greffier shall on application issue a certificate authorizing the Treasurer of the States to reimburse to the applicant the amount of the fee originally paid or so much thereof as the Greffier shall determine.
