@@ -1,6 +1,6 @@
 # Proceeds of Crime (Financial Intelligence) (Jersey) Regulations 2015
 
-R&O.28/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_28_2015_20191231>
+R&O.28/2015 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_28_2015_20230724>
 
 | Provision | File | Heading |
 | --- | --- | --- |
