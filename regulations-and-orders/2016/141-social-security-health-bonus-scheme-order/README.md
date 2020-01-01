@@ -1,6 +1,6 @@
 # Social Security (Health Bonus Scheme) (Jersey) Order 2016
 
-R&O.141/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_141_2016_20191231>
+R&O.141/2016 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_141_2016_20230831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
