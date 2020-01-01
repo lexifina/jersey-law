@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Existing Members) (Jersey) Regulations 1989
 
-R&O.7954 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_7954_20191231>
+R&O.7954 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_7954_20200720>
 
 | Provision | File | Heading |
 | --- | --- | --- |
