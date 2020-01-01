@@ -20,20 +20,18 @@ Additional amount payable for grant or issue of licence where applicant requests
 £25
 Prescribed test
 Compulsory basic training course (and giving of compulsory basic training certificate if successful)
-£127
+£130
 Duplicate copy of compulsory basic training certificate
 £12
-Off road theory test other than in respect of C and D vehicles
-£35
-Off road theory test in respect of C and D vehicles
-£43
-On road practical test other than -
-(a) in respect of category C and D vehicles; and
-(b) in respect of category A1, A and P vehicles, where the applicant is required to produce a compulsory basic training certificate
-£52
+Off road theory test other than in respect of category C and D vehicles
+£36
+Off road theory test in respect of category C and D vehicles
+£44
+On road practical test other than in respect of category A1, P, C and D vehicles
+£53
 On road practical test in respect of category C and D vehicles
-£97
-On road practical test in respect of category A1, A or P vehicles by an applicant required to produce a compulsory basic training certificate
-£45
+£99
+On road practical test in respect of category A1 and P vehicles
+£46
 Duplicate copy of certificate or statement in respect of result of theory test or practical test
 £12
