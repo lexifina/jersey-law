@@ -2,45 +2,43 @@
 (Article 1(2) to (4))
 fees
 Part 1 - Applications
-Fee £
+Fee (£)
 Licence application -
 high regulatory requirement
-2438.48
+2,499.50
 medium regulatory requirement
-1980.30
+2,029.80
 low regulatory requirement
-1483.18
+1,520.25
 Licence modification -
 significant modification
-992.20
+1,017.00
 minor modification
-495.08
+507.45
 Licence transfer -
-495.08
+507.45
 Licence surrender -
 high regulatory requirement
-2439.50
+2500.00
 medium regulatory requirement
-1932.00
+1,980.30
 low regulatory requirement
-1447.00
+1,483.10
 Waste carriers registration -
 application
-126.08
+129.20
 on triennial renewal
-126.08
+129.20
 Transboundary consignment note -
 Application
-1340.70
+1,374.20
 shipment fee - for each permitted shipment
-118.90
-Internal consignment note -
-0.52
+121.85
 Part 2 - Annual fees
 Licence subsistence -
 high inspection frequency
-13692.98
+14,035.30
 medium inspection frequency
-6844.95
+7,016.00
 low inspection frequency
-3424.53
+3510.10
