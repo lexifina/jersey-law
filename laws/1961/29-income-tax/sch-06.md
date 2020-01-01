@@ -89,22 +89,7 @@ In this Schedule -
 (3) If the non-resident has been assessed to, but has not paid, tax on income in Jersey for any year preceding the year in which the notice is issued, the Comptroller may, for the purpose of collecting that tax, specify in the notice a rate exceeding the standard rate but not exceeding the maximum rate that would apply in the non-resident’s case by virtue of paragraph 3(3A).
 (4) The Comptroller shall send a copy of a notice issued under sub-paragraph (2) to the non-resident at the address provided by the tenant in accordance with paragraph 4(5) as applied by sub-paragraph (5) of this paragraph or, if none has been provided, at the address of the property in Jersey.
 (5) Sub-paragraphs (4) to (13) of paragraph 4 shall apply for the purposes of this paragraph as if any reference in them to the deduction and retention of monies pursuant to sub-paragraph (2) of that paragraph was a reference to the deduction and retention of monies pursuant to sub-paragraph (2) of this paragraph.
-5 Duty of agent to make annual return
-(1) A person who, at any time during a year, has been an agent shall, no later than 31st March following that year, make a return to the Comptroller for that year in respect of each non-resident for whom he or she was an agent during that year.
-(2) The return required by sub-paragraph (1) shall -
-(a) contain the information specified in sub-paragraph (3); and
-(b) be in the form, delivered in the manner and accompanied by the declaration required by the Comptroller.
-(3) The information specified, in respect of each non-resident is -
-(a) the non-resident’s name and address and the reference number (if any) assigned to the non-resident by the Comptroller,
-(b) in respect of each property of which, during the year, the agent has had direction, control or management on behalf of the non-resident -
-(i) the address of the property,
-(ii) the name and, if different, the address of the tenant of the property,
-(iii) the aggregate amount of rent paid in respect of the property during the year,
-(iv) the aggregate amount of tax deducted from that rent, or that no tax has been deducted, pursuant to a certificate,
-(v) where the tenancy of the property commenced during the year, the date it commenced,
-(vi) where the tenancy of the property ended during the year, the date it ended.
-(4) The person making the return shall provide the non-resident to whom the information required by sub-paragraph (3) relates with a copy of that information.
-(5) A person who does not comply with this paragraph shall be guilty of an offence and liable to a fine of level 3 on the standard scale.
+5
 6 Duty of tenant to make annual return
 (1) A person who, at any time during a year, has been a tenant required to deduct and retain tax under paragraph 4 or 4A shall, no later than 31st March following that year, make a return to the Comptroller in respect of each non-resident to whom he or she paid rent after deduction of tax pursuant to that paragraph.
 (2) The return required by sub-paragraph (1) shall -

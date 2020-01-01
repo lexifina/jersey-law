@@ -4,7 +4,7 @@
 (a) acquiring land for the purpose of letting the whole or substantially the whole of it on open market terms (including terms as to rent) to a person (other than the person by whom the interest is payable or a person connected with him or her);
 (b) extending a building acquired for the purpose described in sub-paragraph (a); or
 (c) paying off another loan, interest on which would have been eligible for relief under this paragraph had the loan not been paid off,
-the person by whom the interest is payable, on proof of the facts to the satisfaction of the Comptroller, shall be entitled to relief of tax on the amount of the interest paid out of profits or gains of the letting of the land brought into charge to tax.
+the person by whom the interest is payable shall be entitled to relief of tax on the amount of the interest paid out of profits or gains of the letting of the land brought into charge to tax.
 (3) Paragraph (2) shall not apply to a loan for the purpose described in sub-paragraph (a) or (b) of that paragraph unless the letting on open market terms commences within what is, in the circumstances, a reasonable time following the advance of the loan or the first instalment of it.
 (4) Where -
 (a) part of the land is occupied by the person by whom the interest is payable or a person connected with him or her; or

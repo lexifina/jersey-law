@@ -39,7 +39,7 @@ I is the total of the sums for which the employee has been or is liable to be as
 (b) the day on which a rate specified in a further notice has effect; or
 (c) the end of the current year.
 (11) An employee aggrieved by the rate applicable in his or her case, or by a refusal by the Comptroller to issue a notice under this Article, may appeal to the Commissioners, on giving notice in writing to the Comptroller -
-(a) within 40 days of the issue of a notice under of this Article; or
+(a) within 40 days of the issue of a notice under this Article; or
 (b) where the Comptroller has not issued a notice to the employee, within 40 days of providing the Comptroller with sufficient information to determine a rate under this Article.
 (12) The rate notified to the employee or, in the case where no rate has been notified to the employee, the rate applicable by virtue of Article 41B(2)(b), shall apply in the employee’s case notwithstanding that an appeal is pending under paragraph (11) of this Article.
 (13) Save as provided in paragraphs (11) and (12), Part 6 shall apply, with the necessary modifications, to an appeal under paragraph (11) as it applies to an appeal against any assessment.

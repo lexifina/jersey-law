@@ -33,8 +33,8 @@ whichever is the lowest, but no amount which qualifies for relief under any othe
 (ii) who is entitled to an additional allowance under Article 98A; or
 (c) an individual in whose case the exemption threshold described in Article 92A(6) applies and who has qualifying income;
 “qualifying child” means a child in respect of whom an eligible claimant is entitled to an exemption threshold increase under Article 95 and who has not attained the age of 13 years in the year of assessment;
-“qualifying income” means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I or II of Schedule D or under Schedule A pursuant to Article 51(1)(b) or (c), excluding -
-(a) for the purposes of sub-paragraph (a) of the definition “eligible claimant”, the first £5,000 of such income for the year of assessment;
+“qualifying income” means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I, II or IIA of Schedule D or under Schedule A pursuant to Article 51(1)(b) or (c), excluding -
+(a) for the purposes of sub-paragraph (a) of the definition “eligible claimant”, the first £6,250 of such income for the year of assessment;
 (b) in the case of an individual who is an eligible claimant by virtue of sub-paragraph (c) of the definition “eligible claimant”, the first £4,500 of such income for the year of assessment; and
 (c) in the case of an individual who is married or in a civil partnership, earned income received or receivable by the individual from his or her spouse or civil partner;
 “registered day carer” means a day carer registered under the Day Care of Children (Jersey) Law 2002 or a person taken to have been so registered by virtue of Article 13 of that Law.

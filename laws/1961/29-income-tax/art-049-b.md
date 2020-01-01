@@ -27,7 +27,9 @@
 (a) at the end of the heading there shall be added the words “and LTC contributions”;
 (b) in paragraphs (1), (2), (3) and (4), for the words “the effective rate” there shall be substituted the words “the combined effective rate”;
 (c) for paragraph (2)(b) there shall be substituted the following sub-paragraph -
-“(b) where the employer has not received a copy of such a notice, for deductions made in the year 2015 and ensuing years, 21%.”;
+“(b) where the employer has not received a copy of such a notice -
+(i) for deductions made in the years 2015 to 2019 inclusive, 21%,
+(ii) for deductions made in the year 2020 and ensuing years, 22%.”;
 (d) in paragraph (5A) for the words beginning “the Comptroller may” to the end of the paragraph there shall be substituted the words -
 “the Comptroller -
 (i) may, to the best of the Comptroller’s information and judgement, make an estimate of the amount of tax required to be remitted under paragraph (5) or (5AA) and calculate, by reference to that estimate, the corresponding amount of LTC contribution required to be remitted; and
@@ -60,8 +62,13 @@ rounded up to the nearest whole number; and
 (b) the balance of the revised sum of the employee’s LTC contribution for the year and the aggregate of any LTC contributions unpaid by the employee for any preceding years that has not been recovered in the preceding part of the current year.”;
 (i)
 (j)
-(k) in paragraph (9) for the words “The rate determined by the Comptroller in accordance with paragraphs (2)” there shall be substituted the words “The combined effective rate determined by the Comptroller in accordance with paragraphs (3)”;
-(l) in paragraph (9)(a) for the rate “20%” there shall be substituted the rate “21%”;
+(k)
+(l) for paragraph (9) there shall be substituted -
+“(9) The combined effective rate determined by the Comptroller in accordance with paragraphs (3) to (7B) shall not exceed -
+(a) in a case where the employee has no arrears of tax, 22%;
+(b) in a case where the employee has arrears of tax for one year of assessment, 27%;
+(c) in a case where the employee has arrears of tax for 2 years of assessment, 32%;
+(d) in a case where the employee has arrears of tax for 3 or more years of assessment, 37%.”;
 (la) in paragraph (9A) for the words “a rate” there shall be substituted the words “a combined effective rate”;
 (lb) in paragraph (9B) for the words “the rate” in the first place that they appear there shall be substituted the words “the combined effective rate,”;
 (m) in paragraph (11) for the words “the rate” there shall be substituted the words “the effective rate”;
@@ -87,7 +94,8 @@ rounded up to the nearest whole number; and
 (h) in paragraph (11) after the words “a payment of tax” there shall be inserted the words “and LTC contribution”;
 (i) in paragraph (15) for sub-paragraph (b) there shall be substituted the following sub-paragraphs -
 “(b) for deductions made in the years 2008 to 2014 inclusive, 20%;
-(c) for deductions made in the year 2015 and ensuing years, 21%, being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 1% for the purposes of deduction of LTC contributions.”.
+(c) for deductions made in the years 2015 to 2019 inclusive, 21% being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 1% for the purposes of deductions of LTC contributions;
+(d) for deductions made in the year 2020 and ensuing years, 22% being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 2% for the purposes of deductions of LTC contributions.”.
 (6) Where the Comptroller receives an amount remitted under Article 41A, as modified by this Article, as a payment of tax and LTC contribution by an insured person, the Comptroller shall, before Article 41G is applied -
 (a) deduct from the amount received a sum that bears the same proportion to the whole as the LTC portion of the instalment bears to the tax portion of the instalment; and
 (b) remit the sum deducted to the Minister for Social Security.
@@ -97,13 +105,10 @@ rounded up to the nearest whole number; and
 (8) Where the Comptroller receives an amount remitted under Article 41E, as modified by this Article, as a payment of tax and LTC contributions in respect of an insured person, the Comptroller shall, before Article 41G is applied -
 (a) deduct from the amount received a sum that bears the same proportion to the whole as the LTC rate specified in Article 41E as modified by this Article bears to the income tax rate also specified in that provision; and
 (b) remit the sum deducted to the Minister for Social Security.
-(8A) Where an insured person liable to pay a surcharge under Article 41I is also liable, pursuant to paragraph 4A of Schedule 1D to the 1974 Law, to pay an LTC surcharge, Article 41I shall have effect with the following modifications -
-(a) for paragraph (4) there shall be substituted the following paragraph -
-“(4) The Comptroller shall issue a written notice to a person of his or her liability under paragraph (2) and of his or her liability to an LTC surcharge under paragraph 4A of Schedule 1D to the 1974 Law.”;
-(b) at the end of paragraph (6) there shall be added the words “under paragraph (2)”.
-(8B) Where the Comptroller receives an LTC surcharge paid under paragraph 4A of Schedule 1D to the 1974 Law and Article 41I of this Law as modified by paragraph (8A), the Comptroller shall remit the sum to the Minister for Social Security.
+(8A)
+(8B)
 (9) Nothing in the modifications of this Part shall be taken -
 (a) to confer a right of appeal under this Law in respect of a person’s liability for or the amount of an LTC contribution;
 (b) to confer a right of appeal under this Law against so much of a combined effective rate as is an LTC contribution effective rate;
 (c) to make it an offence under this Law to fail to remit an LTC contribution to the Comptroller or to do any other thing in relation to LTC contributions.
-(10) Schedule 1A reproduces Articles 41A, 41B, 41C, 41E and 41I as modified by this Article.
+(10) Schedule 1A reproduces Articles 41A, 41B, 41C and 41E as modified by this Article.

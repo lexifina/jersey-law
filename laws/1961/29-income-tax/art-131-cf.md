@@ -1,5 +1,5 @@
 # 131CF Permitted commutation - thirty percent of net fund value
-(1) An approved Jersey scheme may permit the pension holder to elect to commute, on one or more occasions, up to 30% of the net fund value if, on the day the election is made, the pension holder has attained the age of 50 but has not attained the age of 75.
+(1) An approved Jersey scheme may permit the pension holder to elect to commute, on one or more occasions, a lump sum of up to 30% of the net fund value if, on the day the election is made, the pension holder has attained the age of 50 but has not attained the age of 75.
 (2) Subject to paragraph (4A), in this Article, “net fund value” means the fund value on the day the election is made less -
 (a) for each relevant amount previously commuted from the scheme, the sum of A and B where -
 (i) A is the amount commuted, multiplied by 7 and then divided by 3, and

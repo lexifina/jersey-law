@@ -1,10 +1,10 @@
 # SCHEDULE 1A
 (Article 49B(10))
-ARticles 41A, 41B, 41C, 41E AND 41I as modified by article 49B in their application to persons liable to pay an ltc contribution
-41A Duty to pay instalment in April
+ARticles 41A, 41B, 41C AND 41E as modified by article 49B in their application to persons liable to pay an ltc contribution
+41A Duty to pay instalment in May (individuals and unincorporated bodies)
 (1) Subject to paragraph (12), a person who is not a body corporate shall, in accordance with this Article, pay an instalment of income tax [and LTC contribution] for a year of assessment.
 (2) The instalment -
-(a) shall be due and payable no later than 6 p.m. on the last Friday in April of the year next following the year of assessment; and
+(a) shall be due and payable no later than midnight on 31st May of the year next following the year of assessment; and
 [(b) subject to this Article, shall be an amount equal to the sum of -
 (i) the tax portion of the instalment, being 50% of the person’s liability to income tax for the year preceding the year of assessment, less the amount of any tax already paid in respect of the year of assessment (disregarding any amount paid by way of deduction under Article 41B or 41E), and
 (ii) the LTC portion of the instalment, being 50% of the person’s estimated LTC contribution for the year in which the instalment is due calculated in accordance with paragraph 2A(2)(ii) and (4)(a) of Schedule 1D to the 1974 Law (disregarding any amount paid by way of deduction under Article 41B or 41E).]
@@ -32,11 +32,13 @@ paragraph (2)(b) shall have effect with the substitution for the amount “50%�
 (1) An employer shall, in accordance with this Article, deduct tax at [the combined effective rate] from earnings payable by the employer to an employee, including any payments made by an employer that fall within Article 62D.
 (2) [The combined effective rate] shall be -
 (a) where the employer has received a copy of a notice issued by the Comptroller under Article 41C specifying a rate applicable on the day the deduction is made, the rate so specified;
-[(b) where the employer has not received a copy of such a notice, for deductions made in the year 2015 and ensuing years, 21%.]
+[(b) where the employer has not received a copy of such a notice -
+(i) for deductions made in the years 2015 to 2019 inclusive, 21%,
+(ii) for deductions made in the year 2020 and ensuing years, 22%.]
 (3) When making a deduction under paragraph (1), an employer shall give the employee written notice of the amount of the deduction and [the combined effective rate] applied to the deduction.
 (4) An employer shall maintain a record of the amount of tax deducted and [the combined effective rate] applied to the deduction in respect of each of his or her employees.
 (5) Subject to paragraph (5AA), an employer shall, no later than 15 days after the end of each month, remit to the Comptroller an amount equal to the aggregate of the amounts required to be deducted under paragraph (1) during the month in respect of each of his or her employees.
-(5AA) Provided that the conditions in paragraph (5AB) are met, in the case of an employer which is a company, the employer may, instead of complying with paragraph (5), remit to the Comptroller no later than 15 days after the end of each year an amount equal to the aggregate of the amounts required to be deducted under paragraph (1) during the year in respect of each of his or her employees.
+(5AA) Provided that the conditions in paragraph (5AB) are met, in the case of an employer which is a company, the employer may, instead of complying with paragraph (5), remit to the Comptroller no later than midnight on the 15th day after the end of each year, an amount equal to the aggregate of the amounts required to be deducted under paragraph (1) during the year in respect of each of his or her employees.
 (5AB) Those conditions are that -
 (a) an application is made in writing to the Comptroller by a director of the company for paragraph (5AA) to apply;
 (b) the director who makes the application owns at least 25% of the ordinary share capital of the company; and
@@ -52,11 +54,11 @@ paragraph (2)(b) shall have effect with the substitution for the amount “50%�
 (b) the latest date on which an appeal against [the estimate of the amount of tax] required to be paid may be made; and
 (c) the date by which [the amount required to be paid,] failing the making of an appeal, is required to be paid, such date being no earlier than 15 days from the date of the notice.
 (5C) If, at any time, the Comptroller discovers, by reason of receiving a return from the employer under Article 20 or for any other reason, that the amount of the estimate specified in a notice under paragraph (5A) is incorrect, the Comptroller may cancel the notice and serve on the employer a further notice under paragraph (5A) requiring a revised amount to be paid and containing the information described in paragraph (5B).
-(5D) An employer shall comply with any notice served on the employer contractor under paragraph (5A).
+(5D) An employer shall comply with any notice served on the employer under paragraph (5A).
 (5E) Part 6 shall apply, with the necessary modifications, to an appeal against an estimate under paragraph (5A) as it applies to an appeal against an assessment and as if for the number “40” in Article 27(1) there were substituted the number “15”.
 (6) An employer shall, no later than the end of January following a year of assessment, give each of the persons in his or her employment at the end of that year a written summary of the deductions made pursuant to this Article from the employee’s earnings for that year.
 (7) Where an employee ceases employment before the end of a year of assessment, the employer shall, upon the employment ceasing, give the employee a written summary of the deductions made pursuant to this Article from the employee’s earnings for that year.
-(8) An employer shall not be required to deduct [tax and an LTC contribution and remit them] to the Comptroller in the case of an employee who, on the 31st December in the year in which the deduction would otherwise be made, will be under the age of 17 years.
+(8) An employer shall not be required to deduct [tax and an LTC contribution and remit them] to the Comptroller in the case of an employee who, on the 31st December in the year in which the deduction would otherwise be made, will be under the upper limit of compulsory school age as defined by Article 2 of the Education (Jersey) Law 1999.
 (9) An employer who fails to comply with paragraph (5) or (5AA) shall be guilty of an offence and liable to a fine.
 (10) Where the secretary or another officer of a body corporate or any other person engaged in the management of the body corporate is deemed to be the employer by virtue of Article A15(6) or (7), the body corporate, as well as that person, shall be liable to a fine under paragraph (9) of this Article.
 (11) The imposition of a fine under paragraph (9)(b) shall not discharge the employer’s liability to remit the monies required under paragraph (5) or (5AA).
@@ -105,10 +107,10 @@ rounded up to the nearest whole number; and
 (7C) References to “rate” in paragraphs (7) to (7B) include “provisional rate”.
 (8)
 (9) [The combined effective rate determined by the Comptroller in accordance with paragraphs (3)] to (7B) shall not exceed -
-(a) in a case where the employee has no arrears of tax, [21%];
-(b) in a case where the employee has arrears of tax for one year of assessment, 25%;
-(c) in a case where the employee has arrears of tax for 2 years of assessment, 30%;
-(d) in a case where the employee has arrears of tax for 3 or more years of assessment, 35%.
+(a) in a case where the employee has no arrears of tax, [22%];
+(b) in a case where the employee has arrears of tax for one year of assessment, 27%;
+(c) in a case where the employee has arrears of tax for 2 years of assessment, 32%;
+(d) in a case where the employee has arrears of tax for 3 or more years of assessment, 37%.
 (9A) An employee may, at any time, make an election to the Comptroller to have [a combined effective rate] applied in the employee’s case that exceeds the rate determined in accordance with the foregoing provisions of this Article.
 (9B) If the Comptroller agrees [the combined effective rate] proposed in an election made under paragraph (9A), the Comptroller shall issue a notice in writing to the employee of the rate and the day from which the rate applies.
 (10) A notice issued by the Comptroller under this Article shall have effect until whichever is the earlier of -
@@ -116,7 +118,7 @@ rounded up to the nearest whole number; and
 (b) the day on which a rate specified in a further notice has effect; or
 (c) the end of the current year.
 (11) An employee aggrieved by [the effective rate] applicable in his or her case, or by a refusal by the Comptroller to issue a notice under this Article, may appeal to the Commissioners, on giving notice in writing to the Comptroller -
-(a) within 40 days of the issue of a notice under of this Article; or
+(a) within 40 days of the issue of a notice under this Article; or
 (b) where the Comptroller has not issued a notice to the employee, within 40 days of providing the Comptroller with sufficient information to determine a rate under this Article.
 (12) [The combined effective rate] notified to the employee or, in the case where no rate has been notified to the employee, the rate applicable by virtue of Article 41B(2)(b), shall apply in the employee’s case notwithstanding that an appeal is pending under paragraph (11) of this Article.
 (13) Save as provided in paragraphs (11) and (12), Part 6 shall apply, with the necessary modifications, to an appeal under paragraph (11) as it applies to an appeal against any assessment.
@@ -165,22 +167,6 @@ shall be liable to a fine.
 (15) For the purposes of this Article, the “specified rate” is -
 (a) for deductions made in the years 2006 and 2007, 15%;
 [(b) for deductions made in the years 2008 to 2014 inclusive, 20%;
-(c) for deductions made in the year 2015 and ensuing years, 21%, being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 1% for the purposes of deduction of LTC contributions.]
-41I Late payment surcharge
-(1) In this Article, “specified time”, in relation to a year of assessment, means 6 p.m. on the Friday following the first Monday in December of the year next following the year of assessment.
-(2) Any person chargeable to tax, whether or not an assessment has been served on that person, shall be liable to pay an amount in addition to that tax (hereafter referred to as the “surcharge”) equal to 10% of that tax which remains unpaid, if the tax chargeable on that person for the year of assessment is not paid in full by the specified time.
-Provided that the Comptroller may waive payment of the surcharge -
-(a) if it amounts to £50 or less for any year of assessment;
-(b) where failure to pay the tax by the specified day is caused by the action of a person, in accordance with Article 3A, not connected with the person liable to the surcharge and the failure is remedied without unnecessary delay; or
-(c) the Comptroller is satisfied that death, serious illness or other grave and exceptional circumstance prevented payment by the specified time.
-(3) Paragraph (2) shall not apply where the aggregate of the amounts received by the specified time by the Comptroller, pursuant to Article 41G, as payment of a person’s tax for the year of assessment, is 70% or more of the person’s liability to tax for that year.
-[(4) The Comptroller shall issue a written notice to a person of his or her liability under paragraph (2) and of his or her liability to an LTC surcharge under paragraph 4A of Schedule 1D to the 1974 Law.]
-(5) A person may, within 40 days of the issue of a notice under paragraph (4), apply to the Comptroller in writing for a waiver under paragraph (2).
-(6) Where a person applies under paragraph (5), the Comptroller shall give notice to the person of whether or not he or she has waived the person’s liability [under paragraph (2)].
-(7) A person aggrieved by the Comptroller’s refusal to waive liability under paragraph (2) may appeal to the Commissioners, on giving notice in writing to the Comptroller within 40 days of the issue of notice of refusal.
-(8) The following provisions of this Law shall apply, with the necessary modifications, to an appeal under paragraph (7) as they apply to an appeal against any assessment -
-(a) the proviso to Article 27(1);
-(b) Article 27(2);
-(c) Article 28(1);
-(d) Article 29, with the omission of paragraphs (4) and (5);
-(e) Articles 29A and 31 to 36.
+(c) for deductions made in the years 2015 to 2019 inclusive, 21% being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 1% for the purposes of deductions of LTC contributions;
+(d) for deductions made in the year 2020 and ensuing years, 22% being the sum of a rate of 20% for the purposes of deductions of tax and a rate of 2% for the purposes of deductions of LTC contributions.]
+41I

@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_29_1961_20191231>
+L.29/1961 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20200130>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,22 +15,9 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 3AE | [art-003-ae.md](art-003-ae.md) | 3AE Distributions |
 | Art. 4 | [art-004.md](art-004.md) | 4 Meaning of, and provisions as to, total income |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Meaning of, and provision as to, financial period and accounting date |
-| Art. 5 | [art-005.md](art-005.md) | 5 Interpretation of Part 3 |
-| Art. 6 | [art-006.md](art-006.md) | 6 Comptroller of Taxes |
-| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Collection of long-term care contributions |
-| Art. 8 | [art-008.md](art-008.md) | 8 Deputy Comptroller, Assistant Comptroller and staff |
-| Art. 9 | [art-009.md](art-009.md) | 9 Exercise of functions of Comptroller in event of absence or vacancy in office |
-| Art. 10 | [art-010.md](art-010.md) | 10 Commissioners of Appeal |
-| Art. 11 | [art-011.md](art-011.md) | 11 Oath of office |
-| Art. 12 | [art-012.md](art-012.md) | 12 Audit |
-| Art. 13 | [art-013.md](art-013.md) | 13 Power of Comptroller to disclose information |
-| Art. 13A | [art-013-a.md](art-013-a.md) | 13A Power of Comptroller to disclose information for approved purposes |
-| Art. 13B | [art-013-b.md](art-013-b.md) | 13B Power of Comptroller to disclose information for purposes of certain investigations |
-| Art. 14 | [art-014.md](art-014.md) | 14 Power to administer oaths |
 | Art. 15 | [art-015.md](art-015.md) | 15 Comptroller to ascertain income liable to tax |
 | Art. 16 | [art-016.md](art-016.md) | 16 Delivery of returns in pursuance of notices |
 | Art. 16A | [art-016-a.md](art-016-a.md) | 16A Furnishing of documents and other information in pursuance of notices |
-| Art. 16B | [art-016-b.md](art-016-b.md) | 16B Keeping of records |
 | Art. 17 | [art-017.md](art-017.md) | 17 Delivery of returns by persons acting for others |
 | Art. 17A | [art-017-a.md](art-017-a.md) | 17A Penalty for late delivery of return |
 | Art. 18 | [art-018.md](art-018.md) | 18 Delivery of lists by persons in receipt of taxable income belonging to others |
@@ -39,6 +26,8 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 20 | [art-020.md](art-020.md) | 20 Returns of information regarding employees |
 | Art. 20A | [art-020-a.md](art-020-a.md) | 20A Returns of information regarding building sub-contractors |
 | Art. 20B | [art-020-b.md](art-020-b.md) | 20B Returns of information by companies |
+| Art. 20C | [art-020-c.md](art-020-c.md) | 20C Returns of information as to benefits in kind |
+| Art. 20D | [art-020-d.md](art-020-d.md) | 20D Returns of information by foundations |
 | Art. 21 | [art-021.md](art-021.md) | 21 Form and manner of returns |
 | Art. 21A | [art-021-a.md](art-021-a.md) | 21A Returns equivalent to Common Reporting Standard returns |
 | Art. 22 | [art-022.md](art-022.md) | 22 Assessment of income |
@@ -61,6 +50,7 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 40 | [art-040.md](art-040.md) | 40 Demand for payment |
 | Art. 41 | [art-041.md](art-041.md) | 41 General notice to persons by whom tax is payable |
 | Art. 41A | [art-041-a.md](art-041-a.md) | 41A Duty to pay instalment in May (individuals and unincorporated bodies) |
+| Art. 41AA | [art-041-aa.md](art-041-aa.md) | 41AA Duty to pay instalment (companies) |
 | Art. 41B | [art-041-b.md](art-041-b.md) | 41B Duty of employer to deduct and account for tax |
 | Art. 41C | [art-041-c.md](art-041-c.md) | 41C Calculation of rate |
 | Art. 41D | [art-041-d.md](art-041-d.md) | 41D Deductions in respect of spouses |
@@ -203,7 +193,7 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 116 | [art-116.md](art-116.md) | 116 Exemption for certain friendly societies |
 | Art. 117 | [art-117.md](art-117.md) | 117 Exemption in respect of wounds and disability pensions |
 | Art. 118 | [art-118.md](art-118.md) | 118 Exemption for savings banks |
-| Art. 118A | [art-118-a.md](art-118-a.md) | 118A Exemption in respect of States of Jersey securities held by non-residents |
+| Art. 118A | [art-118-a.md](art-118-a.md) | 118A Exemption in respect of States of Jersey securities held by non‑residents |
 | Art. 118B | [art-118-b.md](art-118-b.md) | 118B Exemption of certain income, profits or gains of a non-resident |
 | Art. 118C | [art-118-c.md](art-118-c.md) | 118C Exemption of certain income, profits or gains of an eligible investment scheme |
 | Art. 118D | [art-118-d.md](art-118-d.md) | 118D Exemption in respect of international savings schemes |
@@ -220,6 +210,7 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
+| Art. 123AA | [art-123-aa.md](art-123-aa.md) | 123AA Duty of body corporate to notify Comptroller of certain matters |
 | Art. 123C | [art-123-c.md](art-123-c.md) | 123C Non-financial services companies |
 | Art. 123CAA | [art-123-caa.md](art-123-caa.md) | 123CAA Exception for profits of importation and supply of hydrocarbon oil |
 | Art. 123CA | [art-123-ca.md](art-123-ca.md) | 123CA Foundations |
@@ -294,7 +285,7 @@ L.29/1961 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 135A | [art-135-a.md](art-135-a.md) | 135A Persons granted 1(1)(k) housing consent or Entitled status under Regulation 2(1)(e) |
 | Art. 135B | [art-135-b.md](art-135-b.md) | 135B Exchange of information for the purposes of Article 135A |
 | Art. 136 | [art-136.md](art-136.md) | 136 Penalties for failure to deliver returns, etc. |
-| Art. 137 | [art-137.md](art-137.md) | 137 Penalties for fraudulently or negligently making incorrect returns, etc. |
+| Art. 137 | [art-137.md](art-137.md) | 137 Penalties for fraudulently making incorrect statements, etc. |
 | Art. 139 | [art-139.md](art-139.md) | 139 Penalty for refusing to allow deduction of tax, and avoidance of agreements for payment without deduction |
 | Art. 141 | [art-141.md](art-141.md) | 141 Penalties to belong to States’ revenues |
 | Art. 141A | [art-141-a.md](art-141-a.md) | 141A Interpretation of this Part |

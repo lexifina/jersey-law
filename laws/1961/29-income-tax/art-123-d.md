@@ -15,4 +15,9 @@
 (i) the provision, in connection with the supply of goods by hire purchase, leasing, conditional sale or credit sale, of credit in instalments for which a separate charge is made and disclosed to the customer, and
 (ii) any assignment to the company of an advance or credit repayable by the customer to a person other than the company.
 (5) The Minister may by Order amend the definition “financial services company” in paragraph (4).
-(6) For the purposes of paragraph (4)(e), “customer” shall not include any person which, in relation to the company by which credit facilities are provided, is a connected person, and for this purpose ‘connected person’ has the meaning given by Article 3A(4) and (5).
+(6) For the purposes of paragraph (4)(e) -
+(a) “customer” shall not include any person which, in relation to the company by which credit facilities are provided, is a connected person, and for this purpose “connected person” has the meaning given by Article 3A(4) and (5); and
+(b) the provision of credit facilities to customers does not include such provision where credit facilities are not offered -
+(i) to individuals residing in Jersey,
+(ii) to businesses operating in Jersey and holding a business licence, or non-resident trading licence, under the Control of Housing and Work (Jersey) Law 2012, or
+(iii) for the purpose of financing the acquisition or enhancement of immovable property located in Jersey.

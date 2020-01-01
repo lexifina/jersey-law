@@ -1,9 +1,8 @@
 # 41I Late payment surcharge
-(1) In this Article “specified time” -
-(a) in relation to a year of assessment, means -
-(i) in the case of a person who must pay an instalment under Article 41A or 41AA (other than where clause (ii) applies), midnight on 30th November of the year immediately following the year of assessment; or
-(ii) in the case of a large company within the meaning of Article 41AA(7), midnight on 30th September of the year immediately following the year of assessment.
-(2) A person who must pay an instalment under Article 41A or 41AA, whether or not an assessment has been served on that person, shall be liable to pay an amount in addition to that tax (hereafter referred to as the ‘surcharge’) equal to 10% of that tax which remains unpaid, if the tax chargeable on that person for the year of assessment is not paid in full by the specified time.
+(1) In this Article, “specified time” means, in relation to the year of assessment 2019 and ensuing years -
+(a) midnight on 30th November of the year immediately following the year of assessment, except in a case such as specified in sub-paragraph (b);
+(b) in the case of a large company within the meaning of Article 41AA(7), midnight on 30th September of the year immediately following the year of assessment.
+(2) If a person in relation to whom this Article applies does not pay in full, before the specified time, the tax chargeable for a year of assessment on that person, the person shall be liable, whether or not an assessment has been served on the person, to pay an additional amount (the “surcharge”) equal to 10% of such tax as remains unpaid at the specified time.
 Provided that the Comptroller may waive payment of the surcharge -
 (a) if it amounts to £50 or less for any year of assessment;
 (b) where failure to pay the tax by the specified day is caused by the action of a person, in accordance with Article 3A, not connected with the person liable to the surcharge and the failure is remedied without unnecessary delay; or
@@ -20,3 +19,4 @@ Provided that the Comptroller may waive payment of the surcharge -
 (d) Article 29, with the omission of paragraphs (4) and (5);
 (e) Articles 29A and 31 to 36.
 (9)
+(10) This Article does not apply in relation to an individual person who is excepted from the application of Article 41A, under paragraph (12)(a) of that Article.

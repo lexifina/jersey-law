@@ -4,7 +4,7 @@
 (a) acquiring a dwelling-house in Jersey for the purpose of its occupation by the person by whom the interest is payable as his or her only or main residence;
 (b) extending a dwelling-house acquired for the purpose described in sub-paragraph (a); or
 (c) paying off another loan, interest on which would have been eligible for a deduction under this paragraph had the loan not been paid off,
-the person by whom the interest is payable, on proof of the facts to the satisfaction of the Comptroller, shall be entitled to a marginal income deduction in respect of the amount of the interest paid out of profits or gains brought into charge to tax.
+the person by whom the interest is payable shall be entitled to a marginal income deduction in respect of the amount of the interest paid out of profits or gains brought into charge to tax.
 (3) Paragraph (2) shall not apply unless -
 (a) at the time the interest is paid, the dwelling-house is occupied by the person by whom the interest is payable as his or her only or main residence; and
 (b) the person by whom the interest is payable has made a declaration, in writing, to the Comptroller that the conditions in sub-paragraph (a) are fulfilled.
