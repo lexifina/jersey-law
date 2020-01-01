@@ -3,10 +3,9 @@
 (a) in writing; and
 (b) before the end of the period of 30 days beginning with the date on which notification to the person under Regulation 8F(2) was given.
 (2) The notice under paragraph (1) must state the ground of appeal.
-(3) A Commission of Appeal shall be constituted for the purpose of hearing -
+(3) A Commission of Appeal under Article 5 of the Revenue Administration (Jersey) Law 2019 shall be constituted for the purpose of hearing -
 (a) an appeal under Regulation 8G; or
-(b) an application under Regulation 8I(2),
-as it would be constituted from the Commissioners of Appeal appointed under Article 10(1) of the Income Tax (Jersey) Law 1961 for the purpose of hearing appeals under that Law.
+(b) an application under Regulation 8I(2).
 (4) The Comptroller shall notify the Commission of an appeal under Regulation 8G.
 (5) On an appeal under Regulation 8G(1) that is notified to the Commission by the Comptroller, the Commission may confirm or cancel the penalty.
 (6) On an appeal under Regulation 8G(2) that is notified to the Commission by the Comptroller, the Commission may -

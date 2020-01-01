@@ -1,0 +1,1 @@
+THE STATES, in pursuance of Article 2 of the Taxation (Implementation) (Jersey) Law 2004, and following the decision of the States, taken on the day these Regulations are made, to adopt P.68 of 2014, have made the following Regulations -

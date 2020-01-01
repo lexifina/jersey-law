@@ -1,9 +1,10 @@
 # Taxation (Implementation) (International Tax Compliance) (United States of America) (Jersey) Regulations 2014
 
-R&O.69/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_69_2014_20191231>
+R&O.69/2014 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_69_2014_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
+| Long title | [long-title.md](long-title.md) | THE STATES, in pursuance of Article 2 of the Taxation (Implementation) (Jersey) Law 2004, and following the decision of  |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation and application |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Elections to treat accounts as U.S reportable accounts |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Jersey representative of a non-resident reporting Jersey financial institution |
