@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Law 2007
 
-L.27/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20191231>
+L.27/2007 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20211231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -73,8 +73,6 @@ L.27/2007 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 64 | [art-064.md](art-064.md) | 64 Changes to be notified |
 | Art. 65 | [art-065.md](art-065.md) | 65 Evaluating supplies |
 | Art. 66 | [art-066.md](art-066.md) | 66 Opportunity to be heard |
-| Art. 67 | [art-067.md](art-067.md) | 67 Responsibility for administration of GST |
-| Art. 68 | [art-068.md](art-068.md) | 68 Authorized persons |
 | Art. 69 | [art-069.md](art-069.md) | 69 Application of Customs and Excise (Jersey) Law 1999 |
 | Art. 70 | [art-070.md](art-070.md) | 70 Details of application of Customs and Excise (Jersey) Law 1999 |
 | Art. 71 | [art-071.md](art-071.md) | 71 Penalty tax where conduct involving dishonesty |

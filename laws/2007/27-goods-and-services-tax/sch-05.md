@@ -47,7 +47,7 @@ the supply of the service or goods shall be taken to have been made by the pract
 (3) For the avoidance of doubt, the descriptions specified in sub-paragraph (2)(a) in inverted commas are not intended to limit the classes of persons to which they relate.
 5 Group 5 - Supplies by charities
 (1) For the purposes of this Law, the supply of any service or goods by a charity shall be exempt.
-(2) For the purposes of this paragraph, “charity” means a corporation, association, trust or other entity, the income from the property of which is exempt from income tax by virtue of Article 115(a) or (aa) of the Income Tax (Jersey) Law 1961.
+(2) For the purposes of this paragraph, “charity” means a corporation, association, trust or other entity, the income from the property of which is exempt from income tax by virtue of Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961.
 6 Group 6 - Child care
 For the purposes of this Law, the supply of a service, being child care for a child, shall be exempt if -
 (a) the child care is supplied to a person who (within the meaning of the Children (Jersey) Law 2002) has parental responsibility for the child;
