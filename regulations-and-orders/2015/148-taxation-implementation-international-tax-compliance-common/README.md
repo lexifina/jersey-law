@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (Common Reporting Standard) (Jersey) Regulations 2015
 
-R&O.148/2015 · official consolidation showing the law from 2019-05-08 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20191231>
+R&O.148/2015 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20200430>
 
 | Provision | File | Heading |
 | --- | --- | --- |
