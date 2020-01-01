@@ -9,7 +9,7 @@ In this Schedule -
 (1) An owner of a registered motor vehicle, who wishes to change the registration mark assigned to that vehicle, may apply, on the published form duly completed, for the registration mark to be withdrawn.
 (2) Sub-paragraph (3) applies if the Inspector receives -
 (a) an application under sub-paragraph (1) in respect of a registered motor vehicle;
-(b) a fee of £93;
+(b) a fee of £95;
 (c) the vehicle’s current registration document, if that document has not been issued as an electronic communication; and
 (d) any other evidence that the Inspector may reasonably require in relation to the registration of the vehicle and the person’s compliance with this Order.
 (3) The Inspector shall withdraw the registration mark assigned to that vehicle and shall assign to that vehicle another registration mark, being -
@@ -34,13 +34,13 @@ In this Schedule -
 (a) the owner of a registered motor vehicle notifies the Inspector under Article 5(1)(c) of the Law, and the Inspector cancels the registration under paragraph (5)(b) of that Article; or
 (b) the Inspector withdraws the registration mark assigned to a vehicle, on the application of the owner under paragraph 2 of this Schedule.
 (2) The Inspector shall grant a mark-right in respect of the registration mark that, immediately before the cancellation or withdrawal, was the mark assigned to the vehicle -
-(a) to the owner, if the owner applies to the Inspector, on the published form, duly completed and accompanied by a fee of £93, for the grant of the mark-right to the owner; or
-(b) to a person other than the owner, if the owner and that other person apply jointly to the Inspector, on the published form, duly completed and accompanied by a fee of £106, for the grant of the mark-right to that other person.
+(a) to the owner, if the owner applies to the Inspector, on the published form, duly completed and accompanied by a fee of £95, for the grant of the mark-right to the owner; or
+(b) to a person other than the owner, if the owner and that other person apply jointly to the Inspector, on the published form, duly completed and accompanied by a fee of £109, for the grant of the mark-right to that other person.
 (3) The form published for the purpose of sub-paragraph (2)(b) shall include -
 (a) a part for the owner of the vehicle to complete to indicate that the owner consents to the grant of the mark-right to the other person, and understands the consequences of doing so; and
 (b) another part for the other person to complete to indicate that that other person understands the requirements of the Law and this Order for the exercise of the mark-right, and understands that the mark-right is not transferable once granted.
 (4) If more than one relevant application is made at the same time (whether by one person or more than one person, and whether in respect of one vehicle or more than one vehicle), a person making any of the applications may, by duly completing a part included for that purpose in the published application form, make that application conditional on the grant or simultaneous putting into effect of any other of those applications.
-(5) If, by virtue of the granting of relevant applications that are made conditional under sub-paragraph (4), the registration marks assigned to 2 or more vehicles are exchanged simultaneously between those vehicles, the fees charged for the relevant applications shall be limited to £93 in total per vehicle.
+(5) If, by virtue of the granting of relevant applications that are made conditional under sub-paragraph (4), the registration marks assigned to 2 or more vehicles are exchanged simultaneously between those vehicles, the fees charged for the relevant applications shall be limited to £95 in total per vehicle.
 (6) For the purpose of sub-paragraphs (4) and (5) a relevant application is an application -
 (a) under paragraph 2(1), for the withdrawal of a registration mark;
 (b) under paragraph 3(2)(b), for the assignment of a registration mark under a mark-right; or
