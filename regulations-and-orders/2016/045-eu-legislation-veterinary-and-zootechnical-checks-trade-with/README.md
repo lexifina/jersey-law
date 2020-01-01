@@ -1,6 +1,6 @@
 # EU Legislation (Veterinary and Zootechnical Checks - Trade with Member States) (Fees and Expenses) (Jersey) Order 2016
 
-R&O.45/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_45_2016_20191231>
+R&O.45/2016 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_45_2016_20201231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
