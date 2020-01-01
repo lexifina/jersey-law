@@ -1,6 +1,6 @@
 # Taxation (Land Transactions) (Jersey) Law 2009
 
-L.10/2009 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20191231>
+L.10/2009 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20201231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,7 +16,6 @@ L.10/2009 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 9 | [art-009.md](art-009.md) | 9 Issue of LTT receipt |
 | Art. 10 | [art-010.md](art-010.md) | 10 Duty to keep records |
 | Art. 11 | [art-011.md](art-011.md) | 11 Power of Comptroller to make assessment of LTT |
-| Art. 12 | [art-012.md](art-012.md) | 12 Information for the purposes of this Law |
 | Art. 13 | [art-013.md](art-013.md) | 13 Power of Minister to issue directions regarding the reduction or remission of stamp duty or LTT |
 | Art. 14 | [art-014.md](art-014.md) | 14 Proceedings for recovery of LTT |
 | Art. 15 | [art-015.md](art-015.md) | 15 Offences |

@@ -95,7 +95,7 @@ where V is the value of the transaction.
 (b) is a transaction whereby shares formerly owned by, or held on trust for the benefit of, spouses or civil partners jointly are solely owned by, or held on trust for the sole benefit of, one of them and, at the time of the transaction, the land is their matrimonial home or civil partnership home.
 (2) In a case to which this paragraph applies, LTT shall be charged at the rate of £60.
 8 Charitable occupier or secured party
-Where the Comptroller is satisfied that an occupier or a secured party qualifies for exemption from income tax pursuant to Article 115(a) or (aa) of the 1961 Law, LTT shall be charged on the value of a transaction to which this Law applies at the rate of £160.
+Where the Comptroller is satisfied that an occupier or a secured party qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ae) of the 1961 Law, LTT shall be charged on the value of a transaction to which this Law applies at the rate of £160.
 9 Devolution of deceased person’s estate
 Where a transaction described in Article 3(1)(a) or (b) gives effect to a devise to a beneficiary or the devolution on intestacy to the heir or heirs, of a deceased person’s estate, LTT shall be charged at the rate of £80.
 10 Mode of calculating value where cash consideration is in foreign currency
