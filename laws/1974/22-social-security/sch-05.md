@@ -4,7 +4,7 @@ collection of ltc contributions
 1 Interpretation of Schedule 1D
 In this Schedule -
 “building contractor” has the same meaning as in Article A15 of the 1961 Law;
-“Comptroller” means the person appointed under Article 6 of the 1961 Law;
+“Comptroller” has the meaning given by the Revenue Administration (Jersey) Law 2019;
 “earnings” has the meaning given in Article A15 of the 1961 Law;
 “employee” has the meaning given in Article A15 of the 1961 Law;
 “employer” shall be construed having regard to the definition “employee” and in accordance with Article A15(6) and (7) of the 1961 Law;
@@ -19,8 +19,7 @@ In this Schedule -
 2A Estimate of LTC contribution
 (1) An estimate of the amount of a person’s LTC contribution for a year (the “payment year”) shall be calculated in accordance with this paragraph.
 (2) Schedule 1C shall apply as if references in it to -
-(a) the upper annual income limit; and
-(b) subject to sub-paragraph (6), the person’s gross income and taxable income, and the person’s entitlement to a reduction under Article 92C of the 1961 Law,
+(a) the upper annual income limit were references to that limit for the payment year; and (b) subject to sub-paragraph (6), the person’s gross income and taxable income, and the person’s entitlement to a reduction under Article 92C of the 1961 Law,
 were references to those amounts or that entitlement -
 (i) for the purposes described in sub-paragraph (3) - for the year preceding the payment year;
 (ii) for the purposes described in sub-paragraph (4) - for the year that is 2 years before the payment year;
@@ -50,20 +49,20 @@ L is the sum of -
 I has the same value as in Article 41C(2) of the 1961 Law or, as the employee’s case requires, Article 41C(2) as modified by paragraph (5) of that Article or Article 41H(10).
 (3)
 (4)
-(5) Where an employee makes an election under Article 41C(8) of the 1961 Law, the Comptroller shall calculate an LTC contribution effective rate that exceeds the rate that would otherwise apply in the employee’s case, in accordance with the foregoing provisions of this paragraph, by an amount that corresponds to the amount by which the rate of tax notified under Article 41C(8)(b) of the 1961 Law exceeds the rate that would otherwise apply in the employee’s case.
+(5) Where an employee makes an election under Article 41C(9A) of the 1961 Law which has been agreed by the Comptroller under Article 41C(9B) of that Law, the Comptroller shall calculate an LTC contribution effective rate that exceeds the rate that would otherwise apply in the employee’s case, in accordance with the foregoing provisions of this paragraph, by an amount that corresponds to the amount by which the rate of tax notified under Article 41C(9A) of the 1961 Law and agreed by the Comptroller under Article 41C(9B) of that Law exceeds the rate that would otherwise apply in the employee’s case.
 (6) If, on an appeal by an employee against the effective rate of tax applicable in his or her case, that rate is revised, the Comptroller -
 (a) shall correspondingly revise the LTC contribution effective rate applicable in the employee’s case; and
 (b) in accordance with Article 41C(7) of the 1961 Law, shall calculate a revised combined effective rate applicable in the employee’s case.
 4A Surcharge for late payment of LTC contribution
-(1) In this paragraph, “specified time” means 6 p.m. on the Friday following the first Monday in December in a year.
-(2) An insured person who is liable to pay an LTC contribution for a year shall be liable to pay an amount in addition to that contribution (hereafter referred to as the “LTC surcharge”) equal to 10% of so much of the LTC contribution for the year which remains unpaid, if the LTC contribution for the year is not paid in full by the specified time.
+(1) In this paragraph, “specified time” means midnight on 30th November in a year.
+(2) An insured person who is liable to pay an LTC contribution for a year shall be liable to pay an amount in addition to that contribution (hereafter referred to as the “LTC surcharge”) equal to 0% of so much of the LTC contribution for the year which remains unpaid, if the LTC contribution for the year is not paid in full by the specified time.
 (3) A person shall not be liable to pay the LTC surcharge if -
 (a) the Comptroller has, under Article 41I(2) of the 1961 Law, waived the person’s payment of the tax surcharge due; or
 (b) the person is not, by virtue of Article 41I(3) of the 1961 Law, liable to pay the tax surcharge.
 (4) If, on an appeal under Article 41I(7) of the 1961 Law, the Commissioners direct that a person’s liability under Article 41I(2) shall be waived, the person’s liability to the LTC surcharge shall be taken to have been waived.
 (5) In this paragraph “tax surcharge” means a surcharge that a person is liable to pay under Article 41I of the 1961 Law.
 5 Consequences of appeal against assessment to tax
-(1) Where an insured person appeals against any assessment on him or her made by the Comptroller of Taxes in any first or additional assessment -
+(1) Where an insured person appeals against any assessment on him or her made by the Comptroller in any first or additional assessment -
 (a) the insured person, when estimating his or tax in accordance with Article 28(2) of the 1961 Law, shall also estimate his or her LTC contribution that will become payable consequentially on the determination of the appeal;
 (b) pending the person’s appeal against his or her assessment to income tax, the LTC contribution estimated in accordance with clause (a) shall be due and payable at the same time as his or her tax estimated in accordance with Article 28(2) of the 1961 Law and due and payable as described in paragraph (3) of that Article; and
 (c) where, on determination of the appeal, a balance of tax chargeable must be paid in respect of a portion of the insured person’s income, the balance of any corresponding LTC contribution payable in respect of that portion of the insured person’s income is also due, and must be paid at the same time and in the same manner as the balance of tax.

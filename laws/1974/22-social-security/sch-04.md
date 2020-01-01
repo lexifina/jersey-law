@@ -20,5 +20,5 @@ The upper annual income limit for LTC contributions for a year is the annual equ
 (b) the income of the insured person, disregarding the income of his or her spouse or civil partner,
 and the resultant amounts of LTC contributions shall be aggregated.
 (6) In this paragraph, the LTC percentage is -
-(a) for 2015, 0.5%;
-(b) for 2016 and ensuing years, 1%.
+(a) for 2019, 1%;
+(b) for 2020 and ensuing years, 1.5%.
