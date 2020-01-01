@@ -16,73 +16,74 @@ whichever is the greater.
 PART 2
 (Article 38)
 GOODS CHARGEABLE WITH EXCISE DUTY AND RATES OF DUTY
-1 Spirits
+1 Spirits and spirits-based drinks
 There shall be charged -
-(a) on all spirits, produced by a small independent distiller of spirits, which are imported into or produced or manufactured in Jersey, excise duty at the rate of £18.63 per litre of alcohol; and
-(b) on all other spirits imported into or produced or manufactured in Jersey, excise duty at the rate of £37.23 per litre of alcohol.
+(a) on all spirits, produced by a small independent distiller of spirits, which are imported into or produced or manufactured in Jersey, excise duty at the rate of £21.24 per litre of alcohol;
+(b) on all other spirits imported into or produced or manufactured in Jersey, excise duty at the rate of £42.44 per litre of alcohol; and
+(c) on spirits-based products which are ready-to-drink and are imported into or produced or manufactured in Jersey, excise duty at the rate of £42.44 per litre of alcohol.
 2 Wines
 There shall be charged, on all wines imported into or produced or manufactured in Jersey, excise duty at the following rates -
 Strength of wines
-Rate per hectolitre
+Rate per hectolitre of wine
 Wines exceeding 1.2% volume but not exceeding 5.5% volume
-£80.27
+£82.76
 Wines exceeding 5.5% volume but not exceeding 15% volume
-£210.67
+£219.31
 Wines exceeding 15% volume but not exceeding 22% volume
-£258.16
-Rate per litre
+£289.14
+Rate per litre of alcohol
 Wines exceeding 22% volume
-£37.23
+£42.44
 3 Beer
 There shall be charged -
 (a) on all beer, produced by a small independent brewer, which is imported into or produced or manufactured in Jersey, excise duty at the rate of -
-(i) £16.72 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
-(ii) £33.42 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
-(iii) £57.27 per hectolitre of beer exceeding 4.9% volume; and
+(i) £17.24 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
+(ii) £34.46 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
+(iii) £64.14 per hectolitre of beer exceeding 4.9% volume; and
 (b) on all other beer imported into or produced or manufactured in Jersey, excise duty at the rate of -
-(i) £33.42 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
-(ii) £66.85 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
-(iii) £114.52 per hectolitre of beer exceeding 4.9% volume.
+(i) £34.46 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
+(ii) £68.92 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
+(iii) £128.26 per hectolitre of beer exceeding 4.9% volume.
 4 Cider
 There shall be charged -
 (a) on all cider, produced by a small independent cider-maker, which is imported into or produced or manufactured in Jersey, excise duty at the rate of -
-(i) £16.72 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
-(ii) £33.42 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
-(iii) £57.27 per hectolitre of cider exceeding 4.9% volume; and
+(i) £17.24 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
+(ii) £34.46 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
+(iii) £64.14 per hectolitre of cider exceeding 4.9% volume; and
 (b) on all other cider, imported into or produced or manufactured in Jersey, excise duty at the rate of -
-(i) £33.42 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
-(ii) £66.85 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
-(iii) £114.52 per hectolitre of cider exceeding 4.9% volume.
+(i) £34.46 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
+(ii) £68.92 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
+(iii) £128.26 per hectolitre of cider exceeding 4.9% volume.
 5 Other alcoholic beverages
-There shall be charged, on all alcoholic beverages imported into or produced or manufactured in Jersey (other than wines, beer or cider) exceeding 1.2% volume but not exceeding 5.5% volume, excise duty at the rate of £37.23 per litre of alcohol.
+There shall be charged, on all alcoholic beverages imported into or produced or manufactured in Jersey (other than wines, beer or cider) exceeding 1.2% volume but not exceeding 5.5% volume, excise duty at the rate of £42.44 per litre of alcohol.
 6 Tobacco
 There shall be charged, on all tobacco imported into or grown, produced or manufactured in Jersey, excise duty at the following rates -
 Type of tobacco
 Rate of excise duty per kilogramme
 (a) unprocessed tobacco
-£359.03
+£398.88
 (b) cigars
-£386.54
+£417.85
 (c) cigarettes
-£483.34
+£522.49
 (d) hand-rolling tobacco
-£435.75
+£484.12
 (e) processed tobacco other than types (b) to (d)
-£374.12
+£415.65
 7 Hydrocarbon oil
 (1) There shall be charged, on hydrocarbon oil imported or delivered into or produced in Jersey, excise duty at the following rate -
 (a)
 on higher octane ultra low sulphur petrol
-£52.42 per hectolitre
+£58.42 per hectolitre
 (b)
 on all other ultra low sulphur petrol
-£50.55 per hectolitre
+£56.55 per hectolitre
 (c)
 on ultra low sulphur diesel
-£50.55 per hectolitre
+£56.55 per hectolitre
 (d)
 on all other types of hydrocarbon oil
-£54.47 per hectolitre.
+£60.47 per hectolitre.
 (2) For the purposes of sub-paragraph (1) -
 (a) petrol is “higher octane” if its research octane number is not less than 96 and its motor octane number is not less than 86;
 (b) “ultra low sulphur petrol” means unleaded petrol the sulphur content of which does not exceed 0.005% by weight; and
