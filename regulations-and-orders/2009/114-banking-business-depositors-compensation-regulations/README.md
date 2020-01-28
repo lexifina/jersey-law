@@ -1,6 +1,6 @@
 # Banking Business (Depositors Compensation) (Jersey) Regulations 2009
 
-R&O.114/2009 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/ro_114_2009_20200127>
+R&O.114/2009 · official consolidation showing the law from 2020-01-28 · <https://www.jerseylaw.je/laws/current/ro_114_2009_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -26,6 +26,7 @@ R&O.114/2009 · official consolidation showing the law from 2019-07-23 · <https
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Board must pay compensation |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Eligible deposit liable to confiscation |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Board to comply with time limit on applications for compensation |
+| Reg. 21A | [reg-021-a.md](reg-021-a.md) | 21A Offences related to applications |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Amount of compensation |
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Entitlement under another depositors compensation scheme |
 | Reg. 24 | [reg-024.md](reg-024.md) | 24 Reduction in amount of compensation |
@@ -40,7 +41,10 @@ R&O.114/2009 · official consolidation showing the law from 2019-07-23 · <https
 | Reg. 30 | [reg-030.md](reg-030.md) | 30 Payment of shortfall |
 | Reg. 31 | [reg-031.md](reg-031.md) | 31 Insufficient funds to pay compensation |
 | Reg. 32 | [reg-032.md](reg-032.md) | 32 Repayment of overpaid compensation levy |
-| Reg. 33 | [reg-033.md](reg-033.md) | 33 Subrogation |
+| Reg. 33 | [reg-033.md](reg-033.md) | 33 Subrogation. |
 | Reg. 34 | [reg-034.md](reg-034.md) | 34 Board to be treated as creditor |
 | Reg. 35 | [reg-035.md](reg-035.md) | 35 Appeals |
+| Reg. 35A | [reg-035-a.md](reg-035-a.md) | 35A Powers to demand information, and to specify format |
+| Reg. 35B | [reg-035-b.md](reg-035-b.md) | 35B Disclosure of information |
+| Reg. 35C | [reg-035-c.md](reg-035-c.md) | 35C Criminal liability of officers and others |
 | Reg. 36 | [reg-036.md](reg-036.md) | 36 Citation |
