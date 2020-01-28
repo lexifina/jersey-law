@@ -1,6 +1,6 @@
 # Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002
 
-R&O.122/2002 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/ro_122_2002_20200127>
+R&O.122/2002 · official consolidation showing the law from 2020-01-28 · <https://www.jerseylaw.je/laws/current/ro_122_2002_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ R&O.122/2002 · official consolidation showing the law from 2019-10-09 · <https
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Gambling |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 PSV licence and badge holders |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Liquor licensing |
+| Reg. 13A | [reg-013-a.md](reg-013-a.md) | 13A Licensing of controlled drugs |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Security of Jersey |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 International co-operation |
 | Reg. 15A | [reg-015-a.md](reg-015-a.md) | 15A Immigration and nationality |
