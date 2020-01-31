@@ -1,6 +1,6 @@
 # Employers’ Liability (Compulsory Insurance) (Jersey) Law 1973
 
-L.17/1973 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_17_1973_20200130>
+L.17/1973 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/l_17_1973_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
