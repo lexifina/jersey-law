@@ -1,6 +1,6 @@
 # Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008
 
-R&O.28/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_28_2008_20200130>
+R&O.28/2008 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_28_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |

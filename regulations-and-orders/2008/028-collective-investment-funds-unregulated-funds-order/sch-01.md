@@ -104,7 +104,7 @@ within the meaning of that Law.
 “public sector body” means -
 (a) the States or the government of any country (or territory) outside Jersey;
 (b) a local government of any part of a country (or territory) outside Jersey;
-(c) any international organization the members of which include Jersey or a member state of the European Economic Community; or
+(c) any international organization the members of which include Jersey, the United Kingdom or a member state of the European Union; or
 (d) the central bank of any sovereign State, the European System of Central Banks or any other system of central banks;
 “subsidiary” has the same meaning as in the Companies (Jersey) Law 1991;
 “wholly-owned subsidiary” has the same meaning as in the Companies (Jersey) Law 1991.
