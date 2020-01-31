@@ -1,6 +1,6 @@
 # Collective Investment Funds (Certified Funds - Prospectuses) (Jersey) Order 2012
 
-R&O.65/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_65_2012_20200130>
+R&O.65/2012 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_65_2012_20260305>
 
 | Provision | File | Heading |
 | --- | --- | --- |
