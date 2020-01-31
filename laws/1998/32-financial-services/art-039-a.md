@@ -8,7 +8,7 @@
 “public sector body” means -
 (a) the States or the government of any country or territory outside Jersey;
 (b) a parish in Jersey or the local government of any country or territory outside Jersey;
-(c) any international organization the members of which include Jersey or a member state of the EU; and
+(c) any international organization the members of which include Jersey, the United Kingdom, or a member state of the EU; and
 (d) the central bank of any sovereign State, the European System of Central Banks or any other system of central banks;
 “relevant market rules”, in relation to a securities market, means the rules, regulating the activities of the securities market in relation to the use and dissemination of information, that are -
 (a) specified in a legislative instrument of the country or territory, or the part of a country or territory, that hosts the securities market; or
