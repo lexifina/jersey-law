@@ -191,8 +191,8 @@ that the Minister objects to the movement.
 (b) having notified the consignor, the Minister need not take any further action in the matter.
 (4) The time limits to which sub-paragraphs (2) and (3) refer are -
 (a) the expiry of the period of 30 days following the date on which the competent authority of the country of destination acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies;
-(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control movement applies, the country of destination is a Member State of the European Union and the Minister is not the appropriate competent authority to issue to the consignor an authorization to proceed;
-(c) the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies, the country of destination is a Member State of the European Union and the Minister is the appropriate competent authority to issue to the consignor an authorization to proceed; and
+(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control movement applies, the country of destination is the United Kingdom, or a member State of the European Union, and the Minister is not the appropriate competent authority to issue to the consignor an authorization to proceed;
+(c) the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies, the country of destination is the United Kingdom, or a member State of the European Union, and the Minister is the appropriate competent authority to issue to the consignor an authorization to proceed; and
 (d) the expiry of the period of 60 days following the date on which the Minister receives the consignment note, in any other case.
 (5) In every case, the notification shall state the Minister’s reasons for the objection.
 9 Written notification of the Minister’s agreement to an OECD Amber control procedure movement
@@ -202,10 +202,10 @@ that the Minister objects to the movement.
 the Minister may in writing, within the time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limit to which sub-paragraph (1) refers is the expiry of the period of 30 days following the date on which the competent authority of the country of destination acknowledges receipt of the consignment note.
 (3) Sub-paragraph (1) is without prejudice to paragraph 7(1) (which relates to cases in which the Minister’s agreement may be assumed).
-10 Notification of the Minister’s agreement to a European Union movement
+10 Notification of the Minister’s agreement to a UK or EU movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control movement applies;
-(b) the country of destination is a Member State of the European Union; and
+(b) the country of destination is the United Kingdom or a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the appropriate time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limits to which sub-paragraph (1) refers are -
@@ -214,7 +214,7 @@ the Minister shall in writing, within the appropriate time limit in sub-paragrap
 11 Notification of the Minister’s agreement to any other movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control movement applies;
-(b) the country of destination is not a Member State of the European Union; and
+(b) the country of destination is neither the United Kingdom nor a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the appropriate time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limits to which sub-paragraph (1) refers are -
@@ -330,8 +330,8 @@ the Minister may be taken to agree unconditionally to the movement.
 that the Minister objects to the movement.
 (3) The time limits to which sub-paragraph (2) refers are -
 (a) the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies;
-(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control movement applies, the country of dispatch is a Member State of the European Union and the Minister is not the appropriate competent authority to issue to the consignor an authorization to proceed;
-(c) the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies, the country of dispatch is a Member State of the European Union and the Minister is the appropriate competent authority to issue to the consignor an authorization to proceed; and
+(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control movement applies, the country of dispatch is the United Kingdom, or a member State of the European Union, and the Minister is not the appropriate competent authority to issue to the consignor an authorization to proceed;
+(c) the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies, the country of dispatch is the United Kingdom, or a member State of the European Union, and the Minister is the appropriate competent authority to issue to the consignor an authorization to proceed; and
 (d) the expiry of the period of 60 days following the date on which the Minister receives the consignment note, in any other case.
 (5) In every case, the notification shall state the Minister’s reasons for the objection.
 9 Written notification of the Minister’s agreement to an OECD Amber control procedure movement
@@ -341,10 +341,10 @@ that the Minister objects to the movement.
 the Minister may in writing, within the time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of dispatch that he or she so agrees.
 (2) The time limit to which sub-paragraph (1) refers is the expiry of the period of 30 days following the date on which the Minister acknowledges receipt of the consignment note.
 (3) Sub-paragraph (1) is without prejudice to paragraph 7(1) (which relates to cases in which the Minister’s agreement may be assumed).
-10 Notification of the Minister’s agreement to a European Union movement
+10 Notification of the Minister’s agreement to a UK or EU movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control movement applies;
-(b) the country of dispatch is a Member State of the European Union; and
+(b) the country of dispatch is the United Kingdom or a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the appropriate time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of dispatch that he or she so agrees.
 (2) The time limits to which sub-paragraph (1) refers are -
@@ -353,7 +353,7 @@ the Minister shall in writing, within the appropriate time limit in sub-paragrap
 11 Notification of the Minister’s agreement to any other movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control movement applies;
-(b) the country of dispatch is not a Member State of the European Union; and
+(b) the country of dispatch is neither the United Kingdom nor a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the appropriate time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of dispatch that the Minister so agrees.
 (2) The time limits to which sub-paragraph (1) refers are -
@@ -490,7 +490,7 @@ the Minister may be taken to agree unconditionally to the movement.
 that the Minister objects to the movement.
 (3) The time limits to which sub-paragraph (2) refers are -
 (a) the expiry of the period of 30 days following the date on which the competent authority of the country of destination acknowledges receipt of the consignment note, if the movement is one to which the OECD Amber control procedure applies;
-(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control procedure applies and the country of destination is a Member State of the European Union; and
+(b) the expiry of the period of 20 days following the date on which the Minister acknowledges receipt of the consignment note, if the movement is not one to which the OECD Amber control procedure applies and the country of destination is the United Kingdom or a member State of the European Union; and
 (c) the expiry of the period of 60 days following the date on which the Minister receives the consignment note, in any other case.
 (4) In every case, the notification shall state the Minister’s reasons for the objection.
 9 Written notification of the Minister’s agreement to an OECD Amber control procedure movement
@@ -500,10 +500,10 @@ that the Minister objects to the movement.
 the Minister may in writing, within the time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limit to which sub-paragraph (1) refers is the expiry of the period of 30 days following the date on which the competent authority of the country of destination acknowledges receipt of the consignment note.
 (3) Sub-paragraph (1) is without prejudice to paragraph 7(1) (which relates to cases in which the Minister’s agreement may be assumed).
-10 Notification of the Minister’s agreement to a European Union movement
+10 Notification of the Minister’s agreement to a UK or EU movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control procedure applies;
-(b) the country of destination is a Member State of the European Union; and
+(b) the country of destination is the United Kingdom or a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limit to which sub-paragraph (1) refers is the expiry of the period of 20 days following the date on which the Minister receives the consignment note.
@@ -511,7 +511,7 @@ the Minister shall in writing, within the time limit in sub-paragraph (2), notif
 11 Notification of the Minister’s agreement to any other movement
 (1) If -
 (a) the movement is not one to which the OECD Amber control procedure applies;
-(b) the country of destination is not a Member State of the European Union; and
+(b) the country of destination is neither the United Kingdom nor a member State of the European Union; and
 (c) the Minister agrees unconditionally or conditionally to the movement,
 the Minister shall in writing, within the time limit in sub-paragraph (2), notify the consignor and the competent authority of the country of destination that the Minister so agrees.
 (2) The time limit to which sub-paragraph (1) refers is the expiry of the period of 60 days following the date on which the Minister receives the consignment note.
