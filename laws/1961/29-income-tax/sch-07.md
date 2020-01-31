@@ -29,7 +29,7 @@ A retirement annuity contract that was, immediately before the amendment of Arti
 Where a company first becomes a company to which Article 123C or 123D applies in or for the year of assessment 2009, and the first financial period of the company to end on or after 1st January 2009 began before that date -
 (a) the profits and gains arising in the financial period;
 (b) any losses accruing during, or reliefs and allowances to which the company is entitled under this Law for, the financial period; and
-(c) any individual’s ownership of shares in the company during the financial period,
+(b) any individual’s ownership of shares in the company during the financial period,
 shall be taken into consideration in determining any individual’s liability to tax under this Law for the year of assessment 2009 or any ensuing year, notwithstanding that the profits and gains arise, the losses accrue, the entitlement to the reliefs or allowances arises or the shares are owned, before 1st January 2009.
 6 Income Tax (Amendment No. 28) (Jersey) Law 2007 and Income Tax (Amendment No. 29) (Jersey) Law 2008: application to company incorporated on or after 3rd June 2008
 (1) By virtue of Articles 48, 49(1) and 50 of the Income Tax (Amendment No. 29) (Jersey) Law 2008, this Law has effect, for the year of assessment 2008, in the case of a company to which Part 8 of that Law applies and in the case of any owner of shares comprised in the ordinary share capital of the company, as it is amended by -

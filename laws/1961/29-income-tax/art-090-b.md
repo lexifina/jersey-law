@@ -1,7 +1,7 @@
 # 90B Marginal income deduction in respect of qualifying maintenance payments
 (1) In this Article “qualifying maintenance payment” means -
 (a) a periodical payment (not being a lump sum or an instalment of a lump sum) due on or after the first day of January 1997 which -
-(i) is made under an order of a court in Jersey or in a member State of the EU, or under a written agreement the proper law of which is the law of Jersey or of a member State of the EU,
+(i) is made under an order of a court in Jersey or in the United Kingdom or in a member State of the EU, or under a written agreement the proper law of which is the law of Jersey or of the United Kingdom or of a member State of the EU,
 (ii) is made by one of the parties to a marriage or civil partnership (including a marriage or civil partnership which has been dissolved or annulled) -
 (A) to or for the benefit of the other party and for the maintenance of the other party, or
 (B) for the benefit, maintenance or education of a person in respect of whom either party has or has had an entitlement to an exemption threshold increase under Article 95,
@@ -9,7 +9,7 @@
 (iv) is not a payment in respect of which relief from tax is available to the individual making the payment under any provision of this Law other than this Article,
 other than a payment made under an existing obligation; or
 (b) a periodical payment (not being a lump sum or an instalment of a lump sum) due on or after the first day of January 2004 which -
-(i) is made under an order of a court in Jersey or in a member State of the EU, or under a written agreement the proper law of which is the law of Jersey or of a member State of the EU,
+(i) is made under an order of a court in Jersey or in the United Kingdom or in a member State of the EU, or under a written agreement the proper law of which is the law of Jersey or of the United Kingdom or of a member State of the EU,
 (ii) is made by a parent to or for the benefit, maintenance or education of his or her illegitimate child,
 (iii) is due at a time when the parents of the child are not living together, and
 (iv) is not a payment in respect of which relief from tax is available to the individual making the payment under any provision of this Law other than this Article,

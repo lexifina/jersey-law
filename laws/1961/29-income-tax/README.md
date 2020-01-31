@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20200130>
+L.29/1961 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/l_29_1961_20201115>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -140,6 +140,7 @@ L.29/1961 · official consolidation showing the law from 2020-01-01 · <https://
 | Art. 82 | [art-082.md](art-082.md) | 82 Persons chargeable |
 | Art. 82A | [art-082-a.md](art-082-a.md) | 82A Ownership of shares |
 | Art. 82AA | [art-082-aa.md](art-082-aa.md) | 82AA Disposal of shares |
+| Art. 82B | [art-082-b.md](art-082-b.md) | 82B Payment of tax by trustees |
 | Art. 83 | [art-083.md](art-083.md) | 83 Deduction from profits of interest paid by coupon |
 | Art. 84 | [art-084.md](art-084.md) | 84 Tax computed on profits of previous period to be charged though no profits in year of assessment |
 | Art. 85 | [art-085.md](art-085.md) | 85 Statement of profits to include all sources of income chargeable under Schedule D |
@@ -193,7 +194,7 @@ L.29/1961 · official consolidation showing the law from 2020-01-01 · <https://
 | Art. 116 | [art-116.md](art-116.md) | 116 Exemption for certain friendly societies |
 | Art. 117 | [art-117.md](art-117.md) | 117 Exemption in respect of wounds and disability pensions |
 | Art. 118 | [art-118.md](art-118.md) | 118 Exemption for savings banks |
-| Art. 118A | [art-118-a.md](art-118-a.md) | 118A Exemption in respect of States of Jersey securities held by non‑residents |
+| Art. 118A | [art-118-a.md](art-118-a.md) | 118A Exemption in respect of States of Jersey securities held by non-residents |
 | Art. 118B | [art-118-b.md](art-118-b.md) | 118B Exemption of certain income, profits or gains of a non-resident |
 | Art. 118C | [art-118-c.md](art-118-c.md) | 118C Exemption of certain income, profits or gains of an eligible investment scheme |
 | Art. 118D | [art-118-d.md](art-118-d.md) | 118D Exemption in respect of international savings schemes |
