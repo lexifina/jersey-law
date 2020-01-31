@@ -1,6 +1,6 @@
 # Collective Investment Funds (Recognized Funds) (Rules) (Jersey) Order 2003
 
-R&O.21/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_21_2003_20200130>
+R&O.21/2003 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_21_2003_20251103>
 
 | Provision | File | Heading |
 | --- | --- | --- |

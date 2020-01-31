@@ -519,7 +519,7 @@ b. that no element of cover is used more than once.
 4 A security is not a transferable security if the liability of the holder of it to contribute to the debts of the issuer is not limited to any amount for the time being unpaid by the holder of it in respect of it.
 5.06 Approved security
 1 A transferable security is an “approved security” if -
-a. it is admitted to official listing in a member state;
+a. it is admitted to official listing in the United Kingdom or in a member state;
 b. it is traded on or under the rules of an eligible securities market (otherwise than by virtue of the specific permission of the market authority); or
 c. it is recently issued within the meaning of paragraph 2.
 2 A transferable security is recently issued if -
@@ -537,7 +537,7 @@ b. akin to an investment within that paragraph in that it involves a down paymen
 3 Off-exchange derivatives transactions are defined later, in Article 5.23.
 4 An investment is not a derivative if it is a transferable security.
 5.09 Eligible securities and derivatives markets
-1 A securities market is eligible for the purposes of these Rules, if it is a market established in a member state on which transferable securities admitted to official listing in the member state are dealt in or traded.
+1 A securities market is eligible for the purposes of these Rules, if it is a market, established in the United Kingdom or in a member state, on which transferable securities, admitted to official listing in the United Kingdom or in the member state, are dealt in or traded.
 2 A securities market not falling within paragraph 1 or a derivatives market is, at any time, eligible for the purposes of these Rules if -
 a. the manager or directors, after consultation with the depositary, have decided, in accordance with paragraphs 3 and 4, to choose that market as one which is appropriate for the purpose of investment of or dealing in the property of the pool beyond, where appropriate, any limit which under these Rules, would otherwise apply;
 b. that decision is notified in writing to the depositary and has not been revoked; and
@@ -582,10 +582,10 @@ c. the disclosures in paragraph 4 must have been duly made.
 a. the fact that more than 35% of the property of the pool is or may be invested in Government and other public securities issued by one issuer; and
 b. the identity of the issuer.
 5 In these Rules, “Government and other public securities” means transferable securities which are investments falling within paragraph 3 of Schedule 1 to the Financial Services Act which are issued by or on behalf of -
-a. the Government of the United Kingdom, of Northern Ireland, or of a member state other than the United Kingdom;
-b. a local authority in the United Kingdom or in any other member state;
+a. the Government of the United Kingdom, of Northern Ireland, or of a member state;
+b. a local authority in the United Kingdom or in a member state;
 c. the Government of any of the countries listed in paragraph 6; or
-d. an international organization of which the United Kingdom or another member state is a member,
+d. an international organization of which the United Kingdom or a member state is a member,
 and also includes any investment which would have been such an investment had it been issued, as opposed to merely guaranteed, by a Government or local authority specified in a., b. or c. above.
 6 The countries relevant for paragraph 5c. above are -
 a. Australia;
@@ -601,7 +601,7 @@ b. an issue differs from another if there is a difference as to repayment date, 
 1 A securities fund may invest in units in a collective investment fund only if the second fund -
 a. is either -
 (i) a recognized fund,
-(ii) a collective investment fund that complies with the conditions necessary for it to enjoy the rights conferred by the UCITS Directive,
+(ii) a collective investment fund that complies with the conditions necessary for it to enjoy the rights conferred by the UCITS Directive, or the corresponding rights under the law of the United Kingdom,
 (iii) a recognized scheme, or
 (iv) a collective investment fund the units of which are approved securities;
 b. is dedicated to investing funds raised from the public in transferable securities or money market fund assets, as defined in Article 5.18;
@@ -2564,11 +2564,11 @@ c. other benefits where expressly permitted under these Rules;
 “eligible institution” means any of the following -
 a. a person registered under the Banking Business (Jersey) Law 1991;
 b. Bank of England;
-c. The Central Bank of another member state;
+c. The Central Bank of a member state;
 d. an authorized institution within the meaning of the Banking Act 1987 of the United Kingdom;
 e. a bank which is a subsidiary or holding company of an eligible institution within sub-paragraph d.;
 f. a building society within the meaning of the Building Societies Act 1986 of the United Kingdom which has adopted the power to provide money transaction services and has not assumed any restriction on the extent of that power;
-g. a credit institution as defined in Article 1 of the First Banking Coordination Directive (77/780/EEC), other than an institution referred to in Article 2(2) of that Directive, or an investment firm as defined in Article 1(2) of the Investment Services Directive (93/22 EEC), if the credit institution is established or the investment firm is authorized as the case may be, in the United Kingdom or in another member state;
+g. a credit institution as defined in Article 1 of the First Banking Coordination Directive (77/780/EEC), other than an institution referred to in Article 2(2) of that Directive, or an investment firm as defined in Article 1(2) of the Investment Services Directive (93/22 EEC), if the credit institution is established or the investment firm is authorized as the case may be, in the United Kingdom or in a member state;
 h. a registered person under the Protection of Depositors (Bailiwick of Guernsey) Ordinance 1971;
 “eligible investment trust”: see Article 5.46;
 “Euroclear” means the Euroclear Clearance System Société Coopérative or its successor which controls the system that clears, or handles the physical exchange and lending of, securities and stores securities;
@@ -2625,7 +2625,7 @@ a. money deposited with an eligible institution which is in -
 b. certificates of deposit issued by an eligible institution if immediately redeemable at the option of the holder;
 c. Government and other public securities, if redeemable at the option of the holder or bound to be redeemed within 2 years;
 d. a bill of exchange issued by any Government or body within Article 5.13.5 (issuers of Government and other public securities), and
-e. deposits with a local authority of a kind which fall within paragraph 9 of Part II of the First Schedule to the Trustee Investments Act 1961 of the United Kingdom, and equivalent deposits with any local authority in another member state, if the money can be withdrawn immediately and without payment of a penalty as described at a. above;
+e. deposits with a local authority of a kind which fall within paragraph 9 of Part II of the First Schedule to the Trustee Investments Act 1961 of the United Kingdom, and equivalent deposits with any local authority in a member state, if the money can be withdrawn immediately and without payment of a penalty as described at a. above;
 “net asset value”: see Article 5.03.1;
 “notified point”: see Article 4.06.2;
 “OEIC Regulations” means the Financial Services (Open-Ended Investment Companies) Regulations 1997;
