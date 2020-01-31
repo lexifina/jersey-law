@@ -1,6 +1,6 @@
 # Financial Services (Trust Company Business (Assets - Customer Money)) (Jersey) Order 2000
 
-R&O.144/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_144_2000_20200130>
+R&O.144/2000 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_144_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
