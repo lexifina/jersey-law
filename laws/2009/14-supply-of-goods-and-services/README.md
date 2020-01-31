@@ -1,6 +1,6 @@
 # Supply of Goods and Services (Jersey) Law 2009
 
-L.14/2009 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_2009_20200130>
+L.14/2009 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/l_14_2009_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
