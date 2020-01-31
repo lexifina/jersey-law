@@ -1,6 +1,6 @@
 # Insurance Business (Solvency Margin) (Jersey) Order 1996
 
-R&O.8974 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8974_20200130>
+R&O.8974 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_8974>
 
 | Provision | File | Heading |
 | --- | --- | --- |
