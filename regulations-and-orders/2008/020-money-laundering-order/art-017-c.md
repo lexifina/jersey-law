@@ -1,4 +1,4 @@
-# 17C Exemption from applying third party identification requirements in relation to certain relevant customers involved in unregulated or non‑public funds, trust company business or the legal profession
+# 17C Exemption from applying third party identification requirements in relation to certain relevant customers involved in unregulated or non-public funds, trust company business or the legal profession
 (1) A relevant person is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer -
 (a) is, or carries on business in respect of, an unregulated fund, within the meaning of the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008, or equivalent business;
 (b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 7(1)(h) of Part B of Schedule 2 to the Law, or equivalent business;
