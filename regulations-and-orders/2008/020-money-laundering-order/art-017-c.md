@@ -18,3 +18,4 @@
 (a) assurance is adequate if it is reasonably capable of being regarded as reliable and the person who relies on it is satisfied that it is reliable;
 (b) assurance may be given in relation to one or more business relationships and for more than one transaction; and
 (c) assurance need not be given before deciding not to comply with third party requirements if an assurance has previously been given by that customer to the relevant person in relation to a business relationship or transaction.
+(4) A relevant person (including a person who was formerly a relevant person) who has given an assurance to another person under paragraph (2)(b) (or under an equivalent provision that applies outside Jersey) may, if requested by the other person, provide the person with the information or evidence obtained from applying the identification measures referred to in paragraph (2)(b)(i).

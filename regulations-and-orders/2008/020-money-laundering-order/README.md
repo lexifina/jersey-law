@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20200211>
+R&O.20/2008 · official consolidation showing the law from 2020-02-12 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20220831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ R&O.20/2008 · official consolidation showing the law from 2020-01-31 · <https:
 | Art. 15A | [art-015-a.md](art-015-a.md) | 15A Enhanced customer due diligence measures in relation to politically exposed persons |
 | Art. 15B | [art-015-b.md](art-015-b.md) | 15B Enhanced customer due diligence measures in relation to banking relationships outside Jersey |
 | Art. 16 | [art-016.md](art-016.md) | 16 Reliance on relevant person or person carrying on equivalent business |
-| Art. 16A | [art-016-a.md](art-016-a.md) | 16A Reliance upon persons in same financial group as relevant person |
+| Art. 16A | [art-016-a.md](art-016-a.md) | 16A Reliance on persons in same financial group as relevant person |
 | Art. 17 | [art-017.md](art-017.md) | 17 Interpretation of Part 3A |
 | Art. 17A | [art-017-a.md](art-017-a.md) | 17A Circumstances in which exemptions under this Part do not apply |
 | Art. 17B | [art-017-b.md](art-017-b.md) | 17B Exemption from applying third party identification requirements in relation to relevant customers acting in certain  |

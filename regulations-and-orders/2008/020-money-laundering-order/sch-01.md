@@ -1,2 +1,1 @@
 # SCHEDULE
-(Article 21)
