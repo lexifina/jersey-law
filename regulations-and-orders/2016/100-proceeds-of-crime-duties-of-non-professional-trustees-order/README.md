@@ -1,6 +1,6 @@
 # Proceeds of Crime (Duties of Non-Professional Trustees) (Jersey) Order 2016
 
-R&O.100/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_100_2016_20200211>
+R&O.100/2016 · official consolidation showing the law from 2020-02-12 · <https://www.jerseylaw.je/laws/current/ro_100_2016_20230828>
 
 | Provision | File | Heading |
 | --- | --- | --- |
