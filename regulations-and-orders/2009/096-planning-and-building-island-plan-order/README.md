@@ -1,6 +1,6 @@
 # Planning and Building (Island Plan) (Jersey) Order 2009
 
-R&O.96/2009 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_96_2009_20200213>
+R&O.96/2009 · official consolidation showing the law from 2020-02-14 · <https://www.jerseylaw.je/laws/current/ro_96_2009>
 
 | Provision | File | Heading |
 | --- | --- | --- |
