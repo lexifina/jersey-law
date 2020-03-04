@@ -1,6 +1,6 @@
 # Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013
 
-R&O.29/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_29_2013_20200303>
+R&O.29/2013 · official consolidation showing the law from 2020-03-04 · <https://www.jerseylaw.je/laws/current/ro_29_2013_20230529>
 
 | Provision | File | Heading |
 | --- | --- | --- |
