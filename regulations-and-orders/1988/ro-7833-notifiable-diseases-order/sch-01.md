@@ -8,6 +8,7 @@ Anthrax
 Botulism
 Brucellosis
 Cholera
+Covid-19
 Diphtheria
 Enteric fever (typhoid or paratyphoid fever)
 Food poisoning
@@ -20,6 +21,7 @@ Leprosy
 Malaria
 Measles
 Meningococcal septicaemia
+Middle East Respiratory Syndrome
 Mumps
 Plague
 Rabies
