@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Law 2001
 
-L.31/2001 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200324>
+L.31/2001 · official consolidation showing the law from 2020-03-25 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200402>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -61,6 +61,7 @@ L.31/2001 · official consolidation showing the law from 2019-10-09 · <https://
 | Art. 47 | [art-047.md](art-047.md) | 47 Provision of registers, forms and certificates |
 | Art. 48 | [art-048.md](art-048.md) | 48 Delivery of registers and documents |
 | Art. 49 | [art-049.md](art-049.md) | 49 Interpretation of Part 5 |
+| Art. 49A | [art-049-a.md](art-049-a.md) | 49A Modification of Part 5 due to outbreak of Covid-19 |
 | Art. 50 | [art-050.md](art-050.md) | 50 Duty of registrar to register births and deaths |
 | Art. 51 | [art-051.md](art-051.md) | 51 Duty to inform registrar of birth within 21 days |
 | Art. 52 | [art-052.md](art-052.md) | 52 Restriction on registration of birth after 21 days |
