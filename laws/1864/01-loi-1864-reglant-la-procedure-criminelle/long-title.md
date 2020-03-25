@@ -31,7 +31,6 @@ Dans les 3 premières semaines du mois de décembre, le Bailli révisera les lis
 Le Vicomte fera un Tableau Général des noms inscrits sur les listes des 12 paroisses, ainsi révisées, inscrira un numéro d’ordre à chaque nom, et en remettra une copie au Greffier Judiciaire.
 Toute personne inscrite audit Tableau sera tenue de servir, si elle y est appelée, sur l’enquête.
 Nulle personne saisie par un Officier de Police, sous prévention d’avoir commis un crime ou un délit, ne pourra être détenue provisoirement à la garde du Geôlier de la Prison Publique qu’avec une autorisation signée par le Chef Magistrat ou par l’un des Jurés-Justiciers; l’Officier recevant cette autorisation sera tenu de la remettre au Geôlier de la Prison avec la personne du prévenu.
-Toute personne saisie sous prévention de crime ou délit sera présentée, sous le plus bref délai, devant la Cour instituée par l’Article 1 de la Loi (1853) établissant la Cour pour la répression des moindres délits, par un Centenier chargé de l’affaire, avec un rapport énonçant les circonstances qui se rattachent à la prévention.
 Le Centenier chargé de l’affaire avertira ou fera avertir, par tel Officier ou tels Officiers de la Police qu’il désignera, les témoins qu’il juge devoir être entendus, de comparaître devant le Juge le jour où son rapport doit être présenté.
 Il sera tenu également d’avertir ou de faire avertir de la même manière les témoins que le prévenu demandera de faire entendre.
 Le prévenu pourra, s’il le juge à propos, faire avertir ses témoins par le Vicomte.
