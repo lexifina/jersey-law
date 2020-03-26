@@ -1,11 +1,12 @@
 # Plant Health (Jersey) Law 2003
 
-L.30/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_30_2003_20200325>
+L.30/2003 · official consolidation showing the law from 2020-03-26 · <https://www.jerseylaw.je/laws/current/l_30_2003_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Long title | [long-title.md](long-title.md) | A LAW to control the spread of pests and diseases of plants and trees. |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 2A | [art-002-a.md](art-002-a.md) | 2A Relationship with the EU Legislation (Plant Health) (Jersey) Regulations 2020 |
 | Art. 2 | [art-002.md](art-002.md) | 2 Object of this Law |
 | Art. 3 | [art-003.md](art-003.md) | 3 Duties of Minister |
 | Art. 4 | [art-004.md](art-004.md) | 4 Orders generally |
