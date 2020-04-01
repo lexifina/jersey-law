@@ -1,6 +1,6 @@
 # Employment (Minimum Wage) (Jersey) Regulations 2004
 
-R&O.89/2004 · official consolidation showing the law from 2019-04-01 · <https://www.jerseylaw.je/laws/current/ro_89_2004_20200331>
+R&O.89/2004 · official consolidation showing the law from 2020-04-01 · <https://www.jerseylaw.je/laws/current/ro_89_2004_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,5 +12,5 @@ R&O.89/2004 · official consolidation showing the law from 2019-04-01 · <https:
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 How to determine whether the minimum wage has been paid |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Payments by the employer that are to be taken into account |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Things that must not be taken into account |
-| Reg. 9 | [reg-009.md](reg-009.md) | 9 Limits on amounts that may be taken into account for the provision of food and living accommodation |
+| Reg. 9 | [reg-009.md](reg-009.md) | 9 Limits on amounts that may be taken into account for provision of food and living accommodation |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Citation |
