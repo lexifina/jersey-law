@@ -1,6 +1,6 @@
 # Residential Tenancy (Jersey) Law 2011
 
-L.31/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_31_2011_20200409>
+L.31/2011 · official consolidation showing the law from 2020-04-10 · <https://www.jerseylaw.je/laws/current/l_31_2011_20200929>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,13 @@ L.31/2011 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 5 | [art-005.md](art-005.md) | 5 Other provisions in agreements |
 | Art. 6 | [art-006.md](art-006.md) | 6 Periodic tenancy: requirement by landlord to quit |
 | Art. 7 | [art-007.md](art-007.md) | 7 Periodic tenancy: notice by tenant to terminate |
+| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Termination of a residential tenancy |
+| Art. 7B | [art-007-b.md](art-007-b.md) | 7B Effect of Articles 6 to 7A on prospective residential tenancies |
+| Art. 7C | [art-007-c.md](art-007-c.md) | 7C Suspension of rent increases |
+| Art. 7D | [art-007-d.md](art-007-d.md) | 7D Failure to pay rent because of financial hardship |
+| Art. 7E | [art-007-e.md](art-007-e.md) | 7E Guidance |
+| Art. 7F | [art-007-f.md](art-007-f.md) | 7F Power to make further provision by Order |
+| Art. 7G | [art-007-g.md](art-007-g.md) | 7G Expiration of Part 3A |
 | Art. 8 | [art-008.md](art-008.md) | 8 Termination if service element fails, agreement not in writing, details missing or opportunity to read denied |
 | Art. 9 | [art-009.md](art-009.md) | 9 Premises uninhabitable |
 | Art. 10 | [art-010.md](art-010.md) | 10 Breaches by landlord |
