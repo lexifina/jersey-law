@@ -1,6 +1,6 @@
 # Planning and Building (General Development) (Jersey) Order 2011
 
-R&O.78/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_78_2011_20200409>
+R&O.78/2011 · official consolidation showing the law from 2020-04-10 · <https://www.jerseylaw.je/laws/current/ro_78_2011_20200908>
 
 | Provision | File | Heading |
 | --- | --- | --- |

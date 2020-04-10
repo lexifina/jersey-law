@@ -759,6 +759,45 @@ Class M - late night entertainment and drinking venues to a mixed use of Class B
 Interpretation of Class B
 B.2
 For the purposes of Class B, a reference to a class by letter is a reference to the use Class bearing that letter in Schedule 2.
+part 9
+emergency development by the government of jersey
+CLASS A
+Permitted development
+A.1
+Development consisting of -
+(a)
+work which is -
+(i)
+carried out, by the Government of Jersey, on or to any land, and
+(ii)
+of a type for which permission is granted to any other person or body under any other Part of this Schedule, subject only to the limitation and conditions in this Part,
+where such work is reasonably required to deal with the Covid-19 outbreak in Jersey or the aftermath of that outbreak; or
+(b)
+a change of use of land, by the Government of Jersey, to such use as may reasonably be required to deal with the Covid-19 outbreak in Jersey or the aftermath of that outbreak, including use as -
+(i)
+a temporary hospital or other medical treatment facility,
+(ii)
+a temporary hostel or other residential facility for such persons or classes of persons as may be required to be accommodated for any public health or medical purpose,
+(iii)
+a temporary facility for the storage or disposal of waste, or
+(iv)
+a temporary mortuary.
+Interpretation of A.1
+A.2
+For the purposes of A.1,
+“Covid-19” means the contagious or infectious disease of that name which is notifiable under the Notifiable Diseases (Jersey) Order 1988.
+Limitation and conditions
+A.3
+(1)
+Development under A.1 is permitted for no longer than the period of 12 months beginning with the date on which the work is completed, or 6 months beginning with the date on which the change of use in question first occurs, as the case may be.
+(2)
+Where the land is or forms part of a LBP or pLBP, or is in an AAP, development is permitted by Class A only to the extent that -
+(a)
+in the case of a LBP or pLBP, it would not affect the significance of that building or place through demolition or other changes; or
+(b)
+in the case of any land to which a special archaeological interest attaches, it does not involve excavation or other work which would permanently and irrevocably damage that special interest.
+(3)
+As soon as is reasonably practicable after the end of the period mentioned in (1), the land in question must be returned to the same use as, and restored to the same, or so near as practicably the same, condition in which it was, before the change of use occurred.
 ANNEXURE
 PART 1
 PART 2
