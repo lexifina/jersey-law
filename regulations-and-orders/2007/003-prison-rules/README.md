@@ -1,6 +1,6 @@
 # Prison (Jersey) Rules 2007
 
-R&O.3/2007 · official consolidation showing the law from 2019-07-24 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20200421>
+R&O.3/2007 · official consolidation showing the law from 2020-04-22 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20201219>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -70,6 +70,7 @@ R&O.3/2007 · official consolidation showing the law from 2019-07-24 · <https:/
 | Rule 62 | [rule-062.md](rule-062.md) | 62 Accommodation of female prisoner's baby |
 | Rule 63 | [rule-063.md](rule-063.md) | 63 Remission of sentence |
 | Rule 64 | [rule-064.md](rule-064.md) | 64 Temporary release |
+| Rule 64A | [rule-064-a.md](rule-064-a.md) | 64A Recall of certain prisoners temporarily released |
 | Rule 65 | [rule-065.md](rule-065.md) | 65 Duty of Governor to supervise and control |
 | Rule 66 | [rule-066.md](rule-066.md) | 66 Duty of officer in control |
 | Rule 67 | [rule-067.md](rule-067.md) | 67 Removal from association |
