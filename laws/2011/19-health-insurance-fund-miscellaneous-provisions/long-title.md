@@ -1,1 +1,1 @@
-A LAW to withdraw money from the Health Insurance Fund for 2011, 2013, 2014 and 2015, to enable the withdrawal of money from that Fund for 2012 and to authorize the withdrawal of certain expenses from that Fund.
+A LAW to enable withdrawal of money from the Health Insurance Fund.
