@@ -1,6 +1,6 @@
 # Education (Jersey) Law 1999
 
-L.27/1999 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_27_1999_20200423>
+L.27/1999 · official consolidation showing the law from 2020-04-24 · <https://www.jerseylaw.je/laws/current/l_27_1999_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |

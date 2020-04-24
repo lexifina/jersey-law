@@ -22,4 +22,4 @@
 (i) an immediate danger of personal injury to, or
 (ii) an immediate danger to the property of,
 any person (including the child himself or herself).
-(6) In paragraph (5), the reference to giving corporal punishment to a child is to doing anything for the purpose of punishing that child (whether or not there are other reasons for doing it) which, apart from any justification, would constitute assault.
+(6) In paragraph (5), the reference to giving corporal punishment to a child is to administering a physical act on the person of a child, for the purpose of punishing that child (whether or not there are other reasons for administering the act) which would constitute assault.
