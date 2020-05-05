@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Miscellaneous Provisions and Prescribed Fees and Forms) (Jersey) Order 2018
 
-R&O.97/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_97_2018_20200504>
+R&O.97/2018 · official consolidation showing the law from 2020-05-05 · <https://www.jerseylaw.je/laws/current/ro_97_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,6 +9,7 @@ R&O.97/2018 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 3 | [art-003.md](art-003.md) | 3 Persons who may witness execution of LPA |
 | Art. 4 | [art-004.md](art-004.md) | 4 Fees in connection with registration of LPA |
 | Art. 5 | [art-005.md](art-005.md) | 5 Period prescribed for registration of LPA |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Period prescribed for objections to registrations |
 | Art. 6 | [art-006.md](art-006.md) | 6 Requirements for disclaimer of appointment under LPA |
 | Art. 7 | [art-007.md](art-007.md) | 7 Supervision of delegates by the Viscount: prescribed scale of fees |
 | Art. 8 | [art-008.md](art-008.md) | 8 Fees and expenses of delegates |
