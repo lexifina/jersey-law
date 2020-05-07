@@ -27,8 +27,14 @@ Both sides (between St. Saviour’s Hill and the entrance to Highlands College)
 Claremont Road
 Both sides (between Bagatelle Farm and Bagatelle Road)
 Clos Paumelle
-North and west sides ((a) between the junction with Bagatelle Road and the southern pillar of the gateway of the property known as “Portal Nous” (2 Clos Paumelle) and (b) between the exit of the public car park and 12 Clos Paumelle for a distance of 10 yards in a southerly direction)
-South and east sides ((a) between the junction with Bagatelle Road and the eastern pillar of the gateway of the property known as “Sayonara” (44 Clos Paumelle) and (b) from the western side of the entrance of 41 Clos Paumelle for a distance of 60 yards in an easterly direction)
+North side (from its northern junction with Bagatelle Road to its junction with La Croix de Bois)
+West side (between the exit of the public car park and 12 Clos Paumelle for a distance of 10 yards in a southerly direction)
+East side (from its junction with La Croix de Bois to the western pillar of the gateway of 13 Clos Paumelle)
+East and south sides (from the northern pillar of the gateway of 51 Clos Paumelle to the northern pillar of the gateway of 52 Clos Paumelle)
+East and north sides (from the southern pillar of the gateway of 45 Clos Paumelle to the southern pillar of 58 Clos Paumelle)
+South side (from the western side of the gateway of 41 Clos Paumelle for a distance of 60 yards in an easterly direction)
+North and west sides (between its southern junction with Bagatelle Road and the southern pillar of the gateway of the property “Portal Nous” (2 Clos Paumelle))
+South and east sides (between Bagatelle Road and the eastern pillar of the property known as “Sayonara” (44 Clos Paumelle))
 Coast Road (Route A4)
 Both sides (between the junction with Havre des Pas and the junction with Beach Road)
 Dicq Road
@@ -55,19 +61,31 @@ Both sides (between the entrance to Hautlieu School and the entrance to Highland
 James Road
 Both sides
 La Chasse Brunet
-East side (from its junction with St. Saviour’s Hill for a distance of 31 yards in a southerly direction)
-East side (from the northern boundary of the property known as “Rosedale” for a distance of 43 yards in a southerly direction)
-East side (from its junction with La Rue de Patier for a distance of 169 yards in a northerly direction)
+East side (from its junction with La Rue de Patier for a distance of 38 yards in a northerly direction)
+East side (from a point 63 yards north of its junction with La Rue de Patier to a point 77 yards south of its junction with St. Saviour’s Hill)
+East side (from its junction with St. Saviour’s Hill for a distance of 24 yards in a southerly direction)
 East side (from its junction with La Rue de Patier to its junction with Bagatelle Road)
 West side
+Langley Avenue
+Both sides (from a point 160 yards north of its junction with St. Saviour’s Hill for a distance of 80 yards in a northerly direction)
 Langley Park
-Both sides (from its junction with Grands Vaux for a distance of 61 yards in an easterly direction)
+Both sides (from its junction with Les Grands Vaux for a distance of 67 yards in an easterly direction)
 South side (from the beginning of the footway at its junction with Langley Avenue for a distance of 58 yards in a westerly direction)
+South side (from a point 180 yards east of its junction with Les Grands Vaux for a distance of 50 yards in an easterly direction)
+South side (from a point 295 yards east of its junction with Les Grands Vaux for a distance of 35 yards in a north easterly direction)
 La Route du Fort
 Both sides
 La Rue de la Croix Besnard (Croix Besnard)
 North side ((a) from its junction with Les Varines and Bagatelle Road for a distance of 31 yards in an easterly direction (b) from a point 87 yards from the same junction for a distance of 13 yards in an easterly direction and (c) from its junction with La Rue de Beauvoir for a distance of 56 yards in a westerly direction)
 South side
+La Rue à la Dame
+East side (from its junction with Les Grands Vaux for a distance of 66 yards in a southerly direction)
+West side (from its junction with Les Grands Vaux for a distance of 20 yards in a southerly direction)
+West side (from a point 42 yards from its junction with Les Grands Vaux for a distance of 21 yards in a southerly direction)
+La Rue des Friquettes
+East side (from its junction with La Rue des Pigneaux for a distance of 85 yards in a southerly direction)
+La Rue de la Hougette
+Both sides (from its junction with La Rue des Friquettes for a distance of 129 yards in an easterly direction)
 La Rue de Patier
 North side (between the junction with La Chasse Brunette and the junction with Sunshine Avenue)
 Both sides (between its junction with La Chasse Brunet to its junction with Le Jardin à Pommiers)

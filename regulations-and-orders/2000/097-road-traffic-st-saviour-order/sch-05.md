@@ -1,13 +1,44 @@
-# SCHEDULE 5
-(Article 8)
-Duration of parking on certain roads
+# SCHEDULE 4
+(Article 7)
+PART 1
+(Article 7(1))
+Roads not to be used by chars-à-banc
 Column 1
 Column 2
 Road
 Direction
-Beach Road
-The entire road
-Highlands Lane
-Both sides from its junction with St. Saviour’s Hill for a distance of 1,367 yards
-La Rue de la Fontaine
-Both sides from its junction with Belvedere Hill to the northern boundary of the property known as Meadow View
+Bagatelle Lane
+Throughout its length
+Elizabeth Street
+Between its junction with La Route du Fort and Dicq Road
+Grands Vaux
+Between Rue à la Dame and Moulin de Pol
+La Rue du Tapon
+Throughout its length
+Les Varines
+Throughout its length
+Mary Street
+Throughout its length
+Mont de la Rosière
+Throughout its length
+Rue de la Chouquetterie
+Between Princes Tower Road and Rue du Côtil
+PART 2
+(Article 7(5))
+Roads not to be used by vehicles exceeding 6 feet 6 inches in width
+Column 1
+Column 2
+Road
+Direction
+Brickfield Lane
+Throughout its length
+Claremont Road
+Between Bagatelle Road and the parish boundary
+La Rue à la Dame
+From its junction with Bel Air Lane to its junction with Les Grands Vaux
+Le Geyt Road
+Throughout its length
+Les Ruettes
+Throughout its length
+Les Varines
+Throughout its length

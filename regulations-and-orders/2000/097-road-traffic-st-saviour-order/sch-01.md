@@ -39,6 +39,8 @@ James Road (between Belvedere Hill and Summerville Lane)
 Belvedere Hill to Summerville Lane
 La Chasse Brunet
 Bagatelle Road to La Rue de Patier
+La Rue de la Hougette
+La Rue des Friquettes to Princes Tower Road
 La Rue Le Masurier
 The parish boundary to Stopford Road
 Le Geyt Road (between St. Saviour’s Hill and Springfield Road)
