@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Jersey) Law 2016
 
-L.30/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_30_2016_20200513>
+L.30/2016 · official consolidation showing the law from 2020-05-14 · <https://www.jerseylaw.je/laws/current/l_30_2016_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -65,6 +65,14 @@ L.30/2016 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 58 | [art-058.md](art-058.md) | 58 Appeals |
 | Art. 59 | [art-059.md](art-059.md) | 59 Temporary restriction of liberty for purpose of life-sustaining treatment |
 | Art. 60 | [art-060.md](art-060.md) | 60 Authorization as authority to take and convey P |
+| Art. 60A | [art-060-a.md](art-060-a.md) | 60A Power to declare that an extraordinary period exists |
+| Art. 60B | [art-060-b.md](art-060-b.md) | 60B Temporary provision during the Covid-19 outbreak |
+| Art. 60C | [art-060-c.md](art-060-c.md) | 60C Temporary provision permitting significant restriction on liberty |
+| Art. 60D | [art-060-d.md](art-060-d.md) | 60D Application for an interim authorization |
+| Art. 60E | [art-060-e.md](art-060-e.md) | 60E Consultation with appropriate persons |
+| Art. 60F | [art-060-f.md](art-060-f.md) | 60F Interim authorization |
+| Art. 60G | [art-060-g.md](art-060-g.md) | 60G Application of Articles 51 and 55 |
+| Art. 60H | [art-060-h.md](art-060-h.md) | 60H Expiration of this Article and Articles 60A to 60G |
 | Art. 61 | [art-061.md](art-061.md) | 61 Application of this Part, and interpretation |
 | Art. 62 | [art-062.md](art-062.md) | 62 Appointment of independent capacity advocates |
 | Art. 63 | [art-063.md](art-063.md) | 63 Functions of independent capacity advocates |
