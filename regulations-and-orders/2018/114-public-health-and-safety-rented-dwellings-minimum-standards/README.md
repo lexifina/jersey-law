@@ -1,6 +1,6 @@
 # Public Health and Safety (Rented Dwellings - Minimum Standards and Prescribed Hazards) (Jersey) Order 2018
 
-R&O.114/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_114_2018_20200513>
+R&O.114/2018 · official consolidation showing the law from 2020-05-14 · <https://www.jerseylaw.je/laws/current/ro_114_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
