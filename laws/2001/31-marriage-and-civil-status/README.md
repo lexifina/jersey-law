@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Law 2001
 
-L.31/2001 · official consolidation showing the law from 2020-04-03 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200519>
+L.31/2001 · official consolidation showing the law from 2020-05-20 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,6 +36,12 @@ L.31/2001 · official consolidation showing the law from 2020-04-03 · <https://
 | Art. 24E | [art-024-e.md](art-024-e.md) | 24E Marriages void under this Part |
 | Art. 24F | [art-024-f.md](art-024-f.md) | 24F Co-operation and disclosure |
 | Art. 24G | [art-024-g.md](art-024-g.md) | 24G Orders under this Part |
+| Art. 24H | [art-024-h.md](art-024-h.md) | 24H Change to process to give notice of intended marriage |
+| Art. 24I | [art-024-i.md](art-024-i.md) | 24I Change to publication requirements for notices of intended marriage |
+| Art. 24J | [art-024-j.md](art-024-j.md) | 24J Change to signature verification process for issue of marriage schedule |
+| Art. 24K | [art-024-k.md](art-024-k.md) | 24K Change to process for signing certificate of no impediment |
+| Art. 24L | [art-024-l.md](art-024-l.md) | 24L Change to signature verification process for issue of conversion declaration form |
+| Art. 24M | [art-024-m.md](art-024-m.md) | 24M Expiry of provisions related to temporary Covid-19 measures |
 | Art. 25 | [art-025.md](art-025.md) | 25 Interpretation of Part 3 |
 | Art. 26 | [art-026.md](art-026.md) | 26 Methods of solemnizing marriage |
 | Art. 27 | [art-027.md](art-027.md) | 27 Place of publication of banns |
