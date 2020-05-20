@@ -1,6 +1,6 @@
 # Civil Partnership (Jersey) Law 2012
 
-L.4/2012 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_4_2012_20200519>
+L.4/2012 · official consolidation showing the law from 2020-05-20 · <https://www.jerseylaw.je/laws/current/l_4_2012_20200616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,6 +31,10 @@ L.4/2012 · official consolidation showing the law from 2019-10-09 · <https://w
 | Art. 24 | [art-024.md](art-024.md) | 24 Declarations |
 | Art. 25 | [art-025.md](art-025.md) | 25 Orders concerning registration |
 | Art. 26 | [art-026.md](art-026.md) | 26 Duty of Minister |
+| Art. 26A | [art-026-a.md](art-026-a.md) | 26A Change to publication requirements for notices of civil partnerships |
+| Art. 26B | [art-026-b.md](art-026-b.md) | 26B Change to process for declarations and affirmations for licences |
+| Art. 26C | [art-026-c.md](art-026-c.md) | 26C Change to process for declarations and affirmations for certificates of civil partnerships |
+| Art. 26D | [art-026-d.md](art-026-d.md) | 26D Expiry of this Part |
 | Art. 27 | [art-027.md](art-027.md) | 27 Jurisdiction |
 | Art. 28 | [art-028.md](art-028.md) | 28 Grounds of application for dissolution of a civil partnership |
 | Art. 29 | [art-029.md](art-029.md) | 29 Restrictions on applications for dissolution during first 3 years after creation of civil partnership |
