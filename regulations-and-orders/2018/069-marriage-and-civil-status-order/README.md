@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20200519>
+R&O.69/2018 · official consolidation showing the law from 2020-05-20 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20200616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,6 +36,7 @@ R&O.69/2018 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 30 | [art-030.md](art-030.md) | 30 Freedom to marry declaration |
 | Art. 31 | [art-031.md](art-031.md) | 31 Marriage schedule |
 | Art. 32 | [art-032.md](art-032.md) | 32 Signature verification form |
+| Art. 32A | [art-032-a.md](art-032-a.md) | 32A Change to signature verification process during Covid-19 outbreak |
 | Art. 33 | [art-033.md](art-033.md) | 33 Marriage certificate |
 | Art. 34 | [art-034.md](art-034.md) | 34 Certificate of no impediment to marriage |
 | Art. 35 | [art-035.md](art-035.md) | 35 Application for conversion |
