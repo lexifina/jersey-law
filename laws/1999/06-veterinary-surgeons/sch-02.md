@@ -1,6 +1,6 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 10(3))
-exemptions from restrictions on practice of veterinary surgery requiring approval of States veterinary officer
+Exemptions from restrictions on practice of veterinary surgery requiring approval of States Veterinary Officer
 1 Equine dental activities
 A person who is approved by the States Veterinary Officer in accordance with paragraph 3 may carry out any of the following activities in relation to horses -
 (a) examination, evaluation and recording of dental abnormalities;
@@ -11,8 +11,10 @@ A person who is approved by the States Veterinary Officer in accordance with par
 2 Other activities
 (1) A person who is approved by the States Veterinary Officer in accordance with paragraph 3 may carry out any of the following activities for which such approval has been given -
 (a) artificial insemination of a domestic animal;
-(b) a procedure to transfer, or to assist in transferring, embryos between cattle; or
-(c) the implantation into an animal of a transponder.
+(b) a procedure to transfer, or to assist in transferring, embryos between cattle;
+(c) the implantation into an animal of a transponder;
+(d) the collection of blood from an animal for diagnostic or surveillance purposes; or
+(e) the testing of an animal for diagnostic or surveillance purposes.
 (2) In paragraph (1) “transponder” means a read-only passive radio frequency device.
 3 Approval by States Veterinary Officer
 (1) The States Veterinary Officer may approve a person to carry out the activities described in paragraph 1 if -

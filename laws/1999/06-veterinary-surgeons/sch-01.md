@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 10(2))
-exemptions from restrictions on practice of veterinary surgery not requiring approval of states veterinary officer
-part 1
-activities that may be carried out
+Exemptions from restrictions on practice of veterinary surgery not requiring approval of States Veterinary Officer
+Part 1
+Activities that may be carried out
 1. Any minor medical treatment given to an animal by its owner, by another member of a household of which the owner is a member, or by a person in the employment of the owner.
 2. Any medical treatment or any minor surgery (not involving entry into a body cavity) given in either case to an animal used in agriculture (as defined in the Agriculture Act 1947 of the United Kingdom), and so given by its owner or by a person engaged or employed in caring for animals so used.
 3. The rendering in an emergency of first aid for the purpose of saving life or relieving pain or suffering.
@@ -28,7 +28,7 @@ if the instruction is given by a recognized veterinary surgeon and the operation
 In this paragraph -
 “student veterinary nurse” means a person undergoing training as a veterinary nurse at an approved training and assessment centre or a veterinary practice approved by such a centre; and
 “approved training and assessment centre” means a centre approved by the Council of the Royal College of Veterinary Surgeons of the United Kingdom for the purpose of training and assessing student veterinary nurses.
-PART 2
+Part 2
 Exclusions from provisions of Part 1
 1. Paragraph 2 of Part 1 does not apply -
 (a) to a laparotomy; or

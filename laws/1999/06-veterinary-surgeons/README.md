@@ -1,6 +1,6 @@
 # Veterinary Surgeons (Jersey) Law 1999
 
-L.6/1999 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_6_1999_20200527>
+L.6/1999 · official consolidation showing the law from 2020-05-28 · <https://www.jerseylaw.je/laws/current/l_6_1999_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,5 +19,5 @@ L.6/1999 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 10A | [art-010-a.md](art-010-a.md) | 10A Fees for certain exemptions |
 | Art. 11 | [art-011.md](art-011.md) | 11 Amendment of Schedules |
 | Art. 12 | [art-012.md](art-012.md) | 12 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
