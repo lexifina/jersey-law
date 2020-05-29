@@ -82,7 +82,9 @@ both sides, between its junction with La Grande Route de la Côte and a point 15
 (b)
 both sides, between its junction with La Rue du Maupertuis and the southern boundary of the property known as “Nirvana”;
 (c)
-both sides from its junction with La Route de la Côte for 240 feet southwards towards Green Island slipway.
+both sides from its junction with La Route de la Côte for 240 feet southwards towards Green Island slipway;
+(d)
+east side, from a point 23 yards north of its junction with La Rue de la Croix to a point 20 yards further north.
 La Rue du Hocq
 both sides, for its entire length.
 La Rue du Maupertuis

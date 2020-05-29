@@ -1,6 +1,6 @@
 # Road Traffic (St. Clement) (Jersey) Order 1987
 
-R&O.7676 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7676_20200528>
+R&O.7676 · official consolidation showing the law from 2020-05-29 · <https://www.jerseylaw.je/laws/current/ro_7676_20210617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
