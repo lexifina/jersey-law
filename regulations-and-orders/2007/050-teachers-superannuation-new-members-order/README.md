@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (New Members) (Jersey) Order 2007
 
-R&O.50/2007 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_50_2007_20200602>
+R&O.50/2007 · official consolidation showing the law from 2020-06-03 · <https://www.jerseylaw.je/laws/current/ro_50_2007_20220531>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -37,8 +37,7 @@ R&O.50/2007 · official consolidation showing the law from 2020-01-01 · <https:
 | Art. 31 | [art-031.md](art-031.md) | 31 Death of a pensioner - where no spouse or surviving civil partner is left but child or dependants are left |
 | Art. 32 | [art-032.md](art-032.md) | 32 Death of a deferred pensioner |
 | Art. 33 | [art-033.md](art-033.md) | 33 Conversion of pension to lump sum (“commutation”) |
-| Art. 34 | [art-034.md](art-034.md) | 34 Conversion of benefits into lump sum not exceeding £30,000 |
-| Art. 34A | [art-034-a.md](art-034-a.md) | 34A Deferred pensioner - conversion of benefits into lump sum not exceeding £18,000 |
+| Art. 34 | [art-034.md](art-034.md) | 34 Exchange of trivial benefits for lump sum |
 | Art. 35 | [art-035.md](art-035.md) | 35 Taking of lesser pension so surviving dependant will receive more pension (“allocation”) |
 | Art. 36 | [art-036.md](art-036.md) | 36 Adjustment where person entitled to old age pension |
 | Art. 37 | [art-037.md](art-037.md) | 37 Increase of pension by employer agreeing to make larger contributions (“augmentation”) |
