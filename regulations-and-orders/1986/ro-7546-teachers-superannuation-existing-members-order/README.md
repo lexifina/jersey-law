@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (Existing Members) (Jersey) Order 1986
 
-R&O.7546 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7546_20200602>
+R&O.7546 · official consolidation showing the law from 2020-06-03 · <https://www.jerseylaw.je/laws/current/ro_7546_20220531>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -64,8 +64,7 @@ R&O.7546 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 57 | [art-057.md](art-057.md) | 57 Allowance in respect of death during service after age 70 |
 | Art. 58 | [art-058.md](art-058.md) | 58 Supplementary death gratuities |
 | Art. 59 | [art-059.md](art-059.md) | 59 Benefits after re-employment |
-| Art. 59A | [art-059-a.md](art-059-a.md) | 59A Conversion of benefits into lump sum not exceeding £30,000 |
-| Art. 59B | [art-059-b.md](art-059-b.md) | 59B Former teacher - conversion of benefits into lump sum not exceeding £18,000 |
+| Art. 59A | [art-059-a.md](art-059-a.md) | 59A Exchange of trivial benefits for lump sum |
 | Art. 60 | [art-060.md](art-060.md) | 60 Interpretation of Section B |
 | Art. 61 | [art-061.md](art-061.md) | 61 Short term pensions |
 | Art. 62 | [art-062.md](art-062.md) | 62 Entitlement to long term pension |

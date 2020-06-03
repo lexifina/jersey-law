@@ -3,6 +3,7 @@ SPECIAL CONTRIBUTIONS
 TABLE 1
 DEEMED ADDITIONAL SERVICE
 (Article 34)
+The deemed additional service of any teacher shall be determined in accordance with the formula where -
 a is the factor shown in the appropriate entry of column B of the table below;
 b is the amount (in pounds) of the teacher’s additional contributions held in the Fund at 31st March, 1972; and
 c is the amount (in pounds) of the teacher’s annual salary at that date.
