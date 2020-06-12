@@ -1,6 +1,6 @@
 # Road Traffic (Sand Street Car Park) (Jersey) Order 2012
 
-R&O.119/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_119_2012_20200611>
+R&O.119/2012 · official consolidation showing the law from 2020-06-12 · <https://www.jerseylaw.je/laws/current/ro_119_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
