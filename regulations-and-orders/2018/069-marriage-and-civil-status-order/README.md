@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2020-05-20 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20200616>
+R&O.69/2018 · official consolidation showing the law from 2020-06-17 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20200929>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,10 +24,14 @@ R&O.69/2018 · official consolidation showing the law from 2020-05-20 · <https:
 | Art. 18 | [art-018.md](art-018.md) | 18 Duration of approval |
 | Art. 19 | [art-019.md](art-019.md) | 19 Responsible person |
 | Art. 20 | [art-020.md](art-020.md) | 20 Standard conditions |
+| Art. 20A | [art-020-a.md](art-020-a.md) | 20A Additional standard conditions during Covid-19 outbreak |
 | Art. 21 | [art-021.md](art-021.md) | 21 Special conditions |
 | Art. 22 | [art-022.md](art-022.md) | 22 Amendments to approval |
 | Art. 23 | [art-023.md](art-023.md) | 23 Revocation of approval |
 | Art. 24 | [art-024.md](art-024.md) | 24 Review of decision of approving authority |
+| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Approvals limited to renewals and homes |
+| Art. 24B | [art-024-b.md](art-024-b.md) | 24B Modifications to scheme for approval of locations |
+| Art. 24C | [art-024-c.md](art-024-c.md) | 24C Expiry of this Part |
 | Art. 25 | [art-025.md](art-025.md) | 25 Form of application |
 | Art. 26 | [art-026.md](art-026.md) | 26 Excluded locations |
 | Art. 27 | [art-027.md](art-027.md) | 27 Included locations |
