@@ -1,6 +1,6 @@
 # Air Navigation (Rules of the Air) (Jersey) Regulations 2017
 
-R&O.70/2017 · official consolidation showing the law from 2019-01-22 · <https://www.jerseylaw.je/laws/current/ro_70_2017_20200622>
+R&O.70/2017 · official consolidation showing the law from 2020-06-23 · <https://www.jerseylaw.je/laws/current/ro_70_2017>
 
 | Provision | File | Heading |
 | --- | --- | --- |

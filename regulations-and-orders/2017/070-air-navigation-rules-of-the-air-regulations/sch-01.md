@@ -111,7 +111,7 @@ INTERPRETATION AND APPLICATION
 “route segment” means a route or portion of route usually flown without an intermediate stop;
 “runway-holding position” means a designated position intended to protect a runway, an obstacle limitation surface, or an ILS/MLS critical/sensitive area at which taxiing aircraft and vehicles must stop and hold, unless otherwise authorized by the aerodrome control tower;
 “RVR” means runway visual range;
-“safety-sensitive personnel” means a person who might endanger aviation safety if that person fails to perform duties and functions improperly including, crew member, aircraft maintenance personnel and air traffic controller;
+“safety-sensitive personnel means a person who might endanger aviation safety if that person performs duties and functions improperly, including a crew member, aircraft maintenance personnel, aerodrome operations personnel, rescue, fire-fighting and maintenance personnel, personnel allowed unescorted access to the movement area and air traffic controller;
 “sailplane” means a heavier-than-air aircraft which is supported in flight by the dynamic reaction of the air against its fixed lifting surfaces, the free flight of which does not depend on an engine, including also hang gliders, paragliders and other comparable aircraft;
 “secondary surveillance radar” or “SSR” means a surveillance radar system which uses transmitters, receivers (interrogators) and transponders;
 “SERA” means the Standard European Rules of the Air;
