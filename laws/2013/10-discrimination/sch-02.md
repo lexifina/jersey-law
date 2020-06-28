@@ -243,18 +243,12 @@ exceptions to prohibited acts: sex and related characteristics
 (b) the safety of competitors.
 (3) A gender-affected activity is a sport, game or other activity of a competitive nature in circumstances in which the physical strength, stamina or physique of average persons of one sex would put them at a disadvantage compared to average persons of another sex as competitors in events involving the activity.
 (4) In considering whether a sport, game or other activity is gender-affected in relation to children, it is appropriate to take account of the age and stage of development of children who are likely to be competitors.
-22 Pregnancy and maternity: health and safety risk
-(1) An employer who suspends without pay or reassigns to different duties an employee who has the protected characteristics of pregnancy or maternity for the reasons set out in sub-paragraph (2) does not contravene Article 10, so far as it relates to the protected characteristics of sex, pregnancy or maternity, unless the employer would have treated an employee without those protected characteristics suspended or reassigned for those reasons more favourably.
-(2) The reasons are that it is not reasonably practical -
-(a) for the employee to continue working in her usual employment according to a risk assessment undertaken in accordance with Article 3 of the Health and Safety at Work (Jersey) Law 1989; and
-(b) for the employer to allocate the employee to other duties, alter her duties or make appropriate changes to the working environment.
-(3) For the purpose of this paragraph a woman has the protected characteristics of pregnancy and maternity from the start of her pregnancy until 18 weeks after the birth of her child.
-(4) For the purpose of this paragraph the protected characteristics include breast feeding.
+22
 23 Pregnancy and maternity: recruiting to a limited-term contract
 An employer who fails to recruit a person does not contravene Article 9 so far as it relates to the protected characteristics of sex, pregnancy or maternity where -
 (a) the employer aims to recruit a person on a limited term contract to undertake a project of work that is required to be completed within a particular time frame and has no plans to renew the contract; and
-(b) the person who is not recruited is pregnant and the likely timing of her absence on maternity leave would interfere with completion of the project.
-24 Pregnancy and maternity: maternity pay
+(b) the person who is not recruited is pregnant and the likely timing of her absence on parental leave would interfere with completion of the project.
+24 Pregnancy and maternity: paid parental leave
 An employer who meets the employer’s obligations under Part 5A of the Employment (Jersey) Law 2003 does not contravene Article 10 so far as it relates to the protected characteristics of sex, pregnancy or maternity by paying an employee less than she or another employee would have been entitled to for an equivalent absence on sick leave.
 24A Sex or sexual orientation: marriage between persons of the same sex
 A person does not contravene Article 22, so far as it relates to the protected characteristic of sex only because the person -
