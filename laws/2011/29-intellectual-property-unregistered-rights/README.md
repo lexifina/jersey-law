@@ -1,6 +1,6 @@
 # Intellectual Property (Unregistered Rights) (Jersey) Law 2011
 
-L.29/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_2011_20200710>
+L.29/2011 · official consolidation showing the law from 2020-07-11 · <https://www.jerseylaw.je/laws/current/l_29_2011_20201124>
 
 | Provision | File | Heading |
 | --- | --- | --- |
