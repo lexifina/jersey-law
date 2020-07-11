@@ -1,6 +1,6 @@
 # Competition Regulatory Authority (Jersey) Law 2001
 
-L.12/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_2001_20200710>
+L.12/2001 · official consolidation showing the law from 2020-07-11 · <https://www.jerseylaw.je/laws/current/l_12_2001_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
