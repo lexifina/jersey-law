@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Jersey) Regulations 1967
 
-R&O.5010 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_5010_20200720>
+R&O.5010 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_5010_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ R&O.5010 · official consolidation showing the law from 2019-06-25 · <https://w
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Children’s benefit |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Death benefit |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Deferred pension or transfer payment |
-| Reg. 11A | [reg-011-a.md](reg-011-a.md) | 11A Conversion of pension into lump sum not exceeding £30,000 |
+| Reg. 11A | [reg-011-a.md](reg-011-a.md) | 11A Exchange of trivial pension for lump sum |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Transitional provision in relation to female contributory member |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Benefit to be inalienable |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Reduction of salary |
