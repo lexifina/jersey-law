@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Former Hospital Scheme) (Jersey) Regulations 1992
 
-R&O.8443 · official consolidation showing the law from 2019-06-25 · <https://www.jerseylaw.je/laws/current/ro_8443_20200720>
+R&O.8443 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_8443_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ R&O.8443 · official consolidation showing the law from 2019-06-25 · <https://w
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Death of a pensioner |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 Death of a deferred pensioner |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Widow’s pension |
-| Reg. 14 | [reg-014.md](reg-014.md) | 14 Conversion of pension into lump sum not exceeding £30,000 |
+| Reg. 14 | [reg-014.md](reg-014.md) | 14 Exchange of small pension for lump sum |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Augmentation |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Pensionable allowances |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Added years in respect of pensionable allowance |
