@@ -66,7 +66,7 @@ and who employs any person who is a member of the 1967 Scheme.
 (iii) the States of Jersey, where the employer is -
 (A) an employer falling under paragraph 2(1)(d), and
 (B) established by or under any enactment which makes provision for that employer to be funded in whole or in part, by the States of Jersey.
-(2) Where at any time after an employer has entered into an admission agreement, a level of risk identified by a review risk assessment described under paragraph 4(2)(l) is such as to require it, the Minister on on taking actuarial advice, may determine that the employer enter into a supplementary agreement with the Minister which shall include one or more of the requirements set out under sub-paragraph (1)(a) to (c).
+(2) Where at any time after an employer has entered into an admission agreement, a level of risk identified by a review risk assessment described under paragraph 4(2)(l) is such as to require it, the Minister on taking actuarial advice, may determine that the employer enter into a supplementary agreement with the Minister which shall include one or more of the requirements set out under sub-paragraph (1)(a) to (c).
 (3) Failure by an employer to enter into a supplementary agreement may be taken to amount to a material breach of the employer’s obligations such as to result in the termination of the admission agreement, as described in paragraph 4(2)(m)(ii).
 6 Contributions and other payments
 (1) The contributions certified by the Actuary as payable by an admitted employer to the fund, the admission agreement fund, and any other amounts required to be paid by the employer under -

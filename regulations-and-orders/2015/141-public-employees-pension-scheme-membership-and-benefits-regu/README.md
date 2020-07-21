@@ -1,12 +1,12 @@
 # Public Employees (Pension Scheme) (Membership and Benefits) (Jersey) Regulations 2015
 
-R&O.141/2015 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_141_2015_20200720>
+R&O.141/2015 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_141_2015_20240317>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Meaning of “eligible child” |
-| Reg. 3 | [reg-003.md](reg-003.md) | 3 Meaning of “nominated cohabiting partner” |
+| Reg. 3 | [reg-003.md](reg-003.md) | 3 Meaning of “cohabiting partner” |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Meaning of “pensionable earnings” |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Notional pensionable earnings |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Pensionable allowances |
@@ -37,8 +37,7 @@ R&O.141/2015 · official consolidation showing the law from 2020-01-01 · <https
 | Reg. 31 | [reg-031.md](reg-031.md) | 31 Conversion of retirement benefits into lump sum |
 | Reg. 32 | [reg-032.md](reg-032.md) | 32 Conversion of retirement benefits into lump sum whilst in Scheme employment |
 | Reg. 33 | [reg-033.md](reg-033.md) | 33 Conversion of retirement benefits into lump sum - terminal illness |
-| Reg. 34 | [reg-034.md](reg-034.md) | 34 Conversion of retirement benefits into lump sum not exceeding £30,000 |
-| Reg. 35 | [reg-035.md](reg-035.md) | 35 Conversion of retirement benefits into lump sum not exceeding £18,000 |
+| Reg. 34 | [reg-034.md](reg-034.md) | 34 Exchange of trivial retirement benefits for lump sum |
 | Reg. 36 | [reg-036.md](reg-036.md) | 36 Early payment of retirement benefits on ill-health grounds |
 | Reg. 37 | [reg-037.md](reg-037.md) | 37 Role of Independent Occupational Health Adviser |
 | Reg. 38 | [reg-038.md](reg-038.md) | 38 Pension records and calculation of ill-health pension |

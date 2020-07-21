@@ -38,7 +38,7 @@ In this Schedule -
 (5) Except in a case falling under paragraph 2(4)(d), (e) or (f), the amount forfeited must not include any amount representing the member’s own contributions.
 5 Effect of forfeiture
 (1) Where a person to whom this Schedule applies has had his or her retirement benefits or benefits in payment forfeited in whole, or in part, a copy of the forfeiture certificate issued under paragraph 4 must be provided to the person concerned, and contain a statement showing the amount forfeited and the effect of the forfeiture on the person’s future benefits under the Scheme.
-(2) Where a forfeiture certificate is issued under paragraph 4, the Administrator must, subject to any appeal against the Minister’s determination under that paragraph, transfer out of the person’s pension record, an amount representing the value of the benefits to be forfeited and pay that amount to the person’s employer, or the fund in a case falling under paragraph 2(4)(d).
+(2) Where a forfeiture certificate is issued under paragraph 4, the Administrator must, subject to any appeal against the Minister’s determination under that paragraph, transfer out of the person’s pension record, an amount representing the value of the benefits to be forfeited and pay that amount to the fund, or in a case falling under paragraph 2(4)(d), the person’s employer.
 (3) If the effect of forfeiture is to extinguish the person’s entitlement to any rights or benefits under the Scheme, the Administrator must close the person’s pension record.
 (4) Where a person’s accrued retirement benefits or benefits in payment are forfeited in whole, or in part, the fund shall be discharged of any actual or contingent liability in respect of those forfeited rights or benefits.
 6 Appeals
