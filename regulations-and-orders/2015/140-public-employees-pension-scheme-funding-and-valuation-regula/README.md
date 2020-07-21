@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Funding and Valuation) (Jersey) Regulations 2015
 
-R&O.140/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_140_2015_20200720>
+R&O.140/2015 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_140_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
