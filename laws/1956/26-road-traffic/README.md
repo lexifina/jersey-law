@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2019-03-01 · <https://www.jerseylaw.je/laws/current/l_26_1956_20200720>
+L.26/1956 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/l_26_1956_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -54,6 +54,7 @@ L.26/1956 · official consolidation showing the law from 2019-03-01 · <https://
 | Art. 39 | [art-039.md](art-039.md) | 39 Motor vehicles to give way to other vehicles in narrow roads |
 | Art. 40 | [art-040.md](art-040.md) | 40 Use of footways and cycle tracks |
 | Art. 41 | [art-041.md](art-041.md) | 41 Wearing of seat belts |
+| Art. 41A | [art-041-a.md](art-041-a.md) | 41A Notification to bus passengers of requirement to wear seat belts |
 | Art. 42 | [art-042.md](art-042.md) | 42 Restrictions on carrying children not wearing seat belts in motor vehicles |
 | Art. 43 | [art-043.md](art-043.md) | 43 Medical exemption certificate |
 | Art. 44 | [art-044.md](art-044.md) | 44 Restriction on pillion riding on motor cycles |
