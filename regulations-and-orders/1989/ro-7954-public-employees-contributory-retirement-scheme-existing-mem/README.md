@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Existing Members) (Jersey) Regulations 1989
 
-R&O.7954 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_7954_20200720>
+R&O.7954 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_7954_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,8 +21,7 @@ R&O.7954 · official consolidation showing the law from 2020-01-01 · <https://w
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Commutation of pension |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Allocation |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Old age pension adjustment |
-| Reg. 16 | [reg-016.md](reg-016.md) | 16 Conversion of pension into lump sum not exceeding £30,000 |
-| Reg. 16A | [reg-016-a.md](reg-016-a.md) | 16A Conversion of pension into lump sum not exceeding £18,000 |
+| Reg. 16 | [reg-016.md](reg-016.md) | 16 Exchange of small pension for lump sum |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Augmentation |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Pensionable allowances |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Added years in respect of a pensionable allowance |
