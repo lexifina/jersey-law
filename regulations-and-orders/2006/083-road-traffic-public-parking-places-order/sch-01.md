@@ -31,6 +31,8 @@ Blanches Banques West Car Park
 STB3
 Le Cimetière Car Park
 STB3A
+Le Clos des Sables, car park between 122 Le Clos des Sables and 161 Les Quennevais Park
+STB3B
 Corbière, car park near the lighthouse keepers’ cottages, both sides of track
 STB4
 La Carrière Car Park
