@@ -1,6 +1,8 @@
 # SCHEDULE 2
 (Article 4(1))
 Prohibition of waiting
+Belle Vue
+North west side (from its junction with Vue des Mielles Belle Vue) to a point 26 yards in a westerly direction)
 Charing Cross, St. Aubin
 South side.
 North side (from its junction with La Rue du Crocquet to its junction with Le Mont les Vaux).
@@ -16,7 +18,7 @@ Both sides.
 La Mielle Clement
 Both sides.
 La Neuve Route
-West side (from Le Mont au Roux for a distance of 86 yards in a southerly direction).
+West side (from Le Mont au Roux for a distance of 92 yards in a southerly direction).
 West side (from a point 54 yards north of the northern boundary of the Landslide Car Park for a distance of 206 yards in a southerly direction).
 West side (between the southern side of the southern entrance to the property known as “Peterborough Garage” and the northern side of the northern entrance to that property).
 East side (from La Haule slipway for a distance of 145 yards in a southerly direction).
@@ -35,6 +37,8 @@ Both sides.
 La Route de Noirmont
 Both sides (from its junction with La Route des Genets to a point 5 yards south-east of the entrance to the property known as “Le Clos du Hurel”).
 Both sides (from a point 10 yards south of the crossroads formed by it with Travers Farm Lane and the opposite unnamed road, for a distance of 80 yards in a southerly direction).
+West side (from a point 37 yards north of its junction with Travers Farm Lane for a distance of 82 yards in a northerly direction).
+East side (from its junction with Travers Farm Lane for a distance of 123 yards in a northerly direction).
 Both sides (from a point 30 yards north of its junction with La Ruelle du Clos du Parcq to its junction with La Rue de Haut and Noirmont Lane.
 La Route des Camps
 Both sides (from its junction with La Route du Sud to its junction with Le Chemin de la Bolonnière).
@@ -60,7 +64,8 @@ La Rue du Pont Marquet
 North side (from its junction with La Route des Quennevais for a distance of 140 yards in an easterly direction).
 La Rue Voisin
 East side.
-West side (from a point 198 yards south of its junction with Le Chemin de Portelet, for a distance of 58 yards in a southerly direction).
+West side (from a point 80 yards south of its junction with Le Chemin du Portelet for a distance of 70 yards in a southerly direction).
+West side (from a point 165 yards south of its junction with Le Chemin du Portelet for a distance of 86 yards in a southerly direction).
 Le Boulevard (The Bulwarks)
 East side (from its junction with La Neuve Route to that with Le Mont du Boulevard (Bulwarks Hill)).
 West side (in relation to every access to premises from the road for motor cars, between a point one yard to the north of the north side of the access and a point one yard to the south of the south side of the access).
@@ -148,5 +153,7 @@ West side of the estate road (from the western boundary of the property numbered
 East side of the estate road (from the northern boundary of the property numbered 61 Les Quennevais Park to the western boundary of the property numbered 88 Les Quennevais Park).
 The approach road to Le Braye Slip
 Both sides (between Le Braye Slip and the Five Mile Road).
+The approach road to St. Brelade’s Bay Slip
+East side (from its junction with La Route de la Baie).
 The road bordering the eastern boundary of Hotel L’Horizon
 Both sides (from its junction with Le Mont Sohier to the top of the slipway).

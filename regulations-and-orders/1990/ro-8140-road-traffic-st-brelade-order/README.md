@@ -1,6 +1,6 @@
 # Road Traffic (St. Brelade) (Jersey) Order 1990
 
-R&O.8140 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8140_20200816>
+R&O.8140 · official consolidation showing the law from 2020-08-17 · <https://www.jerseylaw.je/laws/current/ro_8140_20231221>
 
 | Provision | File | Heading |
 | --- | --- | --- |
