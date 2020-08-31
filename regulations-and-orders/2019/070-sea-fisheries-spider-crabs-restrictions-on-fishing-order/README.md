@@ -1,6 +1,6 @@
 # Sea Fisheries (Spider Crabs - Restrictions on Fishing) (Jersey) Order 2019
 
-R&O.70/2019 · official consolidation showing the law from 2019-08-06 · <https://www.jerseylaw.je/laws/current/ro_70_2019_20200830>
+R&O.70/2019 · official consolidation showing the law from 2020-08-31 · <https://www.jerseylaw.je/laws/current/ro_70_2019_20210808>
 
 | Provision | File | Heading |
 | --- | --- | --- |
