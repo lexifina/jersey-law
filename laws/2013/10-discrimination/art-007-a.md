@@ -1,6 +1,6 @@
 # 7A What constitutes indirect discrimination - failure to make reasonable adjustments regarding disability
 (1) If a provision, criterion or practice of a person (“the person”) puts a disabled person (“the subject”) at a substantial disadvantage in comparison with persons who are not disabled, the person discriminates against the subject if the person fails to take reasonable steps to avoid the substantial disadvantage.
-(2) not in force on revision date
+(2) If a disabled person (‘the subject’) is put at a substantial disadvantage in comparison with persons who are not disabled by reason of a physical feature of premises, a person (‘the person’) discriminates against the subject if the person fails to take reasonable steps to avoid the substantial disadvantage.
 (3) If a disabled person (“the subject”) would, but for the provision of an auxiliary aid, be put at a substantial disadvantage in comparison with persons who are not disabled, a person (“the person”) discriminates against the subject if the person fails to take such steps as it is reasonable to take to provide the auxiliary aid.
 (4) Paragraphs (1) to (3) apply only if the person knows or reasonably should have been expected to know -
 (a) that the subject has the disability; and
