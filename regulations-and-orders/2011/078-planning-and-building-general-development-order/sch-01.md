@@ -789,7 +789,7 @@ For the purposes of A.1,
 Limitation and conditions
 A.3
 (1)
-Development under A.1 is permitted for no longer than the period of 12 months beginning with the date on which the work is completed, or 6 months beginning with the date on which the change of use in question first occurs, as the case may be.
+Development under A.1 is permitted for no longer than the period of 12 months beginning with the date on which the work is completed, or the date on which the change of use in question first occurs, as the case may be.
 (2)
 Where the land is or forms part of a LBP or pLBP, or is in an AAP, development is permitted by Class A only to the extent that -
 (a)
