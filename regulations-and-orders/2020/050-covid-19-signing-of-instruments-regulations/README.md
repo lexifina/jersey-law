@@ -1,6 +1,6 @@
 # Covid-19 (Signing of Instruments) (Jersey) Regulations 2020
 
-R&O.50/2020 · official consolidation showing the law from 2020-04-23 · <https://www.jerseylaw.je/laws/current/ro_50_2020_20200929>
+R&O.50/2020 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/ro_50_2020_20210428>
 
 | Provision | File | Heading |
 | --- | --- | --- |
