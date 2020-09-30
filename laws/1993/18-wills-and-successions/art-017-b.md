@@ -1,5 +1,5 @@
 # 17B Will witnessed where testator or witness not physically present
-(1) This Article applies where in the period commencing on or after the coming into force of the Covid-19 (Signing of Instruments) (Jersey) Regulations 2020 up to 30th September 2020 -
+(1) This Article applies where in the period commencing on or after the coming into force of the Covid-19 (Signing of Instruments) (Jersey) Regulations 2020 up to the end of 30th April 2021 -
 (a) a will of movable or immovable estate is made; and
 (b) the will cannot be signed by the testator in the physical presence of one or both of the witnesses because of the measures taken to reduce the spread of Covid-19.
 (2) Despite Articles 8 and 30 of the Loi (1851) sur les testaments d’immeubles or any rule of customary law, where this Article applies, a will is valid if it is signed and witnessed in the following way -
@@ -25,4 +25,4 @@
 (ii) that a medical professional or care worker is able to confirm the identity of the testator to the witness over the audio-visual link.
 (6) Nothing in this Article is to be taken as derogating from the provisions of Articles 8 and 30 of the Loi (1851) sur les testaments d’immeubles or any rule of customary law.
 (7) Nothing in this Article affects the validity of a holograph will of movable estate.
-(8) This Article expires on 30th September 2020.
+(8) This Article expires at the end of 30th April 2021.

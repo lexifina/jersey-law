@@ -1,6 +1,6 @@
 # Wills and Successions (Jersey) Law 1993
 
-L.18/1993 · official consolidation showing the law from 2020-04-23 · <https://www.jerseylaw.je/laws/current/l_18_1993_20200929>
+L.18/1993 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/l_18_1993_20210428>
 
 | Provision | File | Heading |
 | --- | --- | --- |
