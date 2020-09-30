@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2020-06-17 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20200929>
+R&O.69/2018 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20210428>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -29,9 +29,6 @@ R&O.69/2018 · official consolidation showing the law from 2020-06-17 · <https:
 | Art. 22 | [art-022.md](art-022.md) | 22 Amendments to approval |
 | Art. 23 | [art-023.md](art-023.md) | 23 Revocation of approval |
 | Art. 24 | [art-024.md](art-024.md) | 24 Review of decision of approving authority |
-| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Approvals limited to renewals and homes |
-| Art. 24B | [art-024-b.md](art-024-b.md) | 24B Modifications to scheme for approval of locations |
-| Art. 24C | [art-024-c.md](art-024-c.md) | 24C Expiry of this Part |
 | Art. 25 | [art-025.md](art-025.md) | 25 Form of application |
 | Art. 26 | [art-026.md](art-026.md) | 26 Excluded locations |
 | Art. 27 | [art-027.md](art-027.md) | 27 Included locations |
