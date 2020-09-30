@@ -1,6 +1,6 @@
 # Mental Health (Jersey) Law 2016
 
-L.29/2016 · official consolidation showing the law from 2020-04-23 · <https://www.jerseylaw.je/laws/current/l_29_2016_20200929>
+L.29/2016 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/l_29_2016_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -94,7 +94,6 @@ L.29/2016 · official consolidation showing the law from 2020-04-23 · <https://
 | Art. 87 | [art-087.md](art-087.md) | 87 Removal of patient to another place where no reciprocal arrangements |
 | Art. 88 | [art-088.md](art-088.md) | 88 Removal of alien patient |
 | Art. 89 | [art-089.md](art-089.md) | 89 Reception of patient into Jersey |
-| Art. 89A | [art-089-a.md](art-089-a.md) | 89A Modification of the Law where the Minister has made an Order that an extraordinary period exists |
 | Art. 90 | [art-090.md](art-090.md) | 90 Codes of practice |
 | Art. 91 | [art-091.md](art-091.md) | 91 Offence of assisting patient to abscond |
 | Art. 92 | [art-092.md](art-092.md) | 92 Offence of obstruction |
