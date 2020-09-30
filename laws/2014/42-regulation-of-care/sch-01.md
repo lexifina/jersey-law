@@ -8,11 +8,7 @@ regulated activities
 (b) a school;
 (c) a prison or young offender institution; or
 (d) private accommodation (not being accommodation provided purely in the context of the provision of a care home service by the same person who provides that accommodation) occupied exclusively by the care receiver and his or her family.
-(2A) However, a care home service is not a regulated activity if -
-(a) it was not a regulated activity before the commencement of the Regulation of Care (Amendment of Law) (Covid-19 - Temporary Amendment) (Jersey) Regulations 2020;
-(b) it is provided as a direct or indirect result of the outbreak of Covid‑19 in Jersey;
-(c) the Minister for Health and Social Services is satisfied that the service is required; and
-(d) before providing the service the provider has sought advice from the Commission about the best means of providing it.
+(2A)
 (3) For clarity, nothing in sub-paragraph (2)(c) prevents any service provided in a secure children’s home being a care home service.
 (4) For the purposes of this paragraph the following services are not treated as services provided in a hospital even if they are operated from a hospital -
 (a) hospice services;
@@ -36,13 +32,8 @@ other than a service that is carried on exclusively by a Minister.
 (a) for adult persons only;
 (b) for a limited number of hours in any one day without overnight accommodation; and
 (c) for care that is not limited to social activities, self-help or advice.
-(3) However, an adult day care service is not a regulated activity if -
-(a) it was not a regulated activity before the commencement of the Regulation of Care (Amendment of Law) (Covid-19 - Temporary Amendment) (Jersey) Regulations 2020;
-(b) it is provided as a direct or indirect result of the outbreak of Covid‑19 in Jersey;
-(c) the Minister for Health and Social Services is satisfied that the service is required; and
-(d) before providing the service the provider has sought advice from the Commission about the best means of providing it.
-3A Expiry of provisions
-Paragraphs 1(2A) and 3(3) expire on 30th September 2020.
+(3)
+3A
 4 Interpretation for Schedule
 In this Schedule -
 “care” means nursing care or social care;
