@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Law 2001
 
-L.31/2001 · official consolidation showing the law from 2020-06-17 · <https://www.jerseylaw.je/laws/current/l_31_2001_20200929>
+L.31/2001 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/l_31_2001_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,6 +28,7 @@ L.31/2001 · official consolidation showing the law from 2020-06-17 · <https://
 | Art. 21 | [art-021.md](art-021.md) | 21 Issue of conversion declaration form |
 | Art. 22 | [art-022.md](art-022.md) | 22 Marriage by conversion |
 | Art. 23 | [art-023.md](art-023.md) | 23 Approved locations |
+| Art. 23A | [art-023-a.md](art-023-a.md) | 23A Power to make temporary provision in relation to Covid-19 for approved locations |
 | Art. 24 | [art-024.md](art-024.md) | 24 Marriage: special circumstances |
 | Art. 24A | [art-024-a.md](art-024-a.md) | 24A Retention of marriage schedule or conversion declaration form |
 | Art. 24B | [art-024-b.md](art-024-b.md) | 24B Keeping of information, books, indexes, registers etc. relating to marriage |
