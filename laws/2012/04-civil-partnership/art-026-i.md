@@ -1,2 +1,2 @@
 # 26I Expiry of this Part
-This Part expires on 30th September 2020.
+This Part expires at the end of 30th April 2021.
