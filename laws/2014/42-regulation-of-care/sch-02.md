@@ -5,11 +5,11 @@ appointment, resources and funding of commission
 In this Schedule, “JAC” means the Jersey Appointments Commission established by Article 17 of the Employment of States of Jersey Employees (Jersey) Law 2005.
 2 Appointment of Chairman of Commission
 (1) One of the Commissioners shall be the Chairman of the Commission.
-(2) The Chief Minister shall, after consulting with the Council of Ministers -
+(2) The Minister shall, after consulting with the Council of Ministers -
 (a) select and appoint, by instrument in writing, a person to be a Commissioner and the Chairman of the Commission; and
 (b) decide the duration of that person’s appointment as a Commissioner and Chairman.
 (3) The JAC shall oversee the selection.
-(4) The Chief Minister shall, at least 2 weeks before making the appointment under sub-paragraph (2), present to the States a notice of his or her selection and the intention to make the appointment.
+(4) The Minister shall, at least 2 weeks before making the appointment under sub-paragraph (2), present to the States a notice of his or her selection and the intention to make the appointment.
 (5) A person may be appointed under this paragraph more than once.
 3 Appointment of other Commissioners
 (1) The Chairman shall -
@@ -20,7 +20,7 @@ In this Schedule, “JAC” means the Jersey Appointments Commission established
 (b) at least one person who has proven capability in the delivery of social care; and
 (c) at least one person who has experience as a recipient of health or social care, whether personally or as a person who is connected with or responsible for, another person who receives such care or as a person who has been connected with or responsible for another person whilst that other person was receiving such care.
 (3) The JAC shall oversee the selections.
-(4) The Chief Minister shall, by instruments in writing -
+(4) The Minister shall, by instruments in writing -
 (a) appoint the persons so nominated as Commissioners; and
 (b) specify the term of appointment of each Commissioner, which shall be not less than 3 and not more than 5 years.
 (5) A person may be appointed under this paragraph more than once.
@@ -37,22 +37,22 @@ A Commissioner’s appointment shall end upon whichever is the earlier of -
 (b) the expiry of the period of notice following his or her resignation, in accordance with paragraph 6;
 (c) the termination of his or her appointment under paragraph 7.
 6 Resignation
-(1) A Commissioner may resign by giving between one and 3 months’ notice in writing to the Chief Minister.
-(2) The Chief Minister, on receiving the Chairman’s resignation, may, with that person’s agreement reduce or waive the period of notice.
-(3) The Chief Minister, on receiving any other Commissioner’s resignation, may, with the agreement of that Commissioner and the Chairman, reduce or waive the period of notice.
+(1) A Commissioner may resign by giving between one and 3 months’ notice in writing to the Minister.
+(2) The Minister, on receiving the Chairman’s resignation, may, with that person’s agreement reduce or waive the period of notice.
+(3) The Minister, on receiving any other Commissioner’s resignation, may, with the agreement of that Commissioner and the Chairman, reduce or waive the period of notice.
 7 Termination of appointment
-(1) The Chief Minister may terminate the appointment of a Commissioner if the Commissioner -
+(1) The Minister may terminate the appointment of a Commissioner if the Commissioner -
 (a) becomes, by virtue of paragraph 4, disqualified for appointment;
 (b) has been absent from 3 consecutive meetings of the Commission, without the permission of the Commission;
 (c) becomes bankrupt;
 (d) is unfit to discharge his or her functions as the Chairman or other Commissioner;
 (e) is incapacitated by physical or mental illness or otherwise unable to discharge his or her functions as the Chairman or other Commissioner; or
 (f) for any other reason, does not discharge his or her functions as the Chairman or other Commissioner.
-(2) The Chief Minister shall consult the Chairman before terminating the appointment of a Commissioner other than the Chairman,
-(3) The Chief Minister shall report to the States following the termination of a Commissioner’s appointment.
+(2) The Minister shall consult the Chairman before terminating the appointment of a Commissioner other than the Chairman,
+(3) The Minister shall report to the States following the termination of a Commissioner’s appointment.
 8 Remuneration and expenses of Commissioners
 (1) The Commission shall pay to the Commissioners -
-(a) such remuneration as the Commission may determine, subject to any maximum directed by the Chief Minister;
+(a) such remuneration as the Commission may determine, subject to any maximum directed by the Minister;
 (b) reasonable out of pocket expenses incurred in the course of carrying out their duties.
 (2) Any maximum remuneration directed under sub-paragraph (1)(a) after the appointment of a Commissioner does not operate to reduce the remuneration determined by the Commission on the appointment of that Commissioner, but does limit any subsequent increase.
 9 Employees and agents of Commission
@@ -60,7 +60,7 @@ A Commissioner’s appointment shall end upon whichever is the earlier of -
 (2) The Commission may not enter into, or offer to enter into, a contract of employment or for services with a person who was a Commissioner immediately before the contract is entered into or offered.
 (3) A person cannot be, at the same time, a Commissioner and an employee or other appointee of the Commission.
 10 Other expenses of Commission
-(1) The Chief Minister may, by Order, permit or require the JAC to charge the Commission a fee for the provision of all or any of the services it is required to provide under this Schedule.
+(1) The Minister may, by Order, permit or require the JAC to charge the Commission a fee for the provision of all or any of the services it is required to provide under this Schedule.
 (2) An Order under sub-paragraph (1) may specify how any fee is to be calculated and specify a maximum fee that may be charged.
 11 Financial resources of Commission
 The financial resources of the Commission are -
@@ -70,8 +70,8 @@ The financial resources of the Commission are -
 (1) The Commission must -
 (a) keep proper accounts and proper records in relation to the accounts; and
 (b) prepare accounts in respect of each financial year and a report on its operations during the year.
-(2) The Commission must submit a copy of its accounts and report to Chief Minister no later than 6 months after the end of the financial year.
-(3) The Chief Minister must lay a copy of the accounts and report before the States.
+(2) The Commission must submit a copy of its accounts and report to Minister no later than 6 months after the end of the financial year.
+(3) The Minister must lay a copy of the accounts and report before the States.
 (4) The accounts of the Commission must -
 (a) be audited by auditors appointed in respect of each financial year by the Minister for Treasury and Resources and qualified for appointment as auditors of a company by virtue of Article 113 of the Companies (Jersey) Law 1991; and
 (b) be prepared in accordance with generally accepted accounting principles and show a true and fair view of the profit or loss of the Commission for the period and of the state of the Commission’s affairs at the end of the period.
