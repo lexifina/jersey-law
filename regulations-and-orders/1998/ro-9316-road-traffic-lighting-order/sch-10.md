@@ -197,7 +197,15 @@ Tell-tale:
 no requirement
 12.
 Other requirements -
-except in the case of a motor vehicle first used before 1st April 1986, any other vehicle manufactured before 1st October 1985 and a motor cycle combination, where 2 rear position lamps are required to be fitted they shall form a matched pair and where 4 rear position lamps are required to be fitted they shall form 2 matched pairs.
+(a)
+except in the case of a motor vehicle first used before 1st April 1986, any other vehicle manufactured before 1st October 1985 and a motor cycle combination, where 2 rear position lamps are required to be fitted they shall form a matched pair and where 4 rear position lamps are required to be fitted they shall form 2 matched pairs;
+(b)
+in the case of a rear position lamp capable of emitting a flashing light fitted to -
+(i)
+a pedal cycle, or
+(ii)
+a trailer drawn by, or a sidecar attached to, a pedal cycle,
+the light shown by the lamp when flashing must be displayed not less than 60 nor more than 240 equal times per minute and the intervals between each display of lights must be constant.
 13.
 Definitions -
 In this Part -

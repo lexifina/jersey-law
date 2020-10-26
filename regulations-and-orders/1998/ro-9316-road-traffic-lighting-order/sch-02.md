@@ -149,6 +149,13 @@ Other requirements -
 except in the case of a vehicle covered by sub-paragraph (b), where 2 front position lamps are required to be fitted they shall form a pair;
 (b)
 in the case of a trailer manufactured before 1st October 1985 and a motor cycle combination, where 2 front position lamps are required to be fitted they shall be fitted on each side of the longitudinal axis of the vehicle.
+(c)
+in the case of a front position lamp capable of emitting a flashing light fitted to -
+(i)
+a pedal cycle, or
+(ii)
+a trailer drawn by, or a sidecar attached to, a pedal cycle,
+the light shown by the lamp when flashing must be displayed not less than 60 nor more than 240 equal times per minute and the intervals between each display of lights must be constant.
 13.
 Definitions -
 In this Part -
