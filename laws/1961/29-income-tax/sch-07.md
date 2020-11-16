@@ -154,3 +154,47 @@ The deletion of Article 81O(9) and (10) by Article 15(1) of the Finance (2016 Bu
 (b) the Comptroller must charge the 0% company on the full amount of its profits or gains for the period of 12 months ending on the accounting date notified to the Comptroller under paragraph (3D).
 (3F) For the avoidance of doubt, where a notification is given to the Comptroller under paragraphs (3C) and (3D), 31st December is not treated as an accounting date for the purposes of Article 64B and no change of financial period is deemed to have taken place by reason of that notification.
 (4) The Comptroller may determine the extent to which any person’s liability to tax is affected by relief given under paragraph (2) and make such adjustments to that person’s liability as the Comptroller considers to be fair, just and reasonable.
+22 Interpretation of paragraphs 23 to 25
+In paragraphs 23 to 25 -
+“2019 liability” means the amount of income tax assessed (or to be assessed) for the year beginning 1st January 2019;
+“new taxpayer” means a person -
+(a) to whom Article 41H (as in force before amended by Income Tax (Amendment No. 46) (Jersey) Law 202-) applied for the year beginning 1st January 2019; or
+(b) who chose to be treated as if Article 41H applied to them for the year beginning 1st January 2019.
+23 Income Tax (Amendment No. 46) (Jersey) Law 202-: deferral of 2019 liability
+(1) The 2019 liability for a person who is not a new taxpayer -
+(a) is not due and payable by the dates set out in Articles 39, 41A and 41AA; but
+(b) will become due and payable as specified in Regulations made under this paragraph.
+(2) Article 41I does not apply in relation to the 2019 liability for a person who is not a new taxpayer.
+(3) The States must, no later than 31st March 2021, make Regulations that -
+(a) provide for the payment of the 2019 liability;
+(b) provide for any other matter that the States consider necessary to provide for the payment of the 2019 liability.
+(4) Regulations made under this paragraph may -
+(a) provide for recovery of the 2019 liability -
+(i) from a person who becomes non-resident before their 2019 liability is paid in full, and
+(ii) from the estate of a person who dies before their 2019 liability is paid in full; and
+(b) allow the Comptroller to vary the payment dates that apply to a person on application from the person.
+(5) Regulations made under this paragraph must not waive, or reduce the amount of, a person’s 2019 liability.
+24 Income Tax (Amendment No. 46) (Jersey) Law 202-: transfer of payments from 2019 to 2020
+(1) This paragraph applies to a payment if -
+(a) the payment was made before 1st January 2021;
+(b) the payment was not received as a payment by a new taxpayer; and
+(c) the payment was applied to the 2019 liability or to any penalties or surcharges in respect of the 2019 year of assessment.
+(2) The Comptroller must treat a payment to which this paragraph applies as a payment of income tax for the 2020 year of assessment.
+25 Income Tax (Amendment No. 46) (Jersey) Law 202-: payment of instalment for 2020
+(1) A person must pay an instalment of income tax for the 2020 year of assessment (“2020”) if -
+(a) the person is not a company;
+(b) 25% or less of the person’s total income for the 2019 year of assessment consists of earnings; and
+(c) the amount of an instalment payable under this paragraph is £100 or more.
+(2) The instalment of income tax for 2020 is due and payable on 31st May 2021.
+(3) If, at 31st May 2021, an income tax assessment has not been made for the person for the 2020 year of assessment, the amount of the person’s instalment is calculated as follows -
+Where -
+A is the amount of the instalment;
+B is 0.5 if the person’s income for 2019 did not include any earnings, and is 0.4 in any other case;
+C is the person’s 2019 liability; and
+D is the amount of income tax already paid for 2020 (not including an amount deducted during the year under Article 41B or 41E).
+(4) If, at 31st May 2021, an income tax assessment has been made for a person for the 2020 year of assessment, the amount of the person’s instalment is the lower of -
+(a) the person’s remaining income tax liability for the 2020 year of assessment; and
+(b) the amount calculated using the formula in sub-paragraph (3).
+(5) This paragraph does not apply in respect of tax charged under Part 19 on a scheme manager of an approved Jersey scheme, an approved drawdown contract or an approved trust (as defined in Article 130).
+(6) In this paragraph, “earnings” has the meaning given in Article A15.
+(7) Article 41AA applies, with necessary modifications, to the waiver or reduction of amount of an instalment payable under this paragraph.
