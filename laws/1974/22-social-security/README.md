@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2020-04-03 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201115>
+L.22/1974 · official consolidation showing the law from 2020-11-16 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -82,6 +82,7 @@ L.22/1974 · official consolidation showing the law from 2020-04-03 · <https://
 | Art. 54B | [art-054-b.md](art-054-b.md) | 54B Transitional arrangements: replacement of invalid care allowance by home carer’s allowance |
 | Art. 54C | [art-054-c.md](art-054-c.md) | 54C Transitional arrangements: survivor’s benefit |
 | Art. 54D | [art-054-d.md](art-054-d.md) | 54D Transitional provision for LTC contributions in 2015 |
+| Art. 54E | [art-054-e.md](art-054-e.md) | 54E Transitional provision for payment of LTC instalment in 2020 |
 | Art. 55 | [art-055.md](art-055.md) | 55 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1AA |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 1A |
