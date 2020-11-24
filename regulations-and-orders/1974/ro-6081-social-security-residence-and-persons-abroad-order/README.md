@@ -1,6 +1,6 @@
 # Social Security (Residence and Persons Abroad) (Jersey) Order 1974
 
-R&O.6081 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6081_20201123>
+R&O.6081 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6081_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
