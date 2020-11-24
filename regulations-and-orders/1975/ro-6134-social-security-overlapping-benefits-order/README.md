@@ -1,6 +1,6 @@
 # Social Security (Overlapping Benefits) (Jersey) Order 1975
 
-R&O.6134 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6134_20201123>
+R&O.6134 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6134>
 
 | Provision | File | Heading |
 | --- | --- | --- |
