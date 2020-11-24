@@ -1,6 +1,6 @@
 # Social Security (General Benefit) (Jersey) Order 1975
 
-R&O.6149 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6149_20201123>
+R&O.6149 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6149_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
