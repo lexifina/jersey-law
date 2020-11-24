@@ -1,6 +1,6 @@
 # Social Security (Contributions) (Jersey) Order 1975
 
-R&O.6108 · official consolidation showing the law from 2020-04-04 · <https://www.jerseylaw.je/laws/current/ro_6108_20201123>
+R&O.6108 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6108_20211231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
