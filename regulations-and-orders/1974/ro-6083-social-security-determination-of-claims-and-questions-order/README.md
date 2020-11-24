@@ -1,6 +1,6 @@
 # Social Security (Determination of Claims and Questions) (Jersey) Order 1974
 
-R&O.6083 · official consolidation showing the law from 2019-05-01 · <https://www.jerseylaw.je/laws/current/ro_6083_20201123>
+R&O.6083 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6083>
 
 | Provision | File | Heading |
 | --- | --- | --- |
