@@ -14,18 +14,18 @@ Short term incapacity allowance (including any increase in respect of a dependan
 The period of 30 days from the earliest day in respect of which the claim is made.
 The benefit claimed.
 2.
-Maternity benefit -
+Parental grant and parental allowance -
 (a)
-Maternity grant.
-The period beginning with the 13th week before the expected date of confinement and ending 6 months after the date of birth.
+Parental grant.
+The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
 The benefit claimed.
 (b)
-Maternity allowance.
-The period beginning with the 13th week before the expected date of confinement and ending 6 months after the date of birth.
+Parental allowance.
+The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
 The benefit claimed.
 (c)
-Increase of Maternity allowances in respect of a dependant.
-The period beginning with the 13th week before the expected date of confinement and ending 6 months after the date of birth.
+Increase of parental allowances in respect of a dependant.
+The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
 The benefit claimed.
 3.
 Death grant.
@@ -62,7 +62,7 @@ Insolvency benefit
 30 days (or such longer period not exceeding 6 months as the Minister may determine in the circumstances of any particular case) after the cessation of the employee’s service in employment by the relevant employer (as referred to in Article 26C of the Law)
 The benefit claimed
 PART 2
-Containing special miscellaneous provisions relating to Incapacity Benefit, Maternity Allowance, and Old Age Pension, including provisions which vary the prescribed times under Part 1.
+Containing special miscellaneous provisions relating to Incapacity Benefit, Parental Allowance, and Old Age Pension, including provisions which vary the prescribed times under Part 1.
 INCAPACITY BENEFIT
 1 Hospital in-patients
 (1) In determining whether the provisions of Article 13(2) or (3)(b) have been satisfied by a person who is, or has been, an in-patient in a hospital, and who makes a claim for incapacity benefit, any such provision shall, in relation only to that claim, be deemed to have been satisfied by the person in respect of that one of the following periods which is appropriate, in so far as it is relevant for the purpose of any such provision -
@@ -71,17 +71,17 @@ INCAPACITY BENEFIT
 (2) For the purposes of sub-paragraph (1) -
 (a) in ascertaining the date of admission to hospital of the person concerned, where that person has previously been an in-patient in one or more hospitals for one or more periods, any such period shall be taken into account, provided that the interval, or (if there was more than one previous period as an in-patient) each interval, between the end of such period and the beginning of the appropriate period specified in that sub-paragraph does not exceed 3 weeks;
 (b) the expression “hospital” means any institution for the reception and treatment of persons suffering from illness and any maternity home (and, for this purpose, “illness” includes mental disorder and incapacity requiring medical treatment or nursing); and
-(c) the expression “in-patient” means a person admitted as an in-patient to a hospital for the purpose of receiving there treatment by or under the direction of a medical practitioner.
+(c) the expression “in-patient” means a person admitted as an in-patient to a hospital for the purpose of receiving their treatment by or under the direction of a medical practitioner.
 2 Claims in advance
 (1) Where, for the purposes of the provisions of the Social Security (Medical Certification) (Jersey) Order 1974, it has been certified -
 (a) that a person is incapable of work and will continue to be incapable of work for the period specified in the certificate; or
 (b) that a person (being a person who, throughout the period of 6 months immediately preceding the date of the certificate, has been in receipt of incapacity benefit) is incapable of work,
 a claim for incapacity benefit may, unless the Minister otherwise directs, be made by that person in respect of the period of 13 weeks, or such shorter period as the Minister may in the circumstances determine, in either case commencing immediately after the date of the certificate.
 (2) Any claim for incapacity benefit made by any such person may, if it is made on the form containing the certificate, be treated by the Minister as a claim made also in respect of any days in the said period of 13 weeks or in any such shorter period, as the case may be.
-(3) Where for the said purposes it has been certified that it is to be expected that a woman will be confined, and either -
+(3) Where for the said purposes it has been certified that it is to be expected that a child will be born or adopted, and either -
 (a) a claim for incapacity benefit is made by that woman on or after the date of that certificate, or
-(b) a claim for maternity allowance so made by that woman is treated under the provisions of Article 10(1) as a claim in the alternative for incapacity benefit,
-any such claim may, unless the Minister otherwise directs, be treated as a claim for incapacity benefit made in respect of any days in the period beginning with the second week before the expected week of confinement or with the date of confinement, whichever is the earlier, and ending 2 weeks after the date of the confinement.
+(b) a claim for parental allowance so made by that woman is treated under the provisions of Article 10(1) as a claim in the alternative for incapacity benefit,
+any such claim may, unless the Minister otherwise directs, be treated as a claim for incapacity benefit made in respect of any days in the period beginning with the second week before the expected week of birth or adoption or with the date of birth or adoption, whichever is the earlier, and ending 2 weeks after the date of the birth or adoption.
 3
 4 Old age pensions
 (1) A claim for old age pension may be made at any time not more than 4 months before the date on which the claimant will, subject to the fulfilment of the necessary conditions, become entitled to such a pension.
