@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2020-11-16 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201123>
+L.22/1974 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201223>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,10 +30,9 @@ L.22/1974 · official consolidation showing the law from 2020-11-16 · <https://
 | Art. 17 | [art-017.md](art-017.md) | 17 Incapacity pension |
 | Art. 18 | [art-018.md](art-018.md) | 18 General provisions concerning incapacity benefit |
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Home carer’s allowance |
-| Art. 21 | [art-021.md](art-021.md) | 21 Maternity grant |
-| Art. 22 | [art-022.md](art-022.md) | 22 Maternity allowance |
-| Art. 23 | [art-023.md](art-023.md) | 23 Supplementary provisions as to maternity benefit |
-| Art. 23A | [art-023-a.md](art-023-a.md) | 23A Adoptive parent grant |
+| Art. 21 | [art-021.md](art-021.md) | 21 Entitlement to parental grant |
+| Art. 22 | [art-022.md](art-022.md) | 22 Entitlement to parental allowance |
+| Art. 23 | [art-023.md](art-023.md) | 23 Interpretation of Articles 21 and 22 |
 | Art. 24 | [art-024.md](art-024.md) | 24 Survivor’s benefit |
 | Art. 25 | [art-025.md](art-025.md) | 25 Old age pensions |
 | Art. 25A | [art-025-a.md](art-025-a.md) | 25A 2013 old age pension adjustment |

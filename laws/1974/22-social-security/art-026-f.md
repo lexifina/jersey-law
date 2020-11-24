@@ -4,7 +4,7 @@
 (i) the person started before the beginning of that period, and
 (ii) is employment that the person intended to engage in in addition to the employment that was terminated);
 (b) any benefit under this Law in the form of short-term incapacity allowance, as referred to in Article 15;
-(c) any benefit under this Law in the form of maternity allowance, as referred to in Article 22;
+(c) any benefit under this Law in the form of parental allowance, as referred to in Article 22;
 (d) such part of any amount of home carer’s allowance, as referred to in Article 18A, as would not have been payable but for the termination of the person’s employment;
 (e) such part of any amount of income support under the Income Support (Jersey) Law 2007 as would not have been payable but for the termination of the person’s employment;
 (f) such other amounts as the Minister may prescribe by Order.

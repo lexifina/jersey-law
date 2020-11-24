@@ -22,23 +22,16 @@ CONTRIBUTION CONDITIONS
 (b) the claimant has either paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00.
 (2) A married woman who has made an election under Article 3 of the Social Security (Married Women) (Jersey) Order 1974 and whose election has not been cancelled shall be taken to satisfy the contribution conditions in sub-paragraph (1).
 (3) In this paragraph the expression “relevant quarter’” means the previous quarter but one before the quarter in which entitlement to home carer’s allowance first arises.
-4 Maternity allowance
-(1) The contribution conditions for maternity allowance are that -
+4 Parental allowance
+(1) The contribution conditions for parental allowance are that -
 (a) the claimant has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25; and
 (b) the claimant has paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00.
-(2) In this paragraph the expression “relevant quarter” means the previous quarter but 3 before the quarter in which the beginning of the maternity allowance period falls.
-5 Maternity grant
-(1) The contribution conditions for maternity grant are that the relevant person has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25.
+(2) In this paragraph the expression “relevant quarter” means the previous quarter but 3 before the quarter in which the beginning of the parental allowance period falls.
+5 Parental grant
+(1) The contribution conditions for parental grant are that the relevant person has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25.
 (2) In this paragraph -
 (a) the expression “relevant person” means the person by whom the conditions are to be satisfied;
-(b) the expression “relevant quarter” means the previous quarter but one before the quarter in which the confinement takes place or -
-(i) where the relevant person is the spouse and he or she was dead or over pensionable age on that date, the date of him or her attaining pensionable age or dying under that age, or
-(ii) where the relevant person is the civil partner and she was dead or over pensionable age on that date, the date of her attaining pensionable age or dying under that age.
-5A Adoptive parent grant
-(1) The contribution conditions for adoptive parent grant are that the relevant person has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from those contributions is not less than 0.25.
-(2) In this paragraph -
-(a) the expression “relevant person” means the person by whom the conditions are to be satisfied;
-(b) the expression “relevant quarter” means the previous quarter but one before the quarter in which the adoption order is made.
+(b) the expression “relevant quarter” means the previous quarter but one before the quarter in which it is expected that the relevant person’s child will be born or adopted.
 6 Survivor’s benefit and old age pension
 (1) The contribution conditions for survivor’s benefit or old age pension are that -
 (a) the relevant person has paid contributions before the relevant time and the annual contribution factor derived from those contributions is not less than 0.5; and
