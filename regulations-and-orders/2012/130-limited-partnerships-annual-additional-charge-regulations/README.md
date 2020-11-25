@@ -1,6 +1,6 @@
 # Limited Partnerships (Annual Additional Charge) (Jersey) Regulations 2012
 
-R&O.130/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_130_2012_20201124>
+R&O.130/2012 · official consolidation showing the law from 2020-11-25 · <https://www.jerseylaw.je/laws/current/ro_130_2012_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
