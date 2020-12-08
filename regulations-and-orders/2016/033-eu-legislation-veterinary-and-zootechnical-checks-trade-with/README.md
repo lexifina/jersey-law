@@ -1,6 +1,6 @@
 # EU Legislation (Veterinary and Zootechnical Checks - Trade with Member States) (Jersey) Regulations 2016
 
-R&O.33/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_33_2016_20201207>
+R&O.33/2016 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_33_2016_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
