@@ -7,8 +7,8 @@ American Foulbrood
 Anthrax
 Aujeszky’s disease
 Avian influenza
-Bovine Spongiform Encephalopathy
 Bluetongue
+Bovine Spongiform Encephalopathy
 Bovine Tuberculosis
 Bovine Viral Diarrhoea
 Brucellosis
