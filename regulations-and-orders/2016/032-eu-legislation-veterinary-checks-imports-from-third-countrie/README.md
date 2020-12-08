@@ -1,6 +1,6 @@
 # EU Legislation (Veterinary Checks - Imports from Third Countries) (Jersey) Regulations 2016
 
-R&O.32/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_32_2016_20201207>
+R&O.32/2016 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_32_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |

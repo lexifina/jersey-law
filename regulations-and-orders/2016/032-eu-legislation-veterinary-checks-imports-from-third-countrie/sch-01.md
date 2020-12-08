@@ -7,7 +7,7 @@ An approved quarantine centre must have -
 (b) sufficiently large premises at the disposal of the staff responsible for carrying out veterinary checks, including changing rooms, showers and toilets;
 (c) appropriate premises and facilities for taking and processing the samples for the routine checks laid down in Community rules;
 (d) the services of an undertaking in the immediate vicinity which has the facilities and equipment to house, feed, water, treat and, if necessary, slaughter the animals;
-(e) appropriate equipment permitting the rapid exchange of information with border inspection posts and the competent veterinary authorities referred to in Article 20 of the Council Directive of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (90/425/EEC, OJ L 224, 18.8.1990, p. 29);
+(e) appropriate equipment to allow for the exchange of information required by Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (OJ L 261, 14.10.2019, p. 37);
 (f) equipment and facilities for cleaning and disinfecting.
 2 Controls and location
 An approved quarantine centre must -
