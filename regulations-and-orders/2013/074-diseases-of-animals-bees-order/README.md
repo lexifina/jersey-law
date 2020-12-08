@@ -1,6 +1,6 @@
 # Diseases of Animals (Bees) (Jersey) Order 2013
 
-R&O.74/2013 · official consolidation showing the law from 2019-10-22 · <https://www.jerseylaw.je/laws/current/ro_74_2013_20201207>
+R&O.74/2013 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_74_2013_20210127>
 
 | Provision | File | Heading |
 | --- | --- | --- |
