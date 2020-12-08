@@ -70,8 +70,8 @@ This prohibition shall not apply to -
 (b) dicalcium bone phosphate;
 (c) dog biscuits and similar manufactured dog foods containing bone meal or meat meal.
 19
-All products of animal origin as defined in the definition “products” in Article 2(2)(a) of Council Directive 97/78/EC.
-All countries excluding member states, Liechtenstein, Switzerland, Norway, the Bailiwick of Guernsey, the Isle of Man, Andorra, San Marino, and, in respect of personal consignments of fishery products only, the Faroe Islands and Iceland.
-The prohibition shall not apply to the extent that such products are not subject to Chapter 1 of Council Directive 97/78/EC by virtue of the following provisions -
-(a) Article 16 of that Directive; and
-(b) (where applicable) Article 2 of Commission Regulation (EC) No. 206/2009 of 5th March 2009 on the introduction into the Community of personal consignments of products of animal origin (O.J. No. L77 24.3.2009, page 1).
+All products of animal origin as defined in Article 3 of the Official Controls Regulation.
+All countries excluding member states, the British Islands, Liechtenstein, Switzerland, Norway, Andorra, San Marino, and, in respect of personal consignments of fishery products only, the Faroe Islands and Iceland.
+The prohibition does not apply to the extent that such products are not subject to controls by virtue of -
+(a) Article 48 of the Official Controls Regulation; and
+(b) Commission Delegated Regulation (EU) 2019/2122 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council (OJ L 321, 12.12.19, p. 45).
