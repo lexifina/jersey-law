@@ -15,7 +15,8 @@ La Route des Genèts
 La Route des Quennevais
 La Route du Coin
 La Route du Francfief
-La Route Orange
+La Route Orange (from La Route du Petite Port to a point 95 yards north of La Rue de Sergenté)
+La Route Orange (from a point 35 yards east of Le Chemin Particulier de L’Ecole to La Rue Don)
 La Rue Carrée
 La Rue de la Sergenté (from La Route Orange to a point 60 yards west of Le Feugerel)
 La Rue des Fosses a Mortier
@@ -88,28 +89,36 @@ Les Cliquards
 St. John’s Village Precinct
 ST. LAWRENCE
 Les Charrières Malorey (from the private road leading to the German Underground Hospital southwards to La Rue des Prés Sorsoleil)
-La Chenolles de Six Rues for a distance of 164 yards from its junction with Le Passage
-La Grande Route de St. Laurent (from 22 yards south of its junction with La Rue to a point 28 yards south of its junction with La Rue de la Golarde)
-La Grande Route de St. Laurent (from La Rue du Vard to a point 35 yards north of La Rue Millbraie)
+Le Chemin des Moulins (from Ruelle de St. Clair to La Route de St. Aubin)
+La Chenolles de Six Rues for a distance of 164 yards from Le Passage
 La Grande Route de St. Laurent (from Le Mont Felard to Rue de Bas)
+La Grande Route de St. Laurent (from La Rue du Vard to a point 35 yards north of La Rue Millbraie)
+La Grande Route de St. Laurent (from 22 yards south of La Rue to La Rue de la Golarde)
+La Longue Rue
+Le Mont Cambrai
 Le Mont Félard
+Le Mont Sorsoleil
 Le Passage
+Le Pissot
 Les Petites Rues
 La Route de la Haule
 La Route de St. Aubin
 La Rue
-La Rue de Bas
+La Rue des Bessieres
 La Rue de la Blanche Pierre
 La Rue des Corvées (from La Grande Route de St. Laurent to Mont de la Chesnaie)
 La Rue du Galet
-La Rue de Haut
+La Rue de la Golarde
 La Rue des Murs
 La Rue du Nord
 La Rue des Prés Sorsoleil
 La Rue Sara Henri
+La Rue des Varvots
 La Rue Verte
+La Rue de la Ville au Bas
 La Rue de la Ville Emphrie
 La Rue de la Vista
+La Ruelle
 La Ruette
 La Ruette à la Pierre
 La Vallée de St. Pierre (from La Route de St. Aubin to Les Gellettes)
@@ -144,7 +153,7 @@ La Rue de la Pointe
 ST. PETER
 L’Avenue de la Commune (from the boundary with the parish of St. Brelade to Le Clos Saut Falluet)
 La Grande Route des Augerez (from its junction with La Grande Route de St. Pierre to a point 49 yards north of that junction)
-La Grande Route de St. Pierre (from a point 87 yards north of La Verte Rue to a point 98 yards north of its junction with La Rue de la Pointe)
+La Grande Route de St. Pierre (from a point 87 yards north of La Verte Rue to a point 72 yards north of La Neuve Route)
 Le Mont Fallu (from La Vallée de St. Pierre to the western boundary of the property known as “Les Côtils”)
 La Petite Rue de la Pointe
 La Route de Beaumont (from La Route de la Haule to a point 38 yards north-west of Le Clos de Bauche)
@@ -155,6 +164,7 @@ La Rue de l’Église (from a point 114 yards south-west of La Ville de l’Égl
 La Rue des Fontaines (from its junction with La Rue de la Pointe to a point 27 yards west of that junction)
 La Rue des Niemes (from La Rue de la Pointe to a point 114 yards north of its junction with La Rue de la Presse)
 La Rue de la Pointe
+La Rue de la Ville au Bas
 La Ruelle és Ruaux (from La Route de Beaumont to a point 77 yards north-east of its junction with Le Mont des Vignes)
 La Rue des Sapins
 La Rue du Vieux Presbytère (from its junction with La Grande Route de St. Pierre to a point 49 yards north-east of that junction)

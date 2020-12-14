@@ -77,23 +77,29 @@ La Rue des Peupliers
 La Rue du Pont
 La Rue de Sorel (from the parish boundary to La Rue du Grand Mourier)
 ST. LAWRENCE
-Les Charrières Malorey (from its junction with the private road leading to the German Underground Hospital to its northern end)
+Les Charrières Malorey (from the private road leading to the German Underground Hospital to its northern end)
 Le Chemin des Montagnes
 Le Feuguerel
 Les Gelettes
+Le Mont du Bu de la Rue
 Le Mont l’Evêsque
 Le Mont Isaac
+Le Mont Misere
 Le Mont Perrine
 Le Mont du Rocher
+La Route de l’Eglise
 La Rue du Douet de Rue
-La Rue de l’Eglise
 La Rue de la Fontaine St. Martin
+La Rue de Haut
 La Rue Milbraie
-La Rue des Pres (from its junction with La Rue du Douet to the boundary of St. Mary
-La Rue Rouge Cul (from its southern end northwards to its junction with Le Mont Sorsoleil)
+La Rue des Pres (from La Rue du Douet to the boundary of St. Mary)
+La Rue Rouge Cul
 La Ruette
 La Ruette d’Avranches
-The unnamed road abutting the southern boundaries of the property known as “La Maison du Guardien” and the Parish Hall, and lying between La Rue de l’Eglise and La Grande Route de St. Laurent
+La Ruette Pinel
+Rue de Bas
+Ruelle de St. Clair
+The unnamed road abutting the southern boundaries of the property known as “La Maison du Guardien” and the Parish Hall, and lying between La Route de l’Eglise and La Grande Route de St. Laurent
 The unnamed road forming a junction with Le Mont Sorsoleil and Le Mont Isaac at its southern end and forming a junction with la Ruette d’Avranches at its northern end
 ST. MARTIN
 La Cache Bandinel

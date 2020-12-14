@@ -12,6 +12,7 @@ La Mielle Clement
 La Neuve Route (from Charing Cross to the northern boundary of the Church of the Sacred Heart)
 La Petite Route des Mielles
 La Route de la Baie (from Le Mont Sohier to St. Brelade Slipway Access Road)
+La Route Orange (from a point 35 yards east of Le Chemin Particulier de l’Ecole to a point 95 yards north of La Rue de la Sergenté)
 La Rue de la Pigeonnerie
 La Rue de la Valeuse
 La Rue des Faunois
@@ -116,6 +117,7 @@ except for Gloucester Street (from The Esplanade to the southwestern junction wi
 ST. JOHN
 The estate roads at La Ville des Chênes
 ST. LAWRENCE
+La Rue de Haut
 Sandybrook Lane
 La Grande Route de St. Laurent (from La Rue du Vard to Rue de Bas)
 ST. MARTIN
@@ -126,11 +128,12 @@ La Route de Ste. Marie (from its junction with La Rue des Buttes to a point 137 
 La Rue de Bel Air (from its junction with La Rue des Buttes to its junction with La Rue des Landes)
 La Rue des Buttes
 La Rue du Rondin (from La Route de Ste. Marie to La Verte Rue)
+La Rue du Rondin (from La Verte Rue to a point 44 yards north of La Rue Mahier)
 La Rue de la Rosière (from La Rue des Buttes to La Verte Rue)
 La Rue de la Vallée (from its junction with La Rue des Buttes to a point 142 yards north of its junction with La Rue de la Rosière)
 The unnamed road between La Route de Ste. Marie and La Verte Rue
 The unnamed road between La Rue de Bel Air and La Verte Rue, adjacent to the property known as “Eden House”
-La Verte Rue (between the property known as “Broughton Lodge” and the property known as “Eden House”)
+La Verte Rue (from La Rue du Rondin to the property known as “Eden House”)
 ST. OUEN
 La Rue des Cosnets (between La Rue du Sud and a point 235 yards south)
 ST. PETER
