@@ -1,6 +1,6 @@
 # Prison (Jersey) Rules 2007
 
-R&O.3/2007 · official consolidation showing the law from 2020-04-22 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20201219>
+R&O.3/2007 · official consolidation showing the law from 2020-12-20 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
