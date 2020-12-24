@@ -19,7 +19,8 @@ In this Schedule -
 2A Estimate of LTC contribution
 (1) An estimate of the amount of a person’s LTC contribution for a year (the “payment year”) shall be calculated in accordance with this paragraph.
 (2) Schedule 1C shall apply as if references in it to -
-(a) the upper annual income limit were references to that limit for the payment year; and (b) subject to sub-paragraph (6), the person’s gross income and taxable income, and the person’s entitlement to a reduction under Article 92C of the 1961 Law,
+(a) the upper annual income limit were references to that limit for the payment year; and
+(b) subject to sub-paragraph (6), the person’s gross income and taxable income, and the person’s entitlement to a reduction under Article 92C of the 1961 Law,
 were references to those amounts or that entitlement -
 (i) for the purposes described in sub-paragraph (3) - for the year preceding the payment year;
 (ii) for the purposes described in sub-paragraph (4) - for the year that is 2 years before the payment year;

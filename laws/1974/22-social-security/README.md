@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201223>
+L.22/1974 · official consolidation showing the law from 2020-12-24 · <https://www.jerseylaw.je/laws/current/l_22_1974_20201231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

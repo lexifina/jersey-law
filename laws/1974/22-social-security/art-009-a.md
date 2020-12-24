@@ -11,7 +11,7 @@ Where -
 (c) C is the percentage rise or fall in the Jersey Index of Earnings in the base year.
 (3) If 0.8B is equal to or greater than A, no money is required to be paid for the year.
 (4) Despite paragraphs (2) and (3) -
-(a) the annual amount to be paid for the years 2019 and 2021 is £65,300,000; and
+(a) no annual amount is to be paid for the year 2021; and
 (b) the annual amount to be paid for the year 2022 is £76,140,000.
 (4A)
 (5) The amount to be paid under this Article for a year may be paid in a lump sum or in instalments, and at such time or times, as the Minister determines.
