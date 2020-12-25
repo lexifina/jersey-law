@@ -10,7 +10,7 @@ Direction
 Aubin Lane
 Both sides
 Bagatelle Lane
-Both sides (from its junction with the private road known as Les Ametots, for a distance of 52 yards in a northerly direction and for a distance of 7 yards in a southerly direction)
+Both sides (between Bagatelle Road to Wellington Road)
 Bagatelle Road
 Both sides (between the Five Oaks junction and the junction with Patier Road)
 Both sides (between the parish boundary and the junction with Bagatelle Lane)

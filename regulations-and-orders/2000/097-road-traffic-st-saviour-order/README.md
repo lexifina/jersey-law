@@ -1,6 +1,6 @@
 # Road Traffic (St. Saviour) (Jersey) Order 2000
 
-R&O.97/2000 · official consolidation showing the law from 2020-05-07 · <https://www.jerseylaw.je/laws/current/ro_97_2000_20201224>
+R&O.97/2000 · official consolidation showing the law from 2020-12-25 · <https://www.jerseylaw.je/laws/current/ro_97_2000_20210219>
 
 | Provision | File | Heading |
 | --- | --- | --- |

@@ -9,6 +9,8 @@ Road
 Direction
 Albert Road
 Georgetown Road to Victoria Road
+Bagatelle Lane
+Bagatelle Road to Wellington Road
 Beach Road (between Coast Road and Dicq Road
 Coast Road to Dicq Road
 Beach Road (between La Route du Fort and Dicq Road)
@@ -93,7 +95,5 @@ Column 1
 Column 2
 Road
 Direction
-Les Varines
-Longueville Road to Bagatelle Road
 Rue des Prés (between the junction with Prè de Talbot and the junction with Plat Douet Road)
 Prè de Talbot to Plat Douet Road
