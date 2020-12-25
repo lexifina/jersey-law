@@ -13,6 +13,12 @@ Both sides (from its junction with La Rue de l’Eglise to its junction with La 
 La Route de l’Hermite
 East side (between the pedestrian access to St. Peter’s School and a point 121 yards to the south thereof)
 West side (from its junction with La Rue de l’Eglise southwards for a distance of 41 yards)
+Both sides (from its junction with La Rue Rose northwards for a distance of 145 yards)
+La Route du Manoir
+North side (from its junction with La Route de Beaumont eastwards for a distance of 55 yards)
+South side (from its junction with La Route de Beaumont eastwards for a distance of 51 yards)
+La Rue du Bocage
+West side (from its junction with La Rue de L’Eglise to the northern boundary of the property known as La Garenne)
 La Rue de l’Eglise
 Both sides (from its junction with La Grande Route de St. Pierre to its junction with La Route de l’Hermite)
 Both sides (from its junction with La Petite Rue de la Pointe for a distance of 91 yards in a north-easterly direction)
@@ -29,6 +35,8 @@ La Rue du Moulin de Tesson
 Both sides (from its junction with Les Grupieaux to its junction with La Rue de la Vallée)
 La Rue du Petit Aleval
 Both sides
+La Rue du Saut Falluet
+Both sides (from its junction with La Rue de la Commune to its junction with La Rue des Landes)
 La Rue l’Aleval
 Both sides (from its junction with Le Mont de l’Ecole to its junction with La Rue du Petit Aleval
 La Rue Rose

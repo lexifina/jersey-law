@@ -1,6 +1,6 @@
 # Road Traffic (St. Peter) (Jersey) Order 1992
 
-R&O.8331 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8331_20201224>
+R&O.8331 · official consolidation showing the law from 2020-12-25 · <https://www.jerseylaw.je/laws/current/ro_8331_20210603>
 
 | Provision | File | Heading |
 | --- | --- | --- |

@@ -1,10 +1,11 @@
 # SCHEDULE 1
 (Article 3)
 PART 1
-(Article 3(1))
+(Article 3(1) and (1A))
 One-way traffic routes
 Road
 Direction
+Exemptions
 Le Mont des Charrières (between the eastern side of the vehicular access to the lower car park at Les Charrières Hotel and a point 10 yards westerly from its junction with La Vallée de Bas (otherwise known as La Dimerie))
 From Les Charrières Hotel towards La Vallée des Bas (otherwise known as La Dimerie)
 La Petite Rue de l’Eglise
@@ -19,6 +20,7 @@ La Rue Rose
 La Route de l’Hermite to Le Mont du Jubilé
 La Vallée de Bas (otherwise known as La Dimerie) (between its commencement opposite Le Mont Remon and its junction with Le Mont des Charrières)
 From its junction with La Rue de la Vallée and Le Mont Remon to Le Mont des Charrières
+Pedal cycles on the section of La Vallée de Bas from a point 70 yards north of its junction with Le Mont des Charrières
 PART 2
 (Article 3(2))
 One-way traffic routes for vehicles exceeding 6 feet 6 inches in width
