@@ -1,6 +1,6 @@
 # Customs and Excise (Jersey) Law 1999
 
-L.33/1999 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/l_33_1999_20201230>
+L.33/1999 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/l_33_1999_20201231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -38,6 +38,10 @@ L.33/1999 · official consolidation showing the law from 2020-12-08 · <https://
 | Art. 31 | [art-031.md](art-031.md) | 31 Sale of unlawfully imported or uncleared goods |
 | Art. 32 | [art-032.md](art-032.md) | 32 Forfeiture of goods improperly imported |
 | Art. 33 | [art-033.md](art-033.md) | 33 Improper importation of goods |
+| Art. 33A | [art-033-a.md](art-033-a.md) | 33A Customs tariff |
+| Art. 33B | [art-033-b.md](art-033-b.md) | 33B Regulations as to import duty |
+| Art. 33C | [art-033-c.md](art-033-c.md) | 33C Requirement to have regard to international obligations |
+| Art. 33D | [art-033-d.md](art-033-d.md) | 33D Fees for exercise of functions in connection with import duty |
 | Art. 34 | [art-034.md](art-034.md) | 34 Clearance outwards of ships and aircraft |
 | Art. 35 | [art-035.md](art-035.md) | 35 Entry outwards of certain goods |
 | Art. 36 | [art-036.md](art-036.md) | 36 Offences in relation to unloading of goods |
@@ -85,6 +89,7 @@ L.33/1999 · official consolidation showing the law from 2020-12-08 · <https://
 | Art. 71 | [art-071.md](art-071.md) | 71 Agents |
 | Art. 72 | [art-072.md](art-072.md) | 72 Rewards |
 | Art. 73 | [art-073.md](art-073.md) | 73 Orders |
+| Art. 73A | [art-073-a.md](art-073-a.md) | 73A Orders etc. making provision for certain approvals and authorizations |
 | Art. 74 | [art-074.md](art-074.md) | 74 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
