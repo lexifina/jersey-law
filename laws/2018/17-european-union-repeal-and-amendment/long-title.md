@@ -1,0 +1,1 @@
+A LAW to repeal the European Union (Jersey) Law 1973 and the European Economic Area (Jersey) Law 1995, to amend the European Union Legislation (Implementation) (Jersey) Law 2014, and for related purposes
