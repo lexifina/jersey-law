@@ -263,12 +263,13 @@ PART 5 - aIF SERVICES BUSINESS
 (a) is registered to carry on any one or more classes of fund services business in relation to an unclassified fund or an unregulated fund where that fund services business includes the same functions as the AIF services business;
 (b) holds a permit as a functionary of a recognized fund under the Collective Investment Funds (Jersey) Law 1988 where the functions of the person as that functionary include the same functions as the AIF services business;
 (c) is a person in respect of which Article 3(2) of Directive 2011/61/EU applies; or
+(ca) is a small third country AIFM within the meaning of the UK AIFM Regulations; or
 (d) has been granted a certificate, that is in force, under Article 8B of the Collective Investment Funds (Jersey) Law 1988, in relation to that AIF.
-(2) Sub-paragraphs (1)(a), (b) and (d) shall not apply in relation to a person carrying on AIF services business that markets an AIF in a member State of the European Union or other EEA State to which Directive 2011/61/EU applies unless the Commission has granted permission in writing for that AIF to be so marketed.
+(2) Sub-paragraphs (1)(a), (b) and (d) shall not apply in relation to a person carrying on AIF services business that markets an AIF in the United Kingdom, in a member State of the European Union, or in any other EEA State to which Directive 2011/61/EU applies, unless the Commission has granted permission in writing for that AIF to be so marketed.
 (3) The carrying on of AIF services business if -
-(a) that business is carried on in relation to the marketing or management of an AIF in an EEA State; and
-(b) that EEA State’s national laws do not require compliance by that business with Directive 2011/61/EU,
+(a) that business is carried on in relation to the marketing or management of an AIF in the United Kingdom or in an EEA State; and
+(b) the laws of that country do not require compliance by that business with the UK AIFM Regulations or with Directive 2011/61/EU,
 to the extent that such business is otherwise required to be registered under Article 7(1).
 (4) In this paragraph -
 (a) “EEA State” means a State which is a member State of the European Union or any other State which is a contracting party to the agreement on the European Economic Area signed at Oporto on the 2nd May 1992 as adjusted by the Protocol signed at Brussels on the 17th March 1993; and
-(b) “marketing” has the same meaning given in Directive 2011/61/EU.
+(b) “marketing” has the meaning given in the UK AIFM Regulations or in Directive 2011/61/EU, as the case may be.
