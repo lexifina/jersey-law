@@ -1,6 +1,6 @@
 # Food Safety (Labelling) (Jersey) Order 2005
 
-R&O.172/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_172_2005_20201230>
+R&O.172/2005 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_172_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
