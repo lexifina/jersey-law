@@ -1,6 +1,6 @@
 # Community Provisions (Goods Suspected of Infringing Intellectual Property Rights) (Jersey) Regulations 2014
 
-R&O.67/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_67_2014_20201230>
+R&O.67/2014 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_67_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
