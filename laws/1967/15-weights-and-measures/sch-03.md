@@ -74,37 +74,16 @@ BREAD
 2. Bread of any description other than a whole loaf shall be sold only by net weight:
 Provided that there shall be exempted from the requirements of this paragraph any bread in a quantity of 300 grammes or less.
 3.
-(1) A whole loaf of bread of a net weight exceeding 300 grammes shall be made for sale only if it is of a net weight of 400 grammes or a multiple of 400 grammes.
+(1) A whole loaf of bread of a net weight exceeding 300 grammes shall be made for sale only if it is sold by net weight, or is of a net weight of 400 grammes or a multiple of 400 grammes.
 (2) This paragraph shall not apply to any sale in pursuance of a contract for the supply of bread for consumption on the premises of the buyer if the contract provides for each delivery of bread thereunder made to be of a specific aggregate quantity of not less than 25 kg, and for the weighing of the bread on delivery.
 PART 5
 MILK
 1. In this Part, the expression “milk” means cows’ milk in any liquid form other than that of condensed milk (including evaporated milk) or of cream.
 2. Milk which is not pre-packed shall be sold only by capacity measurement or by net weight.
 3. Milk shall be pre-packed only if -
-(a) it is made up in one of the quantities by capacity measurement specified in the following table -
-TABLE
-Imperial
-1/3 pint
-1/2 pint
-Any multiple of 1/2 pint
-Metric
-200 millilitres
-250 millilitres
-500 millilitres
-750 millilitres
-1 litre
-2 litres
-Any multiple of 500 millilitres;
-and
+(a)
 (b) the container is marked with an indication of quantity by capacity measurement.
-4. If in the case of any pre-packed milk its container is clearly and conspicuously marked with a statement in writing that it is not for sale otherwise than by means of a vending machine, then, notwithstanding that the milk is made up in a quantity other than one of those specified in paragraph 3(a), a person shall not by reason only of that fact be guilty of an offence under Article 21(2) of this Law -
-(a) in respect of a sale of that milk by that or any other person if the sale -
-(i) is at the price of 3p by means of a vending machine, or
-(ii) is otherwise than by retail; or
-(b) in respect of the possession of that milk by that or any other person if the milk is shown to be in that possession -
-(i) for sale at the price aforesaid by means of a vending machine which complies with paragraph 5,
-(ii) for sale otherwise than by retail, or
-(iii) for delivery after sale otherwise than by retail.
+4.
 5. Milk shall be sold by means of, or offered or exposed for sale in, a vending machine only if there is displayed on or in the machine -
 (a) an indication of the quantity by capacity measurement of the milk comprised in each item for sale by means of that machine; and
 (b) except where the machine is on premises at which the seller carries on business, a statement of the name and address of the seller.
@@ -148,9 +127,7 @@ FRESH FRUITS AND VEGETABLES
 2. Subject to paragraph 6, potatoes -
 (a) unless pre-packed, shall not be sold by retail except by net weight;
 (b) shall not be sold by retail pre-packed unless -
-(i) they are made up in one of the following quantities by net weight, that is to say -
-(A) 500g, 750g, 1 kg, 1.5 kg, 2.5 kg (or a multiple of 2.5 kg to a net weight not exceeding 15 kg), 20 kg or 25 kg, or
-(B) 8 ounces, 12 ounces, one pound, one and a half pounds or a multiple of one pound, and
+(i)
 (ii) the container is marked with an indication of quantity by net weight.
 3.
 (1) Subject to paragraph 6, this paragraph applies to -
@@ -223,7 +200,7 @@ MISCELLANEOUS FOODS TO BE PRE-PACKED ONLY WHEN MARKED WITH NET WEIGHT AND IN FIX
 (a) by net weight; or
 (b) if sold in a container which does not exceed the appropriate permitted weight specified in Table A of Part 11, either by net weight or gross weight.
 3. Subject to paragraph 4, goods to which this Part of this Schedule applies shall be pre-packed only if -
-(a) they are made up in one of the following quantities, that is to say, 2, 4, 8 or 12 ounces, one pound, one and a half pounds, or a multiple of one pound; and
+(a)
 (b) the container is marked with an indication of quantity,
 being in each case quantity by net weight.
 4. There shall be exempted from all requirements of this Part of this Schedule any goods in a quantity of less than one ounce.
