@@ -1,6 +1,6 @@
 # Community Provisions (Welfare of Animals during Transport) (Jersey) Regulations 2013
 
-R&O.142/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_142_2013_20201230>
+R&O.142/2013 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_142_2013_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
