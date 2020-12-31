@@ -1,6 +1,6 @@
 # Alternative Investment Funds (Jersey) Order 2013
 
-R&O.96/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_96_2013_20201230>
+R&O.96/2013 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_96_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
