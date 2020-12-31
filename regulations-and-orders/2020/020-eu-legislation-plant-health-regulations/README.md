@@ -1,6 +1,6 @@
 # EU Legislation (Plant Health) (Jersey) Regulations 2020
 
-R&O.20/2020 · official consolidation showing the law from 2020-03-26 · <https://www.jerseylaw.je/laws/current/ro_20_2020_20201230>
+R&O.20/2020 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_20_2020_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -52,6 +52,7 @@ R&O.20/2020 · official consolidation showing the law from 2020-03-26 · <https:
 | Reg. 45 | [reg-045.md](reg-045.md) | 45 Methods and techniques for official controls |
 | Reg. 46 | [reg-046.md](reg-046.md) | 46 Fees |
 | Reg. 47 | [reg-047.md](reg-047.md) | 47 Appeals |
+| Reg. 48 | [reg-048.md](reg-048.md) | 48 Limits on ambulatory effect |
 | Reg. 49 | [reg-049.md](reg-049.md) | 49 Orders generally |
 | Reg. 50 | [reg-050.md](reg-050.md) | 50 Review |
 | Reg. 53 | [reg-053.md](reg-053.md) | 53 Citation and commencement |
