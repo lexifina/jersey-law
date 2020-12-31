@@ -1,0 +1,1 @@
+THE MINISTER FOR HOME AFFAIRS makes this Order under Article 6 of the Customs and Excise (Jersey) Law 1999 and Regulation 3 of the EU Legislation (Customs Union, Import and Export Control) (Jersey) Regulations 2018, and having consulted the Minister for External Relations -
