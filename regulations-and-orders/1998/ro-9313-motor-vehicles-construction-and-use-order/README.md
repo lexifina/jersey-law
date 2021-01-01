@@ -1,6 +1,6 @@
 # Motor Vehicles (Construction and Use) (Jersey) Order 1998
 
-R&O.9313 · official consolidation showing the law from 2020-08-17 · <https://www.jerseylaw.je/laws/current/ro_9313_20201231>
+R&O.9313 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_9313_20210516>
 
 | Provision | File | Heading |
 | --- | --- | --- |
