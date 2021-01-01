@@ -1,6 +1,6 @@
 # Taxation (Land Transactions) (Jersey) Law 2009
 
-L.10/2009 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20201231>
+L.10/2009 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ L.10/2009 · official consolidation showing the law from 2020-01-01 · <https://
 | Art. 6 | [art-006.md](art-006.md) | 6 Value of transaction and amount of LTT charged |
 | Art. 7 | [art-007.md](art-007.md) | 7 Late payment surcharge |
 | Art. 8 | [art-008.md](art-008.md) | 8 Reduction or remission of LTT |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Reduction of LTT where land transaction confers right of occupation under approved Assisted Ownership Scheme |
 | Art. 9 | [art-009.md](art-009.md) | 9 Issue of LTT receipt |
 | Art. 10 | [art-010.md](art-010.md) | 10 Duty to keep records |
 | Art. 11 | [art-011.md](art-011.md) | 11 Power of Comptroller to make assessment of LTT |
