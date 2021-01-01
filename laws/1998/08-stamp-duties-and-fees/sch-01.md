@@ -72,15 +72,15 @@ Greffier
 Contract
 Greffier
 (viii) exceeds £2,000,000 but does not exceed £3,000,000
-£74,500 in respect of the first £2,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+£74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (ix) exceeds £3,000,000 but does not exceed £6,000,000
-£139,500 in respect of the first £3,000,000 plus £8.50 for each £100 or part of £100 in excess thereof
+£144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (x) exceeds £6,000,000
-£394,500 in respect of the first £6,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+£429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
 3 Tables of judicial fees
 Item 1.
 Stamp Duty, by Figure or Rate
@@ -1254,15 +1254,15 @@ Greffier
 Application
 Greffier
 (h) exceeds £2,000,000 but does not exceed £3,000,000
-£74,500 in respect of the first £2,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+£74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (i) exceeds £3,000,000 but does not exceed £6,000,000
-£139,500 in respect of the first £3,000,000 plus £8.50 for each £100 or part of £100 in excess thereof
+£144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (j) exceeds £6,000,000
-£394,500 in respect of the first £6,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+£429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (2)
