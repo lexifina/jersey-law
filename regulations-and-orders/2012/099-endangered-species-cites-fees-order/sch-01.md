@@ -10,47 +10,47 @@ Alteration etc. fee under Article 26
 Column 4
 Replacement fee under Article 29
 export permit
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 import permit
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 re-export certificate
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 introduction from the sea certificate
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 certificate of origin
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 certificate of captive breeding
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 certificate of artificial propagation
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 pre-Convention certificate
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 travelling exhibition certificate
-£38.30
-£22.00
-£22.00
+£39.30
+£22.50
+£22.50
 commercial licence
-£204.80 for the initial grant of a licence
-£161.73 for the subsequent grant of a licence in relation to the same specimen, or same class or description of specimens, identified in the initial licence
-£81.80
-£81.80
+£210.00 for the initial grant of a licence
+£165.70 for the subsequent grant of a licence in relation to the same specimen, or same class or description of specimens, identified in the initial licence
+£83.90
+£83.90
 scientific registration certificate
-£204.80
-£81.80
-£81.80
+£210.00
+£83.90
+£83.90
