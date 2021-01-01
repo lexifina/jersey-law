@@ -1,6 +1,6 @@
 # Social Security (Collection of Class 1 and Class 2 Contributions) (Jersey) Order 2013
 
-R&O.89/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_89_2013_20201231>
+R&O.89/2013 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_89_2013_20211231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
