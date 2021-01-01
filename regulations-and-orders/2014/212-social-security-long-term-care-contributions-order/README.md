@@ -1,6 +1,6 @@
 # Social Security (Long-Term Care Contributions) (Jersey) Order 2014
 
-R&O.212/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_212_2014_20201231>
+R&O.212/2014 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_212_2014_20240821>
 
 | Provision | File | Heading |
 | --- | --- | --- |
