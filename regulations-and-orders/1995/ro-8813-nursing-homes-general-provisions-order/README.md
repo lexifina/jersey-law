@@ -1,6 +1,6 @@
 # Nursing Homes (General Provisions) (Jersey) Order 1995
 
-R&O.8813 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_8813_20201231>
+R&O.8813 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_8813_20211231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
