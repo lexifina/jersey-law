@@ -61,29 +61,27 @@ There shall be charged, on all tobacco imported into or grown, produced or manuf
 Type of tobacco
 Rate of excise duty per kilogramme
 (a) unprocessed tobacco
-£398.88
+£420.81
 (b) cigars
-£417.85
+£453.36
 (c) cigarettes
-£522.49
+£551.22
 (d) hand-rolling tobacco
-£484.12
+£525.27
 (e) processed tobacco other than types (b) to (d)
-£415.65
+£438.51
 7 Hydrocarbon oil
-(1) There shall be charged, on hydrocarbon oil imported or delivered into or produced in Jersey, excise duty at the following rate -
-(a)
-on higher octane ultra low sulphur petrol
-£58.42 per hectolitre
-(b)
-on all other ultra low sulphur petrol
-£56.55 per hectolitre
-(c)
-on ultra low sulphur diesel
-£56.55 per hectolitre
-(d)
-on all other types of hydrocarbon oil
-£60.47 per hectolitre.
+(1) There shall be charged, on hydrocarbon oil imported or delivered into or produced in Jersey, excise duty at the following rates -
+Type of hydrocarbon oil
+Rate of excise duty per hectolitre
+(a) higher octane ultra low sulphur petrol
+£60.71
+(b) all other ultra low sulphur petrol
+£58.83
+(c) ultra low sulphur diesel
+£58.83
+(d) all other types of hydrocarbon oil
+£62.77
 (2) For the purposes of sub-paragraph (1) -
 (a) petrol is “higher octane” if its research octane number is not less than 96 and its motor octane number is not less than 86;
 (b) “ultra low sulphur petrol” means unleaded petrol the sulphur content of which does not exceed 0.005% by weight; and
