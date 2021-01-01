@@ -33,7 +33,7 @@ Requirements for registration of a motor vehicle
 (xi) “aprovaçao de marca e modelo” in Portuguese law; and
 (b) satisfactory evidence that the vehicle conforms with the relevant whole vehicle national type approval legislation shall include evidence that there exists a certificate issued by the manufacturer of the vehicle to the effect that the vehicle conforms to a type approved by a specified procedure which shall be one of the administrative procedures listed in sub-paragraph (a), and where the certificate is in a language other than English, the Inspector may require that it be accompanied by a certified translation of the certificate.
 4. For the purposes of paragraph 1(d) -
-(a) on payment to the Inspector of a fee of £457 for motor cars and heavy motor cars and £121 for agricultural tractors, mopeds, light motorcycles and heavy motorcycles, which shall not be refundable in any circumstances;
+(a) on payment to the Inspector of a fee of £457 for motor cars and heavy motor cars and £124 for agricultural tractors, mopeds, light motorcycles and heavy motorcycles, which shall not be refundable in any circumstances;
 (b) on production at the office of the Inspector, or such other place as the Inspector may designate, of the vehicle which it is sought to register; and
 (c) on the Inspector being satisfied, following such inspection, examination, trial and testing as the Inspector may consider necessary, that the vehicle and its systems and components specified in the table below are of a standard and in a condition required for the safe operation of the vehicle on the road,
 the Inspector may issue a certificate of approval in respect of the vehicle.
@@ -67,7 +67,7 @@ Table of systems and components
 (a) a vehicle sought to be registered under the Law was manufactured not less than 25 years before the date on which application was made for its registration;
 (b) compliance with the requirements for the issue of a certificate of approval under paragraph 1(d) would significantly detract from the historical character of the vehicle; and
 (c) failure of the vehicle so to comply would not cause undue risk to road users,
-and upon payment of a fee of £96, the Inspector may issue a certificate of exemption in respect of the vehicle.
+and upon payment of a fee of £99, the Inspector may issue a certificate of exemption in respect of the vehicle.
 5A. Where an application is made under the Law for the registration of any motor vehicle, the Inspector shall, before registering the vehicle, require to be discharged any liability for any outstanding duty or tax payable in respect of the vehicle -
 (a) under the Customs and Excise (Jersey) Law 1999;
 (b) under the Goods and Services Tax (Jersey) Law 2007; or
@@ -75,6 +75,6 @@ and upon payment of a fee of £96, the Inspector may issue a certificate of exem
 6. Additional requirement for vehicles previously registered outside Jersey
 (1) Where an application for registration relates to a motor vehicle previously registered outside Jersey, the Inspector shall, before registering the vehicle, require the owner to produce (in addition to producing such evidence or certificate as is necessary for the purposes of paragraph 1) evidence satisfactory to the Inspector of the previous registration of the vehicle.
 (2) For the purposes of sub-paragraph (1) -
-(a) on payment to the Inspector of a fee of £38; and
+(a) on payment to the Inspector of a fee of £39; and
 (b) on production at the office of the Inspector, or such other place as the Inspector may designate, of the vehicle in question,
 the Inspector shall cause the vehicle to be inspected.
