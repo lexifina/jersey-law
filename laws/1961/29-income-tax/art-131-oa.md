@@ -49,7 +49,7 @@ shall be exempt from income tax to the extent that the lump sum does not exceed 
 shall be exempt from income tax.
 (5) A person who is described in paragraph (3)(a) or (c), or in the case of (3)(b) a representative of the pension holder’s estate, may elect for 30% of the lump sum from the overseas scheme to be exempt from income tax instead of it being exempt from income tax in accordance with paragraph (3), if -
 (a) benefits from the overseas scheme commenced on or after 27th March 2015;
-(b) except where paragraph (6) applies, the election is made by the last Friday in July in the year following the year of assessment in which benefits from the overseas scheme commenced;
+(b) except where paragraph (6) applies, the election is made by the end of 31st July in the year following the year of assessment in which benefits from the overseas scheme commenced;
 (c) the election is in such form as the Comptroller determines; and
 (d) the election applies to all lump sums paid to that person from the scheme.
 (6) Where benefits from the overseas scheme commenced in the year of assessment 2015, the election under paragraph (5) must be made on or before 28th July 2017.

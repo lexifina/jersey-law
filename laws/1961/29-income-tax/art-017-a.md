@@ -3,7 +3,7 @@
 (a) £100 in the case of a return under Article 20 or 20A; or
 (b) £300 in any other case.
 (2) In this Article “specified time” means -
-(a) in relation to a requirement to deliver a return in respect of a year of assessment that is served by a notice in the following year -
+(a) in relation to a requirement to deliver a return in respect of a year of assessment -
 (i) in the case of a return in respect of a company’s own charge to tax, midnight on 31st December in the year following the year of assessment,
 (ii) in the case of a return delivered electronically other than a return referred to in clause (i), midnight on 31st July in the year following the year of assessment,
 (iii) in the case of any other return not referred to in clause (i) or (ii), midnight on 31st May in the year following the year of assessment;
@@ -13,14 +13,19 @@
 (2A) Where a person required to deliver to the Comptroller a true, complete and correct return does not do so by midnight on the date that is 3 months after the specified time, the person is liable to a penalty of an amount specified in paragraph (2B) for each month that the return remains undelivered up to a maximum of 9 months.
 (2B) Those amounts are -
 (a) in the case of a return under Article 16 by a person other than a body corporate, £50 per month;
-(b) in the case of a return under Article 20, 20A, 20B or 20C or by a body corporate under Article 16, £100 per month.
-(3) In respect of a return under Article 16, paragraphs (1) and (2A) shall not apply to a person, not being a body corporate, who is not liable to pay any tax for the period to which the return relates.
+(b) in the case of a return under Article 20, 20A, 20B, 20C or 20D or by a body corporate under Article 16, £100 per month.
+(3) A person who is required to deliver a return under Article 16 is not liable to a penalty under this Article if -
+(a) the person is not a body corporate; and
+(b) the Comptroller is satisfied that the person is not liable to pay any tax for the period to which the return relates.
 (4) Where a return under Article 16 is delivered after the specified time and the Comptroller is satisfied that, for the year of assessment to which the return relates, a person other than a body corporate is liable to pay tax of less than £300 -
 (a) the person’s liability under paragraph (1) must be abated to an amount equal to the tax that the person is liable to pay for that year of assessment; and
 (b) the Comptroller must repay to the person any amount paid by the person in discharge of the person’s liability under paragraph (1) which exceeds the abated amount.
-(4A) Where a person, other than a body corporate, is liable to pay a penalty under paragraph (2A) in respect of a return under Article 16 and the Comptroller is satisfied that the person is liable to pay tax for the year of assessment to which the return relates of less than £50 -
-(a) the person’s liability under paragraph (2A) is abated to an amount equal to the tax he or she is liable to pay; and
-(b) the Comptroller must repay to the person any amount paid by the person in discharge of the person’s liability under paragraph (2A) which exceeds the abated amount.
+(4A) Paragraph (4B) applies if -
+(a) a person, other than a body corporate, is liable to pay one or more penalties under paragraph (2A) in respect of a return under Article 16; and
+(b) the Comptroller is satisfied that the person is liable to pay tax of less than £50 for the period to which the return relates.
+(4B) If this paragraph applies, -
+(a) each penalty that the person is liable to pay under paragraph (2A) is abated to an amount equal to the tax the person is liable to pay for the period to which the return relates; and
+(b) the Comptroller must repay to the person any amount paid to discharge the person’s liability under paragraph (2A) that exceeds the amount of the penalty after the abatement.
 (5) Where a person is liable to a penalty under paragraph (1) or (2A), the Comptroller may serve a written notice on the person -
 (a) specifying the amount of the penalty; and
 (b) setting out the person’s entitlement to apply to the Comptroller under paragraph (6).

@@ -1,17 +1,21 @@
 # 106A Allowances and balancing adjustments
 (1) Subject to the provisions of this Part, where a person carrying on a trade has incurred capital expenditure on the provision of machinery or plant wholly and exclusively for the purposes of the trade and, in consequence of his or her incurring the expenditure, the machinery or plant belongs, or has belonged, to the person, allowances and charges shall be made to and on the person in accordance with the following provisions of this Article.
-(2) For any year of assessment for the basis period of which a person within paragraph (1) has qualifying expenditure as defined in paragraph (4), which exceeds any disposal value to be brought into account by the person in accordance with paragraph (5), there shall be made to the person an allowance of an amount equal to 25% of the excess, or a proportionately reduced percentage of the excess if the trade has been carried on for part only of the year of assessment:
+(2) For any year of assessment for the basis period of which a person within paragraph (1) has qualifying expenditure as defined in paragraph (4), which exceeds any disposal value to be brought into account by the person in accordance with paragraph (5), there shall be made to the person an allowance of an amount equal to 25% of the excess:
 Provided that if the year of assessment is the year of assessment in which occurs the permanent discontinuance of the trade, an allowance (in this Part referred to as a “balancing allowance”) shall be made to that person equal to the whole of the excess.
+(2A) The percentage for the excess under paragraph (2) -
+(a) is proportionately reduced if the financial period or financial periods forming the basis of the year of assessment is less than 12 months; and
+(b) is proportionately increased if the financial period or financial periods forming the basis of the year of assessment is more than 12 months.
 (3) For any year of assessment for the basis period of which a person’s qualifying expenditure is less than the disposal value which the person is to bring into account, there shall be made on the person a charge (in this Part referred to as a “balancing charge”), and the amount on which the charge is made shall be an amount equal to the difference.
 (4) For the purposes of this Article, a person’s qualifying expenditure is the aggregate of -
 (a) the amount of capital expenditure incurred by the person on the provision for the purposes of the trade of machinery or plant, being expenditure incurred in the basis period or at any previous time, and not being expenditure which, or any part of which, has formed part of the person’s qualifying expenditure for any previous basis period; and
 (b) if for the year of assessment immediately preceding the year of assessment in question there was an excess of qualifying expenditure over disposal value, the balance of that excess after deducting any allowances made by reference thereto.
+(4A) However, if Article 106AB applies, the qualifying expenditure of a person who succeeds to a trade is determined under Article 106AB(2)(c).
 (5) For the purposes of this Article, the disposal value to be brought into account by a person is the disposal value (calculated in accordance with paragraph (6)) of all machinery or plant on the provision of which for the purposes of the trade the person has incurred capital expenditure and in respect of which one of the following events occurs, namely -
 (a) the machinery or plant ceases to belong to the person;
 (b) the person loses possession of the machinery or plant in circumstances where it is reasonable to assume the loss is permanent;
 (c) the machinery or plant ceases to exist as such (as a result of destruction, dismantling or otherwise);
 (d) the machinery or plant begins to be used wholly or partly for purposes which are other than those of the trade; or
-(e) the trade is permanently discontinued, or is treated by virtue of any provision of this Law as permanently discontinued,
+(e) the trade is permanently discontinued, or is treated by virtue of any provision of this Law as permanently discontinued and Article 106AB does not apply,
 and that is the first such event to occur.
 (6) The disposal value of any machinery or plant depends on the event by reason of which it falls to be taken into account and -
 (a) unless sub-paragraph (b) applies, if that event is the sale of the machinery or plant, equals the net proceeds to the person in question of the sale, together with any insurance moneys received by the person in respect of the machinery or plant by reason of any event affecting the price obtainable on the sale and, so far as it consists of capital sums, any other compensation of any description so received;

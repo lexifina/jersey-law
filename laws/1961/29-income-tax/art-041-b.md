@@ -1,7 +1,7 @@
 # 41B Duty of employer to deduct and account for tax
 (1) An employer shall, in accordance with this Article, deduct tax at the effective rate from earnings payable by the employer to an employee, including any payments made by an employer that fall within Article 62D.
 (2) The effective rate shall be -
-(a) where the employer has received a copy of a notice issued by the Comptroller under Article 41C specifying a rate applicable on the day the deduction is made, the rate so specified;
+(a) where the employer has received a copy of a notice issued by the Comptroller under Article 41CC specifying a rate applicable on the day the deduction is made, the rate so specified;
 (b) where the employer has not received a copy of such a notice -
 (i) for deductions made in the years 2006 and 2007, 15%,
 (ii) for deductions made in the year 2008 and ensuing years, 20%.

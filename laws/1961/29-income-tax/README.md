@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/l_29_1961_20201231>
+L.29/1961 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -49,16 +49,23 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 39 | [art-039.md](art-039.md) | 39 Tax when due |
 | Art. 40 | [art-040.md](art-040.md) | 40 Demand for payment |
 | Art. 41 | [art-041.md](art-041.md) | 41 General notice to persons by whom tax is payable |
-| Art. 41A | [art-041-a.md](art-041-a.md) | 41A Duty to pay instalment in May (individuals and unincorporated bodies) |
-| Art. 41AA | [art-041-aa.md](art-041-aa.md) | 41AA Duty to pay instalment (companies) |
+| Art. 41A | [art-041-a.md](art-041-a.md) | 41A Duty to pay instalments (taxpayers other than companies) |
+| Art. 41AA | [art-041-aa.md](art-041-aa.md) | 41AA Applications to waive or reduce amount of instalment |
+| Art. 41AB | [art-041-ab.md](art-041-ab.md) | 41AB Duty to pay instalment (companies) |
 | Art. 41B | [art-041-b.md](art-041-b.md) | 41B Duty of employer to deduct and account for tax |
 | Art. 41C | [art-041-c.md](art-041-c.md) | 41C Calculation of rate |
+| Art. 41CA | [art-041-ca.md](art-041-ca.md) | 41CA Revised rates: initiated by Comptroller |
+| Art. 41CB | [art-041-cb.md](art-041-cb.md) | 41CB Revised rates: initiated by employee |
+| Art. 41CC | [art-041-cc.md](art-041-cc.md) | 41CC Notification of rate |
+| Art. 41CD | [art-041-cd.md](art-041-cd.md) | 41CD Appeals against rates decisions |
+| Art. 41CE | [art-041-ce.md](art-041-ce.md) | 41CE False and altered rate notices |
+| Art. 41CF | [art-041-cf.md](art-041-cf.md) | 41CF Rates do not prevent recovery of arrears |
 | Art. 41D | [art-041-d.md](art-041-d.md) | 41D Deductions in respect of spouses |
 | Art. 41DA | [art-041-da.md](art-041-da.md) | 41DA Deductions in respect of civil partners |
 | Art. 41E | [art-041-e.md](art-041-e.md) | 41E Duty of building contractor to deduct and account for tax |
 | Art. 41F | [art-041-f.md](art-041-f.md) | 41F Exemption certificate |
 | Art. 41G | [art-041-g.md](art-041-g.md) | 41G Treatment of amounts received by Comptroller |
-| Art. 41H | [art-041-h.md](art-041-h.md) | 41H Arrangements for new taxpayers and certain exempt persons |
+| Art. 41H | [art-041-h.md](art-041-h.md) | 41H Requirement to provide information when entering or resuming employment or sub-contracting |
 | Art. 41HA | [art-041-ha.md](art-041-ha.md) | 41HA Tax deducted under the Social Security (Jersey) Law 1974 |
 | Art. 41I | [art-041-i.md](art-041-i.md) | 41I Late payment surcharge |
 | Art. 42 | [art-042.md](art-042.md) | 42 Proceedings for recovery of tax |
@@ -103,6 +110,8 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 70 | [art-070.md](art-070.md) | 70 General rules as to deductions not allowable |
 | Art. 70A | [art-070-a.md](art-070-a.md) | 70A Deduction on account of Social Security contributions |
 | Art. 70B | [art-070-b.md](art-070-b.md) | 70B Deduction on account of a levy paid to the Jersey Bank Depositors Compensation Board |
+| Art. 70C | [art-070-c.md](art-070-c.md) | 70C Deductions on account of foreign tax paid |
+| Art. 70D | [art-070-d.md](art-070-d.md) | 70D Employer’s contributions into group life insurance scheme |
 | Art. 74 | [art-074.md](art-074.md) | 74 Partnership statements and assessments |
 | Art. 75 | [art-075.md](art-075.md) | 75 Changes of proprietor |
 | Art. 76 | [art-076.md](art-076.md) | 76 Partnerships controlled abroad |
@@ -175,6 +184,7 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 104 | [art-104.md](art-104.md) | 104 No relief in respect of charges on income |
 | Art. 105 | [art-105.md](art-105.md) | 105 Partners |
 | Art. 106A | [art-106-a.md](art-106-a.md) | 106A Allowances and balancing adjustments |
+| Art. 106AB | [art-106-ab.md](art-106-ab.md) | 106AB Special provisions if assets transferred to successor to trade |
 | Art. 106B | [art-106-b.md](art-106-b.md) | 106B Special provisions as to glasshouses |
 | Art. 106C | [art-106-c.md](art-106-c.md) | 106C Miscellaneous and general |
 | Art. 107 | [art-107.md](art-107.md) | 107 Right to have income for year of assessment adjusted by reference to losses |
@@ -182,6 +192,7 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 108 | [art-108.md](art-108.md) | 108 Right to carry forward losses to future years |
 | Art. 110 | [art-110.md](art-110.md) | 110 Amount of assessment under Article 87 to be allowed as a loss for certain purposes |
 | Art. 110A | [art-110-a.md](art-110-a.md) | 110A Losses arising from possessions out of Jersey |
+| Art. 110B | [art-110-b.md](art-110-b.md) | 110B Capital allowance may be allowed as loss |
 | Art. 111 | [art-111.md](art-111.md) | 111 Double taxation arrangements |
 | Art. 112 | [art-112.md](art-112.md) | 112 Tax credits |
 | Art. 113 | [art-113.md](art-113.md) | 113 Effect on dividends of double taxation relief and unilateral relief under Part 14A |
@@ -205,11 +216,13 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 121A | [art-121-a.md](art-121-a.md) | 121A Election by spouse for separate assessment |
 | Art. 121B | [art-121-b.md](art-121-b.md) | 121B Effect of election for separate assessment |
 | Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
+| Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
 | Art. 122A | [art-122-a.md](art-122-a.md) | 122A Election of civil partner as civil partner A or civil partner B for treatment of tax |
 | Art. 122B | [art-122-b.md](art-122-b.md) | 122B General rule as to income tax on civil partners |
 | Art. 122C | [art-122-c.md](art-122-c.md) | 122C Election by civil partner A or civil partner B for separate assessment |
 | Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
+| Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
 | Art. 123AA | [art-123-aa.md](art-123-aa.md) | 123AA Duty of body corporate to notify Comptroller of certain matters |
 | Art. 123C | [art-123-c.md](art-123-c.md) | 123C Non-financial services companies |
@@ -295,6 +308,7 @@ L.29/1961 · official consolidation showing the law from 2020-11-24 · <https://
 | Art. 142 | [art-142.md](art-142.md) | 142 Provisions for giving effect to any increase, during any year of assessment, in the standard rate of income tax |
 | Art. 142A | [art-142-a.md](art-142-a.md) | 142A Power to make Regulations relating to personal injury lump sum payments |
 | Art. 143 | [art-143.md](art-143.md) | 143 Power to make Regulations relating to other legal entities |
+| Art. 143AA | [art-143-aa.md](art-143-aa.md) | 143AA Power to make Regulations relating to companies in the cannabis industry |
 | Art. 143A | [art-143-a.md](art-143-a.md) | 143A General provisions as to Regulations |
 | Art. 144 | [art-144.md](art-144.md) | 144 Power to make Orders |
 | Art. 145 | [art-145.md](art-145.md) | 145 Delivery and service of notices and forms |

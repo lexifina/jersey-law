@@ -14,7 +14,7 @@
 (i) contributions to the scheme, contract or trust, including transfers from other schemes, contracts or trusts, and
 (ii) income accrued from investments or deposits of the scheme, contract or trust.
 (7) Where the Comptroller is unable to ascertain either or both of the amounts described in paragraph (6)(a) and (b), the Comptroller may, for the purposes of raising an assessment of the liability to tax under that paragraph, estimate the amount that he or she is unable to ascertain.
-(8) The Comptroller may decide to abate the liability to tax under paragraph (6) by an amount which is, having regard to the relevant circumstances, just and reasonable.
+(8) The Comptroller may, at the time that the Comptroller raises an assessment under paragraph (6), decide to abate the liability to tax under that paragraph by an amount which is, having regard to the relevant circumstances, just and reasonable.
 (9) Where all or any of the tax charged under paragraph (6) remains unpaid -
 (a) the Comptroller may give a further notice under paragraph (3) to any of the persons there mentioned who has not previously been given notice; and
 (b) the person to whom the further notice is given shall be liable to so much of the tax charged under paragraph (6) as remains unpaid.

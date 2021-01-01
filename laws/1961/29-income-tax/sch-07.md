@@ -157,13 +157,18 @@ The deletion of Article 81O(9) and (10) by Article 15(1) of the Finance (2016 Bu
 22 Interpretation of paragraphs 23 to 25
 In paragraphs 23 to 25 -
 “2019 liability” means the amount of income tax assessed (or to be assessed) for the year beginning 1st January 2019;
-“new taxpayer” means a person -
-(a) to whom Article 41H (as in force before amended by Income Tax (Amendment No. 46) (Jersey) Law 202-) applied for the year beginning 1st January 2019; or
-(b) who chose to be treated as if Article 41H applied to them for the year beginning 1st January 2019.
+“new taxpayer” -
+(a) means a person -
+(i) to whom Article 41H (as in force before amended by Income Tax (Amendment No. 46) (Jersey) Law 202-) applied for the year beginning 1st January 2019, or
+(ii) who chose to be treated as if Article 41H applied to the person for the year beginning 1st January 2019; but
+(b) does not include a person if 25% or less of the person’s total income for the 2019 year of assessment consists of earnings.
 23 Income Tax (Amendment No. 46) (Jersey) Law 202-: deferral of 2019 liability
 (1) The 2019 liability for a person who is not a new taxpayer -
-(a) is not due and payable by the dates set out in Articles 39, 41A and 41AA; but
+(a) is not due and payable by the dates set out in Articles 39 and 41A; but
 (b) will become due and payable as specified in Regulations made under this paragraph.
+(1A) This paragraph does not apply to -
+(a) a company; or
+(b) a scheme manager of an approved Jersey scheme, an approved drawdown contract or an approved trust (as defined in Article 130) in respect of tax charged under Part 19.
 (2) Article 41I does not apply in relation to the 2019 liability for a person who is not a new taxpayer.
 (3) The States must, no later than 31st March 2021, make Regulations that -
 (a) provide for the payment of the 2019 liability;
@@ -177,7 +182,10 @@ In paragraphs 23 to 25 -
 24 Income Tax (Amendment No. 46) (Jersey) Law 202-: transfer of payments from 2019 to 2020
 (1) This paragraph applies to a payment if -
 (a) the payment was made before 1st January 2021;
-(b) the payment was not received as a payment by a new taxpayer; and
+(b) the payment was not received as a payment by -
+(i) a new taxpayer,
+(ii) a company, or
+(iii) a scheme manager of an approved Jersey scheme, an approved drawdown contract or an approved trust (as defined in Article 130) for tax charged under Part 19; and
 (c) the payment was applied to the 2019 liability or to any penalties or surcharges in respect of the 2019 year of assessment.
 (2) The Comptroller must treat a payment to which this paragraph applies as a payment of income tax for the 2020 year of assessment.
 25 Income Tax (Amendment No. 46) (Jersey) Law 202-: payment of instalment for 2020
@@ -191,10 +199,16 @@ Where -
 A is the amount of the instalment;
 B is 0.5 if the person’s income for 2019 did not include any earnings, and is 0.4 in any other case;
 C is the person’s 2019 liability; and
-D is the amount of income tax already paid for 2020 (not including an amount deducted during the year under Article 41B or 41E).
+D is the amount of income tax already paid for 2020 (not including an amount deducted during the year under Article 41B or 41E or an amount paid during the year as an instalment under Article 41A).
 (4) If, at 31st May 2021, an income tax assessment has been made for a person for the 2020 year of assessment, the amount of the person’s instalment is the lower of -
 (a) the person’s remaining income tax liability for the 2020 year of assessment; and
 (b) the amount calculated using the formula in sub-paragraph (3).
 (5) This paragraph does not apply in respect of tax charged under Part 19 on a scheme manager of an approved Jersey scheme, an approved drawdown contract or an approved trust (as defined in Article 130).
 (6) In this paragraph, “earnings” has the meaning given in Article A15.
 (7) Article 41AA applies, with necessary modifications, to the waiver or reduction of amount of an instalment payable under this paragraph.
+26 Income Tax (Amendment No. 46) (Jersey) Law 202-: credits for repayment of shareholder loans
+(1) This paragraph applies if -
+(a) there is an amount attributable to a person, other than a new taxpayer, as a shareholder loan under Article 81O for the 2019 year of assessment; and
+(b) the person is entitled to a credit under Article 81O(6) in respect of that shareholder loan for a later year of assessment; and
+(c) the person’s 2019 liability has not been paid in full.
+(2) The Comptroller must apply the credit that the person is entitled to under Article 81O(6) towards the unpaid amount of the person’s 2019 liability.

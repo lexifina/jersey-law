@@ -1,12 +1,13 @@
-# 41AA Duty to pay instalment (companies)
-(1) This Article applies to a company regarded as resident in Jersey or which has a permanent establishment in Jersey.
-(2) A company shall, in accordance with this Article, pay an instalment of income tax for a year of assessment.
-(3) The instalment -
-(a) shall be due and payable no later than -
-(i) in the case of a large company, midnight on 31st March of the year immediately following the year of assessment, or
-(ii) in the case of any other company, midnight on 31st May of the year immediately following the year of assessment; and
-(b) subject to this Article, shall be of an amount equal to 50% of an estimate of the company’s liability to income tax for the year of assessment.
-(4) For the purposes of paragraph (3), the estimate is such amount as the company reasonably estimates.
-(5) A large company must notify the Comptroller by the date referred to in paragraph (3)(a) if it estimates that the amount it is liable to pay under paragraph (3)(b) is zero.
-(6) Subject to a notification being given under paragraph (5), a company is liable to pay the instalment whether or not an assessment has been raised for the year of assessment for which instalment is due.
-(7) In this Article “large company” means a company whose liability to income tax is or exceeds £500,000 for each of the 2 years of assessment immediately preceding the year of assessment in which an instalment is payable under this Article.
+# 41AA Applications to waive or reduce amount of instalment
+(1) A person may apply to the Comptroller to waive or reduce the amount of an instalment payable under Article 41A that is due one month or more after the date the Comptroller receives the application if -
+(a) the person’s income tax liability for the year of assessment is likely to be substantially less than the sum of the instalments payable for the year; or
+(b) the person’s income for the year of assessment from sources other than earnings is likely to be substantially less than the person’s income for the previous year from those sources.
+(2) The Comptroller may accept an application that is received less than a month before the date the instalment is payable if the Comptroller is satisfied that the applicant was not able to apply at an earlier time due to absence, sickness or another reasonable cause.
+(3) On receipt of an application, -
+(a) the Comptroller may waive or reduce the amount of the instalment; and
+(b) the Comptroller must notify the applicant of the outcome of their application.
+(4) If the Comptroller refuses accept a late application or to waive or reduce the amount of an instalment payable by a person, -
+(a) the person may appeal the refusal to the Commissioners by giving notice in writing to the Comptroller within 40 days of the date on which the notice of refusal is issued; but
+(b) the instalment remains due and payable by the date specified in Article 41A(2).
+(5) If the Commissioners conclude that the instalment should be waived or reduced, the Comptroller must repay any amount determined to have been overpaid.
+(6) Part 6 applies, with the necessary modifications, to an appeal under this Article as if it were an appeal against an assessment.
