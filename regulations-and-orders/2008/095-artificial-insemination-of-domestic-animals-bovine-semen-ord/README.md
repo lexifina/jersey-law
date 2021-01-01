@@ -1,6 +1,6 @@
 # Artificial Insemination of Domestic Animals (Bovine Semen) (Jersey) Order 2008
 
-R&O.95/2008 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_95_2008_20201231>
+R&O.95/2008 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_95_2008_20210127>
 
 | Provision | File | Heading |
 | --- | --- | --- |
