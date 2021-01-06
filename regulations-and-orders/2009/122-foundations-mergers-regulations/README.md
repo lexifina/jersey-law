@@ -1,6 +1,6 @@
 # Foundations (Mergers) (Jersey) Regulations 2009
 
-R&O.122/2009 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_122_2009_20210105>
+R&O.122/2009 · official consolidation showing the law from 2021-01-06 · <https://www.jerseylaw.je/laws/current/ro_122_2009_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
