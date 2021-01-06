@@ -1,6 +1,6 @@
 # Foundations (Jersey) Law 2009
 
-L.23/2009 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_23_2009_20210105>
+L.23/2009 · official consolidation showing the law from 2021-01-06 · <https://www.jerseylaw.je/laws/current/l_23_2009_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -43,7 +43,6 @@ L.23/2009 · official consolidation showing the law from 2019-05-31 · <https://
 | Art. 34 | [art-034.md](art-034.md) | 34 Service of documents |
 | Art. 35 | [art-035.md](art-035.md) | 35 Foundation to include name and address in its written communications |
 | Art. 36 | [art-036.md](art-036.md) | 36 Documents to be kept at business address of foundation |
-| Art. 37 | [art-037.md](art-037.md) | 37 Foundation to pay fees and charges |
 | Art. 38 | [art-038.md](art-038.md) | 38 Amendment of charter |
 | Art. 39 | [art-039.md](art-039.md) | 39 Exercise of functions of the registrar |
 | Art. 40 | [art-040.md](art-040.md) | 40 Register to be kept and made available for public inspection |
