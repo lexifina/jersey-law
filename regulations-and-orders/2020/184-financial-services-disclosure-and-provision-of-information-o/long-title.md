@@ -1,0 +1,1 @@
+THE MINISTER FOR EXTERNAL RELATIONS, after consulting with the Jersey Financial Services Commission, makes this Order under Articles 1, 4(1)(d), 5(1) and 21 of the Financial Services (Disclosure and Provision of Information) (Jersey) Law 2020 -
