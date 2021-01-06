@@ -1,6 +1,6 @@
 # Incorporated Limited Partnerships (Jersey) Law 2011
 
-L.5/2011 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_5_2011_20210105>
+L.5/2011 · official consolidation showing the law from 2021-01-06 · <https://www.jerseylaw.je/laws/current/l_5_2011_20210301>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,7 +30,6 @@ L.5/2011 · official consolidation showing the law from 2019-05-31 · <https://w
 | Art. 23 | [art-023.md](art-023.md) | 23 Service of documents |
 | Art. 24 | [art-024.md](art-024.md) | 24 Authority to sign |
 | Art. 25 | [art-025.md](art-025.md) | 25 Appointment of registrar |
-| Art. 26 | [art-026.md](art-026.md) | 26 Annual administration fee |
 | Art. 27 | [art-027.md](art-027.md) | 27 Fees, charges and forms |
 | Art. 28 | [art-028.md](art-028.md) | 28 Form of documents to be delivered to registrar |
 | Art. 29 | [art-029.md](art-029.md) | 29 Inspection and production of documents kept by registrar |
