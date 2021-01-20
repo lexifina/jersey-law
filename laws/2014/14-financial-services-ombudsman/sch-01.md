@@ -7,7 +7,7 @@ Constitution of OFSO
 (3) The Minister must, at least 2 weeks before appointing a board member, present to the States a notice of his or her intention to make the appointment.
 (4) The Chairman may nominate a person only if that person -
 (a) is not a member of the States; and
-(b) has applied to be appointed or re-appointed as a board member and has complied with sub-paragraph (6) in respect of the application.
+(b) has applied to be appointed or re-appointed as a board member and has complied with sub-paragraph (7) in respect of the application.
 (5) An Ombudsman, and any member of the OFSO’s staff, may not hold office as a board member.
 (6) In making nominations and appointments, the Chairman and the Minister must -
 (a) seek to ensure that persons nominated or appointed are prepared in particular -
@@ -25,6 +25,9 @@ Constitution of OFSO
 (i) under customary law or under any enactment, or
 (ii) against any law of a country or territory outside Jersey.
 (8) The Minister must, in the instrument appointing a board member, specify a period for that appointment of not less than 3 years (subject to paragraph 4) and not more than 5 years.
+(8A) Despite sub-paragraph (8), the Minister may, in an instrument re-appointing a board member, specify a period of one year for that re-appointment, if -
+(a) the Minister and the Chairman agree that exceptional circumstances render it impracticable to make an appointment of at least 3 years; and
+(b) the board member being re-appointed has not previously been re-appointed for one year under this sub-paragraph.
 (9) A person appointed as a board member holds and vacates office in accordance with the terms of his or her appointment, subject to this Law.
 (10) The terms of appointment must be such as to secure the independence of board members in the performance of their functions.
 (11) The rights and obligations of the OFSO, and the validity of the performance of its functions, are not affected by -

@@ -1,6 +1,6 @@
 # Financial Services Ombudsman (Jersey) Law 2014
 
-L.14/2014 · official consolidation showing the law from 2019-11-19 · <https://www.jerseylaw.je/laws/current/l_14_2014_20210119>
+L.14/2014 · official consolidation showing the law from 2021-01-20 · <https://www.jerseylaw.je/laws/current/l_14_2014_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
