@@ -1,6 +1,6 @@
 # Diseases of Animals (Rabies) (Importation of Mammals) (Jersey) Order 2011
 
-R&O.170/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_170_2011_20210127>
+R&O.170/2011 · official consolidation showing the law from 2021-01-28 · <https://www.jerseylaw.je/laws/current/ro_170_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
