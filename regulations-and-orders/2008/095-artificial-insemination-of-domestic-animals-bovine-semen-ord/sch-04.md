@@ -11,7 +11,7 @@ The approved person in respect of a domestic collection centre must ensure that 
 PART 2
 MEASURES APPLICABLE TO PROCESSING AT A DOMESTIC COLLECTION CENTRE
 1 The approved person in respect of a domestic collection centre must ensure that -
-(a) semen is not stored with semen of a different health status and semen must be identifiable by a marking different from that used in EC collection or storage centres for semen for intra-Community trade or intra-British Islands trade;
+(a) semen is not stored with semen of a different health status and semen must be identifiable by a marking different from that used in EC collection or storage centres for semen for trade with a member state or intra-British Islands trade;
 (b) products of animal origin used in the processing of semen, including additives or dilutents, are obtained from sources that present no animal health risk or are so treated prior to use that such risk is removed;
 (c) the cryogenic agent used has not been previously used for other products of animal origin;
 (d) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established -

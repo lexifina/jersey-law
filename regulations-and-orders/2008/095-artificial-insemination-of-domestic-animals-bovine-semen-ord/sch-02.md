@@ -5,7 +5,7 @@ PART 1
 RECORDS OF ENZOOTIC BOVINE LEUKOSIS AND MARKING OF SEMEN DOSES
 1
 (1) The centre veterinarian must make a record of a bovine animal admitted that -
-(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC; or
+(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC or other national or international standards or standards that the Minister considers equivalent or more stringent; or
 (b) was produced by a dam that did not, after removal of the bovine animal from it, test negative to a test carried out under Annex D (Chapter II) to Directive 64/432/EEC.
 (2) The centre veterinarian must pass a copy of any record made under sub paragraph (1) to the centre veterinarian of any collection centre to which the bovine animals or their semen may move, not later than the date of such move.
 2 The centre veterinarian must ensure that each individual dose of semen collected at the centre is clearly marked in such a way that the following information can be readily established -
@@ -39,28 +39,28 @@ ROUTINE TESTS AND TREATMENT that MUST BE APPLIED TO ALL BOVINE ANIMALS IN EC COL
 (1) If a test required under paragraph 1 is positive, the centre veterinarian must ensure that -
 (a) the bovine animal is isolated;
 (b) semen collected from that animal since the date of the last negative test (or the date that animal arrived at the centre if the positive result is from the first test carried out there) is -
-(i) if held at the centre, not supplied for intra-Community trade or intra-British Islands trade, and
+(i) if held at the centre, not supplied for trade with a member State or intra-British Islands trade, and
 (ii) if supplied to any person from the centre, the subject of notice to that person under sub paragraph 2;
 (c) semen collected from any other bovine animal at the centre since the date of the positive test is -
 (i) if held at the centre -
 (A) kept in separate storage, and
-(B) not supplied for intra-Community trade or intra-British Islands trade,
+(B) not supplied for trade with a member State or intra-British Islands trade,
 until the health status of the centre has been restored to the level required by the Directive and this Order;
 (ii) if supplied to any person, the subject of notice to that person under sub paragraph (2).
 (2) Notice shall be given that semen supplied from -
-(a) the bovine animal that tested positive shall not be supplied for intra-Community trade or intra-British Islands trade; or
+(a) the bovine animal that tested positive shall not be supplied for trade with a member State or intra-British Islands trade; or
 (b) any other bovine animal at the centre shall be -
 (i) kept in separate storage, and
-(ii) not supplied for intra-Community trade or intra-British Islands trade,
+(ii) not supplied for trade with a member State or intra-British Islands trade,
 until the health status of the centre has been restored to the level required by the Directive and this Order.
 (3) Where any person has been supplied with semen, other than from the centre, and that person subsequently supplies that semen to any other person, sub-paragraph (2) applies equally to that other person.
 3 Persons given notice under paragraphs 1 and 2 must ensure that semen held by or for that person is kept or supplied in accordance with that notice.
-4 Paragraphs 2 and 3 are subject to the exception that ejaculate from a bovine animal that tested positive under paragraph 1 for BVD/MD may be supplied for intra-Community trade or intra-British Islands trade if the ejaculate tests negative for BVD/MD.
+4 Paragraphs 2 and 3 are subject to the exception that ejaculate from a bovine animal that tested positive under paragraph 1 for BVD/MD may be supplied for trade with a member State or intra-British Islands trade if the ejaculate tests negative for BVD/MD.
 PART 3
 MEASURES APPLICABLE TO PROCESSING FACILITIES AT AN EC COLLECTION CENTRE
 1 The centre veterinarian must ensure that -
 (a) semen processed at the centre is collected at an EC collection centre in Jersey or in another British Island or in a member State;
-(b) semen collected, processed and quarantined at EC collection centres and intended for intra-Community trade or intra-British Islands trade does not come into contact with and is not stored in the same room as any other semen processed at the centre;
+(b) semen collected, processed and quarantined at EC collection centres and intended for trade with a member state or intra-British Islands trade does not come into contact with and is not stored in the same room as any other semen processed at the centre;
 (c) products of animal origin used in the processing of semen, including additives and diluents, are obtained from sources that present no animal health risk or are so treated prior to use that such risk is removed;
 (d) the cryogenic agent used has not been previously used for other products of animal origin;
 (e) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established -
@@ -85,10 +85,10 @@ MEASURES APPLICABLE TO SEMEN QUARANTINE AT AN EC COLLECTION CENTRE
 2 The centre veterinarian must ensure that frozen semen is kept in the semen quarantine facilities for at least 30 days before it leaves the centre.
 3 The centre veterinarian must not allow any semen to leave the centre unless the premises where it was collected remain clear of -
 (a) foot and mouth disease; and
-(b) the bovine diseases listed in Annex E(I) to Directive 64/432/EEC,
+(b) the bovine diseases listed in Annex E(I) to Directive 64/432/EEC or other national or international standards or standards that the Minister considers equivalent or more stringent,
 for 30 days after collection or, in the case of fresh bovine semen, until the date of dispatch of the semen.
 4 With regard to a bovine animal that -
-(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC; or
+(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC or other national or international standards or standards that the Minister considers equivalent or more stringent; or
 (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out under Annex D (Chapter II) to Directive 64/432/EEC,
 the centre veterinarian must not allow its semen to leave the centre until the bovine animal has reached the age of 2 years and has tested negative for enzootic bovine leukosis, under a serological test carried out under the procedure described in Annex D (Chapter II) to Directive 64/432/EEC.
 5 With regard to a bovine animal vaccinated against foot and mouth disease more than 30 days before, but within 12 months of, a collection, the centre veterinarian must not allow its semen to leave the centre unless 5% (with a minimum of 5 straws) of each collection have tested negative to a virus isolation test for foot and mouth disease.

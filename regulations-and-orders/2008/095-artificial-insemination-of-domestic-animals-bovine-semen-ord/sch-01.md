@@ -3,7 +3,7 @@
 DUTIES OF THE CENTRE VETERINARIAN IN EC QUARANTINE CENTRES
 1
 (1) The centre veterinarian must make a record of any bovine animals to be admitted that -
-(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC; or
+(a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC or other national or international standards or standards that the Minister considers equivalent or more stringent; or
 (b) was produced by a dam that did not, after removal of the bovine animal from it, test negative to a test carried out under Annex D (Chapter II) to Directive 64/432/EEC.
 (2) The centre veterinarian must pass a copy of any record made under sub paragraph (1) to the centre veterinarian of the collection centre to which the bovine animals move, not later than the date of such move.
 2
@@ -11,7 +11,7 @@ DUTIES OF THE CENTRE VETERINARIAN IN EC QUARANTINE CENTRES
 (a) for bovine tuberculosis, an intradermal tuberculin test carried out under the procedure laid down in Annex B to Directive 64/432/EEC;
 (b) for bovine brucellosis, a serological test carried out under the procedure laid down in Annex C to Directive 64/432/EEC;
 (c) for enzootic bovine leukosis, a serological test carried out under the procedure laid down in Annex D (Chapter II) to Directive 64/432/EEC;
-(d) for IBR/IPV, a serological test (whole virus) on a blood sample if the bovine animals do not come from an IBR/IPV free herd as defined in Article 2.3.5.3. of the International Animal Health Code; and
+(d) for IBR/IPV, a serological test (whole virus) on a blood sample if the bovine animals do not come from an IBR/IPV free herd as defined in the OIE, World Organisation for Animal Health Terrestrial Animal Health Code, as amended from time to time; and
 (e) for BVD/MD -
 (i) a virus isolation test or a test for virus antigen, and
 (ii) a serological test to determine the presence or absence of antibodies.
