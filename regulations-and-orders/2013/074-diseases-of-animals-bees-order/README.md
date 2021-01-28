@@ -1,6 +1,6 @@
 # Diseases of Animals (Bees) (Jersey) Order 2013
 
-R&O.74/2013 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_74_2013_20210127>
+R&O.74/2013 · official consolidation showing the law from 2021-01-28 · <https://www.jerseylaw.je/laws/current/ro_74_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ R&O.74/2013 · official consolidation showing the law from 2020-12-08 · <https:
 | Art. 11 | [art-011.md](art-011.md) | 11 Declaration of area infected by notifiable disease or pest |
 | Art. 12 | [art-012.md](art-012.md) | 12 Powers and prohibitions that may be applied in infected area |
 | Art. 13 | [art-013.md](art-013.md) | 13 Notices under Article 9, 10 or 12 |
-| Art. 14 | [art-014.md](art-014.md) | 14 Importation of bees |
+| Art. 14 | [art-014.md](art-014.md) | 14 Importation of bees and used bee equipment |
 | Art. 15 | [art-015.md](art-015.md) | 15 Licensing |
 | Art. 16 | [art-016.md](art-016.md) | 16 Service of notices |
 | Art. 17 | [art-017.md](art-017.md) | 17 Transitional arrangement for Article 3 |
