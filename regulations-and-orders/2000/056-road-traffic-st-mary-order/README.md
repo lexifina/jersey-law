@@ -1,6 +1,6 @@
 # Road Traffic (St. Mary) (Jersey) Order 2000
 
-R&O.56/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_56_2000_20210218>
+R&O.56/2000 · official consolidation showing the law from 2021-02-19 · <https://www.jerseylaw.je/laws/current/ro_56_2000_20231205>
 
 | Provision | File | Heading |
 | --- | --- | --- |
