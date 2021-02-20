@@ -40,7 +40,7 @@ Highlands College exit to the junction with Maison St. Louis Estate
 James Road (between Belvedere Hill and Summerville Lane)
 Belvedere Hill to Summerville Lane
 La Chasse Brunet
-Bagatelle Road to La Rue de Patier
+La Rue de Patier to Bagatelle Road
 La Rue de la Hougette
 La Rue des Friquettes to Princes Tower Road
 La Rue Le Masurier
