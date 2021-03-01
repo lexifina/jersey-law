@@ -1,6 +1,6 @@
 # Road Traffic (Public Parking Places - Charges) (Jersey) Order 2017
 
-R&O.6/2017 · official consolidation showing the law from 2020-03-01 · <https://www.jerseylaw.je/laws/current/ro_6_2017_20210228>
+R&O.6/2017 · official consolidation showing the law from 2021-03-01 · <https://www.jerseylaw.je/laws/current/ro_6_2017_20220131>
 
 | Provision | File | Heading |
 | --- | --- | --- |
