@@ -546,7 +546,7 @@ About the child(ren) of the family
 9. Have you read the Statement of Arrangements filed in this cause?
 10. Do you wish to alter anything in the Statement of Arrangements or add to it?
 If so, state the alterations or additions.
-11. Subject to these alterations and additions (if any) is everything stated in your ause application [and Statement of Arrangements for the child(ren)] true to the best of your knowledge and belief?
+11. Subject to these alterations and additions (if any) is everything stated in your cause application [and Statement of Arrangements for the child(ren)] true to the best of your knowledge and belief?
 AFFIDAVIT
 I, (full name)
 of (full residential address)
