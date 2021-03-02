@@ -1,6 +1,6 @@
 # Residential Tenancy (Jersey) Law 2011
 
-L.31/2011 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/l_31_2011_20210301>
+L.31/2011 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_31_2011_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
