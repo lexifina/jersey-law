@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (Administration) (Jersey) Order 2007
 
-R&O.36/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_36_2007_20210301>
+R&O.36/2007 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_36_2007_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
