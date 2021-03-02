@@ -1,6 +1,6 @@
 # Policing of Parks (Jersey) Regulations 2005
 
-R&O.165/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_165_2005_20210301>
+R&O.165/2005 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_165_2005_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
