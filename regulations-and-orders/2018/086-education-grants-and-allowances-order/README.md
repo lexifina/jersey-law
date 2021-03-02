@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2021-02-26 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20210301>
+R&O.86/2018 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20210806>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -39,6 +39,4 @@ R&O.86/2018 · official consolidation showing the law from 2021-02-26 · <https:
 | Art. 32 | [art-032.md](art-032.md) | 32 Reduction of grant or allowance where not in full-time attendance |
 | Art. 33 | [art-033.md](art-033.md) | 33 Grant or allowance may be suspended or withdrawn |
 | Art. 34 | [art-034.md](art-034.md) | 34 Appeals panel |
-| Art. 35 | [art-035.md](art-035.md) | 35 Enactments repealed |
-| Art. 36 | [art-036.md](art-036.md) | 36 Transitional and saving provisions |
 | Art. 37 | [art-037.md](art-037.md) | 37 Citation |
