@@ -11,10 +11,10 @@ Legal proceedings
 4(1) A person shall have immunity from suit and legal process in respect of things done or omitted to be done by the person in the course of the performance of official duties as a member of the Office.
 (2) Sub-paragraph (1) shall not apply in respect of civil proceedings relating to damage alleged to have been caused by a motor vehicle belonging to, or operated by or on behalf of, a member of the Office.
 Exemptions and reliefs
-5 The Minister for External Relations may by Order confer in relation to the Office, to such extent as may be prescribed -
+5 The Minister for External Relations and Financial Services may by Order confer in relation to the Office, to such extent as may be prescribed -
 (a) exemption or relief (by way of refund or otherwise) from prohibitions, restrictions, duties and taxes on the importation of goods;
 (b) relief of the kinds set out in paragraph 7 of Schedule 3 to the Privileges and Immunities (Diplomatic, Consular etc.) (Jersey) Law 1998.
-6 The Minister for External Relations may by Order confer in relation to members of the Office and members of their families who form part of their households, to such extent as may be prescribed -
+6 The Minister for External Relations and Financial Services may by Order confer in relation to members of the Office and members of their families who form part of their households, to such extent as may be prescribed -
 (a) exemption from income tax in respect of emoluments;
 (b) the exemption set out in Article 48 of the Convention, construed in accordance with Article 7(2)(k) of the Privileges and Immunities (Diplomatic, Consular, etc.) (Jersey) Law 1998;
 (c) the exemption and privilege set out in paragraph 18 of Schedule 3 of that Law in relation to imports.
