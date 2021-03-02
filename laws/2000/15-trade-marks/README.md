@@ -1,6 +1,6 @@
 # Trade Marks (Jersey) Law 2000
 
-L.15/2000 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/l_15_2000_20210301>
+L.15/2000 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_15_2000_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
