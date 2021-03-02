@@ -1,6 +1,6 @@
 # Building Loans (Miscellaneous Provisions) (Jersey) Regulations 1961
 
-R&O.4204 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_4204_20210301>
+R&O.4204 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_4204_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |

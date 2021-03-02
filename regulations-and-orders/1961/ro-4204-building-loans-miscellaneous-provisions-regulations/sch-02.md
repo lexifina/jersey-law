@@ -25,7 +25,7 @@ NOW THEREFORE IT IS AGREED as follows -
 “event of default” means an event which is constituted as such by Clause 7;
 “Law” means the Security Interests (Jersey) Law 1983;
 “Letter of Offer” means the letter of offer issued by the Minister to the Debtor and accepted by him or her, a copy of which is annexed to and forms part of Schedule 1;
-“Minister” means the Minister for Children and Housing;
+“Minister” means the Minister for Housing and Communities;
 “Obligation” means -
 (a) all the obligations of the Debtor to repay the loan moneys and pay all interest due and to become due thereon upon the terms of and as evidenced by the Letter of Offer; and
 (b) all covenants, undertakings and other obligations on the part of the Debtor arising under the terms of the Letter of Offer or this Agreement;
