@@ -1,6 +1,6 @@
 # European Union Legislation (Implementation) (Jersey) Law 2014
 
-L.28/2014 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/l_28_2014_20210301>
+L.28/2014 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_28_2014_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
