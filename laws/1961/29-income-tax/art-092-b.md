@@ -2,7 +2,7 @@
 (1) The threshold applicable in the case of an eligible claimant shall be increased by -
 (a) the amount paid by the claimant -
 (i) to a registered day carer or nanny accredited by the Jersey Child Care Trust for the care of a qualifying child, or
-(ii) under Regulations made under Article 9 of the Education (Jersey) Law 1999 for the attendance of a qualifying child below compulsory school age in a nursery school or nursery class maintained by the Minister for Education under that Law;
+(ii) under Regulations made under Article 9 of the Education (Jersey) Law 1999 for the attendance of a qualifying child below compulsory school age in a nursery school or nursery class maintained by the Minister for Children and Education under that Law;
 (b) in the case of a claimant who is an eligible claimant by virtue of sub-paragraph (a) of the definition “eligible claimant” in paragraph (5), whichever is the lower of -
 (i) the claimant’s qualifying income, and
 (ii) the qualifying income of the claimant’s spouse or civil partner;
