@@ -45,7 +45,7 @@ no requirement
 minimum separation distance between indicators on opposite sides of a vehicle -
 (A)
 a motor vehicle (other than a solo motor cycle or a motor cycle combination or an invalid carriage having a maximum speed not exceeding 8 mph) first used on or after 1st April 1986, a trailer manufactured on or after 1st October 1985, a horse-drawn vehicle, a pedestrian-controlled vehicle and a vehicle drawn or propelled by hand:
-500 mm or, if the overall width of the vehicle is less that 1400 mm, 400 mm
+500 mm or, if the overall width of the vehicle is less than 1400 mm, 400 mm
 (B)
 a solo motor cycle having an engine exceeding 50 cc and first used on or after 1st April 1986 -
 (1)

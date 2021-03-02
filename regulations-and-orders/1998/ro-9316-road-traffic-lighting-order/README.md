@@ -1,6 +1,6 @@
 # Road Traffic (Lighting) (Jersey) Order 1998
 
-R&O.9316 · official consolidation showing the law from 2020-10-26 · <https://www.jerseylaw.je/laws/current/ro_9316_20210301>
+R&O.9316 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_9316_20210516>
 
 | Provision | File | Heading |
 | --- | --- | --- |

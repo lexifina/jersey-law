@@ -7,7 +7,7 @@ Number -
 any vehicle not covered by sub-paragraph (b):
 no requirement
 (b)
-a motor vehicle, other that a motor cycle or motor cycle combination, first used on or after 1st April 1991:
+a motor vehicle, other than a motor cycle or motor cycle combination, first used on or after 1st April 1991:
 not more than 2
 2.
 Position -
