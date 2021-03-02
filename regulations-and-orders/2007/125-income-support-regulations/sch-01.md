@@ -3,7 +3,7 @@
 part 1: basic components
 1 Criteria for basic components
 (1) A household is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law in respect of any member of the household -
-(a) during any week in which the member is entitled to a grant under an Order made by the Minister for Education under Article 51 of the Education (Jersey) Law 1999 that is intended to cover the whole of that week;
+(a) during any week in which the member is entitled to a grant under an Order made by the Minister for Children and Education under Article 51 of the Education (Jersey) Law 1999 that is intended to cover the whole of that week;
 (b) during any week when the member is, for the whole of that week, remanded in custody or detained by virtue of a sentence of imprisonment, youth detention or similar punishment (whether in Jersey or elsewhere);
 (c) during any continuous period of more than 4 weeks when the member is provided with board and lodging at public expense;
 (ca) during any period when the member is receiving long-term care in an approved care home; or
