@@ -1,6 +1,6 @@
 # Nuclear Safeguards (Notification) (Jersey) Order 2005
 
-R&O.37/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_37_2005_20210301>
+R&O.37/2005 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_37_2005_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
