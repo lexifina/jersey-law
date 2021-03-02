@@ -1,6 +1,6 @@
 # Adoption (Jersey) Law 1961
 
-L.39/1961 · official consolidation showing the law from 2019-10-09 · <https://www.jerseylaw.je/laws/current/l_39_1961_20210301>
+L.39/1961 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_39_1961_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
