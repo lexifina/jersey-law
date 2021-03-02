@@ -4,7 +4,7 @@
 “interim order” means an interim order made under Article 17 of the Law;
 “JFCAS” means the Jersey Family Court Advisory Service;
 “Law” means the Adoption (Jersey) Law 1961;
-“Minister” means the Minister for Children and Housing.
+“Minister” means the Minister for Children and Education.
 (2) In these Rules a form referred to by number means the form so numbered in Schedule 1 to these Rules or a form to the like effect, and any such form may be used with such variations as the circumstances may require.
 (3) References in these Rules to the appointment of or anything done by JFCAS are references to the appointment of or anything done by an officer or servant of JFCAS duly authorized in that behalf.
 (1) An application for an adoption order shall be made by filing in the Judicial Greffe an application in Form 1.

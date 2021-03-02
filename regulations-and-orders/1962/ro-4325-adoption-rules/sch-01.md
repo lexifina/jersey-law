@@ -444,9 +444,9 @@ Skeletal and articular system (including examination for congenital dislocation 
 Nervous system (including fits)
 Lymphatic system
 Any other comments
-Is the child physically normal having regard to the child’s age ?
+Is the child physically normal having regard to the child’s age?
 B
-Are there any items in the child’s history or examination which suggest that the child may be mentally abnormal having regard to the child’s age ?
+Are there any items in the child’s history or examination which suggest that the child may be mentally abnormal having regard to the child’s age?
 C
 Particulars of any illnesses from which the child has suffered.
 D
@@ -549,7 +549,7 @@ Delete the words in square brackets if the applicant is named or if, although th
 (10)
 Enter the name of any administration of the States, parochial authority or person who is known to have arranged, or to have taken part in the arrangements, for the child to be placed in the care and possession of the applicant.
 (11)
-In Jersey the document should be signed before a Jurat of the Royal Court, an advocate or solicitor of the Royal Court, a notary public or an officer of an administration of the States for which the Minister for Children and Housing is assigned responsibility. Outside Jersey it should be signed before a person authorized to administer an oath for any judicial or legal purpose, a British consular officer, a notary public or, if the person signing it is serving in the armed forces, a commissioned officer.
+In Jersey the document should be signed before a Jurat of the Royal Court, an advocate or solicitor of the Royal Court, a notary public or an officer of an administration of the States for which the Minister for Children and Education is assigned responsibility. Outside Jersey it should be signed before a person authorized to administer an oath for any judicial or legal purpose, a British consular officer, a notary public or, if the person signing it is serving in the armed forces, a commissioned officer.
 FORM No. 7
 Rule 22
 NOTICE TO RESPONDENT OF FURTHER HEARING OF AN APPLICATION FOR AN ADOPTION ORDER OR A PROVISIONAL ADOPTION ORDER
