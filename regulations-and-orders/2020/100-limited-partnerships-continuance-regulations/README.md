@@ -1,6 +1,6 @@
 # Limited Partnerships (Continuance) (Jersey) Regulations 2020
 
-R&O.100/2020 · official consolidation showing the law from 2020-07-17 · <https://www.jerseylaw.je/laws/current/ro_100_2020_20210301>
+R&O.100/2020 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_100_2020_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
