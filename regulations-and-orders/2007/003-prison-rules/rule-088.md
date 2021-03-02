@@ -8,4 +8,4 @@
 (a) consider whether the charge has been proved beyond reasonable doubt; and
 (b) inform the prisoner, orally, of his or her decision.
 (4) Where the person inquiring into a charge finds the prisoner guilty of a breach of discipline, that person shall, before considering whether to impose a punishment, give the prisoner an opportunity to make a plea in mitigation.
-(5) The person inquiring into the charge shall given the prisoner written confirmation of his or her decision and of the punishment imposed (if any) as soon as possible after the decision is made.
+(5) The person inquiring into the charge shall give the prisoner written confirmation of his or her decision and of the punishment imposed (if any) as soon as possible after the decision is made.
