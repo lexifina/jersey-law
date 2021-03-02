@@ -1,6 +1,6 @@
 # SCHEDULE
 (Article 8)
-specified persons, descriptions of disclosure etc for the purposes of article 8
+Specified persons, descriptions of disclosure etc for the purposes of article 8
 PART 1
 SPECIFIED PERSONS
 1 Chief Minister
@@ -20,7 +20,7 @@ SPECIFIED DESCRIPTIONS OF DISCLOSURES
 12 A disclosure for the purpose of enabling or assisting an inspector appointed under Article 22 of the Collective Investment Funds (Jersey) Law 1988 to exercise his or her functions.
 13 A disclosure for the purpose of enabling or assisting the Minister to exercise his functions under any of the following -
 the Companies (Jersey) Law 1991;
-the Bankruptcy Désastre (Jersey) Law 1990;
+the Bankruptcy (Désastre) (Jersey) Law 1990;
 the Financial Services (Jersey) Law 1998.
 14 A disclosure for the purpose of enabling any of the following to exercise its functions -
 the European Central Bank;
@@ -56,7 +56,7 @@ In this paragraph “public servant” means -
 26 A disclosure for the purpose of the provision of a summary or collection of information framed in such a way so as not to enable the identity of any person to whom the information relates to be ascertained.
 27 A disclosure of any description specified in Part 2 of Schedule 2 to the Companies Act 2006.
 27A Any disclosure of any description specified in Part 2 of Schedule 6 to the Companies (Guernsey) Law 2008.
-part 3
+PART 3
 overseas regulatory bodies
 28 A disclosure is made in accordance with this Part of the Schedule if -
 (a) it is made to a person or body within paragraph 29; and
