@@ -1,6 +1,6 @@
 # Insurance Business (Jersey) Law 1996
 
-L.12/1996 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_12_1996_20210301>
+L.12/1996 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_12_1996_20220831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
