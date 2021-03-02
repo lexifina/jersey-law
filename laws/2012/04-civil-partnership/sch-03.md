@@ -6,6 +6,6 @@ CONSENTS REQUIRED TO THE CIVIL PARTNERSHIP OF A MINOR
 (i) each parent (if any) of the minor who has parental responsibility for the minor, and
 (ii) each guardian (if any) of the minor;
 (b) where a residence order is in force with respect to the minor, the consent of the person or persons with whom the minor lives, or is to live, as a result of the order (in substitution for the consents mentioned in sub-paragraph (a));
-(c) where a care order is in force with respect to the minor, the consent of the Minister for Children and Housing (in addition to the consents mentioned in sub-paragraph (a)); and
+(c) where a care order is in force with respect to the minor, the consent of the Minister for Children and Education (in addition to the consents mentioned in sub-paragraph (a)); and
 (d) where neither sub-paragraph (b) nor (c) applies but a residence order was in force with respect to the minor immediately before the minor reached the age of 16, the consent of the person or persons with whom the minor lives, or was to live, as a result of the order (in substitution for the consent mentioned in sub-paragraph (a)).
 2 In this Schedule “care order”, “guardian”, “parental responsibility” and “residence order” have the same meaning as in the Children (Jersey) Law 2002.
