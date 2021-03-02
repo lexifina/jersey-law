@@ -1,6 +1,6 @@
 # Financial Services Commission (Jersey) Law 1998
 
-L.11/1998 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_11_1998_20210301>
+L.11/1998 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_11_1998_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
