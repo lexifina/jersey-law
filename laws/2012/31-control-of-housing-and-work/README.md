@@ -1,6 +1,6 @@
 # Control of Housing and Work (Jersey) Law 2012
 
-L.31/2012 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/l_31_2012_20210301>
+L.31/2012 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_31_2012_20211231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
