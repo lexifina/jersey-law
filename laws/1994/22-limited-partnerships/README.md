@@ -1,6 +1,6 @@
 # Limited Partnerships (Jersey) Law 1994
 
-L.22/1994 · official consolidation showing the law from 2019-05-31 · <https://www.jerseylaw.je/laws/current/l_22_1994_20210301>
+L.22/1994 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_22_1994_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
