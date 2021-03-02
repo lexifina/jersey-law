@@ -1,6 +1,6 @@
 # Money Laundering and Weapons Development (Directions) (Jersey) Law 2012
 
-L.1/2012 · official consolidation showing the law from 2019-07-19 · <https://www.jerseylaw.je/laws/current/l_1_2012_20190718>
+L.1/2012 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_1_2012_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
