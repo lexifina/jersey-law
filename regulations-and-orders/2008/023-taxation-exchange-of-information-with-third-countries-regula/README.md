@@ -1,6 +1,6 @@
 # Taxation (Exchange of Information with Third Countries) (Jersey) Regulations 2008
 
-R&O.23/2008 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_23_2008_20210301>
+R&O.23/2008 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_23_2008_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
