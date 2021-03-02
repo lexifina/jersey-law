@@ -1,5 +1,5 @@
 # 62 Appeals against orders and decisions of the Greffier
-(1) An appeal shall lies to the Inferior Number from any order or decision of the Greffier.
+(1) An appeal shall lie to the Inferior Number from any order or decision of the Greffier.
 (2) Any party to a cause affected by an order or decision of the Greffier, other than an interlocutory order, may apply to the Greffier, within 7 days of the order or decision, to give reasons for having made it.
 (3) The Greffier shall deliver reasons for the decision to the applicant and to every other party to the proceedings as soon as practicable, but, in any event, within 2 months of the application.
 (4) The appeal shall be brought by the appellant serving on every other party a notice of appeal in Form 18 and general grounds of appeal in Form 19, copies of which must also be delivered to the Greffier.
