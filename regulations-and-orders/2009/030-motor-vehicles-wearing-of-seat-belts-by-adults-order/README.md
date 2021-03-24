@@ -1,6 +1,6 @@
 # Motor Vehicles (Wearing of Seat Belts by Adults) (Jersey) Order 2009
 
-R&O.30/2009 · official consolidation showing the law from 2020-08-17 · <https://www.jerseylaw.je/laws/current/ro_30_2009_20210323>
+R&O.30/2009 · official consolidation showing the law from 2021-03-24 · <https://www.jerseylaw.je/laws/current/ro_30_2009>
 
 | Provision | File | Heading |
 | --- | --- | --- |
