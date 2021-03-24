@@ -1,6 +1,6 @@
 # Road Traffic (St. Martin) (Jersey) Order 1989
 
-R&O.7938 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7938_20210323>
+R&O.7938 · official consolidation showing the law from 2021-03-24 · <https://www.jerseylaw.je/laws/current/ro_7938_20240609>
 
 | Provision | File | Heading |
 | --- | --- | --- |

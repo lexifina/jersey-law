@@ -36,13 +36,13 @@ In both directions
 All times.
 PART 2
 Roads not to be used by WIDE vehicles
-New Road
-The entire road.
-Old Road
-The entire road.
 La Rue Benjamin
 The entire road.
 Les Ruettes
+The entire road.
+New Road
+The entire road.
+Old Road
 The entire road.
 part 3
 roads where wide vehicles not to wait

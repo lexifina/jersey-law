@@ -36,17 +36,20 @@ East side (from the junction with La Grande Route de Faldouet to the northern bo
 La Grande Route de St. Martin
 West side (from the southern boundary of Les Buttes Stores to the junction with La Rue de la Mare des Reines
 East side (from the junction with La Rue des Buttes to the junction with La Longue Rue)
+La Rue de la Mare des Reines
+North side (from its junction with La Grande Route de St. Martin to a point 14 yards west).
+North side (from a point 25 yards west of its junction with La Grande Route de St. Martin to a point 21 yards further west).
+South side (from its junction with La Grande Route de St. Martin to a point 39 yards west).
 La Rue du Rué
 Both sides (from the northern boundary of the property known as “Haut du Rué Flats” to its junction with La Rue de Baudains).
 Both sides (from the eastern side of the entrance to the property known as “Le Jardin du Rué” to the junction with La Rue de la Clochette).
+La Rue des Vaux de L’Eglise
+North side (from its junction with La Grande Route de Rozel to a point 23 yards east).
+South side (from its junction with La Grande Route de Rozel to a point 35 yards east).
 La Ruette (B 28)
 South side (from the junction with Le Mont Gabard to the entrance to the property known as “Oxford House Cottage”).
 La Vallée de Rozel
 Both sides (between the junction with Mont de Rozel and the western boundary of the property known as “Château La Chaire Private Hotel”).
-Les Charriéres d’Anneport
-North side (between Rue de Guilleaume et d’Anneville and the western boundary of the property known as “Anne Port Bay Hotel”).
-North side (between the eastern boundary of the property known as “Anne Port Bay Hotel” and the Grande Route de St. Catherine).
-South side (between the property known as “Chez Maron” and the Grande Route de St. Catherine).
 Le Mont Gabard
 Both sides (between a point 2 yards east from the eastern boundary of the property known as “Camellia Cottage” (formerly known as “Quarry House”) and the northern entrance gate to the property known as Gouray Lodge).
 Le Mont de Gouray
@@ -60,6 +63,10 @@ South side (from the parish boundary for 40 yards in an easterly direction).
 Le Rond Collas
 West side (from the junction with La Rue de la Mare des Reines to the junction with La Rue de la Croix au Maître)
 East side (from the junction with La Longue Rue to the junction with La Rue de la Croix au Maître).
+Les Charriéres d’Anneport
+North side (between Rue de Guilleaume et d’Anneville and the western boundary of the property known as “Anne Port Bay Hotel”).
+North side (between the eastern boundary of the property known as “Anne Port Bay Hotel” and the Grande Route de St. Catherine).
+South side (between the property known as “Chez Maron” and the Grande Route de St. Catherine).
 Mont des Landes
 South side (along the whole frontage of the property known as “Glendale Hotel”).
 Mont de Rozel
