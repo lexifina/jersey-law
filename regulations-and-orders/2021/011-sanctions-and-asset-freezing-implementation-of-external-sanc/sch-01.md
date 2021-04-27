@@ -16,6 +16,11 @@ The Afghanistan (Sanctions) (EU Exit) Regulations 2020
 2020/948
 regulation 6
 regulations 16(1), 17(1), 18(1), 19(1), 20(1), 20(2), 20(3), 21(1), 22(1)
+Anti-Corruption
+The Global Anti-Corruption Sanctions Regulations 2021
+2021/488
+regulation 10
+none
 Belarus
 The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019
 2019/600
@@ -135,11 +140,6 @@ Mali
 The Mali (Sanctions) (EU Exit) Regulations 2020
 2020/705
 regulation 11
-none
-Misappropriation
-The Misappropriation (Sanctions) (EU Exit) Regulations 2020
-2020/1468
-regulation 10
 none
 Nicaragua
 The Nicaragua (Sanctions) (EU Exit) Regulations 2020
