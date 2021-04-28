@@ -1,0 +1,4 @@
+# 297B Making, communicating, making available, distributing or lending of intermediate copies by authorised bodies
+(1) An authorised body which is entitled to make an accessible copy of a recording of a performance under Article 297A may, without infringing the relevant rights, make a copy of the recording (“an intermediate copy”) if this is necessary in order to make the accessible copy.
+(2) An authorised body which has made an intermediate copy of a recording under this Article may communicate, make available, distribute or lend it on a non-profit basis to another authorised body established in Jersey for the purposes of enabling that other body to make accessible copies of the recording.
+(3) The relevant rights are infringed if an intermediate copy of the recording made under this Article is transferred to a person other than another authorised body as permitted by paragraph (2), except where the transfer is authorised by the rights owner.

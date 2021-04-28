@@ -1,6 +1,6 @@
 # Intellectual Property (Unregistered Rights) (Jersey) Law 2011
 
-L.29/2011 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_29_2011_20210427>
+L.29/2011 · official consolidation showing the law from 2021-04-28 · <https://www.jerseylaw.je/laws/current/l_29_2011_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -53,12 +53,11 @@ L.29/2011 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 46 | [art-046.md](art-046.md) | 46 Research and private study |
 | Art. 47 | [art-047.md](art-047.md) | 47 Criticism, review and news reporting |
 | Art. 48 | [art-048.md](art-048.md) | 48 Incidental inclusion of copyright material |
-| Art. 49 | [art-049.md](art-049.md) | 49 Making single accessible copy for personal use by visually impaired person |
-| Art. 50 | [art-050.md](art-050.md) | 50 Multiple copies for visually impaired persons |
-| Art. 51 | [art-051.md](art-051.md) | 51 Intermediate copies and records created during production of accessible copy |
-| Art. 52 | [art-052.md](art-052.md) | 52 Licensing schemes to permit the making of accessible copies |
-| Art. 53 | [art-053.md](art-053.md) | 53 Orders limiting making of multiple accessible copies following infringement of copyright |
-| Art. 54 | [art-054.md](art-054.md) | 54 Articles 49 to 53: definitions and other supplementary provision |
+| Art. 49 | [art-049.md](art-049.md) | 49 Disabled persons: copies of works for personal use |
+| Art. 50 | [art-050.md](art-050.md) | 50 Making, communicating, making available or distributing of accessible copies by authorised bodies |
+| Art. 51 | [art-051.md](art-051.md) | 51 Making, communicating, making available, distributing or lending of intermediate copies by authorised bodies |
+| Art. 52 | [art-052.md](art-052.md) | 52 Accessible and intermediate copies: records and notification |
+| Art. 53 | [art-053.md](art-053.md) | 53 Articles 49 to 52: definitions and other supplementary provisions |
 | Art. 55 | [art-055.md](art-055.md) | 55 Things done for purposes of instruction or examination |
 | Art. 56 | [art-056.md](art-056.md) | 56 Anthologies for educational use |
 | Art. 57 | [art-057.md](art-057.md) | 57 Performing, playing or showing work in course of activities of educational establishment |
@@ -106,7 +105,6 @@ L.29/2011 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 99 | [art-099.md](art-099.md) | 99 Photographs of broadcasts |
 | Art. 100 | [art-100.md](art-100.md) | 100 Free public showing or playing of broadcast |
 | Art. 101 | [art-101.md](art-101.md) | 101 Reception of wireless broadcast and re-transmission by cable |
-| Art. 102 | [art-102.md](art-102.md) | 102 Provision of sub-titled copies of broadcast |
 | Art. 103 | [art-103.md](art-103.md) | 103 Recording for archival purposes |
 | Art. 104 | [art-104.md](art-104.md) | 104 Adaptations |
 | Art. 105 | [art-105.md](art-105.md) | 105 Right to be identified as author or director |
@@ -301,7 +299,11 @@ L.29/2011 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 294 | [art-294.md](art-294.md) | 294 Photographs of broadcasts |
 | Art. 295 | [art-295.md](art-295.md) | 295 Free public showing or playing of broadcast |
 | Art. 296 | [art-296.md](art-296.md) | 296 Reception of wireless broadcast and re-transmission by cable |
-| Art. 297 | [art-297.md](art-297.md) | 297 Provision of sub-titled copies of broadcast |
+| Art. 297 | [art-297.md](art-297.md) | 297 Disabled persons: copies of recordings for personal use |
+| Art. 297A | [art-297-a.md](art-297-a.md) | 297A Making, communicating, making available or distributing of accessible copies by authorised bodies |
+| Art. 297B | [art-297-b.md](art-297-b.md) | 297B Making, communicating, making available, distributing or lending of intermediate copies by authorised bodies |
+| Art. 297C | [art-297-c.md](art-297-c.md) | 297C Accessible and intermediate copies: records |
+| Art. 297D | [art-297-d.md](art-297-d.md) | 297D Articles 297 to 297C: interpretation and general |
 | Art. 298 | [art-298.md](art-298.md) | 298 Recording of broadcast for archival purposes |
 | Art. 299 | [art-299.md](art-299.md) | 299 Assignment and licences of performer’s property rights |
 | Art. 300 | [art-300.md](art-300.md) | 300 Prospective ownership of a performer’s property rights |
