@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20210428>
+R&O.69/2018 · official consolidation showing the law from 2021-04-29 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20211014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
