@@ -10,3 +10,4 @@
 (b) the person sends the signed declaration to the Superintendent Registrar; and
 (c) the Superintendent Registrar certifies, on the signed declaration, that sub-paragraph (a) was complied with.
 (3) For the purpose of Article 12(3), a request is deemed to be made in accordance with Article 12 if Article 12(1) and this Article are complied with.
+(4) Paragraphs (1) to (3) do not have effect during any period for which paragraphs (1) to (3) of Article 26A do not have effect.
