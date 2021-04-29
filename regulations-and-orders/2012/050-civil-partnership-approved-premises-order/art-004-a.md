@@ -3,4 +3,4 @@
 (2) For paragraph 6(b) of Schedule 1, the following must be substituted -
 “(b) containing a telephone number that would enable a member of the public to contact the Superintendent Registrar to register a lawful objection to the civil partnership taking place.”.
 (3) This Article overrides Article 4(1)(a).
-(4) This Article expires at the end of 30th April 2021.
+(4) This Article expires at the end of 31st October 2021.

@@ -1,6 +1,6 @@
 # Civil Partnership (Approved Premises) (Jersey) Order 2012
 
-R&O.50/2012 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/ro_50_2012_20210428>
+R&O.50/2012 · official consolidation showing the law from 2021-04-29 · <https://www.jerseylaw.je/laws/current/ro_50_2012_20211014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
