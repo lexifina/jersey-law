@@ -30,5 +30,5 @@ The last Monday in August is to be observed as a public holiday.
 part 2
 (Article 1(2))
 rules for specific years
-2020: 75th anniversary of VE Day
-Friday 8th May 2020 is to be observed as a public holiday.
+2021: 250th Anniversary of the Code of 1771
+Monday 27th September 2021 is to be observed as a public holiday.
