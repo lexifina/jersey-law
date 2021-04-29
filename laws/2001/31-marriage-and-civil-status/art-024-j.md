@@ -12,3 +12,4 @@
 (d) the Superintendent Registrar certifies, on the signed signature verification form, that sub-paragraph (a) was complied with.
 (3) This Article overrides Article 15(3).
 (4) Any provision that is subject to Article 15(3) (in whole or in part) is subject to this Article.
+(5) Paragraphs (1) to (4) do not have effect during any period for which paragraphs (1) and (2) of Article 24H do not have effect.

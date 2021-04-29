@@ -10,3 +10,4 @@
 (b) the parties send the signed certificate to the Superintendent Registrar; and
 (c) the Superintendent Registrar certifies, on the signed certificate, that sub-paragraph (a) was complied with.
 (3) This Article overrides Article 16(3).
+(4) Paragraphs (1) to (3) do not have effect during any period for which paragraphs (1) and (2) of Article 24H do not have effect.
