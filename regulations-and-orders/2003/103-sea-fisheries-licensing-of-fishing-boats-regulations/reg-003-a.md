@@ -12,9 +12,9 @@ as determined in accordance with the World Geodetic System 1984;
 (b) with a trawl towed by more than one boat,
 is prohibited unless authorized by a fishing permit that has been granted -
 (c) by the Minister; or
-(d) by an authority of the French Republic,
+(d)
 and is in force in respect of the boat or boats and the protected area.
-(3) For the avoidance of doubt, it is hereby declared that, for the purposes of this Regulation, if something is not done in accordance with the terms or conditions of a fishing permit it is not authorized by the fishing permit.
+(3) For the purposes of this Regulation, no action is authorised by a fishing permit unless it is done in accordance with the conditions of that fishing permit.
 (4) If a fishing boat -
 (a) is in the protected area;
 (b) has a restricted trawl on board; and
