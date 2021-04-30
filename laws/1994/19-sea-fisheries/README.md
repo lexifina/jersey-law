@@ -1,6 +1,6 @@
 # Sea Fisheries (Jersey) Law 1994
 
-L.19/1994 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_19_1994_20210429>
+L.19/1994 · official consolidation showing the law from 2021-04-30 · <https://www.jerseylaw.je/laws/current/l_19_1994_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,6 +24,7 @@ L.19/1994 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 18 | [art-018.md](art-018.md) | 18 Obstruction of officers |
 | Art. 19 | [art-019.md](art-019.md) | 19 Protection of officers |
 | Art. 20 | [art-020.md](art-020.md) | 20 Recovery of fines |
+| Art. 20A | [art-020-a.md](art-020-a.md) | 20A Further provisions relating to fines |
 | Art. 21 | [art-021.md](art-021.md) | 21 Compensation for damage caused by offence |
 | Art. 22 | [art-022.md](art-022.md) | 22 Disposal of forfeitures |
 | Art. 23 | [art-023.md](art-023.md) | 23 False statements |
