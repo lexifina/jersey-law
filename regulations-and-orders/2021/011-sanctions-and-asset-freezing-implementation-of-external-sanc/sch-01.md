@@ -31,11 +31,6 @@ The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020
 2020/608
 regulation 10
 none
-Burma
-The Burma (Sanctions) (EU Exit) Regulations 2019
-2019/136
-regulation 10
-regulations 23(1), 24(1), 25(1), 26(1), 27(1), 27(2), 27(3), 28(1), 28C(1), 28D(1), 28E(1), 28F(1), 28G(1), 28G(2), 28G(3), 28G(4), 28H(1), 29(1), 30(1)
 Burundi
 The Burundi (Sanctions) (EU Exit) Regulations 2019
 2019/1142
@@ -141,6 +136,11 @@ The Mali (Sanctions) (EU Exit) Regulations 2020
 2020/705
 regulation 11
 none
+Myanmar
+The Myanmar (Sanctions) Regulations 2021
+2021/496
+regulations 10 and 79
+regulations 23(1), 24(1), 25(1), 26(1), 27(1), 27(2), 27(3), 28(1), 31(1), 32(1), 33(1), 34(1), 35(1), 35(2), 35(3), 35(4), 36(1), 37(1), 38(1)
 Nicaragua
 The Nicaragua (Sanctions) (EU Exit) Regulations 2020
 2020/610
