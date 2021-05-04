@@ -1,6 +1,6 @@
 # Control of Housing and Work (Exemptions) (Jersey) Order 2013
 
-R&O.85/2013 · official consolidation showing the law from 2020-09-30 · <https://www.jerseylaw.je/laws/current/ro_85_2013_20210503>
+R&O.85/2013 · official consolidation showing the law from 2021-05-04 · <https://www.jerseylaw.je/laws/current/ro_85_2013_20220831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
