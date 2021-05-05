@@ -1,6 +1,6 @@
 # Pedal Cycles (Jersey) Order 1998
 
-R&O.9310 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9310_20210504>
+R&O.9310 · official consolidation showing the law from 2021-05-05 · <https://www.jerseylaw.je/laws/current/ro_9310>
 
 | Provision | File | Heading |
 | --- | --- | --- |
