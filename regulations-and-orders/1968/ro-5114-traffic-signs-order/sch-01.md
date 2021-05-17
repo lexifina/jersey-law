@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 PART 1
 Warning signs
 Cross Roads

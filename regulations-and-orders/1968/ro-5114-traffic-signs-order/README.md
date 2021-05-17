@@ -1,6 +1,6 @@
 # Traffic Signs (Jersey) Order 1968
 
-R&O.5114 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5114_20210516>
+R&O.5114 · official consolidation showing the law from 2021-05-17 · <https://www.jerseylaw.je/laws/current/ro_5114>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -35,9 +35,9 @@ R&O.5114 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 28 | [art-028.md](art-028.md) | 28 Light signals for pedestrians |
 | Art. 28A | [art-028-a.md](art-028-a.md) | 28A Part-time speed limits at schools |
 | Art. 29 | [art-029.md](art-029.md) | 29 Variations in dimensions shown in diagrams |
-| Art. 30 | [art-030.md](art-030.md) | 30 Exceptions for drivers of vehicles used for fire service, ambulance or police purposes |
+| Art. 30 | [art-030.md](art-030.md) | 30 Exceptions for drivers of vehicles used for emergency services |
 | Art. 31 | [art-031.md](art-031.md) | 31 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

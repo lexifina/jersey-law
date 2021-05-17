@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 MARKINGS ON THE ROAD
 Transverse line (stop line) to
 indicate position beyond which
