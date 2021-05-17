@@ -214,4 +214,4 @@ OPTIONAL DIPPED-BEAM HEADLAMPS
 (d) that their electrical connections are such that not more than one pair of dipped-beam headlamps is capable of being illuminated at a time.
 2. In the case of any other vehicle, any number may be fitted and the only requirements prescribed by this Order in respect of any which are fitted are those specified in paragraphs 2(c), 4, 7 and 12(a) of Part 1.
 PART 3
-Examples of marking showing the vertical downwards inclination of the dipped-beam headlamps when the vehicle is at its kerbside weight and has a weight of 75 kg on the drivers seat.
+Examples of marking showing the vertical downwards inclination of the dipped-beam headlamps when the vehicle is at its kerbside weight and has a weight of 75 kg on the driver’s seat.
