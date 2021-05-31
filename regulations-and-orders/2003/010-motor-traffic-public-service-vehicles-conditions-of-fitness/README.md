@@ -1,6 +1,6 @@
 # Motor Traffic (Public Service Vehicles (Conditions of Fitness)) (Jersey) Order 2003
 
-R&O.10/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_10_2003_20210530>
+R&O.10/2003 · official consolidation showing the law from 2021-05-31 · <https://www.jerseylaw.je/laws/current/ro_10_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,16 +27,10 @@ R&O.10/2003 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 19 | [art-019.md](art-019.md) | 19 Passengers must be able to communicate with driver |
 | Art. 20 | [art-020.md](art-020.md) | 20 Fire protection |
 | Art. 21 | [art-021.md](art-021.md) | 21 Application of Part |
-| Art. 22 | [art-022.md](art-022.md) | 22 Markings |
-| Art. 23 | [art-023.md](art-023.md) | 23 Signs to be fitted |
-| Art. 24 | [art-024.md](art-024.md) | 24 Taximeter |
-| Art. 25 | [art-025.md](art-025.md) | 25 Seats |
-| Art. 26 | [art-026.md](art-026.md) | 26 Swivel cushion |
-| Art. 27 | [art-027.md](art-027.md) | 27 Car caddie |
-| Art. 28 | [art-028.md](art-028.md) | 28 Door Handybar |
-| Art. 29 | [art-029.md](art-029.md) | 29 Door threshold strips |
-| Art. 30 | [art-030.md](art-030.md) | 30 Storage |
-| Art. 31 | [art-031.md](art-031.md) | 31 Emissions |
-| Art. 32 | [art-032.md](art-032.md) | 32 Airbag |
-| Art. 33 | [art-033.md](art-033.md) | 33 Wheelchairs |
+| Art. 22 | [art-022.md](art-022.md) | 22 Seats |
+| Art. 23 | [art-023.md](art-023.md) | 23 Markings - Passenger numbers |
+| Art. 24 | [art-024.md](art-024.md) | 24 Signs to be fitted: taxi-cabs |
+| Art. 25 | [art-025.md](art-025.md) | 25 Taximeter: taxi-cabs |
+| Art. 26 | [art-026.md](art-026.md) | 26 Access |
+| Art. 27 | [art-027.md](art-027.md) | 27 Transitional Provision |
 | Art. 34 | [art-034.md](art-034.md) | 34 Citation |
