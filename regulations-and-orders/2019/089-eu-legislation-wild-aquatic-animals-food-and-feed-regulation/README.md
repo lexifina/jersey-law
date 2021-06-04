@@ -1,6 +1,6 @@
 # EU Legislation (Wild Aquatic Animals - Food and Feed) (Jersey) Regulations 2019
 
-R&O.89/2019 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_89_2019_20210603>
+R&O.89/2019 · official consolidation showing the law from 2021-06-04 · <https://www.jerseylaw.je/laws/current/ro_89_2019_20260316>
 
 | Provision | File | Heading |
 | --- | --- | --- |
