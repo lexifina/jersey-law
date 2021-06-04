@@ -49,7 +49,8 @@ Le Clos Saut Falluet
 Both sides (from its junction with L’Avenue de la Commune to the Parish boundary)
 Le Vieux Beaumont
 West side from the junction with La Rue du Craslin to the northern boundary of the property known as Beconsfield House
-East side from the junction with La Rue du Craslin to the northern side of the entrance to the property known as Tres Robles and again from a point 22 yards north of the northern side of that entrance to the northern boundary of the property known as Beconsfield House
+East side (from its junction with La Rue du Craslin to a point 304 yards in a northerly direction)
+East side (from a point 317 yards north of its junction with La Rue du Craslin to the northern boundary of the property known as Beconsfield House)
 Les Grupieaux
 Both sides (from its junction with La Rue du Craslin to the Parish boundary)
 Sugar Basin access road
