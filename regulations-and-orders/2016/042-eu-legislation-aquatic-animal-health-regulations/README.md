@@ -1,6 +1,6 @@
 # EU Legislation (Aquatic Animal Health) (Jersey) Regulations 2016
 
-R&O.42/2016 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_42_2016_20210603>
+R&O.42/2016 · official consolidation showing the law from 2021-06-04 · <https://www.jerseylaw.je/laws/current/ro_42_2016_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
