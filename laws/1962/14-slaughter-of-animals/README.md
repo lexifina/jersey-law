@@ -1,6 +1,6 @@
 # Slaughter of Animals (Jersey) Law 1962
 
-L.14/1962 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_1962_20210603>
+L.14/1962 · official consolidation showing the law from 2021-06-04 · <https://www.jerseylaw.je/laws/current/l_14_1962_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
