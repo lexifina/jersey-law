@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2021-04-28 · <https://www.jerseylaw.je/laws/current/l_26_1956_20210615>
+L.26/1956 · official consolidation showing the law from 2021-06-16 · <https://www.jerseylaw.je/laws/current/l_26_1956_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -83,6 +83,7 @@ L.26/1956 · official consolidation showing the law from 2021-04-28 · <https://
 | Art. 66 | [art-066.md](art-066.md) | 66 Supplementary provisions as to designated parking places |
 | Art. 67A | [art-067-a.md](art-067-a.md) | 67A Prohibition on parking of vehicles for sale or hire in the course of a business |
 | Art. 68 | [art-068.md](art-068.md) | 68 Temporary modification of the effect of Orders made under Article 59, 62 or 63 |
+| Art. 68A | [art-068-a.md](art-068-a.md) | 68A Penalty charges in respect of parking contraventions |
 | Art. 69 | [art-069.md](art-069.md) | 69 Establishment of pedestrian crossings |
 | Art. 70 | [art-070.md](art-070.md) | 70 School crossings |
 | Art. 71 | [art-071.md](art-071.md) | 71 Stopping of vehicles at school crossings |
