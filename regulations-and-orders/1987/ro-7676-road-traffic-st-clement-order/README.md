@@ -1,6 +1,6 @@
 # Road Traffic (St. Clement) (Jersey) Order 1987
 
-R&O.7676 · official consolidation showing the law from 2020-05-29 · <https://www.jerseylaw.je/laws/current/ro_7676_20210617>
+R&O.7676 · official consolidation showing the law from 2021-06-18 · <https://www.jerseylaw.je/laws/current/ro_7676_20230801>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ R&O.7676 · official consolidation showing the law from 2020-05-29 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Parking discs |
 | Art. 5 | [art-005.md](art-005.md) | 5 Closing of roads to through traffic |
 | Art. 6 | [art-006.md](art-006.md) | 6 Public service vehicles |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Roads closed to wide vehicles |
 | Art. 7 | [art-007.md](art-007.md) | 7 Saving |
 | Art. 8 | [art-008.md](art-008.md) | 8 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
@@ -19,4 +20,5 @@ R&O.7676 · official consolidation showing the law from 2020-05-29 · <https://w
 | Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
 | Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
 | Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
+| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 6A |
+| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 7 |

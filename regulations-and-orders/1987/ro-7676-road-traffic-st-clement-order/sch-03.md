@@ -2,4 +2,4 @@
 (Article 4)
 PARKING DISCS
 La Grève d’Azette
-south side, from a point 16 yards east of its junction with Green Road to a point 44 yards further east.
+south side, from a point 20 yards east of its junction with Green Road to a point 26 yards further east.

@@ -35,7 +35,7 @@ north side, from the eastern boundary of the car park of the property known as �
 (b)
 north side, between La Rue du Pignon and La Rue du Presbytère;
 (ba)
-north side, from its junction with La Rue de Causie to a point 55 m east of La Rue Hamel;
+both sides, from its junction with La Rue de Causie to its junction with La Rue Hamel;
 (bb)
 south side, from its junction with La Rue de Causie to its junction with La Rue de Jambart;
 (c)
@@ -58,7 +58,7 @@ north side, between its junction with Plat Douet Road and the boundary of the Pa
 (b)
 south side, between its junction with Plat Douet Road and a point at the eastern end of the distance of 87 yards described in Schedule 3 to this Order;
 (c)
-south side from a point 44 yards west of the eastern boundary of the property known as “Maison Victor Apartments” to the boundary of the Parish of St. Saviour.
+south side, from a point 20 yards east of its junction with Green Road to the boundary of the Parish of St. Saviour.
 La Petite Sente
 both sides, from its junction with La Grande Route de la Côte to a point 260 yards in an easterly direction.
 La Rue au Blancq
@@ -76,6 +76,13 @@ east side, from its junction with La Rue Hamel north for 15 metres;
 east side, from its junction with La Grande Route de St. Clement south for 55 metres.
 La Rue de la Chapelle
 both sides
+La Rue de la Croix
+(a)
+south side, from a point 28 yards west of its junction with La Rue du Pontlietaut to a point 11 yards further west;
+(b)
+south side, from a point 46 yards west of its junction with La Rue du Pontlietaut to a point 19 yards further west;
+(c)
+south side, from a point 120 yards west of its junction with La Rue du Pontlietaut to a point 10 yards further west.
 La Rue de Samarès
 (a)
 both sides, between its junction with La Grande Route de la Côte and a point 15 yards north of the northern boundary of Sefton Close;
