@@ -7,11 +7,11 @@ Paying parking places - 20 minute limit
 Caledonia Place
 East side (between a point 25 yards north of La Route de La Liberation and a point 26 yards further north)
 Colomberie
-South side (between a point 10 yards east of Roseville Street and a point 24 yards further east)
+South side (between a point 10 yards east of Roseville Street and a point 28 yards further east)
 La Motte Street
 North side (between a point 6 yards east of the western boundary of No. 39 and a point 12 yards further east)
 Minden Place
-South side (between a point 14 yards west of Bath Street and a point 19 yards further west)
+South side (between a point 80 yards west of Bath Street and a point 16 yards further west)
 Museum Street
 East side (between a point 10 yards north of Phillips Street and a point 12 yards further north)
 New Street
@@ -20,6 +20,9 @@ Newgate Street
 South Side (between a point 25 yards west of Gloucester Street and a point 20 yards further west)
 Pier Road
 East side (between the northern boundary of Bas du Mont Flats and a point 19 yards north of their southern boundary)
+Roseville Street
+East side (between a point 16.5 yards from its junction with Colomberie and a point 15.5 yards further south)
+East side (between a point 46 yards from its junction with Colomberie and a point 19 yards further south)
 Seale Street
 North side (between a point 10 yards east of the eastern boundary of the Seaton Youth Club and the western boundary of No. 24)
 St. James Street
@@ -49,8 +52,7 @@ Part 1C
 (Article 10(1))
 PAYING PARKING PLACES 20 minute limit between 10 a.m. and 5 p.m. except sundays
 Beresford Street
-South side (between a point 30 yards west of its junction with “West’s Centre” and a point 23 yards further west)
-South side (between a point 8 yards west of its junction with “Wests Centre”, and a point 22 yards further west)
+South side (between a point 8 yards west of its junction with “Wests Centre”, and a point 47 yards further west)
 PART 2
 (Article 11(1))
 Paying parking places - 1 hour limit
@@ -60,7 +62,7 @@ Ann Street
 East side (between a point 82 yards north of Charles Street and a point 12 yards south of the southern boundary of Fern Place)
 West side (between a point 16 yards north of Charles Street and a point 51 yards further north)
 Burrard Street
-South side (between Burrard Place and Don Street)
+South side (between Don Street and a point 4 yards east of Burrard Place)
 Cattle Street
 West side (between Minden Place and a point 33 yards north of Beresford Street)
 Charles Street
@@ -78,9 +80,6 @@ East side (between a point 137 yards south of the Tunnel and a point 155 yards f
 East side (between a point 164 yards south of the Tunnel and a point 182 yards further south)
 East side (between a point 219 yards south of the Tunnel and a point 236 yards further south)
 East side (between a point 241 yards south of the Tunnel and a point 250 yards further south)
-East side (between a point 272 yards south of the Tunnel and a point 280 yards further south)
-Conway Street
-East side (between a point 10 yards north of the southern boundary of the Pomme d’Or Hotel and a point 39 yards further north)
 Don Street
 East side (between a point 46 yards north of Burrard Street and a point 12 yards further north)
 Duhamel Place
@@ -89,11 +88,8 @@ Dumaresq Street
 North side (between a point 10 yards east of the western boundary of No. 12 and a point 22 yards further east)
 North side (between a point 53 yards east of the western boundary of No. 12 and a point 5 yards south of the northern boundary of the premises of B.G. Romeril and Company Limited)
 East side (between a point 47 yards south of the southern boundary of No. 5 Le Geyt Street and a point 11 yards further south)
-Esplanade
-North side (between a point 23 yards east of the eastern boundary of Marina Court and a point 10 yards west of Payn Street)
-North side (between a point 78 yards east of its junction with Castle Street and a point 34 yards further east)
 Gloucester Street
-South side (between the western boundary of No. 15 and the eastern boundary of the Opera House)
+South side (between the western boundary of No. 15 and a point 5 yards east and the eastern boundary of the Opera House)
 South side (between a point 19 yards east of The Parade and a point 11 yards further east)
 Grenville Street
 East side (between a point 22 yards north of Green Street and a point 18 yards further north)
@@ -137,11 +133,16 @@ West side (between a point 34 yards north of Charles Street and a point 10 yards
 Regent Road
 West side (between a point opposite the north side of La Chasse and a point 40 yards further north)
 Roseville Street
-East side (between Hastings Road and a point 20 yards south of Colomberie)
+East side (between a point 92 yards from its junction with Colomberie and a point 18.5 yards further south)
+East side (between a point 115 yards from its junction with Colomberie and a point 22 yards further south)
+East side (between a point 169 yards from its junction with Colomberie and a point 7.5 yards further south)
 St. Aubin’s Road
 South side (between the eastern boundary of “Watkins Villa” and a point 165 yards west of Tyneville Lane)
-South side (between the eastern boundary of “No. 2 Romney Place” and a point 27 yards east of the western arm of Seafield Avenue)
-South side (between the eastern boundary of “No. 2 Romney Place” and the western arm of Seafield Avenue)
+South side (between a point 39 yards west of its junction with the spur road at First Tower and a point 15 yards further west)
+South side (between a point 77 yards west of its junction with the spur road at First Tower to a point 55 yards further west)
+South side (between a point 29 yards east of its junction with the western arm of Seafield Avenue and a point 10 yards further east)
+South side (from a point 8 yards east of its junction with the eastern arm of Seafield Avenue to a point 6 yards further east
+South side (between a point 22 yards east of its junction with the eastern arm of Seafield Avenue to a point 56 yards further east)
 Seaton Place
 North side (between the western boundary of No. 34 and a point 22 yards east of Gloucester Street)
 Weighbridge Place
@@ -203,6 +204,8 @@ Dorset Street
 North side (between a point 12 yards east of the western boundary of No. 27 and a point 2 yards west of the eastern boundary of No. 31)
 Great Union Road
 West side (from a point 2 yards north of the northern boundary of No. 77 and a point 17 yards further north)
+Hastings Road
+North side (between a point 13 yards east of its junction with Roseville Street and a point 50 yards further east)
 Janvrin Road
 West side (from its junction with Stopford Road north for a distance of 22 yards)
 Mount Bingham
@@ -253,8 +256,6 @@ PART 4
 Parking discs - 2 hour limit
 Dongola Road
 South side
-Hastings Road
-North side (between a point 26 yards east of its junction with Roseville Street and a point 35 yards further east)
 La Ruette Pinel
 North side (between the western entrance to Surville Cemetery and the eastern entrance to Surville Cemetery)
 Roseville Street
@@ -275,6 +276,10 @@ East side (between La Route du Fort and Hastings Road)
 West side (between Havre-des-Pas and a point 32 yards south of La Route du Fort)
 Le Clos Vaze
 South side (between a point 22 yards west of its junction with St. John’s Road and a point 34 yards further west)
+Drury Lane
+East side (between the northern boundary of “Inglis House” and a point 22 yards south)
+Mount Bingham (link road to the Territorial Army Centre (south western arm))
+Southeast side
 Nelson Avenue
 North side
 Queen’s Avenue
@@ -283,12 +288,10 @@ Raleigh Avenue
 East side (between Rouge Bouillon and the southern boundary of “Brookfield”)
 East side (between a point 4 yards north of the southern boundary of No. 28 and a point 5 yards further north)
 Richmond Road
-East side (between a point 22 yards west and south of the northern entrance to Le Clos Debonaire and a point 17 yards south of the southern boundary of the property “Rose Cottage”)
+East side (between a point 1 yard north of the southern boundary of No. 55 La Grande Pouclee and a point 19 yards south of the southern boundary of the property “Rose Cottage”)
 Rodney Avenue
 North side (between the east boundary of “Plaisance” and the eastern boundary of “Shalimar”)
 East side (between Nelson Avenue and a point 4 yards north of the northern boundary of “Newlands”)
-Roussel Mews
-West side (between a point 114 yards north of Roussel Street and Undercliffe Road)
 Rue de Trachy
 North side (between a point 26 yards east of the entrance to the “Ville au Roi Estate” and a point 10 yards further east)
 North side (between a point 68 yards east of the entrance to the “Ville au Roi Estate” and Mont Cochon)
@@ -332,8 +335,6 @@ PART 13
 Parking places restricted to vehicles not exceeding 6 feet 6 inches in width and to a time limit of 12 hours
 La Pouquelaye
 East side (between a point 43 yards north of the northern boundary of Almorah Cemetery and a point 7 yards south of the northern boundary of “Janine”)
-Mount Bingham (link road to the Territorial Army Centre (south western arm))
-Southeast side
 Rue De Trachy
 North side (between a point 4 yards east of the Western Boundary of “Fingle Glen” and a point 7 yards east of the western boundary of “Millbrook House”)
 North side (from the Eastern boundary of Millbrook Lane to a point 17 yards further east)
@@ -347,6 +348,9 @@ North side (between the western boundary of No. 20 and a point 16 yards further 
 Part 15
 (Article 27B)
 car club permit parking
+Esplanade
+North side (between a point 99 east of its junction with Castle Street and a point 13 yards further east)
+North side (between a point 23 yards east of the boundary of Marina Court and a point 12 yards further east)
 Halkett Place
 West side (from a point 30 yards north of its junction with Burrard Street to a point 11 yards south)
 Parade, The (eastern arm)

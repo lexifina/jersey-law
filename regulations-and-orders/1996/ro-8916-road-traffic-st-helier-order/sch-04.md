@@ -153,10 +153,12 @@ Columbus Street
 East side
 West side (between Brighton Road and a point 19 yards north of the northern boundary of No. 31)
 West side (between Albert Street and a point 12 yards north of Dorset Street)
+South side (between its junction with St. Clement’s Road and a point 38 yards east of its junction with Roseville Street)
 Commercial Buildings
 North and east sides (between the western boundary of No. 3 to the eastern edge of the northern slipway of the English Harbour)
 North and east sides (between the western boundary of No. 5 and a point 10 yards south of the northern boundary of No. 8)
 East side (between a point 38 yards south of La Route de la Liberation and a point 36 yards further south)
+East side (from a point 7 yards south of the Tunnel to a point 5.5 yards north then continuing to a point 7 yards west then continuing to a point 17.5 yards south)
 Commercial Street
 North side
 South side (between Castle Street and a point 9 yards east)
@@ -170,6 +172,7 @@ Conway Street
 West side
 West side (between the Esplanade and Cross Street)
 West side (between Bond Street and Broad Street)
+East side
 Craig Street
 Both sides
 Croydon Lane
@@ -207,6 +210,10 @@ South side (between Great Union Road and a point 5 yards east of the eastern bou
 South side (between Garden Lane and a point 4 yards west of the eastern boundary of No. 10)
 South side (between Garden Lane and a point 2 yards east of the eastern boundary of No. 12)
 South side (between Clearview Street and a point 4 yards west of the eastern boundary of No. 20)
+Drury Lane
+East side (between its junction with Dongola Road and its junction with Rouge Bouillon)
+West side (between its junction with Dongola Road and the northern boundary of “Inglis House”)
+West side (between a point 22 yards south of the northern boundary of “Inglis House” and its junction with Rouge Bouillon
 Duhamel Place
 East side (between the northern boundary of the States Public Library and a point 15 yards north)
 East side (between Grove Street and a point 2 yards north of the northern boundary of No. 8)
@@ -279,7 +286,7 @@ Halkett Place
 East side (between St. Helier Methodist Centre and a point 2 yards north of the northern boundary of Halkett Villas)
 East side (between Burrard Street and a point 27 yards north)
 East side (between Burrard Street and a point 2 yards south of the southern boundary of No. 68)
-East side (between Hilgrove Street and Hill Street)
+East side (between Hilgrove Street and a point 6 yards north of Hill Street)
 East side (between Beresford Street and a point 15 yards north)
 West side (between St. Helier Methodist Centre and a point 10 yards south of the northern boundary of the States Library)
 West side (between its junction with Burrard Street and a point 10 yards north of the southern boundary of the “Mechanics Institute”)
@@ -292,7 +299,7 @@ Hastings Lane
 Both sides
 Hastings Road
 South side
-North side (between Roseville Street and a point 26 yards east)
+North side (between its junction with Roseville Street and a point 13 yards east)
 North side (between St. Clement’s Road and a point 61 yards east of Roseville Street)
 Havre des Pas
 Both sides
@@ -588,7 +595,7 @@ West side (between the Regent Steps and a point 40 yards north of La Chasse)
 East side (between La Chasse and the Regent Steps)
 Richmond Road
 North side (bordering Almorah Cemetery)
-South and east sides (between the northern entrance to Le Clos de Debonaire and a point 22 yards west and south)
+South and east sides (between the northern entrance to Le Clos de Debonaire and a point 99 yards west and then south)
 East side (between Clos du Paradis and a point 17 yards south of the southern boundary of “Rose Cottage”)
 West side (between La Pouquelaye and a point 2 yards north of the southern boundary of “Rose Cottage”)
 Robin Place
@@ -598,7 +605,9 @@ East side (between Cleveland Avenue and the eastern boundary of “Plaisance”)
 South and west sides
 North and east sides (between the western boundary of “Shalimar” and a point 4 yards north of the northern boundary of “Newlands”)
 Roseville Street
-East side (between Colomberie and a point 20 yards south)
+East side (between its junction with Colomberie and a point 16.5 yards further south)
+East side (between a point 32 yards from its junction with Colomberie and a point 14 yards further south)
+East side (between a point 65 yards from its junction with Colomberie and a point 27 yards further south)
 East side (between Hastings Road and a point 16 yards south)
 East side (between La Route du Fort and a point 16 yards north)
 East side (between La Route du Fort and a point 37 yards south)
@@ -657,9 +666,12 @@ St. Aubin’s Road
 Both sides (between West Park roundabout and the northernmost junction with Peirson Road)
 North side (between the Esplanade and the parish boundary)
 South side (between Esplanade and a point 165 yards west of Tyneville Lane)
-South side (between the eastern boundary of “Watkins Villas” and the western boundary of “Ebbtide”)
-South side (between a point 8 yards east of the western boundary of First Tower Methodist Church and the western boundary of No. 2 Romney Place)
-South side (between a point 27 yards east of the western arm of Seafield Avenue and the Parish boundary)
+South side (between the eastern boundary of “Watkins Villas” and a point 39 yards west of its junction with the spur road at First Tower)
+South side (between a point 14 yards east of the western boundary of First Tower Methodist Church and a point 76 yards east of its junction with the eastern arm of Seafield Avenue)
+South side between a point 22 yards east of its junction with the eastern arm of Seafield Avenue to a point 9 yards west)
+South side (between its junction with the eastern arm of Seafield Avenue to a point 8 yards east)
+South side (between its junction with the eastern arm of Seafield Avenue to a point 9 yards west)
+South side (between a point 29 yards east of its junction with the western arm of Seafield Avenue and the parish boundary)
 St. Clement’s Road
 Both sides
 St. James’ Street

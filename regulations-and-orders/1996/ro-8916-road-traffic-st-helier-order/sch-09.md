@@ -174,7 +174,7 @@ East side (between Pomona Lane and Poonah Road)
 West side (between a point 15 yards south of the junction with Rouge Bouillon and a point 10 yards north of the northern boundary of No. 19)
 West side (between the southern boundary of No. 19 and a point 5 yards north)
 Richmond Road
-West side (from its junction with the entrance to Le Clos de Debonaire to a point 2 yards north of the southern boundary of the property “Rose Cottage”)
+West side (from its junction with the entrance to Le Close de Debonaire to a point 2 yards north of the southern boundary of the property “1 Richmond Villas”)
 South side (between La Pouquelaye and a point 5 yards west of the north-eastern boundary of No. 8 Richmond Road)
 Roussel Street
 South side (from a point 3 yards south-east of the north-western boundary of St. Mary’s Court to a point 30 yards further south-east)

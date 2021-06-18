@@ -1,6 +1,6 @@
 # Road Traffic (St. Helier) (Jersey) Order 1996
 
-R&O.8916 · official consolidation showing the law from 2019-12-30 · <https://www.jerseylaw.je/laws/current/ro_8916_20210617>
+R&O.8916 · official consolidation showing the law from 2021-06-18 · <https://www.jerseylaw.je/laws/current/ro_8916_20210919>
 
 | Provision | File | Heading |
 | --- | --- | --- |

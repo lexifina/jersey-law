@@ -155,6 +155,8 @@ Great Union Road
 Devonshire Place to Great Union Street
 Great Union Street
 Great Union Road to Devonshire Place
+Green Street (between a point 80 yards south of its junction with La Route du Fort and a point 70 yards south of La Route du Fort)
+Northwards to a point 70 yards south of La Route du Fort
 Grenville Street
 Green Street to Colomberie
 Grosvenor Street
@@ -416,13 +418,13 @@ PART 2
 One-way traffic routes for vehicles exceeding 6 feet 6 inches in width
 Road
 Direction
-Green Street (between the southern entrance to The Cedars and Havre-des-Pas)
-Havre-des-Pas to La Route du Fort
 PART 3
 (Article 3(2))
 EXEMPTIONS
 Road
 Vehicle
+Green Street
+Omnibuses, pedal cycles
 King Street (that part which forms its junction with New Street and New Cut)
 Pedal cycles
 New Cut

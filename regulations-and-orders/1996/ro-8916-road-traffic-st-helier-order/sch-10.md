@@ -18,7 +18,7 @@ East side (between a point 5 yards north of Poonah Lane and a point 7 yards furt
 20 minutes
 8 a.m. to 12 midnight. Monday to Saturday;
 Beresford Street
-South side (between a point 49 yards east of Halkett Place and a point 44 yards further east)
+South side (between a point 49 yards east of Halkett Place and a point 62 yards further east)
 1 hour
 2 a.m. to 6 p.m. Monday to Saturday
 South side (between a point 8 yards west of its junction with Wests Centre and a point 45 yards further west
@@ -144,7 +144,7 @@ East side (between a point 115 yards north of Green Street and a point 19 yards 
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Halkett Place
-East side (between Beresford Street and Hilgrove Street)
+East side (between Beresford Street and a point 14 yards north of Hilgrove Street)
 1 hour
 2 a.m. to 6 p.m. Monday to Saturday
 Hilgrove Street
@@ -176,6 +176,10 @@ North side (between a point 19 yards west of the eastern boundary of Central Apa
 North side (between a point 10 yards south-west of the eastern corner of the Grand Hotel and a point 12 yards further south-west
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
+La Route de la Liberation
+North side (between a point 57 yards west of its junction with Castle Street to a point 22 yards further west)
+20 minutes
+5 a.m. to 6 p.m. Monday to Saturday
 La Rue de L’Etau
 West side (between a point 32 yards west of the junction with La Rue de Carteret and a point 11 yards further west
 20 minutes
@@ -185,7 +189,7 @@ South side (between the western corner of No. 13 and a point 12 yards east)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Minden Place
-South side (between a point 33 yards west of Bath Street and a point 16 yards further west)
+South side (between a point 63 yards west of Bath Street and a point 16 yards further west)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Minden Street
