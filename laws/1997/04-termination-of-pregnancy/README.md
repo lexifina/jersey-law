@@ -1,6 +1,6 @@
 # Termination of Pregnancy (Jersey) Law 1997
 
-L.4/1997 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_1997_20210701>
+L.4/1997 · official consolidation showing the law from 2021-07-02 · <https://www.jerseylaw.je/laws/current/l_4_1997_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
