@@ -1,6 +1,6 @@
 # Discrimination (Jersey) Law 2013
 
-L.10/2013 · official consolidation showing the law from 2020-09-01 · <https://www.jerseylaw.je/laws/current/l_10_2013_20210727>
+L.10/2013 · official consolidation showing the law from 2021-07-28 · <https://www.jerseylaw.je/laws/current/l_10_2013_20230323>
 
 | Provision | File | Heading |
 | --- | --- | --- |

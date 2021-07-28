@@ -375,7 +375,13 @@ Article 22 does not prohibit a person discriminating against another person on g
 40 Age: scholarships, prizes and awards
 An act of discrimination is not prohibited by this Law in relation to the protected characteristic of age where scholarships, prizes or other awards are made available only to specified age groups.
 41 Age: premises
-An act of discrimination is not prohibited by Article 23 or Article 24 in relation to the protected characteristic of age.
+(1) An act of discrimination is not prohibited by Article 23 or Article 24 in relation to the protected characteristic of age.
+(2) However, in relation to Article 24, sub-paragraph (1) does not apply to permit a person to discriminate against a person who intends to live, or who is interested in living, in premises with a child under the age of 18, whether or not that child lives part of the time elsewhere.
+(3) Sub-paragraph (2) does not apply in respect of premises -
+(a) registered under Article 5 of the Tourism (Jersey) Law 1948;
+(b) used as part of a care home service (within the meaning of paragraph 1 of Schedule 1 to the Regulation of Care (Jersey) Law 2014); or
+(c) reserved or intended for particular categories of people, including on grounds of age.
+(4) It is a defence to a complaint in respect of an act prohibited by Article 24 and falling within sub-paragraph (2) of this paragraph, for the person alleged to have done the act to show that not doing so would create a hazard within the meaning of the Public Health and Safety (Rented Dwellings) (Jersey) Law 2018.
 part 5
 exceptions to prohibited acts: disability
 42 Disability: act done pursuant to States’ policy or Ministerial decision
