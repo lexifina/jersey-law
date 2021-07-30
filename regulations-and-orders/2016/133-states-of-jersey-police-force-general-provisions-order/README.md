@@ -1,6 +1,6 @@
 # States of Jersey Police Force (General Provisions) (Jersey) Order 2016
 
-R&O.133/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_133_2016_20210729>
+R&O.133/2016 · official consolidation showing the law from 2021-07-30 · <https://www.jerseylaw.je/laws/current/ro_133_2016_20251204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
