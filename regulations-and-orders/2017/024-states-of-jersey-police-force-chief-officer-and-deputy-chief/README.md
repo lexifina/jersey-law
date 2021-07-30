@@ -1,6 +1,6 @@
 # States of Jersey Police Force (Chief Officer and Deputy Chief Officer) (Jersey) Regulations 2017
 
-R&O.24/2017 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_24_2017_20210729>
+R&O.24/2017 · official consolidation showing the law from 2021-07-30 · <https://www.jerseylaw.je/laws/current/ro_24_2017_20251204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
