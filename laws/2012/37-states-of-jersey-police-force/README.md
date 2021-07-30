@@ -1,6 +1,6 @@
 # States of Jersey Police Force Law 2012
 
-L.37/2012 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_37_2012_20210729>
+L.37/2012 · official consolidation showing the law from 2021-07-30 · <https://www.jerseylaw.je/laws/current/l_37_2012_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,9 +30,12 @@ L.37/2012 · official consolidation showing the law from 2019-07-23 · <https://
 | Art. 23 | [art-023.md](art-023.md) | 23 Chief Officer may give assistance |
 | Art. 24 | [art-024.md](art-024.md) | 24 Charges for police goods and services |
 | Art. 25 | [art-025.md](art-025.md) | 25 Chief Officer liable for wrongful acts of police officers |
+| Art. 25A | [art-025-a.md](art-025-a.md) | 25A States’ employees working for Police Force |
 | Art. 26 | [art-026.md](art-026.md) | 26 States’ employees designated to undertake police functions |
 | Art. 27 | [art-027.md](art-027.md) | 27 Contractors undertaking police functions |
 | Art. 28 | [art-028.md](art-028.md) | 28 Property in possession of police officers |
+| Art. 28AA | [art-028-aa.md](art-028-aa.md) | 28AA Inspection of States Police Force |
+| Art. 28AB | [art-028-ab.md](art-028-ab.md) | 28AB Inspection of Police Authority |
 | Art. 28A | [art-028-a.md](art-028-a.md) | 28A Arrangements for independent custody visitors |
 | Art. 28B | [art-028-b.md](art-028-b.md) | 28B SPT Visits |
 | Art. 28C | [art-028-c.md](art-028-c.md) | 28C Reports to the Minister |
