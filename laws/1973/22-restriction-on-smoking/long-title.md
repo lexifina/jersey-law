@@ -17,7 +17,11 @@ In this Law, unless the context otherwise requires -
 “brandsharing” means the use by a person in the course of that person’s business -
 (a) of any feature in connection with any service or product unrelated to tobacco, such feature being the same as any feature that is connected with tobacco or is so similar as to be likely to be mistaken for that feature; or
 (b) of any feature in connection with tobacco, such feature being the same as any feature that is connected with any service or product unrelated to tobacco or is so similar as to be likely to be mistaken for that feature;
-“cigarette” includes cut tobacco rolled in paper, tobacco leaf or other material in such form as to be capable of immediate use for smoking;
+“cigarette” means a tobacco product that can be consumed by means of a combustion process and that is -
+(a) a roll of tobacco (or of tobacco and another substance) that is capable of being smoked as it is; or
+(b) a roll of tobacco (or of tobacco and another substance) that is designed to be, by simple non-industrial handling -
+(i) wrapped in cigarette paper, or
+(ii) inserted into a cigarette-paper tube;
 “club” means any premises or place that are, or is, used by, and for the purposes of, a club, society or other body of persons, whether incorporated or unincorporated, and whether that use is for profit or otherwise;
 “coupon” means a document or other thing which (whether by itself or not) can be redeemed for a product, service, cash or other benefit;
 “dwelling” means any place (whether it is premises or otherwise) in which a person resides that is the private residence of that person and includes, in relation to that place, any -
@@ -58,7 +62,7 @@ and “smoke” shall be construed accordingly;
 “sponsorship agreement” is an agreement under which, in the course of a business, a party to it makes a contribution towards something, whether the contribution is in money or takes some other form including the provision of services or of contributions in kind that promotes tobacco in Jersey;
 “tobacco” means all or any of the following items derived from the tobacco plant -
 (a) a cigarette;
-(b) tobacco leaf;
+(b) leaves and other natural processed or unprocessed parts of tobacco plants, including expanded and reconstituted tobacco;
 (c) cut tobacco (including hand-rolling tobacco);
 (d) any thing that consists in whole or in part of tobacco, including cut tobacco, hand-rolling tobacco and tobacco leaf or any of them;
 (e) tobacco to which paragraph 6 of Part 2 of Schedule 1 to the Customs and Excise (Jersey) Law 1999 applies,
