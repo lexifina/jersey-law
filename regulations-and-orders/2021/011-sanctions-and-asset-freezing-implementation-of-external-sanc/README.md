@@ -1,6 +1,6 @@
 # Sanctions and Asset-Freezing (Implementation of External Sanctions) (Jersey) Order 2021
 
-R&O.11/2021 · official consolidation showing the law from 2021-04-30 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20210811>
+R&O.11/2021 · official consolidation showing the law from 2021-08-12 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20211213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,7 +13,6 @@ R&O.11/2021 · official consolidation showing the law from 2021-04-30 · <https:
 | Art. 6 | [art-006.md](art-006.md) | 6 Offence of disclosure of confidential information as to designation |
 | Art. 7 | [art-007.md](art-007.md) | 7 Customs provisions applied in relation to offences |
 | Art. 8 | [art-008.md](art-008.md) | 8 Prohibition of satisfaction of claims affected by certain UNSCRs between 1990 and 1994 |
-| Art. 9 | [art-009.md](art-009.md) | 9 Repeal of previous sanctions Orders, and transitional provisions |
 | Art. 10 | [art-010.md](art-010.md) | 10 Citation and commencement |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
