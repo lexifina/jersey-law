@@ -10,8 +10,6 @@ Rue des Varvots
 Between the eastern entrance to the property known as “La Retraite Nurseries” and its junction with Douet de la Rue.
 Rue de la Ville Emphrie
 Throughout its length.
-La Ruelle de St. Claire
-The entire road
 PART 2
 (Article 7(2))
 One way traffic routes for chars-à-banc
@@ -26,6 +24,8 @@ La Rue de la Scelletterie
 In both directions, from its junction with Le Hucquet to the Parish boundary.
 La Rue de la Ville Emphrie
 Between the eastern side of the entrance to the property known as “Les Cypres” and its junction with La Rue de la Blanche Pierre.
+La Ruelle de St. Claire
+Its entire length.
 Le Hucquet
 In both directions, from its junction with La Rue de la Scelleterie to the Parish boundary.
 Le Mont Cambrai

@@ -5,6 +5,8 @@ Road
 Direction
 La Longue Rue
 Les Six Rues to the parish boundary.
+La Rue de Haut
+Mont Cambrai to St. Aubin’s Road.
 La Rue du Nord
 La Rue du Galet to Victoria Avenue.
 La Rue Parcqthée
@@ -18,8 +20,6 @@ Le Passage
 (b) from La Grande Route de St. Laurent to La Rue Sara Henri.
 Mont de la Perrine
 La Fontaine de St. Martin to Route de l’Eglise.
-Rue de Haut
-Mont Cambrai to St. Aubin’s Road.
 Route de l’Eglise
 La Grande Route de St. Laurent to the property known as “Maison du Guardien”.
 Sandybrook Lane

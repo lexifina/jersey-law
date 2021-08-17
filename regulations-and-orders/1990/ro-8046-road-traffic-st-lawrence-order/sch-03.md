@@ -10,6 +10,25 @@ West side (from a point opposite the southern boundary of the property known as 
 East side (from the northern boundary of the “St. Laurent public house” to a point 10 yards north of the entrance to the “St. Lawrence Primary School”).
 La Rue
 Both sides (from its junction with La Grande Route de St. Laurent to La Ruette D’Avranches).
+La Rue de Haut
+West side (between the south side of the exit of Le Clos du Val and a point 11 yards south).
+West side (between the north side of the exit of Le Clos du Val and a point 11 yards north).
+West side (between its junction with La Ruelle Corbel and a point 22 yards south).
+East side (between its junction with St. Peter’s Valley and La Ruelle Corbel).
+South side (between its junction with La Ruelle Corbel and a point 64 yards east).
+North side (between its junction with La Ruelle Corbel and a point 74 yards east).
+North side (between a point 75 yards west of its junction with Le Mont Cambrai and a point 147 yards east of its junction with Le Mont Cambrai).
+South side (between a point 75 yards west of its junction with Le Mont Cambrai and a point 222 yards east of its junction with Le Mont Cambrai).
+South side (between a point 239 yards east of its junction with Le Mont Cambrai and a point 7 yards further east).
+South side (between a point 251 yards east of its junction with Le Mont Cambrai and a point 27 yards further east).
+South side (between a point 282 yards east of its junction with Le Mont Cambrai and a point 13 yards further east).
+South side (between a point 381 yards east of its junction with Le Mont Cambrai and a point 75 yards further east).
+South side (between a point 461 yards east of its junction with Le Mont Cambrai and a point 6 yards further east).
+South side (between a point 473 yards east of its junction with Le Mont Cambrai and a point 22 yards further east).
+South side (between its junction with St. Aubin’s Road and a point 5 yards west).
+North side (between its junction with St. Aubin’s Road and a point 124 yards west).
+North side (between a point 131 yards west of its junction with St. Aubin’s Road and a point 4 yards further west).
+North side (between a point 141 yards west of its junction with St. Aubin’s Road and a point 58 yards further west).
 La Rue de la Blanche Pierre
 Both sides (from its junction with La Vallée de St. Pierre for a distance of 140 yards in a north easterly direction).
 La Route de l’Eglise
@@ -28,17 +47,6 @@ Meadow Bank Road
 Both sides (between its junction with St. Peter’s Valley and its junction with Rue de la Ville Emphrie).
 Rue du Galet
 Both sides (throughout its length).
-Rue de Haut
-West side (from the south side of the exit of Le Clos du Val south for a distance of 11 yards, and from the north side of the exit of Le Clos du Val north for a distance of 11 yards, and from the junction of Rue de Haut with La Ruelle Corbel south for a distance of 22 yards).
-East side (between its junction with St. Peter’s Valley and La Ruelle Corbel).
-Both sides (from its junction with La Ruelle Corbel to the eastern boundary of the property known as “Little Grove”).
-Both sides (from a point 50 yards east of its junction with Le Mont Cambrai to a point 80 yards west of its junction with Le Mont Cambrai).
-South side (between a point opposite the western entry to the property “Cossipore” and a point 286 yards east).
-South side (from its junction with Kimberley Grove to a point 240 yards east).
-South side (between its junction with St. Aubin’s Road and a point 18 yards north).
-South side (from a point 26 yards north of its junction with St. Aubin’s Road for a distance of 24 yards to the north).
-South side (from a point 68 yards north of its junction with St. Aubin’s Road and a point 10 yards to the north of the northern boundary of the property known as “Ravenscrag”).
-North side (between its junction with St. Aubin’s Road and a point 60 yards to the north of the northern boundary of the property known as “Ravenscrag”).
 La Rue de la Ville Emphrie
 Both sides (between its junction with La Rue des Prés Sorsoleil and the eastern boundary of the property known as “Les Cypres”).
 Rue du Nord

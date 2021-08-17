@@ -10,6 +10,6 @@ Throughout its length
 Mont Misère
 Between its junction with Le Chemin des Moulins and its junction with Rue du Vard.
 Ruelle Corbel
-Between its junction with Rue de Haut and its junction with the property known as “Springrove”.
+Between its junction with La Rue de Haut and its junction with the property known as “Springrove”.
 The unnamed road that runs between Sandybrook Lane and La Vallée de St. Pierre
 Throughout its length.
