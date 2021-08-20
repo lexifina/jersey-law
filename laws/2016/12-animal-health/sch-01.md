@@ -6,6 +6,7 @@ African swine fever
 American Foulbrood
 Anthrax
 Aujeszky’s disease
+Avian chlamydiosis (Psittacosis otherwise known as Ornithosis)
 Avian influenza
 Bluetongue
 Bovine Spongiform Encephalopathy
@@ -15,7 +16,8 @@ Brucellosis
 Chronic wasting disease
 Classical swine fever
 Contagious agalactia
-Contagious bovine pleuro-pneumonia
+Contagious bovine pleuropneumonia
+Contagious caprine pleuropneumonia
 Contagious epididymitis
 Contagious equine metritis
 Dourine
@@ -29,13 +31,13 @@ Equine Viral Encephalomyelitis
 European Foulbrood
 Foot and mouth disease
 Glanders
+Infection with Batrachochytrium salamandrivorans
 Infectious Bovine Rhinotracheitis/Infectious Pustular Vulvovaginitis
 Lumpy skin disease
 Newcastle disease
 Paramyxovirus infection
 Peste de Petit Ruminants (Goat plague)
 Porcine Epidemic Diarrhoea
-Psittacosis (also known as Ornithosis)
 Rabies
 Rabies in bats
 Rift Valley fever
@@ -44,6 +46,7 @@ Scrapie
 Sheep and goat pox
 Sheep scab
 Small hive beetle
+Surra (Trypanosoma evansi)
 Swine influenza
 Swine vesicular disease
 Teschen disease
