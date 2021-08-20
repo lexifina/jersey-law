@@ -6,45 +6,51 @@ Susceptible animals
 Anthrax
 All mammals except human beings
 Aujeszky’s disease
-Cattle, deer, horses, goats, sheep and swine, dogs and cats.
+Dogs, cats, Equidae, ruminants and swine
+Avian chlamydiosis (Psittacosis otherwise known as Ornithosis)
+Psittaciformes (parrot, amazons, cockatoos, lorikeets, lorries, macaws, parakeets)
 Bovine Viral Diarrhoea
 Cattle
 Brucellosis
 Cattle, goats, sheep and swine
 Contagious agalactia
 Goats and sheep
-Contagious bovine pleuro-pneumonia
+Contagious bovine pleuropneumonia
 Cattle
+Contagious caprine pleuropneumonia
+Capra ssp., Ovis ssp. and Gazella ssp.
 Contagious epididymitis
-Sheep
+Goats and sheep
 Contagious equine metritis
-Horses
+Equidae
 Dourine
-Horses
+Equidae
+Ebola
+All primates except human beings
 Enzootic bovine leucosis
 Cattle
 Epizootic haemorrhagic disease
 Deer
 Epizootic lymphangitis
-Horses
+Equidae
 Equine infectious anaemia
-Horses
+Equidae
 Equine viral arteritis
-Horses
+Equidae
 Equine Viral Encephalomyelitis
-Horses
+Equidae
 Glanders
-Horses
+Equidae, Camelidae and Capra ssp.
+Infection with Batrachochytrium salamandrivorans
+Caudata
 Infectious Bovine Rhinotracheitis/Infectious Pustular Vulvovaginitis
-Cattle
+Cattle, Camelidae and Cervidae
 Lumpy skin disease
 Cattle
-Peste de Petit Ruminants (Goat plague)
-Goats and sheep
+Peste des Petits Ruminants (Goat plague)
+Capra ssp., Ovis ssp., Camelidae and Cervidae
 Porcine Epidemic Diarrhoea
 Swine
-Psittacosis (otherwise known as Ornithosis
-Birds
 Rift Valley fever
 Goats, sheep and cattle
 Rinderpest virus
@@ -53,13 +59,15 @@ Sheep and goat pox
 Goats and sheep
 Sheep scab
 Sheep
+Surra (Trypanosoma evansi)
+Equidae and Artiodactyla
 Swine influenza
 Swine
 Teschen disease
 Swine
 Trichinellosis
-Swine and horses
+Swine and Equidae
 Vesicular stomatitis
-Cattle, horses, swine
+Cattle, Equidae and swine
 West Nile fever
-Horses
+Equidae
