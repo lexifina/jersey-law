@@ -1,6 +1,10 @@
 # SCHEDULE 4
 (Article 6(1)(a))
 Prohibition of waiting
+Albert Place
+East side (between La Route du Port Elizabeth and a point 52 yards north)
+West side (between La Route du Port Elizabeth and a point 12 yards north)
+West side (between a point 41 yards north of La Route du Port Elizabeth and a point 7 yards further north)
 Albert Street
 North side (between Great Union Road and a point 2 yards west of the eastern boundary of No. 6)
 North side (between Columbus Street and a point 15 yards west of the western boundary of “Britannia”)

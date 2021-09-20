@@ -56,6 +56,8 @@ South side (between a point 8 yards west of its junction with “Wests Centre”
 PART 2
 (Article 11(1))
 Paying parking places - 1 hour limit
+Albert Place
+West side (between a point 12 yards north of La Route du Port Elizabeth and a point 28 yards further north)
 Ann Place
 North side
 Ann Street
@@ -208,6 +210,8 @@ Hastings Road
 North side (between a point 13 yards east of its junction with Roseville Street and a point 50 yards further east)
 Janvrin Road
 West side (from its junction with Stopford Road north for a distance of 22 yards)
+Le Quai aux Marchands
+West side (between a point 11 yards south of its junction with South Pier and a point 24 yards further south)
 Mount Bingham
 North side (between a point 27 yards west of its junction with Green Street and a point 40 yards further west)
 South side (between its junction with La Collette Slipway and a point 47 yards further west)
