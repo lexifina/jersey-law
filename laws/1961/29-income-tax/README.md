@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_29_1961_20210921>
+L.29/1961 · official consolidation showing the law from 2021-09-22 · <https://www.jerseylaw.je/laws/current/l_29_1961_20210927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -215,12 +215,14 @@ L.29/1961 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 121 | [art-121.md](art-121.md) | 121 General rule as to income tax on married persons |
 | Art. 121A | [art-121-a.md](art-121-a.md) | 121A Election by spouse for separate assessment |
 | Art. 121B | [art-121-b.md](art-121-b.md) | 121B Effect of election for separate assessment |
+| Art. 121C | [art-121-c.md](art-121-c.md) | 121C Election by spouses for independent taxation from 2022 |
 | Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
 | Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
 | Art. 122A | [art-122-a.md](art-122-a.md) | 122A Election of civil partner as civil partner A or civil partner B for treatment of tax |
 | Art. 122B | [art-122-b.md](art-122-b.md) | 122B General rule as to income tax on civil partners |
 | Art. 122C | [art-122-c.md](art-122-c.md) | 122C Election by civil partner A or civil partner B for separate assessment |
 | Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
+| Art. 122DA | [art-122-da.md](art-122-da.md) | 122DA Election by civil partners for independent taxation from 2022 |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
 | Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
