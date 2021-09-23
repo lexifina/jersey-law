@@ -1,6 +1,6 @@
 # Service of Process Rules 2019
 
-R&O.91/2019 · official consolidation showing the law from 2019-10-28 · <https://www.jerseylaw.je/laws/current/ro_91_2019_20210922>
+R&O.91/2019 · official consolidation showing the law from 2021-09-23 · <https://www.jerseylaw.je/laws/current/ro_91_2019>
 
 | Provision | File | Heading |
 | --- | --- | --- |
