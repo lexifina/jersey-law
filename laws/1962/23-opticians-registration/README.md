@@ -1,6 +1,6 @@
 # Opticians (Registration) (Jersey) Law 1962
 
-L.23/1962 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_23_1962_20210927>
+L.23/1962 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_23_1962_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,5 +24,4 @@ L.23/1962 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 16 | [art-016.md](art-016.md) | 16 Offences by bodies corporate |
 | Art. 17 | [art-017.md](art-017.md) | 17 Consultation with registered opticians |
 | Art. 18 | [art-018.md](art-018.md) | 18 Miscellaneous matters with respect to which Orders may be made |
-| Art. 19 | [art-019.md](art-019.md) | 19 General provision as to orders |
 | Art. 20 | [art-020.md](art-020.md) | 20 Citation |
