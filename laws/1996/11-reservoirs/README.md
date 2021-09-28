@@ -1,6 +1,6 @@
 # Reservoirs (Jersey) Law 1996
 
-L.11/1996 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_11_1996_20210927>
+L.11/1996 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_11_1996>
 
 | Provision | File | Heading |
 | --- | --- | --- |
