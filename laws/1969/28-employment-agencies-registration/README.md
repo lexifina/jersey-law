@@ -1,6 +1,6 @@
 # Employment Agencies (Registration) (Jersey) Law 1969
 
-L.28/1969 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_28_1969_20210927>
+L.28/1969 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_28_1969>
 
 | Provision | File | Heading |
 | --- | --- | --- |
