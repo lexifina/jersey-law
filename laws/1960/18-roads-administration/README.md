@@ -1,6 +1,6 @@
 # Roads Administration (Jersey) Law 1960
 
-L.18/1960 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_18_1960_20210927>
+L.18/1960 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_18_1960>
 
 | Provision | File | Heading |
 | --- | --- | --- |
