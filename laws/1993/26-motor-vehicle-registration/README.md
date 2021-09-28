@@ -1,6 +1,6 @@
 # Motor Vehicle Registration (Jersey) Law 1993
 
-L.26/1993 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_26_1993_20210927>
+L.26/1993 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_26_1993>
 
 | Provision | File | Heading |
 | --- | --- | --- |
