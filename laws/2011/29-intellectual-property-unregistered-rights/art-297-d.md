@@ -10,3 +10,4 @@
 (5) “Disabled person” means a person who has a physical or mental impairment which prevents the person from enjoying a recording of a performance to substantially the same degree as a person who does not have that impairment, and “disability” is to be construed accordingly.
 (6) But a person is not to be regarded as disabled by reason only of an impairment of visual function which can be improved, for example by the use of corrective lenses, to a level that is normally acceptable for reading without a special level or kind of light.
 (7) “Relevant right” means a right conferred by Chapters 1 to 6.
+(8) To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of Articles 297, 297A or 297B would not infringe a relevant right, that term is unenforceable.

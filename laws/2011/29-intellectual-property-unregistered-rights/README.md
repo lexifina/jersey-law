@@ -1,6 +1,6 @@
 # Intellectual Property (Unregistered Rights) (Jersey) Law 2011
 
-L.29/2011 · official consolidation showing the law from 2021-04-28 · <https://www.jerseylaw.je/laws/current/l_29_2011_20210927>
+L.29/2011 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_29_2011_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -188,7 +188,7 @@ L.29/2011 · official consolidation showing the law from 2021-04-28 · <https://
 | Art. 183 | [art-183.md](art-183.md) | 183 States copyright |
 | Art. 184 | [art-184.md](art-184.md) | 184 Crown copyright |
 | Art. 185 | [art-185.md](art-185.md) | 185 Enforcement, etc. of States Assembly copyright |
-| Art. 186 | [art-186.md](art-186.md) | 186 Copyright in enactments and revised edition |
+| Art. 186 | [art-186.md](art-186.md) | 186 Copyright in Jersey legislation |
 | Art. 187 | [art-187.md](art-187.md) | 187 Copyright in Acts and Measures |
 | Art. 188 | [art-188.md](art-188.md) | 188 Copyright in works first owned by prescribed international organizations |
 | Art. 189 | [art-189.md](art-189.md) | 189 Folklore, etc.: anonymous unpublished works |
