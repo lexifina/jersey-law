@@ -1,6 +1,6 @@
 # Law Reform (Disclosure and Conduct before Action) (Jersey) Law 1999
 
-L.14/1999 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_1999_20210927>
+L.14/1999 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_14_1999>
 
 | Provision | File | Heading |
 | --- | --- | --- |
