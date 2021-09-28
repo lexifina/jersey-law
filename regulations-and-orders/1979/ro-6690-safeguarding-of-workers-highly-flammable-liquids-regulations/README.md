@@ -1,6 +1,6 @@
 # Safeguarding of Workers (Highly Flammable Liquids) (Jersey) Regulations 1979
 
-R&O.6690 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6690_20210927>
+R&O.6690 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/ro_6690>
 
 | Provision | File | Heading |
 | --- | --- | --- |
