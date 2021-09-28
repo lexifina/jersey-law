@@ -56,7 +56,7 @@ the Judicial Greffe must not register a lasting power of attorney and must as so
 Where it appears to the Judicial Greffe that -
 (a) there is already a delegate appointed by the Court for P; and
 (b) the authority to be conferred on A would, if the lasting power of attorney were registered, conflict with the powers conferred on the delegate,
-the Judical Greffe must not register the instrument unless directed to do so by the Court.
+the Judicial Greffe must not register the instrument unless directed to do so by the Court.
 5 Objections to registration
 (1) A person may give notice of an objection to registration of an instrument -
 (a) to the Judicial Greffe;
