@@ -1,6 +1,6 @@
 # Radio Equipment (Jersey) Law 1997
 
-L.17/1997 · official consolidation showing the law from 2019-08-22 · <https://www.jerseylaw.je/laws/current/l_17_1997_20210927>
+L.17/1997 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_17_1997_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
