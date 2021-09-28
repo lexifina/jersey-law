@@ -1,6 +1,6 @@
 # Tourism (Jersey) Law 1948
 
-L.2/1948 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_2_1948_20210927>
+L.2/1948 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_2_1948_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
