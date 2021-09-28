@@ -1,6 +1,6 @@
 # Gambling (Channel Islands Lottery) (Jersey) Regulations 1975
 
-R&O.6153 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6153_20210927>
+R&O.6153 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/ro_6153>
 
 | Provision | File | Heading |
 | --- | --- | --- |
