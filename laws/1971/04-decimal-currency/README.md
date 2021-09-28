@@ -1,6 +1,6 @@
 # Decimal Currency (Jersey) Law 1971
 
-L.4/1971 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_1971_20210927>
+L.4/1971 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_4_1971_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
