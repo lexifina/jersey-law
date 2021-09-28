@@ -1,6 +1,6 @@
 # Agricultural Marketing (Jersey) Law 1953
 
-L.9/1953 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_9_1953_20210927>
+L.9/1953 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_9_1953_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -23,7 +23,6 @@ L.9/1953 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 16 | [art-016.md](art-016.md) | 16 Regulation of exportation of home-produced agricultural produce |
 | Art. 17 | [art-017.md](art-017.md) | 17 Regulation of internal marketing of home-produced agricultural produce |
 | Art. 18 | [art-018.md](art-018.md) | 18 Furnishing of information |
-| Art. 19 | [art-019.md](art-019.md) | 19 Provisions relating to Orders |
 | Art. 20 | [art-020.md](art-020.md) | 20 Publication of notices |
 | Art. 21 | [art-021.md](art-021.md) | 21 Payment of expenses |
 | Art. 22 | [art-022.md](art-022.md) | 22 Restrictions on disclosing information |
