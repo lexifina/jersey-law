@@ -1,6 +1,6 @@
 # Water (Jersey) Law 1972
 
-L.15/1972 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_15_1972_20210927>
+L.15/1972 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_15_1972_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -47,4 +47,4 @@ L.15/1972 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 41 | [art-041.md](art-041.md) | 41 Bye-laws |
 | Art. 42 | [art-042.md](art-042.md) | 42 Orders |
 | Art. 43 | [art-043.md](art-043.md) | 43 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

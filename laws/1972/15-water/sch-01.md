@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1(1), (3))
 Meaning of “wholesome water”
 1. In this Schedule and its Annex, unless the context otherwise requires -
