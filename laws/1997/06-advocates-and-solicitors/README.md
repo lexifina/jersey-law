@@ -1,6 +1,6 @@
 # Advocates and Solicitors (Jersey) Law 1997
 
-L.6/1997 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_6_1997_20210927>
+L.6/1997 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_6_1997_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
