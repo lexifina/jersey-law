@@ -1,6 +1,6 @@
 # Waste Management (Jersey) Law 2005
 
-L.7/2005 · official consolidation showing the law from 2020-01-31 · <https://www.jerseylaw.je/laws/current/l_7_2005_20210927>
+L.7/2005 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_7_2005_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
