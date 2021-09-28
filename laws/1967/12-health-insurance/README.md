@@ -1,6 +1,6 @@
 # Health Insurance (Jersey) Law 1967
 
-L.12/1967 · official consolidation showing the law from 2019-07-23 · <https://www.jerseylaw.je/laws/current/l_12_1967_20210927>
+L.12/1967 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_12_1967_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
