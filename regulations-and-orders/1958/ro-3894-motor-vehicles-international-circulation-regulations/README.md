@@ -1,6 +1,6 @@
 # Motor Vehicles (International Circulation) (Jersey) Regulations 1958
 
-R&O.3894 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_3894_20210927>
+R&O.3894 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/ro_3894>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,6 @@ R&O.3894 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Visitors’ driving permits Schedule |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Exemption from registration, and documents for vehicles brought temporarily into Jersey |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Public service vehicles brought temporarily into Jersey |
-| Reg. 6 | [reg-006.md](reg-006.md) | 6 General |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Application of Interpretation Law |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
