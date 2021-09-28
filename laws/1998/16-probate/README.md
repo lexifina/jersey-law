@@ -1,6 +1,6 @@
 # Probate (Jersey) Law 1998
 
-L.16/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_16_1998_20210927>
+L.16/1998 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_16_1998_20231026>
 
 | Provision | File | Heading |
 | --- | --- | --- |
