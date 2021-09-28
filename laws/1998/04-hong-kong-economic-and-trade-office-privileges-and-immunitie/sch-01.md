@@ -23,6 +23,6 @@ Exemptions and reliefs
 (b) to be made or imposed by the Agent of the Impôts.
 (2) An Order under paragraph 5 or 6 may make different provision for different cases (including different provision for different persons).
 (3) An Order under paragraph 5 or 6 shall be so framed that privileges and immunities conferred by them in relation to the Office or members of the Office and members of their families who form part of their households are no greater nor less in extent than those which, at the time the Orders take effect are conferred on the Office or members by or under the Hong Kong Economic and Trade Office Act 1996 of the United Kingdom.
-(4) The Subordinate Legislation (Jersey) Law 1960 shall apply to an Order made under paragraph 5 or 6.
+(4)
 Waiver
 8 A privilege or immunity which would apply by virtue of this Law shall not apply in any case in respect of which it is waived by the head of the Office.
