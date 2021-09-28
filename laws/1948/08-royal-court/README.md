@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1948_20210927>
+L.8/1948 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_8_1948_20210930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,6 +9,7 @@ L.8/1948 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 2 | [art-002.md](art-002.md) | 2 Qualifications for the office of Jurat |
 | Art. 3 | [art-003.md](art-003.md) | 3 Disqualifications for the office of Jurat |
 | Art. 4 | [art-004.md](art-004.md) | 4 Appointment of Jurats |
+| Art. 5 | [art-005.md](art-005.md) | 5 Meeting of Electoral College during period of risk of spreading Covid-19 |
 | Art. 6 | [art-006.md](art-006.md) | 6 Contested appointments |
 | Art. 7 | [art-007.md](art-007.md) | 7 Oath of Jurat |
 | Art. 8 | [art-008.md](art-008.md) | 8 Void appointments |
