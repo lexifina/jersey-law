@@ -1,6 +1,6 @@
 # Building Loans (Jersey) Law 1950
 
-L.23/1950 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_23_1950_20210927>
+L.23/1950 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_23_1950_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
