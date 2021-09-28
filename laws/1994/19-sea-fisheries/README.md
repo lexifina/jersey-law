@@ -1,6 +1,6 @@
 # Sea Fisheries (Jersey) Law 1994
 
-L.19/1994 · official consolidation showing the law from 2021-04-30 · <https://www.jerseylaw.je/laws/current/l_19_1994_20210927>
+L.19/1994 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_19_1994_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
