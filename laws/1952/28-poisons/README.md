@@ -1,6 +1,6 @@
 # Poisons (Jersey) Law 1952
 
-L.28/1952 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_28_1952_20210927>
+L.28/1952 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_28_1952_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,7 +13,6 @@ L.28/1952 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 12 | [art-012.md](art-012.md) | 12 Prohibition on sale of poisons by means of automatic machines |
 | Art. 13 | [art-013.md](art-013.md) | 13 Consultation with pharmacists |
 | Art. 14 | [art-014.md](art-014.md) | 14 Power of Minister to make Orders |
-| Art. 15 | [art-015.md](art-015.md) | 15 Provisions as to Orders |
 | Art. 16 | [art-016.md](art-016.md) | 16 Penalties |
 | Art. 17 | [art-017.md](art-017.md) | 17 Inspection |
 | Art. 18 | [art-018.md](art-018.md) | 18 Citation |
