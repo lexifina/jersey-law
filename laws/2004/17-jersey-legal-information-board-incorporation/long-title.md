@@ -1,4 +1,4 @@
 A LAW to incorporate the Jersey Legal Information Board and for connected purposes.
 WHEREAS the Jersey Legal Information Board was established as an unincorporated body in 1998;
-AND WHEREAS the membership of the Jersey Legal Information Board comprises the Bailiff, who is the chairman, the Attorney General, an elected member of the States appointed by the Minister for Treasury and Resources, the Judicial Greffier, the Greffier of the States and the Law Draftsman and such other members as they may from time to time co-opt;
+AND WHEREAS the membership of the Jersey Legal Information Board comprises the Bailiff, who is the chairman, the Attorney General, an elected member of the States appointed by the Minister for Treasury and Resources, the Judicial Greffier, the Greffier of the States and the Principal Legislative Drafter and such other members as they may from time to time co-opt;
 AND WHEREAS the objects of the Jersey Legal Information Board include the promotion of the accessibility of the written law and legal processes to the public and of an integrated and efficient legal system, through the use of information technology and by other means;
