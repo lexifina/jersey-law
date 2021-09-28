@@ -1,6 +1,6 @@
 # Police (Complaints and Discipline) (Jersey) Law 1999
 
-L.4/1999 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_1999_20210927>
+L.4/1999 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_4_1999_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
