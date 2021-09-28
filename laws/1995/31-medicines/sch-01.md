@@ -17,7 +17,7 @@ Division of sample
 (a) retain one part for future comparison; and
 (b) submit the other part for analysis or examination in accordance with the following provisions of this Schedule.
 10 Where a sample consists of substances or articles enclosed in unopened containers, and it appears to the officer that to open the containers and divide the contents into parts -
-(a) is not reasonable practicable; or
+(a) is not reasonably practicable; or
 (b) might affect the composition or impede the proper analysis or other examination of the contents,
 the officer may divide the sample into parts by dividing the containers into 3 lots without opening them.
 11 Article 109 shall have effect in relation to supplying any part of a sample in pursuance of the preceding paragraphs as it has effect in relation to the service of a document.
