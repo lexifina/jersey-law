@@ -1,6 +1,6 @@
 # Water Pollution (Jersey) Law 2000
 
-L.14/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_2000_20210927>
+L.14/2000 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_14_2000_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
