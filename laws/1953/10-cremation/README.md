@@ -1,6 +1,6 @@
 # Cremation (Jersey) Law 1953
 
-L.10/1953 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_10_1953_20210927>
+L.10/1953 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_10_1953>
 
 | Provision | File | Heading |
 | --- | --- | --- |
