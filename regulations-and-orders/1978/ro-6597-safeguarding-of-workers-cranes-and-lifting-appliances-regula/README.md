@@ -1,6 +1,6 @@
 # Safeguarding of Workers (Cranes and Lifting Appliances) (Jersey) Regulations 1978
 
-R&O.6597 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6597_20210927>
+R&O.6597 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/ro_6597>
 
 | Provision | File | Heading |
 | --- | --- | --- |
