@@ -1,6 +1,6 @@
 # Public Holidays and Bank Holidays (Jersey) Law 1951
 
-L.6/1951 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_6_1951_20210927>
+L.6/1951 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_6_1951_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
