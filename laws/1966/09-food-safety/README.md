@@ -1,6 +1,6 @@
 # Food Safety (Jersey) Law 1966
 
-L.9/1966 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_9_1966_20210927>
+L.9/1966 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_9_1966_20220811>
 
 | Provision | File | Heading |
 | --- | --- | --- |
