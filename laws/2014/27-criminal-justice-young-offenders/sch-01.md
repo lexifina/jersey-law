@@ -11,7 +11,12 @@ consTitution and procedures of Youth Court
 (1) If a member of the Youth Court (other than the chairman) before which any proceedings take place absents himself or herself, the member shall cease to act further in those proceedings and the Court shall be duly constituted to continue those proceedings while it consists of the chairman and the other remaining member.
 (2) Where the trial of any matter is adjourned after the defendant has been convicted and before the defendant is sentenced or otherwise dealt with, the Youth Court which deals with the defendant need not be composed of the same members as that which convicted the defendant.
 (3) If, amongst members of the Court which sentences or deals with an offender, there are any who were not sitting when the defendant was convicted, the Court shall before sentencing or otherwise dealing with the defendant, make such inquiry into the facts and circumstances of the case as will enable the members who were not sitting when the offender was convicted to be fully acquainted with those facts and circumstances.
-(4) For the purpose of dealing with a remand of a defendant or the adjournment of any matter or an application for bail, the Youth Court may be duly constituted by the chairman sitting alone.
+(4) The Youth Court may be duly constituted by the chairman sitting alone for the purposes of -
+(a) dealing with the remand of a defendant, the adjournment of any matter, or any application for, or in connection with, bail; or
+(b) exercising any function under the Criminal Procedure Law which does not involve -
+(i) any determination under Articles 25 to 27 of the Criminal Procedure Law (concerning the sending of a defendant for sentencing or trial before the Royal Court),
+(ii) the hearing of a defendant’s trial (including a hearing, if required, under Article 78 of that Law to determine facts disputed), or
+(iii) the sentencing of a defendant.
 3 Decisions of Youth Court
 (1) The decision of the Youth Court on any matter shall be by a majority of the members and shall be pronounced by the chairman, or another member at the request of the chairman, and no other member of the court shall make a separate pronouncement on the matter.
 (2) Where the chairman and one other member only attend and remain present during the sitting of the court, the decision of the court shall, in the event of disagreement between the chairman and that other member, be the decision of the chairman and shall be pronounced by the chairman.
