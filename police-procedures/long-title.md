@@ -1,0 +1,1 @@
+A LAW to make further provision in relation to the powers and duties of the police, persons in police or customs detention and criminal evidence; and for purposes connected therewith and incidental thereto.

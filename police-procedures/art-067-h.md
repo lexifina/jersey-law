@@ -1,0 +1,6 @@
+# 67H Representations other than by a person
+(1) Where a representation of any fact -
+(a) is made otherwise than by a person; but
+(b) depends for its accuracy on information supplied (directly or indirectly) by a person,
+the representation is not admissible in criminal proceedings as evidence of the fact unless it is proved that the information was accurate.
+(2) Paragraph (1) does not affect the operation of the presumption under customary law that a mechanical device has been properly set or calibrated.
