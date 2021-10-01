@@ -1,6 +1,6 @@
 # Criminal Justice (Compensation Orders) (Jersey) Law 1994
 
-L.4/1994 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_1994_20210930>
+L.4/1994 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_4_1994_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
