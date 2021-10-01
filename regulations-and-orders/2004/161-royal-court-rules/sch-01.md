@@ -11,7 +11,6 @@ Rule 9/2
 Rule 9/3
 Rule 9/4(8)
 Rule 10/1
-Rule 10/2
 Rule 10/4
 Rule 11/1
 Rule 11/4
