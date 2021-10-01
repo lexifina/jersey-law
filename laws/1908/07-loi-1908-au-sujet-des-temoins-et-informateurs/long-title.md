@@ -1,36 +1,12 @@
-LOI sur la Procédure dans les Causes Civiles, Criminelles et Mixtes (Témoins et Informateurs)
-CONSIDERANT qu’il serait dans l’intérêt de la Justice que l’information la plus complète dans toutes causes, soit civiles, criminelles ou mixtes, soit fournie aux personnes appelées à en décider -
+LOI sur la Procédure dans les Causes Civiles et Mixtes (Témoins et Informateurs)
+CONSIDERANT qu’il serait dans l’intérêt de la Justice que l’information la plus complète dans toutes causes, soit civiles ou mixtes, soit fournie aux personnes appelées à en décider -
 Dans les causes civiles ou mixtes, les parties elles-mêmes, et leurs parents, sans exception quelconque, seront admissibles comme témoins.
 Etant entendu néanmoins que l’époux ne pourra être forcé à révéler des communications à lui faites par son conjoint.
 Etant entendu néanmoins que le partenaire civil ne pourra être forcé à révéler des communications à lui faites par son partenaire civil.
-(1) Sous réserve des dispositions du présent Article, dans tout procès, les parents ou alliés que ce soit par mariage ou par la formation d’un partenariat civil d’une personne accusée ou poursuivie seront idoines et contraignables à être entendus comme témoins soit à charge ou à décharge.
-(2) Le prévenu lui-même sera idoine à être entendu comme témoin à décharge:
-Étant entendu -
-(a) qu’un prévenu ne pourra être appelé comme témoin qu’à sa requête;
-(b) qu’un prévenu appelé comme témoin pourra être questionné quoique les réponses aux questions posées puissent être de nature à l’incriminer dans l’infraction dont il est accusé;
-(c) qu’un prévenu appelé comme témoin ne pourra être appelé à répondre à une question tendant à démontrer qu’il a commis ou qu’il a été accusé d’avoir commis, ou qu’il a subi une condamnation pour, une infraction autre que celle dont il se trouve présentement accusé, ou qu’il jouit d’une mauvaise réputation, à moins -
-(i) que la preuve qu’il a commis ou subi une condamnation pour telle autre infraction ne soit admissible comme preuve qu’il est coupable de l’infraction dont il est actuellement accusé,
-(ii) qu’il n’ait personnellement ou par l’entremise de son avocat posé des questions aux témoins à charge tendant à démontrer qu’il jouit d’une bonne réputation, ou qu’il n’ait déposé à cet effet, ou que la défense ne soit de nature à révoquer en doute la bonne réputation du plaignant ou des témoins à charge, ou
-(iii) qu’il n’ait déposé contre une autre personne accusée dans le même procès.
-(3) Dans tout procès, la femme ou le mari du prévenu ou le partenaire civil du prévenu sera idoine -
-(a) sous réserve des dispositions de l’alinéa (6) de cet Article, à être entendu comme témoin à charge; et
-(b) à être entendu comme témoin à décharge ou sur l’instance d’aucune autre personne accusée dans le même procès.
-(4) Dans tout procès, la femme ou le mari du prévenu ou le partenaire civil du prévenu sera, sous réserve des dispositions de l’alinéa (6) de cet Article, contraignable à être entendu comme témoin à décharge.
-(5) Dans tout procès, la femme ou le mari du prévenu sera, sous réserve des dispositions de l’alinéa (6) de cet Article, contraignable à être entendu comme témoin à charge ou sur l’instance d’aucune autre personne accusée dans le même procès à condition que l’accusation s’agit -
-(a) d’un assaut sur, ou d’une blessure faite, ou d’un menace d’icelle porté, soit -
-(i) à la femme ou mari du prévenu ou le partenaire civil du prévenu, soit
-(ii) à une personne âgée au temps matériel de moins de dix-huit ans;
-(b) d’une infraction à caractère sexuel vers une personne âgée au temps matériel du moins dudit âge;
-(c) d’un attentat ou d’un complot de commettre ou de l’encouragement, de l’assistance, de l’incitation, ou du conseil à, ou de l’occasionnement, d’une infraction visée au sous-alinéa (a) ou au sous alinéa (b) de cet alinéa.
-(6) En cas d’une accusation d’une infraction portée conjointement contre des époux, ou contre les deux partenaires d’un partenariat civil, ni l’un ni l’autre des époux ou des partenaires civils (selon le cas) ne sera dans le procès ni idoine ni contraignable en vertu du sous-alinéa (3)(a) ou de l’alinéa (4) ou (5) de cet Article à être entendu comme témoin à l’égard de ladite accusation à moins que cet époux ou ce partenaire civil (selon le cas) ne soit pas ou ne soit plus, susceptible d’être convaincu de ladite infraction dans le procès par suite d’avoir plaidé coupable ou pour toute autre raison.
-(7) Dans tout procès, une personne qui a été mais qui n’est plus mariée au prévenu, ou qui a été mais qui n’est plus le partenaire civil du prévenu, sera idoine et contraignable à être entendu comme témoin comme si cette personne et le prévenu n’ont jamais été mariés, ou n’ont jamais été partenaires d’un partenariat civil.
-(8) Si, dans un procès, l’âge d’une personne en aucun temps est pértinent aux besoins de l’alinéa (5) de cet Article, son âge au temps matériel sera censé aux fins dudit alinéa être l’âge que la cour croit qu’il avait en ce temps là.
-(9) Aux fins du sous-alinéa (5)(b) de cet Article, une infraction à caractère sexuel comprend tout attentat ou outrage à la pudeur ou aux moeurs que l’infraction soit établie ou par la Coûtume ou par une Loi et, afin d’éviter l’incertitude, s’étend à une infraction contre la Loi dite Protection of Children (Jersey) Law 1994, telle que ladite Loi a été modifiée.
-(10) Le défaut du prévenu ou de la femme ou du mari du prévenu ou du partenaire civil du prévenu de témoigner ne sera rendu susceptible d’aucun commentaire adverse par la Partie Publique.
-Toute personne condamnée pour une infraction quelconque, qu’elle ait subi la peine prononcée contre elle ou non, sera admise à déposer comme témoin ou informateur devant toutes Cours et dans toutes procédures, soit civiles, criminelles ou mixtes.
-Nul témoin ne pourra être récusé pour cause d’intérêt ou d’inimitié dans aucune cause, soit civile, criminelle ou mixte. Il pourra, néanmoins, être questionné sur l’intérêt qu’il pourrait avoir dans l’issue de la cause ou sur l’inimitié que l’on prétend exister entre lui et une ou plusieurs des parties.
-Les dispositions des Articles précédents, s’appliqueront à toutes dépositions prises oralement ou par écrit, devant toutes Cours et dans toutes procédures civiles, criminelles ou mixtes reconnues par les Lois et Coûtumes de cette Ile.
+Toute personne condamnée pour une infraction quelconque, qu’elle ait subi la peine prononcée contre elle ou non, sera admise à déposer comme témoin ou informateur devant toutes Cours et dans toutes procédures, soit civiles ou mixtes.
+Nul témoin ne pourra être récusé pour cause d’intérêt ou d’inimitié dans aucune cause, soit civile ou mixte. Il pourra, néanmoins, être questionné sur l’intérêt qu’il pourrait avoir dans l’issue de la cause ou sur l’inimitié que l’on prétend exister entre lui et une ou plusieurs des parties.
+Les dispositions des Articles précédents, s’appliqueront à toutes dépositions prises oralement ou par écrit, devant toutes Cours et dans toutes procédures civiles ou mixtes reconnues par les Lois et Coûtumes de cette Ile.
 Après qu’une cause civile aura été mise en preuve, une ou plusieurs des parties intéressées pourront, en s’adressant au Nombre Inférieur de la Cour, obtenir un Acte autorisant une ou plusieurs personnes à rédiger la déposition par serment d’un ou de plusieurs témoins qui se trouvent en dehors de la juridiction de la Cour Royale. La Cour donnera les directions qui lui paraîtront justes et raisonnables, quant à la manière de la mise à exécution de son Acte, et quant à la convocation des parties à la cause.
 Une déposition prise en dehors de la juridiction de la Cour Royale sera sous le seing de la personne ou des personnes autorisées par la Cour en vertu du présent Article à prendre ladite déposition; et elle devra être logée entre les mains du Greffier de la Cour Royale dans le délai fixé par la Cour. Cette déposition sera reçue comme preuve dans la cause par rapport à laquelle la Cour aura accordé l’autorisation.
 Les dispositions de cette Loi qui s’appliquent aux causes civiles s’appliqueront aux actions en Clameur de Haro. Toute autre cause en ajonction et toute action pour la protection des revenus des Impôts sera censée cause criminelle aux fins de la présente Loi.
-La présente Loi s’appliquera à toutes causes civiles et à toute poursuite criminelle soit pour crime, délit ou contravention.
+La présente Loi s’appliquera à toutes causes soit civiles ou mixtes.
