@@ -1,1 +1,1 @@
-A LAW to provide in criminal proceedings for formal admissions of facts; for matters relating to the admissibility of expert evidence; for the reading of written statements and depositions as evidence; and for other purposes
+A LAW to provide in criminal proceedings for formal admissions of facts; for matters relating to the admissibility of expert evidence; for the reading of written statements as evidence; and for other purposes

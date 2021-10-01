@@ -1,6 +1,6 @@
 # Criminal Justice (Evidence and Procedure) (Jersey) Law 1998
 
-L.42/1998 · official consolidation showing the law from 2019-10-31 · <https://www.jerseylaw.je/laws/current/l_42_1998_20210930>
+L.42/1998 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_42_1998>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,10 +10,9 @@ L.42/1998 · official consolidation showing the law from 2019-10-31 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Admissions of fact |
 | Art. 4 | [art-004.md](art-004.md) | 4 Effect of admission |
 | Art. 5 | [art-005.md](art-005.md) | 5 Withdrawal of admission |
-| Art. 7 | [art-007.md](art-007.md) | 7 Notice of expert evidence in Royal Court |
+| Art. 7 | [art-007.md](art-007.md) | 7 Notice of expert evidence |
 | Art. 8 | [art-008.md](art-008.md) | 8 Expert reports |
 | Art. 9 | [art-009.md](art-009.md) | 9 Admissibility of written statements as evidence |
-| Art. 10 | [art-010.md](art-010.md) | 10 Admissibility of depositions as evidence |
 | Art. 11 | [art-011.md](art-011.md) | 11 Reading of statement |
 | Art. 12 | [art-012.md](art-012.md) | 12 Admissibility of exhibits |
 | Art. 13 | [art-013.md](art-013.md) | 13 Oral evidence |
@@ -22,5 +21,5 @@ L.42/1998 · official consolidation showing the law from 2019-10-31 · <https://
 | Art. 14B | [art-014-b.md](art-014-b.md) | 14B Abolition of requirement for warning about uncorroborated evidence |
 | Art. 15 | [art-015.md](art-015.md) | 15 False statements |
 | Art. 16 | [art-016.md](art-016.md) | 16 Service |
-| Art. 17 | [art-017.md](art-017.md) | 17 Rules of court |
+| Art. 17 | [art-017.md](art-017.md) | 17 Criminal Procedure Rules |
 | Art. 18 | [art-018.md](art-018.md) | 18 Citation |

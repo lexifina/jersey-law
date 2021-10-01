@@ -8,7 +8,4 @@
 (a) is applicable at the trial of a person before the Magistrate; and
 (b) corresponds to the requirement mentioned in paragraph (1),
 is hereby abrogated.
-(4) An abrogation by paragraph (1) or (3) shall not have effect in relation to -
-(a) any trial before the Royal Court or the Magistrate; or
-(b) any proceedings before the Magistrate under Article 19 of the Loi (1864) réglant la procédure criminelle,
-being a trial or proceedings that began before this Article came into force.
+(4)
