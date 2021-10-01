@@ -1,6 +1,6 @@
 # Extradition (Jersey) Law 2004
 
-L.24/2004 · official consolidation showing the law from 2019-07-24 · <https://www.jerseylaw.je/laws/current/l_24_2004_20210930>
+L.24/2004 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_24_2004_20220331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
