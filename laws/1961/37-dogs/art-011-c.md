@@ -7,4 +7,4 @@
 and, where the Magistrate’s Court refuses to give the direction in respect of an order, no further representations in respect of that order shall be entertained if made before the end of the period of one year beginning with the date of the refusal.
 (4) Where the Magistrate’s Court refuses to give a direction terminating the disqualification, the disqualified person may, within the period of 14 days from the date of the refusal, or such longer period as the Royal Court may allow, appeal against the refusal to the Royal Court.
 (5) Part 1 of the Civil Proceedings (Jersey) Law 1956 shall apply to the hearing of proceedings under this Article and Article 11B as if references in that Law to the Petty Debts Court were references to the Magistrate’s Court.
-(6) Part 5 of the Magistrate’s Court (Miscellaneous Provisions) (Jersey) Law 1949, shall not apply in relation to any order made by the Magistrate’s Court under this Article or Article 11B.
+(6)

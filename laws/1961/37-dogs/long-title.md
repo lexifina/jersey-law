@@ -1,2 +1,2 @@
-A LAW relating to dogs
+A LAW relating to dogs.
 INTRODUCTORY
