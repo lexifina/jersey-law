@@ -1,6 +1,6 @@
 # Repatriation of Prisoners (Jersey) Law 2012
 
-L.6/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_6_2012_20210930>
+L.6/2012 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_6_2012_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,6 +20,5 @@ L.6/2012 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 13 | [art-013.md](art-013.md) | 13 Expenses of repatriation |
 | Art. 14 | [art-014.md](art-014.md) | 14 Certificates |
 | Art. 15 | [art-015.md](art-015.md) | 15 Regulations |
-| Art. 16 | [art-016.md](art-016.md) | 16 Rules of Court |
 | Art. 17 | [art-017.md](art-017.md) | 17 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
