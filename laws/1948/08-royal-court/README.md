@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_8_1948_20210930>
+L.8/1948 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_8_1948_20211014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ L.8/1948 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 13 | [art-013.md](art-013.md) | 13 Rules of Court |
 | Art. 14 | [art-014.md](art-014.md) | 14 Family division |
 | Art. 15 | [art-015.md](art-015.md) | 15 Powers of the Bailiff and Jurats |
+| Art. 15A | [art-015-a.md](art-015-a.md) | 15A Quorum of the Inferior number |
 | Art. 16 | [art-016.md](art-016.md) | 16 Quorum of the Superior Number |
 | Art. 17 | [art-017.md](art-017.md) | 17 Bailiff as sole judge |
 | Art. 18 | [art-018.md](art-018.md) | 18 References to the Superior Number of the Royal Court |
