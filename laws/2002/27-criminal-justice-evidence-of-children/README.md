@@ -1,6 +1,6 @@
 # Criminal Justice (Evidence of Children) (Jersey) Law 2002
 
-L.27/2002 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2002_20210930>
+L.27/2002 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_27_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
