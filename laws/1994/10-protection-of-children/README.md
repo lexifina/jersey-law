@@ -1,6 +1,6 @@
 # Protection of Children (Jersey) Law 1994
 
-L.10/1994 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_10_1994_20210930>
+L.10/1994 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_10_1994>
 
 | Provision | File | Heading |
 | --- | --- | --- |
