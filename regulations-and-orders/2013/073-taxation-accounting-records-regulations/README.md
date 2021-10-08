@@ -1,6 +1,6 @@
 # Taxation (Accounting Records) (Jersey) Regulations 2013
 
-R&O.73/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_73_2013_20211007>
+R&O.73/2013 · official consolidation showing the law from 2021-10-08 · <https://www.jerseylaw.je/laws/current/ro_73_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
