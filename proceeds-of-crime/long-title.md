@@ -1,0 +1,1 @@
+A LAW to provide for the confiscation and forfeiture of the proceeds of crime, to establish new offences of money laundering and new procedures to forestall, prevent and detect money laundering, and to enable the enforcement in Jersey of overseas confiscation orders, and for connected purposes
