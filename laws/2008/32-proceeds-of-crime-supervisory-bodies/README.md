@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_32_2008_20211007>
+L.32/2008 · official consolidation showing the law from 2021-10-08 · <https://www.jerseylaw.je/laws/current/l_32_2008_20211012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ L.32/2008 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 6 | [art-006.md](art-006.md) | 6 Designation of supervisory bodies |
 | Art. 7 | [art-007.md](art-007.md) | 7 Guidance, directions and accountability |
 | Art. 8 | [art-008.md](art-008.md) | 8 General powers of supervisory bodies |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Duty of supervisory body to use a risk-based approach |
 | Art. 9 | [art-009.md](art-009.md) | 9 Limitation of liability |
 | Art. 10 | [art-010.md](art-010.md) | 10 Prohibition of carrying on unauthorized specified Schedule 2 business |
 | Art. 11 | [art-011.md](art-011.md) | 11 Application for appropriate level of registration and deemed registration |
