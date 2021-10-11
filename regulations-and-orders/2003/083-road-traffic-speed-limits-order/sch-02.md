@@ -70,6 +70,7 @@ Old Road
 Rue de la Croix
 Union Road
 ST. HELIER
+La Grande Route de St. Jean (from its northern boundary with the Parish of Trinity to a point 19 yards south of La Ruette Pinel)
 La Rue des Canons
 La Rue de Mon Sejour
 La Rue de Trachy (from La Route du Mont Cochon to La Route de St. Aubin)
@@ -115,6 +116,8 @@ La Rue le Masurier, from St. Saviour’s Road to the boundary with the parish of
 the boundary with the parish of St. Saviour, from la Rue le Masurier to St. Marks Road,
 except for Gloucester Street (from The Esplanade to the southwestern junction with The Parade), New St. James Place, Pier Road, St. James Mews and The Parade (from Elizabeth Place to Gloucester Street).
 ST. JOHN
+La Grande Route de St. Jean (from the southern boundary with the Parish of Trinity to a point 115 yards north of La Rue des Houguettes)
+La Rue des Servais (from La Grande Route de St. Jean to the north western boundary of the property known as Pine Cottage)
 The estate roads at La Ville des Chênes
 ST. LAWRENCE
 La Rue de Haut
@@ -171,3 +174,10 @@ Plat Douet Road (from La Rue des Près to Bagot Road)
 Rectory Lane
 Sunshine Avenue
 The estate roads at Wellington Park.
+TRINITY
+La Grande Route de St. Jean
+La Rue du Carrefour
+La Rue du Mont Pellier
+La Rue du Travers
+La Verte Rue (from La Rue ès Picots to La Rue du Catel)
+Les Ruelles

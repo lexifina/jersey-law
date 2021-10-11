@@ -77,7 +77,7 @@ La Rue de la Croiserie
 La Rue de la Roulerie (from Well Lane to the boundary with the parish of Trinity)
 Victoria Avenue
 ST. JOHN
-La Grande Route de St. Jean (from the southern boundary with the Parish of Trinity to a point 9 yards north of the junction with La Rue de Bechet)
+La Grande Route de St. Jean (from a point 115 yards north of La Rue des Houguettes to a point 9 yards north of La Rue de Bechet)
 La Mare Ballam (from La Route de Mont Mado to La Route de St. Jean)
 La Route des Issues (from La Mare Ballam to a point 210 yards west of La Rue des Courts Champs)
 La Route de Mont Mado (from La Mare Ballam to La Rue de la Porte)
@@ -212,11 +212,9 @@ Stopford Road
 Les Varines
 Victoria Road
 TRINITY
-La Grande Route de St. Jean
 La Route de la Trinité (from its junction with La Rue ès Picots to a point 49 yards south of that junction)
 La Rue D’Asplet
 La Rue du Boulay (from its junction with La Rue ès Picots to a point 72 yards south of Le Chemin D’Olivet)
-La Rue du Carrefour
 La Rue des Croix (from La Rue du Presbytère to La Rue Au Sellier)
 La Rue Guerdain (from its junction with La Rue D’Asplet to a point 60 yards north of that junction)
 La Rue de La Monnaie (from La Rue D’Asplet to La Rue de la Fontaine)
@@ -224,4 +222,3 @@ La Rue ès Picots (from La Route de la Trinité to a point 186 yards east of La 
 La Rue du Presbytère
 La Rue Au Sellier (from its junction with La Rue D’Asplet to a point 28 yards north of that junction)
 La Ruette de la Ville à l’Evêque (from a point 24 yards north of its junction with La Rue de la Monnaie)
-La Verte Rue (from La Rue ès Picots to a point 22 yards south of La Rue du Carrefour)

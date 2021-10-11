@@ -1,6 +1,6 @@
 # Road Traffic (Speed Limits) (Jersey) Order 2003
 
-R&O.83/2003 · official consolidation showing the law from 2020-12-14 · <https://www.jerseylaw.je/laws/current/ro_83_2003_20211010>
+R&O.83/2003 · official consolidation showing the law from 2021-10-11 · <https://www.jerseylaw.je/laws/current/ro_83_2003_20211105>
 
 | Provision | File | Heading |
 | --- | --- | --- |
