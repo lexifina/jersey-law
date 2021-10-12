@@ -59,9 +59,9 @@ failing to provide a specimen for analysis or a laboratory test;
 Article 30B(4)
 -
 failing to give permission for a laboratory test of specimen of blood;
-Article 52
+Article 52(1) and (3)
 -
-failure to stop after an accident;
+failure to stop or report after certain accidents
 Article 53
 -
 taking vehicle without owner’s consent or authority where the vehicle concerned is a motor vehicle;
