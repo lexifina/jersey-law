@@ -5,3 +5,4 @@
 (b) the policies, internal controls and procedures associated with the supervised person or supervised business, as identified under paragraph (3) by the supervisory body’s assessment of the supervised person’s or supervised business’s risk profile;
 (c) the money laundering or terrorist financing risks present in the jurisdiction in which the supervised person or supervised business is based;
 (d) any other characteristic of the supervised person or supervised business that the supervisory body reasonably considers to be relevant.
+(3) In devising a risk profile for a supervised person or a supervised business, the supervisory body must take account of the International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation as published from time to time by the international body known as the Financial Action Task Force.
