@@ -1,6 +1,6 @@
 # Unlawful Public Entertainments (Jersey) Regulations 2019
 
-R&O.60/2019 · official consolidation showing the law from 2021-04-29 · <https://www.jerseylaw.je/laws/current/ro_60_2019_20211014>
+R&O.60/2019 · official consolidation showing the law from 2021-10-15 · <https://www.jerseylaw.je/laws/current/ro_60_2019_20220429>
 
 | Provision | File | Heading |
 | --- | --- | --- |
