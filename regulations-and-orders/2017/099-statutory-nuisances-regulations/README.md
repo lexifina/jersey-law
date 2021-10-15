@@ -1,6 +1,6 @@
 # Statutory Nuisances (Jersey) Regulations 2017
 
-R&O.99/2017 · official consolidation showing the law from 2021-04-29 · <https://www.jerseylaw.je/laws/current/ro_99_2017_20211014>
+R&O.99/2017 · official consolidation showing the law from 2021-10-15 · <https://www.jerseylaw.je/laws/current/ro_99_2017_20220429>
 
 | Provision | File | Heading |
 | --- | --- | --- |
