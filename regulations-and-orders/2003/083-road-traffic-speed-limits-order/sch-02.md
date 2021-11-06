@@ -154,26 +154,51 @@ Rue du Moulin de Tesson
 La Rue du Presbytere
 The estate roads at La Ville de l’Eglise
 ST. SAVIOUR
+Albert Road
+Aubin Lane
+Bagatelle Lane
+Beach Road
+Bel Air Lane
 Belvedere Hill
-La Chasse Brunet
-The estate roads at Les Cinq Chênes
-Le Clos Gosset
-Le Clos de Paumelle
-La Croix de Bois
-The estate roads at Le Geyt Flats
+Claremont Road
+Dicq Road
+Dunell Road
+Elizabeth Street
+Fountain Lane
 The estate roads at Grasett Park
-Grands Vaux (from Langley Park northward to the boundary with the parish of St. Helier)
-Highlands Lane (from Highlands College to Wellington Road)
-Le Jardin a Pommiers and the unnamed residential roads that branch from it
+Highlands Lane
+James Road
+La Chasse Brunet
+La Croix de Bois
+La Grève d’Azette
+La Pointe
+La Rue à la Dame
+La Rue de Deloraine
+La Rue de La Hougette
+La Rue de Patier
+La Rue des Friquettes
+La Rue du Froid Vent (from Wellington Road to St. Saviour’s Hill)
+La Rue St. Thomas
+La Ruette de Patier
+La Ruette des Ecorvées
+La Ruette du Sacrement
 Langley Avenue
 Langley Park
+Le Clos de Paumelle
+Le Clos Gosset
+The estate roads at Le Geyt Flats
+The estate roads at Les Cinq Chênes
+Les Grands Vaux (between its boundary with St. Helier at the point that is 93 yards south of Stafford Lane and a point 33 yards south of Langley Park)
+Le Jardin à Pommiers and the unnamed residential roads that branch from it
 Little Sunshine Avenue
 Maison St. Louis
-La Rue de Patier
+Mary Street
 Plat Douet Road (from La Rue des Près to Bagot Road)
 Rectory Lane
 Sunshine Avenue
-The estate roads at Wellington Park.
+Swan Farm Lane
+Valley Road
+The estate roads at Wellington Park
 TRINITY
 La Grande Route de St. Jean
 La Rue du Carrefour
