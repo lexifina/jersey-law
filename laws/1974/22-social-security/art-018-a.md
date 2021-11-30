@@ -5,7 +5,9 @@
 (2) The carer must -
 (a) satisfy such conditions as to residency and presence in Jersey as may be prescribed;
 (b) satisfy the relevant contribution conditions;
-(c) not have earnings, for any prescribed period, that exceed such amount as may be prescribed; and
+(c) for any prescribed period -
+(i) not undertake paid work in excess of a number of hours which may be prescribed, or
+(ii) not have earnings that exceed such amount as may be prescribed;
 (d) not receive earnings for the provision of such care to the cared for person.
 (3) The cared for person must -
 (a) meet the criteria for -
@@ -19,4 +21,4 @@
 (6) Where, apart from this paragraph, 2 or more carers would be entitled for the same day to home carer’s allowance in respect of the same cared for person, one of them only shall be entitled as determined in the prescribed manner.
 (7) The Minister -
 (a) shall prescribe, for the purposes of paragraph (1)(a), the circumstances in which a carer is to be treated as regularly and substantially engaged in caring for a cared for person; and
-(b) may prescribe earnings that are to be disregarded for the purposes of paragraph (2)(c) or (d).
+(b) may prescribe earnings or working hours that are to be disregarded for the purposes of paragraph (2)(c) or (d).
