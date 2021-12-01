@@ -1,6 +1,6 @@
 # Lodging Houses (General Provisions) (Jersey) Order 1962
 
-R&O.4387 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_4387_20211130>
+R&O.4387 · official consolidation showing the law from 2021-12-01 · <https://www.jerseylaw.je/laws/current/ro_4387_20221130>
 
 | Provision | File | Heading |
 | --- | --- | --- |
