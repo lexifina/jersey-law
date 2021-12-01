@@ -140,4 +140,9 @@ Quinalbarbitone.
 7 Any steroeoisomeric form of a substance specified in paragraph 6.
 8 Any salt of a substance specified in paragraph 6 or paragraph 7.
 9 Any preparation or other product containing a substance or product specified in any of paragraphs 6 to 8, not being a preparation specified in Schedule 5.
-10 A controlled drug constituting or contained in a medicinal product, if and to the extent that the drug and the medicinal product fall within paragraph 5 of Part 2 of the Schedule to the Misuse of Drugs (Designation) (Jersey) Order 1989.
+10 A cannabis based product for medicinal use in humans, being a preparation or other product which -
+(a) is or contains cannabis, cannabis resin, cannabinol or a cannabinol derivative (not being dronabinol or its stereoisomers);
+(b) is produced for medicinal use in humans; and
+(c) is -
+(i) a medicinal product which is manufactured in compliance with Commission Directive 2003/94/EC of 8 October 2003 laying down the principles and guidelines of good manufacturing practice in respect of medicinal products for human use and investigational medicinal products for human use (OJ L 262, 14.10.2003, p. 22), as amended, substituted, extended or applied from time to time by any other EU provision, or as that Regulation otherwise has effect in the EU from time to time by virtue of any judgment of the European Court, or
+(ii) a substance or preparation for use as an ingredient in, or in the production of an ingredient of, a medicinal product which is manufactured in compliance with that Directive.
