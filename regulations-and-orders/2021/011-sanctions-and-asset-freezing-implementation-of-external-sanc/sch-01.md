@@ -32,8 +32,8 @@ The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020
 regulation 10
 none
 Burundi
-The Burundi (Sanctions) (EU Exit) Regulations 2019
-2019/1142
+The Burundi (Sanctions) Regulations 2021
+2021/1404
 regulation 10
 none
 Central African Republic
