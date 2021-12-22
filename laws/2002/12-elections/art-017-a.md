@@ -1,6 +1,6 @@
 # 17A Electoral administrator for parish
 (1) Subject to this Article, the Connétable of a parish is the electoral administrator for the parish.
-(2) If the Connétable of a parish is proposed as a candidate in the election of a Connétable or Deputy for the parish, or of a Senator, the person described in paragraph (4) shall be the electoral administrator for the parish -
+(2) If the Connétable of a parish is proposed as a candidate in the election of a Connétable or Deputy for the parish, the person described in paragraph (4) shall be the electoral administrator for the parish -
 (a) from the time when the Connétable is proposed as a candidate in the election;
 (b) until -
 (i) the Connétable is, in accordance with Article 21(1), taken to have been elected in the election, or

@@ -9,3 +9,4 @@ is 1% or less of the total number of votes cast in the election (and where more 
 is 1% or less of the number in sub-paragraph (b) (and where more than one person is elected, the ‘person elected’ for the purposes of sub-paragraph (b) means the person with the lowest number of votes).
 (3) A recount requested in an election for one or more Senators shall be conducted by the Judicial Greffier in accordance with Article 52B.
 (4) A recount requested in any other public election shall be conducted by the principal Autorisé in accordance with Article 52C.
+(5) Neither the Judicial Greffier nor a principal Autorisé is required to conduct more than one recount upon one or more requests being made for a recount of the results in a public election.

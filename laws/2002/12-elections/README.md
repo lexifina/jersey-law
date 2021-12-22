@@ -1,11 +1,12 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_2002_20211221>
+L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://www.jerseylaw.je/laws/current/l_12_2002_20220119>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Long title | [long-title.md](long-title.md) | A LAW to make provision for the election of public officers in Jersey, and for other purposes |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
+| Art. 1A | [art-001-a.md](art-001-a.md) | 1A Electoral districts |
 | Art. 2 | [art-002.md](art-002.md) | 2 Entitlement to vote |
 | Art. 3 | [art-003.md](art-003.md) | 3 Voting where name omitted from electoral register |
 | Art. 4 | [art-004.md](art-004.md) | 4 Disqualification of certain offenders |
@@ -17,7 +18,7 @@ L.12/2002 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 7A | [art-007-a.md](art-007-a.md) | 7A Notice of registered voters |
 | Art. 8 | [art-008.md](art-008.md) | 8 Exclusion or removal of name from electoral register |
 | Art. 9 | [art-009.md](art-009.md) | 9 Application for name to be omitted from register |
-| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Senators, Deputies and Connétables |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Deputies and Connétables |
 | Art. 10 | [art-010.md](art-010.md) | 10 Appeals |
 | Art. 11 | [art-011.md](art-011.md) | 11 Electoral register to be available |
 | Art. 12 | [art-012.md](art-012.md) | 12 Electoral register in force for an election |
