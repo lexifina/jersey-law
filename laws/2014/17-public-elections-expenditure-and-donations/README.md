@@ -1,6 +1,6 @@
 # Public Elections (Expenditure and Donations) (Jersey) Law 2014
 
-L.17/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_17_2014_20211221>
+L.17/2014 · official consolidation showing the law from 2021-12-22 · <https://www.jerseylaw.je/laws/current/l_17_2014_20220119>
 
 | Provision | File | Heading |
 | --- | --- | --- |
