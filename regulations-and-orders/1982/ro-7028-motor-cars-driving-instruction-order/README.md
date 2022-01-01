@@ -1,6 +1,6 @@
 # Motor Cars (Driving Instruction) (Jersey) Order 1982
 
-R&O.7028 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_7028_20211231>
+R&O.7028 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_7028_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
