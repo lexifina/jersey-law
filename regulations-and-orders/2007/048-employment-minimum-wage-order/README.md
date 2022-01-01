@@ -1,6 +1,6 @@
 # Employment (Minimum Wage) (Jersey) Order 2007
 
-R&O.48/2007 · official consolidation showing the law from 2020-04-01 · <https://www.jerseylaw.je/laws/current/ro_48_2007_20211231>
+R&O.48/2007 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_48_2007_20221031>
 
 | Provision | File | Heading |
 | --- | --- | --- |
