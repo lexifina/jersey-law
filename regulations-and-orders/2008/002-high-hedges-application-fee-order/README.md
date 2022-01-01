@@ -1,6 +1,6 @@
 # High Hedges (Application Fee) (Jersey) Order 2008
 
-R&O.2/2008 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_2_2008_20211231>
+R&O.2/2008 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_2_2008_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
