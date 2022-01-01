@@ -2,113 +2,113 @@
 PART 1
 (Article 2)
 amounts and rates of charges for providing technical fire safety advice
-Action
+Action required in order to provide the technical fire safety advice described in Article 2
 Charge
-Where the provision of technical fire safety advice described in Article 2 requires the use of the following appliances and personnel of the Fire and Rescue Service -
-(a)
-light portable pump and 1 operator
-(a) £168
-(b)
-light appliance and crew (1 to 2 personnel)
-(b) £250
-(c)
-standard or special appliance and crew (1 to 2 personnel)
-(c) £266
-(d)
-standard appliance or rescue boat and crew (4 to 5 personnel)
-(d) £337
-(e)
-aerial ladder platform and crew (2 personnel)
-(e) £417
-Note: Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the vehicle and personnel leaving the fire station and ending at the time of return of the vehicle and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
-Where the provision of technical fire safety advice described in Article 2 requires the use of the following personnel of the Fire and Rescue Service -
-(a)
-any interview with Fire and Rescue Service officers at the rank of station manager or above
-(a) £126 per hour per officer interviewed
-(b)
-any interview with Fire and Rescue Service officers below the rank of station manager
-(b) £93 per hour per officer interviewed
-Note: the minimum charge for Fire and Rescue Service personnel services is for 1 hour, and the service is charged per quarter hour thereafter. Interview includes an interview in connection with an investigation, research or any other purpose.
-Where the provision of technical fire safety advice described in Article 2 requires the use of the Fire and Rescue Service training room and training facilities -
-(a) £186 for over 4 hours use of training room in a day
-(b) £126 for up to 4 hours use of training room in a day
-Where the provision of technical fire safety advice described in Article 2 requires the use of the Fire and Rescue Service personnel and administrative services for the provision of documents, photographs, tapes, videos or other similar recordings -
-(a)
-the provision of a copy of a fire report or other incident report
-(a) £623 per report
-(b)
-the provision of documents, photos, tapes, videos, or other similar recordings
-(b) £467
-Where the provision of technical fire safety advice described in Article 2 requires the Fire and Rescue Service to provide technical fire safety advice, other than training -
-(a)
-inspection of any commercial, trade, professional or public premises, and the provision of a fire safety report in respect of such inspection
-(a) £410 for premises with a floor area of 100 square metres or less, or £4.10 per square metre for premises with a floor area of more than 100 square metres
-(b)
-technical fire safety advice or consultation
-(b) £151
-Note: the charge for providing technical fire safety advice or consultation is per hour. The minimum charge is for 1 hour, and the service is charged per quarter hour thereafter. The charge applies in respect of preparation and research time as well as the time during which advice is given.
-(c)
-search of Fire and Rescue Service records to establish whether any material or information is held by the Fire and Rescue Service in respect of any premises
-(c) £467
-Note: the charge for a search of the Fire and Rescue Service records includes the cost of providing a report as to whether any material or information is held by the Service, and the nature of any such material or information, but excludes the provision of a fire or other incident report or any other documents held.
-Where the action is for the provision of training -
 1
-The provision of training at any premises of the Fire and Rescue Service by one or more personnel of the Fire and Rescue Service -
-1
-(a) per person -
-(a)
-(i) attending 1 course
-(i) £59
-(ii) attending 2 courses
-(ii) £118
-(iii) attending 3 courses
-(iii) £168
-(b) per group of 10 or 11 persons -
-(b)
-(i) attending 1 course
-(i) £594
-(ii) attending 2 courses
-(ii) £1,189
-(iii) attending 3 courses
-(iii) £1,681
+use of light portable pump and one operator
+£172
 2
-The provision of training at any premises not being premises of the Fire and Rescue Services by one or more personnel of the Fire and Rescue Service -
-2
-per 1 or 2 persons -
-(i) attending 1 course
-(i) £59
-(ii) attending 2 courses
-(ii) £118
-(iii) attending 3 courses
-(iii) £168
+use of light appliance and crew (one to 2 personnel)
+£256
 3
-Personnel charges for the preparation of bespoke training
-3 £126 per hour
-Note: The minimum charge for preparation of bespoke training is for 1 hour, and is charged per quarter hour thereafter. The charge applies in respect of research and preparation time and is in addition to the charge for the delivery of any bespoke training as set out in paragraphs 1 and 2.
+use of standard or special appliance and crew (one to 2 personnel)
+£272
+4
+use of standard appliance or rescue boat and crew (4 to 5 personnel)
+£345
+5
+use of aerial ladder platform and crew (2 personnel)
+£427
+6
+any interview with Fire and Rescue Service officers at the rank of station manager or above
+£129 per hour per officer interviewed
+7
+any interview with Fire and Rescue Service officers below the rank of station manager
+£95 per hour per officer interviewed
+8
+use of Fire and Rescue Service training room and training facilities for over 4 hours in a day
+£186
+9
+use of Fire and Rescue Service training room and training facilities for up to (and including) 4 hours in a day
+£129
+10
+provision of a copy of a fire report or other incident report
+£637 per report
+11
+provision of documents, photos, tapes, videos or other similar recordings
+£478
+12
+inspection of any commercial, trade, professional or public premises, and the provision of a fire safety report in respect of such inspection
+£420 for premises with a floor area of 100 square metres or less, or £4.20 per square metre for premises with a floor area of more than 100 square metres
+13
+technical fire safety or consultation
+£154
+14
+search of Fire and Rescue Service records to establish whether any material or information is held by the Fire and Rescue Service in respect of any premises
+£478
+15
+provision of training at any premises of the Fire and Rescue Services by one or more personnel of the Fire and Rescue Service -
+(a) for a person -
+(i) attending one course
+(ii) attending 2 courses
+(iii) attending 3 courses
+£60
+£120
+£172
+(b) for a group or 10 of 11 persons -
+(i) attending one course
+(ii) attending 2 courses
+(iii) attending 3 courses
+£608
+£1,217
+£1,723
+16
+provision of training at any premises not being premises of the Fire and Rescue Service by one or more personnel of the Fire and Rescue Service, for one or 2 persons -
+attending one course
+attending 2 courses
+attending 3 courses
+£60
+£120
+£172
+17
+preparation of bespoke training
+£132 per hour
+Notes:
+Items 1-5
+Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the vehicle and personnel leaving the fire station and ending at the time of return of the vehicle and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
+Items 6-7
+The minimum charge for Fire and Rescue Service personnel services is for one hour, and the service is charged per quarter hour thereafter. Interview includes an interview in connection with an investigation, research or any other purpose.
+Items 12-13
+The charge for providing technical fire safety advice or consultation is per hour. The minimum charge is for one hour, and the service is charged per quarter hour thereafter. The charge applies in respect of preparation and research time as well as the time during which advice is given.
+Item 14
+The charge for a search of the Fire and Rescue Service records includes the cost of providing a report as to whether any material or information is held by the Service, and the nature of any such material or information, but excludes the provision of a fire or other incident report or any other documents held.
+Item 17
+The minimum charge for preparation of bespoke training is one hour, and is charged per quarter hour thereafter. The charge applies in respect of research and preparation time and is in addition to the charge for the delivery of any bespoke training as set out in items 15 and 16.
 part 2
 (Article 3)
 amounts and rates of charges for providing humanitarian services
-Circumstances
+Appliance or personnel required by action described in Article 3
 Charge
-Where any action described in Article 3 requires the use of the following appliances and personnel of the Fire and Rescue Service -
-(a)
-light portable pump and 1 operator
-(a) £168
-(b)
-light appliance and crew (1 to 2 personnel)
-(b) £250
-(c)
-standard or special appliance and crew (1 to 2 personnel)
-(c) £266
-(d)
-standard appliance or rescue boat and crew (4 to 5 personnel)
-(d) £337
-(e)
-aerial ladder platform and crew (2 personnel)
-(e) £417
-Note: Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the vehicle and personnel leaving the fire station (or where the appliance and personnel are already at the place where the assistance is to be given, at the time when the assistance commences) and ending at the time of return of the appliance and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
+1
+use of light portable pump and one operator
+£172
+2
+use of light appliance and crew (one to 2 personnel)
+£256
+3
+use of standard or special appliance and crew (one to 2 personnel)
+£272
+4
+use of standard appliance or rescue boat and crew (4 to 5 personnel)
+£345
+5
+use of aerial ladder platform and crew (2 personnel)
+£427
+Note:
+Items 1-5
+Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the vehicle and personnel leaving the fire station (or where the appliance and personnel are already at the place where the assistance is to be given, at the time when the assistance commences) and ending at the time of return of the appliance and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
 part 3
 (Article 5)
 charge for attending malfunctioning automatic fire alarm
 Charge for responding to malfunctioning automatic fire alarm
-£337
+£345
