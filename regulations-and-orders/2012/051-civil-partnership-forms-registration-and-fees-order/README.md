@@ -1,6 +1,6 @@
 # Civil Partnership (Forms, Registration and Fees) (Jersey) Order 2012
 
-R&O.51/2012 · official consolidation showing the law from 2021-10-15 · <https://www.jerseylaw.je/laws/current/ro_51_2012_20211231>
+R&O.51/2012 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_51_2012_20220331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
