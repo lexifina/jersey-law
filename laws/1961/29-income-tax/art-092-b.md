@@ -15,6 +15,7 @@
 (e) in the case of any other qualifying child, £6,273,
 whichever is the lowest, but no amount which qualifies for relief under any other provision of this Law shall be included.
 (2) Where, for any year of assessment, 2 or more individuals are entitled to an increase under paragraph (1) in respect of the qualifying child, the amount of the increase shall be apportioned between them as they agree or, in default of agreement, by the Comptroller to the best of his or her judgment, in accordance with evidence supplied to the Comptroller by each claimant.
+(2A) An amount apportioned to an individual under paragraph (2) must not exceed the amount that the individual paid for child care for the qualifying child for the year of assessment.
 (3) The Comptroller may require an eligible claimant to provide the Comptroller with a certificate from, as the case requires, the registered day carer, nanny, nursery school or primary school in which the nursery class is held showing, in respect of the year of assessment -
 (a) the name and address of the registered day carer, nanny, nursery school or primary school;
 (b) in the case of a registered day carer, his or her registration number;
@@ -34,7 +35,7 @@ whichever is the lowest, but no amount which qualifies for relief under any othe
 (c) an individual in whose case the exemption threshold described in Article 92A(6) applies and who has qualifying income;
 “qualifying child” means a child in respect of whom an eligible claimant is entitled to an exemption threshold increase under Article 95 and who has not attained the age of 13 years in the year of assessment;
 “qualifying income” means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I, II or IIA of Schedule D or under Schedule A pursuant to Article 51(1)(b) or (c), excluding -
-(a) for the purposes of sub-paragraph (a) of the definition “eligible claimant”, the first £6,300 of such income for the year of assessment;
-(b) in the case of an individual who is an eligible claimant by virtue of sub-paragraph (c) of the definition “eligible claimant”, the first £4,500 of such income for the year of assessment; and
+(a) for the purposes of sub-paragraph (a) of the definition “eligible claimant”, the first £6,550 of such income for the year of assessment;
+(b) in the case of an individual who is an eligible claimant by virtue of sub-paragraph (c) of the definition “eligible claimant”, the first £4,590 of such income for the year of assessment; and
 (c) in the case of an individual who is married or in a civil partnership, earned income received or receivable by the individual from his or her spouse or civil partner;
 “registered day carer” means a day carer registered under the Day Care of Children (Jersey) Law 2002 or a person taken to have been so registered by virtue of Article 13 of that Law.

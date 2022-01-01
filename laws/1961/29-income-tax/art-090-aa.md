@@ -1,5 +1,5 @@
 # 90AA Marginal income deduction in respect of interest payments: only or main residence
-(1) This Article applies where a person pays yearly interest of money which he or she cannot deduct, in computing his or her income chargeable to tax, under any other provision of this Law.
+(1) This Article applies where a person pays interest of money which he or she cannot deduct, in computing his or her income chargeable to tax, under any other provision of this Law.
 (2) Subject to Article 90AE, where the interest is payable on a loan incurred for the purpose of -
 (a) acquiring a dwelling-house in Jersey for the purpose of its occupation by the person by whom the interest is payable as his or her only or main residence;
 (b) extending a dwelling-house acquired for the purpose described in sub-paragraph (a); or

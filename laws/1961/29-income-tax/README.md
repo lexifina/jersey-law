@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_29_1961_20211231>
+L.29/1961 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20220303>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -43,6 +43,7 @@ L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 33 | [art-033.md](art-033.md) | 33 Power on appeal to confirm or amend assessments |
 | Art. 34 | [art-034.md](art-034.md) | 34 Power of putting questions as to assessments or schedules |
 | Art. 35 | [art-035.md](art-035.md) | 35 Power to summon and examine witnesses |
+| Art. 35A | [art-035-a.md](art-035-a.md) | 35A Appeals may be conducted remotely |
 | Art. 36 | [art-036.md](art-036.md) | 36 Appeals to the Royal Court |
 | Art. 37 | [art-037.md](art-037.md) | 37 Provision against double assessment |
 | Art. 38 | [art-038.md](art-038.md) | 38 Relief in respect of error or mistake |
@@ -130,6 +131,7 @@ L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 78 | [art-078.md](art-078.md) | 78 Basis of computation under Case III |
 | Art. 79 | [art-079.md](art-079.md) | 79 Pensions chargeable under Case III |
 | Art. 80 | [art-080.md](art-080.md) | 80 Basis of computation under Cases IV and V |
+| Art. 80A | [art-080-a.md](art-080-a.md) | 80A Application of Article 80: individuals who become, or cease to be, ordinarily resident |
 | Art. 81 | [art-081.md](art-081.md) | 81 Basis of computation under Cases VI and VII |
 | Art. 81A | [art-081-a.md](art-081-a.md) | 81A Transactions in certificates of deposit |
 | Art. 81C | [art-081-c.md](art-081-c.md) | 81C Basis of computation under Case VIII |
@@ -167,7 +169,7 @@ L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 89A | [art-089-a.md](art-089-a.md) | 89A Relief in respect of interest paid to finance houses |
 | Art. 90 | [art-090.md](art-090.md) | 90 Relief in respect of interest paid to banks |
 | Art. 90AA | [art-090-aa.md](art-090-aa.md) | 90AA Marginal income deduction in respect of interest payments: only or main residence |
-| Art. 90AB | [art-090-ab.md](art-090-ab.md) | 90AB Relief in respect of interest payments: commercial letting |
+| Art. 90AB | [art-090-ab.md](art-090-ab.md) | 90AB Deduction in respect of loan costs: commercial letting |
 | Art. 90AC | [art-090-ac.md](art-090-ac.md) | 90AC Relief in respect of interest payments: machinery and plant |
 | Art. 90AD | [art-090-ad.md](art-090-ad.md) | 90AD Relief in respect of interest payments: acquisition of trade, partnership share or trading company |
 | Art. 90AE | [art-090-ae.md](art-090-ae.md) | 90AE Provisions supplementary to Articles 90AA to 90AD: general |
@@ -212,25 +214,30 @@ L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 119 | [art-119.md](art-119.md) | 119 Exemption in respect of United Kingdom savings certificates |
 | Art. 119A | [art-119-a.md](art-119-a.md) | 119A Exemption of consuls and other official agents |
 | Art. 120 | [art-120.md](art-120.md) | 120 Exemption of consular officers and employees |
+| Art. 120A | [art-120-a.md](art-120-a.md) | 120A Application of this Part |
 | Art. 121 | [art-121.md](art-121.md) | 121 General rule as to income tax on married persons |
 | Art. 121A | [art-121-a.md](art-121-a.md) | 121A Election by spouse for separate assessment |
 | Art. 121B | [art-121-b.md](art-121-b.md) | 121B Effect of election for separate assessment |
 | Art. 121C | [art-121-c.md](art-121-c.md) | 121C Election by spouses for independent taxation from 2022 |
+| Art. 121D | [art-121-d.md](art-121-d.md) | 121D Election by spouses for independent taxation from 2023 |
 | Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
 | Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
+| Art. 122AB | [art-122-ab.md](art-122-ab.md) | 122AB Application of this Part |
 | Art. 122A | [art-122-a.md](art-122-a.md) | 122A Election of civil partner as civil partner A or civil partner B for treatment of tax |
 | Art. 122B | [art-122-b.md](art-122-b.md) | 122B General rule as to income tax on civil partners |
 | Art. 122C | [art-122-c.md](art-122-c.md) | 122C Election by civil partner A or civil partner B for separate assessment |
 | Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
 | Art. 122DA | [art-122-da.md](art-122-da.md) | 122DA Election by civil partners for independent taxation from 2022 |
+| Art. 122DB | [art-122-db.md](art-122-db.md) | 122DB Election by civil partners for independent taxation from 2023 |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
 | Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
 | Art. 123AA | [art-123-aa.md](art-123-aa.md) | 123AA Duty of body corporate to notify Comptroller of certain matters |
-| Art. 123C | [art-123-c.md](art-123-c.md) | 123C Non-financial services companies |
+| Art. 123C | [art-123-c.md](art-123-c.md) | 123C Tax rate for companies |
 | Art. 123CAA | [art-123-caa.md](art-123-caa.md) | 123CAA Exception for profits of importation and supply of hydrocarbon oil |
 | Art. 123CA | [art-123-ca.md](art-123-ca.md) | 123CA Foundations |
 | Art. 123D | [art-123-d.md](art-123-d.md) | 123D Financial services companies |
+| Art. 123DA | [art-123-da.md](art-123-da.md) | 123DA Companies in the cannabis industry |
 | Art. 123E | [art-123-e.md](art-123-e.md) | 123E Apportionment on change of status during year |
 | Art. 123EA | [art-123-ea.md](art-123-ea.md) | 123EA Group relief for non-financial services companies |
 | Art. 123F | [art-123-f.md](art-123-f.md) | 123F Group relief for financial services companies |
@@ -255,7 +262,8 @@ L.29/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 128 | [art-128.md](art-128.md) | 128 Responsibilities and indemnification of persons in whose name a non-resident or absent resident is chargeable |
 | Art. 128A | [art-128-a.md](art-128-a.md) | 128A Collection of tax on rental income of non-resident landlords |
 | Art. 129 | [art-129.md](art-129.md) | 129 Position under Schedule D of temporary residents |
-| Art. 129A | [art-129-a.md](art-129-a.md) | 129A Apportionment for individual in Jersey for part of year |
+| Art. 129AA | [art-129-aa.md](art-129-aa.md) | 129AA Apportionment of reliefs etc for individuals who become, or cease to be, ordinarily resident |
+| Art. 129A | [art-129-a.md](art-129-a.md) | 129A Apportionment for individuals (other than those who are ordinarily resident) in Jersey for part of year |
 | Art. 129B | [art-129-b.md](art-129-b.md) | 129B Relief for non-residents |
 | Art. 130 | [art-130.md](art-130.md) | 130 Interpretation of Part 19 |
 | Art. 130A | [art-130-a.md](art-130-a.md) | 130A Dependants |

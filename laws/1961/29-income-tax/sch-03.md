@@ -26,10 +26,10 @@ D is the amount of LTC contribution already paid for the year of assessment (not
 (a) the sum of the rate calculated using the formula in Article 41C(2) and the LTC contribution effective rate determined in accordance with paragraph 4 of Schedule 1D to the 1974 Law, rounded up to the nearest whole number; and
 (b) the maximum combined effective rate for the employee in sub-paragraph (2).
 (2) The maximum combined effective rate for an employee is -
-(a) 22%, if the employee has no arrears of income tax;
-(b) 27%, if the employee has arrears of income tax for one year of assessment;
-(c) 32%, if the employee has arrears of income tax for 2 years of assessment; and
-(d) 37%, if the employee has arrears of income tax for 3 or more years of assessment.
+(a) 22%, if the employee has arrears of income tax or LTC contributions;
+(b) 27%, if the employee has arrears of income tax or LTC contributions for one year of assessment;
+(c) 32%, if the employee has arrears of income tax or LTC contributions for 2 years of assessment; and
+(d) 37%, if the employee has arrears of income tax or LTC contributions for 3 or more years of assessment.
 (3) If one or more of the variables used to calculate an employee’s combined effective rate changes, the Comptroller may determine a revised rate for the employee by applying sub-paragraph (1) using the new variables.
 (4) If the Comptroller considers that the revised rate determined under sub-paragraph (3) will not recover the employee’s income tax liability and LTC contribution liability (including arrears for previous years) by the end of the year to which the rate applies, the Comptroller may determine a revised rate that is the lower of -
 (a) the rate calculated using the formula in sub-paragraph (5), rounded up to the nearest whole number; and
@@ -43,7 +43,7 @@ D is the amount of the employee’s estimated liability to LTC contributions for
 E is the employee’s total arrears of LTC contributions (if any) for any earlier year (whether or not judgment has been obtained in respect of the arrears) and any costs recoverable in respect of those arrears;
 F is the amount of income tax already paid for the year to which the rate applies, including any amount deducted during the year under Article 41B or 41E; and
 G is the amount of LTC contributions paid for the year to which the rate applies, including any amount deducted during the year under Article 41B or 41E; and
-H is the estimated sum, for the remainder of the year to which the rate applies, of the amount of income for which the employee is liable to be assessed and the amount of income from which the employee is liable to allow the deduction of tax.
+H is the estimated amount of the employee’s earnings for the remainder of the year to which the rate applies.
 (6) The following Articles apply in respect of an employee who is an insured person as if references to a rate determined to apply to the employee are references to the employee’s combined effective rate -
 (a) Article 41CB (revised rates: initiated by employee);
 (b) Article 41CC (notification of rate);
@@ -78,7 +78,7 @@ H is the estimated sum, for the remainder of the year to which the rate applies,
 (5E) Part 6 shall apply, with the necessary modifications, to an appeal against an estimate under paragraph (5A) as it applies to an appeal against an assessment and as if for the number “40” in Article 27(1) there were substituted the number “15”.
 (6) An employer shall, no later than the end of January following a year of assessment, give each of the persons in his or her employment at the end of that year a written summary of the deductions made pursuant to this Article from the employee’s earnings for that year.
 (7) Where an employee ceases employment before the end of a year of assessment, the employer shall, upon the employment ceasing give the employee a written summary of the deductions made pursuant to this Article from the employee’s earnings for that year.
-(8) An employer shall not be required to deduct [tax and an LTC contribution and remit them] to the Comptroller in the case of an employee who, on the 31st December in the year in which the deduction would otherwise be made, will be under the upper limit of compulsory school age as defined by Article 2 of the Education (Jersey) Law 1999.
+(8) An employer is not required to deduct tax [or LTC contributions] from an employee who is under the upper limit of compulsory school age as defined by Article 2 of the Education (Jersey) Law 1999.
 (9) An employer who fails to comply with paragraph (5) or (5AA) shall be guilty of an offence and liable to a fine.
 (10) Where the secretary or another officer of a body corporate or any other person engaged in the management of the body corporate is deemed to be the employer by virtue of Article A15(6) or (7), the body corporate, as well as that person, shall be liable to a fine under paragraph (9) of this Article.
 (11) The imposition of a fine under paragraph (9)(b) shall not discharge the employer’s liability to remit the monies required under paragraph (5) or (5AA).

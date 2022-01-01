@@ -15,10 +15,13 @@
 (h) an estimate, for the year in which the employment or contract began, of the person’s -
 (i) earnings from the employment or payments under the building contract, and
 (ii) income from all other sources.
-(3) If the person is married or in a civil partnership, the person must also notify the Comptroller of -
+(3) If the person is married or in a civil partnership and the spouses or civil partners are not independently taxed, the person must also notify the Comptroller of -
 (a) the date of the marriage or formation of the civil partnership;
 (b) which spouse or civil partner is spouse A or civil partner A and which spouse or civil partner is spouse B or civil partner B; and
 (c) the information required by paragraph (2) in respect of their spouse or civil partner.
+(3A) If the person is married or in a civil partnership and the spouses or civil partners are independently taxed, the person must also notify the Comptroller of -
+(a) the date of the marriage or formation of the civil partnership; and
+(b) the information required by paragraph (2)(a) to (e) in respect of their spouse or civil partner.
 (4) The Comptroller may -
 (a) require the information to be provided in a form, and in a manner, approved by the Comptroller; and
 (b) require the person providing the information to sign a declaration that the information is true, complete and correct to the best of the person’s knowledge.
