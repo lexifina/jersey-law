@@ -1,6 +1,6 @@
 # Sea Fisheries (General Fees) (Jersey) Order 2010
 
-R&O.111/2010 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_111_2010_20211231>
+R&O.111/2010 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_111_2010_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
