@@ -1,6 +1,6 @@
 # Petroleum (Licensing) (Fees) (Jersey) Order 2012
 
-R&O.74/2012 · official consolidation showing the law from 2021-01-01 · <https://www.jerseylaw.je/laws/current/ro_74_2012_20211231>
+R&O.74/2012 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_74_2012_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
