@@ -57,10 +57,10 @@ for the purposes of the employer’s trade or business or, where the employer is
 for the purposes of any game or recreation where the person employed is engaged or paid through a club; or
 (c)
 as a nurse (as defined in Article 1) in a month in which the nurse is exclusively so employed by one employer for at least 8 hours in any week falling within that month.
-8. Employment as a sub-postmaster remunerated by scale payment.
-8. Any person who renders on the average 18 or more hours personal service weekly as a sub-postmaster remunerated by scale payment and is not mainly dependent for his or her livelihood on the earnings derived by him or her from any occupation other than employment in the provision of postal services.
-9. Employment of a person by any one employer on any day or days in a month on which that person renders services in that employment where such services are rendered for less than 8 hours in any week falling within that month.
-9. Any person employed by 2 or more employers who carry on business in association and who agree that the person employed shall be treated as being employed by only one of them.
+8.
+8.
+9.
+9.
 10. Employment as an agent paid by commission or fees or a share in the profits, or partly in one and partly in another of such ways, where the person so employed is mainly dependent for the person’s livelihood on the person’s earnings from some occupation other than employment as such an agent, or where the person is ordinarily employed as such agent by more than one employer, and the person’s employment under no one of such employers is that on which the person is mainly dependent for the person’s livelihood.
 10. None.
 11. Employment under a contract of service by the insured person’s spouse or civil partner for the purposes of a trade or business.
@@ -71,8 +71,8 @@ as a nurse (as defined in Article 1) in a month in which the nurse is exclusivel
 who is ordinarily employed in employed person’s employment or is ordinarily gainfully occupied in agriculture (including horticulture); and
 (b)
 who produces to the person’s employer satisfactory evidence that the person is so ordinarily employed or occupied.
-13. Employment by any one employer as an interviewer for the purpose of obtaining information about habits or opinions of members of the public or any particular category or description of persons, where services in that employment are rendered normally not more than 28 hours in a week.
-13. None.
+13.
+13.
 14. Employment of a person in any employment where the earnings derived therefrom are, in any particular month, less than the lower monthly earnings limit specified in paragraph 2 of Schedule 1A to the Law.
 14. None.
 15. Employment by the father, mother, grandfather, grandmother, stepfather, stepmother, son, daughter, grandson, granddaughter, stepson, stepdaughter, brother, sister, half-brother or half-sister of the insured person, insofar as the employment -
