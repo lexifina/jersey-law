@@ -1,16 +1,21 @@
 # SCHEDULE 3
 (Article 4A)
 fees to accompany a notice of appeal
+Column 1
 ITEM
+Column 2
 DESCRIPTION OF APPEAL (AND PROVISION OF LAW UNDER WHICH IT IS MADE)
-Fee (£)
+Column 3
+FEE
 1
 APPEAL AGAINST REFUSAL OR DEEMED REFUSAL OF APPLICATION FOR PLANNING PERMISSION (Article 108(2)(b) and (c))
 (including application for permission for development which has already taken place)
+1a
 - for major development
-1,766.00
+£1,810
+1b
 - for minor development
-552.00
+£566
 NOTE: “major development” is defined as:
 · Residential development of 1 unit or above.
 · New non-residential development.
@@ -25,26 +30,26 @@ NOTE: “major development” is defined as:
 Any development which is not major development is minor development.
 2
 APPEAL AGAINST GRANT OF PLANNING PERMISSION (Article 108(2)(a))
-552.00
+£566
 3
 APPEAL AGAINST IMPOSITION OF CONDITION OR REFUSAL TO VARY OR REMOVE CONDITION (Article 108(2)(d))
-552.00
+£566
 4
 APPEAL AGAINST A REFUSAL TO GRANT A CERTIFICATE OF COMPLETION (Article 108(2)(f))
-552.00
+£566
 5
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION UNDER BUILDING BYE-LAWS (Article 108(2)(g))
-552.00
+£566
 6
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION TO UNDERTAKE OPERATIONS OR MAKE CHANGE OF USE OR UNDERTAKE ACTIVITIES ON, IN OR UNDER A SITE OF SPECIAL INTEREST (Article 108(2)(j) and (k))
-552.00
+£566
 7
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION FOR THE IMPORTATION OR USE OF A CARAVAN (Article 108(2)(n))
-552.00
+£566
 8
 OTHER APPEALS:
-A) AGAINST THE REVOCATION OR MODIFICATION OF ANY PLANNING PERMISSION (Article 108(2)(e))
-B) AGAINST THE LISTING OF A BUILDING OR PLACE, OR REFUSAL TO REMOVE A BUILDING OR PLACE FROM THE LIST (Article 108(2)(h) and (i))
-C) AGAINST THE LISTING OF A TREE OR REFUSAL TO REMOVE A TREE FROM THE LIST (Article 108(2)(l))
-D) AGAINST THE SERVICE OF A NOTICE REQUIRING ACTION INCLUDING AN ENFORCEMENT NOTICE (Article 109)
-110.00
+A) against the revocation or modification of any planning permission (Article 108(2)(e))
+B) against the listing of a building or place, or refusal to remove a building or place from the list (Article 108(2)(h) and (i))
+C) against the listing of a tree or refusal to remove a tree from the list (Article 108(2)(l))
+D) against the service of a notice requiring action including an enforcement notice (Article 109)
+£112.75
