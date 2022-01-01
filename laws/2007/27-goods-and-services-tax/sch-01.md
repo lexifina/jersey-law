@@ -34,12 +34,13 @@ REGISTRATION
 (a) makes taxable supplies; or
 (b) is carrying on a business and intends to make taxable supplies in the course of or furtherance of that business,
 the Comptroller may, on application by the person, register the person.
-(2) That registration shall take effect on and from the day on which the application is made or, if an earlier date is agreed to by the Comptroller and the person, on and from that date instead.
+(2) That registration shall take effect on and from the day on which the application is made or, if an earlier or later date is agreed to by the Comptroller and the person, on and from that date instead.
 (3) The registration shall expire at the end of the period specified in respect of the registration in the notice of it under paragraph 6 unless -
 (a) the registration is cancelled sooner under this Schedule; or
 (b) the person becomes liable under paragraph 1 during the period.
 (4) If the person becomes liable under paragraph 1 during that period, the registration shall continue in force until it is cancelled.
 (5) In the case of registration under this paragraph, the notice of registration that the Comptroller is required to serve on the person under paragraph 6 shall specify, in addition to the matters set out in paragraph 6, how long the registration is to have effect.
+(6) In sub-paragraph (1), references to a person who makes, or intends to make, taxable supplies include references to a person who carries out, or intends to carry out, activities that would, on or after 1st January 2023, be treated as making taxable supplies of goods in Jersey under Article 23(3)(a) (as inserted by the Finance (2022 Budget) (Jersey) Law 202-).
 6 Notice of registration
 The Comptroller shall serve on a person whom the Comptroller registers (whether under paragraph 4 or under paragraph 5) notice in writing specifying that the person is registered and the date when the registration has effect.
 7 Changes to be notified
