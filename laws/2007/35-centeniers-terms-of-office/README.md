@@ -1,6 +1,6 @@
 # Centeniers (Terms of Office) (Jersey) Law 2007
 
-L.35/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_35_2007_20220119>
+L.35/2007 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_35_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
