@@ -2,23 +2,30 @@
 (Article 2)
 Donations AND EXPENSES
 1 Money
-(1) A gift of money is a donation if -
-(a) it is made at any time before the poll (including before the nomination meeting), and the giver signifies, either expressly or by implication, that the money is intended for use to pay the recipient’s election expenses; or
-(b) it is made after the nomination meeting and before the poll, and is either made anonymously or the giver does not signify the intended use of the money.
-(2) A loan of money is a donation if -
+(A1) A gift of money to a political party is a donation.
+(1) A gift of money to any other person is a donation if -
+(a) it is made at any time before the poll (including before the nomination announcement day), and the giver signifies, either expressly or by implication, that the money is intended for use to pay the recipient’s election expenses; or
+(b) it is made after the nomination announcement day and before the poll, and is either made anonymously or the giver does not signify the intended use of the money.
+(1A) A loan of money to a political party is a donation if it is made either -
+(a) at no cost to the party; or
+(b) on terms by which the cost to the party is below the commercial rate for the loan.
+(2) A loan of money to any other person is a donation if -
 (a) it is made either at no cost to the recipient or on terms by which the cost to the recipient is below the commercial rate for the loan; and
 (b) it is made -
 (i) at any time before the poll, and the lender signifies, either expressly or by implication, that the loan is intended for use to pay the recipient’s election expenses, or
-(ii) after the nomination meeting and before the poll, and is either made anonymously or the lender does not signify the intended use of the loan.
+(ii) after the nomination announcement day and before the poll, and is either made anonymously or the lender does not signify the intended use of the loan.
 (3) A gift or loan of money is made at the time when the money is given to the recipient or, if earlier, the time when the giver or lender informs the recipient of his or her intention to make the gift or loan.
 2 Goods and services
-(1) A supply of goods (including a supply by way of loan or rental) or a supply of services is a donation if -
+(A1) A supply of goods (including a supply by way of loan or rental), or a supply of services, to a political party is a donation if it is made -
+(a) free of charge; or
+(b) at a discount to the open market value of or rate for the supply of goods or services.
+(1) A supply of goods (including a supply by way of loan or rental) or a supply of services, other than to a political party; is a donation if -
 (a) it is made free of charge or at a discount to the open market value of or rate for the supply of the goods or services; and
 (b) it is made -
 (i) at any time before the poll, and the person making the supply signifies, either expressly or by implication, that the goods or services are intended for use -
 (A) where the recipient is a candidate, for the purposes described in Article 3(1)(b), or
 (B) where the recipient is a third party, for the purposes described in Article 9(1)(i) or (ii),
-(ii) after the nomination meeting and before the poll, and is either made anonymously or the person making the supply does not signify the intended use of the goods or services.
+(ii) after the nomination announcement day and before the poll, and is either made anonymously or the person making the supply does not signify the intended use of the goods or services.
 (2) A supply of goods or services is made at the time when the goods or services are provided to the recipient.
 3 Value attributable to donation of loans, goods or services
 (1) The value of a donation that is a loan of money is the amount equal to the difference between the cost, to the recipient, of the loan if it had been made on commercial terms and the actual cost to the recipient.
@@ -26,7 +33,9 @@ Donations AND EXPENSES
 (3) The value of a donation of the use of goods is the amount equal to the difference between the open market rate for the use of the goods and the actual cost to the recipient.
 (4) The value of a donation of the supply of services is the amount equal to the difference between the open market rate for their supply and the actual cost to the recipient.
 4 Anonymous donations
-A donation is anonymous if the recipient is unable to ascertain the identity of the person making it.
+(1) A donation is anonymous if the recipient is unable to ascertain the identity of the person making it.
+(2) The States may by Regulations provide that, where the amount or value of an anonymous donation does not exceed a specified amount, the donation is to be disregarded for the purposes of the application of any provision of this Law.
+(3) Regulations under paragraph (2) may make different provision for different purposes.
 5 Exception for services provided by the Committee
 Where -
 (a) the Committee provides services for the dissemination of information about or on behalf of candidates in a public election; and
