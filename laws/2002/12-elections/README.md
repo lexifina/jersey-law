@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://www.jerseylaw.je/laws/current/l_12_2002_20220119>
+L.12/2002 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_12_2002_20220621>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -23,23 +23,39 @@ L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://
 | Art. 11 | [art-011.md](art-011.md) | 11 Electoral register to be available |
 | Art. 12 | [art-012.md](art-012.md) | 12 Electoral register in force for an election |
 | Art. 13 | [art-013.md](art-013.md) | 13 Regulations may amend times in this Part |
-| Art. 14 | [art-014.md](art-014.md) | 14 Public election |
+| Art. 13A | [art-013-a.md](art-013-a.md) | 13A Establishment of Jersey Electoral Authority |
+| Art. 13B | [art-013-b.md](art-013-b.md) | 13B Reports on election |
+| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Code of conduct for candidates |
+| Art. 13D | [art-013-d.md](art-013-d.md) | 13D Resolution of disputes |
+| Art. 13E | [art-013-e.md](art-013-e.md) | 13E Observation of elections |
+| Art. 13F | [art-013-f.md](art-013-f.md) | 13F Other functions and powers of the JEA |
+| Art. 14 | [art-014.md](art-014.md) | 14 Public elections and parish elections |
 | Art. 15 | [art-015.md](art-015.md) | 15 Cost of election |
 | Art. 16 | [art-016.md](art-016.md) | 16 Assistance |
 | Art. 17 | [art-017.md](art-017.md) | 17 Order for election |
-| Art. 17A | [art-017-a.md](art-017-a.md) | 17A Electoral administrator for parish |
+| Art. 17A | [art-017-a.md](art-017-a.md) | 17A Electoral administrator for a parish |
+| Art. 17B | [art-017-b.md](art-017-b.md) | 17B Application of this Part |
+| Art. 17C | [art-017-c.md](art-017-c.md) | 17C Nomination of a candidate |
+| Art. 17D | [art-017-d.md](art-017-d.md) | 17D Nomination forms: content |
+| Art. 17E | [art-017-e.md](art-017-e.md) | 17E Subscription of nomination form |
+| Art. 17F | [art-017-f.md](art-017-f.md) | 17F Political party declaration |
+| Art. 17G | [art-017-g.md](art-017-g.md) | 17G Validation of nomination forms |
+| Art. 17H | [art-017-h.md](art-017-h.md) | 17H Announcement of candidates standing for election |
+| Art. 17I | [art-017-i.md](art-017-i.md) | 17I Extension of nomination period if more vacancies than candidates |
+| Art. 17J | [art-017-j.md](art-017-j.md) | 17J Application of this Part |
 | Art. 18 | [art-018.md](art-018.md) | 18 Nomination of candidates |
 | Art. 19 | [art-019.md](art-019.md) | 19 Holding of nomination meeting |
 | Art. 20 | [art-020.md](art-020.md) | 20 Procedure at nomination meeting |
 | Art. 21 | [art-021.md](art-021.md) | 21 Procedure where candidates do not exceed vacancies |
-| Art. 22 | [art-022.md](art-022.md) | 22 Procedure where candidates exceed vacancies |
+| Art. 22 | [art-022.md](art-022.md) | 22 Announcement of the poll |
 | Art. 23 | [art-023.md](art-023.md) | 23 Withdrawal, disqualification or death of candidate |
 | Art. 24 | [art-024.md](art-024.md) | 24 Ballot papers |
 | Art. 25 | [art-025.md](art-025.md) | 25 Secret ballot |
 | Art. 26 | [art-026.md](art-026.md) | 26 Polling stations |
+| Art. 26A | [art-026-a.md](art-026-a.md) | 26A Candidate information document |
 | Art. 27 | [art-027.md](art-027.md) | 27 Adjoints |
 | Art. 28 | [art-028.md](art-028.md) | 28 Persons who may be present in polling station |
-| Art. 29 | [art-029.md](art-029.md) | 29 Supervision of polling station |
+| Art. 29 | [art-029.md](art-029.md) | 29 Supervision of polling station and its vicinity |
 | Art. 30 | [art-030.md](art-030.md) | 30 Opening and closing of poll |
 | Art. 31 | [art-031.md](art-031.md) | 31 Start of polling |
 | Art. 32 | [art-032.md](art-032.md) | 32 Giving ballot paper to elector |
@@ -50,12 +66,12 @@ L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://
 | Art. 35A | [art-035-a.md](art-035-a.md) | 35A Voters omitted from a supplementary electoral register |
 | Art. 36 | [art-036.md](art-036.md) | 36 Spoilt ballot papers |
 | Art. 37 | [art-037.md](art-037.md) | 37 Interpretation |
-| Art. 38 | [art-038.md](art-038.md) | 38 Persons entitled to pre-poll vote |
-| Art. 39 | [art-039.md](art-039.md) | 39 Persons entitled to postal vote |
-| Art. 39A | [art-039-a.md](art-039-a.md) | 39A Restriction on pre-poll and postal voting |
-| Art. 40 | [art-040.md](art-040.md) | 40 Judicial Greffier to provide facilities and publicize arrangements for pre-poll and postal voting |
-| Art. 41 | [art-041.md](art-041.md) | 41 Judicial Greffier to be provided with ballot papers and copies of registers |
+| Art. 38 | [art-038.md](art-038.md) | 38 Entitlement to pre-poll vote or postal vote |
+| Art. 40A | [art-040-a.md](art-040-a.md) | 40A Provision of copy of register and ballot papers to Judicial Greffier |
+| Art. 40B | [art-040-b.md](art-040-b.md) | 40B Pre-poll voting: facilities and arrangements |
+| Art. 40C | [art-040-c.md](art-040-c.md) | 40C Pre-poll voting locations treated as polling stations for certain purposes |
 | Art. 42 | [art-042.md](art-042.md) | 42 Procedure for pre-poll voting |
+| Art. 42A | [art-042-a.md](art-042-a.md) | 42A Arrangements for postal voting |
 | Art. 43 | [art-043.md](art-043.md) | 43 Application to postal vote |
 | Art. 44 | [art-044.md](art-044.md) | 44 Procedure for postal voting |
 | Art. 45 | [art-045.md](art-045.md) | 45 Duty of Judicial Greffier to provide information to Autorisé before poll opens |
@@ -71,7 +87,7 @@ L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://
 | Art. 50 | [art-050.md](art-050.md) | 50 Recording the numbers at a counting station |
 | Art. 51 | [art-051.md](art-051.md) | 51 Invalid ballot papers |
 | Art. 52 | [art-052.md](art-052.md) | 52 Result in election for one or more Senators |
-| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in other public elections |
+| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in other public elections or parish elections |
 | Art. 52AA | [art-052-aa.md](art-052-aa.md) | 52AA Recounts |
 | Art. 52B | [art-052-b.md](art-052-b.md) | 52B Procedure for recount in election for one or more Senators |
 | Art. 52C | [art-052-c.md](art-052-c.md) | 52C Procedure for recount by Autorisé |
@@ -94,7 +110,8 @@ L.12/2002 · official consolidation showing the law from 2021-12-22 · <https://
 | Art. 68 | [art-068.md](art-068.md) | 68 Limitation on prosecution and civil action |
 | Art. 69 | [art-069.md](art-069.md) | 69 How documents may be sent or served |
 | Art. 70 | [art-070.md](art-070.md) | 70 Misnomer or inaccurate description |
-| Art. 71 | [art-071.md](art-071.md) | 71 Civil liability of officers |
+| Art. 70A | [art-070-a.md](art-070-a.md) | 70A Transitional provision: Connétable by-election before 22nd June 2022 |
+| Art. 71 | [art-071.md](art-071.md) | 71 Civil liability |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations |
 | Art. 73 | [art-073.md](art-073.md) | 73 Savings and transitional provisions |
 | Art. 74 | [art-074.md](art-074.md) | 74 Citation and commencement |

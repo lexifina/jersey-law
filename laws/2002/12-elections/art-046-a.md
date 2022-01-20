@@ -1,6 +1,9 @@
 # 46A Duties of Autorisé on receipt of pre-poll and postal votes
 (1) Each Autorisé shall ensure that he or she has, for the purposes of the poll, a copy of the register for his or her electoral district on which there has been marked the names of the persons disqualified (subject to Article 32A) from voting at the polling station by virtue of Article 42(4) or (7) or 43(3).
-(2) On receipt of the ballot paper envelopes and pre-addressed envelopes delivered by the Judicial Greffier under Article 46, the Autorisé shall count their number and enter their respective totals in the return.
+(2) On receipt of the ballot paper envelopes and pre-addressed envelopes delivered by the Judicial Greffier under Article 46, the Autorisé shall -
+(a) count the number of each; and
+(b) (if the Autorisé is not the principal Autorisé) notify the principal Autorisé of the totals.
+(2A) The principal Autorisé must include in the return a record of the total number of ballot papers and pre-addressed envelopes.
 (3) The Autorisé shall, before the close of the poll, open each ballot paper envelope delivered under Article 46(a) and place the ballot paper or papers in the appropriate ballot box.
 (4) The Autorisé shall, before the close of the poll, open each pre-addressed envelope and, if satisfied that the declaration of identity is made by the voter to whom the number on the pre-addressed envelope is assigned, and that the declaration has been duly completed -
 (a) open the ballot paper envelope contained in the pre-addressed envelope and place the ballot paper or papers in the appropriate ballot box; and
