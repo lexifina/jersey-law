@@ -1,6 +1,6 @@
 # Connétables (Miscellaneous Provisions) (Jersey) Law 2012
 
-L.30/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_30_2012_20220119>
+L.30/2012 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_30_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
