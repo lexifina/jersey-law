@@ -1,6 +1,6 @@
 # Procureurs du Bien Public (Terms of Office) (Jersey) Law 2013
 
-L.9/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_9_2013_20220119>
+L.9/2013 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_9_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
