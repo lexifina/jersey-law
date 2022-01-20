@@ -1,6 +1,6 @@
 # Data Protection (Registration and Charges) (Jersey) Regulations 2018
 
-R&O.32/2018 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_32_2018_20220119>
+R&O.32/2018 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/ro_32_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |

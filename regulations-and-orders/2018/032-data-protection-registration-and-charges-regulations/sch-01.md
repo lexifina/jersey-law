@@ -5,12 +5,12 @@ classes of processing attracting exemption from charges
 Processing that is carried out by a registered controller who is a public authority.
 1A Candidates for election
 Processing that -
-(a) is carried out by a registered controller who has been admitted as a candidate for a public election of an officer in a constituency under Article 18 of the Public Elections (Jersey) Law 2002;
-(b) is for the purpose of the contesting of the public election by the registered controller;
+(a) is carried out by a registered controller who has become a candidate for a public election of an officer in a constituency under Article 17H of the Elections (Jersey) Law 2002 or been admitted as a candidate for a parish election of an officer in a constituency under Article 18 of that Law;
+(b) is for the purpose of the contesting of the election by the registered controller;
 (c) does not involve disclosure of the personal data to a third party otherwise than -
 (i) with the consent of the data subject, or
 (ii) in a case where it is necessary to make such disclosure for that purpose; and
-(d) does not involve keeping the personal data after it is no longer necessary for the purpose of contesting that public election.
+(d) does not involve keeping the personal data after it is no longer necessary for the purpose of contesting that election.
 1B Provided schools
 Processing that is carried out by a registered controller that is a provided school, as defined in Article 1(1) of the Education (Jersey) Law 1999.
 2 Accounts and records after ceasing to conduct business
