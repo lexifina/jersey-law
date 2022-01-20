@@ -1,6 +1,6 @@
 # Loi (1804) au sujet des assemblées paroissiales
 
-L.1/1804 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_1804_20220119>
+L.1/1804 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_1_1804>
 
 | Provision | File | Heading |
 | --- | --- | --- |
