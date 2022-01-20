@@ -2,7 +2,7 @@
 (Regulations 1(2) and 2)
 FORMS
 FORM 1
-(Article 3(a) of the Public Elections (Jersey) Law 2002)
+(Article 3(a) of the Elections (Jersey) Law 2002)
 Form of declaration where name omitted from register
 I, ……………………………………...…., solemnly declare that I believe that I should be permitted to vote by virtue of the following facts -
 Note: Insert here a recital of the facts that are the grounds for the claim.
@@ -12,7 +12,7 @@ Signed in my presence this……………..day of…………………… 20....
 Autorisé/Adjoint
 FORM 1A
 FORM 2
-(Articles 5A(8) and 7(4)(c) of the Public Elections (Jersey) Law 2002)
+(Articles 5A(8) and 7(4)(c) of the Elections (Jersey) Law 2002)
 Application for inclusion of name on the Electoral Register
 I apply for inclusion of my name on the Electoral Register for the electoral district in which I live.
 Surname
@@ -44,7 +44,7 @@ I declare that the information given in this application about me is true.
 Signature
 Date when signed
 FORM 3
-(Article 20(4) of the Public Elections (Jersey) Law 2002)
+(Article 20(4) of the Elections (Jersey) Law 2002)
 Nomination document
 Please use one form for each candidate.
 This form is not complete unless each of the 10 signatures is accompanied by the name of the person whose signature it is, plus the name of the electoral district (including the name of the parish) in respect of which the person is registered, and the elector number shown on the electoral register for the person.
@@ -65,7 +65,7 @@ the name, electoral district, parish, and
 elector number, of the seconder whose
 signature it is]
 FORM 4
-(Article 24(3) of the Public Elections (Jersey) Law 2002)
+(Article 24(3) of the Elections (Jersey) Law 2002)
 Ballot paper
 Counterfoil and front of ballot paper
 COUNTERFOIL
@@ -115,7 +115,7 @@ Election for
 † This number must be printed and correspond with the number printed on the counterfoil to which this ballot paper is attached.
 § The date, name of the parish and the office to be filled shall be printed here. If the parish is divided into different electoral districts, the name of the district should be inserted below the name of the parish.
 FORM 5
-(Article 34(2) of the Public Elections (Jersey) Law 2002)
+(Article 34(2) of the Elections (Jersey) Law 2002)
 Declaration of elector where person has already voted in elector’s name
 I, …………………………….., solemnly declare that I am the person entered under the name of ……………………………………..on the electoral register for the electoral district of ………………………………
 (Signed)
