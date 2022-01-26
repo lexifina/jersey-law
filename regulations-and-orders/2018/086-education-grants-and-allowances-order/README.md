@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2021-08-07 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20220125>
+R&O.86/2018 · official consolidation showing the law from 2022-01-26 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20220831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ R&O.86/2018 · official consolidation showing the law from 2021-08-07 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Meaning of relevant income of dependent student |
 | Art. 5 | [art-005.md](art-005.md) | 5 Meaning of relevant income of dependent student living with “relevant person” |
 | Art. 6 | [art-006.md](art-006.md) | 6 Meaning of relevant income of independent student |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Meaning of relevant income of certain dependent students living with a single parent |
 | Art. 7 | [art-007.md](art-007.md) | 7 General rules for eligibility |
 | Art. 8 | [art-008.md](art-008.md) | 8 Higher education |
 | Art. 9 | [art-009.md](art-009.md) | 9 Professional examinations |
