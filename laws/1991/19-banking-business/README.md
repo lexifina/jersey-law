@@ -1,6 +1,6 @@
 # Banking Business (Jersey) Law 1991
 
-L.19/1991 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_19_1991_20220130>
+L.19/1991 · official consolidation showing the law from 2022-01-31 · <https://www.jerseylaw.je/laws/current/l_19_1991_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ L.19/1991 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 48A | [art-048-a.md](art-048-a.md) | 48A Notice of public statement |
 | Art. 48B | [art-048-b.md](art-048-b.md) | 48B Notice period |
 | Art. 48C | [art-048-c.md](art-048-c.md) | 48C Appeals and orders about public statements |
-| Art. 48D | [art-048-d.md](art-048-d.md) | 48D Transfer of deposit-taking business |
+| Art. 48D | [art-048-d.md](art-048-d.md) | 48D Transfer of deposit-taking business and any other business |
 | Art. 48E | [art-048-e.md](art-048-e.md) | 48E Fees |
 | Art. 49 | [art-049.md](art-049.md) | 49 Service of notices |
 | Art. 50 | [art-050.md](art-050.md) | 50 Evidence |
