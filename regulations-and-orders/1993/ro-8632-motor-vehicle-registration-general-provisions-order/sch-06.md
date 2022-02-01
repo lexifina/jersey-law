@@ -42,9 +42,14 @@ DIAGRAM 2
 6 Arrangement of registration marks
 (1) Subject to sub-paragraphs (2) and (3), the registration mark shall, at the option of the owner of the vehicle, be arranged in conformity with either of the specimen registration marks shown in diagram 1 or diagram 2 of this Part.
 (2) Where the registration plate is arranged in conformity with diagram 1, the index mark shall be on the upper line, the numerals indicating units, tens and hundreds shall be on the lower line, and any other numerals shall be on the upper line.
-(3) The registration mark of a motor cycle shall comply with diagram 1.
-7 Material displayed on number plate
-No material, other than a registration mark, shall be displayed on a number plate within the margins specified in the tables in paragraphs 8 or 9 except material complying with the requirements of the relevant British Standards with which such plates are required by this Order to comply.
+(3) The registration mark of a motor cycle or moped shall comply with diagram 1.
+7 Provisions for display relating to paragraphs 8 and 9
+(1) In this paragraph “distinguishing mark” means a distinguishing mark displayed in accordance with a diagram in Schedule 11 or 12 of the Motor Vehicles (Driving Licences) (Jersey) Order 2003.
+(2) Material or information must not be displayed on a number plate within the margins specified in a table in paragraph 8 or 9 except -
+(a) the registration mark;
+(b) material complying with the requirements of the relevant British Standards with which such plates are required to comply by this Order.
+(3) For the purposes of a table in paragraph 8 or 9, where a margin between all or part of a registration mark and the edge of a number plate includes the white area of a distinguishing mark, that margin is measured to the edge of the white area that is nearest the registration mark, not to the edge of the number plate.
+(4) In paragraphs 8 and 9 references to a character do not include anything that forms part of a distinguishing mark.
 8 Form of number plates - pre 1976 vehicles
 (1) This paragraph applies to vehicles constructed on or before 31st December 1975.
 (2) The number plate shall -
@@ -115,7 +120,7 @@ Character Stroke
 10mm
 Space between characters
 10mm
-Top, side & bottom margin
+Top, side and bottom margins (minimum)
 11mm
 Space between vertical lines
 13mm
@@ -164,7 +169,7 @@ Character Stroke
 10mm
 Space between characters
 10mm
-Top, side & bottom margin
+Top, side & bottom margins (minimum)
 11mm
 Space between vertical lines
 13mm
