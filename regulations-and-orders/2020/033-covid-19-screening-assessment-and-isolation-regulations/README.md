@@ -1,6 +1,6 @@
 # Covid-19 (Screening, Assessment and Isolation) (Jersey) Regulations 2020
 
-R&O.33/2020 · official consolidation showing the law from 2021-10-15 · <https://www.jerseylaw.je/laws/current/ro_33_2020_20220206>
+R&O.33/2020 · official consolidation showing the law from 2022-02-07 · <https://www.jerseylaw.je/laws/current/ro_33_2020_20220331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
