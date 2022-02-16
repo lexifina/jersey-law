@@ -1,6 +1,10 @@
 # SCHEDULE 1A
-(Articles 5(4), 9 and 30(3))
-class 1 factors and contribution rates
+(Articles 5(3A) and (4), 9 and 30(3))
+class 1 MINIMUM EARNINGS THRESHOLD, factors and contribution rates
+A1 Class 1 minimum earnings threshold
+(1) The Class 1 minimum earnings threshold is £438.
+(2) On 1st January in 2023 and every subsequent year, the amount in sub-paragraph (1) is to be increased or decreased, as the case requires, by the percentage rise or fall in the minimum wage during the period of 12 months beginning with 2nd January in the preceding year.
+(3) “Minimum wage” means the amount prescribed under Article 16(3) of the Employment (Jersey) Law 2003.
 1 Class 1 - earnings
 For the purposes of determining the amount of Class 1 contributions payable in respect of a Class 1 insured person, and subject to any Order made under Article 1(5) or 11, the earnings of a Class 1 insured person include any sums payable to the person (whether under a contract of service or any other office, employment or arrangement whereby the person is rewarded for work done or services rendered) by way of wages, salary, fees, bonuses, commission, overtime pay or any other emolument including the value of any loan, perquisite or any other benefit in kind.
 2 Class 1 - monthly earnings limits
