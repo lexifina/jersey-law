@@ -1,11 +1,12 @@
 # Shipping (Registration) (Jersey) Regulations 2004
 
-R&O.30/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_30_2004_20220302>
+R&O.30/2004 · official consolidation showing the law from 2022-03-03 · <https://www.jerseylaw.je/laws/current/ro_30_2004_20220501>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Application |
+| Reg. 2A | [reg-002-a.md](reg-002-a.md) | 2A Implementation of sanctions |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 The register |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Entitlement - other than fishing vessels |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Entitlement in respect of fishing vessels |

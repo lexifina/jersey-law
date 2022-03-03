@@ -14,9 +14,9 @@ DETAILS TO GO ON CERTIFICATE OF REGISTRY
 (g) length in metric units;
 (h) breadth in metric units;
 (i) depth in metric units;
-(j) type ;
-(k) gross tonnage ;
-(l) net tonnage ;
+(j) type;
+(k) gross tonnage;
+(l) net tonnage;
 (m) registered tonnage;
 (n) make and model of any engine;
 (o) power in kilowatts of any engine;
@@ -31,8 +31,8 @@ DETAILS TO GO ON CERTIFICATE OF REGISTRY
 (g) overall length in metric units;
 (h) breadth in metric units;
 (i) depth in metric units;
-(j) net tonnage ;
-(k) gross tonnage ;
+(j) net tonnage;
+(k) gross tonnage;
 (l) engine make and model;
 (m) maximum continuous engine power, in kilowatts, or if the owner notifies the Registrar of a modification, permanently de-rated engine power in kilowatts,
 (n) year built;
