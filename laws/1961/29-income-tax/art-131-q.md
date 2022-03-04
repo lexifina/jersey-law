@@ -11,8 +11,4 @@
 (h) to refuse to give a direction under Article 131K(3); or
 (i) under Article 131P(8),
 may appeal to the Commissioners.
-(2) The following provisions of this Law shall apply, with the necessary modifications, to an appeal under paragraph (1) as they apply to an appeal against any assessment -
-(a) Article 27;
-(b) Article 28(1);
-(c) Article 29, with the omission of paragraphs (4) and (5);
-(d) Articles 29A, 35 and 36.
+(2) Part 6 applies, with the necessary modifications, to an appeal under paragraph (1) as if it were an appeal against an assessment.

@@ -14,11 +14,6 @@ Provided that the Comptroller may waive payment of the surcharge -
 (5) A person may, within 40 days of the issue of a notice under paragraph (4), apply to the Comptroller in writing for a waiver under paragraph (2).
 (6) Where a person applies under paragraph (5), the Comptroller shall give notice to the person of whether or not he or she has waived the person’s liability.
 (7) A person aggrieved by the Comptroller’s refusal to waive liability under paragraph (2) may appeal to the Commissioners, on giving notice in writing to the Comptroller within 40 days of the issue of notice of refusal.
-(8) The following provisions of this Law shall apply, with the necessary modifications, to an appeal under paragraph (7) as they apply to an appeal against any assessment -
-(a) the proviso to Article 27(1);
-(b) Article 27(2);
-(c) Article 28(1);
-(d) Article 29, with the omission of paragraphs (4) and (5);
-(e) Articles 29A and 31 to 36.
+(8) Part 6 applies, with the necessary modifications, to an appeal under paragraph (7) as if it were an appeal against an assessment.
 (9)
 (10) This Article does not apply in relation to an individual person if more than 25% of the person’s total income for the year before the year of assessment consists of earnings.

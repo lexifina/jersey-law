@@ -11,4 +11,4 @@
 (8) A person who gives another person -
 (a) a document purporting to be an exemption certificate issued by the Comptroller under this Article, knowing it to be false; or
 (b) an exemption certificate, knowing that the certificate has been altered by a person other than the Comptroller,
-shall be liable to a fine.
+commits an offence and is liable to a fine.

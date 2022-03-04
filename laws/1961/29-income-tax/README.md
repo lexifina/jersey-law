@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20220303>
+L.29/1961 · official consolidation showing the law from 2022-03-04 · <https://www.jerseylaw.je/laws/current/l_29_1961_20220831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,9 +30,11 @@ L.29/1961 · official consolidation showing the law from 2022-01-01 · <https://
 | Art. 20D | [art-020-d.md](art-020-d.md) | 20D Returns of information by foundations |
 | Art. 21 | [art-021.md](art-021.md) | 21 Form and manner of returns |
 | Art. 21A | [art-021-a.md](art-021-a.md) | 21A Returns equivalent to Common Reporting Standard returns |
+| Art. 21B | [art-021-b.md](art-021-b.md) | 21B Offences |
+| Art. 21C | [art-021-c.md](art-021-c.md) | 21C Offences by bodies corporate and others |
 | Art. 22 | [art-022.md](art-022.md) | 22 Assessment of income |
 | Art. 23 | [art-023.md](art-023.md) | 23 Provision for making assessments where no returns are received |
-| Art. 24 | [art-024.md](art-024.md) | 24 Additional assessments |
+| Art. 24 | [art-024.md](art-024.md) | 24 Comptroller may amend assessments |
 | Art. 25 | [art-025.md](art-025.md) | 25 Notices of assessment |
 | Art. 27 | [art-027.md](art-027.md) | 27 Right of appeal |
 | Art. 28 | [art-028.md](art-028.md) | 28 Other provisions as to appeals |
@@ -308,7 +310,6 @@ L.29/1961 · official consolidation showing the law from 2022-01-01 · <https://
 | Art. 135 | [art-135.md](art-135.md) | 135 Deduction in respect of expenditure and houses of ministers of religion |
 | Art. 135A | [art-135-a.md](art-135-a.md) | 135A Persons granted 1(1)(k) housing consent or Entitled status under Regulation 2(1)(e) |
 | Art. 135B | [art-135-b.md](art-135-b.md) | 135B Exchange of information for the purposes of Article 135A |
-| Art. 136 | [art-136.md](art-136.md) | 136 Penalties for failure to deliver returns, etc. |
 | Art. 137 | [art-137.md](art-137.md) | 137 Penalties for fraudulently making incorrect statements, etc. |
 | Art. 139 | [art-139.md](art-139.md) | 139 Penalty for refusing to allow deduction of tax, and avoidance of agreements for payment without deduction |
 | Art. 141 | [art-141.md](art-141.md) | 141 Penalties to belong to States’ revenues |

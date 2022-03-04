@@ -179,6 +179,7 @@ In paragraphs 23 to 25 -
 (ii) from the estate of a person who dies before their 2019 liability is paid in full; and
 (b) allow the Comptroller to vary the payment dates that apply to a person on application from the person.
 (5) Regulations made under this paragraph must not waive, or reduce the amount of, a person’s 2019 liability.
+(6) Sub-paragraph (3) does not prevent the States from, after 31st March 2021, amending Regulations made under this paragraph.
 24 Income Tax (Amendment No. 46) (Jersey) Law 2021: transfer of payments from 2019 to 2020
 (1) This paragraph applies to a payment if -
 (a) the payment was made before 1st January 2021;
@@ -212,3 +213,6 @@ D is the amount of income tax already paid for 2020 (not including an amount ded
 (b) the person is entitled to a credit under Article 81O(6) in respect of that shareholder loan for a later year of assessment; and
 (c) the person’s 2019 liability has not been paid in full.
 (2) The Comptroller must apply the credit that the person is entitled to under Article 81O(6) towards the unpaid amount of the person’s 2019 liability.
+27 Taxation (Income Tax, Goods and Services Tax and Revenue Administration) (Amendment) (Jersey) Law 2022: savings and transitional arrangements for amending assessments
+(1) Article 23(1A) does not apply in respect of an assessment for a year of assessment that began before 1 January 2022.
+(2) If the Comptroller wishes to amend an assessment or make an additional assessment for a year of assessment that began before 1 January 2022, Article 24, as in force immediately before the commencement of the Taxation (Income Tax, Goods and Services Tax and Revenue Administration) (Amendment) (Jersey) Law 2022, applies.
