@@ -1,13 +1,12 @@
 # Goods and Services Tax (Jersey) Regulations 2007
 
-R&O.133/2007 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_133_2007_20220303>
+R&O.133/2007 · official consolidation showing the law from 2022-03-04 · <https://www.jerseylaw.je/laws/current/ro_133_2007_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 States a taxable person: Article 20 of Law |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Treatment of supplies to States: Article 20 of Law |
-| Reg. 4 | [reg-004.md](reg-004.md) | 4 Article 19(1) of Law modified: Article 20 of Law |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Application of Law to parishes: Article 20 of Law |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Treatment of other persons as States: Articles 20 and 53 of Law |
 | Reg. 6A | [reg-006-a.md](reg-006-a.md) | 6A Part applies to prescribe exceptions for purposes of Article 24(2) of Law |
