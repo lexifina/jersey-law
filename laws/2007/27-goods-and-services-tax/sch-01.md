@@ -21,7 +21,7 @@ REGISTRATION
 (4) However, if a person is the subject of registration that is in effect under paragraph 5 when the person becomes liable under paragraph 1, this paragraph shall not apply to that person.
 (5) A person who, without reasonable excuse, fails to comply with this paragraph shall be guilty of an offence and liable to a fine of level 3 on the standard scale.
 4 Registration
-(1) The Comptroller shall register a person after receiving a notification under paragraph 3 from the person.
+(1) Where the Comptroller is satisfied that a person is liable to be registered, the Comptroller must register the person (whether or not the person has notified liability in accordance with paragraph 3).
 (2) The registration of the person shall take effect -
 (a) in the case of liability under paragraph 1(1)(a), at the end of the month following the month referred to in that clause in relation to the person or, if an earlier date is agreed to between the Comptroller and the person, at that date instead;
 (b) in the case of liability under paragraph 1(1)(b), on the date on which the liability arose in relation to the person; or
