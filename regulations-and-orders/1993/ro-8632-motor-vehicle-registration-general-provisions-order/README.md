@@ -1,6 +1,6 @@
 # Motor Vehicle Registration (General Provisions) (Jersey) Order 1993
 
-R&O.8632 · official consolidation showing the law from 2022-02-01 · <https://www.jerseylaw.je/laws/current/ro_8632_20220306>
+R&O.8632 · official consolidation showing the law from 2022-03-07 · <https://www.jerseylaw.je/laws/current/ro_8632_20221225>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ R&O.8632 · official consolidation showing the law from 2022-02-01 · <https://w
 | Art. 10 | [art-010.md](art-010.md) | 10 Change of ownership of registered motor vehicle |
 | Art. 11 | [art-011.md](art-011.md) | 11 Insurance write off of registered motor vehicle |
 | Art. 12 | [art-012.md](art-012.md) | 12 Further information |
-| Art. 13 | [art-013.md](art-013.md) | 13 Verification of particulars |
+| Art. 13 | [art-013.md](art-013.md) | 13 Verification of particulars and cancellation following non-response |
 | Art. 14 | [art-014.md](art-014.md) | 14 Inspection of motor vehicle |
 | Art. 15 | [art-015.md](art-015.md) | 15 Amendment of the register |
 | Art. 16 | [art-016.md](art-016.md) | 16 Cancellation and replacement of registration document |

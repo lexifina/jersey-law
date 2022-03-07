@@ -30,12 +30,18 @@ In this Schedule -
 (b) 6 months after it was granted, if the person to whom it was granted has not by that time met the requirements of all of clauses (a) to (c) of that sub-paragraph.
 (4) The Inspector may, on the application of a person and on receipt of a fee of £93, extend the period of 6 months referred to in sub-paragraphs (2) and (3) by a further period of not more than 6 months.
 4 Grant of mark-right for registration mark that ceases to be assigned to a vehicle
-(1) Paragraph (2) applies if -
+(1) Sub-paragraph (2) applies if -
 (a) the owner of a registered motor vehicle notifies the Inspector under Article 5(1)(c) of the Law, and the Inspector cancels the registration under paragraph (5)(b) of that Article; or
 (b) the Inspector withdraws the registration mark assigned to a vehicle, on the application of the owner under paragraph 2 of this Schedule.
+(1A) Sub-paragraph (2A) applies if the Inspector cancels a registration under -
+(a) Article 13(7) of this Order; or
+(b) Article 5(4)(b) and (5)(b) of the Law.
 (2) The Inspector shall grant a mark-right in respect of the registration mark that, immediately before the cancellation or withdrawal, was the mark assigned to the vehicle -
 (a) to the owner, if the owner applies to the Inspector, on the published form, duly completed and accompanied by a fee of £99, for the grant of the mark-right to the owner; or
 (b) to a person other than the owner, if the owner and that other person apply jointly to the Inspector, on the published form, duly completed and accompanied by a fee of £114.50, for the grant of the mark-right to that other person.
+(2A) Provided at least 12 months have elapsed from the date of the cancellation of a registration referred to in paragraph (1A), the Inspector may grant a mark-right in respect of the registration mark assigned to the vehicle immediately before the cancellation to a person who applies on the published form, duly completed for the grant of the mark-right to that person.
+(2B) The form published for the purpose of sub-paragraph (2A) must include a part for the person making the application referred to in paragraph (2A) to complete or indicate that the person understands the requirements of the Law and this Order for the exercise of the mark-right and understands that the mark-right is not transferable once granted.
+(2C) For the avoidance of doubt, upon the grant under paragraph (2A) of a mark-right in respect of a registration mark to a person, any rights to that registration mark held by the person recorded in the register as the owner of the vehicle immediately before cancellation of the registration of that vehicle are extinguished.
 (3) The form published for the purpose of sub-paragraph (2)(b) shall include -
 (a) a part for the owner of the vehicle to complete to indicate that the owner consents to the grant of the mark-right to the other person, and understands the consequences of doing so; and
 (b) another part for the other person to complete to indicate that that other person understands the requirements of the Law and this Order for the exercise of the mark-right, and understands that the mark-right is not transferable once granted.
@@ -107,7 +113,7 @@ the Inspector shall, if all the applications are granted and are put into effect
 (1) A mark-right is not transferable.
 (2) Sub-paragraph (1) is without prejudice -
 (a) to any vesting of a mark-right in a person by operation of law; and
-(b) to the grant of a mark-right to a person other than the owner under paragraph 4(2)(b).
+(b) to the grant of a mark-right to a person other than the owner under paragraph 4(2)(b) or (2A).
 10 Alteration of use to or from hire
 (1) On receipt by the Inspector of an application under Article 7 with respect to the alteration of the use of a vehicle to use exclusively as a hire vehicle, the Inspector shall re-assign the registration mark assigned to the vehicle so as to include the distinguishing mark referred to in Article 20(1)(a), amend the register accordingly and issue to the owner of the vehicle a registration document in respect of the vehicle recording its new registration mark.
 (2) On receipt by the Inspector of an application under Article 7 with respect to the alteration of the use of a vehicle from use exclusively as a hire vehicle, the Inspector shall re-assign the registration mark assigned to the vehicle so as to remove the distinguishing mark referred to in Article 20(1)(a), amend the register accordingly and issue to the owner of the vehicle a registration document in respect of the vehicle recording its new registration mark.
