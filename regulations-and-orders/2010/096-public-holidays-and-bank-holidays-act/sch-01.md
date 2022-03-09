@@ -30,5 +30,7 @@ The last Monday in August is to be observed as a public holiday.
 part 2
 (Article 1(2))
 rules for specific years
-2021: 250th Anniversary of the Code of 1771
-Monday 27th September 2021 is to be observed as a public holiday.
+2022: Queen’s Platinum Jubilee
+In 2022 -
+(a) despite paragraph 5(3) of Part 1, Thursday 2nd June is to be observed as a public holiday instead of the last Monday in May; and
+(b) Friday 3rd June is to be observed as a public holiday.
