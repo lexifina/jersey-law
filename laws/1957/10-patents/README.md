@@ -1,6 +1,6 @@
 # Patents (Jersey) Law 1957
 
-L.10/1957 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_10_1957_20220308>
+L.10/1957 · official consolidation showing the law from 2022-03-09 · <https://www.jerseylaw.je/laws/current/l_10_1957_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
