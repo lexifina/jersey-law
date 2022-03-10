@@ -51,8 +51,8 @@ Notes:
 references in this paragraph to rights and benefits under the contract are references only to such rights and benefits as are attributable to the provisions of the contract relating to long-term business.
 (2) This paragraph does not apply to rights under a reinsurance contract.
 (3) Rights falling within this paragraph shall not be regarded as falling within paragraph 8.
-9A Defined benefit schemes
-Defined benefit schemes (within the meaning of Article 130B(2) of the Income Tax (Jersey) Law 1961).
+9A Pension schemes
+Approved Jersey schemes or approved drawdown contracts (as those terms are defined in Article 130(1) of the Income Tax (Jersey) Law 1961).
+Note: This paragraph applies only to the giving of investment advice in respect of a pension scheme.
 10 Rights and interests in investments
 Rights to and interests in anything which is an investment falling within any other paragraph of this Schedule.
-Note: This paragraph shall not apply to interests under the trusts of an occupational pension scheme.

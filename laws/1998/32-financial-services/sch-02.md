@@ -186,11 +186,6 @@ Note: For the purposes of this paragraph -
 “terms of a trust” shall have the meaning given to it by Article 1 of the Trusts (Jersey) Law 1984.
 17 Long-term insurance business by insurance companies
 Dealing in investments within paragraph 9 of Schedule 1 or rights in them, in so far as it constitutes the carrying on of long-term insurance business within the meaning of the Insurance Business (Jersey) Law 1996 by a person authorized to carry on that business in or from Jersey by a permit granted under Article 7 of that Law.
-18 Defined benefit schemes
-(1) Dealing in a defined benefit scheme by buying, selling, subscribing for or underwriting the defined benefit scheme, either as principal or as agent.
-(2) Undertaking discretionary investment management in respect of a defined benefit scheme by deciding as agent to buy, sell, subscribe for or underwrite a defined benefit scheme on behalf of a principal.
-(3) Giving investment advice in respect of a defined benefit scheme by giving to persons in their capacity as investors or potential investors advice on the merits of the purchase or sale of, subscription for, or underwriting of, a defined benefit scheme.
-(4) In this paragraph “defined benefit scheme” has the meaning given by Article 130B(2) of the Income Tax (Jersey) Law 1961.
 PART 2 - TRUST COMPANY BUSINESS
 18 Special purpose vehicle
 An activity specified in Article 2(3) and (4) carried on by a special purpose vehicle.
