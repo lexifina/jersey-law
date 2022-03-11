@@ -1,6 +1,6 @@
 # Electronic Communications (Jersey) Law 2000
 
-L.34/2000 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_34_2000_20220310>
+L.34/2000 · official consolidation showing the law from 2022-03-11 · <https://www.jerseylaw.je/laws/current/l_34_2000_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,7 +14,11 @@ L.34/2000 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 7 | [art-007.md](art-007.md) | 7 Place of dispatch and receipt of electronic communications |
 | Art. 8 | [art-008.md](art-008.md) | 8 Attribution of electronic communications |
 | Art. 9 | [art-009.md](art-009.md) | 9 Admissibility in evidence of information in electronic form |
-| Art. 10 | [art-010.md](art-010.md) | 10 Exemptions - Part 3 |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Validity of electronic signatures |
+| Art. 9B | [art-009-b.md](art-009-b.md) | 9B Remote witnessing of signatures |
+| Art. 9C | [art-009-c.md](art-009-c.md) | 9C Authority to attach electronic signature for another |
+| Art. 9D | [art-009-d.md](art-009-d.md) | 9D Power to exclude application of Articles 9B and 9C |
+| Art. 10 | [art-010.md](art-010.md) | 10 Exemptions |
 | Art. 11 | [art-011.md](art-011.md) | 11 Giving information in writing |
 | Art. 12 | [art-012.md](art-012.md) | 12 Requirement for signature |
 | Art. 13 | [art-013.md](art-013.md) | 13 Producing a document |
