@@ -1,6 +1,6 @@
 # Health Insurance Fund (Miscellaneous Provisions) (Jersey) Law 2011
 
-L.19/2011 · official consolidation showing the law from 2021-03-19 · <https://www.jerseylaw.je/laws/current/l_19_2011_20220324>
+L.19/2011 · official consolidation showing the law from 2022-03-25 · <https://www.jerseylaw.je/laws/current/l_19_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,5 +10,6 @@ L.19/2011 · official consolidation showing the law from 2021-03-19 · <https://
 | Art. 2A | [art-002-a.md](art-002-a.md) | 2A Withdrawal of money from Health Insurance Fund for 2013, 2014 and 2015 |
 | Art. 2B | [art-002-b.md](art-002-b.md) | 2B Withdrawal of money from Health Insurance Fund in response to Covid-19 |
 | Art. 2C | [art-002-c.md](art-002-c.md) | 2C Withdrawal of money from Health Insurance Fund for 2021 |
+| Art. 2D | [art-002-d.md](art-002-d.md) | 2D Withdrawal of money from Health Insurance Fund for 2022 |
 | Art. 3 | [art-003.md](art-003.md) | 3 Authority for Minister to withdraw expenses from Health Insurance Fund |
 | Art. 4 | [art-004.md](art-004.md) | 4 Citation |
