@@ -5,7 +5,7 @@
 (b) a principal person or former principal person of a person who is or was carrying on a supervised business; or
 (c) a company that is a holding company or subsidiary in relation to a person who is or was carrying on a supervised business.
 (3) In relation to an approved professional, this Article relates to any matter of which that person becomes aware in his or her capacity as the person making the report and which relates to the business or affairs of -
-(a) an applicant for a Level 1 registration;
+(a) an applicant for registration;
 (b) a person who is or was carrying on a supervised business;
 (c) a principal person or proposed principal person of that applicant or a person carrying on a supervised business; or
 (d) a former principal person of a person who is or was carrying on a supervised business; or

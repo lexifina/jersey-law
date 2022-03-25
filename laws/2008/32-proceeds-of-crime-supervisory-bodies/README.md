@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2021-10-13 · <https://www.jerseylaw.je/laws/current/l_32_2008_20220324>
+L.32/2008 · official consolidation showing the law from 2022-03-25 · <https://www.jerseylaw.je/laws/current/l_32_2008_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,7 +8,6 @@ L.32/2008 · official consolidation showing the law from 2021-10-13 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Meaning of “supervisory functions” |
 | Art. 3 | [art-003.md](art-003.md) | 3 Meaning of “anti-money laundering and counter-terrorism legislation” |
-| Art. 4 | [art-004.md](art-004.md) | 4 Meaning of “level of registration” |
 | Art. 5 | [art-005.md](art-005.md) | 5 Commission to be supervisory body for all supervised business carried on by any person carrying on a regulated busines |
 | Art. 6 | [art-006.md](art-006.md) | 6 Designation of supervisory bodies |
 | Art. 7 | [art-007.md](art-007.md) | 7 Guidance, directions and accountability |
@@ -16,11 +15,10 @@ L.32/2008 · official consolidation showing the law from 2021-10-13 · <https://
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Duty of supervisory body to use a risk-based approach |
 | Art. 9 | [art-009.md](art-009.md) | 9 Limitation of liability |
 | Art. 10 | [art-010.md](art-010.md) | 10 Prohibition of carrying on unauthorized specified Schedule 2 business |
-| Art. 11 | [art-011.md](art-011.md) | 11 Application for appropriate level of registration and deemed registration |
+| Art. 11 | [art-011.md](art-011.md) | 11 Application for registration and deemed registration |
 | Art. 12 | [art-012.md](art-012.md) | 12 Determination of relevant supervisory body |
-| Art. 13 | [art-013.md](art-013.md) | 13 Application for a level 1 registration |
-| Art. 14 | [art-014.md](art-014.md) | 14 Grant or refusal of application for a level 1 registration |
-| Art. 15 | [art-015.md](art-015.md) | 15 Application for a level 2 registration and grant or grounds for refusal |
+| Art. 13 | [art-013.md](art-013.md) | 13 Application for registration |
+| Art. 14 | [art-014.md](art-014.md) | 14 Grant or refusal of application for registration |
 | Art. 16 | [art-016.md](art-016.md) | 16 Notice of refusal to register |
 | Art. 17 | [art-017.md](art-017.md) | 17 Conditions of registration |
 | Art. 18 | [art-018.md](art-018.md) | 18 Revocation of registration |
