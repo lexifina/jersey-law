@@ -8,9 +8,9 @@ RE-EXTRADITION PROCEEDINGS
 (c) the Magistrate shall have the same powers (as nearly as may be) as he or she would have if the proceedings were a trial before the Magistrate of the person whose re-extradition is requested.
 (2) If the Magistrate adjourns the proceedings, the Magistrate shall remand the person in custody or on bail.
 (3) If the Magistrate remands the person in custody, the Magistrate may later grant bail to the person.
-(4) In relation to the re-extradition hearing, Article 2 of the Costs in Criminal Cases (Jersey) Law 1961 shall apply as if -
-(a) the reference in that other Law to conviction were a reference to an order that the person be re-extradited under this Law; and
-(b) the reference in that other Law to discharge from prosecution were a reference to the person’s discharge under this Law.
+(4) In relation to the re-extradition hearing, Article 2 of the Costs in Criminal Cases (Jersey) Law 1961 and Regulations made under Article 6 of that Law shall apply as if -
+(a) the reference in that other Law and Regulations made under Article 6 of that other Law to conviction were a reference to an order that the person be re-extradited under this Law; and
+(b) the reference in that other Law and Regulations made under Article 6 of that other Law to discharge from prosecution were a reference to the person’s discharge under this Law.
 2 Initial stages of re-extradition hearing
 (1) If a person who is alleged to be the person whose re-extradition is requested appears or is brought before the Magistrate for the re-extradition hearing, the Magistrate shall decide whether the offence specified in the request is an extradition offence.
 (2) If the Magistrate decides the question in sub-paragraph (1) in the negative, the Magistrate shall order that the person be discharged.
@@ -221,7 +221,7 @@ whichever occurs first.
 (4) The circumstances to which this sub-paragraph refers are that on the dismissing of the appeal by the Royal Court, the court is not immediately informed on behalf of the designated territory of an intention to apply for such leave.
 Paragraphs 30 to 34 deleted by L.21/2016.
 35 Costs on appeal to Royal Court
-On any appeal to it under this Schedule, the Royal Court may make such order as to costs (in respect of the proceedings before it or in respect of the re-extradition hearing) as it considers just and reasonable.
+On any appeal to the Royal Court under this Schedule, Article 3 of the Costs in Criminal Cases (Jersey) Law 1961 and Regulations made under Article 6 of that Law shall apply as if the references in that Law and Regulations made under Article 6 of that Law to a conviction, or a sentence, were references to an order that the person be extradited under this Law.
 36 Time limit for start of hearing of appeal to Royal Court
 (1) Rules of court shall prescribe the period within which the Royal Court shall begin to hear an appeal under any of paragraphs 25 and 27.
 (2) The Royal Court may from time to time extend the period in a particular case, if the court believes that it is in the interests of justice to do so.
