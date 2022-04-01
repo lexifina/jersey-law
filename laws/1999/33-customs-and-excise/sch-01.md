@@ -86,61 +86,115 @@ Rate of excise duty per hectolitre
 (a) petrol is “higher octane” if its research octane number is not less than 96 and its motor octane number is not less than 86;
 (b) “ultra low sulphur petrol” means unleaded petrol the sulphur content of which does not exceed 0.005% by weight; and
 (c) “ultra low sulphur diesel” means gas oil the sulphur content of which does not exceed 0.005% by weight.
-8 Motor vehicles
+8 Motor vehicles - general
 (1) In this paragraph -
+“commercial vehicle” has the meaning given in paragraph 8A(1);
 “established CO2 mass emission figure” means, in relation to a vehicle, the grams per kilometre of carbon dioxide emitted by the vehicle, established in accordance with sub-paragraphs (2) and (3);
 “motor vehicle” does not include a restricted speed agricultural tractor, defined in paragraph 9(1);
 “vehicle emissions duty” means the excise duty payable as described in Article 38(3) or (5).
 (2) The CO2 mass emission figure for a motor vehicle shall be established when the motor vehicle is first registered in Jersey and shall be the figure specified in a document produced in accordance with the requirements for registration that are prescribed under Part 2 of the Motor Vehicle Registration (Jersey) Law 1993.
 (3) Where more than one CO2 mass emission figure is specified in a document described in sub-paragraph (2), the CO2 mass emission figure established for the motor vehicle shall be -
-(a) the figure specified as the combined figure or, if there is more than one combined figure, the lowest of them; or
-(b) where there is no combined figure, the lowest figure specified.
-(4) The rate of vehicle emissions duty charged on a motor vehicle is -
-(a) in the case of a motor vehicle that has an established CO2 mass emission figure, the rate specified in column 2 of Table 1 for the motor vehicle’s established CO2 mass emission figure, specified in column 1 of Table 1;
-(b) in the case of a motor vehicle that does not have an established CO2 mass emission figure, the rate specified in column 2 of Table 2 for the cylinder capacity of the motor vehicle’s engine, specified in column 1 of Table 2.
-Table 1
-Vehicles with established CO2 mass emission figure
-1
-Established CO2 mass emission figure in grams
-2
-Rate of vehicle emissions duty £
+(a) the figure specified as the combined figure or, if there is more than one combined figure, the highest of them; or
+(b) where there is no combined figure, the highest figure specified.
+(4) For motor vehicles (other than commercial vehicles) that have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
+Established CO2 mass emission figure (g)
+Vehicle emissions duty (£)
 0-50
 0
 51-75
-53.66
+55
 76-100
-160.97
+165
 101-125
-268.28
+290
 126-150
-429.24
+470
 151-175
-804.83
+900
 176-200
-1,341.38
+2,000
 201 or more
-1,931.58
-Table 2
-Vehicles without an established CO2 mass emission figure
-1
-Cylinder capacity of engine in cubic centimetres
-2
-Rate of vehicle emissions duty £
+3,300
+(5) For motor vehicles (other than commercial vehicles) that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
+Cylinder capacity of engine (cm3)
+Vehicle emissions duty (£)
 500 or less
 0
 501 - 1400
+220
+1401 - 1800
+390
+1801 - 2000
+560
+2001 - 2500
+850
+2501 - 3000
+1400
+3001 - 3500
+2000
+3501 or more
+3,300
+8A Motor vehicles - commercial vehicles
+(1) In this paragraph -
+“commercial vehicle” means a vehicle of a type that is designed to be used to transport goods or materials (rather than passengers);
+“established CO2 mass emission figure” has the meaning given in paragraph 8(1);
+“lower emission vehicle” means a vehicle that complies with the Euro 5 emission limits set out in Annex I, Table 1 of Regulation No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 171, 29.6.2007, p. 1);
+“vehicle emissions duty” has the meaning given in paragraph 8(1).
+(2) For commercial vehicles that have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
+Established CO2 mass emission figure (g)
+Vehicle emissions duty for lower emission vehicle (£)
+Vehicle emissions duty for vehicle that is not lower emission vehicle (£)
+0-50
+0
+0
+51-75
+0
+53.66
+76-100
+0
+160.97
+101-125
+53.66
+268.28
+126-150
+160.97
+429.24
+151-175
+268.28
+804.83
+176-200
+429.24
+1,341.38
+201 or more
+804.83
+1,931.58
+(3) For commercial vehicles that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
+Cylinder capacity of engine (cm3)
+Vehicle emissions duty for lower emission vehicle (£)
+Vehicle emissions duty for vehicle that is not lower emission vehicle (£)
+500 or less
+0
+0
+501 - 1400
+0
 214.62
 1401 - 1800
+0
 375.59
 1801 - 2000
+214.62
 536.55
 2001 - 2500
+375.59
 751.17
 2501 - 3000
+536.55
 1,073.10
 3001 - 3500
+751.17
 1,395.03
 3501 or more
+1,073.10
 1,931.58
 9 Restricted speed agricultural tractors
 (1) In this paragraph -
