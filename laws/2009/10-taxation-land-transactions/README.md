@@ -1,6 +1,6 @@
 # Taxation (Land Transactions) (Jersey) Law 2009
 
-L.10/2009 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20220403>
+L.10/2009 · official consolidation showing the law from 2022-04-04 · <https://www.jerseylaw.je/laws/current/l_10_2009_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

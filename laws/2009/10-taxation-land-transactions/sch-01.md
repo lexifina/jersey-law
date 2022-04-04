@@ -6,27 +6,55 @@ In this Schedule -
 “amount secured” means the amount advanced by a secured party, such amount being secured by a transaction to which Article 3(1)(c) applies;
 “gross value”, in relation to land, means its market value.
 2 Basic amount charged on the value of a transaction described in Article 3(1)(a) or (b)
-(1) Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction described in Article 3(1)(a) or (b) at the rate of £80 plus, where the value of the transaction -
-(a) does not exceed £50,000
+(1) Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction described in Article 3(1)(a) or (b) at the rate of £80 plus, the amount found in accordance with Table A (in the case of land used for non-domestic purposes) or, as the case may be, Table B (in the case of land used for domestic purposes) -
+Table A
+Land used for non-domestic purposes
+Value of the transaction
+Variable element of tax
+(i) does not exceed £50,000
 50p each £100 or part of £100 subject to a minimum of £10
-(b) exceeds £50,000 but does not exceed £300,000
+(ii) exceeds £50,000 but does not exceed £300,000
 £250 in respect of the first £50,000, plus £1.50 for each £100 or part of £100 in excess thereof
-(c) exceeds £300,000 but does not exceed £500,000
+(iii) exceeds £300,000 but does not exceed £500,000
 £4,000 in respect of the first £300,000, plus £2 for each £100 or part of £100 in excess thereof
-(d) exceeds £500,000 but does not exceed £700,000
+(iv) exceeds £500,000 but does not exceed £700,000
+£8,000 in respect of the first £500,000, plus £2.50 for each £100 or part of £100 in excess thereof
+(v) exceeds £700,000 but does not exceed £1,000,000
+£13,000 in respect of the first £700,000, plus £3 for each £100 or part of £100 in excess thereof
+(vi) exceeds £1,000,000 but does not exceed £1,500,000
+£22,000 in respect of the first £1,000,000 plus £3.50 for each £100 or part of £100 in excess thereof
+(vii) exceeds £1,500,000 but does not exceed £2,000,000
+£39,500 in respect of the first £1,500,000 plus £4 for each £100 or part of £100 in excess thereof
+(viii) exceeds £2,000,000
+£59,500 in respect of the first £2,000,000 plus £5 for each £100 or part of £100 in excess thereof
+Table B
+Land used for domestic purposes
+Value of the Transaction
+Variable element of tax
+(i) does not exceed £50,000
+50p each £100 or part of £100 subject to a minimum of £10
+(ii) exceeds £50,000 but does not exceed £300,000
+£250 in respect of the first £50,000, plus £1.50 for each £100 or part of £100 in excess thereof
+(iii) exceeds £300,000 but does not exceed £500,000
+£4,000 in respect of the first £300,000, plus £2 for each £100 or part of £100 in excess thereof
+(iv) exceeds £500,000 but does not exceed £700,000
 £8,000 in respect of the first £500,000, plus £3 for each £100 or part of £100 in excess thereof
-(e) exceeds £700,000 but does not exceed £1,000,000
+(v) exceeds £700,000 but does not exceed £1,000,000
 £14,000 in respect of the first £700,000, plus £3.50 for each £100 or part of £100 in excess thereof
-(f) exceeds £1,000,000 but does not exceed £1,500,000
+(vi) exceeds £1,000,000 but does not exceed £1,500,000
 £24,500 in respect of the first £1,000,000 plus £4.50 for each £100 or part of £100 in excess thereof
-(g) exceeds £1,500,000 but does not exceed £2,000,000
+(vii) exceeds £1,500,000 but does not exceed £2,000,000
 £47,000 in respect of the first £1,500,000 plus £5.50 for each £100 or part of £100 in excess thereof
-(h) exceeds £2,000,000 but does not exceed £3,000,000
+(viii) exceeds £2,000,000 but does not exceed £3,000,000
 £74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
-(i) exceeds £3,000,000 but does not exceed £6,000,000
+(ix) exceeds £3,000,000 but does not exceed £6,000,000
 £144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
-(j) exceeds £6,000,000
+(x) exceeds £6,000,000
 £429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
+(1A) For the purposes of sub-paragraph (1) -
+(a) a reference to domestic use must be construed as a reference to use for domestic purposes in accordance with the Rates (Jersey) Law 2005;
+(b) a reference to non-domestic use must be construed as a reference to use for non-domestic purposes in accordance with that Law;
+(c) any question whether land is used for domestic or non-domestic purposes is determined in accordance with the use indicated in the Rates List maintained and kept under that Law for the parish in which the land is situated at the date of the relevant transaction.
 (2) For the purposes of sub-paragraph (1), where consideration passes in respect of a transaction described in Article 3(1)(a) or (b), the value of the transaction is the amount of the consideration or, if the gross value of the land to which the transaction relates exceeds such consideration, the gross value of the land.
 (3) For the purposes of sub-paragraph (1), where no consideration passes in respect of a transaction described in Article 3(1)(a) or (b), the value of the transaction is the gross value of the land to which it relates.
 (4) Notwithstanding sub-paragraphs (2) and (3), for the purposes of sub-paragraph (1), where a transaction described in Article 3(1)(a) is for the transfer of shares by a sole owner into joint ownership with another person, or where a transaction described in Article 3(1)(b) is for an alteration of a declaration of trusts whereby a share held on trust for the benefit of one person is henceforth held on trust for the benefit of that person jointly with another person, the value of the transaction is the amount of consideration for it or, if one half of the gross value of the land exceeds such consideration, one half of the gross value of land.
