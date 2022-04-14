@@ -18,6 +18,8 @@ North side (from a point opposite the west side of the second entrance to the Ho
 South side (from its junction with La Route de la Trinité westwards to the west side of the second entrance to the Howard Davis Farm).
 La Rue de la Garenne
 Both sides (from its junction with the entrance to the property known as “Beau Desert” to the point where it becomes a footpath).
+La Rue du Mont Pellier
+Both sides (between a point 20 yards north of Les Ruelles and a point 20 yards south of Les Ruelles).
 Rue du Moulin de Ponterrin
 North side (from its junction with Rue de la Boucterie for a distance of 25 yards).
 La Rue du Pont
@@ -47,3 +49,5 @@ East side (from the public toilets at the bottom of the hill to a point 12 yards
 North and west side (from a point opposite the western gable of the property known as “Undercliff Guest House” to a point 50 yards beyond its junction with La Vieille Charrière).
 South side (from a point 100 yards west of the western gable of the property known as “Undercliff Guest House” for a distance of 42 yards further west).
 South and east side (from a point 50 yards south of its junction with La Vielle Charriere to a point 106 yards east of that junction).
+Les Ruelles
+Both sides (between La Route de la Trinité and La Rue du Mont Pellier).

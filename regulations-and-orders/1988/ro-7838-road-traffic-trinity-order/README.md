@@ -1,6 +1,6 @@
 # Road Traffic (Trinity) (Jersey) Order 1988
 
-R&O.7838 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7838_20220413>
+R&O.7838 · official consolidation showing the law from 2022-04-14 · <https://www.jerseylaw.je/laws/current/ro_7838_20240215>
 
 | Provision | File | Heading |
 | --- | --- | --- |
