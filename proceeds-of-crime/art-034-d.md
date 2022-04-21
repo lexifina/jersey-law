@@ -1,8 +1,9 @@
 # 34D Failure in a financial institution to report to designated police officer, designated customs officer or nominated officer
 (1) This Article applies where the conditions in both paragraph (2) and paragraph (3) are fulfilled.
 (2) The first condition is that a person (“A”) knows, suspects or has reasonable grounds for suspecting that -
-(a) another person is engaged in money laundering; or
-(b) any property constitutes or represents proceeds of criminal conduct.
+(a) another person is engaged in money laundering;
+(b) any property constitutes or represents proceeds of criminal conduct; or
+(c) any property has been, is being or is intended to be used in criminal conduct.
 (3) The second condition is that the information or other matter on which A’s knowledge or suspicion is based, or which gives reasonable grounds for such suspicion, came to A in the course of the carrying on of a financial services business.
 (4) Where this Article applies, A must disclose, in accordance with the conditions set out in paragraph (4A) -
 (a) the knowledge, suspicion or grounds for suspicion mentioned in paragraph (2); and

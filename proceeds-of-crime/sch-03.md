@@ -87,7 +87,7 @@ provide information of the description specified in the application to a police 
 (1) A statement made by a person carrying on a financial services business in response to an account monitoring order may not be used in evidence against that person in criminal proceedings.
 (2) However, sub-paragraph (1) does not apply -
 (a) in the case of proceedings for contempt of court;
-(b) in the case of proceedings for or in respect of a confiscation order; or
+(b) in the case of proceedings for or in respect of a confiscation order or an instrumentalities forfeiture order; or
 (c) on a prosecution for an offence where, in giving evidence, the person carrying on a financial services business makes a statement inconsistent with the statement mentioned in sub-paragraph (1).
 (3) A statement may not be used by virtue of sub-paragraph (2)(c) against a person carrying on a financial services business unless -
 (a) evidence relating to it is adduced; or
