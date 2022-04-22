@@ -1,6 +1,6 @@
 # Connétables (Jersey) Law 2008
 
-L.15/2008 · official consolidation showing the law from 2021-07-30 · <https://www.jerseylaw.je/laws/current/l_15_2008_20220421>
+L.15/2008 · official consolidation showing the law from 2022-04-22 · <https://www.jerseylaw.je/laws/current/l_15_2008_20220428>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,7 +11,7 @@ L.15/2008 · official consolidation showing the law from 2021-07-30 · <https://
 | Art. 4 | [art-004.md](art-004.md) | 4 Term of office of person filling casual vacancy |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Declaration to be made when nominated |
 | Art. 4B | [art-004-b.md](art-004-b.md) | 4B Qualification for election as Connétable |
-| Art. 4C | [art-004-c.md](art-004-c.md) | 4C Disqualification for election or office |
+| Art. 4C | [art-004-c.md](art-004-c.md) | 4C Disqualification |
 | Art. 4D | [art-004-d.md](art-004-d.md) | 4D Supervisory jurisdiction of the Royal Court |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
