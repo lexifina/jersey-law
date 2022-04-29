@@ -1,6 +1,6 @@
 # Connétables (Jersey) Law 2008
 
-L.15/2008 · official consolidation showing the law from 2022-04-22 · <https://www.jerseylaw.je/laws/current/l_15_2008_20220428>
+L.15/2008 · official consolidation showing the law from 2022-04-29 · <https://www.jerseylaw.je/laws/current/l_15_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ L.15/2008 · official consolidation showing the law from 2022-04-22 · <https://
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Declaration to be made when nominated |
 | Art. 4B | [art-004-b.md](art-004-b.md) | 4B Qualification for election as Connétable |
 | Art. 4C | [art-004-c.md](art-004-c.md) | 4C Disqualification |
+| Art. 4CA | [art-004-ca.md](art-004-ca.md) | 4CA Effect of direction to resign |
 | Art. 4D | [art-004-d.md](art-004-d.md) | 4D Supervisory jurisdiction of the Royal Court |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |

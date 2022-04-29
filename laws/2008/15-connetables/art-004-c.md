@@ -22,3 +22,4 @@
 (b) in any other case, on the expiry of the period of 5 years beginning with the day on which the terms of the composition or arrangement are fulfilled.
 (6) Paragraph (7) applies to a person who has been convicted of an offence by reference to which paragraph (3)(h) applies (the “disqualification offence”).
 (7) The person ceases to be a “disqualified person” by reason of paragraph (3)(h) on the expiry of the period of 7 years beginning with the day of the person’s conviction for the disqualification offence.
+(8) Article 18(2) of the Public Elections (Expenditure and Donations) (Jersey) Law 2014 makes further provision about disqualification following conviction for an offence under that Law.
