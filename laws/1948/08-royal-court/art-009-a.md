@@ -1,4 +1,4 @@
-# 9A Appointment of one or more Jurats by the Bailiff
+# 9A Appointment of Guernsey Jurats to act as Jurats in Jersey
 (1) Notwithstanding Articles 1 and 2(1), the Bailiff may appoint one or more Jurats of the Guernsey Royal Court to act as a Jurat for the purpose of such particular cause or matter as the Bailiff may determine.
 (2) The Bailiff may make an appointment under paragraph (1) only after consulting the Bailiff of Guernsey.
 (3) A person appointed under paragraph (1) shall -

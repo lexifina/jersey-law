@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/l_8_1948_20220428>
+L.8/1948 · official consolidation showing the law from 2022-04-29 · <https://www.jerseylaw.je/laws/current/l_8_1948_20220930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,8 +13,9 @@ L.8/1948 · official consolidation showing the law from 2022-04-01 · <https://w
 | Art. 6 | [art-006.md](art-006.md) | 6 Contested appointments |
 | Art. 7 | [art-007.md](art-007.md) | 7 Oath of Jurat |
 | Art. 8 | [art-008.md](art-008.md) | 8 Void appointments |
-| Art. 9 | [art-009.md](art-009.md) | 9 Retirement of Jurats |
-| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Appointment of one or more Jurats by the Bailiff |
+| Art. 9 | [art-009.md](art-009.md) | 9 Retirement and resignation of Jurats |
+| Art. 9AA | [art-009-aa.md](art-009-aa.md) | 9AA Appointment to serve as a Jurat after retirement |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Appointment of Guernsey Jurats to act as Jurats in Jersey |
 | Art. 10 | [art-010.md](art-010.md) | 10 Appointment of Commissioners |
 | Art. 11 | [art-011.md](art-011.md) | 11 Oath of Commissioner |
 | Art. 12 | [art-012.md](art-012.md) | 12 Powers of Commissioners |
