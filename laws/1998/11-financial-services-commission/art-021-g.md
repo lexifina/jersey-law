@@ -2,7 +2,7 @@
 (1) Subject to this Article the Commission may retain any sum of money it receives in respect of a penalty as part of its income.
 (2) The money must be treated as if it were part of the fees due from registered persons of the same class (with reference to the various meanings of ‘registered person’ set out in Article 1 and the various classes of financial service business in respect of which a person may be registered as mentioned in paragraph (c) of that definition) as the registered person -
 (a) on whom the penalties were imposed; or
-(b) in the case of a penalty imposed on a principal person, of which the person is a principal person,
+(b) in the case of a penalty imposed on a principal person, key person or a person who performs or performed a senior management function, of which the person is a principal person, key person or a person who performs or performed a senior management function,
 so as to reduce the level of fees that would otherwise have been charged to those registered persons.
 (3) However, if the result of the application of paragraph (2) would be to reduce substantially the level of fees that the Commission would otherwise have charged, the Commission may pay the money, or a proportion of it, to the States.
 (4) An Order may prescribe the circumstances in which money received by the Commission in respect of a penalty must be paid to the States.
