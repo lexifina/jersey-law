@@ -3,19 +3,22 @@
 judicial fees
 1 Lettered Rates
 In the column headed “Stamp Duty, by Figure or Rate” in the tables in paragraph 3, the amounts represented by the lettered rates (if shown) in those tables are -
-(a) by rate A, £1;
-(b) by rate B, £15;
-(c) by rate C, £30;
-(d) by rate D, £40;
-(e) by rate E, £60;
-(f) by rate F, £80;
-(g) by rate G, £120;
-(h) by rate H, £150;
-(i) by rate I, £200;
-(j) by rate J, £300;
-(k) by rate K, £360;
-(l) by rate L, £500;
-(m) by rate M, £1,500.
+(a) by rate A, £1.50;
+(b) by rate B, £16;
+(c) by rate C, £35;
+(d) by rate D, £45;
+(e) by rate E, £65;
+(f) by rate F, £90;
+(g) by rate G, £130;
+(h) by rate H, £165;
+(i) by rate I, £220;
+(j) by rate J, £330;
+(k) by rate K, £400;
+(l) by rate L, £550;
+(m) by rate M, £750;
+(n) by rate N, £1,000;
+(o) by rate O, £1,250;
+(p) by rate P, £1,500.
 2 Bands relating to value in item 13
 The table set out in this paragraph is to be read as included in each paragraph of item 13 where there is an entry “See table in paragraph 2”.
 Item 13
@@ -218,9 +221,14 @@ Application or Claim Summary
 Greffier
 (2)
 In the Royal Court (excluding acknowledgement of debt) on Table or au Greffe -
-(a) First billet in the proceedings or counterclaim in an action
+(a) First billet in the proceedings or counterclaim in an action -
+(i) where the value of the claim or the value of the assets affected by the claim does not exceed £2 million
 rate J
-Billet or Counterclaim
+Billet or application
+Greffier
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+rate P
+Billet or application
 Greffier
 (b) Before the Superior Number
 rate J
@@ -230,17 +238,40 @@ Greffier
 rate J
 Notice of Appeal
 Greffier
-(d) Setting down for hearing
+(d) Setting down for hearing -
+(i) where the value of the claim or the value of the assets affected by the claim does not exceed £2 million
 rate J
 Application
 Greffier
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+rate P
+Application
+Greffier
 (e) Hearing of the action in a case, or any interlocutory matter therein, where the court appoints a special day for judging a dispute between parties, whether or not witnesses are heard, for each half day or part of a half day -
+(i) where the value of the claim or the value of the assets affected by the claim does not exceed £100,000
+rate J
 Billet or application
 Greffier
-(i) where the claim does not exceed £2 million
-rate J
-(ii) where the claim exceeds £2 million
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £100,000 but does not exceed £500,000
+rate L
+Billet or application
+Greffier
+(iii) where the value of the claim or the value of the assets affected by the claim exceeds £500,000 but does not exceed £1 million
 rate M
+Billet or application
+Greffier
+(iv) where the value of the claim or the value of the assets affected by the claim exceeds £1 million but does not exceed £1.5 million
+rate N
+Billet or application
+Greffier
+(v) where the value of the claim or the value of the assets affected by the claim exceeds £1.5 million but does not exceed £2 million
+rate O
+Billet or application
+Greffier
+(vi) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+rate P
+Billet or application
+Greffier
 (f) Each intervention or opposition made during the course of an action
 rate E
 Intervention or Opposition
@@ -706,7 +737,8 @@ Viscount
 rate G
 Record
 Viscount
-(c) Renewal of distraint
+(c)
+Renewal of distraint
 rate G
 Record
 Viscount
@@ -818,7 +850,7 @@ Designated Officer
 JUDGMENTS, REGISTRATION OF, under Judgments (Reciprocal Enforcement) (Jersey) Law 1960 -
 (a)
 Application for
-rate H
+rate J
 Application
 Greffier
 (b)
@@ -908,14 +940,24 @@ Designated Officer
 31.
 ORDERS OF JUSTICE AND PROVISIONAL ORDERS -
 (a)
-Order of justice signed by Bailiff
-rate E
+Order of justice signed by Bailiff -
+(i) where the value of the claim or the value of the assets affected by the claim does not exceed £2 million
+rate J
+Order of justice
+Bailiff
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+rate P
 Order of justice
 Bailiff
 (b)
 Provisional order -
-(i) signed by Bailiff
-rate E
+(i) signed by Bailiff -
+(A) where the value of the claim or the value of the assets affected by the claim does not exceed £2 million
+rate J
+Provisional order
+Bailiff
+(B) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+rate P
 Provisional order
 Bailiff
 (ii) signed by Judge of Petty Debts Court
@@ -1026,13 +1068,23 @@ Designated Officer
 36.
 REMONSTRANCE, REPRESENTATION OR DOLEANCE -
 (a)
-Presentation to Court
-rate G
+Presentation to Court -
+(i) where the value of the assets affected by the remonstrance, representation or doléance does not exceed £2 million
+rate J
+Remonstrance, representation or doléance
+Greffier
+(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million
+rate P
 Remonstrance, representation or doléance
 Greffier
 (b)
-Where the Court fixes a special day for the hearing, each half day or part of a half day
+Where the Court fixes a special day for the hearing, each half day or part of a half day -
+(i) where the value of the assets affected by the remonstrance, representation or doléance does not exceed £2 million
 rate L
+Remonstrance, representation or doléance
+Greffier
+(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million
+rate P
 Remonstrance, representation or doléance
 Greffier
 Item 37.
@@ -1059,14 +1111,10 @@ Designated Officer
 SUMMONS, HEARING OF -
 (a)
 Fixing date for hearing before the Greffier
-rate C
+rate G
 Summons
 Greffier
 (b)
-Contested order by the Court, each half day or part of a half day
-rate K
-Summons
-Greffier
 (c)
 Contested order by the Greffier, each half day or part of a half day
 rate J
@@ -1108,16 +1156,26 @@ Chargeable Document
 Designated Officer
 40.
 SUMMONS, SERVICE OF, order for service out of jurisdiction and/or substituted service
-rate E
+rate J
 Order
 Bailiff or Greffier
+Item 40A.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+40A.
+CONSENT ORDERS WITHOUT HEARING
+For approval of a consent order where no hearing has occurred
+rate G
+Act of court approving consent order
+Greffier
 Item 41.
 Stamp Duty, by Figure or Rate
 Chargeable Document
 Designated Officer
 41.
 TAXATION OF COSTS BY GREFFIER, for each half hour
-rate E
+rate G
 Bill of costs
 Greffier
 Item 42.
@@ -1152,7 +1210,7 @@ Chargeable Document
 Designated Officer
 43.
 TRUSTS AND CORPORATIONS under Loi (1862) sur les teneures en fideicommis et l’incorporation d’associations, application for creation or extension of a trust or an Act of incorporation
-rate E
+rate J
 Application
 Greffier
 Item 44.
@@ -1327,15 +1385,6 @@ Greffier
 Notwithstanding the above sub-paragraphs, if an application referred to in any of the above sub-paragraphs is required to be made on Form C1 in the Children Rules 2005 and is required to be accompanied by an application for special leave in Form C2 in those Rules, no fee is payable in relation to the application made in Form C1.
 No fee is payable in relation to an application referred to in Rule 6 of the Children Rules 2005.
 Item 48.
-Stamp Duty, by Figure or Rate
-Chargeable Document
-Designated Officer
-48.
-PLANNING APPEALS “ON THE PAPERS”
-For Planning Appeals dealt with by the Greffier without the need for an oral hearing under the provisions of Rule 15/3C of the Royal Court Rules 2004
-rate L
-Notice of Appeal
-Greffier
 Item 49.
 Stamp Duty, by Figure or Rate
 Chargeable Document
