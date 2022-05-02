@@ -1,6 +1,6 @@
 # Shipping (Registration) (Jersey) Regulations 2004
 
-R&O.30/2004 · official consolidation showing the law from 2022-03-03 · <https://www.jerseylaw.je/laws/current/ro_30_2004_20220501>
+R&O.30/2004 · official consolidation showing the law from 2022-05-02 · <https://www.jerseylaw.je/laws/current/ro_30_2004_20241216>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -39,6 +39,7 @@ R&O.30/2004 · official consolidation showing the law from 2022-03-03 · <https:
 | Reg. 32 | [reg-032.md](reg-032.md) | 32 Transitional provision |
 | Reg. 32A | [reg-032-a.md](reg-032-a.md) | 32A Transitional provision - Shipping Registration (Amendment) (Jersey) Regulations 2011 |
 | Reg. 33 | [reg-033.md](reg-033.md) | 33 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | schedule A1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 1 |
+| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 2 |
+| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 3 |

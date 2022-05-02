@@ -1,70 +1,35 @@
-# SCHEDULE 2
-(Regulations 16(5))
-DETAILS TO GO ON REGISTER
-1. The following information is to be registered about each owner who is an individual -
-(a) surname, forename and title;
-(b) address;
-(c) nationality;
-(d) number of shares owned by the owner, and if held jointly, with whom the shares are held;
-(e) the name of the managing owner; and
-(f) the name and address of any representative person.
-2. The following information is to be registered about each owner that is a body corporate -
-(a) name of the body corporate;
-(b) the address of its registered or main office or principal place of business;
-(c) number of shares owned by the company, and if held jointly, with whom the shares are held;
-(e) the name of the managing owner; and
-(f) the name and address of any representative person.
-3. If a Minister of the States is an owner of a ship the name of the Minister is to be entered in the register.
-4. If a corporation sole is an owner of a ship, the name of the corporation sole is to be entered in the register.
-5. The following information is to be registered about ships, other than fishing vessels, registered in the register -
-(a) name;
-(b) any IMO Number;
-(c) any radio call sign;
-(d) official number and any applicable EC number;
-(e) year built;
-(f) any method of propulsion e.g. sail, steam, motor or dumb;
-(g) where built;
-(h) name and address of builders;
-(i) date keel laid/when built;
-(j) length-metric units;
-(k) breadth-metric units;
-(l) depth-metric units;
-(m) type of ship;
-(n) material used to construct hull;
-(o) gross tonnage;
-(p) net tonnage ;
-(q) registered tonnage;
-I make and model of any engine(s);
-(s) total power of any engines in kilowatts;
-(t) any hull identity number (HIN).
-6. The following information is to be registered about fishing vessels registered on the register -
-(a) official number and any EC Number;
-(b) IMO number;
-(c) port number;
-(d) name;
-(e) radio call sign;
-(f) whether full or simple registration;
-(g) material used to construct hull;
-(h) name of builder;
-(i) year of build;
-(j) place and country of build;
-(k) date of entry into service;
-(l) overall length-metric units;
-(m) registered length-metric units;
-(n) breadth-metric units;
-(o) depth-metric units;
-(p) gross tonnage;
-(q) net tonnage;
-I maximum continuous engine power in kilowatts, or, if the owner notifies the Registrar of a modification, permanently de-rated engine power in kilowatts;
-(s) make and model of engine;
-(t) number of cylinders;
-(u) number of engines;
-(v) number of revolutions per minute;
-(w) modification explanation.
-7. The following additional information is to be registered in respect of a bareboat charter ship -
-(a) the name and address of its owner;
-(b) the name and address of its charterer;
-(c) any national unique identifier or official number;
-(d) its country of original registration;
-(e) the commencement date of the charter period and its expiry date;
-(f) the name (or a translation of the name) by which the ship was known on the register on which the ship was registered at the time the application was made to register the ship as a bareboat charter ship.
+# SCHEDULE 1
+(Regulations 15(2)(a))
+CARVING AND MARKING
+1. This Schedule sets out how a ship must be permanently and conspicuously marked before it can be registered.
+2. However, if the Registrar considers it appropriate to do so, the Registrar may -
+(a) exempt a class of ship from all or any of the requirements of this Schedule, with or without compliance with conditions; or
+(b) in respect of a particular ship, amend a requirement in such manner as the Registrar considers appropriate.
+3.-(1) Subject to clause 4, the name of the ship must be marked on each of its bows, and its name and “Jersey”, or in the case of a pleasure vessel, “Yacht Club” must be marked on its stern.
+(2) If the background is dark the marking is to be in a light contrasting colour and if it is light it is to be in a dark contrasting colour.
+(3) The ship’s official number and the number denoting its registered tonnage must be cut on its main beam.
+(4) In all cases the letters or numbers must be no less than 10 centimetres high or such other greater or lesser height as the Registrar may direct, and of proportional breadth.
+4.-(1) In the case of a fishing vessel -
+(a) its name and “Jersey” must be painted in white on a black background or in black on a white background outside the stern of the vessel in letters that are not be less than 8 centimetres in height and 1.5 centimetres in breadth,
+(b) the port number of the vessel must be painted or displayed on both sides of the bow and on each quarter, as high above the water as possible so as to be clearly visible from the sea and the air, in white on a black background or black on a white background.
+(2) The port number of a fishing vessel must -
+(a) be at least 25 centimetres high with a line thickness of at least 4 centimetres if the vessel is not over 17 metres in length or at least 45 centimetres high with a line thickness of at least 6 centimetres if the vessel is over 17 metres in length; and
+(e) be painted or displayed on the wheel house top or some other prominent horizontal surface.
+(3) A fishing vessel’s official number must be carved into its main beam.
+5.-(1) If compliance with a provision of clause 3 or 4 is not practical the Registrar may allow a ship to be marked in accordance with this clause.
+(2) The ship’s official number and registered tonnage may be -
+(a) marked on its main beam or, if there is no main beam, on a readily accessible visible permanent part of the structure of the ship either by cutting in, centre punching or raised lettering; or
+(b) engraved on a plate of metal, wood or plastic, secured to the main beam or, if there is no main beam, to a readily accessible visible permanent part of the structure with rivets, through bolts with the ends clenched or screws with the slots removed.
+(3) The name of the ship and “Jersey”, or in the case of a pleasure vessel, “Yacht Club” may be marked on a conspicuous and permanent part of the stern of the ship -
+(a) by engraving on plates of metal or of plastic, or by cutting in on a shaped wooden chock; or
+(b) by individual durable letters and numbers,
+in each case permanently fixed to the hull and painted with a suitable protective coating
+6.-(1) A scale of decimetres, or metres and decimetres, denoting a draught of water must be marked on each side of a ship’s stem and its stern post.
+(2) The scale must be marked -
+(a) in figures in 2-decimetre intervals, if the scale is in decimetres; and
+(b) in figures at each metre interval and at intervening 2-decimetre intervals, if the scale is in metres and decimetres.
+(3) The capital letter ‘M’ must be placed after each metre figure.
+(4) The top figure of the scale must show both the metre and (except where it marks a full metre interval) the decimetre figure.
+(5) The lower line of a figure must coincide with the draught line denoted by the figure.
+(6) The figures and letters must be not less than one decimetre in length.
+(7) The figures and letters must be marked by being cut in and painted in a light contrasting colour on a dark ground or in such other manner as the Registrar may approve.
