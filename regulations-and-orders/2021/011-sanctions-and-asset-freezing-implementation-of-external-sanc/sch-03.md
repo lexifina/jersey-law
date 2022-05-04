@@ -19,7 +19,9 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 In relation to the Russia (Sanctions) (EU Exit) Regulations 2019 -
 (a) a Crimean ports direction, given by the Secretary of State under regulation 57, has effect in Jersey as if it was given by the Minister, and paragraph 1(1) of Schedule 2 does not apply to the power to make that direction;
 (b) for the purpose of regulation 57D(8) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a);
-(c) for the purpose of regulation 57E(3)(c) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002; and
-(d) for the purpose of regulation 57J(1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 57J(1) are the operator and pilot in command of the aircraft.
+(c) for the purpose of regulation 57E(3)(c) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002;
+(d) for the purpose of regulation 57J(1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 57J(1) are the operator and pilot in command of the aircraft;
+(e) regulations 88A and 88B do not have effect under Article 2; and
+(f) a reference to OFCOM is to be read as a reference to the Minister.
 5 Syria (Sanctions) (EU Exit) Regulations 2019: aircraft offence
 In column 5 of the table in Schedule 1 to this Order, for the purpose of the reference to regulation 51(1) of the Syria (Sanctions) (EU Exit) Regulations 2019, the persons who commit the offence in Article 4(1)(a) of contravening regulation 51(1) are the operator and pilot in command of the aircraft.
