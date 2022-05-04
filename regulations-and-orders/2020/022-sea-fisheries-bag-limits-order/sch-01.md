@@ -257,12 +257,10 @@ Raja undulata
 5 comprised wholly of any single species or a combination of species
 Sea Bass
 Dicentrarchus labrax
-(a) 2 during the period from 1st March to 30th November (inclusive) in any year; or
-(b) 0 at all other times
-(a) 10 during the period from 1st March to 30th November (inclusive) in any year; or
-(b) 0 at all other times
-(a) 10 during the period from 1st March to 30th November (inclusive) in any year; or
-(b) 0 at all other times
+(a) 0 during the period 1st February to 31st March in any year; or
+(b) 2 at all other times
+(a) 0 during the period 1st February to 31st March in any year; or
+(b) 2 at all other times
 SHARKS/DOGFISH
 Bull Huss
 Small-spotted Catshark
@@ -297,7 +295,6 @@ Venerupis corrugata
 Ensis spp. and Solen Marginatus
 Acanthocardia tuberculata
 Spisula solida
-150 comprised wholly of any single species or a combination of species
 150 comprised wholly of any single species or a combination of species
 150 comprised wholly of any single species or a combination of species
 Smooth Hammerhead Shark
