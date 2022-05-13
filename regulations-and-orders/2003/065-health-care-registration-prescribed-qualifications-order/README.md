@@ -1,6 +1,6 @@
 # Health Care (Registration) (Prescribed Qualifications) (Jersey) Order 2003
 
-R&O.65/2003 · official consolidation showing the law from 2019-10-15 · <https://www.jerseylaw.je/laws/current/ro_65_2003_20220512>
+R&O.65/2003 · official consolidation showing the law from 2022-05-13 · <https://www.jerseylaw.je/laws/current/ro_65_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |

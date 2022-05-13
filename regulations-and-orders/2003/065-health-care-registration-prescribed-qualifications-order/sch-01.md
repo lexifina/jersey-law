@@ -17,6 +17,9 @@ Biomedical scientist
 3.
 Entry as a chiropodist in the register established and maintained under article 5 of the Health Professions Order
 Chiropodist
+3A.
+Entry as a chiropractor in the register established and maintained under section 2 of the Chiropractors Act 1994 of the United Kingdom
+Chiropractor
 4.
 Entry as a clinical scientist in the register established and maintained under article 5 of the Health Professions Order
 Clinical scientist
@@ -37,7 +40,7 @@ Qualification consisting of -
 (ii) a registered nurse: first level, or
 (iii) a specialist community public health nurse;
 (b) notation on that register as a nurse independent prescriber or nurse supplementary prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Nurse independent prescriber
 6.
 Entry as an occupational therapist in the register established and maintained under article 5 of the Health Professions Order
@@ -49,7 +52,7 @@ Operating department practitioner
 Qualification consisting of -
 (a) entry as an optometrist in the register established and maintained under Section 7 of the Opticians Act 1989 of the United Kingdom;
 (b) notation on that register as an optometrist independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Optometrist independent prescriber
 7.
 Entry as an orthoptist in the register established and maintained under article 5 of the Health Professions Order
@@ -61,13 +64,13 @@ Osteopath
 Qualification consisting of -
 (a) entry as a paramedic in the register established and maintained under article 5 of the Health Professions Order;
 (b) notation on that register as a paramedic independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Paramedic independent prescriber
 8B.
 Qualification consisting of -
 (a) entry as a pharmacist in the register established and maintained under article 19 of the Pharmacist Order 2010 of the United Kingdom;
 (b) notation on that register as a pharmacist independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Pharmacist independent prescriber
 9.
 Entry as a physiotherapist in the register established and maintained under article 5 of the Health Professions Order
@@ -76,7 +79,7 @@ Physiotherapist
 Qualification consisting of -
 (a) entry as a physiotherapist in the register established and maintained under article 5 of the Health Professions Order;
 (b) notation on that register as a physiotherapist independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Physiotherapist independent prescriber
 9A.
 Entry as a podiatrist in the register established and maintained under article 5 of the Health Professions Order
@@ -85,7 +88,7 @@ Podiatrist
 Qualification consisting of -
 (a) entry as a podiatrist in the register established and maintained under article 5 of the Health Professions Order;
 (b) notation on that register as a podiatrist independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Podiatrist independent prescriber
 10.
 Entry as a radiographer in the register established and maintained under article 5 of the Health Professions Order
@@ -97,7 +100,7 @@ Registered nurse: first level
 Entry as a registered nurse: second level in the register established and maintained under article 5 of the Nursing and Midwifery Order 2001 of the United Kingdom
 Registered nurse: second level
 10AC.
-Registration in the part of the register, established and maintained under article 5 of the Health Professions Order, relating to the social work profession in England
+Registration in the part of the register, established under section 39 of the Children and Social Work Act 2017 of the United Kingdom
 Social worker
 10A.
 Entry as a specialist community public health nurse in the register established and maintained under article 5 of the Nursing and Midwifery Order 2001 of the United Kingdom
@@ -110,5 +113,5 @@ Speech and language therapist
 Qualification consisting of -
 (a) entry as a therapeutic radiographer in the register established and maintained under article 5 of the Health Professions Order;
 (b) notation on that register as a therapeutic radiographer independent prescriber; and
-(c) a reasonable degree of experience, and of continuing professional development, in prescribing prescription only medicines
+(c)
 Therapeutic radiographer independent prescriber
