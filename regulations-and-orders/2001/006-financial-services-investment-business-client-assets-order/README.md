@@ -1,6 +1,6 @@
 # Financial Services (Investment Business (Client Assets)) (Jersey) Order 2001
 
-R&O.6/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_6_2001_20220516>
+R&O.6/2001 · official consolidation showing the law from 2022-05-17 · <https://www.jerseylaw.je/laws/current/ro_6_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,14 +19,15 @@ R&O.6/2001 · official consolidation showing the law from 2019-01-01 · <https:/
 | Art. 12 | [art-012.md](art-012.md) | 12 Application of Part 3 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Protection of investments |
 | Art. 14 | [art-014.md](art-014.md) | 14 Registrable investments |
-| Art. 15 | [art-015.md](art-015.md) | 15 Safekeeping of documents: general |
-| Art. 16 | [art-016.md](art-016.md) | 16 Safekeeping of documents by the registered person |
-| Art. 17 | [art-017.md](art-017.md) | 17 Safekeeping of documents by a registered person’s own nominee |
-| Art. 18 | [art-018.md](art-018.md) | 18 Safekeeping of documents held by an approved custodian who is not the registered person’s own nominee |
-| Art. 19 | [art-019.md](art-019.md) | 19 Accounting for and reconciliation of title to investments |
+| Art. 15 | [art-015.md](art-015.md) | 15 Safekeeping of protected property: general |
+| Art. 16 | [art-016.md](art-016.md) | 16 Safekeeping of protected property by the registered person |
+| Art. 17 | [art-017.md](art-017.md) | 17 Safekeeping of protected property by a registered person’s own nominee |
+| Art. 18 | [art-018.md](art-018.md) | 18 Safekeeping of protected property held by an approved custodian who is not the registered person’s own nominee |
+| Art. 19 | [art-019.md](art-019.md) | 19 Accounting for and reconciliation of protected property |
 | Art. 20 | [art-020.md](art-020.md) | 20 Storage of client property |
 | Art. 21 | [art-021.md](art-021.md) | 21 Insurance |
 | Art. 22 | [art-022.md](art-022.md) | 22 Third parties |
+| Art. 22A | [art-022-a.md](art-022-a.md) | 22A Transitional provision |
 | Art. 23 | [art-023.md](art-023.md) | 23 Application of Part 4 |
 | Art. 24 | [art-024.md](art-024.md) | 24 Creation of statutory trust |
 | Art. 25 | [art-025.md](art-025.md) | 25 Meaning of “pooling event” |
