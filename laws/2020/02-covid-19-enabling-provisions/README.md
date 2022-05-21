@@ -1,6 +1,6 @@
 # Covid-19 (Enabling Provisions) (Jersey) Law 2020
 
-L.2/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-02-2020.aspx>
+L.2/2020 Â· official consolidation showing the law from 2022-05-21 Â· <https://www.jerseylaw.je/laws/current/l_2_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
