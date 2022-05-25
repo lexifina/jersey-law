@@ -1,6 +1,6 @@
 # Customs and Excise (Jersey) Law 1999
 
-L.33/1999 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/l_33_1999_20220524>
+L.33/1999 · official consolidation showing the law from 2022-05-25 · <https://www.jerseylaw.je/laws/current/l_33_1999_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
