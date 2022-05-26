@@ -1,6 +1,6 @@
 # Customs and Excise (Safety and Security) (Import) (Jersey) Order 2021
 
-R&O.134/2021 · official consolidation showing the law from 2021-11-05 · <https://www.jerseylaw.je/laws/current/ro_134_2021_20220525>
+R&O.134/2021 · official consolidation showing the law from 2022-05-26 · <https://www.jerseylaw.je/laws/current/ro_134_2021_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
