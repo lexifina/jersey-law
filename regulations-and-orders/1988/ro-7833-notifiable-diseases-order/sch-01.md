@@ -22,6 +22,7 @@ Malaria
 Measles
 Meningococcal septicaemia
 Middle East Respiratory Syndrome
+Monkeypox
 Mumps
 Plague
 Rabies

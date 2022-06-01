@@ -1,6 +1,6 @@
 # Notifiable Diseases (Jersey) Order 1988
 
-R&O.7833 · official consolidation showing the law from 2020-03-07 · <https://www.jerseylaw.je/laws/current/ro_7833_20220531>
+R&O.7833 · official consolidation showing the law from 2022-06-01 · <https://www.jerseylaw.je/laws/current/ro_7833_20241210>
 
 | Provision | File | Heading |
 | --- | --- | --- |
