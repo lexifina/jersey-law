@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (Existing Members) (Jersey) Order 1986
 
-R&O.7546 · official consolidation showing the law from 2020-06-03 · <https://www.jerseylaw.je/laws/current/ro_7546_20220531>
+R&O.7546 · official consolidation showing the law from 2022-06-01 · <https://www.jerseylaw.je/laws/current/ro_7546_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
