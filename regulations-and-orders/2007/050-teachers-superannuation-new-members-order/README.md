@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (New Members) (Jersey) Order 2007
 
-R&O.50/2007 · official consolidation showing the law from 2020-06-03 · <https://www.jerseylaw.je/laws/current/ro_50_2007_20220531>
+R&O.50/2007 · official consolidation showing the law from 2022-06-01 · <https://www.jerseylaw.je/laws/current/ro_50_2007_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
