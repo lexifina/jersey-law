@@ -35,7 +35,11 @@ East side (between Great Union Road and a point 12 yards north of Poonah Lane)
 Balmoral Drive
 Both sides
 Bath Street
-Both sides (between Beresford Street and David Place)
+Both sides (between Beresford Street and Phillips Street)
+East side (between Phillips Street and Robin Place)
+West side (between Phillips Street and a point 28 yards south of Moneypenny Lane)
+West side (between Moneypenny Lane and a point 8 yards south)
+Both sides (between Moneypenny Lane and David Place)
 Bellozanne Road
 Both sides
 Bellozanne Valley
@@ -318,8 +322,8 @@ North side (between Bath Street and a point 26 yards east)
 North side (between Wesley Street and a point 32 yards east of Bath Street)
 Hill Street
 South side
-North side (between its junction with Halkett Place and a point 10 yards east)
-North side (between a point 66 yards east of its junction with Halkett Place and its junction with Snow Hill)
+North side (between Halkett Place and a point 50 yards west of La Motte Street)
+North side (between La Motte Street and a point 35 yards in a westerly direction)
 Hue Street
 East side
 West side (between its northern junction with Dumaresq Street and a point 40 yards north of its southern junction with Dumaresq Street)
@@ -560,7 +564,7 @@ Peter Street
 Both sides (between Hilary Street and Wesley Street)
 North side (between Bath Street and Hilary Street)
 Phillips Street
-North side
+North side (between Bath Street and Museum Street)
 Pier Road
 East side (between Mulcaster Street and the northern boundary of Bas du Mont flats)
 East side (between a point 19 yards north of the southern boundary of Bas du Mont flats and a point 10 yards south of the northern boundary of Le Clos du Fort)
@@ -578,10 +582,7 @@ Poonah Road
 North side
 South side (between Savile Street and a point 28 yards west of Aquila Road)
 Providence Street
-East side
-West side (between Charles Street and a point 5 yards north)
-West side (between a point 13 yards north of Charles Street and a point 10 yards further north)
-West side (between Phillips Street and Belmont Road)
+Both sides (between Ann Place and Belmont Road)
 Queen’s Avenue
 North side (between Queen’s Road and Raleigh Lane)
 Queen’s Lane

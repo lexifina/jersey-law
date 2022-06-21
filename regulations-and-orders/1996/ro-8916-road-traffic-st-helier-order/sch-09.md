@@ -35,7 +35,7 @@ Chevalier Road
 Common Lane
 David Place, between its junction with Val Plaisant and its junction with Gas Place
 Gas Place
-Janvrin Road, between its junction with Stopford Road and a point 26 yards north of its junction with St. Mark’s Road
+Janvrin Road, between a point 10 yards north of Byron Lane and a point 10 yards south of St. Mark’s Road
 Oxford Road, between its junction with Byron Road and its junction with Gas Place
 St. Mark’s Lane
 St. Mark’s Road, between its junction with David Place and a point 44 yards east of its junction with Janvrin Road

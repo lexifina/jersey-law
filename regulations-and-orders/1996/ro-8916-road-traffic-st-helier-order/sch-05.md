@@ -9,8 +9,6 @@ Caledonia Place
 All times
 Common Lane
 All times
-Dorset Street (between Clearview Street and Val Plaisant)
-All times
 Garden Lane (between Windsor Road and Devonshire Place)
 All times
 Lewis Street (between Kensington Street and Cheapside)

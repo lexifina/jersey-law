@@ -17,6 +17,10 @@ East side (between Devonshire Lane and a point 24 yards north)
 East side (between a point 5 yards north of Poonah Lane and a point 7 yards further north)
 20 minutes
 8 a.m. to 12 midnight. Monday to Saturday;
+Bath Street
+West side (between a point 8 yards south of Moneypenny Lane and a point 20 yards further south)
+20 minutes
+6 a.m. to 11 p.m. Monday to Saturday
 Beresford Street
 South side (between a point 49 yards east of Halkett Place and a point 62 yards further east)
 1 hour
@@ -25,12 +29,12 @@ South side (between a point 8 yards west of its junction with Wests Centre and a
 20 minutes
 6 a.m. to 10 a.m. Monday to Saturday
 Broad Street
-North side (between a point 25 yards east of the western boundary of No. 36 and a point 9 yards further east)
+North side (between a point 25 yards east of the western boundary of No. 36 and a point 24 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+7 a.m. to 11 a.m. Monday to Saturday
 North side (between a point 63 yards east of the western boundary of No. 36 and a point 24 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+7 a.m. to 11 a.m. Monday to Saturday
 Brook Street
 Both sides (between Vine Street and King Street)
 20 minutes
@@ -49,6 +53,10 @@ West side (between a point 20 yards north of Beresford Street and a point 13 yar
 5 a.m. to 6 p.m. Monday to Saturday
 Charing Cross
 East side (between Dumaresq Street and a point 23 yards south)
+20 minutes
+7 a.m. to 11 a.m. Monday to Saturday
+Charles Street
+North side (between a point 8 yards east of Providence Street and a point 15 yards further east)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Cheapside
@@ -147,15 +155,11 @@ Halkett Place
 East side (between Beresford Street and a point 14 yards north of Hilgrove Street)
 1 hour
 2 a.m. to 6 p.m. Monday to Saturday
+West side (between a point 30 yards north of Burrard Street and a point 11 yards south)
+20 minutes
+5 a.m. to 6 p.m. Monday to Saturday
 Hilgrove Street
 North side (between a point 26 yards east of Bath Street and a point 6 yards further east)
-20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
-Hill Street
-North side (between a point 35 yards west of Snow Hill and a point 15 yards further west)
-20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
-North side (between a point 10 yards east of its junction with Halkett Place and a point 11 yards further east)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Hope Street
@@ -238,10 +242,6 @@ Peter Street
 South side (between a point 10 yards west of Hilary Street and a point 15 yards further west)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
-Providence Street
-West side (between a point 5 yards north of Charles Street and a point 8 yards further north)
-20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
 Roussel Street
 South side (between a point 22 yards west of Rouge Bouillon and a point 10 yards further west)
 20 minutes
@@ -280,7 +280,7 @@ West side (between a point 31 yards north of Weighbridge Place and a point 5 yar
 York Street
 West side (between a point opposite the northern side of Dumaresq Street and a point 15 yards north)
 unlimited
-All times
+7 a.m. to 11 a.m. Monday to Saturday
 PART 2
 PARKING OF VEHICLES ON FOOTWAYS OR CYCLE TRACKS FOR LOADING AND UNLOADING
 Area
@@ -294,7 +294,7 @@ West side (adjacent to No. 56)
 Broad Street
 North side (between a point 49 yards east of the western boundary of No. 36 and a point 15 yards further east)
 20 minutes
-5 a.m. to 11 a.m. Monday to Saturday
+7 a.m. to 11 a.m. Monday to Saturday
 Esplanade
 North side (between a point 188 yards east of its junction with Castle Street and a point 12 yards further east)
 20 minutes

@@ -12,19 +12,26 @@ at all times
 Bath Street
 (between its junction with Hilgrove Street and its junction with Beresford Street)
 at all times
+Broad Street (between Conway Street and Charing Cross)
+at all times
 Brook Street
 (between its junction with Broad Street and its junction with Sand Street)
 at all times
 (from its junction with King Street for a distance of 12 feet)
 at all times
 Charing Cross
-(between its junction with Broad Street and its junction with Sand Street)
 at all times
 Colomberie
 (between its junction with Green Street and the kerb-line from Grenville Street to Don Road)
 between 10 a.m. and 6 a.m. on the following day
 Don Street
 (from its junction with King Street for a distance of 42 yards)
+at all times
+Dorset Street
+(between Clearview Street and a point 18 yards west of Dorset Lane)
+at all times
+Esplanade
+(between Conway Street and Weighbridge Place)
 at all times
 Garden Lane
 (between its junction with Dorset Street and its junction with Windsor Road)
@@ -59,7 +66,13 @@ Parade, The (eastern arm)
 at all times
 Peirson Place
 at all times
+Phillips Street
+(between Providence Street and Museum Street)
+at all times
 Pitt Street
+at all times
+Providence Street
+(between Charles Street and Ann Place)
 at all times
 Queen Street
 (between La Motte Street and its junction with Halkett Place)
@@ -71,6 +84,9 @@ Ruette Haguais
 at all times
 Vine Street
 between 9.30 a.m. and 6 a.m. the following day
+York Street
+(between Charing Cross and Seale Street)
+at all times
 PART 2
 (Article 8(2))
 Roads subject to restricted use by vehicular traffic
@@ -102,9 +118,16 @@ PART 3
 Vehicles exempt from restrictions
 Road
 Vehicle
-Charing Cross
+Broad Street (between Conway Street and Charing Cross)
+Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday 7 a.m. and 11 a.m.
+Charing Cross (between Broad Street and Sand Street)
 Pedal cycles
-(between its junction with Broad Street and its junction with Sand Street)
+Charing Cross (between Broad Street and York Street)
+Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
+Dorset Street
+Pedal cycles
+Esplanade
+Omnibuses
 Gas Place (between its junction with Chevalier Road and its junction with Common Lane)
 Pedal Cycles
 La Grande Route du Mont à l’Abbé (between St. John’s Road and the entrance to Chestnut Farm)
@@ -121,6 +144,8 @@ Old Street
 Pedal cycles
 Vine Street
 Jurats’ vehicles (Monday to Friday); vehicles used by disabled persons (Saturdays and Sundays)
+York Street (between Charing Cross and Seale Street)
+Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
 PART 4
 (Article 8(4))
 Parts of roads closed to vehicular traffic

@@ -3,8 +3,6 @@
 Parking of motor cycles and mopeds
 Burrard Street
 South side (between a point 5 yards west of the eastern boundary of No. 71 Halkett Place and a point 12 yards further west)
-Charles Street
-North side (between a point 24 yards west of Ann Street and a point 10 yards further west)
 Chevalier Road
 East side (between the southern boundary of No. 29 and a point 3 yards south of the northern boundary of No. 29)
 Clairvale Road

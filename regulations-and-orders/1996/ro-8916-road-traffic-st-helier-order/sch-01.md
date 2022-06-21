@@ -11,7 +11,7 @@ Clearview Street to Great Union Road
 Anley Street
 Esplanade to Sand Street
 Ann Place
-Providence Street to Ann Street
+Ann Street to Providence Street
 Ann Street
 Belmont Road to Charles Street
 La Motte Street to Charles Street
@@ -35,10 +35,10 @@ Brighton Road (between Clearview Street and Clairvale Road)
 Clearview Street to Clairvale Road
 Brighton Road (between Clearview Street and Columbus Street)
 Clearview Street to Columbus Street
-Broad Street (north side, between Ruette Haguais and New Cut)
-Ruette Haguais to New Cut
-Broad Street (Post Office side, between Conway Street and Charing Cross)
+Broad Street (between Conway Street and Charing Cross)
 Conway Street to Charing Cross
+Broad Street (between Conway Street and Library Place)
+Conway Street to Library Place
 Burrard Street
 New Street to Cattle Street
 Byron Lane
@@ -55,8 +55,8 @@ Cattle Street
 Minden Place to Beresford Street
 Chapel Lane
 St. James’ Street to Clarence Road
-Charing Cross (between No. 1 Charing Cross and York Street)
-No. 1 Charing Cross to York Street
+Charing Cross (between Broad Street and York Street)
+Broad Street to York Street
 Charles Street
 Ann Street to Bath Street
 Cheapside
@@ -119,6 +119,8 @@ Don Street (between Waterloo Street and Burrard Street)
 Waterloo Street to Burrard Street
 Don Street (between Duhamel Place and Burrard Street)
 Burrard Street to Duhamel Place
+Dorset Street (between Clearview Street to a point 18 yards west of Dorset Lane
+Dorset Lane to Clearview Street
 Dorset Street (between Great Union Road and Clearview Street)
 Great Union Road to Clearview Street
 Duhamel Place (between Grove Street and Vauxhall Street)
@@ -241,6 +243,8 @@ Library Place
 Broad Street to Church Street
 Marett Road
 Havre-des-Pas to Roseville Street
+Midvale Road
+Rouge Bouillon to Val Plaisant
 Minden Place
 Cattle Street to Bath Street
 Minden Street
@@ -423,8 +427,16 @@ PART 3
 EXEMPTIONS
 Road
 Vehicle
+Broad Street (between Conway Street and Charing Cross)
+Pedal cycles
+Broad Street (between Conway Street and Library Place)
+Pedal cycles
+Charing Cross (between Broad Street and York Street)
+Pedal cycles
 Green Street
 Omnibuses, pedal cycles
+Hill Street (between Halkett Place and La Motte Street)
+Pedal cycles
 King Street (that part which forms its junction with New Street and New Cut)
 Pedal cycles
 New Cut
@@ -434,4 +446,6 @@ Pedal cycles
 Oxford Road (between the entrance to Springfield Stadium and Stopford Road)
 Pedal cycles
 Oxford Road (between L’Avenue et Dolmen du Pré des Lumières and Stopford Road)
+Pedal cycles
+York Street (between Charing Cross and the Parade)
 Pedal cycles

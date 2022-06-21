@@ -67,8 +67,6 @@ Burrard Street
 South side (between Don Street and a point 4 yards east of Burrard Place)
 Cattle Street
 West side (between Minden Place and a point 33 yards north of Beresford Street)
-Charles Street
-North side (between Providence Street and a point 34 yards west of Ann Street)
 Clarence Road
 East side (between a point opposite the northern gable of No. 11 and a point 15 yards south)
 West side (between a point 13 yards north of Don Road and a point 24 yards further north)
@@ -88,8 +86,9 @@ Duhamel Place
 East side
 Dumaresq Street
 North side (between a point 10 yards east of the western boundary of No. 12 and a point 22 yards further east)
-North side (between a point 53 yards east of the western boundary of No. 12 and a point 5 yards south of the northern boundary of the premises of B.G. Romeril and Company Limited)
-East side (between a point 47 yards south of the southern boundary of No. 5 Le Geyt Street and a point 11 yards further south)
+Esplanade
+North side (between a point 99 yards east of its junction with Castle Street and a point 13 yards further east)
+North side (between a point 23 yards east of the boundary of Marina Court and a point 41 yards west of Payn Street)
 Gloucester Street
 South side (between the western boundary of No. 15 and a point 5 yards east and the eastern boundary of the Opera House)
 South side (between a point 19 yards east of The Parade and a point 11 yards further east)
@@ -108,8 +107,6 @@ South side (between Wharf Street and a point 27 yards west of Bond Street)
 Hilary Street
 West side (between a point 7 yards north of the northern boundary of No. 14 and a point 15 yards further north)
 West side (between a point 18 yards north of La Motte Street and a point 12 yards further north)
-Hill Street
-North side (between a point 21 yards east of its junction with Halkett Place, and a point 45 yards further east)
 Hue Street
 West side (between a point 10 yards north of its southern junction with Dumaresq Street and a point 30 yards further north)
 North side (between a point 10 yards west of Great Union Road and a point 13 yards further west)
@@ -126,12 +123,9 @@ Patriotic Street
 East side (between a point 31 yards north of the Esplanade and a point 15 yards further north)
 Phillips Street
 South side (between a point 26 yards east of Bath Street and a point 21 yards further east)
-South side (between a point 60 yards east of Bath Street and a point 21 yards further east)
 Pier Road
 East side (between a point 10 yards south of the northern boundary of Le Clos du Fort and a point 60 yards further south)
 East side (between a point 19 yards south of the northern boundary of Haut du Mont flats and a point 62 yards further south)
-Providence Street
-West side (between a point 34 yards north of Charles Street and a point 10 yards further north)
 Regent Road
 West side (between a point opposite the north side of La Chasse and a point 40 yards further north)
 Roseville Street
@@ -352,10 +346,5 @@ North side (between the western boundary of No. 20 and a point 16 yards further 
 Part 15
 (Article 27B)
 car club permit parking
-Esplanade
-North side (between a point 99 east of its junction with Castle Street and a point 13 yards further east)
-North side (between a point 23 yards east of the boundary of Marina Court and a point 12 yards further east)
-Halkett Place
-West side (from a point 30 yards north of its junction with Burrard Street to a point 11 yards south)
 Parade, The (eastern arm)
 West side (between a point 23 yards north of its junction with Union Street and a point 6 yards further north)
