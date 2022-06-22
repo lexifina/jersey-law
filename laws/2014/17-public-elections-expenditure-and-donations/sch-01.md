@@ -1,6 +1,6 @@
 # SCHEDULE
 (Article 2)
-Donations AND EXPENSES
+DONATIONS AND EXPENSES
 1 Money
 (A1) A gift of money to a political party is a donation.
 (1) A gift of money to any other person is a donation if -

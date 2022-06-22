@@ -1,6 +1,6 @@
 # Public Elections (Expenditure and Donations) (Jersey) Law 2014
 
-L.17/2014 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_17_2014_20220621>
+L.17/2014 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/l_17_2014_20260131>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,6 +31,5 @@ L.17/2014 · official consolidation showing the law from 2022-01-20 · <https://
 | Art. 17 | [art-017.md](art-017.md) | 17 Arrangements for publication of election material |
 | Art. 18 | [art-018.md](art-018.md) | 18 Consequences of conviction of successful candidate in election |
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Consequential etc amendments |
-| Art. 18B | [art-018-b.md](art-018-b.md) | 18B Transitional provision: Connétable by-election before 22nd June 2022 |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
