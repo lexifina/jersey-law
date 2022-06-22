@@ -1,7 +1,8 @@
-# 52C Procedure for recount by Autorisé
+# 52C Procedure for recount
 (1) This Article applies where -
-(a) an Autorisé is requested by the Judicial Greffier, under Article 52B(3) to conduct a recount in his or her electoral district; or
+(a)
 (b) a principal Autorisé conducts a recount following a request under Article 52AA(1).
+(1A) An Autorisé and his or her Adjoints must comply with any request made by the principal Autorisé for assistance in conducting a recount in the electoral district for which the Autorisé was appointed.
 (2) If an Autorisé decides that it is not possible to proceed to a recount of votes in a public election or parish election immediately, and packages from the election are in his or her possession, the Autorisé shall -
 (a) ensure that the packages from the election are kept secure from interference until such time as it is possible to commence the recount; and
 (b) inform the persons entitled under paragraph (3) to be present at the count of the time when the recount shall commence.

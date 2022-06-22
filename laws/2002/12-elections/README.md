@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_12_2002_20220621>
+L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260131>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -86,11 +86,9 @@ L.12/2002 · official consolidation showing the law from 2022-01-20 · <https://
 | Art. 49 | [art-049.md](art-049.md) | 49 Counting |
 | Art. 50 | [art-050.md](art-050.md) | 50 Recording the numbers at a counting station |
 | Art. 51 | [art-051.md](art-051.md) | 51 Invalid ballot papers |
-| Art. 52 | [art-052.md](art-052.md) | 52 Result in election for one or more Senators |
-| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in other public elections or parish elections |
+| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in public elections or parish elections |
 | Art. 52AA | [art-052-aa.md](art-052-aa.md) | 52AA Recounts |
-| Art. 52B | [art-052-b.md](art-052-b.md) | 52B Procedure for recount in election for one or more Senators |
-| Art. 52C | [art-052-c.md](art-052-c.md) | 52C Procedure for recount by Autorisé |
+| Art. 52C | [art-052-c.md](art-052-c.md) | 52C Procedure for recount |
 | Art. 53 | [art-053.md](art-053.md) | 53 Completion of return and delivery of papers |
 | Art. 54 | [art-054.md](art-054.md) | 54 Report to Royal Court and arrangements for taking of oath |
 | Art. 55 | [art-055.md](art-055.md) | 55 Secrecy of used ballot papers |
@@ -110,7 +108,6 @@ L.12/2002 · official consolidation showing the law from 2022-01-20 · <https://
 | Art. 68 | [art-068.md](art-068.md) | 68 Limitation on prosecution and civil action |
 | Art. 69 | [art-069.md](art-069.md) | 69 How documents may be sent or served |
 | Art. 70 | [art-070.md](art-070.md) | 70 Misnomer or inaccurate description |
-| Art. 70A | [art-070-a.md](art-070-a.md) | 70A Transitional provision: Connétable by-election before 22nd June 2022 |
 | Art. 71 | [art-071.md](art-071.md) | 71 Civil liability |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations |
 | Art. 73 | [art-073.md](art-073.md) | 73 Savings and transitional provisions |

@@ -1,6 +1,6 @@
-# 52A Result in other public elections or parish elections
-(1) This Article applies to a public election other than an election for one or more Senators.
-(2) In the case of an election or parish election for which there is more than one counting station in the constituency -
+# 52A Result in public elections or parish elections
+(1)
+(2) In the case of a public election or parish election for which there is more than one counting station in the constituency -
 (a) an Autorisé (or Adjoint) in charge of a counting station who is not the principal Autorisé shall forthwith forward to the principal Autorisé -
 (i) the package prepared under Article 50(2), and
 (ii) the packages prepared under Article 48(4)(b), associated with the votes counted in that election at the counting station;
