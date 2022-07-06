@@ -1,6 +1,11 @@
 # SCHEDULE 3
 (Article 2(c))
 Special Provisions
+A1 Republic of Belarus (Sanctions) (EU Exit) Regulations 2019: shipping and aircraft
+In relation to the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 -
+(a) for the purpose of regulation 29A(A1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 29A(A1) are the operator and pilot in command of the aircraft;
+(b) for the purpose of regulation 29I(8) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a);
+(c) for the purpose of regulation 29J(3)(c) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002.
 1 Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019: designations, directions and shipping legislation
 In relation to the Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019 -
 (a) for the purpose of column 4 of the table in Schedule 1 to this Order, regulations 5 and 10 are to be treated as if they defined “designated person” as a person designated by or under either of those regulations for the purposes of regulations 13 to 17;
