@@ -1,12 +1,11 @@
 # Food Safety (Jersey) Law 1966
 
-L.9/1966 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_9_1966_20220811>
+L.9/1966 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_9_1966_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Long title | [long-title.md](long-title.md) | A LAW to ensure the cleanliness and purity of foodstuffs |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
-| Art. 2 | [art-002.md](art-002.md) | 2 Official Analyst |
 | Art. 3 | [art-003.md](art-003.md) | 3 Offences in connection with preparation and sale of injurious food |
 | Art. 4 | [art-004.md](art-004.md) | 4 General protection for purchasers of food |
 | Art. 5 | [art-005.md](art-005.md) | 5 Defences available in proceedings under Article 4 |
