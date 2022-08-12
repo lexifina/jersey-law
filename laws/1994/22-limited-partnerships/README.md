@@ -1,6 +1,6 @@
 # Limited Partnerships (Jersey) Law 1994
 
-L.22/1994 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_22_1994_20220811>
+L.22/1994 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_22_1994_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,8 +10,9 @@ L.22/1994 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Limited partnership |
 | Art. 4 | [art-004.md](art-004.md) | 4 Registration of declaration |
 | Art. 5 | [art-005.md](art-005.md) | 5 Amendment of declaration |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Annual confirmation |
 | Art. 6 | [art-006.md](art-006.md) | 6 General and limited partners |
-| Art. 7 | [art-007.md](art-007.md) | 7 Name of partnership |
+| Art. 7 | [art-007.md](art-007.md) | 7 Name of limited partnership |
 | Art. 8 | [art-008.md](art-008.md) | 8 Registered office |
 | Art. 9 | [art-009.md](art-009.md) | 9 Accounts and audit |
 | Art. 10 | [art-010.md](art-010.md) | 10 Contribution of limited partner |
@@ -21,18 +22,22 @@ L.22/1994 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 14 | [art-014.md](art-014.md) | 14 Share of profits |
 | Art. 15 | [art-015.md](art-015.md) | 15 Dealings by limited partner with partnership |
 | Art. 16 | [art-016.md](art-016.md) | 16 Limited partners’ rights as between themselves |
+| Art. 16A | [art-016-a.md](art-016-a.md) | 16A Third party rights |
 | Art. 17 | [art-017.md](art-017.md) | 17 Return of limited partner’s contribution |
-| Art. 18 | [art-018.md](art-018.md) | 18 Limited partner’s liability to partnership |
+| Art. 17A | [art-017-a.md](art-017-a.md) | 17A Remedies against partner |
+| Art. 18 | [art-018.md](art-018.md) | 18 Partner’s liability to partnership |
 | Art. 19 | [art-019.md](art-019.md) | 19 Limited partner’s liability to creditors |
 | Art. 20 | [art-020.md](art-020.md) | 20 Admission of additional limited partners |
 | Art. 21 | [art-021.md](art-021.md) | 21 Assignments |
-| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Cancellation of registration |
-| Art. 22 | [art-022.md](art-022.md) | 22 Statement of dissolution |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Cancellation of registration of declaration and dissolution of limited partnership |
+| Art. 21B | [art-021-b.md](art-021-b.md) | 21B Liability of partners following dissolution by registrar on continued default |
+| Art. 21C | [art-021-c.md](art-021-c.md) | 21C Limitation on exercise of powers and rights by general partner following dissolution |
+| Art. 22 | [art-022.md](art-022.md) | 22 Application to reinstate dissolved limited partnership |
 | Art. 23 | [art-023.md](art-023.md) | 23 Winding up of limited partnership |
-| Art. 24 | [art-024.md](art-024.md) | 24 Dissolution of partnership on death etc., of general partner |
-| Art. 25 | [art-025.md](art-025.md) | 25 Power of Court to order dissolution |
+| Art. 24 | [art-024.md](art-024.md) | 24 Winding up of limited partnership on death etc. of general partner |
+| Art. 25 | [art-025.md](art-025.md) | 25 Power of Court to order winding up |
 | Art. 26 | [art-026.md](art-026.md) | 26 Order for compliance |
-| Art. 27 | [art-027.md](art-027.md) | 27 Settling accounts on dissolution |
+| Art. 27 | [art-027.md](art-027.md) | 27 Settling accounts on winding up |
 | Art. 28 | [art-028.md](art-028.md) | 28 Legal proceedings and service of documents |
 | Art. 29 | [art-029.md](art-029.md) | 29 Authority to sign |
 | Art. 30 | [art-030.md](art-030.md) | 30 Appointment of registrar, etc. |

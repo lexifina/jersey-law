@@ -1,6 +1,5 @@
-# 21A Cancellation of registration
-The registrar shall cancel the registration of the declaration of a limited partnership on the occurrence of any of the following events -
-(a) on the delivery to the registrar of a request for its cancellation, signed by each person who is, or is to be on the formation of the limited partnership, a general partner;
-(b) on the delivery to the registrar under Article 22 of a statement of dissolution of the limited partnership;
-(c) on the delivery to the registrar under Article 24 of a statement of dissolution of the limited partnership;
-(d) on the delivery to the registrar under Article 25 of an Act of the Court ordering the dissolution of the limited partnership.
+# 21A Cancellation of registration of declaration and dissolution of limited partnership
+(1) The registrar must cancel the registration of the declaration of a limited partnership on the delivery to the registrar of a request for its cancellation under Article 23(1)(b), 24(3) or 25(4).
+(2) The registrar must cancel the registration of the declaration of a limited partnership on delivery to the registrar of a request by a general partner for the cancellation of the limited partnership upon its continuance in another legal form governed by the laws of Jersey that has been unanimously agreed by the partners and approved by the relevant authorities.
+(3) The registrar may cancel the registration of the declaration of a limited partnership where the limited partnership is in continued default.
+(4) The dissolution of a limited partnership takes effect upon the cancellation of registration of the declaration of the limited partnership being registered by the registrar.
