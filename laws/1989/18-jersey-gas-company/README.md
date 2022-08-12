@@ -1,6 +1,6 @@
 # Jersey Gas Company (Jersey) Law 1989
 
-L.18/1989 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_18_1989_20220811>
+L.18/1989 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_18_1989>
 
 | Provision | File | Heading |
 | --- | --- | --- |
