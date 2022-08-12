@@ -17,7 +17,7 @@ Conditions
 (c) the total quantity required.
 (3) The sale or supply shall be only for the purposes of the education or research with which the institution is concerned.
 2. Persons selling or supplying prescription only medicines to any of the following persons -
-(a) the Official Analyst appointed under Article 2 of the Food Safety (Jersey) Law 1966, or any person appointed under that Article to deputise for him or her;
+(a) the Official Analyst appointed under the Official Analyst (Jersey) Law 2022, or any person appointed under that Law to deputise for the Official Analyst;
 2. All prescription only medicines.
 2.(1) The sale or supply shall be subject to the presentation of an order signed by or on behalf of any person listed in any of paragraph 2(a), (b) and (c) of column 1 of this Part of this Schedule.
 (2) The order shall specify the status of the person signing it, and the amount of the prescription only medicine required.
