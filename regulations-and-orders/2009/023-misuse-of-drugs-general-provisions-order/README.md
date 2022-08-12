@@ -1,6 +1,6 @@
 # Misuse of Drugs (General Provisions) (Jersey) Order 2009
 
-R&O.23/2009 · official consolidation showing the law from 2021-12-01 · <https://www.jerseylaw.je/laws/current/ro_23_2009_20220811>
+R&O.23/2009 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/ro_23_2009_20240806>
 
 | Provision | File | Heading |
 | --- | --- | --- |
