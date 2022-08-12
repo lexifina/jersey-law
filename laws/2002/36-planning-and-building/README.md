@@ -1,6 +1,6 @@
 # Planning and Building (Jersey) Law 2002
 
-L.36/2002 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_36_2002_20220811>
+L.36/2002 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_36_2002_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ L.36/2002 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Minister to prepare a draft Island Plan |
 | Art. 4 | [art-004.md](art-004.md) | 4 Form of draft Island Plan |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Procedure for and following lodging of draft Island Plan |
-| Art. 5 | [art-005.md](art-005.md) | 5 Meaning of “develop” |
+| Art. 5 | [art-005.md](art-005.md) | 5 Meaning of “develop”, commencement of development, etc. |
 | Art. 6 | [art-006.md](art-006.md) | 6 Minister may publish guidelines, etc. |
 | Art. 7 | [art-007.md](art-007.md) | 7 Land not to be developed without permission |
 | Art. 8 | [art-008.md](art-008.md) | 8 Development Orders |
@@ -64,7 +64,9 @@ L.36/2002 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 53 | [art-053.md](art-053.md) | 53 Provisional listing |
 | Art. 54 | [art-054.md](art-054.md) | 54 Control of certain operations, etc. not amounting to development |
 | Art. 55 | [art-055.md](art-055.md) | 55 Certain activities restricted on sites of special interest |
+| Art. 55A | [art-055-a.md](art-055-a.md) | 55A False information [in relation to application for permission] |
 | Art. 56 | [art-056.md](art-056.md) | 56 Minister may make funds available in respect of sites of special interest, etc. |
+| Art. 56A | [art-056-a.md](art-056-a.md) | 56A Conservation areas |
 | Art. 57 | [art-057.md](art-057.md) | 57 Interpretation - protected trees |
 | Art. 58 | [art-058.md](art-058.md) | 58 Minister to protect trees by maintaining a List of Protected Trees |
 | Art. 59 | [art-059.md](art-059.md) | 59 Notice and procedure for inclusion on, or removal from, the List of Protected Trees |

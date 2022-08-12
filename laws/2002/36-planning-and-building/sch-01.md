@@ -21,7 +21,9 @@ Contents of Building Bye-laws
 (m) installations in buildings that use solid fuel, oil, gas, electricity or any other fuel or power including any associated storage tanks, heat exchangers, ducts and fans;
 (n) facilities in and in respect of buildings for the supply and storage of water including associated fittings and fixed equipment;
 (o) sanitary equipment in buildings;
-(p) lifts, escalators, hoists, conveyors and moving footways in buildings.
+(p) lifts, escalators, hoists, conveyors and moving footways in buildings;
+(q) installations in buildings of, and standards for, infrastructure and equipment relating to high speed data communication networks;
+(r) installations in buildings of, and standards for, electric vehicle charging points.
 (3) Building Bye-laws may also be made with respect to -
 (a) the height of buildings including the height of chimneys, ducts or outlets above the roof of buildings of which they form part or of any adjacent building;
 (b) open spaces about buildings and the natural lighting and ventilation of buildings;
@@ -63,6 +65,9 @@ building work specified in the Building Bye-laws is to be undertaken.
 (a) closets and urinals;
 (b) washing and laundry facilities;
 (c) fittings and fixed equipment associated with sanitary equipment;
+“services, fittings, appliances, equipment and accessories in or in connection with buildings” includes -
+(a) infrastructure relating to high speed data communication networks; and
+(b) electric vehicle charging points;
 “structural strength and stability of buildings” includes -
 (a) precautions against overloading, impact and explosion;
 (b) measures to safeguard adjacent buildings and services;
