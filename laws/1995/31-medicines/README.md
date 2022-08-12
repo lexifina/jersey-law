@@ -1,6 +1,6 @@
 # Medicines (Jersey) Law 1995
 
-L.31/1995 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_31_1995_20220811>
+L.31/1995 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_31_1995_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
