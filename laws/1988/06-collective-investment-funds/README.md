@@ -1,6 +1,6 @@
 # Collective Investment Funds (Jersey) Law 1988
 
-L.6/1988 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_6_1988_20220831>
+L.6/1988 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_6_1988_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
