@@ -1,6 +1,6 @@
 # Powers of Attorney (Jersey) Law 1995
 
-L.24/1995 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_1995_20220831>
+L.24/1995 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_24_1995_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
