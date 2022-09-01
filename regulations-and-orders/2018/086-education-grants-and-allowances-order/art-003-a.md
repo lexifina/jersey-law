@@ -11,7 +11,8 @@
 (2) If an individual holds a relevant interest in an entity during a calendar year for which the individual’s income is relevant income, the individual is deemed to receive as income the proportion of the profits made by that entity during that calendar year that is equivalent to the proportion of the individual’s relevant interest in that entity.
 (3) If that individual holds that relevant interest for part only of that calendar year, the amount that the individual is deemed to receive as income is apportioned to reflect the portion of the year in which the individual held the relevant interest.
 (4) In this Article, a “relevant interest” means a holding of 5% or greater of -
-(a) the share capital, for a company incorporated under the Companies (Jersey) Law 1991; or
+(a) the share capital, for a company incorporated under the Companies (Jersey) Law 1991;
+(aa) the LLC interest, for a limited liability company registered under the Limited Liability Companies (Jersey) Law 2018;
 (b) the partnership interest, for -
 (i) an incorporated limited partnership formed under the Incorporated Limited Partnerships (Jersey) Law 2011,
 (ii) a limited liability partnership formed under the Limited Liability Partnerships (Jersey) Law 2017,
