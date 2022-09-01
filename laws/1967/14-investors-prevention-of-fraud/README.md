@@ -1,6 +1,6 @@
 # Investors (Prevention of Fraud) (Jersey) Law 1967
 
-L.14/1967 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_1967_20220831>
+L.14/1967 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_14_1967>
 
 | Provision | File | Heading |
 | --- | --- | --- |
