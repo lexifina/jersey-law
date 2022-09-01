@@ -13,14 +13,14 @@ Notes:
 (c) a banknote, a statement showing a balance in a current, deposit or savings account or (by reason of any financial obligation contained in it) a lease or other disposition of property, a hypothec, security interest, mortgage or other charge, or an insurance policy; or
 (d) any instrument creating or acknowledging indebtedness in respect of money received by the Director of Savings as deposits or otherwise in connection with the business of the National Savings Bank or in respect of money raised under the National Loans Act 1968 of the United Kingdom under the auspices of the Director of Savings or in respect of money treated as having been so raised by virtue of section 11(3) of the National Debt Act 1972 of the United Kingdom.
 (2) For the purposes of this paragraph references to an instrument include references to any record whether or not in the form of a document.
-3 Instruments entitling to shares or securities
-Warrants or other instruments entitling the holder to subscribe for investments falling within paragraph 1 or 2.
+3 Instruments entitling to shares, LLC interests or securities
+Warrants or other instruments entitling the holder to subscribe for investments falling within paragraph 1, 2 or 9B.
 Notes:
 (1) It is immaterial whether the investments are for the time being in existence or identifiable.
 (2) An investment falling within this paragraph shall not be regarded as falling within paragraph 6, 7 or 8.
 4 Certificates representing securities
 Certificates or other instruments which confer -
-(a) property rights in respect of any investment falling within paragraph 1, 2 or 3;
+(a) property rights in respect of any investment falling within paragraph 1, 2, 3 or 9B;
 (b) any right to acquire, dispose of, underwrite or convert an investment, being a right to which the holder would be entitled if the holder held any such investment to which the certificate or instrument relates; or
 (c) a contractual right (other than an option) to acquire any such investment otherwise than by subscription.
 Note: This paragraph does not apply to any instrument which confers rights in respect of 2 or more investments issued by different persons.
@@ -54,5 +54,7 @@ references in this paragraph to rights and benefits under the contract are refer
 9A Pension schemes
 Approved Jersey schemes or approved drawdown contracts (as those terms are defined in Article 130(1) of the Income Tax (Jersey) Law 1961).
 Note: This paragraph applies only to the giving of investment advice in respect of a pension scheme.
+9B LLC interests
+Interests in a limited liability company (LLC interests).
 10 Rights and interests in investments
 Rights to and interests in anything which is an investment falling within any other paragraph of this Schedule.

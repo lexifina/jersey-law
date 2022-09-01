@@ -25,7 +25,9 @@ The carrying on of AIF services business by a person who is registered under thi
 (ii) solicits a person in Jersey to enter into a specified transaction.
 (2) In this paragraph “overseas person” means a person who -
 (a) has no place of business in Jersey from which he or she carries on fund services business in or from Jersey; and
-(b) is not a company incorporated in Jersey.
+(b) is not -
+(i) a company incorporated in Jersey, or
+(ii) a limited liability company registered in Jersey.
 (3) Except as otherwise provided, in this paragraph ‘specified transaction’ means a transaction amounting to fund services business by virtue of which an overseas person -
 (a) deals with a person in Jersey;
 (b) acts as an agent for a person in Jersey;
@@ -75,9 +77,9 @@ Notes:
 (1) For the purposes of this paragraph -
 (a) “joint enterprise” shall have the meaning given to it for the purposes of paragraph 8;
 (b) “members of the public” in relation to the person soliciting them (the “relevant person”) means any other persons except -
-(i) companies with which the relevant person is connected,
+(i) companies or limited liability companies with which the relevant person is connected,
 (ii) persons who are, or propose to become, participators with the relevant person in a joint enterprise;
-(c) a company is connected with another company if any of the requirements in Note (2) to paragraph 9 are met in relation to them.
+(c) a company or limited liability company is connected with another company or limited liability company if any of the requirements in Note (2) to paragraph 9 are met in relation to them.
 (2) For the purposes of this paragraph an investment is of the same type as another if they both fall within the same paragraph of Schedule 1.
 5 Dealing as agent by professionals and non-investment businesses
 Dealing in investments as agent if -
@@ -104,52 +106,52 @@ Note: For the purposes of this paragraph -
 Accepting (whether as principal or as agent) or becoming party to (otherwise than as a debtor or surety) an instrument creating or acknowledging indebtedness in respect of any loan, credit, guarantee or other similar financial accommodation or assurance which the person or the person’s principal has made, granted, or provided.
 8 Connected companies and joint enterprises
 (1) Dealing in investments by a person as principal with another person if -
-(a) they are connected companies;
+(a) they are connected companies or limited liability companies;
 (b) they participate together in a joint enterprise and the dealing is undertaken for the purposes of, or in connection with, that enterprise; or
-(c) one of them is a director, other officer or employee of a company acting in the person’s capacity as trustee and the other is that company or a connected company in relation to that company.
+(c) one of them is a director, manager, other officer or employee of a company or limited liability company acting in the person’s capacity as trustee and the other is that company or limited liability company or a connected company of a company or limited liability company in relation to that company or limited liability company.
 (2) Dealing in investments by a person as agent for another person if -
-(a) they are connected companies;
+(a) they are connected companies or limited liability companies;
 (b) they participate together in a joint enterprise and the dealing is undertaken for the purposes of, or in connection with, that enterprise; or
-(c) the other person is acting in the person’s capacity as a trustee and is a director, other officer or employee of the company which is the agent or of a company which is a connected company in relation to the agent,
+(c) the other person is acting in the person’s capacity as a trustee and is a director, manager, other officer or employee of, the company or limited liability company which is the agent, or of a company or limited liability company which is a connected company or limited liability company in relation to the agent,
 unless -
-(i) the agent holds himself or herself out (other than to such companies, participants or persons); or
+(i) the agent holds himself or herself out (other than to such companies, limited liability companies, participants or persons); or
 (ii) solicits,
 in a manner contemplated by paragraph 4(b) or 4(c).
 (3) Discretionary investment management by one person for another and investment advice given by one person to another if -
-(a) they are connected companies;
+(a) they are connected companies or limited liability companies;
 (b) they participate together in a joint enterprise and the activity is undertaken for the purposes of, or in connection with, that enterprise; or
-(c) the other person is acting in the person’s capacity as a trustee and is a director, other officer or employee of the company which is carrying out such management or giving such advice or of a company which is a connected company in relation to it,
+(c) the other person is acting in the person’s capacity as a trustee and is a director, manager, other officer or employee of the company or limited liability company which is carrying on such management or giving such advice or of a company or limited liability company which is a connected company or limited liability in relation to it,
 unless the first mentioned person otherwise carries on the business of discretionary investment management or of giving investment advice or holds himself or herself out as carrying on either of those businesses.
 Notes:
-(1) For the purposes of this paragraph, “joint enterprise” means an enterprise into which the persons participating enter for commercial purposes related to a business other than investment business carried on by such persons; and where a person participating is a company, each company with which it is connected shall also be regarded as a person participating in the enterprise.
-(2) For the purposes of this paragraph a company is connected with another company if any of the requirements in Note (2) to paragraph 9 are met in relation to them.
+(1) For the purposes of this paragraph, “joint enterprise” means an enterprise into which the persons participating enter for commercial purposes related to a business other than investment business carried on by such persons; and where a person participating is a company or limited liability company, each company or limited liability company with which it is connected shall also be regarded as a person participating in the enterprise.
+(2) For the purposes of this paragraph a company or limited liability company is connected with another company or limited liability company if any of the requirements in Note (2) to paragraph 9 are met in relation to them.
 9 Employees’ share schemes
-(1) Dealing by a company, a company with which it is connected or a relevant trustee for the purpose of enabling or facilitating transactions in shares in or debentures of the first-mentioned company for the benefit of any of the persons mentioned in sub-paragraph (2) or the holding of such shares or debentures by or for the benefit of any such persons.
+(1) Dealing by a company or limited liability company, a company or limited liability company with which it is connected or a relevant trustee for the purpose of enabling or facilitating transactions in shares or LLC interests in or debentures of the first-mentioned company or limited liability company for the benefit of any of the persons mentioned in sub-paragraph (2) or the holding of such shares or LLC interests or debentures by or for the benefit of any such persons.
 (2) The persons referred to in sub-paragraph (1) are -
-(a) the bona fide employees or former employees of the company first mentioned in sub-paragraph (1) above or of another company with which it is connected; or
+(a) the bona fide employees or former employees of the company or limited liability company first mentioned in sub-paragraph (1) above or of another company or limited liability company with which it is connected; or
 (b) the wives, husbands, civil partners, widows, widowers, surviving civil partners or children or step-children under the age of 20 years of such employees or former employees.
 Notes:
 (1) For the purposes of this paragraph -
 “joint enterprise” shall have the meaning given to it for the purposes of paragraph 8;
-“a relevant trustee” means a person holding shares in or debentures of the company first mentioned in sub-paragraph (1) above as trustee in pursuance of arrangements made for the purpose mentioned in sub-paragraph (1) by, or by a company connected with, that company.
-“shares” and “debentures” include any investment falling within paragraph 1 or 2 of Schedule 1 and also include any investment falling within paragraph 3 or 4 of Schedule 1 so far as relating to those paragraphs or any investment falling within paragraph 10 of Schedule 1 so far as relating to paragraph 1, 2, 3 or 4 of Schedule 1;
+“a relevant trustee” means a person holding shares or LLC interests in or debentures of the company or limited liability company first mentioned in sub-paragraph (1) above as trustee in pursuance of arrangements made for the purpose mentioned in sub-paragraph (1) by, or by a company or limited liability company connected with, that company or limited liability company.
+“shares”, “LLC interests” and “debentures” include any investment falling within paragraph 1, 2 or 9B of Schedule 1 and also include any investment falling within paragraph 3, 4 or 9B of Schedule 1 so far as relating to those paragraphs or any investment falling within paragraph 10 of Schedule 1 so far as relating to paragraph 1, 2, 3, 4 or 9B of Schedule 1;
 “trustee” includes a duly appointed delegate of the trustee who is participating in a joint enterprise with the trustee.
-(2) For the purposes of this paragraph a company is connected with another company if -
+(2) For the purposes of this paragraph a company or limited liability company is connected with another company or limited liability company if -
 (a) they are in the same group;
-(b) one is entitled, either alone or with any other company in the same group, to exercise or control the exercise of a majority of the voting rights, (other than as nominee shareholder) which are attributable to the share capital and are exercisable in all circumstances at any general meeting of the other company or of its holding company; or
-(c) the first-mentioned company holds, or a company in the same group as the first-mentioned company holds, an interest in the equity share capital of the other company carrying rights to vote in all circumstances at general meetings for the purpose of securing a contribution to the activities of the first-mentioned company or the company in the same group as that company respectively by the exercise of control or influence arising from that interest.
-10 Issuing of shares, debentures, etc.
-(1) The issuing by a company of its own shares or of share warrants in respect of any shares, or by any person of the person’s own debentures or debenture warrants.
+(b) one is entitled, either alone or with any other company or limited liability company in the same group, to exercise or control the exercise of a majority of the voting rights, (other than as nominee shareholder or nominee LLC interest holder) which are attributable to the share capital or LLC interests in issue and are exercisable in all circumstances at any general meeting or members meeting of the other company or limited liability company or of its holding company or holding limited liability company; or
+(c) the first mentioned company or limited liability company holds, or a company or limited liability company in the same group as the first-mentioned company or limited liability company holds, an interest in the equity share capital or equity LLC interests of the other company or limited liability company carrying rights to vote in all circumstances at general meetings or members meetings for the purpose of securing a contribution to the activities of the first-mentioned company or limited liability company or the company or limited liability company in the same group as that company or limited liability company respectively by the exercise of control arising from that interest.
+10 Issuing of shares, LLC interests, debentures, etc.
+(1) The issuing of a company or limited liability company of its own shares or LLC interests or of share warrants or LLC interest warrants in respect of any shares or LLC interests, or by any person of the person’s own debentures or debenture warrants.
 (2) The issuing of its own units by a company, unit trust or limited partnership which would be a collective investment fund within the meaning of the Collective Investment Funds (Jersey) Law 1988 but for the fact that it does not acquire capital by means of an offer to the public of units for subscription, sale or exchange, as described in that Law.
-Note: For the purposes of this paragraph, “shares” and “debentures” include any investments falling within paragraph 1 or 2 of Schedule 1 and “share warrants” and “debenture warrants” means any investment which falls within paragraph 3 of Schedule 1 and, in the case of debenture warrants relates to debentures issued by the person concerned.
-11 Sale of company
-Dealing in the shares of a company and giving advice in relation to such dealing, where -
-(a) the shares comprise shares carrying at least 75% of the voting rights attributable to share capital which are exercisable in all circumstances at any general meeting of the company; or
-(b) the shares, together with any already held by the person acquiring them, carry not less than that percentage of those voting rights; and
+Note: For the purposes of this paragraph, “shares”, “LLC interests” and “debentures” include any investments falling within paragraph 1, 2 or 9B of Schedule 1 and “share warrants”, “LLC interest warrants” and “debenture warrants” means any investment which falls within paragraph 3 of Schedule 1 and, in the case of debenture warrants relates to debentures issued by the person concerned.
+11 Sale of company or limited liability company
+Dealing in the shares of a company or LLC interests of a limited liability company and giving advice in relation to such dealing, where -
+(a) the shares or LLC interests comprise shares or LLC interests carrying at least 75% of the voting rights attributable to share capital or all LLC interests in issue which are exercisable in all circumstances at a general meeting or members meeting of the company or limited liability company;
+(b) the shares or LLC interests, together with any already held by the person acquiring them, carry not less than that percentage of those voting rights; and
 (c) the dealing is between parties each of whom is a single person or a group of connected persons.
 Note: For the purposes of this paragraph -
 “close relative” means a person’s spouse or civil partner, children and step-children, parents and step-parents, brothers and sisters and step-brothers and step-sisters;
-“connected persons”, in relation to the seller of the shares, means persons each of whom is, or is a close relative of, a director or manager of the company and, in relation to the buyer or underwriter of or the subscriber for the shares, means persons each of whom is, or is a close relative of, a person who is to be a director or manager of the company.
+“connected persons”, in relation to the seller of the shares or LLC interests, means persons each of whom is, or is a close relative of, a director or manager of the company or limited liability company and, in relation to the buyer or underwriter of or the subscriber for the shares or LLC interests, means persons each of whom is, or is a close relative of, a person who is to be a director or manager of the company or limited liability company.
 12 Dealing as bare trustee
 Dealing in investments which are or are to be held by the person concerned as bare trustee, for another person, on that person’s instructions if -
 (a) the dealing takes place in the course of carrying on any business or profession which does not otherwise constitute investment business;
@@ -165,17 +167,17 @@ unless -
 Note: For the purposes of this paragraph -
 “joint enterprise” shall have the meaning given to it for the purposes of paragraph 8;
 “trustee” includes a duly appointed delegate of the trustee who is participating in a joint enterprise with the trustee.
-14 Discretionary investment management by company directors
-Deciding as a director of a company on the purchase, sale, subscription for or underwriting of investments by that company or another company in the same group as that company, unless -
-(a) the director concerned carries on the business of giving investment advice or otherwise carries on the business of discretionary investment management or holds himself or herself out as carrying on either of those businesses;
-(b) the person was appointed as a director as a result of his or her soliciting for business for the purposes of inducing any person to enter into investment business transactions with him or her; or
-(c) the person receives, directly or indirectly, any commissions or other remuneration for discharging his or her duties as a director calculated by reference to the value of the transaction concerned or to any premiums or other sums payable with respect to those investments.
-Note: For the purposes of this paragraph “director” includes a duly appointed alternate.
-15 Investment advice between directors
-Investment advice given by a person as director to a co-director for the purposes of the company unless -
+14 Discretionary investment management by directors or managers
+Deciding as the director of a company or the manager of a limited liability company on the purchase, sale, subscription for or underwriting of investments by that company or limited liability company or another company or limited liability company in the same group as that company or limited liability company, unless -
+(a) the director or manager concerned carries on the business of giving investment advice or otherwise carries on the business of discretionary investment management or holds himself or herself out as carrying on either of those businesses;
+(b) the person was appointed as a director or manager as a result of his or her soliciting for business for the purposes of inducing any person to enter into investment business transactions with him or her; or
+(c) the person receives, directly or indirectly, any commissions or other remuneration for discharging his or her duties as a director or manager calculated by reference to the value of the transaction concerned or to any premiums or other sums payable with respect to those investments.
+Note: For the purposes of this paragraph “director” includes a duly appointed alternate and “manager” includes a duly appointed proxy manager.
+15 Investment advice between directors or managers
+Investment advice given by a person as director to a co-director or as manager to a “co-manager” for the purposes of the company or limited liability company unless -
 (a) that person otherwise carries on the business of giving investment advice or of discretionary investment management or holds himself or herself out as carrying on either of those businesses; or
-(b) the person was appointed as a director as a result of his or her soliciting for business for the purposes of inducing any person to enter into investment business transactions with him or her.
-Note: For the purposes of this paragraph “director” includes a duly appointed alternate.
+(b) the person was appointed as a director or manager, as a result of his or her soliciting for business for the purposes of inducing any person to enter into investment business transactions with him or her.
+Note: For the purposes of this paragraph “director” includes a duly appointed alternate and “manager” includes a duly appointed proxy manager.
 16 Investment advice given by protectors
 Investment advice given by a person as protector of a trust to a trustee of that trust, unless -
 (a) that person otherwise carries on the business of giving investment advice or of discretionary investment management or holds himself or herself out as carrying on either of those businesses;
@@ -192,8 +194,8 @@ An activity specified in Article 2(3) and (4) carried on by a special purpose ve
 Note: In this paragraph -
 “1958 Order” means the Control of Borrowing (Jersey) Order 1958;
 “partnership interest” has the same meaning as in Article 10(3) of the 1958 Order;
-“relevant consent” means the consent of the Commission given under Article 1, 2, 3, 4, 9(1) or 10 of the 1958 Order;
-“securities” includes trust interests, shares, units, any partnership interest, bonds, notes, commercial paper, debentures, debenture stock and instruments creating or acknowledging indebtedness;
+“relevant consent” means the consent of the Commission given under Article 1, 2, 3, 4, 4A, 9(1), 10 or 11A of the 1958 Order;
+“securities” includes trust interests, shares, LLC interests, units, any partnership interest, bonds, notes, commercial paper, debentures, debenture stock and instruments creating or acknowledging indebtedness;
 “special purpose vehicle” means a person who has obtained a relevant consent and whose sole or principal activity is to participate in a scheme or arrangement that involves -
 (a) the making of a loan, the giving of a guarantee, or the entering into of a derivatives transaction;
 (b) the issuing of securities;

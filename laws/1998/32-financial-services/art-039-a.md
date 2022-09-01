@@ -1,6 +1,6 @@
 # 39A Interpretation
 (1) In this Part, in Schedule 6 and for the purposes of the definition “supervisor of a securities market” -
-“company” means any body (whether or not incorporated and wherever incorporated or constituted) which is not a public sector body;
+“company” means any body (whether or not incorporated, wherever incorporated or constituted, and including limited liability companies registered under the LLC Law) which is not a public sector body;
 “issuer”, in relation to any securities, means any company, public sector body or person by which or by whom the securities have been or are to be issued;
 “market maker” means a person who -
 (a) holds himself or herself out at all normal times in compliance with the rules of a securities market as willing to acquire or dispose of securities; and

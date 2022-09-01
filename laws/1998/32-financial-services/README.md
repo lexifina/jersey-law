@@ -1,6 +1,6 @@
 # Financial Services (Jersey) Law 1998
 
-L.32/1998 · official consolidation showing the law from 2022-03-10 · <https://www.jerseylaw.je/laws/current/l_32_1998_20220831>
+L.32/1998 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_32_1998_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,9 +20,9 @@ L.32/1998 · official consolidation showing the law from 2022-03-10 · <https://
 | Art. 11A | [art-011-a.md](art-011-a.md) | 11A Display of registration certificate and conditions |
 | Art. 12 | [art-012.md](art-012.md) | 12 Commission may apply to Court for appointment of manager in prescribed circumstances |
 | Art. 13 | [art-013.md](art-013.md) | 13 Objection to principal persons, key persons or share holdings |
-| Art. 14 | [art-014.md](art-014.md) | 14 Notification of change of principal person, key person or shareholding |
+| Art. 14 | [art-014.md](art-014.md) | 14 Notification of change of principal person, key person , shareholding or LLC interest |
 | Art. 15 | [art-015.md](art-015.md) | 15 Failure to notify change |
-| Art. 16 | [art-016.md](art-016.md) | 16 Powers of Commission and Court in respect of shares |
+| Art. 16 | [art-016.md](art-016.md) | 16 Powers of Commission and Court in respect of shares or LLC interests |
 | Art. 17 | [art-017.md](art-017.md) | 17 Power to make Orders relating to accounts and auditors |
 | Art. 18 | [art-018.md](art-018.md) | 18 Communication with Commission by auditors and approved professionals |
 | Art. 19 | [art-019.md](art-019.md) | 19 Codes of Practice |
