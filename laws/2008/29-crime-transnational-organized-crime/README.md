@@ -1,6 +1,6 @@
 # Crime (Transnational Organized Crime) (Jersey) Law 2008
 
-L.29/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_2008_20220831>
+L.29/2008 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_29_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
