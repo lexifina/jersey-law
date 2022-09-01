@@ -1,6 +1,6 @@
 # Proceeds of Crime and Terrorism (Tipping Off - Exceptions) (Jersey) Regulations 2014
 
-R&O.101/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_101_2014_20220831>
+R&O.101/2014 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_101_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
