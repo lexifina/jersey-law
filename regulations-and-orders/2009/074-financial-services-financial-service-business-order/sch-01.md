@@ -21,7 +21,7 @@ E
 Investment business carried on only with respect to funds that would be funds within the meaning of the Collective Investment Funds (Jersey) Law 1988 but for the fact that they do not, and do not intend to, acquire capital by means of an offer to the public of units for subscription, sale or exchange, as described in that Law.
 PART 2 - TRUST COMPANY BUSINESS
 F
-Acting as a company, partnership or foundation formation agent.
+Acting as a company, limited liability company, partnership or foundation formation agent.
 2(3) and 2(4)(a)
 G
 Acting or fulfilling the function of or arranging for another person to act as or fulfil the function of director or alternate director of a company.
@@ -30,19 +30,19 @@ H
 Acting or fulfilling the function of or arranging for another person to act as or fulfil the function of a partner of a partnership.
 2(3) and 2(4)(c)
 I
-Acting or arranging for another person to act as secretary, alternate, assistant or deputy secretary of a company or as secretary of a limited liability partnership.
+Acting or arranging for another person to act as secretary, alternate, assistant or deputy secretary of a company, as secretary of a limited liability company or as secretary of a limited liability partnership.
 2(3) and 2(4)(e)
 J
-Providing a registered office or business address for a company, partnership or a foundation.
+Providing a registered office or business address for a company, limited liability company, partnership or a foundation.
 2(3) and 2(4)(f)
 K
-Providing an accommodation, correspondence or administrative address for a company, a partnership or a foundation or for any other person.
+Providing an accommodation, correspondence or administrative address for a company, limited liability company, a partnership or a foundation or for any other person.
 2(3) and 2(4)(g)
 L
 Acting as or fulfilling or arranging for another person to act as or fulfil the function of trustee of an express trust.
 2(3) and 2(4)(h)
 M
-Acting as or fulfilling or arranging for another person to act as shareholder or unitholder as a nominee for another person.
+Acting as or fulfilling or arranging for another person to act as shareholder, member or unitholder as a nominee for another person.
 2(3) and 2(4)(i)
 N
 Acting as a manager of a managed trust company (as distinct from administering a private trust company being a company that is exempted by Order made under the Law from registration when providing a service specified in Article 2(4) of the Law).
@@ -81,6 +81,9 @@ if such an appeal has been brought, it has been determined by the Court or withd
 OA
 Acting as or fulfilling the function of or arranging for another person to act as or fulfil the function of a member of the council of a foundation.
 2(3) and 2(4)(d)
+OB
+Acting as or fulfilling the function of or arranging for another person to act as or fulfil the function of a member or manager of a limited liability company.
+2(3) and 2(4)(da)
 PART 3 - GENERAL INSURANCE MEDIATION BUSINESS
 P
 Carrying on general insurance mediation business (other than incidental general insurance mediation business), not carrying on any other class of financial service business and not being a business that is within Class Q.
