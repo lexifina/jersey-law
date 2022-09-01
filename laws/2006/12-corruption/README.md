@@ -1,6 +1,6 @@
 # Corruption (Jersey) Law 2006
 
-L.12/2006 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_2006_20220831>
+L.12/2006 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_12_2006_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
