@@ -1,6 +1,6 @@
 # Crime and Security (Jersey) Law 2003
 
-L.32/2003 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_32_2003_20220831>
+L.32/2003 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_32_2003_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
