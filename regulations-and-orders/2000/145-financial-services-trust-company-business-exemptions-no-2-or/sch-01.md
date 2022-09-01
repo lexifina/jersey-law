@@ -6,7 +6,7 @@ An overseas person, when carrying on trust company business.
 Note:
 (1) In this paragraph “overseas person” means a person who -
 (a) has no place of business in Jersey from which the person carries on trust company business in or from Jersey; and
-(b) is not a company incorporated in Jersey.
+(b) is not a company incorporated in Jersey or a limited liability company registered in Jersey.
 (2) This exemption does not authorize a person to whom it applies to hold out, while in Jersey, as being prepared to undertake trust company business in Jersey in accordance with this exemption except trust company business in respect of an existing customer or client.
 2 Unit holding nominee company
 A unit holding nominee company wholly owned and managed by the holder of a permit granted under, or by a certificate holder under, the Collective Investment Funds (Jersey) Law 1988, when carrying out trust company business in respect of the units covered by that permit.

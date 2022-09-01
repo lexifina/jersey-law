@@ -1,6 +1,6 @@
 # Financial Services (Trust Company Business (Exemptions No. 2)) (Jersey) Order 2000
 
-R&O.145/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_145_2000_20220831>
+R&O.145/2000 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_145_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
