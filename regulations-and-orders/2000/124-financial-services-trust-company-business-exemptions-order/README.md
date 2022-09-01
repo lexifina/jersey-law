@@ -1,6 +1,6 @@
 # Financial Services (Trust Company Business (Exemptions)) (Jersey) Order 2000
 
-R&O.124/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_124_2000_20220831>
+R&O.124/2000 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_124_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
