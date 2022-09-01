@@ -5,23 +5,24 @@
 (2) In this Article “specified time” means -
 (a) in relation to a requirement to deliver a return in respect of a year of assessment -
 (i) in the case of a return in respect of a company’s own charge to tax, midnight on 31st December in the year following the year of assessment,
-(ii) in the case of a return delivered electronically other than a return referred to in clause (i), midnight on 31st July in the year following the year of assessment,
-(iii) in the case of any other return not referred to in clause (i) or (ii), midnight on 31st May in the year following the year of assessment;
+(ia) in the case of a return in respect of an LLC under Article 135C, midnight on 31st December in the year following the year of assessment,
+(ii) in the case of a return delivered electronically other than a return referred to in clause (i) or (ia), midnight on 31st July in the year following the year of assessment,
+(iii) in the case of any other return not referred to in clause (i), (ia) or (ii), midnight on 31st May in the year following the year of assessment;
 (b) in the case of a return under Article 20(1) or 20A(1), midnight on the 15th day after the end of the month in respect of which the return is required to be delivered;
 (c) in the case of a return under Article 20C, midnight on 31st January in the year following the year in which or in respect of which the benefit was provided;
 (d) in the case of a return under Article 20(1A) or 20A(1A), midnight on the 15th day after the end of each year.
 (2A) Where a person required to deliver to the Comptroller a true, complete and correct return does not do so by midnight on the date that is 3 months after the specified time, the person is liable to a penalty of an amount specified in paragraph (2B) for each month that the return remains undelivered up to a maximum of 9 months.
 (2B) Those amounts are -
-(a) in the case of a return under Article 16 or 17 by a person other than a body corporate, £50 per month;
-(b) in the case of a return under Article 20, 20A, 20B, 20C or 20D or by a body corporate under Article 16, £100 per month.
+(a) in the case of a return under Article 16 or 17 by a person other than a body corporate or LLC, £50 per month;
+(b) in the case of a return under Article 20, 20A, 20B, 20C, 20D or 135C or by a body corporate or LLC under Article 16, £100 per month.
 (3) A person who is required to deliver a return under Article 16 or 17 is not liable to a penalty under this Article if -
-(a) the person is not a body corporate; and
+(a) the person is not a body corporate or LLC; and
 (b) the Comptroller is satisfied that the person is not liable to pay any tax for the period to which the return relates.
-(4) Where a return under Article 16 or 17 is delivered after the specified time and the Comptroller is satisfied that, for the year of assessment to which the return relates, a person other than a body corporate is liable to pay tax of less than £300 -
+(4) Where a return under Article 16 or 17 is delivered after the specified time and the Comptroller is satisfied that, for the year of assessment to which the return relates, a person other than a body corporate or LLC is liable to pay tax of less than £300 -
 (a) the person’s liability under paragraph (1) must be abated to an amount equal to the tax that the person is liable to pay for that year of assessment; and
 (b) the Comptroller must repay to the person any amount paid by the person in discharge of the person’s liability under paragraph (1) which exceeds the abated amount.
 (4A) Paragraph (4B) applies if -
-(a) a person, other than a body corporate, is liable to pay one or more penalties under paragraph (2A) in respect of a return under Article 16 or 17; and
+(a) a person, other than a body corporate or LLC, is liable to pay one or more penalties under paragraph (2A) in respect of a return under Article 16 or 17; and
 (b) the Comptroller is satisfied that the person is liable to pay tax of less than £50 for the period to which the return relates.
 (4B) If this paragraph applies, -
 (a) each penalty that the person is liable to pay under paragraph (2A) is abated to an amount equal to the tax the person is liable to pay for the period to which the return relates; and
@@ -41,5 +42,5 @@
 (a) this Law shall apply to the collection and recovery of the penalty as if it were an amount of tax charged and payable under this Law; and
 (b) the penalty shall not be deductible for any purposes of this Law.
 (12) The penalty shall be disregarded when determining the amount of a late payment surcharge under Article 41I.
-(12A) In this Article, “return” means a return required under Article 16, 17, 20, 20A, 20B, 20C or 20D.
+(12A) In this Article, “return” means a return required under Article 16, 17, 20, 20A, 20B, 20C, 20D or 135C.
 (13)

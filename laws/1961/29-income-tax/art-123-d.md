@@ -14,6 +14,9 @@
 (e) is a company trading in the provision of credit facilities to customers by way of making any advance or granting of any credit including (but not limited to) -
 (i) the provision, in connection with the supply of goods by hire purchase, leasing, conditional sale or credit sale, of credit in instalments for which a separate charge is made and disclosed to the customer, and
 (ii) any assignment to the company of an advance or credit repayable by the customer to a person other than the company.
+(4A) If an LLC would, if it were a company, satisfy any of the criteria in paragraph (4) -
+(a) a member of the LLC that is a company is a financial services company; and
+(b) a member of the LLC that is an LLC is treated, for the purposes of this paragraph, as satisfying the criteria in paragraph (4) (as are members of that LLC that are LLCs, and so on).
 (5) The Minister may by Order amend the definition “financial services company” in paragraph (4).
 (6) For the purposes of paragraph (4)(e) -
 (a) “customer” shall not include any person which, in relation to the company by which credit facilities are provided, is a connected person, and for this purpose “connected person” has the meaning given by Article 3A(4) and (5); and

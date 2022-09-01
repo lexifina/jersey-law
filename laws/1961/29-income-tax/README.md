@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2022-03-04 · <https://www.jerseylaw.je/laws/current/l_29_1961_20220831>
+L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -310,6 +310,10 @@ L.29/1961 · official consolidation showing the law from 2022-03-04 · <https://
 | Art. 135 | [art-135.md](art-135.md) | 135 Deduction in respect of expenditure and houses of ministers of religion |
 | Art. 135A | [art-135-a.md](art-135-a.md) | 135A Persons granted 1(1)(k) housing consent or Entitled status under Regulation 2(1)(e) |
 | Art. 135B | [art-135-b.md](art-135-b.md) | 135B Exchange of information for the purposes of Article 135A |
+| Art. 135C | [art-135-c.md](art-135-c.md) | 135C Secretary to provide returns |
+| Art. 135D | [art-135-d.md](art-135-d.md) | 135D Income and property attributable to members |
+| Art. 135E | [art-135-e.md](art-135-e.md) | 135E Residence of LLCs and members |
+| Art. 135F | [art-135-f.md](art-135-f.md) | 135F Other duties of LLCs unaffected |
 | Art. 137 | [art-137.md](art-137.md) | 137 Penalties for fraudulently making incorrect statements, etc. |
 | Art. 139 | [art-139.md](art-139.md) | 139 Penalty for refusing to allow deduction of tax, and avoidance of agreements for payment without deduction |
 | Art. 141 | [art-141.md](art-141.md) | 141 Penalties to belong to States’ revenues |

@@ -24,7 +24,7 @@
 whichever is higher;
 (d) calculate “D”: A less C;
 (e) calculate “E”: the standard rate of income tax x D;
-(f) calculate “F%”: E/A.
+(f) calculate “F%: E/A.
 (8) The relief is that the Jersey income is taxed at a rate (“H%”) calculated as follows -
 (a) calculate F% under paragraph (7);
 (b) calculate as a percentage the amount that the non-resident is charged to tax in a country or territory outside Jersey (excluding any tax relief to which he or she is entitled in that country or territory) divided by the aggregate of the amount of the non-resident’s non-Jersey income and Jersey income notified to that country or territory for the purposes of assessment of liability to tax (“G%”);
