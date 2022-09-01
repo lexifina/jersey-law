@@ -44,7 +44,8 @@ Business regulated by the Commission under regulatory laws
 (f) excluding trust company business carried on by a person specified in any of the paragraphs of the Schedule to the Financial Services (Trust Company Business (Exemptions No. 3)) (Jersey) Order 2001 specified below where that business is carried on in the circumstances described in that paragraph -
 (i) paragraph 1 (private protector company),
 (ii) paragraph 2 (general partner),
-(iii) paragraph 4 (investment company subsidiary);
+(iii) paragraph 4 (investment company subsidiary),
+(iv) paragraph 2A (manager, or member involved in management, of a limited liability company);
 (g) excluding trust company business carried on by a person specified in paragraph 1 (connected persons) of the Schedule to the Financial Services (Trust Company Business (Exemptions No. 4)) (Jersey) Order 2001 where that business is carried on in the circumstances mentioned in that paragraph;
 (h) excluding trust company business carried on in accordance with the exemption set out in the Financial Services (Trust Company Business (Exemptions No. 5)) (Jersey) Order 2001 by a person who -
 (i) is specified in the Schedule to that Order, and
@@ -73,8 +74,9 @@ OTHER BUSINESS
 (3) “Audit services” are audit services provided by way of business pursuant to any function under any enactment.
 (4) “Insolvency services” are services provided by a person if, by way of business, that person accepts appointment as -
 (a) a liquidator under Chapter 4 of Part 21 of the Companies (Jersey) Law 1991;
-(b) an insolvency manager appointed under Part 5 of the Limited Liability Partnerships (Jersey) Law 1997 as that Law has effect in its application to insolvent limited liability partnerships pursuant to the Limited Liability Partnerships (Insolvent Partnerships) (Jersey) Regulations 1998; or
-(c) as agent of an official functionary appointed in the case of a remise de biens, cession, or désastre.
+(b) an insolvency manager appointed under Part 5 of the Limited Liability Partnerships (Jersey) Law 1997 as that Law has effect in its application to insolvent limited liability partnerships pursuant to the Limited Liability Partnerships (Insolvent Partnerships) (Jersey) Regulations 1998;
+(c) as agent of an official functionary appointed in the case of a remise de biens, cession, or désastre; or
+(d) a liquidator appointed under the Limited Liability Companies (Winding Up and Dissolution) (Jersey) Regulations 2022.
 3 Estate agency services
 (1) The business of providing estate agency services for or on behalf of third parties concerning the buying or selling of freehold (including flying freehold) or leasehold property (including commercial and agricultural property), whether the property is situated in Jersey or overseas.
 (2) The business of providing estate agency services for or on behalf of third parties concerning the buying or selling of shares the ownership of which entitles the owner to occupy immovable property, whether the property is situated in Jersey or overseas.
@@ -124,12 +126,18 @@ The business of an unregulated fund, being an unregulated fund within the meanin
 (n) otherwise investing, administering or managing funds or money on behalf of third parties.
 (2) A reference in this paragraph to providing services to third parties shall not include -
 (a) the provision of the services of collecting, administering and disbursing service or maintenance charges (however described) in connection with immovable property situated in Jersey (including such property when it is occupied under a contractual lease or licence); nor
-(b) the provision of a service by a company to a connected company.
-(3) For the purposes of this Part of this Schedule, a company is connected with another company if -
-(a) the companies are in the same group;
-(b) one is entitled, either alone or with any other company in the same group, to exercise or control the exercise of a majority of the voting rights (other than as nominee shareholder) which are attributable to the share capital and are exercisable in all circumstances at any general meeting of the other company or of its holding company; or
-(c) the first-mentioned company holds, or a company in the same group as the first-mentioned company holds, an interest in the equity share capital of the other company carrying rights to vote in all circumstances at general meetings for the purpose of securing a contribution to the activities of the first-mentioned company or the company in the same group as that company respectively by the exercise of control or influence arising from that interest.
-(4) In this paragraph, “group” and “holding company” have the same meanings as in the Financial Services (Jersey) Law 1998.
+(b) the provision of a service by a company or limited liability company to a connected company or limited liability company.
+(3) For the purposes of this Part of this Schedule a company or limited liability company is connected with another company or limited liability company if -
+(a) they are in the same group;
+(b) one is entitled, either alone or with any other company or limited liability company in the same group, to exercise or control the exercise of a majority of the voting rights, (other than as nominee shareholder or member) which -
+(i) are attributable to the share capital or LLC interests, and
+(ii) are exercisable in all circumstances at any general meeting, meeting under Article 15 or 16(2) of the Limited Liability Companies (Jersey) Law 2018 or a meeting under the LLC agreement of the other company or limited liability company or of its holding company or holding limited liability company; or
+(c) the first-mentioned company or limited liability company holds, or a company or limited liability company in the same group as the first-mentioned company or limited liability company holds, an interest in the equity share capital or an LLC interest in the other company or limited liability company carrying rights to vote in all circumstances at -
+(i) general meetings,
+(ii) meetings under Articles 15 and 16(2) of the Limited Liability Companies (Jersey) Law 2018, or
+(iii) meetings under the LLC agreement,
+for the purpose of securing a contribution to the activities of the first-mentioned company or limited liability company or the company or limited liability company in the same group as that company or limited liability company respectively by the exercise of control or influence arising from that interest in the equity share capital or LLC interest.
+(4) In this paragraph, “group”, “holding limited liability company” and “holding company” have the same meanings as in the Financial Services (Jersey) Law 1998.
 8 The business of forming and administering legal persons or arrangements
 The business of providing services to or in respect of types of legal person or arrangement other than those described in Article 2(5)(a) and (b) of the Financial Services (Jersey) Law 1998, in the course of which services are provided that are similar or equivalent to those described in Article 2(4) of that Law as if Article 2(4) referred to that type of legal person or arrangement.
 9 Virtual currency exchange
