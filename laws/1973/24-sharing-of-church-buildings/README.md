@@ -1,6 +1,6 @@
 # Sharing of Church Buildings (Jersey) Law 1973
 
-L.24/1973 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_1973_20220907>
+L.24/1973 · official consolidation showing the law from 2022-09-08 · <https://www.jerseylaw.je/laws/current/l_24_1973>
 
 | Provision | File | Heading |
 | --- | --- | --- |
