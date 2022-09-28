@@ -26,6 +26,15 @@ For the purposes of determining the amount of Class 1 contributions payable in r
 The standard contribution for a month is, in the case of a Class 1 insured person, the sum of -
 (a) the maximum amount payable under paragraph 3(1)(b) for the month; and
 (b) the maximum amount payable under paragraph 3(2)(b) for the month.
+3B Temporary modification of Class 1 monthly contributions
+(1) Only for the period commencing on 1st October 2022 and ending at the end of 31st December 2022 -
+(a) this paragraph applies instead of paragraph 3(1); and
+(b) the reference in paragraph 3A(a) to paragraph 3(1)(b) is to be read as a reference to paragraph 3B(3)(b).
+(2) Despite sub-paragraph (1)(a), paragraph 3(1) continues to apply in relation to Class 1 contributions for the purposes of calculating a deduction from income under paragraph 4(1)(c)(i) of Schedule 2 to the Income Support (General Provisions) (Jersey) Order 2008.
+(3) The amount of an employed person’s primary Class 1 contributions in respect of the monthly earnings of an employment is the aggregate of the following amounts -
+(a) 0.8% of the person’s earnings that do not exceed the standard monthly earnings limit, which amount is allocated to the Health Insurance Fund; and
+(b) 3.2% of the person’s earnings that do not exceed the standard monthly earnings limit.
+(4) This paragraph expires at the end of 31st December 2022.
 4 Class 1 - supplementation
 (1) Where -
 (a) contributions have been paid in respect of a Class 1 insured person for a month; and
@@ -39,3 +48,10 @@ the social security contributions shall be supplemented for the month by an amou
 (i) 5.2% of the lower monthly earnings limit, and
 (ii) 5.3% of the lower monthly earnings limit;
 (b) “social security contributions” means so much of the contributions paid or credited in respect of a Class 1 insured person as are to be paid into the Social Security Fund.
+4A Temporary modification of Class 1 supplementation
+(1) Only for the period commencing on 1st October 2022 and ending at the end of 31st December 2022 this paragraph applies instead of paragraph 4(3)(a).
+(2) Despite sub-paragraph (1)(a), paragraph 4(3)(a) continues to apply in relation to Class 1 contributions for the purposes of calculating a deduction from income under paragraph 4(1)(c)(i) of Schedule 2 to the Income Support (General Provisions) (Jersey) Order 2008.
+(3) For the purposes of paragraph 4, the contribution threshold is the sum of -
+(a) 3.2% of the lower monthly earnings limit; and
+(b) 5.3% of the lower monthly earnings limit.
+(4) This paragraph expires at the end of 31st December 2022.
