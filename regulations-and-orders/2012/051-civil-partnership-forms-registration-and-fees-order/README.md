@@ -1,6 +1,6 @@
 # Civil Partnership (Forms, Registration and Fees) (Jersey) Order 2012
 
-R&O.51/2012 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/ro_51_2012_20220930>
+R&O.51/2012 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/ro_51_2012_20230123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,7 +14,6 @@ R&O.51/2012 · official consolidation showing the law from 2022-04-01 · <https:
 | Art. 8 | [art-008.md](art-008.md) | 8 Correction of error in register |
 | Art. 9 | [art-009.md](art-009.md) | 9 Specifications for registers |
 | Art. 10 | [art-010.md](art-010.md) | 10 Fees |
-| Art. 10A | [art-010-a.md](art-010-a.md) | 10A Expiry of temporary Covid-19 measure |
 | Art. 11 | [art-011.md](art-011.md) | 11 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
