@@ -1,6 +1,6 @@
 # Wills and Successions (Jersey) Law 1993
 
-L.18/1993 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/l_18_1993_20220930>
+L.18/1993 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/l_18_1993_20240425>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,7 +36,6 @@ L.18/1993 · official consolidation showing the law from 2022-04-01 · <https://
 | Art. 16 | [art-016.md](art-016.md) | 16 Testamentary dispositions and appointments revoked by divorce or dissolution of civil partnership |
 | Art. 17 | [art-017.md](art-017.md) | 17 Will made by a minor |
 | Art. 17A | [art-017-a.md](art-017-a.md) | 17A Will signed by person other than testator |
-| Art. 17B | [art-017-b.md](art-017-b.md) | 17B Will witnessed where testator or witness not physically present |
 | Art. 18 | [art-018.md](art-018.md) | 18 Liability of heir, devisee or legatee |
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Gamete donors |
 | Art. 19 | [art-019.md](art-019.md) | 19 Non-discrimination |
