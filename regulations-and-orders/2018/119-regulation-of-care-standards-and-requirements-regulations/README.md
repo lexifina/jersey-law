@@ -1,13 +1,12 @@
 # Regulation of Care (Standards and Requirements) (Jersey) Regulations 2018
 
-R&O.119/2018 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20220930>
+R&O.119/2018 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20221231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Fitness criteria |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Conditions of registration: general |
-| Reg. 3A | [reg-003-a.md](reg-003-a.md) | 3A Modification of application of Regulation 3 due to outbreak of Covid-19 |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Conditions of registration: regulated activities at one or more premises |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Conduct of regulated activity |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Openness and transparency |
@@ -22,7 +21,6 @@ R&O.119/2018 · official consolidation showing the law from 2022-04-01 · <https
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Shared responsibilities |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Control and restraint |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Workers |
-| Reg. 17A | [reg-017-a.md](reg-017-a.md) | 17A Modification of application of Regulation 17 due to outbreak of Covid-19 |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Premises and equipment |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Reviewing quality of service |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Provision of updated information and review of Statement of Purpose |
