@@ -1,6 +1,6 @@
 # Animal Health (Importation of Miscellaneous Goods and Animals) (Jersey) Order 2017
 
-R&O.11/2017 · official consolidation showing the law from 2021-01-28 · <https://www.jerseylaw.je/laws/current/ro_11_2017_20221117>
+R&O.11/2017 · official consolidation showing the law from 2022-11-18 · <https://www.jerseylaw.je/laws/current/ro_11_2017_20251224>
 
 | Provision | File | Heading |
 | --- | --- | --- |

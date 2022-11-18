@@ -78,3 +78,22 @@ All countries except the British Islands.
 21
 Aquaculture animals within the meaning of the EU Legislation (Aquatic Animal Health) (Jersey) Regulations 2016.
 All countries.
+22
+Porcine products, consisting in whole or in part, of a body of a pig or derived from a pig -
+(a) products of animal origin;
+(b) animal by-products;
+(c) derived products, which are products obtained from one or more treatments, transformations or steps in the processing of animal by-products.
+All countries excluding the British Islands.
+This prohibition does not apply to -
+(a) porcine products intended for human consumption which are imported from a member state, Iceland, Liechtenstein, Norway, the Faroe Islands, Greenland or Switzerland -
+(i) with a health mark within the meaning given in Article 3(51) of the Official Controls Regulation, as that Regulation has effect in EU legislation, or
+(ii) with an identification mark applied in accordance with Article 5 of, and Section 1 of Annex 2 to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55), as that Regulation has effect in EU legislation;
+(b) porcine products not intended for human consumption which are imported from a member state, Iceland, Liechtenstein, Norway, the Faroe Islands, Greenland or Switzerland and either -
+(i) packaged in accordance with Article 23(1) of Regulation (EC) No 767/2009 of the European Parliament and of the Council on the placing on the market and the use of feed (OJ L 229, 1.9.2009 p. 1), as it has effect in EU legislation, and including on the package the name and address of the feed business operator responsible for its labelling under Article 12(2) of that Regulation, or
+(ii) have a label attached to the packaging, container or vehicle, describing the product and stating to which category of animal by-products it belongs, as set out in Articles 8 to 10 of Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption, (OJ L 300, 14.11.2009 p. 1), as that Regulation has effect in EU legislation.
+23
+Personal consignments of porcine products intended for human consumption exceeding 2 kilogrammes.
+All countries excluding the British Islands.
+24
+Personal consignments of porcine products that are animal by-products and not intended for human consumption exceeding 2 kilogrammes.
+All countries excluding the British Islands.
