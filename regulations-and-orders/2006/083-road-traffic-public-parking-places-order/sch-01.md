@@ -133,11 +133,11 @@ Patriotic Street Car Park
 STH19
 People’s Park Car Park
 STH20
-Pier Road Car Park Shopper Zone, level 1
+Pier Road Car Park Shopper Zones on levels 1 and 2
 STH20A
 Pier Road Car Park, levels 13, 14 and 15
 STH21
-Pier Road Car Park (excluding Shopper Zone, level 1 and levels 13, 14 and 15)
+Pier Road Car Park (excluding levels 13, 14 and 15, and the Shopper Zones on levels 1 and 2)
 STH22
 Snow Hill Car Park
 STH24
