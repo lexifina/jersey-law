@@ -1,5 +1,6 @@
 # SCHEDULE 5
 (Article 11)
+domestic driving permits of other countries
 1
 2
 3
@@ -8,7 +9,8 @@ Country or territory of issue (and date of issue where relevant)
 Class of domestic driving permit
 Equivalent category of Jersey licence
 Conditions
-UNITED KINGDOM Type 1 and 2 (prior to 06/90)
+UNITED KINGDOM
+Type 1 and 2 (prior to 06/90)
 A
 B, B1, BE, C1, C1E
 D1 and D1E may be added only if driving test passed in D1 vehicle
@@ -31,7 +33,7 @@ Disabled
 K
 K
 HGV Class 1
-C + E
+CE
 HGV Class 1A
 C
 Automatic only
@@ -40,7 +42,8 @@ C
 HGV Class 2A or 3A
 C
 Automatic only
-UNITED KINGDOM Type 3 (and all other permits 06/90 and onward)
+UNITED KINGDOM
+Type 3 (and all other permits 06/90 and onward)
 A1
 A1
 A, A2
@@ -78,40 +81,51 @@ A
 B1
 B
 AUSTRALIA
-- Australian Capital Territory Type 1 (prior to 2008)
+Australian Capital Territory
+Type 1 (prior to 2008)
 1, 2, 3, 4, 5, 6, 9
-B+ BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 7
 A
 Type 2 and 3 (2008 and onward)
 R
 A
+Automatic only, unless test passed in manual vehicle
 C, LR, MR, HR, HC, MC
-B + BE
-- New South Wales Type 1 (prior to 11/02)
+B, BE
+Automatic only, unless test passed in manual vehicle
+New South Wales
+Type 1 (prior to 11/02)
 R
 A
 1A, 1B, 3A, 3B, 4A, 4B, 5A, 5B, 5C
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 Type 2 (11/02 and onward)
 R
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- Northern Territory - Type 1
+B, BE
+Automatic only, unless test passed in manual vehicle
+Northern Territory
+Type 1
 A, B, C1, C2, C3, C4, D2, D3, D4, D5
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 E1, E2, E3
 A
 Type 2
 R
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- Queensland
+B, BE
+Automatic only, unless test passed in manual vehicle
+Queensland
 Type 1
 A, C, D
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 B
 A
 E
@@ -120,52 +134,60 @@ Type 2 and 3
 R, RE
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- South Australia
+B, BE
+Automatic only, unless test passed in manual vehicle
+South Australia
 Type 1
 Bike
 A
 1/Car, LT/2A/HT/2, LA/HA/3/3A,
 SB/LR/HB/5/5A/5B
-B + BE
+B, BE
+Automatic only
 Type 2
 R
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- Tasmania
+B, BE
+Tasmania
 Type 1
 Car, LB, LT, HB, LA/HA, AB
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 A
 A
 Type 2
 R
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- Victoria
+B, BE
+Automatic only, unless test passed in manual vehicle
+Victoria
 Type 1
 Car
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 Bike
 A
 Type 2 and 3
 Motorcycle (R)
 A
 C, LR, MR, HR, HC, MC
-B + BE
-- Western Australia
+B, BE
+Automatic only, unless test passed in manual vehicle
+Western Australia
 Type 1
 A, B, C, E, F
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 K, L
 A
 Type 2
 R, RE
 A
 C, LR, MR, HR, HC, MC
-B + BE
+B, BE
+Automatic only, unless test passed in manual vehicle
 BARBADOS
 Type 1 (prior to 2008)
 Motorcycle
@@ -185,57 +207,64 @@ B
 Automatic only
 M
 A
-CANADA -
-Alberta Type 1, 2 and 3
+CANADA
+Alberta
+Type 1, 2 and 3
 1
 B
 Automatic only
 4, 5
-B + BE
+B, BE
 Automatic only
 6
 A
-British Columbia Type 1, 2 and 3
+British Columbia
+Type 1, 2 and 3
 1, 2, 3, 4
-B + BE
+B, BE
 Only if test passed in manual vehicle
 6
 A
 5, 7, 7N
-B + BE
+B, BE
 Automatic only
-Manitoba Type 1, 2 and 3
+Manitoba
+Type 1, 2 and 3
 1, 2, 3, 4, 5
-B + BE
+B, BE
 Automatic only
 6
 A
-New Brunswick Type 1 and 2
+New Brunswick
+Type 1 and 2
 5
-B + BE
+B, BE
 Automatic only
 6A, 6D
 A
-Newfoundland Type 1 and 2
+Newfoundland
+Type 1 and 2
 5
-B + BE
+B, BE
 Automatic only
 6
 A
-Northwest Territories Type 1
+Northwest Territories
+Type 1
 1
-B + BE
+B, BE
 3
-B + BE
+B, BE
 Automatic only
 5
 B
 Automatic only
 6
 A
-Nova Scotia Type 1
+Nova Scotia
+Type 1
 3
-B + BE
+B, BE
 Automatic only
 5, 5N
 B
@@ -245,54 +274,74 @@ A, B
 In the case of B, automatic only
 6
 A
-Nunavut Type 1
+Nunavut
+Type 1
 3
-B + BE
+B, BE
 Automatic only
 5
 B
 Automatic only
 6
 A
-Ontario Type 1 and 2
+Ontario
+Type 1 and 2
 A, D, G, G2
-B + BE
+B, BE
 Automatic only Temporary licences are acceptable for exchange
 M, M2
 A
 Temporary licences are acceptable for exchange
-Prince Edward Island Type 1, 2 and 3
+Prince Edward Island
+Type 1, 2 and 3
 5
-B + BE
+B, BE
 Automatic only
 6
 A
-Quebec Type 1 and 2
+Quebec
+Type 1 and 2
 5
 B
-Automatic only
+Automatic only, unless test passed in manual vehicle
 6A, 6B
 A
 6C
 A1
-Saskatchewan Type 1 and 2
+Saskatchewan
+Type 1 and 2
 5
-B + BE
+B, BE
 Automatic only
 6
 A
-Yukon Type 1
+Yukon
+Type 1
 5
-B + BE
+B, BE
 Automatic only
 6
 A
-EU COUNTRIES*
+CAYMAN ISLANDS
+1
+A1
+1A
+A1
+2
+B, BE
+Automatic only, unless test passed in manual vehicle
+3
+B, BE
+Automatic only, unless test passed in manual vehicle
+4
+B, BE
+Automatic only, unless test passed in manual vehicle
+EUROPEAN COUNTRIES LISTED AT END OF TABLE*
 A1
 A1
 A, A2
 A
-A (equal to or less than 25Kw)
+A (equal to or less than 25 kw)
 A1
 Belgium only
 A3
@@ -339,7 +388,8 @@ Romania only
 W
 F
 Republic of Ireland only
-FALKLAND ISLANDS Type 1 and 2
+FALKLAND ISLANDS
+Type 1 and 2
 A
 B, B1, BE, C1, C1E
 D1 and D1E may be added only if driving test passed in D1 vehicle
@@ -362,7 +412,7 @@ Disabled
 K
 K
 HGV Class 1
-C + E
+CE
 HGV Class 1A
 C
 Automatic only
@@ -371,7 +421,8 @@ C
 HGV Class 2A or 3A
 C
 Automatic only
-FALKLAND ISLANDS Type 3 (and all other permits 06/90 and onward)
+FALKLAND ISLANDS
+Type 3 (and all other permits 06/90 and onward)
 A1
 A1
 A, A2
@@ -380,6 +431,9 @@ AM
 P
 B1
 B1
+BA
+B
+Automatic only
 B
 B
 C1
@@ -407,6 +461,8 @@ B
 BE
 BE
 GIBRALTAR
+A1
+A1
 A
 A
 B
@@ -458,7 +514,7 @@ D
 D
 E
 E
-ISLE OF MAN (New type)
+ISLE OF MAN
 A1
 A1
 A
@@ -480,20 +536,6 @@ E
 E
 F
 F
-(Former type)
-1
-C or C + E
-2
-B
-3
-A
-8
-B1
-Disabled
-13
-B1
-14
-P
 JAPAN
 (All Japanese classes are given as translated)
 Ordinary motor vehicle or medium-sized motor vehicle
@@ -507,19 +549,28 @@ A
 A
 B
 B
-NEW ZEALAND Type 1 (prior to 05/99)
+NEW ZEALAND
+Type 1 (prior to 05/99)
 A
 A
 B
-B + BE
+B, BE
 Automatic only, unless test passed in manual vehicle
 Type 2 and 3 (05/99 onward)
 1, 1R
-B + BE
+B, BE
 Automatic only, unless test passed in manual vehicle
 6
 A
-SINGAPORE Type 1 and 2
+NORTH MACEDONIA
+B
+B
+Automatic only, unless test passed in manual vehicle
+BE
+BE
+Automatic only, unless test passed in manual vehicle
+SINGAPORE
+Type 1 and 2
 2B, 2A, 2
 A
 3
@@ -537,15 +588,16 @@ A
 B
 B
 EB, C1E, CE
-B + BE
+B, BE
 C1
 B
 SOUTH KOREA
 1
-B + BE
+B, BE
 2
 B
-SWITZERLAND Type 1
+SWITZERLAND
+Type 1
 A
 A
 A1
@@ -574,12 +626,39 @@ D
 D
 DE
 DE
-ZIMBABWE Type 1 and 2
+TAIWAN
+B
+B, BE
+C
+B, BE
+D
+B, BE
+E
+B, BE
+UKRAINE
+B1
+B1
+Automatic only if test passed before 28th December 2021 or, if test passed on or after that date, automatic only unless test passed in manual vehicle
+B
+B
+Automatic only if test passed before 28th December 2021 or, if test passed on or after that date, automatic only unless test passed in manual vehicle
+BE
+BE
+Automatic only if test passed before 28th December 2021 or, if test passed on or after that date, automatic only unless test passed in manual vehicle
+UNITED ARAB EMIRATES
+Image of a car or the words “Light Vehicle”
+B, BE
+Image of a motorcycle or the word “Motorcycle”
+A1
+Image of Lorry/Bus or the words “Heavy Goods”
+B, BE
+ZIMBABWE
+Type 1 and 2
 3
 A
-1. Type 1 photocard style licences only are acceptable
+1. If Type 1, photocard style licences only are acceptable
 2. Rhodesian and Southern Rhodesian (but not Northern Rhodesian) licences are acceptable
 4, 5
 B
-* EU COUNTRIES are:
+* LISTED EUROPEAN COUNTRIES:
 AUSTRIA, BELGIUM, BULGARIA, CROATIA, CYPRUS, CZECH REPUBLIC, DENMARK, ESTONIA, FINLAND, FRANCE, GERMANY, GREECE, HUNGARY, ITALY, LATVIA, LIECHTENSTEIN, LITHUANIA, LUXEMBOURG, MALTA, NETHERLANDS, NORWAY, POLAND, PORTUGAL, REPUBLIC OF IRELAND, ROMANIA, SLOVENIA, SLOVAKIA, SPAIN, SWEDEN

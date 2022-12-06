@@ -1,6 +1,6 @@
 # SCHEDULE 11
 (Article 34)
-form of certain plates in respect of learner drivers
+form of certain plates in reSpect of learner drivers
 PART 1
 (Article 34(7))
 Diagram of a distinguishing mark to be displayed on a motor vehicle other than a motor cycle or moped whilst being driven by a person holding a provisional licence.

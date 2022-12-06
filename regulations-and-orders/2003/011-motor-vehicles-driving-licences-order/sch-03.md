@@ -27,11 +27,11 @@ Off road theory test other than in respect of category C and D vehicles
 £37.50
 Off road theory test in respect of category C and D vehicles
 £46
-On road practical test other than in respect of category A1, P, C and D vehicles or, in respect of category A, where a person is not required under Article 24(4)(e) to produce a compulsory basic training certificate to the examiner immediately before taking the test
+On road practical test other than in respect of category A1, P, C and D vehicles or, in respect of category A, where a person is not required under Article 24(4)(d) to produce a compulsory basic training certificate to the examiner immediately before taking the test
 £55
 On road practical test in respect of category C and D vehicles
 £103.50
-On road practical test in respect of category A1 and P vehicles or, in respect of category A, where a person is required under Article 24(4)(e) to produce a compulsory basic training certificate to the examiner immediately before taking the test
+On road practical test in respect of category A1 and P vehicles or, in respect of category A, where a person is required under Article 24(4)(d) to produce a compulsory basic training certificate to the examiner immediately before taking the test
 £48
 Duplicate copy of certificate or statement in respect of result of theory test or practical test
 £12

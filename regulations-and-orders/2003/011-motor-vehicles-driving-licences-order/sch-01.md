@@ -1,6 +1,7 @@
 # SCHEDULE 1
 (Articles 1(2) and 10)
 CATEGORIES OF VEHICLES
+In this Order a vehicle in category “B+E”, “C+E”, “D+E”, “C1+E”; or D1+E” may be referred to as a vehicle in category “BE”, “CE”, “DE”, “C1E” or “D1E” respectively.
 Column 1
 Column 2
 Column 3
