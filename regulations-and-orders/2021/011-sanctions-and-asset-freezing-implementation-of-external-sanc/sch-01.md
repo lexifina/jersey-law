@@ -126,11 +126,6 @@ The Libya (Sanctions) (EU Exit) Regulations 2020
 2020/1665
 regulations 11 and 17
 regulations 25(1), 26(1), 27(1), 28(1), 29(1), 29(2), 29(3), 30(1), 31(1), 35(1), 36(1), 36(2), 37(1), 38(1), 42(2), 42(6)
-Lugovoy and Kovtun
-The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020
-2020/36
-Article 3
-none
 Mali
 The Mali (Sanctions) (EU Exit) Regulations 2020
 2020/705
