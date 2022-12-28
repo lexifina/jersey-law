@@ -91,6 +91,11 @@ The Republic of Guinea-Bissau (Sanctions) (EU Exit) Regulations 2019
 2019/554
 regulation 10
 none
+Haiti
+The Haiti (Sanctions) Regulations 2022
+2022/1281
+regulation 6
+regulations 16(1), 17(1), 18(1), 19(1), 20(1), 20(2), 20(3), 21(1), 22(1)
 Iran 1
 The Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019
 2019/134
