@@ -1,6 +1,6 @@
 # Control of Housing and Work (Fees) (Jersey) Order 2013
 
-R&O.84/2013 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_84_2013_20221231>
+R&O.84/2013 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_84_2013_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

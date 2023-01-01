@@ -1,2 +1,2 @@
 # 2A Fee to accompany application by legal person for consent to acquire land
-The fee to accompany an application by a legal person for consent to acquire land as a party to a specified transaction is £500, if the consideration agreed in respect of the acquisition is £25,000 or more.
+The fee to accompany an application by a legal person for consent to acquire land as a party to a specified transaction is £512.50, if the consideration agreed in respect of the acquisition is £25,000 or more.
