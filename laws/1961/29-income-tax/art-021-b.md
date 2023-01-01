@@ -10,5 +10,6 @@
 (h) Article 20B (returns: companies);
 (i) Article 20C (returns: employees’ benefits in kind);
 (j) Article 20D (returns: foundations);
-(k) Article 135C (secretary of LLC to provide returns).
+(k) Article 20E (returns: partnerships);
+(l) Article 135C (secretary of LLC to provide returns).
 (2) A person who commits an offence under paragraph (1) is liable to a fine.

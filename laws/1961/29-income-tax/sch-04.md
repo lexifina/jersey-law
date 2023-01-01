@@ -29,6 +29,7 @@ There shall be left out of account medical screening, where screening is availab
 (2) For the purposes of sub-paragraph (1)(c), in determining whether or not a vehicle is used solely by an office holder or employee in the performance of the duties of that person’s office or employment, there shall be disregarded -
 (a) any travel by the office holder or employee between that person’s place of residence and place of work; and
 (b) any other minor, personal use by the office holder or employee that the Comptroller may allow.
+(3) For the purposes of this paragraph and paragraph 1 of Schedule 3, “motor vehicle” does not include an electrically assisted pedal cycle within the meaning of Article 2 of the Pedal Cycles (Jersey) Order 1998.
 5 Boats, aircraft and helicopters
 (1) There shall be left out of account the provision of a boat, aircraft or helicopter for use where the boat, aircraft or helicopter is used solely by the office holder or employee in the performance of the duties of the office or employment and is essential to the performance of those duties.
 (2) For the purposes of sub-paragraph (1), in determining whether or not a boat, aircraft or helicopter is used solely by an office holder or employee in the performance of the duties of the person’s office or employment, there shall be disregarded any minor, personal use by the office holder or employee that the Comptroller may allow.
@@ -92,5 +93,14 @@ There shall be left out of account the payment of -
 (b) in respect of property other than accommodation, the activities of the company do not include, to a substantial extent, activities other than ownership of the property.
 18 Incidental benefits
 There shall be left out of account any benefit which arises in respect of expenditure incurred by the employer wholly and exclusively for the purposes of the employer’s business, where the benefit to the office holder or employee is wholly incidental in nature.
-19 Interpretation
+19 Pedal cycles
+(1) There shall be left out of account pedal cycles provided and used -
+(a) for travel by the office holder or employee between that person’s place of residence and place of work; or
+(b) in the performance of the office holder’s or employee’s duties.
+(2) “Pedal cycle” has the same meaning as in the Road Traffic (Jersey) Law 1956 and includes an electrically assisted pedal cycle within the meaning of Article 2 of the Pedal Cycles (Jersey) Order 1998.
+20 Bus passes
+There shall be left out of account any pass or prepaid card provided for use on buses in Jersey -
+(a) for travel by the office holder or employee between that person’s place of residence and place of work; or
+(b) in the performance of the office holder’s or employee’s duties.
+21 Interpretation
 In this Schedule “business” includes a profession and the activities of any Minister or administration of the States, or any parish.

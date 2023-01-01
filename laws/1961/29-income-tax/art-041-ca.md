@@ -7,6 +7,6 @@
 Where -
 A is the revised rate;
 B is the amount of the employee’s estimated liability to income tax for the year to which the rate applies;
-C is the employee’s total arrears of income tax (if any) for any earlier year of assessment (whether or not judgment has been obtained in respect of the arrears) and any costs recoverable in respect of those arrears;
+C is the income tax chargeable for any year preceding the year to which the rate applies, less any amount of income tax already paid for that preceding year, and any costs recoverable in respect of unpaid income tax;
 D is the amount of income tax already paid for the year to which the rate applies, including any amount deducted during the year under Article 41B or 41E; and
 E is the estimated amount of the employee’s earnings for the remainder of the year to which the rate applies.

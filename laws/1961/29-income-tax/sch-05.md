@@ -8,11 +8,20 @@ VALUATION OF BENEFIT
 (1A) The amount attributable, in any year of assessment, to the use of a motor vehicle leased or hired by the employer shall be -
 (a) 25% of the value of the vehicle for that year, where the business use is 75% or more in that year; or
 (b) 100% of the value of the vehicle for that year, where the business use is less than 75% in that year.
-(2) For the purposes of this paragraph, the value, for a year of assessment, of a motor vehicle owned by the employer shall be -
-(a) where the vehicle is acquired by the employer in the year of assessment, the cost of acquisition; or
-(b) where the vehicle was acquired by the employer before the year of assessment, the amount determined by reducing by 20% -
-(i) for the year following the year of acquisition, the cost of acquisition of the vehicle, and
-(ii) for each ensuing year, the balance of that cost reduced in accordance with this sub-paragraph.
+(2) For the purposes of this paragraph, the value of a motor vehicle owned by the employer is -
+(a) where the benefit is first made available to the employee or office holder in the year the vehicle is acquired by the employer or the following year, the cost to the employer of acquiring the vehicle; and
+(b) where the benefit is first made available to the employee or office holder in any other year, the amount calculated as follows -
+(i) Step 1
+Calculate an amount as follows -
+Where -
+N is the year (for example, for the year 2020 the amount is 2,020) when the benefit was first made available to the employee or office holder or; and
+E is the year when the motor vehicle was acquired by the employer,
+(ii) Step 2
+Calculate the value as follows -
+Where -
+V is the value of the vehicle;
+C is the cost to the employer of acquiring the vehicle;
+ɑ is the amount calculated under Step 1.
 (3) For the purposes of sub-paragraph (2), the cost of acquisition of a vehicle is -
 (a) where the vehicle is acquired by purchase on the open market, the cost of purchase by the employer; or
 (b) where the vehicle is acquired wholly or partly in exchange for other property or by assignment, transfer or any other means, the amount that it would have cost the employer to purchase the vehicle, at the time of acquisition, on the open market.
@@ -43,11 +52,20 @@ the Comptroller, having regard to those matters, may allow a proportionate reduc
 (2A) In the case described in sub-paragraph (A1)(d), the amount attributable, in any year of assessment, to the use of the boat, aircraft or helicopter shall be -
 (a) 5% of the value of the boat, aircraft or helicopter for that year, where the business use is 75% or more in that year; or
 (b) 20% of the value of the boat, aircraft or helicopter for that year, where the business use is less than 75% in that year.
-(3) For the purposes of sub-paragraphs (1) and (2), the value, for a year of assessment, of a boat, aircraft or helicopter owned by the employer shall be -
-(a) where the boat, aircraft or helicopter is acquired by the employer in the year of assessment, the cost of acquisition; or
-(b) where the boat, aircraft or helicopter was acquired by the employer before the year of assessment, the amount determined by reducing by 20% -
-(i) for the year following the year of acquisition, the cost of acquisition of the boat, aircraft or helicopter, and
-(ii) for each ensuing year, the balance of that cost reduced in accordance with this sub-paragraph.
+(3) For the purposes of sub-paragraphs (1) and (2), the value of a boat, aircraft or helicopter owned by the employer is -
+(a) where the benefit is first made available to the employee or office holder in the year the vehicle is acquired by the employer or the following year, the cost to the employer of acquiring the vehicle; and
+(b) where the benefit is first made available to the employee or office holder in any other year, the amount calculated as follows -
+(i) Step 1
+Calculate an amount as follows -
+Where -
+N is the year (for example, for the year 2020 the amount is 2,020) when the benefit was first made available to the employee or office holder; and
+E is the year the boat, aircraft or helicopter was acquired by the employer,
+(ii) Step 2
+Calculate the value as follows -
+Where -
+V is the value of the boat, aircraft or helicopter;
+C is the cost to the employer of acquiring the boat, aircraft or helicopter;
+ɑ is the amount calculated under Step 1.
 (4) For the purposes of sub-paragraph (3), the cost of acquisition of a boat, aircraft or helicopter is -
 (a) where the boat, aircraft or helicopter is acquired by purchase on the open market, the cost of purchase by the employer; or
 (b) where the boat, aircraft or helicopter is acquired wholly or partly in exchange for other property or by assignment, transfer or any other means, the amount that it would have cost the employer to purchase the boat, aircraft or helicopter, at the time of acquisition, on the open market.

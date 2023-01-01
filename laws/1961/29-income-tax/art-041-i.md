@@ -7,9 +7,7 @@ Provided that the Comptroller may waive payment of the surcharge -
 (a) if it amounts to £50 or less for any year of assessment;
 (b) where failure to pay the tax by the specified day is caused by the action of a person, in accordance with Article 3A, not connected with the person liable to the surcharge and the failure is remedied without unnecessary delay; or
 (c) the Comptroller is satisfied that death, serious illness or other grave and exceptional circumstance prevented payment by the specified time.
-(3) Paragraph (2) does not apply in respect of a person who is required to pay an instalment under Article 41A (Duty to pay instalments (taxpayers other than companies)) if -
-(a) the person’s income for the year before the year of assessment to which the instalment relates included earnings; and
-(b) the person has paid 70% or more of the required instalment by the specified date.
+(3)
 (4) The Comptroller shall issue a written notice to a person of his or her liability under paragraph (2).
 (5) A person may, within 40 days of the issue of a notice under paragraph (4), apply to the Comptroller in writing for a waiver under paragraph (2).
 (6) Where a person applies under paragraph (5), the Comptroller shall give notice to the person of whether or not he or she has waived the person’s liability.

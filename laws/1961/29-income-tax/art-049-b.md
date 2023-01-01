@@ -1,7 +1,8 @@
 # 49B General provision for collection of long-term care contributions
 (1) An insured person who is liable to pay instalments of income tax under Article 41A must also pay instalments of LTC contributions in accordance with paragraph 1 of Schedule 1A.
 (2) The combined effective rate for an employee who is an insured person is calculated in accordance with paragraph 2 of Schedule 1A.
-(3) Articles 41B and 41E have effect with the modifications shown in Part 2 of Schedule 1A.
+(2A) An employer must deduct LTC contributions from payments of earnings made to an employee who is an insured person and must account for those deductions in accordance with paragraph 3 of Schedule 1A.
+(3) Article 41E has effect with the modifications shown in Part 2 of Schedule 1A.
 (4) Nothing in this Article or in Schedule 1A -
 (a) confers a right of appeal under this Law in respect of a person’s liability for or the amount of an LTC contribution;
 (b) confers a right of appeal under this Law against the part of a combined effective rate that relates to LTC contributions; or

@@ -13,7 +13,7 @@
 (4) In paragraphs (2)(a) and (4A), “relevant amount previously transferred into the scheme” means an amount transferred into the scheme -
 (a) from an approved Jersey scheme, if the pension holder, before or at the time of the transfer, commuted, under this Article, part of his or her fund from which the transfer is made;
 (b) before the commencement of the Income Tax (Amendment No. 44) (Jersey) Law 2014, if the pension holder, before or at the time of the transfer, commuted, under any of the previous commutation provisions, part of the fund from which the transfer is made; or
-(c) from an equivalent scheme, as permitted by Article 131CG(5), if the pension holder has, before or at the time of the transfer, commuted part of his or fund in the equivalent scheme without any liability to tax being incurred on the amount commuted.
+(c) from an equivalent scheme, as permitted by Article 131CG(5), if the pension holder has, before or at the time of the transfer, commuted part of his or her fund in the equivalent scheme without any liability to tax being incurred on the amount commuted.
 (4A) If a relevant amount previously transferred into the scheme (“Scheme A”) is from an approved Jersey scheme (“Scheme B”), there is added to the net fund value of Scheme A calculated under paragraph (2), the net fund value of Scheme B calculated as follows -
 E + F
 where -

@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20221231>
+L.29/1961 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20230713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,6 +28,7 @@ L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://
 | Art. 20B | [art-020-b.md](art-020-b.md) | 20B Returns of information by companies |
 | Art. 20C | [art-020-c.md](art-020-c.md) | 20C Returns of information as to benefits in kind |
 | Art. 20D | [art-020-d.md](art-020-d.md) | 20D Returns of information by foundations |
+| Art. 20E | [art-020-e.md](art-020-e.md) | 20E Returns of information by partnerships |
 | Art. 21 | [art-021.md](art-021.md) | 21 Form and manner of returns |
 | Art. 21A | [art-021-a.md](art-021-a.md) | 21A Returns equivalent to Common Reporting Standard returns |
 | Art. 21B | [art-021-b.md](art-021-b.md) | 21B Offences |
@@ -115,9 +116,9 @@ L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://
 | Art. 70B | [art-070-b.md](art-070-b.md) | 70B Deduction on account of a levy paid to the Jersey Bank Depositors Compensation Board |
 | Art. 70C | [art-070-c.md](art-070-c.md) | 70C Deductions on account of foreign tax paid |
 | Art. 70D | [art-070-d.md](art-070-d.md) | 70D Employer’s contributions into group life insurance scheme |
-| Art. 74 | [art-074.md](art-074.md) | 74 Partnership statements and assessments |
+| Art. 74 | [art-074.md](art-074.md) | 74 General partnerships |
 | Art. 75 | [art-075.md](art-075.md) | 75 Changes of proprietor |
-| Art. 76 | [art-076.md](art-076.md) | 76 Partnerships controlled abroad |
+| Art. 75A | [art-075-a.md](art-075-a.md) | 75A Change of partner |
 | Art. 76A | [art-076-a.md](art-076-a.md) | 76A Limited partnerships |
 | Art. 76B | [art-076-b.md](art-076-b.md) | 76B Incorporated limited partnerships |
 | Art. 76C | [art-076-c.md](art-076-c.md) | 76C Separate limited partnerships |
@@ -216,12 +217,14 @@ L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://
 | Art. 119 | [art-119.md](art-119.md) | 119 Exemption in respect of United Kingdom savings certificates |
 | Art. 119A | [art-119-a.md](art-119-a.md) | 119A Exemption of consuls and other official agents |
 | Art. 120 | [art-120.md](art-120.md) | 120 Exemption of consular officers and employees |
+| Art. 120AA | [art-120-aa.md](art-120-aa.md) | 120AA Exemption in respect of rent-a-room arrangements |
 | Art. 120A | [art-120-a.md](art-120-a.md) | 120A Application of this Part |
 | Art. 121 | [art-121.md](art-121.md) | 121 General rule as to income tax on married persons |
 | Art. 121A | [art-121-a.md](art-121-a.md) | 121A Election by spouse for separate assessment |
 | Art. 121B | [art-121-b.md](art-121-b.md) | 121B Effect of election for separate assessment |
 | Art. 121C | [art-121-c.md](art-121-c.md) | 121C Election by spouses for independent taxation from 2022 |
 | Art. 121D | [art-121-d.md](art-121-d.md) | 121D Election by spouses for independent taxation from 2023 |
+| Art. 121E | [art-121-e.md](art-121-e.md) | 121E Election by spouses for independent taxation from 2024 |
 | Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
 | Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
 | Art. 122AB | [art-122-ab.md](art-122-ab.md) | 122AB Application of this Part |
@@ -231,6 +234,7 @@ L.29/1961 · official consolidation showing the law from 2022-09-01 · <https://
 | Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
 | Art. 122DA | [art-122-da.md](art-122-da.md) | 122DA Election by civil partners for independent taxation from 2022 |
 | Art. 122DB | [art-122-db.md](art-122-db.md) | 122DB Election by civil partners for independent taxation from 2023 |
+| Art. 122DC | [art-122-dc.md](art-122-dc.md) | 122DC Election by civil partners for independent taxation from 2024 |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
 | Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
