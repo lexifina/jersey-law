@@ -1,6 +1,6 @@
 # Employment (Minimum Wage) (Jersey) Regulations 2004
 
-R&O.89/2004 · official consolidation showing the law from 2020-04-01 · <https://www.jerseylaw.je/laws/current/ro_89_2004_20221231>
+R&O.89/2004 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_89_2004_20231026>
 
 | Provision | File | Heading |
 | --- | --- | --- |
