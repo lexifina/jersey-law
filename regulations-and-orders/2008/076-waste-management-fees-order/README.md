@@ -1,6 +1,6 @@
 # Waste Management (Fees) (Jersey) Order 2008
 
-R&O.76/2008 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_76_2008_20221231>
+R&O.76/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_76_2008_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
