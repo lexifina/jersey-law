@@ -6,7 +6,7 @@ In this Schedule -
 “amount secured” means the amount advanced by a secured party, such amount being secured by a transaction to which Article 3(1)(c) applies;
 “gross value”, in relation to land, means its market value.
 2 Basic amount charged on the value of a transaction described in Article 3(1)(a) or (b)
-(1) Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction described in Article 3(1)(a) or (b) at the rate of £80 plus, the amount found in accordance with Table A (in the case of land used for non-domestic purposes) or, as the case may be, Table B (in the case of land used for domestic purposes) -
+(1) Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction described in Article 3(1)(a) or (b) at the rate of £90 plus, the amount found in accordance with Table A (in the case of land used for non-domestic purposes) or, as the case may be, Table B (in the case of land used for domestic purposes) -
 Table A
 Land used for non-domestic purposes
 Value of the transaction
@@ -60,7 +60,7 @@ Variable element of tax
 (4) Notwithstanding sub-paragraphs (2) and (3), for the purposes of sub-paragraph (1), where a transaction described in Article 3(1)(a) is for the transfer of shares by a sole owner into joint ownership with another person, or where a transaction described in Article 3(1)(b) is for an alteration of a declaration of trusts whereby a share held on trust for the benefit of one person is henceforth held on trust for the benefit of that person jointly with another person, the value of the transaction is the amount of consideration for it or, if one half of the gross value of the land exceeds such consideration, one half of the gross value of land.
 (5) Notwithstanding sub-paragraphs (2) and (3), for the purposes of sub-paragraph (1), where a transaction described in Article 3(1)(a) is for the transfer of shares by joint owners into sole ownership, or where a transaction described in Article 3(1)(b) is for an alteration of a declaration of trusts whereby a share held on trust for the benefit of persons jointly is henceforth held on trust for the benefit of one only of those persons, the value of the transaction is the amount of consideration for it or, if one half of the gross value of the land exceeds such consideration, one half of the gross value of the land.
 3 Basic amount charged on the value of a transaction to which Article 3(1)(c) applies
-Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction to which Article 3(1)(c) applies at a rate of £80 plus (subject to a minimum amount of £5) 50p for each £100 or part of £100 of the amount secured by the security agreement.
+Except as otherwise provided in the following provisions of this Schedule, LTT shall be charged on the value of a transaction to which Article 3(1)(c) applies at a rate of £90 plus (subject to a minimum amount of £5) 50p for each £100 or part of £100 of the amount secured by the security agreement.
 3A Further amounts secured by a transaction to which Article 3(1)(c) applies
 (1) This paragraph applies where there is a transaction to which Article 3(1)(c) applies and the conditions specified in sub-paragraph (2) are met.
 (2) Those conditions are that -
@@ -76,16 +76,16 @@ Except as otherwise provided in the following provisions of this Schedule, LTT s
 (e) the effect of borrowing the new amount is to extinguish the borrower’s debt in respect of the original amount;
 (f) LTT in respect of the original amount has been paid under paragraph 3.
 (3) LTT shall be charged on the value of the transaction described in sub-paragraph (1) in respect of the new amount at the rate of -
-(a) where the new amount is less than or equal to the unpaid amount, £80;
+(a) where the new amount is less than or equal to the unpaid amount, £90;
 (b) where the new amount is greater than the unpaid amount -
-(i) for the portion of the amount that is equal to the unpaid amount, £80, and
+(i) for the portion of the amount that is equal to the unpaid amount, £90, and
 (ii) for the portion of the amount that is greater than the unpaid amount, 50p for each £100 or part of £100, subject to a minimum of £5.
 3B Lower value residential property: security interests
 (1) This paragraph applies to a transaction described in Article 3(1)(c) that relates to -
 (a) a transaction described in Article 3(1)(a) in respect of land on which a dwelling is, or is to be, constructed for occupation by the occupier; and
 (b) the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale, is £700,000 or less; and
 (c) both transactions relate to the same shares and take place on the same day.
-(2) The rate of LTT applicable to a transaction to which this paragraph applies is £80 plus -
+(2) The rate of LTT applicable to a transaction to which this paragraph applies is £90 plus -
 (a) where the value of the property does not exceed £600,000, nil;
 (b) where the value of the property exceeds £600,000 but does not exceed £700,000 -
 0.5% x ((Y - 600,000)/100,000)
@@ -104,28 +104,53 @@ where Y is the value of the property.
 (b) having owned such accommodation with any other person;
 (c) having owned any share described in Article 3(1)(a) that confers a right of occupation of such accommodation;
 (d) any arrangement whereby a share described in Article 3(1)(a) was held on trust for the benefit of the occupier.
-(3) The rate of LTT applicable to a transaction to which this paragraph applies is £80, plus -
+(3) The rate of LTT applicable to a transaction to which this paragraph applies is £90, plus -
 (a) where the value of the transaction does not exceed £350,000, nil;
 (b) where the value of the transaction exceeds £350,000 but does not exceed £450,000, nil in respect of the first £350,000, plus £1 for each £100 or part of £100 in excess thereof;
 (c) where the value of the transaction exceeds £450,000 but does not exceed £500,000, the amount of LTT that would have been payable if paragraph (2) had applied reduced by the following formula:
 6,000 - ((V- 450,000) x 12%)
 where V is the value of the transaction.
 (4) For the purposes of this paragraph, the value of the transaction is the gross value of the land or, if the dwelling has not yet been constructed on it, the notional gross value of the land once the dwelling has been constructed.
-5
+5 Properties that are not main residences
+(1) This paragraph applies to a transaction described in Article 3(1)(a) or (b) which relates to land on which there is a dwelling that is acquired for a purpose other than use as the main residence of the person to whom the share is transferred, but does not apply if the dwelling is acquired for the purpose of it forming part of the stock of a trade taxable under Article 51(1)(b) of the 1961 Law.
+(2) In sub-paragraph (1) “main residence” means the property that is occupied as the person’s main residence whether or not it is in Jersey.
+(3) The rate of LTT applicable to a transaction to which this paragraph applies is £90 plus the amount found in accordance with the table -
+Value of the transaction
+Variable element of tax
+does not exceed £50,000
+£3.50p each £100 or part of £100 subject to a minimum of £10
+exceeds £50,000 but does not exceed £300,000
+£1,750 in respect of the first £50,000, plus £4.50 for each £100 or part of £100 in excess thereof
+exceeds £300,000 but does not exceed £500,000
+£13,000 in respect of the first £300,000, plus £5 for each £100 or part of £100 in excess thereof
+exceeds £500,000 but does not exceed £700,000
+£23,000 in respect of the first £500,000, plus £6 for each £100 or part of £100 in excess thereof
+exceeds £700,000 but does not exceed £1,000,000
+£35,000 in respect of the first £700,000, plus £6.50 for each £100 or part of £100 in excess thereof
+exceeds £1,000,000 but does not exceed £1,500,000
+£54,500 in respect of the first £1,000,000 plus £7.50 for each £100 or part of £100 in excess thereof
+exceeds £1,500,000 but does not exceed £2,000,000
+£92,000 in respect of the first £1,500,000 plus £8.50 for each £100 or part of £100 in excess thereof
+exceeds £2,000,000 but does not exceed £3,000,000
+£134,500 in respect of the first £2,000,000 plus £10 for each £100 or part of £100 in excess thereof
+exceeds £3,000,000 but does not exceed £6,000,000
+£234,500 in respect of the first £3,000,000 plus £12.50 for each £100 or part of £100 in excess thereof
+exceeds £6,000,000
+£609,500 in respect of the first £6,000,000 plus £13.50 for each £100 or part of £100 in excess thereof
 6 Sole ownership into joint ownership: matrimonial property or civil partnership property
 (1) This paragraph applies where a transaction described in paragraph 2(4) -
 (a) takes place by reason of an order made by the Royal Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, or Article 48 of the Civil Partnership (Jersey) Law 2012; or
 (b) is a transaction whereby shares formerly owned by, or held on trust for the benefit of, an individual are jointly owned by, or held on trust for the joint benefit of, that individual and his or her spouse or civil partner and, at the time of the transaction, the land is their matrimonial home or civil partnership home.
-(2) In a case to which this paragraph applies, LTT shall be charged at the rate of £60.
+(2) In a case to which this paragraph applies, LTT shall be charged at the rate of £90.
 7 Joint ownership into sole ownership: matrimonial property or civil partnership property
 (1) This paragraph applies where a transaction described in paragraph 2(5) -
 (a) takes place by reason of an order made by the Royal Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, or under Article 48 of the Civil Partnership (Jersey) Law 2012; or
 (b) is a transaction whereby shares formerly owned by, or held on trust for the benefit of, spouses or civil partners jointly are solely owned by, or held on trust for the sole benefit of, one of them and, at the time of the transaction, the land is their matrimonial home or civil partnership home.
-(2) In a case to which this paragraph applies, LTT shall be charged at the rate of £60.
+(2) In a case to which this paragraph applies, LTT shall be charged at the rate of £90.
 8 Charitable occupier or secured party
-Where the Comptroller is satisfied that an occupier or a secured party qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ae) of the 1961 Law, LTT shall be charged on the value of a transaction to which this Law applies at the rate of £160.
+Where the Comptroller is satisfied that an occupier or a secured party qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ae) of the 1961 Law, LTT shall be charged on the value of a transaction to which this Law applies at the rate of £180.
 9 Devolution of deceased person’s estate
-Where a transaction described in Article 3(1)(a) or (b) gives effect to a devise to a beneficiary or the devolution on intestacy to the heir or heirs, of a deceased person’s estate, LTT shall be charged at the rate of £80.
+Where a transaction described in Article 3(1)(a) or (b) gives effect to a devise to a beneficiary or the devolution on intestacy to the heir or heirs, of a deceased person’s estate, LTT shall be charged at the rate of £90.
 10 Mode of calculating value where cash consideration is in foreign currency
 (1) Where, by virtue of this Schedule, the value of a transaction is to be determined by reference to any cash consideration passing for the transaction, and that consideration is in a currency other than sterling, the value of the transaction shall be the equivalent value, in sterling, of the cash consideration, according to the rate of exchange prevailing on the day the value of the transaction is to be determined in accordance with this Schedule.
 (2) Evidence of the rate of exchange prevailing on a day may be given by written certificate signed by an officer of any bank in Jersey.
