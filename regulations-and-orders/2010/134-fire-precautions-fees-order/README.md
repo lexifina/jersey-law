@@ -1,6 +1,6 @@
 # Fire Precautions (Fees) (Jersey) Order 2010
 
-R&O.134/2010 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_134_2010_20221231>
+R&O.134/2010 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_134_2010_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
