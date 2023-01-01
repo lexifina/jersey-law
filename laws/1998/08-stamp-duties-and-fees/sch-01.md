@@ -84,6 +84,62 @@ Contract
 Greffier
 (x) exceeds £6,000,000
 £429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
+2A Further bands relating to value in item 13
+The table set out in this paragraph is to be read as included in each paragraph of item 13 where there is an entry “See table in paragraph 2A”.
+Item 13
+Stamp Duty by Figure or Rate
+Chargeable Document
+Designated Officer
+(i)
+does not exceed £50,000
+£3.50p each £100 or part of £100 subject to a minimum of £10
+Contract
+Greffier
+(ii)
+exceeds £50,000 but does not exceed £300,000
+£1,750 in respect of the first £50,000, plus £4.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii)
+exceeds £300,000 but does not exceed £500,000
+£13,000 in respect of the first £300,000, plus £5 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iv)
+exceeds £500,000 but does not exceed £700,000
+£23,000 in respect of the first £500,000, plus £6 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(v)
+exceeds £700,000 but does not exceed £1,000,000
+£35,000 in respect of the first £700,000, plus £6.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vi)
+exceeds £1,000,000 but does not exceed £1,500,000
+£54,500 in respect of the first £1,000,000 plus £7.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vii)
+exceeds £1,500,000 but does not exceed £2,000,000
+£92,000 in respect of the first £1,500,000 plus £8.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(viii)
+exceeds £2,000,000 but does not exceed £3,000,000
+£134,500 in respect of the first £2,000,000 plus £10 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(ix)
+exceeds £3,000,000 but does not exceed £6,000,000
+£234,500 in respect of the first £3,000,000 plus £12.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(x)
+exceeds £6,000,000
+£609,500 in respect of the first £6,000,000 plus £13.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier”;
 3 Tables of judicial fees
 Item 1.
 Stamp Duty, by Figure or Rate
@@ -407,7 +463,8 @@ Designated Officer
 CONTRACTS -
 (a)
 Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (b), (j), (k) or (t) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 Provided that in the case of a contract of exchange of immovable property the fees specified in the table in this paragraph shall be separately calculated in respect of the gross value of each property transferred.
 (b)
 Of sale of land on which a dwelling is, or is to be, constructed for occupation by the purchaser where (subject as is hereinafter provided) the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale -
@@ -436,7 +493,8 @@ Provided that the fees specified in this paragraph shall only be substituted for
 (D) the consideration for the sale is not less, or not substantially less, than the gross value of the property as sold.
 (c)
 Of gift, resignation or cession without cash consideration of immovable property (except as provided by paragraphs (j), (k) or (t) of this item), where the gross value of the immovable property transferred -
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 (d)
 Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, in association with a contract of purchase or a contract of lease or transfer of lease, of land on which a dwelling is, or is to be, constructed for occupation by the purchaser, where -
 (i) the contract of creation of the rente nouvelle, hypothec or hypothecs and the contract of purchase, lease or transfer of lease relate to the same property,
@@ -486,7 +544,8 @@ Contract
 Greffier
 (h)
 Of partage (except as provided by paragraph (i) of this item) where the total net value of the immovable property of the estate to which the partage relates -
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 (i)
 Of cession without cash consideration of the life-enjoyment of immovable property passed before Court at the same time as, or within one month directly following, the contract of acquisition of the property by the transferor, if the transferee is a member of the transferor’s family; or, except where the proviso to item 46 applies, of partage of devised immovable property passed before Court within the 18 months next following registration of the will of the deceased; or of sous-partage
 £5 for each page of the contract subject to a minimum of £10
@@ -494,14 +553,16 @@ Contract
 Greffier
 (j)
 Of sale, gift, cession or other transfer of immovable property by a sole owner into joint ownership with another person, where the cash consideration for the transfer or, if one half of the gross value of the property exceeds such consideration, one half of the gross value of the property -
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 Provided that -
 (A) if the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be £5 for each page of the contract subject to a minimum of £10;
 (B) where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949 or Article 48 of the Civil Partnership (Jersey) Law 2012, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10; and
 (C) where any transfer of immoveable property by a sole owner is into the joint ownership of that person and his or her spouse or civil partner and, at the time of the transfer, that property is their matrimonial home or civil partnership home, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10.
 (k)
 Of sale, gift, cession or other transfer of immovable property by a joint owner into sole ownership, where the cash consideration for the transfer or, if one half of the gross value of the property exceeds such consideration, one half of the gross value of the property -
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 Provided that -
 (A) if the transfer is effected by cession or sale of the property to a third party and resignation back to the transferee, the fee specified in this paragraph shall be taken on the first contract and the fee taken on the contract of resignation shall be £5 for each page of the contract subject to a minimum of £10;
 (B) where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949 or Article 48 of the Civil Partnership (Jersey) Law 2012, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10; and
@@ -510,11 +571,13 @@ Provided that -
 Of lease, sub-lease, licence to occupy premises, or transfer or extension of lease, sub-lease or licence (subject as is hereinafter provided, and except as provided by paragraphs (m) or (t) of this item) where -
 (1) the annual rental stipulated in the contract multiplied by the number of years for which the contract provides that the lessee, sub-lessee or transferee shall have possession of the demised premises, or the amount payable annually for the licence to occupy the premises multiplied by the number of years for which the contract provides that the licensee shall be entitled to occupy the premises (in either case excluding any period in excess of 21 years) -
 (i) does not exceed £100,000
-50p for each £100 or part of £100 subject to a minimum of £10
+(A) In relation to property that is not relevant property, 50p for each £100 or part of £100 subject to a minimum of £10
+(B) In relation to property that is relevant property, £3.50 for each £100 or part of £100 subject to a minimum of £10
 Contract
 Greffier
 (ii) exceeds £100,000
-£500 in respect of the first £100,000, plus 75p for each £100 or part of £100 in excess thereof
+(A) In relation to property that is not relevant property, £500 in respect of the first £100,000, plus 75p for each £100 or part of £100 in excess
+(B) In relation to property that is relevant property, £3,500 in respect of the first £100,000 plus £3.75 for each £100 or part of £100 in excess of that
 Contract
 Greffier
 In calculating the fee payable under this sub-paragraph -
@@ -530,7 +593,8 @@ In calculating the fee payable under this sub-paragraph -
 (2) any additional consideration (other than agent’s commission and legal fees) to whomsoever paid or payable in respect of the transaction by the lessee, sub-lessee, transferee or licensee, whether stipulated in the contract or not -
 Contract
 Greffier
-SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 (m)
 Of lease or transfer of lease of dwelling accommodation where (subject as is hereinafter provided) the transaction falls within the financial limits of the Building Loans (Miscellaneous Provisions) (Jersey) Regulations 1961 (whether or not a loan is actually made under those Regulations) and the gross value of the premium for granting or transfer of the lease, calculated on the basis of market values obtaining at the time of the passing of the contract -
 (i) does not exceed £350,000
