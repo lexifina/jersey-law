@@ -1,6 +1,6 @@
 # Adoption (Jersey) Law 1961
 
-L.39/1961 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_39_1961_20221231>
+L.39/1961 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_39_1961_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ L.39/1961 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Welfare of child to be paramount |
 | Art. 3A | [art-003-a.md](art-003-a.md) | 3A Agreement of child having sufficient understanding |
 | Art. 4 | [art-004.md](art-004.md) | 4 Religious upbringing of adopted child |
-| Art. 5 | [art-005.md](art-005.md) | 5 Duty to use approved adoption societies |
+| Art. 5 | [art-005.md](art-005.md) | 5 Duty to use registered adoption societies |
 | Art. 6 | [art-006.md](art-006.md) | 6 Restriction on arranging adoptions and placing of children |
 | Art. 7 | [art-007.md](art-007.md) | 7 Adoption Panel |
 | Art. 8 | [art-008.md](art-008.md) | 8 Delegation to the Panel |
