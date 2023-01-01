@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Designation of Supervisory Bodies) (Jersey) Order 2008
 
-R&O.107/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_107_2008_20221231>
+R&O.107/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_107_2008_20230129>
 
 | Provision | File | Heading |
 | --- | --- | --- |
