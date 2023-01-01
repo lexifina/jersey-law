@@ -1,6 +1,6 @@
 # Customs and Excise (Jersey) Law 1999
 
-L.33/1999 · official consolidation showing the law from 2022-05-25 · <https://www.jerseylaw.je/laws/current/l_33_1999_20221231>
+L.33/1999 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_33_1999_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -84,6 +84,7 @@ L.33/1999 · official consolidation showing the law from 2022-05-25 · <https://
 | Art. 66 | [art-066.md](art-066.md) | 66 Proof of certain documents |
 | Art. 67 | [art-067.md](art-067.md) | 67 Proof of certain other matters |
 | Art. 68 | [art-068.md](art-068.md) | 68 Review of decisions |
+| Art. 68A | [art-068-a.md](art-068-a.md) | 68A Appeal to Commissioners |
 | Art. 69 | [art-069.md](art-069.md) | 69 Review of decisions by Royal Court |
 | Art. 70 | [art-070.md](art-070.md) | 70 Bonds and security |
 | Art. 71 | [art-071.md](art-071.md) | 71 Agents |

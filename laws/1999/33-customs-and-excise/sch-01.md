@@ -60,16 +60,17 @@ There shall be charged, on all alcoholic beverages imported into or produced or 
 There shall be charged, on all tobacco imported into or grown, produced or manufactured in Jersey, excise duty at the following rates -
 Type of tobacco
 Rate of excise duty per kilogramme
+(£)
 (a) unprocessed tobacco
-£460.79
+531.75
 (b) cigars
-£514.56
+609.24
 (c) cigarettes
-£603.59
+696.54
 (d) hand-rolling tobacco
-£596.18
+696.54
 (e) processed tobacco other than types (b) to (d)
-£480.17
+554.12
 7 Hydrocarbon oil
 (1) There shall be charged, on hydrocarbon oil imported or delivered into or produced in Jersey, excise duty at the following rates -
 Type of hydrocarbon oil
@@ -96,44 +97,48 @@ Rate of excise duty per hectolitre
 (3) Where more than one CO2 mass emission figure is specified in a document described in sub-paragraph (2), the CO2 mass emission figure established for the motor vehicle shall be -
 (a) the figure specified as the combined figure or, if there is more than one combined figure, the highest of them; or
 (b) where there is no combined figure, the highest figure specified.
-(4) For motor vehicles (other than commercial vehicles) that have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
-Established CO2 mass emission figure (g)
-Vehicle emissions duty (£)
+(4) For motor vehicles (other than commercial vehicles) that have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates for the year in which it is payable -
+Established CO2 mass emission figure
+(g)
+Rate for 2023
+(£)
 0-50
 0
 51-75
-55
+73.00
 76-100
-165
+218.00
 101-125
-290
+383.00
 126-150
-470
+621.00
 151-175
-900
+1,188.00
 176-200
-2,000
+3,500.00
 201 or more
-3,300
-(5) For motor vehicles (other than commercial vehicles) that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
-Cylinder capacity of engine (cm3)
-Vehicle emissions duty (£)
+6,105.00
+(5) For motor vehicles (other than commercial vehicles) that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates for the year in which it is payable -
+Cylinder capacity of engine
+(cm3)
+Rate for 2023
+(£)
 500 or less
 0
-501 - 1400
-220
-1401 - 1800
-390
-1801 - 2000
-560
-2001 - 2500
-850
-2501 - 3000
-1400
-3001 - 3500
-2000
+501-1400
+291.00
+1401-1800
+515.00
+1801-2000
+740.00
+2001-2500
+1,122.00
+2501-3000
+1,848.00
+3001-3500
+3,500.00
 3501 or more
-3,300
+6,105.00.
 8A Motor vehicles - commercial vehicles
 (1) In this paragraph -
 “commercial vehicle” means a vehicle of a type that is designed to be used to transport goods or materials (rather than passengers);
