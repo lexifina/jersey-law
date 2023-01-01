@@ -1,6 +1,6 @@
 # Income Tax (Prescribed Limit and Rate) (Jersey) Regulations 2013
 
-R&O.154/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_154_2013_20221231>
+R&O.154/2013 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_154_2013_20230713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
