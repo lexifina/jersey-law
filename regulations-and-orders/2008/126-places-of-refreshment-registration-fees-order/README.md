@@ -1,6 +1,6 @@
 # Places of Refreshment (Registration) (Fees) (Jersey) Order 2008
 
-R&O.126/2008 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_126_2008_20221231>
+R&O.126/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_126_2008_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
