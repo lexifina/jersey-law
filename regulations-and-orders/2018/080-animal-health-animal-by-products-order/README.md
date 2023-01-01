@@ -1,6 +1,6 @@
 # Animal Health (Animal By-Products) (Jersey) Order 2018
 
-R&O.80/2018 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/ro_80_2018_20221231>
+R&O.80/2018 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_80_2018_20240229>
 
 | Provision | File | Heading |
 | --- | --- | --- |
