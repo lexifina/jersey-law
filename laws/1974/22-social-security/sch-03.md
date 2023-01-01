@@ -15,35 +15,14 @@ The amount of a person’s full rate Class 2 contributions payable in any month 
 (a) 2% of the standard monthly earnings limit, which amount shall be allocated to the Health Insurance Fund;
 (b) 10.5% of the standard monthly earnings limit; and
 (c) 2.5% of the amount that is the difference between the standard monthly earnings limit and the upper monthly earnings limit.
-3A Temporary modification of Class 2 monthly full rate contributions
-(1) Only for the period commencing on 1st October 2022 and ending at the end of 31st December 2022 -
-(a) this paragraph applies instead of paragraph 3; and
-(b) the references in paragraph 4A(1) to paragraphs 3(b) and 3(c) are to be read as references to paragraphs 3A(3)(b) and 3A(3)(c) respectively.
-(2) Despite sub-paragraph (1)(a), paragraph 3 continues to apply in relation to Class 2 contributions for the purposes of calculating a deduction from income under paragraph 4(1)(c)(i) of Schedule 2 to the Income Support (General Provisions) (Jersey) Order 2008.
-(3) The amount of a person’s full rate Class 2 contributions payable in any month is the aggregate of the following amounts -
-(a) 2% of the standard monthly earnings limit, which amount is allocated to the Health Insurance Fund;
-(b) 8.5% of the standard monthly earnings limit; and
-(c) 2.5% of the amount that is the difference between the standard monthly earnings limit and the upper monthly earnings limit.
-(4) This paragraph expires at the end of 31st December 2022.
+3A
 4 Class 2 - monthly reduced rate contributions
 (1) The amount of a person’s reduced rate Class 2 contributions payable in any month is the aggregate of the following amounts -
 (a) 2% of the person’s earnings that do not exceed the standard monthly earnings limit, which amount shall be allocated to the Health Insurance Fund;
 (b) 10.5% of the person’s earnings that do not exceed the standard monthly earnings limit; and
 (c) 2.5% of the person’s earnings that exceed the standard monthly earnings limit but do not exceed the upper monthly earnings limit.
 (2) The references in sub-paragraph (1) to a person’s earnings shall be construed in accordance with the provisions of an Order made under Articles 1(5) and 8 by virtue of which the person is permitted to pay reduced rate Class 2 contributions for the period in which the month for which the contributions are payable falls.
-4AA Temporary modification of Class 2 monthly reduced rate contributions
-(1) Only for the period commencing on 1st October 2022 and ending at the end of 31st December 2022 -
-(a) this paragraph applies instead of paragraph 4;
-(b) the reference in paragraph 4A(2) to paragraph 4(1)(b) is to be read as a reference to paragraph 4AA(3)(b);
-(c) the reference in paragraph 4A(3)(a) to paragraph 4(1)(b) is to be read as a reference to paragraph 4AA(3)(b); and
-(d) the reference in paragraph 4A(3)(b) to paragraph 4(1)(c) is to be read as a reference to paragraph 4AA(3)(c).
-(2) Despite sub-paragraph (1)(a), paragraph 4 continues to apply in relation to Class 2 contributions for the purposes of calculating a deduction from income under paragraph 4(1)(c)(i) of Schedule 2 to the Income Support (General Provisions) (Jersey) Order 2008.
-(3) The amount of a person’s reduced rate Class 2 contributions payable in any month is the aggregate of the following amounts -
-(a) 2% of the person’s earnings that do not exceed the standard monthly earnings limit, which amount is allocated to the Health Insurance Fund;
-(b) 8.5% of the person’s earnings that do not exceed the standard monthly earnings limit; and
-(c) 2.5% of the person’s earnings that exceed the standard monthly earnings limit but do not exceed the upper monthly earnings limit.
-(4) The references in sub-paragraph (3) to a person’s earnings shall be construed in accordance with the provisions of an Order made under Articles 1(5) and 8 by virtue of which the person is permitted to pay reduced rate Class 2 contributions for the period in which the month for which the contributions are payable falls.
-(5) This paragraph expires at the end of 31st December 2022.
+4AA
 4A Class 2 - standard contribution
 (1) The standard contribution for a month is, in the case of a Class 2 insured person liable to pay full rate Class 2 contributions, the sum of -
 (a) the maximum amount payable under paragraph 3(b) for the month; and
