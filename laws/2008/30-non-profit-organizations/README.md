@@ -1,6 +1,6 @@
 # Non-Profit Organizations (Jersey) Law 2008
 
-L.30/2008 · official consolidation showing the law from 2022-12-23 · <https://www.jerseylaw.je/laws/current/l_30_2008_20221231>
+L.30/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_30_2008_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,10 +14,9 @@ L.30/2008 · official consolidation showing the law from 2022-12-23 · <https://
 | Art. 7 | [art-007.md](art-007.md) | 7 Obligation of NPOs to provide further information and documents |
 | Art. 8 | [art-008.md](art-008.md) | 8 Refusal of application |
 | Art. 9 | [art-009.md](art-009.md) | 9 Obligation of NPOs to give notice of change of registered information |
-| Art. 10 | [art-010.md](art-010.md) | 10 Obligation of prescribed NPOs to prepare and provide financial statement |
-| Art. 11 | [art-011.md](art-011.md) | 11 Obligation of NPOs to keep and retain financial records |
-| Art. 12 | [art-012.md](art-012.md) | 12 Obligation of prescribed NPOs to provide information to Commission |
+| Art. 11 | [art-011.md](art-011.md) | 11 Obligations of NPOs in relation to financial records and other information |
 | Art. 13 | [art-013.md](art-013.md) | 13 Obligation of NPOs to provide certain information |
+| Art. 13A | [art-013-a.md](art-013-a.md) | 13A Obligations on prescribed NPOs |
 | Art. 14 | [art-014.md](art-014.md) | 14 Commission to keep register and to provide certain information |
 | Art. 15 | [art-015.md](art-015.md) | 15 Registration obligations of the Commission |
 | Art. 16 | [art-016.md](art-016.md) | 16 Continuing registration obligations of the Commission |
@@ -32,9 +31,9 @@ L.30/2008 · official consolidation showing the law from 2022-12-23 · <https://
 | Art. 25 | [art-025.md](art-025.md) | 25 Passing off |
 | Art. 26 | [art-026.md](art-026.md) | 26 Supply of false information |
 | Art. 27 | [art-027.md](art-027.md) | 27 Failure to provide information |
-| Art. 28 | [art-028.md](art-028.md) | 28 Offences in respect of a financial statement |
 | Art. 29 | [art-029.md](art-029.md) | 29 Offences in respect of financial records |
 | Art. 30 | [art-030.md](art-030.md) | 30 Offences in respect of supply of information by an NPO |
+| Art. 30A | [art-030-a.md](art-030-a.md) | 30A Offence in respect of obligations on prescribed NPOs |
 | Art. 31 | [art-031.md](art-031.md) | 31 Offences in respect of supply of an explanation by a person |
 | Art. 32 | [art-032.md](art-032.md) | 32 Criminal liability in respect of incorporated organizations |
 | Art. 33 | [art-033.md](art-033.md) | 33 Criminal liability in respect of unincorporated organizations |
@@ -44,7 +43,6 @@ L.30/2008 · official consolidation showing the law from 2022-12-23 · <https://
 | Art. 37 | [art-037.md](art-037.md) | 37 Deregistration of NPOs on request |
 | Art. 38 | [art-038.md](art-038.md) | 38 Deregistration |
 | Art. 39 | [art-039.md](art-039.md) | 39 Application of this Law to the Terrorism Law |
-| Art. 40 | [art-040.md](art-040.md) | 40 Amendment of Schedule |
 | Art. 41 | [art-041.md](art-041.md) | 41 Orders |
 | Art. 42 | [art-042.md](art-042.md) | 42 Citation |
 | Art. 43 | [art-043.md](art-043.md) | 43 Commencement and transitional arrangements |
