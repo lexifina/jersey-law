@@ -1,6 +1,6 @@
 # Dangerous Wild Animals (Jersey) Law 1999
 
-L.5/1999 · official consolidation showing the law from 2022-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1999_20221231>
+L.5/1999 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1999_20240229>
 
 | Provision | File | Heading |
 | --- | --- | --- |
