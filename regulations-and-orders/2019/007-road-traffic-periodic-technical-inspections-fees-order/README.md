@@ -1,6 +1,6 @@
 # Road Traffic (Periodic Technical Inspections - Fees) (Jersey) Order 2019
 
-R&O.7/2019 · official consolidation showing the law from 2019-02-01 · <https://www.jerseylaw.je/laws/current/ro_7_2019_20221231>
+R&O.7/2019 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_7_2019_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
