@@ -54,3 +54,4 @@ The United Arab Emirates. When used in a geographical sense, means the territory
 15th February 2017
 United Kingdom
 United Kingdom of Great Britain and Northern Ireland. When used in a geographical sense, means the territory and territorial sea of Great Britain and Northern Ireland and the areas beyond that territorial sea over which Great Britain and Northern Ireland exercise sovereign rights or jurisdiction in accordance with their domestic law and international law.
+19th December 2018
