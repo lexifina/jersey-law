@@ -36,7 +36,7 @@ Article 14(6)
 £100
 Article 21(2)(a)
 Fee for search of indexes maintained by the Superintendent Registrar
-£30.75 per hour or part of an hour
+£31.52 per hour or part of an hour
 Article 21(2)(b)
 Fee for a copy of an entry in a book or register certified by a registrar or the Superintendent Registrar
-£30.75
+£31.52
