@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_32_2008_20230129>
+L.32/2008 · official consolidation showing the law from 2023-01-30 · <https://www.jerseylaw.je/laws/current/l_32_2008_20230207>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,13 +8,13 @@ L.32/2008 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Meaning of “supervisory functions” |
 | Art. 3 | [art-003.md](art-003.md) | 3 Meaning of “anti-money laundering and counter-terrorism legislation” |
-| Art. 5 | [art-005.md](art-005.md) | 5 Commission to be supervisory body for all supervised business carried on by any person carrying on a regulated busines |
+| Art. 5 | [art-005.md](art-005.md) | 5 Commission to be supervisory body for all Schedule 2 business carried on by any person carrying on a regulated busines |
 | Art. 6 | [art-006.md](art-006.md) | 6 Designation of supervisory bodies |
 | Art. 7 | [art-007.md](art-007.md) | 7 Guidance, directions and accountability |
 | Art. 8 | [art-008.md](art-008.md) | 8 General powers of supervisory bodies |
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Duty of supervisory body to use a risk-based approach |
 | Art. 9 | [art-009.md](art-009.md) | 9 Limitation of liability |
-| Art. 10 | [art-010.md](art-010.md) | 10 Prohibition of carrying on unauthorized specified Schedule 2 business |
+| Art. 10 | [art-010.md](art-010.md) | 10 Prohibition of carrying on unauthorized Schedule 2 business |
 | Art. 11 | [art-011.md](art-011.md) | 11 Application for registration and deemed registration |
 | Art. 12 | [art-012.md](art-012.md) | 12 Determination of relevant supervisory body |
 | Art. 13 | [art-013.md](art-013.md) | 13 Application for registration |
@@ -25,6 +25,7 @@ L.32/2008 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 Procedure on refusal or revocation, or new or varied condition |
 | Art. 20 | [art-020.md](art-020.md) | 20 Fees |
 | Art. 21 | [art-021.md](art-021.md) | 21 Determination of fees and late payment |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Application of Part 5 to anti-money laundering services provider |
 | Art. 22 | [art-022.md](art-022.md) | 22 Codes of practice |
 | Art. 23 | [art-023.md](art-023.md) | 23 Power to issue directions |
 | Art. 24 | [art-024.md](art-024.md) | 24 Injunctions and remedial Orders |
@@ -42,7 +43,7 @@ L.32/2008 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 35 | [art-035.md](art-035.md) | 35 Restricted information |
 | Art. 36 | [art-036.md](art-036.md) | 36 Permitted disclosures |
 | Art. 37 | [art-037.md](art-037.md) | 37 Requirement to report certain matters to a supervisory body |
-| Art. 38 | [art-038.md](art-038.md) | 38 Publication of information about supervised businesses |
+| Art. 38 | [art-038.md](art-038.md) | 38 Publication of information about Schedule 2 businesses |
 | Art. 39 | [art-039.md](art-039.md) | 39 Co-operation with relevant overseas supervisory authority |
 | Art. 40 | [art-040.md](art-040.md) | 40 Service of notices |
 | Art. 41 | [art-041.md](art-041.md) | 41 Legal proceedings |
