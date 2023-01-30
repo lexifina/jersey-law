@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230129>
+R&O.20/2008 · official consolidation showing the law from 2023-01-30 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ R&O.20/2008 · official consolidation showing the law from 2022-09-01 · <https:
 | Art. 7 | [art-007.md](art-007.md) | 7 Compliance officer |
 | Art. 8 | [art-008.md](art-008.md) | 8 Reporting officer |
 | Art. 9 | [art-009.md](art-009.md) | 9 Designated persons |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Appointment of anti-money laundering services provider to fulfil obligations of relevant person |
 | Art. 10 | [art-010.md](art-010.md) | 10 Exemptions from Articles 7 and 8 |
 | Art. 10A | [art-010-a.md](art-010-a.md) | 10A Financial services business carried on outside Jersey |
 | Art. 11 | [art-011.md](art-011.md) | 11 Policies, procedures and training to prevent and detect money laundering |

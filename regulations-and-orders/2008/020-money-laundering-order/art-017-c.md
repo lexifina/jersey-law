@@ -1,12 +1,12 @@
 # 17C Exemption from applying third party identification requirements in relation to certain relevant customers involved in unregulated or non-public funds, trust company business or the legal profession
 (1) A relevant person is exempt from applying third party identification requirements in relation to a third party for which a relevant customer is acting if the relevant customer -
 (a) is, or carries on business in respect of, an unregulated fund, within the meaning of the Collective Investment Funds (Unregulated Funds) (Jersey) Order 2008, or equivalent business;
-(b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 7(1)(h) of Part B of Schedule 2 to the Law, or equivalent business;
+(b) is, or carries on business in respect of, a fund that is a non-public fund, being a fund in respect of which a service is provided that is described in paragraph 9 of Schedule 2 to the Law, or equivalent business;
 (c) carries on trust company business and is registered to carry on such business under the Financial Services (Jersey) Law 1998, or equivalent business, but only if the relevant person is -
 (i) carrying on deposit-taking business,
-(ii) a lawyer carrying on business described in paragraph 1 of Part B of Schedule 2 to the Law, or
-(iii) an accountant carrying on a business described in paragraph 2 of Part B of Schedule 2 to the Law; or
-(d) is an independent legal professional carrying on a business described in paragraph 1 of Part B of Schedule 2 to the Law and is registered to carry on such business under the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008, but only if the relevant person is carrying on deposit-taking business.
+(ii) a lawyer carrying on business described in paragraph 21 of Schedule 2 to the Law, or
+(iii) an accountant carrying on a business described in paragraph 22 of Schedule 2 to the Law; or
+(d) is an independent legal professional carrying on a business described in paragraph 21 of Schedule 2 to the Law and is registered to carry on such business under the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008, but only if the relevant person is carrying on deposit-taking business.
 (2) A relevant person who, by virtue of paragraph (1), does not apply third party identification requirements must -
 (a) be satisfied, by reason of the nature of the relationship with the relevant customer, that there is little risk of money laundering occurring; and
 (b) obtain adequate assurance in writing from the relevant customer that the relevant customer -

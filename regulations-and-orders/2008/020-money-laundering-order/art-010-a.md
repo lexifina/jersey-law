@@ -16,7 +16,7 @@
 (ii) take other reasonable steps to deal effectively with the risk of money laundering.
 (7)
 (8)
-(9) A relevant person need not comply with paragraphs (2), (3) and (4) in a country or territory outside Jersey in respect of any financial services business that falls within paragraphs 1 to 5 of Part B of Schedule 2 of the Law.
+(9) A relevant person need not comply with paragraphs (2), (3) and (4) in a country or territory outside Jersey in respect of any financial services business that falls within paragraphs 18 to 22 of Schedule 2 to the Law.
 (10) If, in a country or territory outside Jersey -
 (a) a relevant person carries on a financial services business or has a subsidiary carrying on such a business; and
 (b) that country or territory has more stringent requirements than those set out in this Order,
