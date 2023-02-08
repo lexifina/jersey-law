@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2023-01-30 · <https://www.jerseylaw.je/laws/current/l_32_2008_20230207>
+L.32/2008 · official consolidation showing the law from 2023-02-08 · <https://www.jerseylaw.je/laws/current/l_32_2008_20230411>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ L.32/2008 · official consolidation showing the law from 2023-01-30 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Meaning of “supervisory functions” |
 | Art. 3 | [art-003.md](art-003.md) | 3 Meaning of “anti-money laundering and counter-terrorism legislation” |
-| Art. 5 | [art-005.md](art-005.md) | 5 Commission to be supervisory body for all Schedule 2 business carried on by any person carrying on a regulated busines |
+| Art. 5 | [art-005.md](art-005.md) | 5 Commission to be supervisory body for all supervised business carried on by any person carrying on a regulated busines |
 | Art. 6 | [art-006.md](art-006.md) | 6 Designation of supervisory bodies |
 | Art. 7 | [art-007.md](art-007.md) | 7 Guidance, directions and accountability |
 | Art. 8 | [art-008.md](art-008.md) | 8 General powers of supervisory bodies |
@@ -43,7 +43,7 @@ L.32/2008 · official consolidation showing the law from 2023-01-30 · <https://
 | Art. 35 | [art-035.md](art-035.md) | 35 Restricted information |
 | Art. 36 | [art-036.md](art-036.md) | 36 Permitted disclosures |
 | Art. 37 | [art-037.md](art-037.md) | 37 Requirement to report certain matters to a supervisory body |
-| Art. 38 | [art-038.md](art-038.md) | 38 Publication of information about Schedule 2 businesses |
+| Art. 38 | [art-038.md](art-038.md) | 38 Publication of information about supervised businesses |
 | Art. 39 | [art-039.md](art-039.md) | 39 Co-operation with relevant overseas supervisory authority |
 | Art. 40 | [art-040.md](art-040.md) | 40 Service of notices |
 | Art. 41 | [art-041.md](art-041.md) | 41 Legal proceedings |
