@@ -26,7 +26,7 @@ A prospectus must state the dates of, parties to and general nature of every mat
 5 Interests of managers
 A prospectus must state -
 (a) full particulars of the nature and extent of the direct or indirect interest in the offer (if any) of every manager of the limited liability company, and where the interest of a manager consists of being a partner in a firm, full particulars of the nature and extent of the interest of the firm; and
-(b) details of all sums paid or agreed to be paid to any such manager or firm in cash or securities or otherwise by any person to induce that manager to become a manager, or otherwise for services rendered by the manager or by the firm in connection with the promotion or formation of the limited liability company.
+(b) details of all sums paid or agreed to be paid to any such manager or firm in cash or securities or otherwise by any person to induce that manager to become a manager, or otherwise for services rendered by the manager or by the firm in connection with the promotion or registration of the limited liability company.
 6 Debentures and loans
 A prospectus must state details of any subscriptions, allotments or options to be given, or already existing, in respect of any other securities, including any that have a prior right over the securities covered by the offer to a distribution of the limited liability company’s profits.
 7 Accounts and reports
