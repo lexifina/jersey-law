@@ -30,9 +30,5 @@ The last Monday in August is to be observed as a public holiday.
 part 2
 (Article 1(2))
 rules for specific years
-1 2022: Queen’s Platinum Jubilee
-In 2022 -
-(a) despite paragraph 5(3) of Part 1, Thursday 2nd June is to be observed as a public holiday instead of the last Monday in May; and
-(b) Friday 3rd June is to be observed as a public holiday.
-2 2022: Funeral of Her Majesty Queen Elizabeth II
-Monday 19th September 2022 is to be observed as a public holiday.
+2023: Coronation of His Majesty King Charles III
+Monday 8th May 2023 is to be observed as a public holiday.
