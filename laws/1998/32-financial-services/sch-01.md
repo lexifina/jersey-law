@@ -3,7 +3,7 @@
 INVESTMENTS
 1 Shares, etc.
 Shares and stock in the share capital of a company.
-Note: For the purposes of this paragraph “company” includes any body corporate and any unincorporated body constituted under the law of any country or territory but does not include a company which is a collective investment fund within the meaning of the Collective Investment Funds (Jersey) Law 1988.
+Note: For the purposes of this paragraph “company” includes any body corporate and any unincorporated body constituted under the law of any country or territory but does not include a company which is a collective investment fund within the meaning of the Collective Investment Funds (Jersey) Law 1988 or a limited liability company registered as a body corporate under the LLC Law).
 2 Debentures
 Debentures, including debenture stock, loan stock, bonds, certificates of deposit and other instruments of the same kind creating or acknowledging indebtedness.
 Notes:
