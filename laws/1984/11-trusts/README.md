@@ -1,6 +1,6 @@
 # Trusts (Jersey) Law 1984
 
-L.11/1984 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_11_1984_20230213>
+L.11/1984 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/l_11_1984_20260319>
 
 | Provision | File | Heading |
 | --- | --- | --- |
