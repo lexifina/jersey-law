@@ -10,7 +10,7 @@ Where -
 (iii) the reduced rate Class 2 contributions paid for the base year in accordance with paragraph 4(c) of Schedule 1B; and
 (c) C is the percentage rise or fall in the Jersey Index of Earnings in the base year.
 (3) If 0.8B is equal to or greater than A, no money is required to be paid for the year.
-(4) Despite paragraphs (2) and (3) no annual amount is to be paid for the year 2022.
+(4) Despite paragraphs (2) and (3) no annual amount is to be paid for the year 2023.
 (4A)
 (5) The amount to be paid under this Article for a year may be paid in a lump sum or in instalments, and at such time or times, as the Minister determines.
 (6) In this Article, “base year” means the year that is 2 years before the year for which the amount to be paid into the Social Security Fund is being determined.
