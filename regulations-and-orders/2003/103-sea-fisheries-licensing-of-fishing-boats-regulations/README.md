@@ -1,6 +1,6 @@
 # Sea Fisheries (Licensing of Fishing Boats) (Jersey) Regulations 2003
 
-R&O.103/2003 · official consolidation showing the law from 2021-04-30 · <https://www.jerseylaw.je/laws/current/ro_103_2003_20230213>
+R&O.103/2003 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_103_2003_20260331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ R&O.103/2003 · official consolidation showing the law from 2021-04-30 · <https
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Exception |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Classes of licences and permits |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Fees for licences and permits |
+| Reg. 7A | [reg-007-a.md](reg-007-a.md) | 7A Agreement in principle for substitute vessel |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Address for service on owner or charterer |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Grant of licence or permit |
 | Reg. 9A | [reg-009-a.md](reg-009-a.md) | 9A Limit on grant of fishing permit |
