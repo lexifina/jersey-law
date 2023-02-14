@@ -1,6 +1,6 @@
 # Limited Liability Companies (Winding Up and Dissolution) (Jersey) Regulations 2022
 
-R&O.36/2022 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_36_2022_20230213>
+R&O.36/2022 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_36_2022_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,9 +17,14 @@ R&O.36/2022 · official consolidation showing the law from 2022-09-01 · <https:
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Declaration under Désastre Law |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 Application |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Procedure |
+| Reg. 13A | [reg-013-a.md](reg-013-a.md) | 13A Application for creditors’ winding up by creditor |
+| Reg. 13B | [reg-013-b.md](reg-013-b.md) | 13B Appointment of provisional liquidator |
+| Reg. 13C | [reg-013-c.md](reg-013-c.md) | 13C Order of Court commencing creditors’ winding up |
+| Reg. 13D | [reg-013-d.md](reg-013-d.md) | 13D Limited liability company’s application to terminate creditors’ winding up |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Notice of winding up |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Commencement and effects of creditors’ winding up |
-| Reg. 16 | [reg-016.md](reg-016.md) | 16 Meeting of creditors in creditors’ winding up |
+| Reg. 16 | [reg-016.md](reg-016.md) | 16 Meeting of creditors in creditors’ winding up other than a Court-ordered creditors’ winding up |
+| Reg. 16A | [reg-016-a.md](reg-016-a.md) | 16A Meeting of creditors following Court-ordered creditors’ winding up |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Appointment of liquidator |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Appointment of liquidation committee |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 No liquidator appointed |
@@ -33,6 +38,7 @@ R&O.36/2022 · official consolidation showing the law from 2022-09-01 · <https:
 | Reg. 27 | [reg-027.md](reg-027.md) | 27 Power to disclaim onerous property |
 | Reg. 28 | [reg-028.md](reg-028.md) | 28 Disclaimer of contract leases |
 | Reg. 29 | [reg-029.md](reg-029.md) | 29 Powers of Court in respect of disclaimed property |
+| Reg. 29A | [reg-029-a.md](reg-029-a.md) | 29A Liability in respect of acquisition of LLC interests |
 | Reg. 30 | [reg-030.md](reg-030.md) | 30 Unenforceability of liens on records |
 | Reg. 31 | [reg-031.md](reg-031.md) | 31 Appointment or removal of liquidator by the Court |
 | Reg. 32 | [reg-032.md](reg-032.md) | 32 Interpretation |
@@ -49,6 +55,7 @@ R&O.36/2022 · official consolidation showing the law from 2022-09-01 · <https:
 | Reg. 43 | [reg-043.md](reg-043.md) | 43 Declaration under Désastre Law |
 | Reg. 44 | [reg-044.md](reg-044.md) | 44 Distribution of limited liability company’s property |
 | Reg. 45 | [reg-045.md](reg-045.md) | 45 Qualifications of liquidator |
+| Reg. 45A | [reg-045-a.md](reg-045-a.md) | 45A Investigation into conduct of liquidators |
 | Reg. 46 | [reg-046.md](reg-046.md) | 46 Corrupt inducement affecting appointment of liquidator |
 | Reg. 47 | [reg-047.md](reg-047.md) | 47 Remuneration, and vacancy in office, of liquidator |
 | Reg. 48 | [reg-048.md](reg-048.md) | 48 References to the Court |
@@ -56,4 +63,6 @@ R&O.36/2022 · official consolidation showing the law from 2022-09-01 · <https:
 | Reg. 50 | [reg-050.md](reg-050.md) | 50 Notification that limited liability company is in liquidation |
 | Reg. 51 | [reg-051.md](reg-051.md) | 51 Liabilities as contributories of present and past members |
 | Reg. 52 | [reg-052.md](reg-052.md) | 52 Bar against other proceedings in bankruptcy |
+| Reg. 52A | [reg-052-a.md](reg-052-a.md) | 52A Disposal of records |
 | Reg. 55 | [reg-055.md](reg-055.md) | 55 Citation and commencement |
+| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
