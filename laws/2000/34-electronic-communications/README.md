@@ -1,6 +1,6 @@
 # Electronic Communications (Jersey) Law 2000
 
-L.34/2000 · official consolidation showing the law from 2022-03-11 · <https://www.jerseylaw.je/laws/current/l_34_2000_20230213>
+L.34/2000 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/l_34_2000_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
