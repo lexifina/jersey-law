@@ -1,6 +1,6 @@
 # Financial Services (Financial Service Business) (Jersey) Order 2009
 
-R&O.74/2009 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_74_2009_20230213>
+R&O.74/2009 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_74_2009>
 
 | Provision | File | Heading |
 | --- | --- | --- |

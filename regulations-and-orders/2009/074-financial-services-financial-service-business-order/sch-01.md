@@ -21,7 +21,7 @@ E
 Investment business carried on only with respect to funds that would be funds within the meaning of the Collective Investment Funds (Jersey) Law 1988 but for the fact that they do not, and do not intend to, acquire capital by means of an offer to the public of units for subscription, sale or exchange, as described in that Law.
 PART 2 - TRUST COMPANY BUSINESS
 F
-Acting as a company, limited liability company, partnership or foundation formation agent.
+Acting as a company, partnership or foundation formation agent, or a limited liability company registration agent.
 2(3) and 2(4)(a)
 G
 Acting or fulfilling the function of or arranging for another person to act as or fulfil the function of director or alternate director of a company.
