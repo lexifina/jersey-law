@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2023-01-30 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230213>
+R&O.20/2008 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230724>
 
 | Provision | File | Heading |
 | --- | --- | --- |

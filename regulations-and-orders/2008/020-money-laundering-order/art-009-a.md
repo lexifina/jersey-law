@@ -21,3 +21,4 @@
 (a) practical steps required of the relevant person and the anti-money laundering services provider appointed under paragraph (1); and
 (b) the degree of oversight and management to be expected of a relevant person in respect of an anti-money laundering services provider.
 (8) The Commission may require an anti-money laundering services provider appointed under paragraph (1) to revoke the appointment of a reporting officer or compliance officer in respect of any or all the obligations of the relevant person.
+(9) The anti-money laundering services provider must comply with the requirement under paragraph (8).
