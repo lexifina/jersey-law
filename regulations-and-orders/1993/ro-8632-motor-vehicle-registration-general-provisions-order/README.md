@@ -1,6 +1,6 @@
 # Motor Vehicle Registration (General Provisions) (Jersey) Order 1993
 
-R&O.8632 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_8632_20230216>
+R&O.8632 · official consolidation showing the law from 2023-02-17 · <https://www.jerseylaw.je/laws/current/ro_8632_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

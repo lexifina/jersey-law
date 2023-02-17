@@ -63,6 +63,12 @@ Table of systems and components
 (xxiii) defrosting and demisting equipment
 (xxiv) lighting installation
 (xxv) unleaded petrol requirements.
+4A. No fee is payable under paragraph 4(a) for a motor car which is of a make and model specified in a list maintained by the Minister.
+4B. The Minister may only specify, for the purposes of paragraph 4A, zero emission motor vehicles in relation to which a type approval certificate has been issued.
+4C. For the purposes of paragraph 4B, “zero emission motor vehicle” means a motor vehicle that -
+(a) does not have an exhaust pipe; or
+(b) has an exhaust pipe but cannot produce emissions from it whether the vehicle is stationary or being driven.
+4D. The Minister must publish the list referred to in paragraph 4A.
 5. For the purposes of paragraph 1(e), where the Inspector is satisfied that -
 (a) a vehicle sought to be registered under the Law was manufactured not less than 25 years before the date on which application was made for its registration;
 (b) compliance with the requirements for the issue of a certificate of approval under paragraph 1(d) would significantly detract from the historical character of the vehicle; and
