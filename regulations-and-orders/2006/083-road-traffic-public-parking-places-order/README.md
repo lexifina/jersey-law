@@ -1,6 +1,6 @@
 # Road Traffic (Public Parking Places) (Jersey) Order 2006
 
-R&O.83/2006 · official consolidation showing the law from 2022-11-23 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20230228>
+R&O.83/2006 · official consolidation showing the law from 2023-03-01 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20230704>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,8 +14,10 @@ R&O.83/2006 · official consolidation showing the law from 2022-11-23 · <https:
 | Art. 7 | [art-007.md](art-007.md) | 7 Offences |
 | Art. 7A | [art-007-a.md](art-007-a.md) | 7A Evidence |
 | Art. 8 | [art-008.md](art-008.md) | 8 Condition |
-| Art. 9 | [art-009.md](art-009.md) | 9 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Prescribed charges for parking units and season tickets |
+| Art. 8B | [art-008-b.md](art-008-b.md) | 8B Prescribed excess charges |
+| Art. 9 | [art-009.md](art-009.md) | 9 Savings and citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

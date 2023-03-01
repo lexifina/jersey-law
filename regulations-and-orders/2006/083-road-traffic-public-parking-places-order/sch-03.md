@@ -1,15 +1,11 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 5(1))
 Parking Charges
 PART 1
 The pay period in respect of each of the following parking places is the period between 8 a.m. and 5 p.m. on any day except Sunday.
 The prescribed charge payable in respect of a vehicle parked in the parking place during that pay period is 1 parking unit for each period of one hour or part of that period that a vehicle is parked in the parking place during the pay period.
-STHA1
-STHA1A
 STHA2
 STH1
-STH3
-STH3A
 STH5
 STH8
 STH10

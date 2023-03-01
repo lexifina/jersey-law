@@ -1,0 +1,55 @@
+# 8A Prescribed charges for parking units and season tickets
+(1) The prescribed charges are -
+Item
+Type of vehicle
+Prescribed charge per parking unit
+1
+Electric vehicle or plug in hybrid electric vehicle
+46.67 pence
+2
+Other vehicle
+92.38 pence
+(2) The prescribed season ticket charges are -
+Item
+Parking place to which season ticket applies
+Type of vehicle
+Prescribed charge per month
+1
+STHA1
+STH1
+STH3
+STH5
+STH8
+STH10
+STH13
+STH13A
+STH14
+STH16
+STH19
+STH20
+STH22
+STB22
+STS10
+Electric vehicle or plug in hybrid electric vehicle
+£74.60
+Other vehicle
+£149.20
+2
+Listed in Parts 2 or 3 of Schedule 3 (other than STP1 and STP5)
+Electric vehicle or plug in hybrid electric vehicle
+£37.30
+Other vehicle
+£74.60
+(3) No prescribed charge is payable in respect of an electric vehicle or a plug in hybrid electric vehicle for the first 12 months after the date on which the vehicle is first registered in Jersey by an individual who does not hold a trade licence issued under Article 8 of the Motor Vehicle Registration (Jersey) Law 1993.
+(4) In this Article, -
+“electric vehicle” means a vehicle that -
+(a) is powered solely by an electric motor;
+(b) emits no more than 50 grams of carbon dioxide per kilometre; and
+(c) displays a document approved by the Minister for the purposes of this Order indicating that it is an electric vehicle;
+“other vehicle” means a vehicle that is not an electric vehicle or a plug in hybrid electric vehicle;
+“plug in hybrid electric vehicle” means a vehicle -
+(a) that is powered by an electric motor and an internal combustion engine designed to work together and separately;
+(b) that has an on-board battery that can be charged from the grid;
+(c) that emits no more than 50 grams of carbon dioxide per kilometre;
+(d) in which the combustion engine supports the electric motor when higher operating power is required or when the battery’s state of charge is low;
+(e) that displays a document approved by the Minister for the purposes of this Order indicating that it is a plug in hybrid electric vehicle.

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(1))
 PARKING PLACES
 Column 1
@@ -93,20 +93,12 @@ Les Quennevais Sports Centre and Playing Fields Car Park
 STB29
 PART 3
 St. Helier
-Ann Place Car Park
-Ann Street Brewery Car Park
-STHA1
-STHA1A
 Charles Street Car Park
 STHA2
 D’Auvergne School Car Park
 STHA3
 Elizabeth Lane Car Park
 STH1
-Esplanade Car Park - excluding the Shopper Zone
-STH3
-Esplanade Car Park - Shopper Zone only
-STH3A
 First Tower Car Park
 STH5
 Fort Regent Car Park, including access roads and south and east ditches within ramparts

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4)
 Maximum Parking Periods
 PART 1
@@ -12,9 +12,7 @@ STB17B
 STB22
 STB24
 STB25
-STHA1A
 STH1
-STH3
 STH5
 STH8
 STH10
@@ -47,7 +45,6 @@ The maximum parking period in respect of the following parking places is 3 hours
 STB19
 STB26
 STHA2
-STH3A
 STH15
 STH20A
 STH21
@@ -143,7 +140,7 @@ The maximum parking period in respect of the following parking places on any day
 STH28
 PART 12
 The maximum parking period on Saturday in respect of the following parking places is 4 hours during any one visit. The maximum parking period from Sunday to Friday inclusive is a continuous period of 6 days.
-STHA1
+No parking places
 PART 13
 The maximum parking period in respect of the following parking places is a total period of 3 hours in any continuous period of 24 hours. A valid parking disc must be displayed on the vehicle during the period when it is parked there.
 STB3A
