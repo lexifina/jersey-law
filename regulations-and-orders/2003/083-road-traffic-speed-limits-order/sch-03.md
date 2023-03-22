@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 4)
 15 mph speed limit
 ST. BRELADE
@@ -13,6 +13,7 @@ Le Mont es Tours
 Le Mont Gras d’Eau
 Le Mont Nicolle
 ST. CLEMENT
+La Petite Sente
 La Rue de la Blinerie
 La Rue du Coin
 La Rue du Genestet

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 20 mph speed limit
 ST. BRELADE
@@ -42,6 +42,18 @@ Park Estate
 St. Sampson’s Avenue
 Wayside Slipway Access Road
 ST. CLEMENT
+La Rue de Causie
+La Rue de la Chapelle
+La Rue de la Croix
+La Rue Hamel
+La Rue du Bourg
+La Rue du Hocq
+La Rue de Jambart
+La Rue du Maupertuis
+La Rue du Pignon
+La Rue du Pontliétaut
+La Rue de Samarès
+Le Vieux Chemin
 The Avenue
 The estate roads at Georgetown Park
 The estate roads at Le Marais
@@ -170,7 +182,6 @@ Highlands Lane
 James Road
 La Chasse Brunet
 La Croix de Bois
-La Grève d’Azette
 La Pointe
 La Rue à la Dame
 La Rue de Deloraine
@@ -186,6 +197,7 @@ Langley Avenue
 Langley Park
 Le Clos de Paumelle
 Le Clos Gosset
+Le Dicq
 The estate roads at Le Geyt Flats
 The estate roads at Les Cinq Chênes
 Les Grands Vaux (between its boundary with St. Helier at the point that is 93 yards south of Stafford Lane and a point 33 yards south of Langley Park)

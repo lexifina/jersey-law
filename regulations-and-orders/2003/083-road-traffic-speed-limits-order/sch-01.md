@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 30 mph speed limit
 ST. BRELADE
@@ -15,10 +15,11 @@ La Route des Genèts
 La Route des Quennevais
 La Route du Coin
 La Route du Francfief
+La Route du Petit Port (from La Route Orange to the junction with La Route du Sud)
 La Route Orange (from La Route du Petite Port to a point 95 yards north of La Rue de Sergenté)
 La Route Orange (from a point 35 yards east of Le Chemin Particulier de L’Ecole to La Rue Don)
 La Rue Carrée
-La Rue de la Sergenté (from La Route Orange to a point 60 yards west of Le Feugerel)
+La Rue de la Sergenté (from La Route Orange to a point 142 yards west of Le Feugerel)
 La Rue des Fosses a Mortier
 La Rue des Longcamps
 La Rue des Mans
@@ -39,32 +40,22 @@ Le Mont Sohier (from Le Mont Gras d’Eau to La Route des Gènets)
 Le Pont du Val
 ST. CLEMENT
 La Grande Route de la Côte
-La Grande Route de St. Clement (from its junction with Green Street to a point 45 yards west of La Rue Graut)
+La Grande Route de St. Clement
 Green Road
 La Grève d’Azette
-La Petite Sente
 Plat Douet Road
 La Rue au Blancq
-La Rue de Causie
-La Rue de la Chapelle
-La Rue de la Croix
-La Rue Hamel
-La Rue du Hocq
-La Rue de Jambart
 La Rue Laurens
-La Rue du Maupertuis
-La Rue du Pignon
-La Rue de Pontlietaut
-La Rue de Samarès
 La Ruelle des Tours
 GROUVILLE
+La Grande Route de St. Clement
 La Grande Route des Sablons
 La Rue à Don (from a point 50 yards southwest of Union Road to the boundary with the parish of St. Martin)
 La Rue de la Ville-ès-Renauds (from La Grande Route des Sablons to the unnamed road between la Rue à Don and Le Clos Royale)
 La Rue Martel
 La Sente des Fonds (from La Grande Route des Sablons to a point 27 yards west of La Grande Route des Sablons)
 La Rue de la Marais à la Cocque (from La Grande Route des Sablons to a point 36 yards west of La Grande Route des Sablons)
-La Rue de Fauvic (from La Grande Route des Sablons to a point 36 yards west of La Grande Route des Sablons)
+La Rue de Fauvic
 La Rue de la Sente Maillard (from La Grande Route des Sablons to a point 66 yards west of La Grande Route des Sablons)
 La Rue du Puits Mahaut (from La Grande Route des Sablons to a point 35 yards west of La Grande Route des Sablons)
 La Rue du Pont (from La Grande Route des Sablons to a point 26 yards north of La Grande Route des Sablons)
@@ -78,13 +69,13 @@ La Rue de la Roulerie (from Well Lane to the boundary with the parish of Trinity
 Victoria Avenue
 ST. JOHN
 La Grande Route de St. Jean (from a point 115 yards north of La Rue des Houguettes to a point 9 yards north of La Rue de Bechet)
-La Mare Ballam (from La Route de Mont Mado to La Route de St. Jean)
-La Route des Issues (from La Mare Ballam to a point 210 yards west of La Rue des Courts Champs)
-La Route de Mont Mado (from La Mare Ballam to La Rue de la Porte)
+La Rue de la Mare Ballam (from La Route du Mont Mado to La Route de St. Jean)
+La Route des Issues (from La Route de la Mare Ballam to a point 210 yards west of La Rue des Courts Champs)
+La Route du Mont Mado (from La Route des Issues to a point 120 yards east of La Rue de la Mare des Prés)
 La Route du Nord (between La Route de St. Jean and a point 120 yards north of La Rue de l’Etocquet)
 La Route de St. Jean (from La Rue de la Mare Ballam to a point 104 yards west of La Rue du Cimetière)
 La Rue de l’Eglise
-La Rue du Temple (from La Mare Ballam northwards for a distance of 80 yards)
+La Rue du Temple (from La Rue de la Mare Ballam northwards for a distance of 80 yards)
 Les Cliquards
 St. John’s Village Precinct
 ST. LAWRENCE
@@ -213,7 +204,6 @@ La Rue Messervy
 La Rue St. Julien
 La Ruette
 La Ruette du Ponterrin
-Le Dicq
 Le Mont de la Roserie
 Le Mont es Neaux
 Le Mont Sohier

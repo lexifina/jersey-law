@@ -1,6 +1,6 @@
 # Road Traffic (Speed Limits) (Jersey) Order 2003
 
-R&O.83/2003 · official consolidation showing the law from 2021-11-06 · <https://www.jerseylaw.je/laws/current/ro_83_2003_20230321>
+R&O.83/2003 · official consolidation showing the law from 2023-03-22 · <https://www.jerseylaw.je/laws/current/ro_83_2003_20231031>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,6 @@ R&O.83/2003 · official consolidation showing the law from 2021-11-06 · <https:
 | Art. 4B | [art-004-b.md](art-004-b.md) | 4B Part-time speed limits at schools |
 | Art. 4C | [art-004-c.md](art-004-c.md) | 4C Part-time speed limits at works |
 | Art. 5 | [art-005.md](art-005.md) | 5 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
