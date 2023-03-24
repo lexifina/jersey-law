@@ -1,6 +1,6 @@
 # Inquests and Post-Mortem Examinations (Jersey) Law 1995
 
-L.9/1995 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_9_1995_20230323>
+L.9/1995 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_9_1995_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,4 +31,4 @@ L.9/1995 · official consolidation showing the law from 2023-01-01 · <https://w
 | Art. 24 | [art-024.md](art-024.md) | 24 Expenses |
 | Art. 25 | [art-025.md](art-025.md) | 25 Power to make Rules |
 | Art. 26 | [art-026.md](art-026.md) | 26 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
