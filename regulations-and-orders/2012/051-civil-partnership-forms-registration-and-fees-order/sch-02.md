@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3(1), 4(1) and 5(1))
 REGISTRATION OF CIVIL PARTNERSHIP
 PART 1

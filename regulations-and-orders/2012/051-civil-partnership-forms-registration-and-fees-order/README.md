@@ -1,6 +1,6 @@
 # Civil Partnership (Forms, Registration and Fees) (Jersey) Order 2012
 
-R&O.51/2012 · official consolidation showing the law from 2023-01-24 · <https://www.jerseylaw.je/laws/current/ro_51_2012_20230323>
+R&O.51/2012 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/ro_51_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,6 +15,6 @@ R&O.51/2012 · official consolidation showing the law from 2023-01-24 · <https:
 | Art. 9 | [art-009.md](art-009.md) | 9 Specifications for registers |
 | Art. 10 | [art-010.md](art-010.md) | 10 Fees |
 | Art. 11 | [art-011.md](art-011.md) | 11 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
