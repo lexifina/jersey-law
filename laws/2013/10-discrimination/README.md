@@ -1,6 +1,6 @@
 # Discrimination (Jersey) Law 2013
 
-L.10/2013 · official consolidation showing the law from 2021-07-28 · <https://www.jerseylaw.je/laws/current/l_10_2013_20230323>
+L.10/2013 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_10_2013_20250724>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -54,5 +54,5 @@ L.10/2013 · official consolidation showing the law from 2021-07-28 · <https://
 | Art. 46 | [art-046.md](art-046.md) | 46 Codes of practice |
 | Art. 47 | [art-047.md](art-047.md) | 47 Regulations and Orders |
 | Art. 48 | [art-048.md](art-048.md) | 48 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

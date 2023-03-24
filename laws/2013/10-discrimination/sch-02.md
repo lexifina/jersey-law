@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4)
 part 1
 General Exceptions to prohibited acts
@@ -251,14 +251,14 @@ An employer who fails to recruit a person does not contravene Article 9 so far a
 24 Pregnancy and maternity: paid parental leave
 An employer who meets the employer’s obligations under Part 5A of the Employment (Jersey) Law 2003 does not contravene Article 10 so far as it relates to the protected characteristics of sex, pregnancy or maternity by paying an employee less than she or another employee would have been entitled to for an equivalent absence on sick leave.
 24A Sex or sexual orientation: marriage between persons of the same sex
-A person does not contravene Article 22, so far as it relates to the protected characteristic of sex only because the person -
+A person does not contravene Article 22, so far as it relates to the protected characteristic of sex or sexual orientation only because the person -
 (a) does not solemnize a same sex marriage;
 (b) is not present at, or does not otherwise participate in the solemnization of a same sex marriage;
 (c) does not consent to a same sex marriage being solemnized;
 (d) does not apply for authorization to solemnize a same sex marriage; or
 (e) does not give consent or certify any matter relating to same sex marriage,
 in any case where a person is not compelled to do so under Article 7 of the Marriage and Civil Status (Jersey) Law 2001.
-24B Sex and sexual orientation: marriage after gender reassignment
+24B Sex or sexual orientation: marriage of a person of acquired gender
 (1) A person does not contravene Article 22, so far as it relates to the protected characteristic of sex or sexual orientation only because the person -
 (a) does not solemnize the marriage of a person of an acquired gender;
 (b) is not present at, or does not otherwise participate in the marriage of a person of an acquired gender;

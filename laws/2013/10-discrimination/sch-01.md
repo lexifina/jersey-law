@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 protected characteristics
 1 Introduction
