@@ -1,2 +1,0 @@
-# 4A Issue of full certificate following annulment of civil partnership on ground of issue of interim certificate
-Where the Court grants a decree of nullity in respect of an applicant’s civil partnership under Article 36(1) of the Civil Partnership (Jersey) Law 2012 on the ground that an interim certificate has been issued to the applicant, the Court shall issue a full certificate to the applicant.
