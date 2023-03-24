@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 60)
 Religious Education Advisory Council
 1

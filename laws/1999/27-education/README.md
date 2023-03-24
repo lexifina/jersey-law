@@ -1,6 +1,6 @@
 # Education (Jersey) Law 1999
 
-L.27/1999 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_27_1999_20230323>
+L.27/1999 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_27_1999_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -73,9 +73,9 @@ L.27/1999 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 67 | [art-067.md](art-067.md) | 67 Determination of age |
 | Art. 68 | [art-068.md](art-068.md) | 68 Regulations and Orders |
 | Art. 69 | [art-069.md](art-069.md) | 69 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 5(1))
 Courses of higher education
 1. The descriptions of courses referred to in Article 5 are the following -

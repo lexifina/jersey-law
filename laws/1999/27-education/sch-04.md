@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 57)
 GOVERNING BODIES
 PART 1

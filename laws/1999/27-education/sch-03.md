@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 14(5))
 Effect of education supervision orders
 1
