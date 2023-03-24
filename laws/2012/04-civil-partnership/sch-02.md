@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4)
 PROHIBITED DEGREES OF RELATIONSHIP
 1 Two people are related within a prohibited degree if one falls within the list below in relation to the other -
@@ -28,20 +28,4 @@ Grandchild of former spouse.
 4 In this Schedule “child of the family”, in relation to another person, means a person who -
 (a) has lived in the same household as that other person; and
 (b) has been treated by that other person as a child of his family.
-5 Two people are within prohibited degrees of relationship if one falls within column 1 of the table below in relation to the other, unless -
-(a) both of them have reached 21 at the time when they become civil partners of each other; and
-(b) the persons who fall within column 2 are dead.
-Relationship
-Relevant deaths
-Former civil partner of child
-The child
-The child’s other parent
-Former spouse of child
-The child
-The child’s other parent
-Parent of former civil partner
-The former civil partner
-The former civil partner’s other parent
-Parent of former spouse
-The former spouse
-The former spouse’s other parent
+5

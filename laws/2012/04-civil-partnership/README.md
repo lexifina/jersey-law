@@ -1,36 +1,47 @@
 # Civil Partnership (Jersey) Law 2012
 
-L.4/2012 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/l_4_2012_20230323>
+L.4/2012 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_4_2012_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Long title | [long-title.md](long-title.md) | A LAW to make provision for and in connection with civil partnership. |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Civil partnership |
-| Art. 3 | [art-003.md](art-003.md) | 3 Formation of civil partnership by registration |
+| Art. 3 | [art-003.md](art-003.md) | 3 Formation of civil partnership |
 | Art. 4 | [art-004.md](art-004.md) | 4 Eligibility |
-| Art. 5 | [art-005.md](art-005.md) | 5 Consent where proposed civil partner under 18 |
-| Art. 6 | [art-006.md](art-006.md) | 6 Forbidding of issue of licence or certificate |
-| Art. 7 | [art-007.md](art-007.md) | 7 Notice of civil partnership |
-| Art. 8 | [art-008.md](art-008.md) | 8 Caveat against issue of licence or certificate |
-| Art. 9 | [art-009.md](art-009.md) | 9 Civil partnership on authority of licence |
-| Art. 10 | [art-010.md](art-010.md) | 10 Period of validity of licence |
-| Art. 11 | [art-011.md](art-011.md) | 11 Civil partnership on authority of document issued outside Jersey |
-| Art. 12 | [art-012.md](art-012.md) | 12 Certificate for formation of civil partnership outside Jersey |
-| Art. 13 | [art-013.md](art-013.md) | 13 Approved premises |
-| Art. 14 | [art-014.md](art-014.md) | 14 Solemnization of civil partnership on approved premises |
-| Art. 15 | [art-015.md](art-015.md) | 15 Civil partnership of person incapacitated by illness or disability |
-| Art. 16 | [art-016.md](art-016.md) | 16 Delegates of Superintendent Registrar |
-| Art. 17 | [art-017.md](art-017.md) | 17 Keeping of book and registers relating to civil partnership |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Persons authorized to solemnize civil partnerships in Jersey |
+| Art. 6B | [art-006-b.md](art-006-b.md) | 6B Application to give notice of intended civil partnership |
+| Art. 6C | [art-006-c.md](art-006-c.md) | 6C Consideration of application for notice of intended civil partnership |
+| Art. 7 | [art-007.md](art-007.md) | 7 Giving notice of intended civil partnership and making freedom to form a civil partnership declaration |
+| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Publication of notice of intended civil partnership |
+| Art. 8 | [art-008.md](art-008.md) | 8 Caveat against issue of civil partnership schedule or certificate of no impediment to civil partnership |
+| Art. 9 | [art-009.md](art-009.md) | 9 Issue of civil partnership schedule |
+| Art. 11 | [art-011.md](art-011.md) | 11 Civil partnership in Jersey by non-Jersey resident: certificate of freedom to form a civil partnership issued by othe |
+| Art. 12 | [art-012.md](art-012.md) | 12 Issue of certificate of no impediment by Superintendent Registrar for civil partnership outside Jersey |
+| Art. 13 | [art-013.md](art-013.md) | 13 Approved locations |
+| Art. 14 | [art-014.md](art-014.md) | 14 Solemnization of civil partnership |
+| Art. 14A | [art-014-a.md](art-014-a.md) | 14A Changes to date, time or location of intended civil partnership |
+| Art. 14B | [art-014-b.md](art-014-b.md) | 14B Civil partnership: special circumstances |
+| Art. 17 | [art-017.md](art-017.md) | 17 Keeping of records relating to civil partnership |
+| Art. 17A | [art-017-a.md](art-017-a.md) | 17A Retention of civil partnership schedule etc. |
 | Art. 18 | [art-018.md](art-018.md) | 18 Duty to record and register civil partnerships |
 | Art. 19 | [art-019.md](art-019.md) | 19 Power to ask for particulars of civil partnership |
-| Art. 20 | [art-020.md](art-020.md) | 20 Proof of certain matters not necessary to validity of civil partnership |
+| Art. 20 | [art-020.md](art-020.md) | 20 Proof of certain matters not necessary to validity of civil partnerships |
 | Art. 21 | [art-021.md](art-021.md) | 21 Searches |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Official searches of records by Superintendent Registrar |
+| Art. 21B | [art-021-b.md](art-021-b.md) | 21B Co-operation and disclosure |
 | Art. 22 | [art-022.md](art-022.md) | 22 Correction of errors in books and registers |
-| Art. 23 | [art-023.md](art-023.md) | 23 Offences relating to the registration of civil partnership |
+| Art. 22A | [art-022-a.md](art-022-a.md) | 22A Civil partnerships which are void |
+| Art. 23 | [art-023.md](art-023.md) | 23 Offences relating to the solemnization of a civil partnership |
+| Art. 23A | [art-023-a.md](art-023-a.md) | 23A Offences relating to the registration of civil partnerships |
 | Art. 24 | [art-024.md](art-024.md) | 24 Declarations |
+| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Amendment of periods specified in this Part |
 | Art. 25 | [art-025.md](art-025.md) | 25 Orders concerning registration |
 | Art. 26 | [art-026.md](art-026.md) | 26 Duty of Minister |
+| Art. 26AA | [art-026-aa.md](art-026-aa.md) | 26AA Application for conversion |
+| Art. 26AB | [art-026-ab.md](art-026-ab.md) | 26AB Consideration of application for conversion |
+| Art. 26AC | [art-026-ac.md](art-026-ac.md) | 26AC Issue of conversion schedule |
+| Art. 26AD | [art-026-ad.md](art-026-ad.md) | 26AD Civil partnership by conversion: solemnization |
 | Art. 27 | [art-027.md](art-027.md) | 27 Jurisdiction |
 | Art. 28 | [art-028.md](art-028.md) | 28 Grounds of application for dissolution of a civil partnership |
 | Art. 29 | [art-029.md](art-029.md) | 29 Restrictions on applications for dissolution during first 3 years after creation of civil partnership |
@@ -77,8 +88,9 @@ L.4/2012 · official consolidation showing the law from 2022-10-01 · <https://w
 | Art. 70 | [art-070.md](art-070.md) | 70 Amendment of other enactments |
 | Art. 71 | [art-071.md](art-071.md) | 71 Power to make further provision in connection with civil partnerships |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations and Orders |
+| Art. 72A | [art-072-a.md](art-072-a.md) | 72A Fees |
 | Art. 73 | [art-073.md](art-073.md) | 73 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

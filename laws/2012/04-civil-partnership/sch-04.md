@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 70)
 amendment of other enactments
 30 Miscellaneous enactments amended
