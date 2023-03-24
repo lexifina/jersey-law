@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 83)
 Transitional provisions
 1. In this Schedule, “1842 Law” means the Loi (1842) sur l’Etat Civil.
