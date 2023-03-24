@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 59)
 TRANSITIONAL PROVISIONS
 1 Interpretation

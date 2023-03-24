@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2023-01-24 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20230323>
+R&O.69/2018 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,11 +10,12 @@ R&O.69/2018 · official consolidation showing the law from 2023-01-24 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Application, authorization and registration process - authorized religious official |
 | Art. 5 | [art-005.md](art-005.md) | 5 Duration of authorization - civil celebrant |
 | Art. 6 | [art-006.md](art-006.md) | 6 Duration of authorization - religious official |
-| Art. 7 | [art-007.md](art-007.md) | 7 Conditions to be imposed on authorization |
+| Art. 7 | [art-007.md](art-007.md) | 7 Conditions to be imposed on authorization - authorized civil celebrant |
+| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Conditions to be imposed on authorization - authorized religious official |
 | Art. 8 | [art-008.md](art-008.md) | 8 Inspection and investigation |
 | Art. 9 | [art-009.md](art-009.md) | 9 Suspension |
 | Art. 10 | [art-010.md](art-010.md) | 10 Review by Minister |
-| Art. 11 | [art-011.md](art-011.md) | 11 Fees for grant of authorization or renewal |
+| Art. 11 | [art-011.md](art-011.md) | 11 Fees |
 | Art. 12 | [art-012.md](art-012.md) | 12 Scheme for approval of location |
 | Art. 13 | [art-013.md](art-013.md) | 13 Kinds of location |
 | Art. 14 | [art-014.md](art-014.md) | 14 Type of approval |
@@ -39,7 +40,7 @@ R&O.69/2018 · official consolidation showing the law from 2023-01-24 · <https:
 | Art. 33 | [art-033.md](art-033.md) | 33 Marriage certificate |
 | Art. 34 | [art-034.md](art-034.md) | 34 Certificate of no impediment to marriage |
 | Art. 35 | [art-035.md](art-035.md) | 35 Application for conversion |
-| Art. 36 | [art-036.md](art-036.md) | 36 Conversion declaration form |
+| Art. 36 | [art-036.md](art-036.md) | 36 Conversion schedule |
 | Art. 37 | [art-037.md](art-037.md) | 37 Requirements and procedures for marriage in special circumstances |
 | Art. 38 | [art-038.md](art-038.md) | 38 Information, books, indexes and registers kept by the Superintendent Registrar |
 | Art. 39 | [art-039.md](art-039.md) | 39 Official searches of records by Superintendent Registrar |
@@ -49,20 +50,23 @@ R&O.69/2018 · official consolidation showing the law from 2023-01-24 · <https:
 | Art. 43 | [art-043.md](art-043.md) | 43 Returns of information for Anglican marriages |
 | Art. 44 | [art-044.md](art-044.md) | 44 Return of registers etc. by registrar |
 | Art. 45 | [art-045.md](art-045.md) | 45 Omission of particulars in exceptional circumstances |
+| Art. 45A | [art-045-a.md](art-045-a.md) | 45A Transfer of duties between parish and Superintendent Registrar |
+| Art. 45B | [art-045-b.md](art-045-b.md) | 45B Keeping of marriage register and other documents |
 | Art. 46 | [art-046.md](art-046.md) | 46 Registration of births and stillbirths |
 | Art. 47 | [art-047.md](art-047.md) | 47 Declaration for re-registration of birth of legitimated person |
 | Art. 48 | [art-048.md](art-048.md) | 48 Further registration of name |
-| Art. 49 | [art-049.md](art-049.md) | 49 Registration of birth of abandoned child |
+| Art. 49 | [art-049.md](art-049.md) | 49 Registration of abandoned child |
 | Art. 50 | [art-050.md](art-050.md) | 50 Short birth certificate |
 | Art. 51 | [art-051.md](art-051.md) | 51 Certificate of registration of stillbirth |
+| Art. 51A | [art-051-a.md](art-051-a.md) | 51A Certificate of fact and cause of death |
 | Art. 52 | [art-052.md](art-052.md) | 52 Registration of death |
 | Art. 53 | [art-053.md](art-053.md) | 53 Certificate of registration of death |
 | Art. 54 | [art-054.md](art-054.md) | 54 Declarations under Part 5 |
 | Art. 55 | [art-055.md](art-055.md) | 55 Return of registers etc. by registrar |
 | Art. 56 | [art-056.md](art-056.md) | 56 Correction of error in register |
-| Art. 57 | [art-057.md](art-057.md) | 57 Binding of returns, marriage schedules and conversion declaration forms |
+| Art. 57 | [art-057.md](art-057.md) | 57 Binding of returns, marriage schedules and conversion schedules |
 | Art. 58 | [art-058.md](art-058.md) | 58 Fees |
 | Art. 59 | [art-059.md](art-059.md) | 59 Transitional provisions |
 | Art. 60 | [art-060.md](art-060.md) | 60 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
