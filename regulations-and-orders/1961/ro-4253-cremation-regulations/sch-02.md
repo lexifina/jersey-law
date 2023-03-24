@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 6(a))
 CERTIFICATE OF MEDICAL ATTENDANT
 I am informed that application is about to be made for the cremation of the remains of -
@@ -45,7 +45,7 @@ poison;
 (c)
 privation or neglect? ...............................
 (Give separate answers to (a) (b) and (c))
-18 Do you know, or have you any reason to suspect, that the death of the deceased occurred while the deceased was under an anæsthetic ?
+18 Do you know, or have you any reason to suspect, that the death of the deceased occurred while the deceased was under an anaesthetic ?
 19 Have you any reason whatever to suppose a further examination of the body to be desirable ?
 20 Have you given the certificate required for registration of death ?
 I certify that the answers given above are true and accurate to the best of my knowledge and belief, and that there is no circumstance known to me which can give rise to any suspicion that the death was due wholly or in part to any other cause than

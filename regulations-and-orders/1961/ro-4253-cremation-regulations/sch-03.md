@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 6(a))
 CONFIRMATORY MEDICAL CERTIFICATE
 I have examined the foregoing medical certificate, and have made personal inquiry as stated in my answers to the questions set out below -

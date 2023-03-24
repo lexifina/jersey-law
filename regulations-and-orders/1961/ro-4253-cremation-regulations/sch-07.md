@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Regulation 13)
 REGISTER OF CREMATIONS
 No.

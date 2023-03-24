@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Regulation 7(2))
 AUTHORITY TO CREMATE
 Whereas application has been made for the cremation of the remains of

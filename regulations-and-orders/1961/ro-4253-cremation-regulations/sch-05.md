@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Regulation 6(c))
 VISCOUNT’S CERTIFICATE
 I certify that I held/opened an inquest on the body of .............................................................. and that -

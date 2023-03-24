@@ -1,6 +1,6 @@
 # Cremation (Jersey) Regulations 1961
 
-R&O.4253 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_4253_20230323>
+R&O.4253 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/ro_4253_20260331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,10 +21,10 @@ R&O.4253 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Registration of cremations, etc. |
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Keeping of certificates, etc. |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |

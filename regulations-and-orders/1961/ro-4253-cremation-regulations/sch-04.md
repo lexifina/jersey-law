@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Regulation 6(b))
 CERTIFICATE AFTER POST-MORTEM EXAMINATION
 I certify that, acting on the direction of the Viscount, I made a post-mortem examination of the remains of

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 5(1))
 APPLICATION FOR CREMATION
 I, (name of applicant) ...........................................................................................
