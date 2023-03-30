@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 2(b))
 General Provisions
 1 General modifications for effect in relation to Jersey
@@ -16,8 +16,9 @@ General Provisions
 (ii) to a UK national, as defined in Article 45 of the Law, who is ordinarily resident in Jersey, and
 (iii) to a legal person incorporated or constituted under the law of Jersey.
 (6) Except as otherwise provided by this Schedule or Schedule 3 -
-(a) a reference in a UK sanctions instrument to a person in the UK, being a person who performs a function, is to be read as a reference to both that person and the person, if any, in Jersey who performs an equivalent function; and
-(b) a reference in a UK sanctions instrument to an enactment of the UK is to be read as a reference to both that enactment and the enactment of Jersey, if any, that corresponds to the enactment of the UK.
+(a) a reference in a UK sanctions instrument to a person in the UK, being a person who performs a function, is to be read as a reference to both that person and the person, if any, in Jersey who performs an equivalent function;
+(b) a reference in a UK sanctions instrument to an enactment of the UK is to be read as a reference to both that enactment and the enactment of Jersey, if any, that corresponds to the enactment of the UK; and
+(c) a reference in a UK sanctions instrument to a matter, product or other thing within the meaning given in an enactment of the UK, is to be read as a reference to both that matter, product or other thing within the meaning given in that enactment of the UK and the corresponding matter, product or other thing and its meaning given in the corresponding enactment of Jersey, if any.
 (7) Transitional provisions in a UK sanctions instrument do not have effect.
 2 General modifications in relation to offences and related matters
 (1) For the purpose of a reference in the Law to compliance with or evasion of the Law, or to an offence or function under the Law, a UK sanctions instrument is to be treated as if it were a provision of the Law to the extent that it is given effect by this Order.

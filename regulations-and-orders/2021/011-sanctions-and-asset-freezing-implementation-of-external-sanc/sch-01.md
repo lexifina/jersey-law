@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 3 and 4)
 UK sanctions instruments implemented
 1.

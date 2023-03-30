@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 2(c))
 Special Provisions
 A1 Republic of Belarus (Sanctions) (EU Exit) Regulations 2019: shipping and aircraft
