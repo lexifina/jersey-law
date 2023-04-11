@@ -1,11 +1,18 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 Parking places for vehicles used by disabled persons
+GROUVILLE
+Parking places - 2 hour limit
+La Rue a Don
+North side (between the eastern entrance of Grouville Parish Church and a point 13 yards further east)
+Parking places - 1 hour limit
+La Rue de la Haye du Puits
+North side (between a point 65 yards west of its junction with Rue de la Croix and a point 13 yards further west)
 ST. BRELADE
 Parking places - 4 hour limit
 Le Boulevard
 (The Bulwarks)
-Between the southern side of the entrance to the property known as the “Harbour View Guest House” and the northern side of the entrance to the property known as “Maison Herault”.
+Between the southern side of the entrance to the property known as the “Harbour View Guest House” and the northern side of the entrance to the property known as “Maison Herault”
 ST. HELIER
 Parking places - 4 hour limit
 Albert Street
@@ -108,7 +115,7 @@ East side (between a point 71 yards north of Esplanade and a point 11 yards furt
 Roseville Street
 East side (between a point 37 yards south of La Route du Fort and a point 5 yards further south)
 Savile Street
-East side (from a point 50 yards north of the north side of Cannon Street and a point 5 yards further north)
+East side (between a point 50 yards north of the north side of Cannon Street and a point 5 yards further north)
 ST. SAVIOUR
 Parking places - unlimited duration
 Plat Douet Road
