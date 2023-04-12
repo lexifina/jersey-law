@@ -1,6 +1,6 @@
 # Companies (Takeovers and Mergers Panel) (Jersey) Law 2009
 
-L.1/2009 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/l_1_2009_20230411>
+L.1/2009 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_1_2009_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
