@@ -1,6 +1,6 @@
 # Trade Marks (Jersey) Law 2000
 
-L.15/2000 · official consolidation showing the law from 2022-03-09 · <https://www.jerseylaw.je/laws/current/l_15_2000_20230411>
+L.15/2000 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_15_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -48,4 +48,4 @@ L.15/2000 · official consolidation showing the law from 2022-03-09 · <https://
 | Art. 36 | [art-036.md](art-036.md) | 36 Savings in relation to repealed legislation |
 | Art. 36A | [art-036-a.md](art-036-a.md) | 36A Transitional provisions |
 | Art. 37 | [art-037.md](art-037.md) | 37 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
