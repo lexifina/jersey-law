@@ -1,6 +1,6 @@
 # Registration of Business Names (Jersey) Law 1956
 
-L.17/1956 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_17_1956_20230411>
+L.17/1956 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_17_1956_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
