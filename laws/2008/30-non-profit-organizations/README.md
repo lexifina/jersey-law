@@ -1,6 +1,6 @@
 # Non-Profit Organizations (Jersey) Law 2008
 
-L.30/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_30_2008_20230411>
+L.30/2008 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_30_2008_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
