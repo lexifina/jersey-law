@@ -24,8 +24,8 @@ and if A does not make such a disclosure, A commits an offence.
 (7) In deciding whether a person has committed an offence under this Article, the court -
 (a) shall take account of any relevant Code of Practice or guidance that applies to that person or the business carried on by that person and is issued by the supervisory body exercising supervisory functions in respect of that person; or
 (b) if no such Code of Practice or guidance applies, shall take into account any relevant Code of Practice or guidance that is issued by another supervisory body; or
-(c) if there is no such relevant Code of Practice or guidance, may take account of any other relevant guidance issued by a body that is representative of that person or any supervised business carried on by that person.
-(7A) For the purposes of paragraph (7), “Code of Practice”, “supervised business”, “supervisory body” and “supervisory functions” have the same meaning as in the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008.
+(c) if there is no such relevant Code of Practice or guidance, may take account of any other relevant guidance issued by a body that is representative of that person or any Schedule 2 business carried on by that person.
+(7A) For the purposes of paragraph (7), “Code of Practice”, “Schedule 2 business”, “supervisory body” and “supervisory functions” have the same meaning as in the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008.
 (8) A disclosure to a nominated officer is a disclosure which -
 (a) is made to a person nominated by the employer of the person making the disclosure to receive disclosures under this Article; and
 (b) is made in the course of the discloser’s employment and in accordance with the procedure established by the employer for the purpose.

@@ -14,7 +14,7 @@ if a person is engaged in money laundering when acting in the capacity of a pers
 (6) In determining whether B has adequately maintained and applied prevention procedures in relation to the activities of the person associated with B, the Court -
 (a) may take account of any relevant Code of Practice or guidance that applies to B and is issued by the supervisory body exercising supervisory functions in respect of B; or
 (b) if no such Code of Practice or guidance applies, may take into account any relevant Code of Practice or guidance that is issued by another supervisory body; or
-(c) if there is no such relevant Code of Practice or guidance, may take account of any other relevant guidance issued by a body that is representative of B or any supervised business that is carried on by B.
+(c) if there is no such relevant Code of Practice or guidance, may take account of any other relevant guidance issued by a body that is representative of B or any Schedule 2 business that is carried on by B.
 (7) For the purposes of paragraph (4)(c) the question whether or not the person is a person who performs services for or on behalf of B is to be determined by reference to all the relevant circumstances and not merely by reference to the nature of the relationship between that person and B.
 (8) In paragraph (4)(d) “customer” has the same meaning as in Schedule 3.
-(9) For the purposes of paragraph (6), “Code of Practice”, “supervised business”, “supervisory body” and “supervisory functions” have the same meaning as in the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008.
+(9) For the purposes of paragraph (6), “Code of Practice”, “Schedule 2 business”, “supervisory body” and “supervisory functions” have the same meaning as in the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008.
