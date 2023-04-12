@@ -22,4 +22,4 @@ Any legal proceedings instituted by or against the Committee in relation to a tr
 (1) Any books, lists, files or registers required to be established and maintained, and any other record or document required to be kept by the Committee or any other body or individual under a transferred function shall, on the transfer of that function -
 (a) be delivered to the Commission; and
 (b) be deemed to have been established, maintained or kept by the Commission.
-(2) Notwithstanding sub-paragraph (1), where the Commission is satisfied that the Chief Minister (as successor to the Finance and Economics Committee) has good cause to have access to any record or document delivered to the Commission under that sub-paragraph, it shall grant such access to that Minister.
+(2) Notwithstanding sub-paragraph (1), where the Commission is satisfied that the Minister (as successor to the Finance and Economics Committee) has good cause to have access to any record or document delivered to the Commission under that sub-paragraph, it shall grant such access to that Minister.
