@@ -1,6 +1,6 @@
 # Security Interests (Jersey) Law 2012
 
-L.24/2012 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_24_2012_20230411>
+L.24/2012 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_24_2012_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
