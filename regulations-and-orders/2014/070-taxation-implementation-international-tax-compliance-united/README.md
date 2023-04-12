@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (United Kingdom) (Jersey) Regulations 2014
 
-R&O.70/2014 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_70_2014_20230411>
+R&O.70/2014 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_70_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
