@@ -1,6 +1,6 @@
-# SCHEDULE
+# Schedule
 (Article 2(1))
-activities referred to in article 2(1)
+Activities referred to in Article 2(1)
 1 Activities
 The activities referred to in Article 2(1) are -
 (a) the manufacture of centrifuge rotor tubes or the assembly of gas centrifuges;
