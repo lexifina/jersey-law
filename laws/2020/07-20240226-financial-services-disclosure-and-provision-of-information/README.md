@@ -1,6 +1,6 @@
 # Financial Services (Disclosure and Provision of Information) (Jersey) Law 2020
 
-L.7/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-07-2020.aspx>
+L.7/2020 Â· official consolidation showing the law from 2023-04-12 Â· <https://www.jerseylaw.je/laws/current/l_7_2020_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,6 +31,5 @@ L.7/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-07-
 | Art. 24 | [art-024.md](art-024.md) | 24 Rules of Court |
 | Art. 25 | [art-025.md](art-025.md) | 25 Customary law |
 | Art. 26 | [art-026.md](art-026.md) | 26 Transitional provisions |
-| Art. 27 | [art-027.md](art-027.md) | 27 Foundations (Jersey) Law 2009 amended |
 | Art. 28 | [art-028.md](art-028.md) | 28 Citation and commencement |
 | Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
