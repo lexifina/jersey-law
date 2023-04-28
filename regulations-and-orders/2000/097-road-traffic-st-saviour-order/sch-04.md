@@ -1,4 +1,4 @@
-# SCHEDULE 3A
+# Schedule 3A
 (Article 6A)
 ROADS CLOSED TO THROUGH TRAFFIC
 Column 1

@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 5)
 PART 1
 (Article 5(1))
@@ -55,7 +55,8 @@ Georgetown Road
 Both sides (between the parish boundary and the junction with Aubin Lane)
 Grands Vaux
 Both sides (between the junction with Deloraine Road and the parish boundary)
-North side (from its junction with Deloraine Road for a distance of 16 yards in an easterly direction)
+North side (from its junction with Deloraine Road for a distance of 100 yards in an easterly direction)
+North side (from a point 143 yards east of the junction with Deloraine Road for a distance of 35 yards in an easterly direction)
 Highlands Lane
 Both sides (between the entrance to Hautlieu School and the entrance to Highlands College)
 James Road
@@ -84,6 +85,7 @@ West side (from its junction with Les Grands Vaux for a distance of 20 yards in 
 West side (from a point 42 yards from its junction with Les Grands Vaux for a distance of 21 yards in a southerly direction)
 La Rue des Friquettes
 East side (from its junction with La Rue des Pigneaux for a distance of 85 yards in a southerly direction)
+Both sides (from the junction with Princes Tower Road for a distance of 57 yards in a northerly direction)
 La Rue de la Hougette
 Both sides (from its junction with La Rue des Friquettes for a distance of 129 yards in an easterly direction)
 La Rue de Patier
@@ -92,16 +94,26 @@ Both sides (between its junction with La Chasse Brunet to its junction with Le J
 Both sides (from a point 10 yards west of its junction with Le Jardin à Pommiers for a distance of 63 yards in a westerly direction)
 La Rue Le Masurier
 Both sides
+La Rue St. Thomas
+West side (from its junction with Longueville Road for a distance of 75 yards in a northerly direction)
 La Ruette du Sacrement
 Both sides
 Le Geyt Road
 Both sides (between St. Saviour’s Hill and Springfield Road)
+Le Jardin à Pommiers
+East side (from its junction with La Rue de Patier for a distance of 44 yards in a southerly direction then turning for a distance of 11 yards in an easterly direction)
+West side (from its junction with La Rue de Patier for a distance of 23 yards in a southerly direction then turning for a distance of 12 yards in a westerly direction)
+East side (from a point 63 yards south of its junction with La Rue de Patier for a distance of 14 yards in a northerly direction then turning for a distance of 11 yards in an easterly direction)
+West side (from a point 62 yards south of its junction with La Rue de Patier for a distance of 17 yards in a northerly direction then turning for a distance 12 yards in a westerly direction)
 Les Vaux New Road
 Both sides (between the junction with Le Geyt Road and the parish boundary)
 Longueville Road
 Both sides (between the junction with Plat Douet Road and the junction with Old Brickfield Lane)
 Maison St. Louis Estate
 West side (from the south side of its junction with Highlands Close for a distance of 8 yards in a southerly direction)
+South side (from its junction with Wellington Road for a direction of 20 yards in a westerly direction)
+South side (from a point 39 yards west of its junction with Wellington Road for a distance of 15 yards in a westerly direction)
+North side (from a point 111 yards west of its junction with Wellington Road for a distance of 15 yards in an easterly direction)
 Mary Street
 Both sides
 New York Lane

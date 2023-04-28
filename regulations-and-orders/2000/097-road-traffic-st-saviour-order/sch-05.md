@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 7)
 PART 1
 (Article 7(1))
