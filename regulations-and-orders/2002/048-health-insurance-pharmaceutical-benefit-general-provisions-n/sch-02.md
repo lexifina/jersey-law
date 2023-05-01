@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 PART 1
 TERMS AND CONDITIONS TO BE OBSERVED BY AN APPROVED SUPPLIER
@@ -23,7 +23,7 @@ TERMS AND CONDITIONS TO BE OBSERVED BY AN APPROVED SUPPLIER
 (b) the times when they may be obtained at those premises.
 (6) Each notice must be displayed in a manner that makes it easily visible to members of the public.
 3 Dispensing medicines
-The supplier must ensure that the supply of medicines on prescriptions is performed by or under the direct supervision of a pharmacist.
+The supplier must ensure that the supply of medicines on prescriptions is performed by or under the supervision of a pharmacist.
 4 Names of pharmaceutical chemists
 Whenever required to do so by the Minister the supplier must furnish to the Minister the name of each pharmacist employed by the supplier in dispensing medicines on prescription.
 5 Charges
