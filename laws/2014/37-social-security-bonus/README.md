@@ -1,6 +1,6 @@
 # Social Security (Bonus) (Jersey) Law 2014
 
-L.37/2014 · official consolidation showing the law from 2022-09-28 · <https://www.jerseylaw.je/laws/current/l_37_2014_20230430>
+L.37/2014 · official consolidation showing the law from 2023-05-01 · <https://www.jerseylaw.je/laws/current/l_37_2014_20230918>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,4 +11,4 @@ L.37/2014 · official consolidation showing the law from 2022-09-28 · <https://
 | Art. 4 | [art-004.md](art-004.md) | 4 Cold weather bonus |
 | Art. 5 | [art-005.md](art-005.md) | 5 Offences |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
