@@ -1,11 +1,11 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 86)
 savings and transitional arrangements
 1 Interpretation
 In this Schedule “2005 Law” means the Data Protection (Jersey) Law 2005.
 2 Processing underway at time of commencement of this Law
 (1) Where, at the time of commencement of Article 87, consent to the processing of personal data was obtained in compliance with the requirements of the 2005 Law, that consent, to the extent that it was not given in a manner that complies with this Law, has effect up to and including 25th May 2019.
-(2) Where, at the time of commencement of Article 87, the specified information (within the meaning of Article 12(4)) was provided by the controller to the data subject in compliance with the requirements of paragraph 2 of Part 2 of Schedule 1 to the 2005 Law, to the extent that the such compliance is not compliance with Article 12 of this Law, the controller is nevertheless treated as complying with it until 25th May 2019.
+(2) Where, at the time of commencement of Article 87, the specified information (within the meaning of Article 12(4)) was provided by the controller to the data subject in compliance with the requirements of paragraph 2 of Part 2 of Schedule 1 to the 2005 Law, to the extent that such compliance is not compliant with Article 12 of this Law, the controller is nevertheless treated as complying with it until 25th May 2019.
 3 Request for information and copy of personal data
 A request for information and a copy of personal data under Article 7 of the 2005 Law that has not been complied with on the commencement of Article 28 of this Law is treated as a request under Article 28 of this Law save that -
 (a) the controller has 40 days to answer the request; and

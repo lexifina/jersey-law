@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 66(2)(c))
 Exceptions to adequacy requirements
 1 Order of court, public authorities etc.

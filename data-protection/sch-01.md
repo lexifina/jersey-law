@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 4(5))
 modifications of law in cases of PROCESSING by competent authorities
 1 List of competent authorities
@@ -116,9 +116,11 @@ After Article 21(3) there are inserted the following paragraphs -
 (h) prevent the unauthorized reading, copying, modification or deletion of personal data during transfers of personal data or during transportation of data media (‘transport control’);
 (i) ensure that installed systems may, in the case of interruption, be restored (‘recovery’);
 (j) ensure that the functions of the system perform, that the appearance of faults in the functions is reported (‘reliability’) and that stored personal data cannot be corrupted by means of a malfunctioning of the system (‘integrity’).
-(3B) Not in force on revision date.
-(3C) Not in force on revision date.
-(3D) Not in force on revision date.”.
+(3B) The controller must keep logs for processing operations in automated processing systems consisting of collection, alteration, consultation, disclosure including transfers, combination and erasure of personal data, and in the case of logs of consultation and disclosure, must enable -
+(a) the establishment of the justification, date and time of such operations; and
+(b) as far as possible, the identification of the person who consulted or disclosed personal data, and the identity of the recipients of such personal data.
+(3C) The logs may be used solely for verification of the lawfulness of processing, self-monitoring, ensuring the integrity and security of the personal data, and for criminal proceedings.
+(3D) The controller and the processor must make the logs available to the Authority on request.”.
 12 Article 27 modified
 In Article 27 -
 (a) the words in paragraph (1) after the word “undue delay” are omitted;

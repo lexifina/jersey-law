@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 67(2)(b))
 Binding corporate rules
 (1) The Authority must approve binding corporate rules, if those rules -

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 9)
 conditions for processing
 part 1 - conditions for processing personal data
