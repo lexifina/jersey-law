@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 8)
 Pedestrian roads - closing to, and restricted use by, vehicular traffic
 PART 1
@@ -12,14 +12,14 @@ at all times
 Bath Street
 (between its junction with Hilgrove Street and its junction with Beresford Street)
 at all times
+Brighton Lane
+at all times
 Broad Street (between Conway Street and Charing Cross)
 at all times
 Brook Street
 (between its junction with Broad Street and its junction with Sand Street)
 at all times
 (from its junction with King Street for a distance of 12 feet)
-at all times
-Charing Cross
 at all times
 Colomberie
 (between its junction with Green Street and the kerb-line from Grenville Street to Don Road)
@@ -29,9 +29,6 @@ Don Street
 at all times
 Dorset Street
 (between Clearview Street and a point 18 yards west of Dorset Lane)
-at all times
-Esplanade
-(between Conway Street and Weighbridge Place)
 at all times
 Garden Lane
 (between its junction with Dorset Street and its junction with Windsor Road)
@@ -118,6 +115,8 @@ PART 3
 Vehicles exempt from restrictions
 Road
 Vehicle
+Brighton Lane
+Pedal cycles
 Broad Street (between Conway Street and Charing Cross)
 Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday 7 a.m. and 11 a.m.
 Charing Cross (between Broad Street and Sand Street)
@@ -126,8 +125,6 @@ Charing Cross (between Broad Street and York Street)
 Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
 Dorset Street
 Pedal cycles
-Esplanade
-Omnibuses
 Gas Place (between its junction with Chevalier Road and its junction with Common Lane)
 Pedal Cycles
 La Grande Route du Mont à l’Abbé (between St. John’s Road and the entrance to Chestnut Farm)

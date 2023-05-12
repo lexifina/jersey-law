@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Article 40)
 Parking of motor cycles and mopeds
 Burrard Street
@@ -30,13 +30,14 @@ Ingouville Lane
 West side (between a point 27 yards north of Charles Street and a point 12 yards further north)
 Parade Road
 South side (from a point 10 yards east of the northern corner of Le Verger sub-station boundary to a point 11 yards further east)
+Parade, The (eastern arm)
+West side (between a point 29 yards north of its junction with Union Street and a point 9 yards further north)
+West side (between a point 45 yards north of its junction with Union Street and a point 6 yards further north)
 Phillips Street
 South side (between a point 47 yards east of Bath Street and a point 9 yards further east)
 Seale Street
 North side (between a point 6 yards west of Median Court and a point 11 yards further west)
 Stopford Road
 South side (between a point 3 yards east of the western boundary of No. 30 and a point 2 yards east of the western boundary of No. 36)
-The Parade
-Eastern side (between a point 34 yards north of Union Street and a point 13 yards further north)
 Windsor Road
 North side (from a point 45 yards west of its junction with Val Plaisant to a point 5 yards further west

@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 6(1)(a))
 Prohibition of waiting
 Albert Place
@@ -525,7 +525,7 @@ East side (between its junction with Byron Lane and the southern boundary of No.
 Palmyra Road
 Both sides
 Parade, The (eastern arm)
-East side (between Union Street and a point 34 yards north)
+East side (between its junction with Union Street and a point 44 yards north)
 Parade, The (western arm)
 East side (between York Street and a point 60 yards south of Gloucester Street)
 East side (between Gloucester Street and a point 43 yards south)

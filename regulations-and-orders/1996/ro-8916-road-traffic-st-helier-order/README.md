@@ -1,6 +1,6 @@
 # Road Traffic (St. Helier) (Jersey) Order 1996
 
-R&O.8916 · official consolidation showing the law from 2022-06-21 · <https://www.jerseylaw.je/laws/current/ro_8916_20230511>
+R&O.8916 · official consolidation showing the law from 2023-05-12 · <https://www.jerseylaw.je/laws/current/ro_8916_20230712>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -54,14 +54,14 @@ R&O.8916 · official consolidation showing the law from 2022-06-21 · <https://w
 | Art. 40 | [art-040.md](art-040.md) | 40 Parking of motor cycles and mopeds |
 | Art. 41 | [art-041.md](art-041.md) | 41 Savings |
 | Art. 42 | [art-042.md](art-042.md) | 42 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 9 |
-| Schedule 10 | [sch-10.md](sch-10.md) | SCHEDULE 10 |
-| Schedule 11 | [sch-11.md](sch-11.md) | SCHEDULE 11 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |
+| Schedule 11 | [sch-11.md](sch-11.md) | Schedule 11 |

@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Article 39)
 PART 1
 Parking of vehicles ON ROADS for loading and unloading
@@ -17,10 +17,6 @@ East side (between Devonshire Lane and a point 24 yards north)
 East side (between a point 5 yards north of Poonah Lane and a point 7 yards further north)
 20 minutes
 8 a.m. to 12 midnight. Monday to Saturday;
-Bath Street
-West side (between a point 8 yards south of Moneypenny Lane and a point 20 yards further south)
-20 minutes
-6 a.m. to 11 p.m. Monday to Saturday
 Beresford Street
 South side (between a point 49 yards east of Halkett Place and a point 62 yards further east)
 1 hour
@@ -160,6 +156,10 @@ West side (between a point 30 yards north of Burrard Street and a point 11 yards
 5 a.m. to 6 p.m. Monday to Saturday
 Hilgrove Street
 North side (between a point 26 yards east of Bath Street and a point 6 yards further east)
+20 minutes
+5 a.m. to 6 p.m. Monday to Saturday
+Hill Street
+North side (between a point 35 yards west of its junction with La Motte Street and a point 15 yards further west)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Hope Street

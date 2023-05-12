@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 7)
 Roads closed to through traffic
 Road
@@ -16,6 +16,8 @@ All times
 Mulcaster Street
 Fridays and Saturdays between 10 p.m. and 4 a.m.
 Old Don Road
+All times
+Old St. John’s Road
 All times
 Paris Lane
 All times

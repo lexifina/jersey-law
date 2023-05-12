@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Articles 28 and 29A)
 Saint Helier residential and business parking zoneS
 Part 1

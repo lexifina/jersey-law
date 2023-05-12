@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 One-way traffic
 PART 1
@@ -29,6 +29,8 @@ Beresford Street
 Bath Street to Halkett Place
 Bond Street
 Conway Street to Mulcaster Street
+Brighton Lane
+Brighton Road to Rouge Bouillon
 Brighton Road (between Midvale Road and Clairvale Road)
 Midvale Road to Clairvale Road
 Brighton Road (between Clearview Street and Clairvale Road)
@@ -433,6 +435,8 @@ Broad Street (between Conway Street and Library Place)
 Pedal cycles
 Charing Cross (between Broad Street and York Street)
 Pedal cycles
+Esplanade (between Weighbridge Place and Conway Street)
+Omnibuses
 Green Street
 Omnibuses, pedal cycles
 Hill Street (between Halkett Place and La Motte Street)

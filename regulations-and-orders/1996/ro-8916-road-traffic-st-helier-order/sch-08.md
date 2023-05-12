@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Articles 11 and 20)
 Parking places on roads
 PART 1
@@ -113,7 +113,7 @@ North side (between a point 10 yards west of Great Union Road and a point 13 yar
 Mont Cochon
 West side (between a point 37 yards north of its junction with La Route de St. Aubin and a point 32 yards further north)
 Parade, The (eastern arm)
-West side (between a point 29 yards north of its junction with Union Street and a point 84 yards further north)
+West side (between a point 51 yards north of its junction with Union Street and a point 61 yards further north)
 Parade, The (western arm)
 East side (between a point 43 yards south of Gloucester Street and a point 32 yards further south)
 West side (between a point 22 yards north of the northern boundary of the Town Hall and a point 11 yards further north)

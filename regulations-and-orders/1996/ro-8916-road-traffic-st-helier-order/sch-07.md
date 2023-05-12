@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 9)
 Driving and stationing of certain vehicles
 PART 1
