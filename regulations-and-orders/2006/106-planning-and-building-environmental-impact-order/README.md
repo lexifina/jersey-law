@@ -1,6 +1,6 @@
 # Planning and Building (Environmental Impact) (Jersey) Order 2006
 
-R&O.106/2006 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_106_2006_20230516>
+R&O.106/2006 · official consolidation showing the law from 2023-05-17 · <https://www.jerseylaw.je/laws/current/ro_106_2006>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,5 +11,5 @@ R&O.106/2006 · official consolidation showing the law from 2019-01-01 · <https
 | Art. 5 | [art-005.md](art-005.md) | 5 Form of request |
 | Art. 6 | [art-006.md](art-006.md) | 6 Chief Officer not bound |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

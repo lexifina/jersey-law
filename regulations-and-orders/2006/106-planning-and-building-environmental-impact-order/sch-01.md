@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2(1))
 DESCRIPTIONS OF DEVELOPMENT in respect of which an environmental impact statement is required
 Column 1
@@ -14,6 +14,7 @@ The area of the project exceeds 0.5 hectares.
 The area of the installation exceeds 0.5 hectares.
 (4) To develop or construct an installation to rear of fish.
 The area of the installation exceeds 0.5 hectares.
+(5) To construct, develop or install a building, or to change the use of a building (in whole or in part), for the purpose of cultivation of plants of the genus Cannabis, or for the production of products including any part of, or derivative from, plants of the genus Cannabis.
 2 Extractive industry
 (1) To extract peat.
 (2) To carry out deep drilling, including, in particular -

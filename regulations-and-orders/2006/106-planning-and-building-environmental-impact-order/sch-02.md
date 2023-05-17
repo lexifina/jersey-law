@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 1)
 what an ENVIRONMENTAL IMPACT STATEMENT must contain
 PART 1
