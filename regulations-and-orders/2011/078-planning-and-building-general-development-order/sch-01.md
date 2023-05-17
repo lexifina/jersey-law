@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 Permitted DEVELOPMENT
 PART 1
@@ -273,6 +273,12 @@ Internal alterations or building operations that do not amount to an external ch
 Work not permitted
 AA.2
 Work is not permitted by Class AA if the building is or forms part of a LBP.
+AA.3
+Work is not permitted by Class AA if -
+(a)
+the building is used or is to be used, in whole or in part, for the purpose of cultivation of plants of the genus Cannabis, or the production of products including any part of, or derivative from, plants of the genus Cannabis; or
+(b)
+the purpose of the alteration or operation is to enable or facilitate such cultivation or production.
 CLASS AB
 Permitted development
 AB.1

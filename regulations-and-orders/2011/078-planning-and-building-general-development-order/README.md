@@ -1,6 +1,6 @@
 # Planning and Building (General Development) (Jersey) Order 2011
 
-R&O.78/2011 · official consolidation showing the law from 2021-05-05 · <https://www.jerseylaw.je/laws/current/ro_78_2011_20230516>
+R&O.78/2011 · official consolidation showing the law from 2023-05-17 · <https://www.jerseylaw.je/laws/current/ro_78_2011_20240331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,5 +10,5 @@ R&O.78/2011 · official consolidation showing the law from 2021-05-05 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Directions restricting permitted development |
 | Art. 5 | [art-005.md](art-005.md) | 5 Savings |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 Use classes
 Class A - Shop
@@ -25,7 +25,7 @@ Use for the sale of food or drink -
 Class C - Office
 Use as an office for any purpose.
 Class D - Agriculture
-Use as a building for agricultural purposes.
+Use as a building for agricultural purposes, excluding use of a building (in whole or in part) for the purpose of cultivation of plants of the genus Cannabis, or the production of products including any part of, or derivative from, plants of the genus Cannabis.
 Class E - Warehouse
 Use as a wholesale (but not retail) warehouse or repository for dry storage.
 Class F - Tourism accommodation
