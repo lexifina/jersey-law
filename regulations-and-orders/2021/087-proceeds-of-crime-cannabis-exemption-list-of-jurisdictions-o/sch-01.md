@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 LIST OF JurisDictions
 Australia
@@ -27,7 +27,6 @@ Poland
 Portugal
 Romania
 Slovenia
-South Africa
 Spain
 Sweden
 Switzerland
