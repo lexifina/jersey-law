@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Articles 1 and 4(4)(a))
 Registrable occupations
 Midwife

@@ -1,6 +1,6 @@
 # Control of Housing and Work (Exemptions) (Jersey) Order 2013
 
-R&O.85/2013 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_85_2013_20230529>
+R&O.85/2013 · official consolidation showing the law from 2023-05-30 · <https://www.jerseylaw.je/laws/current/ro_85_2013_20230704>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ R&O.85/2013 · official consolidation showing the law from 2023-02-14 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Description of individuals to be disregarded for maximum numbers condition in business licences |
 | Art. 5 | [art-005.md](art-005.md) | 5 Conditions of existing licences to be disregarded |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
