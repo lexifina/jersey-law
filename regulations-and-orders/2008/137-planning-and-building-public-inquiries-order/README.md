@@ -1,6 +1,6 @@
 # Planning and Building (Public Inquiries) (Jersey) Order 2008
 
-R&O.137/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_137_2008_20230530>
+R&O.137/2008 · official consolidation showing the law from 2023-05-31 · <https://www.jerseylaw.je/laws/current/ro_137_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
