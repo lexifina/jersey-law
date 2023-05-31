@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 10)
 approved ADVERTISEMENTS
 PART 1
@@ -84,6 +84,23 @@ D.2 The dimension of the advertisement and the lettering or logo height must rem
 D.3 The advertisement must not be displayed so that the highest part of it is -
 (a) above the ground floor level, in the case of an advertisement displayed on a building; or
 (b) 4 metres above the ground level, in the case of an advertisement displayed other than on a building.
+Class E
+Approved advertisement
+E. An advertisement -
+(a) for the purpose of indicating that a car park or parking place is allocated for use by a particular person or class of person or for the parking of a particular motor vehicle or class of motor vehicle -
+(i) on land that the landowner permits to be used as a car park or parking place, or
+(ii) on land at each vehicular entrance and exit to the car park or parking place; or
+(b) for the purpose of indicating that land is private land.
+Advertisement not approved
+E.1 An advertisement is not approved by Class E if that advertisement has an area exceeding 315 square centimetres.
+E.2 An advertisement is not approved by Class E if that advertisement and any other advertisement on the land have an aggregated total area exceeding 1 square metre.
+Conditions
+E.3 The advertisement must not be sited or displayed so as -
+(a) to obscure or hinder the ready interpretation of a road traffic sign or an aid to navigation by water or air; or
+(b) to render hazardous the use of a road or airfield.
+E.4 The advertisement must not contain letters, figures, symbols, emblems or devices of a height exceeding 200 millimetres.
+E.5 The advertisement must not be displayed so that the highest part of it is 1.5 metres or more above the ground level.
+E.6 The advertisement must not be illuminated.
 PART 3
 ADVERTISEMENTS OF A TEMPORARY NATURE
 Class A
