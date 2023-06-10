@@ -25,7 +25,7 @@ Belarus
 The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019
 2019/600
 regulation 10
-regulations 15A(1), 15A(2A), 15B(1), 15B(2), 15C(1), 15CA(1), 22(1), 23(1), 24(1), 24A(1), 25(1), 26(1), 26(2), 26(3), 27(1), 27J(1), 27J(3), 27K(1), 27K(2), 27L(1), 27M(1), 27M(2), 27N(1), 27O(1), 29A(A1), 29C(6), 29D(1), 29D(2), 29D(3), 29F(1), 29F(2)
+A provision falling within paragraph A1(a) of Schedule 3 to this Order
 Bosnia and Herzegovina
 The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020
 2020/608
