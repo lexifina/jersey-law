@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 judicial fees
 1 Lettered Rates
@@ -139,7 +139,7 @@ Greffier
 exceeds £6,000,000
 £609,500 in respect of the first £6,000,000 plus £13.50 for each £100 or part of £100 in excess thereof
 Contract
-Greffier”;
+Greffier
 3 Tables of judicial fees
 Item 1.
 Stamp Duty, by Figure or Rate
@@ -350,6 +350,15 @@ ADOPTION, application and hearing under the Adoption (Jersey) Law 1961
 rate G
 Application
 Greffier
+Item 4A.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+4A.
+APPLICATION FOR ORDERS IN AID IN BANKRUPTCY AND INSOLVENCY MATTERS, consultation with Viscount
+At discretion of Viscount subject to a maximum of rate L
+Application
+Viscount
 Item 5.
 Stamp Duty, by Figure or Rate
 Chargeable Document
@@ -723,6 +732,11 @@ Application to Court for permission to conduct dégrèvement
 rate G
 Application
 Greffier
+(aa)
+Monitoring by Viscount of an application for dégrèvement
+rate D
+Written notice of application for dégrèvement
+Viscount
 (b)
 Conduct of dégrèvement by Greffier, for each half day or part of a half day
 rate L
@@ -1125,6 +1139,22 @@ Preparation and conduct of proceedings by Greffier, for each half day or part of
 rate L
 List of creditors
 Greffier
+Item 35A.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+35A.
+REMISE DE BIENS under Loi (1839) sur les remises de biens (the “1839 Law”)
+(a)
+Assistance given by Viscount to Jurats once they are appointed by court to prepare their report under Article 2 of the 1839 Law
+At discretion of Viscount subject to a maximum of rate L
+Act of Court appointing Jurats to prepare report
+Viscount
+(b)
+Assistance given by Viscount to those authorised by court to conduct a remise de biens under Article 4 of the 1839 Law
+At discretion of Viscount subject to a maximum of rate P
+Act of Court granting the remise de biens
+Viscount
 Item 36.
 Stamp Duty, by Figure or Rate
 Chargeable Document

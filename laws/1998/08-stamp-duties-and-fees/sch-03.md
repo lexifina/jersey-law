@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 2)
 PROBATE FEES
 1 Lettered Rates
