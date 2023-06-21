@@ -1,4 +1,4 @@
-# SCHEDULE 1B
+# Schedule 1B
 (Articles 8(3), 9 and 30(3))
 class 2 factors and contribution rates
 1 Class 2 - earnings

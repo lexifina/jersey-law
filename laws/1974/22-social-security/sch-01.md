@@ -1,4 +1,4 @@
-# SCHEDULE 1AA
+# Schedule 1AA
 (Articles 1A, 8A(6), 8A(7), 25(1A)(a) and 47(1))
 pensionable age
 1 Pensionable age

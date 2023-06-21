@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 49)
 OATHS OF OFFICE
 Form of oath to be taken by the Controller.

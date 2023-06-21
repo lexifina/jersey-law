@@ -1,4 +1,4 @@
-# SCHEDULE 1C
+# Schedule 1C
 (Article 8AA(1))
 Long-term care factors and contribution rates
 1 Insured person’s gross and taxable income

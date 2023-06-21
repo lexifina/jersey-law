@@ -12,4 +12,4 @@
 (a) contributions which are not paid on their due dates and are not treated in accordance with any Order as so paid for the purposes of survivor’s benefit, incapacity pension and old age pension;
 (b) contributions credited only for purposes other than the purposes of survivor’s benefit, incapacity pension and old age pension; and
 (c) any other prescribed contribution, in the case prescribed.
-(9) The product of the calculation specified in paragraph (2), (4), (5) or (6) shall be rounded up to the third decimal place.
+(9) The product of the calculation specified in paragraph (2), (4), (5) or (6) shall be rounded to the third decimal place.

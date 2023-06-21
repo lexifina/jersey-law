@@ -1,4 +1,4 @@
-# SCHEDULE 1D
+# Schedule 1D
 (Articles 8AA(3), 8AB(1) and (3), 8AC(1) and 8AC(3))
 collection of ltc contributions
 1 Interpretation of Schedule 1D

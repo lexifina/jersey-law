@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/l_22_1974_20230620>
+L.22/1974 · official consolidation showing the law from 2023-06-21 · <https://www.jerseylaw.je/laws/current/l_22_1974_20230630>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -83,12 +83,12 @@ L.22/1974 · official consolidation showing the law from 2023-02-14 · <https://
 | Art. 54D | [art-054-d.md](art-054-d.md) | 54D Transitional provision for LTC contributions in 2015 |
 | Art. 54E | [art-054-e.md](art-054-e.md) | 54E Transitional provision for payment of LTC instalment in 2020 |
 | Art. 55 | [art-055.md](art-055.md) | 55 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1AA |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 1A |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 1B |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 1C |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 1D |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 1 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 2 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 3 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1AA |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 1A |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 1B |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 1C |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 1D |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 1 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 2 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 3 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 4 |

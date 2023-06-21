@@ -1,4 +1,4 @@
-# SCHEDULE 1A
+# Schedule 1A
 (Articles 5(3A) and (4), 9 and 30(3))
 class 1 MINIMUM EARNINGS THRESHOLD, factors and contribution rates
 A1 Class 1 minimum earnings threshold

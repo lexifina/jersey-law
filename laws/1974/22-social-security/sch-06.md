@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 13 and 27)
 PART 1 - Rates of Benefit
 Description of Benefit.

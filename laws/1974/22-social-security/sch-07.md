@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 14)
 CONTRIBUTION CONDITIONS
 1 Short term incapacity allowance
