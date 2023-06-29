@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2)
 BAG LIMITS
 Column 1
@@ -260,7 +260,7 @@ Dicentrarchus labrax
 (a) 0 during the period 1st February to 31st March in any year; or
 (b) 2 at all other times
 (a) 0 during the period 1st February to 31st March in any year; or
-(b) 2 at all other times
+(b) 10 at all other times
 SHARKS/DOGFISH
 Bull Huss
 Small-spotted Catshark
