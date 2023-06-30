@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2022-11-09 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20230629>
+R&O.86/2018 · official consolidation showing the law from 2023-06-30 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20230712>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,19 +13,24 @@ R&O.86/2018 · official consolidation showing the law from 2022-11-09 · <https:
 | Art. 6 | [art-006.md](art-006.md) | 6 Meaning of relevant income of independent student |
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Meaning of relevant income of certain dependent students living with a single parent |
 | Art. 7 | [art-007.md](art-007.md) | 7 General rules for eligibility |
-| Art. 8 | [art-008.md](art-008.md) | 8 Higher education |
+| Art. 8 | [art-008.md](art-008.md) | 8 Eligibility for higher education grant |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Exception to non-eligibility for a grant in respect of certain courses |
 | Art. 9 | [art-009.md](art-009.md) | 9 Professional examinations |
 | Art. 10 | [art-010.md](art-010.md) | 10 Vocational arts |
 | Art. 11 | [art-011.md](art-011.md) | 11 Distance learning |
 | Art. 12 | [art-012.md](art-012.md) | 12 Interpretation |
-| Art. 13 | [art-013.md](art-013.md) | 13 Amount of grant |
+| Art. 13 | [art-013.md](art-013.md) | 13 Tuition fees grant |
+| Art. 13A | [art-013-a.md](art-013-a.md) | 13A Relevant assets exceeding £500,000 |
+| Art. 13B | [art-013-b.md](art-013-b.md) | 13B Maximum maintenance grant where relevant income is less than £50,000 |
+| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Maintenance grant where relevant income is £50,000 or more, but less than £90,000 |
+| Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
 | Art. 14 | [art-014.md](art-014.md) | 14 Clinical courses |
-| Art. 15 | [art-015.md](art-015.md) | 15 Courses in medicine, dentistry, nursing or veterinary science |
+| Art. 15 | [art-015.md](art-015.md) | 15 Clinical component grant |
 | Art. 16 | [art-016.md](art-016.md) | 16 Arts foundation courses |
-| Art. 17 | [art-017.md](art-017.md) | 17 Distance learning courses |
-| Art. 18 | [art-018.md](art-018.md) | 18 Relevant assets exceeding £500,000 |
+| Art. 17 | [art-017.md](art-017.md) | 17 Distance learning course grant |
 | Art. 19 | [art-019.md](art-019.md) | 19 Reduction of grant to take account of child allowance |
-| Art. 20 | [art-020.md](art-020.md) | 20 Reduction of grant in respect of 4 year courses |
+| Art. 20 | [art-020.md](art-020.md) | 20 Reduction of grant in respect of 4-year courses |
+| Art. 20A | [art-020-a.md](art-020-a.md) | 20A Reduced maintenance grant in respect of part-time courses |
 | Art. 21 | [art-021.md](art-021.md) | 21 Skills bursary allowance |
 | Art. 22 | [art-022.md](art-022.md) | 22 Interview attendance allowance |
 | Art. 23 | [art-023.md](art-023.md) | 23 Disabled student allowance |
