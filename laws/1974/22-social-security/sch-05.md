@@ -37,18 +37,16 @@ were references to those amounts or that entitlement -
 An insured person who is liable to pay an instalment of tax for a year of assessment, in accordance with Article 41A of the 1961 Law, is also liable to pay an instalment of his or her LTC contribution for the year in which the instalment is due, at the same time and in the same manner as the instalment of tax, in accordance with Article 49B and paragraph 1 of Schedule 1A to the 1961 Law.
 4 LTC contribution effective rate
 (1)
-(2) The LTC contribution effective rate applicable in an employee’s case shall be determined in accordance with the following formula -
-L x 100 = LTC contribution effective rate
-I
+(2) The LTC contribution effective rate applicable in an employee’s case is determined in accordance with the following formula -
 Where -
-L is the sum of -
-(a) the employee’s estimated LTC contribution for the year to which the rate applies, calculated in accordance with paragraph 2A; and
-(b) an amount not exceeding the aggregate of any LTC contributions unpaid for any preceding years; and
-I is the sum of -
-(a) the estimated amount of income for which the employee is liable to be assessed under the 1961 Law for the year to which the rate applies;
-(b) the estimated amount of income from which the employee is liable to allow the deduction of tax under the 1961 Law for the year to which the rate applies;
-(c) the estimated amount of the employee’s allowable deductions under the 1961 Law (except for Article 131I of that Law) in relation to the employee’s earnings for the year to which the rate applies; and
-(d) the estimated amount of the employee’s allowable deductions under Article 131I of the 1961 Law for the year to which the rate applies.
+A is the contribution effective rate;
+B is the amount of the employee’s estimated LTC contribution for the year to which the rate applies, calculated in accordance with paragraph 2A;
+C is the employee’s total LTC contributions for any year preceding the year to which the rate applies, less any amount of contributions already paid for that preceding year, and any costs recoverable in respect of unpaid contributions;
+D is the amount of LTC contributions already paid for the year to which the rate applies;
+E is the estimated amount of income for which the employee is liable to be assessed under the 1961 Law for the year to which the rate applies;
+F is the estimated amount of income from which the employee is liable to allow the deduction of tax under the 1961 Law for the year to which the rate applies;
+G is the estimated amount of the employee’s allowable deductions under the 1961 Law (except for Article 131I of that Law) in relation to the employee’s earnings for the year to which the rate applies; and
+H is the estimated amount of the employee’s allowable deductions under Article 131I of the 1961 Law for the year to which the rate applies.
 (3)
 (4)
 (5) Where an employee makes a request under Article 41CB of the 1961 Law which has been approved by the Comptroller, the Comptroller shall calculate an LTC contribution effective rate that exceeds the rate that would otherwise apply in the employee’s case, in accordance with the foregoing provisions of this paragraph, by an amount that corresponds to the amount by which the new rate of tax exceeds the rate that would otherwise apply in the employee’s case.
