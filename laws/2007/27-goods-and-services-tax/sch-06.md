@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 49)
 ZERO-RATED supplies
 1A Interpretation

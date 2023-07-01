@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Article 93)
 powers as to search and information
 1 Interpretation

@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 48)
 exempt supplies
 1 Group 1 - Finance

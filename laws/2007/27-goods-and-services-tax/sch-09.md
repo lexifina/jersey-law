@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Articles 49 and 101)
 transitional provisions and savings
 1 Regulations

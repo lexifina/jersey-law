@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 6(1)(c)(ii))
 reverse charge to GST: services treated as supplied where received
 1. The transfer or assignment of a copyright, patent, licence or trademark, or of a similar right that is intellectual property.

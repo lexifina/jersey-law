@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 21(2))
 SUPPLY
 1 Transfer of property

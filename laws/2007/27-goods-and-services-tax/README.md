@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Law 2007
 
-L.27/2007 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20230630>
+L.27/2007 · official consolidation showing the law from 2023-07-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ L.27/2007 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Business |
 | Art. 3 | [art-003.md](art-003.md) | 3 Connected persons |
-| Art. 4 | [art-004.md](art-004.md) | 4 Services: where supplier or recipient belongs |
+| Art. 4 | [art-004.md](art-004.md) | 4 Where a supplier or recipient belongs |
 | Art. 5 | [art-005.md](art-005.md) | 5 Residence, branch and country |
 | Art. 6 | [art-006.md](art-006.md) | 6 Charge to GST |
 | Art. 7 | [art-007.md](art-007.md) | 7 Liability for GST |
@@ -26,6 +26,8 @@ L.27/2007 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 Application to the States of Jersey |
 | Art. 20 | [art-020.md](art-020.md) | 20 Regulations about treatment of public sector |
 | Art. 21 | [art-021.md](art-021.md) | 21 Meaning of supply |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Supplies of goods facilitated by online marketplaces: deemed supply |
+| Art. 21B | [art-021-b.md](art-021-b.md) | 21B Meaning of “online marketplace” and “operator” |
 | Art. 22 | [art-022.md](art-022.md) | 22 Effect of Part 6 |
 | Art. 23 | [art-023.md](art-023.md) | 23 Where goods supplied |
 | Art. 24 | [art-024.md](art-024.md) | 24 Where service supplied |
@@ -36,7 +38,7 @@ L.27/2007 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 29 | [art-029.md](art-029.md) | 29 Exceptions |
 | Art. 30 | [art-030.md](art-030.md) | 30 Application of Law to services supplied outside Jersey |
 | Art. 31 | [art-031.md](art-031.md) | 31 Value of supply of goods or services |
-| Art. 32 | [art-032.md](art-032.md) | 32 Value of imported goods |
+| Art. 32 | [art-032.md](art-032.md) | 32 Value of goods imported or treated as supplied in Jersey under Article 23(3)(a) |
 | Art. 33 | [art-033.md](art-033.md) | 33 Input tax and output tax |
 | Art. 34 | [art-034.md](art-034.md) | 34 Credits for input tax against output tax |
 | Art. 35 | [art-035.md](art-035.md) | 35 Postponement of GST credit |
@@ -107,12 +109,12 @@ L.27/2007 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 100 | [art-100.md](art-100.md) | 100 Regulations |
 | Art. 101 | [art-101.md](art-101.md) | 101 Transitional provisions and savings |
 | Art. 102 | [art-102.md](art-102.md) | 102 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 9 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |

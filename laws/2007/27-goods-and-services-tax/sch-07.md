@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 70)
 aPPLICATION OF CUSTOMS AND EXCISE (jERSEY) lAW 1999
 1 Article 22

@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 31)
 VALUATION of supply: SPECIAL CASES
 1 Interpretation

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 9(1))
 REGISTRATION
 1 Liability to be registered
@@ -10,7 +10,7 @@ REGISTRATION
 (a) the value of the taxable supplies made by the transferor in the 12 months ending on the day when the business is transferred has exceeded £300,000; or
 (b) there are reasonable grounds for believing that the value of the taxable supplies made by the transferee in the 12 months after the day when the business is transferred will exceed £300,000.
 (4) In determining the value of the taxable supplies made by a person for the purposes of this paragraph, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
-(5) …
+(5) In this paragraph, and in the other provisions of this Schedule, references to taxable supplies are references to taxable supplies of goods or services in Jersey (including taxable supplies of goods that are treated as supplied in Jersey under Article 23(3)(a)) or of services on which GST is charged under Article 6(1)(c).
 2 Evaluating supplies
 (1) The value of a supply of goods or services shall be determined for the purposes of this Schedule on the basis that no GST is chargeable on the supply.
 (2) References in this Schedule to supplies are references to supplies made in the course of or furtherance of business.
@@ -40,7 +40,7 @@ the Comptroller may, on application by the person, register the person.
 (b) the person becomes liable under paragraph 1 during the period.
 (4) If the person becomes liable under paragraph 1 during that period, the registration shall continue in force until it is cancelled.
 (5) In the case of registration under this paragraph, the notice of registration that the Comptroller is required to serve on the person under paragraph 6 shall specify, in addition to the matters set out in paragraph 6, how long the registration is to have effect.
-(6) In sub-paragraph (1), references to a person who makes, or intends to make, taxable supplies include references to a person who carries out, or intends to carry out, activities that would, on or after 1st January 2023, be treated as making taxable supplies of goods in Jersey under Article 23(3)(a) (as inserted by the Finance (2022 Budget) (Jersey) Law 202-).
+(6) In sub-paragraph (1), references to a person who makes, or intends to make, taxable supplies include references to a person who carries out, or intends to carry out, activities that would, on or after 1st January 2023, be treated as making taxable supplies of goods in Jersey under Article 23(3)(a) (as inserted by the Finance (2022 Budget) (Jersey) Law 2022).
 6 Notice of registration
 The Comptroller shall serve on a person whom the Comptroller registers (whether under paragraph 4 or under paragraph 5) notice in writing specifying that the person is registered and the date when the registration has effect.
 7 Changes to be notified
@@ -105,7 +105,10 @@ are eligible to be treated as members of a group if the conditions of sub-paragr
 (c) a partnership includes a limited liability partnership, but excludes a partnership (within the meaning of Article 11) that is not treated as a person by virtue of Article 11.
 13 Groups of entities
 (1) The Comptroller may, on application, register as a group 2 or more entities that are eligible to be treated as members of a group.
-(2) The Comptroller shall do so by notice in writing to the entity that is to be the representative member of the group.
+(1A) The Comptroller may, on application, register as a group 2 or more entities if -
+(a) each entity is liable to be registered by reference to taxable supplies of goods that are treated under Article 23(3)(a) as supplies made in Jersey; and
+(b) the second and third conditions in paragraph 12(3) and (4) are satisfied in relation to the entities.
+(2) Where the Comptroller grants an application for registration under this paragraph, the Comptroller must give written notice of the registration to the entity that is to be the representative member of the group.
 (3) The registration shall take effect on and from the beginning of a prescribed accounting period specified in the notice.
 (4) The entities shall then be treated as members of a registered group for the purposes of this Law, and one of them, specified in the notice, shall be taken to be the representative member.
 (5) An application under this paragraph with respect to any entities shall be of no effect unless made -
