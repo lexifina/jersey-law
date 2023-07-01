@@ -28,7 +28,7 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 (c) Articles 13 and 14 of the Law do not apply.
 4 Russia (Sanctions) (EU Exit) Regulations 2019: shipping and aircraft, and general licences not relating to asset-freezes
 (1) In relation to the Russia (Sanctions) (EU Exit) Regulations 2019 (the “UK Russia Regulations”) -
-(a) a Crimean ports direction, given by the Secretary of State under regulation 57, has effect in Jersey as if it was given by the Minister, and paragraph 1(1) of Schedule 2 does not apply to the power to make that direction;
+(a) a Crimean ports direction, a Donetsk ports direction or a Kherson and Zaporizhzhia ports direction, given by the Secretary of State under regulation 57, has effect in Jersey as if it was given by the Minister, and paragraph 1(1) of Schedule 2 does not apply to the power to make that direction;
 (aa) for the purpose of the entry in column 5 in the row labelled “Russia” in Schedule 1, a provision falls within this clause if -
 (i) it is contained in the UK Russia Regulations,
 (ii) it imposes a prohibition or obligation, and

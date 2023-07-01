@@ -1,6 +1,6 @@
 # Sanctions and Asset-Freezing (Implementation of External Sanctions) (Jersey) Order 2021
 
-R&O.11/2021 · official consolidation showing the law from 2023-06-10 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20230630>
+R&O.11/2021 · official consolidation showing the law from 2023-07-01 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20230917>
 
 | Provision | File | Heading |
 | --- | --- | --- |
