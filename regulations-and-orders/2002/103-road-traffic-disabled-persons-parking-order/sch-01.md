@@ -116,6 +116,10 @@ Roseville Street
 East side (between a point 37 yards south of La Route du Fort and a point 5 yards further south)
 Savile Street
 East side (between a point 50 yards north of the north side of Cannon Street and a point 5 yards further north)
+ST. OUEN
+Parking places - 2 hour limit
+La Route de Plémont
+West side (between a point 4 yards south of its northern extent and a point 6 yards further south)
 ST. SAVIOUR
 Parking places - unlimited duration
 Plat Douet Road
