@@ -1,6 +1,6 @@
 # Medicines (Health Professionals - Exemption) (Jersey) Order 2001
 
-R&O.127/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_127_2001_20230703>
+R&O.127/2001 · official consolidation showing the law from 2023-07-04 · <https://www.jerseylaw.je/laws/current/ro_127_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
