@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulations 1 and 16A)
 list of third countries and taxes
 Country or territory

@@ -1,6 +1,6 @@
 # Taxation (Exchange of Information with Third Countries) (Jersey) Regulations 2008
 
-R&O.23/2008 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_23_2008_20230704>
+R&O.23/2008 · official consolidation showing the law from 2023-07-05 · <https://www.jerseylaw.je/laws/current/ro_23_2008_20250408>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,4 +24,4 @@ R&O.23/2008 · official consolidation showing the law from 2023-04-12 · <https:
 | Reg. 16C | [reg-016-c.md](reg-016-c.md) | 16C Transitional provision |
 | Reg. 16D | [reg-016-d.md](reg-016-d.md) | 16D Transitional provision - United States of America |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
