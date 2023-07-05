@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulations 1, 2 and 3)
 double taxation agreements
 1

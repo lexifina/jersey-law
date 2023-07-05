@@ -1,6 +1,6 @@
 # Taxation (Double Taxation) (Jersey) Regulations 2010
 
-R&O.55/2010 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_55_2010_20230704>
+R&O.55/2010 · official consolidation showing the law from 2023-07-05 · <https://www.jerseylaw.je/laws/current/ro_55_2010>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -25,8 +25,8 @@ R&O.55/2010 · official consolidation showing the law from 2023-04-12 · <https:
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Offences - general |
 | Reg. 20A | [reg-020-a.md](reg-020-a.md) | 20A Transitional provision |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
