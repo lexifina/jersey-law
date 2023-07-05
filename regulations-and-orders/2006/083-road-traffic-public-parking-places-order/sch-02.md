@@ -25,7 +25,6 @@ STH16
 STH19
 STH20
 STH22
-STH32
 SJ1
 SJ2
 STMN2
@@ -168,3 +167,6 @@ PART 18
 The maximum parking period in respect of the following parking places between 5.00 p.m. and 8.00 a.m. on any day during school term time, and on any day that is not during school term time, is 3 hours in any continuous period of 24 hours. A valid parking disc must be displayed on the vehicle during the period when it is parked there. A vehicle must not be parked there between 8.00 a.m. and 5.00 p.m. on any school day during term time unless a valid permit is displayed on the vehicle during the period when it is parked there.
 STS8
 STS9
+PART 19
+The maximum parking period in respect of the following parking place between 6 a.m. and 10 p.m. on any day is 2 hours during any one visit. A valid parking disc and a valid permit must be displayed on the vehicle during the period when it is parked there. A vehicle cannot be parked in the parking place less than one hour after the end of its last visit.
+STH32

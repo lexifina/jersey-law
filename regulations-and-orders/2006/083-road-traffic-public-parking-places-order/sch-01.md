@@ -1,6 +1,6 @@
 # Schedule 1
 (Article 1(1))
-PARKING PLACES
+Parking Places
 Column 1
 Column 2
 Name, description or vicinity of parking place
