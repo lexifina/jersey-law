@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 5)
 PART 1
 (Article 5(1)(a))
@@ -14,6 +14,7 @@ La Rue de Haut
 West side (between the south side of the exit of Le Clos du Val and a point 11 yards south).
 West side (between the north side of the exit of Le Clos du Val and a point 11 yards north).
 West side (between its junction with La Ruelle Corbel and a point 22 yards south).
+West side (between its junction with La Vallée de St. Pierre and a point 33 yards further north).
 East side (between its junction with St. Peter’s Valley and La Ruelle Corbel).
 South side (between its junction with La Ruelle Corbel and a point 64 yards east).
 North side (between its junction with La Ruelle Corbel and a point 74 yards east).
@@ -72,6 +73,7 @@ Le Mont Cochon
 West side (from a point 10 yards south of its junction with La Ruelle St. Claire to a point 25 yards further south).
 La Route de St. Jean
 Both sides (from a point 25 yards south of its junction with La Rue des Bilières to a point 10 yards further south).
+Both sides (from a point 103 yards south of its junction with La Rue des Bilières to a point 47 yards further south).
 PART 2
 (Article 5(1)(b))
 RESTRICTION OF WAITING

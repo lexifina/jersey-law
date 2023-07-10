@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 6)
 Roads closed to through traffic
 La Rue du Nord

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4)
 Restriction or prohibition of turns
 PART 1

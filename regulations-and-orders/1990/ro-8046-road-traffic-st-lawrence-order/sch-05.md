@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 PART 1
 (Article 7(1))
 Roads not to be used by chars-à-banc
@@ -30,3 +30,5 @@ Le Hucquet
 In both directions, from its junction with La Rue de la Scelleterie to the Parish boundary.
 Le Mont Cambrai
 In both directions from its junction with Le Mont Felard to its junction with La Rue de Haut.
+Sandybrook Lane
+In a northerly direction from its junction with La Vallée de St. Pierre to its junction with Maison La Cave.

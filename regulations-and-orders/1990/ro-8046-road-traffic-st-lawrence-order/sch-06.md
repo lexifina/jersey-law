@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 9)
 Designated paying parking places
 part 1

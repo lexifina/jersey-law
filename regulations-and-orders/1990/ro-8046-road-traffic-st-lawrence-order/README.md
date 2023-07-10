@@ -1,6 +1,6 @@
 # Road Traffic (St. Lawrence) (Jersey) Order 1990
 
-R&O.8046 · official consolidation showing the law from 2021-08-17 · <https://www.jerseylaw.je/laws/current/ro_8046_20230709>
+R&O.8046 · official consolidation showing the law from 2023-07-10 · <https://www.jerseylaw.je/laws/current/ro_8046_20261122>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,11 +27,11 @@ R&O.8046 · official consolidation showing the law from 2021-08-17 · <https://w
 | Art. 20 | [art-020.md](art-020.md) | 20 Indication of time on, and display of, parking discs |
 | Art. 21 | [art-021.md](art-021.md) | 21 Savings |
 | Art. 22 | [art-022.md](art-022.md) | 22 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
