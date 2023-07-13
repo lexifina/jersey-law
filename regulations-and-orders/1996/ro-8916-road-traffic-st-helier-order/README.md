@@ -1,6 +1,6 @@
 # Road Traffic (St. Helier) (Jersey) Order 1996
 
-R&O.8916 · official consolidation showing the law from 2023-05-12 · <https://www.jerseylaw.je/laws/current/ro_8916_20230712>
+R&O.8916 · official consolidation showing the law from 2023-07-13 · <https://www.jerseylaw.je/laws/current/ro_8916_20230927>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ R&O.8916 · official consolidation showing the law from 2023-05-12 · <https://w
 | Art. 29D | [art-029-d.md](art-029-d.md) | 29D Restriction on use of loading or unloading areas in zones |
 | Art. 30 | [art-030.md](art-030.md) | 30 Applications for permits |
 | Art. 31 | [art-031.md](art-031.md) | 31 Restrictions on issue of permits |
-| Art. 32 | [art-032.md](art-032.md) | 32 Fees for permit |
+| Art. 32 | [art-032.md](art-032.md) | 32 Fees for permits |
 | Art. 33 | [art-033.md](art-033.md) | 33 Issue of permit |
 | Art. 34 | [art-034.md](art-034.md) | 34 Form of permit |
 | Art. 35 | [art-035.md](art-035.md) | 35 Duration of permit |
