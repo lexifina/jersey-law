@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2023-06-30 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20230712>
+R&O.86/2018 · official consolidation showing the law from 2023-07-13 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,8 +19,8 @@ R&O.86/2018 · official consolidation showing the law from 2023-06-30 · <https:
 | Art. 10 | [art-010.md](art-010.md) | 10 Vocational arts |
 | Art. 11 | [art-011.md](art-011.md) | 11 Distance learning |
 | Art. 12 | [art-012.md](art-012.md) | 12 Interpretation |
+| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Relevant assets exceeding £500,000 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Tuition fees grant |
-| Art. 13A | [art-013-a.md](art-013-a.md) | 13A Relevant assets exceeding £500,000 |
 | Art. 13B | [art-013-b.md](art-013-b.md) | 13B Maximum maintenance grant where relevant income is less than £50,000 |
 | Art. 13C | [art-013-c.md](art-013-c.md) | 13C Maintenance grant where relevant income is £50,000 or more, but less than £90,000 |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
