@@ -10,10 +10,10 @@ and such persons are referred to generically in this Article as “high value re
 (i) the high value resident applied to the Minister for paragraph (3), as it was then in force, to apply to him or her, and
 (ii) the Minister granted that application in accordance with paragraph (6) as it was then in force.
 (2A) Paragraph (3A) applies where -
-(a) the Regulation 2(1)(e) status is granted on or after 1st January 2018;
+(a) the Regulation 2(1)(e) status is granted on or after 1st January 2018 and before 14th July 2023, and the person to whom it is granted has become a person on whom tax is chargeable under this Law on or before 31st December 2023;
 (b) the Regulation 2(1)(e) status is granted before 1st January 2018, and the person to whom it is granted -
 (i) is not, at that date, but
-(ii) becomes, on or after 1st January 2019,
+(ii) becomes, on or after 1st January 2019 and on or before 31st December 2023,
 a person on whom tax is chargeable under this Law; or
 (c) in the case of any other person who is, before 1st January 2018, a high value resident -
 (i) the person makes an application to the Comptroller (in such form, if any, as the Comptroller may require) for paragraph (3A) to apply to him or her, and
@@ -21,13 +21,24 @@ a person on whom tax is chargeable under this Law; or
 (2B) Paragraph (3A)(b) only shall further apply in any case where -
 (a) a high value resident makes an application to the Comptroller (in such form, if any, as the Comptroller may require) for paragraph (3A)(b) to apply to him or her; and
 (b) the Comptroller grants the application (subject to such conditions, if any, as the Comptroller may determine).
+(2C) Paragraph (3B) applies where -
+(a) the Regulation 2(1)(e) status is granted on or after 14th July 2023; or
+(b) the Regulation 2(1)(e) status is granted before 14th July 2023, and the person to whom it is granted -
+(i) is not, at that date, but
+(ii) becomes, on or after 1st January 2024,
+a person on whom tax is chargeable under this Law.
 (3) Where this paragraph applies and, for a year of assessment, so much of the high value resident’s income as is chargeable to tax under Schedule D exceeds the prescribed limit for that year of assessment, the amount of that excess shall (notwithstanding the rate of tax required by Article 1 to be charged for that year of assessment) be charged to tax at the prescribed rate.
 (3A) Where this paragraph applies -
 (a) if, for a year of assessment, so much of the high value resident’s income as is chargeable to tax under Schedule D exceeds the prescribed limit for that year of assessment, the amount of that excess shall (notwithstanding the rate of tax required by Article 1 to be charged for that year of assessment) be charged to tax at the prescribed rate; but
 (b) if, for a year of assessment, the aggregate of a high value resident’s income chargeable to tax under Schedule A and Schedule D (the “actual income”) does not exceed the prescribed limit for that year of assessment -
 (i) the high value resident shall be deemed to have received such further amount of income chargeable to tax under Schedule D (the “deemed income”) as would (without deduction of any allowances, exemptions or reliefs due under this Law to that person) in addition to his or her actual income, be equal to that prescribed limit, and
 (ii) the aggregate amount of the actual income and the deemed income shall be charged to tax at the rate required by Article 1 to be charged for that year of assessment.
-(4) In calculating, for the purposes of paragraphs (3) and (3A)(a), the amount of a high value resident’s income chargeable to tax under Schedule D, there shall be disregarded any dividend declared out of profits or gains charged to tax at the standard rate on any body of persons.
+(3B) Where this paragraph applies -
+(a) if, for a year of assessment, so much of the high value resident’s income as is chargeable to tax under Schedule D exceeds the prescribed limit for that year of assessment, the amount of that excess is (despite the rate of tax required by Article 1 to be charged for that year of assessment) charged to tax at the prescribed rate; but
+(b) if, for a year of assessment, the aggregate of a high value resident’s income chargeable to tax under Schedule A and Schedule D (the “actual income”) does not exceed the prescribed limit for that year of assessment -
+(i) the high value resident is deemed to have received such further amount of income chargeable to tax under Schedule D (the “deemed income”) as would (without deduction of any allowances, exemptions or reliefs due under this Law to that person) in addition to the resident’s actual income, be equal to that prescribed limit, and
+(ii) the aggregate amount of the actual income and the deemed income is charged to tax at the rate required by Article 1 to be charged for that year of assessment.
+(4) In calculating, for the purposes of paragraphs (3), (3A)(a) and (3B)(a), the amount of a high value resident’s income chargeable to tax under Schedule D, there shall be disregarded any dividend declared out of profits or gains charged to tax at the standard rate on any body of persons.
 (5) Except in the case of a person to whom paragraph (3) applies following an application granted under paragraph (6), in the case of a person who was granted housing consent on or after 1st January 2005 pursuant to an application for 1(1)(k) housing consent made before 22nd July 2011, notwithstanding the rate of tax required by Article 1 to be charged for a year of assessment, where, for that year of assessment, so much of the person’s total income as is not Jersey income exceeds the limit prescribed for the purposes of this paragraph for that year, the amount of the excess shall be chargeable to tax at the rate prescribed for the purposes of this paragraph.
 (6) On receiving an application referred to in paragraph (2)(c)(i), in such form as the Minister may determine, the Minister may grant the application if the Minister, after consultation with the Chief Minister, considers that the application of paragraph (3) to the person is justified -
 (a) on social or economic grounds or both; and
@@ -42,8 +53,8 @@ a person on whom tax is chargeable under this Law; or
 (b) by the Minister, of an application made by a person under paragraph (6),
 shall apply (subject to paragraph (11)) to the person for the year of assessment for which the application is made and for ensuing years.
 (11) If a person breaches any condition imposed by the Comptroller or (as the case may be) by the Minister in connection with the grant of such an application as mentioned in paragraph (10), the paragraph applying to that person by virtue of that grant shall cease to apply, in accordance with such transitional arrangements, if any, as the Comptroller or Minister may determine.
-(12) The States may by Regulations make provision prescribing limits and rates for the purposes of paragraphs (3), (3A) and (5) (and in this Article, a reference to a prescribed limit or rate is to a limit or rate so prescribed for the purposes of the paragraph in question), and such provision may in particular specify -
-(a) different limits in respect of different cases whereby paragraphs (3) and (3A) apply; and
+(12) The States may by Regulations make provision prescribing limits and rates for the purposes of paragraphs (3), (3A), (3B) and (5) (and in this Article, a reference to a prescribed limit or rate is to a limit or rate so prescribed for the purposes of the paragraph in question), and such provision may in particular specify -
+(a) different limits in respect of different cases whereby paragraphs (3), (3A) and (3B) apply; and
 (b) different rates applying to different portions of so much of a person’s income as is chargeable to tax in accordance with a particular paragraph.
 (12A) The Minister shall -
 (a) no later than 1st January 2023; and

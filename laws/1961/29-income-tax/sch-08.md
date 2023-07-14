@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 149A)
 Transitional Arrangements in AND RELATED TO 2008 for Basis of computation for Trade, profession or vocation
 1 Basis of computation in 2008 for existing trade, profession or vocation

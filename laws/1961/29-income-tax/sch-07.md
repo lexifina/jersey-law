@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 149A)
 Savings, transitional and Similar Provisions: general
 1 Income Tax (Amendment No. 23) (Jersey) Law 2004

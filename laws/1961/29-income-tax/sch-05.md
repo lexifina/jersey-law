@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 65B(4)(c))
 VALUATION OF BENEFIT
 1 Motor vehicles

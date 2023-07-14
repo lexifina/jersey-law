@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20230713>
+L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://www.jerseylaw.je/laws/current/l_29_1961_20231231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -333,11 +333,11 @@ L.29/1961 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 145 | [art-145.md](art-145.md) | 145 Delivery and service of notices and forms |
 | Art. 149A | [art-149-a.md](art-149-a.md) | 149A Savings and transitional provisions: general |
 | Art. 150 | [art-150.md](art-150.md) | 150 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE A1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 1 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 1A |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 2 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 3 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 3A |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 5 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 6 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule A1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 1 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 1A |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 2 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 3 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 3A |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 5 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 6 |

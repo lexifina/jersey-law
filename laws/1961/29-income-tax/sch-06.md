@@ -1,4 +1,4 @@
-# SCHEDULE 3A
+# Schedule 3A
 (Article 128A)
 Collection of Tax on Rental Income of Non-REsident Landlords
 1 Interpretation of Schedule 3A

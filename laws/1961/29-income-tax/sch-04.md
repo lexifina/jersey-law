@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 65B(2)(b))
 BENEFITS: EXEMPTIONS
 1 Pensions, insurance, etc.

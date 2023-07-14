@@ -1,4 +1,4 @@
-# SCHEDULE 1A
+# Schedule 1A
 (Article 49B)
 collection of long-term care contributions
 1 Collection of long-term care contributions: payments of instalments

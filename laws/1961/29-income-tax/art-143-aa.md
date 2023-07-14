@@ -5,3 +5,4 @@
 (b) to only some of those companies, based on -
 (i) the types of activities that the companies undertake,
 (ii) the proportion of the companies’ activities or profits that relate, or do not relate, to cannabis or its derivatives, or
+(iii) any other matter that the States considers relevant.

@@ -1,4 +1,4 @@
-# SCHEDULE A1
+# Schedule A1
 (Article 3(1))
 “Trading company” defined
 1 Interpretation of Schedule A1
