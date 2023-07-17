@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Rule 5/14)
 forms of summonses and records of service
 Form of summons to defend an action

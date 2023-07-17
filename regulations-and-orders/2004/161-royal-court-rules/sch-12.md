@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Rule 18/5(6))
 form of summons to lift a caveat
 To A.B. of …………………………………………………………………….(address)

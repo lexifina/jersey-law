@@ -1,4 +1,4 @@
-# SCHEDULE 6A
+# Schedule 6A
 (Rule 18/4A(3))
 FORM OF NOTIFICATION OF LEGAL HYPOTHEC
 I hereby confirm that1

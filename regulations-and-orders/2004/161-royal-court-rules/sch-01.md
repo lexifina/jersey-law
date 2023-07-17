@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Rule 1/1(1))
 Provisions of these Rules in which references to the court do not include references to the Greffier.
 Rule 6/3

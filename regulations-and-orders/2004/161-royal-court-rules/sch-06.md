@@ -1,4 +1,4 @@
-# SCHEDULE 4A
+# Schedule 4A
 (Rule 15/2(1)(c))
 FORM OF NOTICE OF APPEAL UNDER THE HIGH HEDGES (JERSEY) LAW 2008
 In the Royal Court of Jersey

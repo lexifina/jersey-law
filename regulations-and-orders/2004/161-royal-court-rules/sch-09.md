@@ -1,4 +1,4 @@
-# SCHEDULE 5A
+# Schedule 5A
 (Rule 17/3(4))
 CONTENT AND FORM OF GENDER RECOGNITION CERTIFICATES
 Form of full gender recognition certificate issued under Article 3(2)(a), 4 or 5 of the Gender Recognition (Jersey) Law 2010

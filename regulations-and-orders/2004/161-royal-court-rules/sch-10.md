@@ -1,1 +1,1 @@
-# SCHEDULE 6
+# Schedule 6
