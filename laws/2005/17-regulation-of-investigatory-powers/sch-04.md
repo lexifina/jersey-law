@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 46(10))
 THE TRIBUNAL
 1 Membership of tribunal

@@ -1,4 +1,4 @@
-# SCHEDULE 2A
+# Schedule 2A
 (Articles 42B(2), 42D(1)(a), 42G(2)(a), 46(9)(ca))
 PERSONS HAVING THE APPROPRIATE PERMISSION
 1 Interpretation

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 29)
 RElevant Public Authorities and Designated persons: communications data
 Relevant public authority

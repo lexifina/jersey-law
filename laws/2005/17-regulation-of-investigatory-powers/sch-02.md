@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 36)
 Public Authorities and designated persons: surveillance
 Part 1

@@ -1,6 +1,6 @@
 # Regulation of Investigatory Powers (Jersey) Law 2005
 
-L.17/2005 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_17_2005_20230716>
+L.17/2005 · official consolidation showing the law from 2023-07-17 · <https://www.jerseylaw.je/laws/current/l_17_2005_20230920>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ L.17/2005 · official consolidation showing the law from 2019-05-03 · <https://
 | Art. 57 | [art-057.md](art-057.md) | 57 General saving for lawful conduct |
 | Art. 58 | [art-058.md](art-058.md) | 58 Savings and transitional arrangements |
 | Art. 59 | [art-059.md](art-059.md) | 59 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 2A |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 2A |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 3 |
