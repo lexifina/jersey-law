@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230724>
+R&O.20/2008 · official consolidation showing the law from 2023-07-25 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230827>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,7 +9,6 @@ R&O.20/2008 · official consolidation showing the law from 2023-02-14 · <https:
 | Art. 3 | [art-003.md](art-003.md) | 3 Meaning of “customer due diligence measures” |
 | Art. 4 | [art-004.md](art-004.md) | 4 Meaning of “one-off transaction” |
 | Art. 5 | [art-005.md](art-005.md) | 5 Equivalent business |
-| Art. 6 | [art-006.md](art-006.md) | 6 Designated police and customs officers |
 | Art. 7 | [art-007.md](art-007.md) | 7 Compliance officer |
 | Art. 8 | [art-008.md](art-008.md) | 8 Reporting officer |
 | Art. 9 | [art-009.md](art-009.md) | 9 Designated persons |
@@ -42,4 +41,4 @@ R&O.20/2008 · official consolidation showing the law from 2023-02-14 · <https:
 | Art. 23B | [art-023-b.md](art-023-b.md) | 23B Anonymous accounts |
 | Art. 24 | [art-024.md](art-024.md) | 24 Citation and commencement |
 | Art. 24A | [art-024-a.md](art-024-a.md) | 24A Application to certain businesses |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
