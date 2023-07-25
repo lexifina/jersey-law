@@ -1,4 +1,4 @@
-# 34D Failure in a financial institution to report to designated police officer, designated customs officer or nominated officer
+# 34D Failure in a financial institution to report to the FIU or nominated officer
 (1) This Article applies where the conditions in both paragraph (2) and paragraph (3) are fulfilled.
 (2) The first condition is that a person (“A”) knows, suspects or has reasonable grounds for suspecting that -
 (a) another person is engaged in money laundering;
@@ -10,7 +10,7 @@
 (b) the information or other matter mentioned in paragraph (3),
 and if A does not make such a disclosure, A commits an offence.
 (4A) The conditions mentioned in paragraph (4) are that the disclosure is made -
-(a) to a designated police officer, a designated customs officer or a nominated officer;
+(a) to the FIU or a nominated officer;
 (b) in good faith; and
 (c) as soon as is practicable after the information or other matter comes to A.
 (5) A person does not commit an offence under this Article if -
@@ -29,7 +29,7 @@ and if A does not make such a disclosure, A commits an offence.
 (8) A disclosure to a nominated officer is a disclosure which -
 (a) is made to a person nominated by the employer of the person making the disclosure to receive disclosures under this Article; and
 (b) is made in the course of the discloser’s employment and in accordance with the procedure established by the employer for the purpose.
-(9) Where a person to whom paragraph (1) refers discloses in good faith to a designated police officer, designated customs officer or nominated officer -
+(9) Where a person to whom paragraph (1) refers discloses in good faith to the FIU or a nominated officer -
 (a) the person’s suspicion or belief that another person is engaged in money laundering; or
 (b) any information or other matter on which that suspicion or belief is based,
 the disclosure shall not be treated as a breach of any restriction imposed by statute, contract or otherwise.
