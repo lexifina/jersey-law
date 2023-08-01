@@ -1,6 +1,6 @@
 # Banking Business (General Provisions) (Jersey) Order 2002
 
-R&O.95/2002 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_95_2002_20230731>
+R&O.95/2002 · official consolidation showing the law from 2023-08-01 · <https://www.jerseylaw.je/laws/current/ro_95_2002_20260331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,7 +16,6 @@ R&O.95/2002 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 9 | [art-009.md](art-009.md) | 9 Application for registration |
 | Art. 11 | [art-011.md](art-011.md) | 11 Conditions of registration |
 | Art. 12 | [art-012.md](art-012.md) | 12 Control of advertising |
-| Art. 13 | [art-013.md](art-013.md) | 13 Circumstances in which matters are to be reported directly to Commission |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

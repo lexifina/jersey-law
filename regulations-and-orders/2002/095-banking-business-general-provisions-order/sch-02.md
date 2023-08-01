@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 12(3))
 Conditions applicable to a deposit advertisement
 1 General

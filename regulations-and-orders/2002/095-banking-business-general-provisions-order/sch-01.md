@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 8)
 Exempt persons
 1 The Channel Islands Co-operative Society Limited (the “Society”)
