@@ -1,9 +1,9 @@
-# SCHEDULE
+# Schedule
 (Article 48D)
 TRANSFER OF deposit-taking BUSINESS AND ANY OTHER BUSINESS
 1 Where it is proposed to carry out a scheme under which the whole or part of the deposit-taking business and any other business carried on, or to be carried on, in or from within Jersey by a person (the “transferor”) is to be transferred to another body whether incorporated or not (the “transferee”) the transferor or the transferee may apply to the Court for an order sanctioning the scheme.
 2 If such a scheme involves a compromise or arrangement the provisions of Articles 125 to 127 of the Companies (Jersey) Law 1991 shall have effect in the case of a company to which that Law applies as regards that compromise or arrangement, but without prejudice to the operation of the provisions of this Schedule in relation to the scheme.
-3 The Court shall not determine an application under this Schedule unless the application is accompanied by a report on the terms of the scheme by an independent auditor and the Court is satisfied that the requirements of paragraph 4 have been complied with.
+3 The Court shall not determine an application under this Schedule unless the application is accompanied by a report on the terms of the scheme by an independent auditor (where “auditor” has the same meaning as in Article 102(1) of the Companies (Jersey) Law 1991) and the Court is satisfied that the requirements of paragraph 4 have been complied with.
 4 Those requirements are -
 (a) that a notice has been published in the Jersey Gazette stating that the application has been made and giving the address of the offices at which, and the period for which, copies of the documents mentioned in sub-paragraph (d) will be available as required by that sub-paragraph;
 (b) except where the Court has otherwise directed, that a statement -

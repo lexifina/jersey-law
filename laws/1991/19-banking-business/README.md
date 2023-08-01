@@ -1,6 +1,6 @@
 # Banking Business (Jersey) Law 1991
 
-L.19/1991 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_19_1991_20230731>
+L.19/1991 · official consolidation showing the law from 2023-08-01 · <https://www.jerseylaw.je/laws/current/l_19_1991_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -37,8 +37,7 @@ L.19/1991 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 28 | [art-028.md](art-028.md) | 28 Investigations on behalf of the Commission |
 | Art. 30 | [art-030.md](art-030.md) | 30 Powers of entry in cases of suspected contraventions |
 | Art. 31 | [art-031.md](art-031.md) | 31 Obstruction of investigations |
-| Art. 32 | [art-032.md](art-032.md) | 32 Audited accounts to be open to inspection |
-| Art. 33 | [art-033.md](art-033.md) | 33 Notification in respect of auditors |
+| Art. 33 | [art-033.md](art-033.md) | 33 Power to make Orders relating to accounts and auditors |
 | Art. 34 | [art-034.md](art-034.md) | 34 Communication with Commission by auditors and approved professionals |
 | Art. 35 | [art-035.md](art-035.md) | 35 Repayment of unauthorized deposits |
 | Art. 36 | [art-036.md](art-036.md) | 36 Profits from unauthorized deposits |
@@ -67,4 +66,4 @@ L.19/1991 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 51 | [art-051.md](art-051.md) | 51 Regulations and Orders |
 | Art. 52 | [art-052.md](art-052.md) | 52 Criminal liability of officers; aiders and abettors, etc. |
 | Art. 53 | [art-053.md](art-053.md) | 53 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
