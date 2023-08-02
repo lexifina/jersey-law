@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 ONE-WAY TRAFFIC ROUTES
 Road

@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 6)
 ROADS CLOSED TO CHARS-A-BANC
 La Rue au Blancq

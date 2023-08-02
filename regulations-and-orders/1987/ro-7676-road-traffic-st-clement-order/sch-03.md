@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 4)
 PARKING DISCS
 La Grève d’Azette

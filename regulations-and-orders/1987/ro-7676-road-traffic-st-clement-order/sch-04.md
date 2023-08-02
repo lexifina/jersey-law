@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 5)
 ROADS CLOSED TO THROUGH TRAFFIC
 Road

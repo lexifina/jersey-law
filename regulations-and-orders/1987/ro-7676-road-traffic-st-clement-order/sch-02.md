@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 PROHIBITION OF WAITING
 The Avenue
@@ -85,17 +85,24 @@ south side, from a point 46 yards west of its junction with La Rue du Pontlietau
 south side, from a point 120 yards west of its junction with La Rue du Pontlietaut to a point 10 yards further west.
 La Rue de Samarès
 (a)
-both sides, between its junction with La Grande Route de la Côte and a point 15 yards north of the northern boundary of Sefton Close;
+both sides, from its junction with La Grande Route de la Côte to a point 15 yards north of the northern boundary of Sefton Close;
 (b)
-both sides, between its junction with La Rue du Maupertuis and the southern boundary of the property known as “Nirvana”;
+east side, from its junction with La Rue de la Croix to the southern boundary of a property known as “Nirvana”;
 (c)
-both sides from its junction with La Route de la Côte for 240 feet southwards towards Green Island slipway;
+both sides, from its junction with La Grande Route de la Côte for 80 yards southwards towards Green Island slipway;
 (d)
-east side, from a point 23 yards north of its junction with La Rue de la Croix to a point 20 yards further north.
+east side, from its junction with La Rue de la Croix to a point 58 yards further north;
+(e)
+west side, from its junction with La Rue du Maupertuis to a point 22 yards further south.
 La Rue du Hocq
 both sides, for its entire length.
 La Rue du Maupertuis
 both sides, from its junction with La Grande Route de la Côte to a point 60 yards east of the eastern entrance of Le Clos de la Mare.
+La Rue du Pontlietaut
+(a)
+east side, from its junction with La Rue de la Chapelle to a point 45 yards further north;
+(b)
+east side, from its northern junction with Le Clos du Rosiers to a point 44 yards further north.
 La Rue du Presbytère
 both sides, between its junction with La Grande Route de St. Clement and the northern boundary of the property known as “No. 8 Rectory Close”.
 La Rue Hamel

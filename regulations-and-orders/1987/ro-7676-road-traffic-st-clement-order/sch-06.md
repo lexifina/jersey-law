@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 3(4))
 prohibition of waiting by vehicles wider than 6 feet 6 inches
 La Grande Route De La Côte
