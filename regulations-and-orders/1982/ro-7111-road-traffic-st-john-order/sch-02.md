@@ -1,16 +1,17 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4)
 Part 1
 (Article 4(1))
 Prohibition of waiting
-Bonne Nuit Harbour Road
-East side (between the junction with Charrières de Bonne Nuit and Nouvelles Charrières and the junction with Bonne Nuit Harbour).
-Charrières de Bonne Nuit
-Both sides (from the entrance to the property known as “Idlerocks Hotel” to the junction with Nouvelles Charrières).
+Les Charrières de Bonne Nuit
+Both sides (from the entrance to the property known as “Bonne Nuit House” to the junction with Les Nouvelles Charrières de Bonne Nuit).
+South side (from a point 177 yards east of its junction with La Rue de la Lande to a point 160 yards further east).
+Both sides (from a point 377 yards east of its junction with La Rue de la Lande to its junction with Les Nouvelles Charrières de Bonne Nuit).
 Grande Route de St. Jean
 East side (from the northern boundary of the premises of Mauger’s Garage northwards for a distance of 90 yards).
-Nouvelles Charrières
-Both sides (from the junction with Charrières de Bonne Nuit to the property known as “Le Nid”).
+Les Nouvelles Charrières de Bonne Nuit
+Both sides (from the junction with Les Charrières de Bonne Nuit to the property known as “Le Nid”).
+West side (between its junction with Les Charrières de Bonne Nuit and its junction with Bonne Nuit Harbour.
 La Route du Mont Mado
 East side (from a point 10 yards north of its junction with La Rue des Issues to a point 100 yards further north).
 North side (from its junction with Rue de la Mare des Près to a point 135 yards further west).
