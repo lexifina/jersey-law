@@ -1,6 +1,6 @@
 # Proceeds of Crime (Provision of Information by Trustees) (Jersey) Order 2021
 
-R&O.125/2021 · official consolidation showing the law from 2021-10-08 · <https://www.jerseylaw.je/laws/current/ro_125_2021_20230816>
+R&O.125/2021 · official consolidation showing the law from 2023-08-17 · <https://www.jerseylaw.je/laws/current/ro_125_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
