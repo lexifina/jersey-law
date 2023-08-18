@@ -1,6 +1,6 @@
 # Endangered Species (CITES) (Jersey) Law 2012
 
-L.20/2012 · official consolidation showing the law from 2021-06-04 · <https://www.jerseylaw.je/laws/current/l_20_2012_20230817>
+L.20/2012 · official consolidation showing the law from 2023-08-18 · <https://www.jerseylaw.je/laws/current/l_20_2012_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -55,4 +55,4 @@ L.20/2012 · official consolidation showing the law from 2021-06-04 · <https://
 | Art. 48 | [art-048.md](art-048.md) | 48 Dealing with forfeited specimens |
 | Art. 49 | [art-049.md](art-049.md) | 49 Orders and Regulations |
 | Art. 50 | [art-050.md](art-050.md) | 50 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
