@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 2)
 EXCEPTIONS, ADAPTATIONS AND MODIFICATIONS TO PROVISIONS OF Regulation (EU) 2015/847 IN RESPECT OF ITS EFFECT IN JERSEY
 1. Except where otherwise provided in this Schedule, references in Regulation (EU) 2015/847 to “Member State” and “the Union” shall be read as if Jersey were itself a Member State, its territory were included within the Union territory and for the purposes of European Union law were a separate country from the United Kingdom.
@@ -14,6 +14,7 @@ EXCEPTIONS, ADAPTATIONS AND MODIFICATIONS TO PROVISIONS OF Regulation (EU) 2015/
 (a) in paragraph (1), for the words “means terrorist financing as defined in Article 1(5) of Directive (EU) 2015/849” there shall be substituted the words “means an offence referred to in Article 15 or 16 of the Terrorism (Jersey) Law 2002”;
 (b) in paragraph (2), for the words “means the money laundering activities referred to in Article 1(3) and (4) of Directive (EU) 2015/849” there shall be substituted the words “means money laundering as defined in Article 1(1) of the Proceeds of Crime (Jersey) Law 1999”;
 (c) paragraphs (3) and (4) shall be omitted;
+(ca) in paragraph (8) after “Article 4 of Directive 2007/64/EC” there is inserted “or virtual assets”;
 (d) after paragraph (12) there shall be inserted the following paragraphs -
 “(13) ‘British Islands’ means the United Kingdom, Jersey, Bailiwick of Guernsey and the Isle of Man;
 (14) ‘competent authority’ means the Jersey Financial Services Commission established by Article 2 of the Financial Services Commission (Jersey) Law 1998;
