@@ -1,6 +1,6 @@
 # Social Security (Health Bonus Scheme) (Jersey) Order 2016
 
-R&O.141/2016 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/ro_141_2016_20230831>
+R&O.141/2016 · official consolidation showing the law from 2023-09-01 · <https://www.jerseylaw.je/laws/current/ro_141_2016_20260329>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,4 +18,4 @@ R&O.141/2016 · official consolidation showing the law from 2020-01-01 · <https
 | Art. 12 | [art-012.md](art-012.md) | 12 Appeals and references |
 | Art. 13 | [art-013.md](art-013.md) | 13 Administrative expenses |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
