@@ -14,6 +14,16 @@
 (d) if the relevant business relationship relates to a high risk life insurance policy -
 (i) measures requiring the senior management to be informed before any payment is made under the policy or any right vested under the policy is exercised, and
 (ii) measures to consider whether to make a disclosure under Article 21(2).
+(2A) A relevant person may treat a domestic politically exposed person as not being a politically exposed person 2 years after the person ceases to be entrusted with a prominent public function if the relevant person is satisfied -
+(a) that, following a risk assessment, the person does not present a higher risk of money laundering; and
+(b) that there is no reason to continue to treat the person as a politically exposed person.
+(2B) A relevant person may treat a foreign politically exposed person as not being a politically exposed person 5 years after the person ceases to be entrusted with a prominent public function if the relevant person is satisfied -
+(a) that, following a risk assessment, the person does not present a higher risk of money laundering; and
+(b) that there is no reason to continue to treat the person as a politically exposed person.
+(2C) A relevant person may treat a prominent person as not being a politically exposed person 5 years after the person ceases to be entrusted with a prominent public function by an international organisation if the relevant person is satisfied -
+(a) that, following a risk assessment, the person does not present a higher risk of money laundering; and
+(b) that there is no reason to continue to treat the person as a politically exposed person.
+(2D) Paragraphs (2A) to (2C) apply to immediate family members or close associates of the politically exposed person in question as they do to that person.
 (3) In this Article -
 “close associate” of a person includes any person who is known to maintain a close business relationship with the person, including a person who is in a position to conduct substantial financial transactions on behalf of the person;
 “domestic politically exposed person” means a person who is an individual who is or has been entrusted with a prominent public function in Jersey including but not limited to -
@@ -37,6 +47,7 @@ and includes an immediate family member or a close associate of the person;
 (d) parents;
 (e) grandparents and grandchildren;
 (f) siblings;
-“prominent person” means a person who is an individual who is or has been entrusted with a prominent public function by an international organisation;
+“prominent person” means a person who is an individual who is or has been entrusted with a prominent public function by an international organisation, and includes an immediate family member or a close associate of the person;
+“prominent public function”, in relation to an international organisation, means a member of the senior management, including a director, deputy director, board member or other equivalent function;
 “source of the wealth” means the source generating the total net worth of funds of the politically exposed person, whether those funds are used in the business relationship or one-off transaction.
 (4) For the purpose of deciding whether a person is a close associate of a person, a relevant person need only have regard to information which is in that person’s possession or is publicly known.

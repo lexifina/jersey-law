@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2023-08-28 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20230831>
+R&O.20/2008 · official consolidation showing the law from 2023-09-01 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20240909>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,13 +16,13 @@ R&O.20/2008 · official consolidation showing the law from 2023-08-28 · <https:
 | Art. 10 | [art-010.md](art-010.md) | 10 Exemptions from Articles 7 and 8 |
 | Art. 10A | [art-010-a.md](art-010-a.md) | 10A Financial services business carried on outside Jersey |
 | Art. 11 | [art-011.md](art-011.md) | 11 Policies, procedures and training to prevent and detect money laundering |
-| Art. 11A | [art-011-a.md](art-011-a.md) | 11A Additional requirements for financial groups |
+| Art. 11A | [art-011-a.md](art-011-a.md) | 11A Additional requirements for financial groups and DNFBP groups |
 | Art. 12 | [art-012.md](art-012.md) | 12 Exception from Article 11 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Application and timing of customer due diligence measures |
 | Art. 14 | [art-014.md](art-014.md) | 14 Termination where customer due diligence measures are not completed |
 | Art. 15 | [art-015.md](art-015.md) | 15 Circumstances for applying enhanced customer due diligence measures |
 | Art. 15A | [art-015-a.md](art-015-a.md) | 15A Enhanced customer due diligence measures in relation to politically exposed persons |
-| Art. 15B | [art-015-b.md](art-015-b.md) | 15B Enhanced customer due diligence measures in relation to banking relationships outside Jersey |
+| Art. 15B | [art-015-b.md](art-015-b.md) | 15B Enhanced customer due diligence measures in relation to cross-border correspondent banking and other similar relatio |
 | Art. 16 | [art-016.md](art-016.md) | 16 Reliance on relevant person or person carrying on equivalent business |
 | Art. 16A | [art-016-a.md](art-016-a.md) | 16A Reliance on persons in same financial group as relevant person |
 | Art. 17 | [art-017.md](art-017.md) | 17 Interpretation of Part 3A |
