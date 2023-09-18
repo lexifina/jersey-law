@@ -25,7 +25,7 @@ Belarus
 The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019
 2019/600
 regulation 10
-A provision falling within paragraph A1(a) of Schedule 3 to this Order
+A provision falling within paragraph A1(1)(a) of Schedule 3 to this Order
 Bosnia and Herzegovina
 The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020
 2020/608
