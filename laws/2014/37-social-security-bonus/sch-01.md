@@ -50,13 +50,34 @@ where -
 C is calculated according to sub-paragraph (2); and
 T is the aggregate, up to a maximum of 540, of the amount by which the average daily temperature of each day in that month falls below 15.5 degrees Celsius.
 (2) C is -
-(a) for each cold weather month from October 2023 to April 2024 inclusive, £191.60 increased or decreased by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by Statistics Jersey (within the meaning assigned by Article 2 of the Statistics and Census (Jersey) Law 2018) for the 12 months ending in the previous June;
+(a) for each cold weather month from October 2024 to April 2025 inclusive, £193.37 increased or decreased by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by Statistics Jersey (within the meaning of Article 2 of the Statistics and Census (Jersey) Law 2018) for the 12 months ending on 30th June 2024;
 (b) for each subsequent cold weather month, the figure produced by increasing or decreasing the figure for the previous April by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by Statistics Jersey (within the meaning assigned by Article 2 of the Statistics and Census (Jersey) Law 2018) for the 12 months ending in the previous June.
 (3) The product of each formula in this paragraph shall be rounded up to the next whole penny.
 (4) Only one cold weather bonus is payable at any time in respect of a dwelling.
 (5) If a dwelling is occupied by 2 or more households entitled to a cold weather bonus, the cold weather bonus is divided equally between all the households entitled to it.
 (6) No cold weather bonus shall be payable where a dwelling is occupied by 2 or more households and one or more of those households receives, or has applied for and is entitled to receive, a cold weather payment under the Income Support (Special Payments) (Cold Weather Payments) (Jersey) Regulations 2008 in respect of that dwelling.
 4A
+4B Temporary modification of Schedule - October 2023 to end of April 2024
+(1) The Schedule must be read as modified by this paragraph from 1st October 2023 to the end of 30th April 2024.
+(2) In paragraph 1 (interpretation) -
+(a) in sub-paragraph (1), for the definition “cold weather bonus” there is substituted -
+“ “cold weather bonus” means a bonus payable to defray the expenses of heating a dwelling for any month from and including the months of October to March;”;
+(b) in sub-paragraph (1), for the definition “series of cold weather months” there is substituted -
+“ “series of cold weather months” means the months from October 2023 to the end of March 2024;”;
+(c) for sub-paragraph (2)(a) there is substituted -
+“(a) each of October, November and December 2023, and January, February and March 2024, is a “cold weather month”;”.
+(3) For the text of paragraph 2 (payment of cold weather bonus) there is substituted -
+“(1) The Minister must, for each cold weather month, pay the cold weather bonus specified in paragraph 4 -
+(a) on behalf of a household that qualifies for it under paragraph 3; and
+(b) to a member of that household who applies for it in accordance with paragraph 6.
+(2) A cold weather bonus that is payable for October, November or December 2023 must be paid on or after 1st January 2024.
+(3) A cold weather bonus that is payable for January, February or March 2024 must be paid on or after 1st April 2024.”.
+(4) For the text of paragraph 4 (amount of cold weather bonus) there is substituted -
+“(1) A cold weather bonus is £70.
+(2) Only one cold weather bonus is payable in respect of a dwelling for a particular month.
+(3) If a dwelling is occupied by 2 or more households entitled to a cold weather bonus, the cold weather bonus is divided equally between all the households entitled to it.
+(4) A cold weather bonus is not payable if a dwelling is occupied by 2 or more households and one or more of the households receives, or has applied for and is entitled to receive, a cold weather payment under the Income Support (Special Payments) (Cold Weather Payments) (Jersey) Regulations 2008 in respect of the dwelling.”.
+(5) This paragraph expires at the end of April 2024.
 5 Extinguishment of rights to cold weather bonus
 (1) The right to a payment of a cold weather bonus is extinguished where the payment of the cold weather bonus is not obtained within the period of 2 years from the date on which the right is to be treated as having arisen.
 (2) For the purpose of this paragraph the right is to be treated as having arisen -
