@@ -1,6 +1,6 @@
 # Domestic Abuse (Jersey) Law 2022
 
-L.27/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-27-2022.aspx>
+L.27/2022 Â· official consolidation showing the law from 2023-09-21 Â· <https://www.jerseylaw.je/laws/current/l_27_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,5 +22,4 @@ L.27/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-27
 | Art. 15 | [art-015.md](art-015.md) | 15 Police may disclose information |
 | Art. 16 | [art-016.md](art-016.md) | 16 Regulations |
 | Art. 17 | [art-017.md](art-017.md) | 17 Rules of Court |
-| Art. 18 | [art-018.md](art-018.md) | 18 Amendment of Criminal Procedure (Jersey) Law 2018 |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation and commencement |
