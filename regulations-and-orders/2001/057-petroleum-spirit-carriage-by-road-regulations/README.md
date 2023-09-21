@@ -1,6 +1,6 @@
 # Petroleum-Spirit (Carriage by Road) (Jersey) Regulations 2001
 
-R&O.57/2001 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_57_2001_20230920>
+R&O.57/2001 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_57_2001_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,8 +21,8 @@ R&O.57/2001 · official consolidation showing the law from 2021-03-02 · <https:
 | Reg. 14 | [reg-014.md](reg-014.md) | 14 Exemption certificates |
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Defence |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |

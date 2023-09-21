@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 5(13))
 Fee for approvals and surveillance inspections
 1. On the making of an application under Regulation 5 to the competent authority for the approval of a person as an approved person there shall be payable by the applicant in connection with the performance by or on behalf of the competent authority of its functions in relation to that application, a fee or fees to be determined in accordance with paragraphs 2 to 5.

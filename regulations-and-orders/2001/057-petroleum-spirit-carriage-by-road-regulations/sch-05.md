@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Regulation 9)
 UNLOADING OF PETROLEUM-SPIRIT AT PETROLEUM FILLING STATIONS AND CERTAIN OTHER PREMISES LICENSED FOR THE KEEPING OF PETROLEUM-SPIRIT
 PART I
@@ -273,9 +273,9 @@ Third Column
 Fourth Column
 Address of licensed premises
 Name of licensee
-Signature of person issuing licence on behalf of the Home Affairs Committee
+Signature of person issuing licence on behalf of the Minister
 Date of issue of Part 3 licence
-Note: A person duly authorized by the Minister for Home Affairs to act in the following behalf shall enter -
+Note: A person duly authorized by the Minister to act in the following behalf shall enter -
 (a) in the first column, the address of the premises to which the Part 3 licence applies;
 (b) in the second column, the name of the licensee of those premises;
 (c) in the third column, the person duly authorized’s signature; and

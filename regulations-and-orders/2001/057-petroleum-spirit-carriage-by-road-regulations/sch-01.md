@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 3)
 Disapplications to these Regulations
 1. These Regulations shall not apply to or in relation to the carriage of petroleum-spirit where -
