@@ -1,6 +1,6 @@
 # EU Legislation (Customs Union, Import and Export Control) (Jersey) Regulations 2018
 
-R&O.128/2018 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_128_2018_20230920>
+R&O.128/2018 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_128_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
