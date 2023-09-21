@@ -1,6 +1,6 @@
 # Firearms (Jersey) Law 2000
 
-L.9/2000 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_9_2000_20230920>
+L.9/2000 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_9_2000_20241017>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -66,4 +66,4 @@ L.9/2000 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 58 | [art-058.md](art-058.md) | 58 Application of fees |
 | Art. 59 | [art-059.md](art-059.md) | 59 Transitional and consequential etc. provisions |
 | Art. 60 | [art-060.md](art-060.md) | 60 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
