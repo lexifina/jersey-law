@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 392)
 LIABILITY OF AND REMEDIES AGAINST SERVICE PROVIDERS
 1 Interpretation of Schedule

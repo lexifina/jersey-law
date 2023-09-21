@@ -1,6 +1,6 @@
 # Intellectual Property (Unregistered Rights) (Jersey) Law 2011
 
-L.29/2011 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_29_2011_20230920>
+L.29/2011 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_29_2011_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -417,4 +417,4 @@ L.29/2011 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 408 | [art-408.md](art-408.md) | 408 Regulations: application, transitional provisions and savings |
 | Art. 409 | [art-409.md](art-409.md) | 409 Regulations and Orders: general provisions |
 | Art. 410 | [art-410.md](art-410.md) | 410 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
