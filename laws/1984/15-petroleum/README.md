@@ -1,6 +1,6 @@
 # Petroleum (Jersey) Law 1984
 
-L.15/1984 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_15_1984_20230920>
+L.15/1984 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_15_1984>
 
 | Provision | File | Heading |
 | --- | --- | --- |
