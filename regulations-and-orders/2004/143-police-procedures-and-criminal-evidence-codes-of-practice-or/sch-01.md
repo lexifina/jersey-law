@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 codes of PRACTICE
 CODE A
@@ -47,8 +47,8 @@ Searches authorised under Article 40 of the Terrorism (Jersey) Law 2002
 An authorisation under Article 40(1) may be combined with one under Article 40(2).
 3.16 If an authorisation is given orally at first, it must be confirmed in writing by the officer who gave it as soon as reasonably practicable.
 3.17 When giving an authorisation, the officer must specify the geographical area in which the power may be used, and the time and date that the authorisation ends (up to a maximum of 28 days from the time the authorisation was given). [See Notes 12 and 13]
-3.18 The officer giving an authorisation under Article 40(1) or (2) must cause the Minister for Home Affairs to be informed, as soon as reasonably practicable, that such an authorisation has been given. An authorisation which is not confirmed by the Minister for Home Affairs within 48 hours of its having been given, shall have effect up until the end of that 48 hour period or the end of the period specified in the authorisation (whichever is the earlier). [See Note 14]
-3.19 Following notification of the authorisation, the Minister for Home Affairs may -
+3.18 The officer giving an authorisation under Article 40(1) or (2) must cause the Minister for Justice and Home Affairs to be informed, as soon as reasonably practicable, that such an authorisation has been given. An authorisation which is not confirmed by the Minister for Justice and Home Affairs within 48 hours of its having been given, shall have effect up until the end of that 48 hour period or the end of the period specified in the authorisation (whichever is the earlier). [See Note 14]
+3.19 Following notification of the authorisation, the Minister for Justice and Home Affairs may -
 (i) cancel the authorisation with immediate effect or with effect from such other time as may be directed,
 (ii) confirm it, but for a shorter period than that specified in the authorisation, or
 (iii) confirm the authorisation as given.
@@ -104,7 +104,7 @@ Steps to be taken prior to a search
 5.8 The notice must include the name of the police station/Parish to which the officer concerned is attached and state where a copy of the record of the search may be obtained and where any application for compensation should be directed.
 5.9 The vehicle must if practicable be left secure.
 6 Monitoring and supervising the use of stop and search powers
-6.1 In order to promote public confidence in the use of powers, the States of Jersey Police, in consultation with the Minister for Home Affairs, will arrange for the publication of statistics generated from police forms as part of the Chief Officer’s annual report.
+6.1 In order to promote public confidence in the use of powers, the States of Jersey Police, in consultation with the Minister for Justice and Home Affairs, will arrange for the publication of statistics generated from police forms as part of the Chief Officer’s annual report.
 Notes for Guidance
 Officers exercising stop and search powers
 1 This Code does not affect the ability of an officer to speak to or question a person in the ordinary course of the officer’s duties (and in the absence of reasonable suspicion) without detaining the person or exercising any element of compulsion. It is not the purpose of the code to prohibit such encounters between the police and the community with the co-operation of the person concerned and neither does it affect the principle that all citizens have a duty to help police officers to prevent crime and discover offenders. This is a civic rather than a legal duty; but when a police officer is trying to discover whether, or by whom, an offence has been committed he or she may question any person from whom useful information might be obtained, subject to the restrictions imposed by Code C. A person’s unwillingness to reply does not alter this entitlement, but in the absence of a power to arrest, or to detain in order to search, the person is free to leave at will and cannot be compelled to remain with the officer.
@@ -124,7 +124,7 @@ Authorising officers
 14 Authorisations under Article 11 require a reasonable belief on the part of the authorising officer. This must have an objective basis, for example: intelligence or relevant information such as a history of antagonism and violence between particular groups; previous incidents of violence at, or connected with, particular events or locations; a significant increase in knife-point robberies in a limited area; reports that individuals are regularly carrying weapons in a particular locality.
 15 It is for the authorising officer to determine the period of time during which the powers mentioned in paragraph 3.1(b) and (c) may be exercised. The officer should set the minimum period he or she considers necessary to deal with the risk of violence, the carrying of knives or offensive weapons, or terrorism. A direction to extend the period authorised under the powers mentioned in paragraph 2.1(b) may be given only once. Thereafter further use of the powers requires a new authorisation. There is no provision to extend an authorisation of the powers mentioned in paragraph 3.1(c); further use of the powers requires a new authorisation.
 16 It is for the authorising officer to determine the geographical area in which the use of the powers is to be authorised. In doing so the officer may wish to take into account factors such as the nature and venue of the anticipated incident, the number of people who may be in the immediate area of any possible incident, their access to surrounding areas and the anticipated level of violence. The officer should not set a geographical area which is wider than that he or she believes necessary for the purpose of preventing anticipated violence, the carrying of knives or offensive weapons, acts of terrorism, or, in the case of Article 11, the prevention of commission of offences. It is particularly important to ensure that officers of the Force exercising such powers are fully aware of where they may be used. The officer giving the authorisation should specify the roads which form the boundary of the area.
-17 An officer who has authorised the use of powers under Article 40 of the Terrorism (Jersey) Law 2002 must take immediate steps to send a copy of the authorisation to the Minister for Home Affairs as soon as is reasonably practicable, but certainly within 48 hours of the authorisation being made.
+17 An officer who has authorised the use of powers under Article 40 of the Terrorism (Jersey) Law 2002 must take immediate steps to send a copy of the authorisation to the Minister for Justice and Home Affairs as soon as is reasonably practicable, but certainly within 48 hours of the authorisation being made.
 Recording
 18 Where a stop and search is conducted by more than one officer the identity of all the officers engaged in the search must be recorded on the record. Nothing prevents an officer who is present but not directly involved in searching from completing the record during the course of the encounter.
 19 Where a vehicle has not been allocated a registration number (e.g. a rally car or a trials motorbike) that part of the requirement under 5.3(iii) does not apply.
@@ -1230,7 +1230,7 @@ Action
 (i) the person has not been in police detention for the offence and has not had his or her fingerprints taken in the course of the investigation of that offence, or
 (ii) the fingerprints that were taken from the person in the course of the investigation of that offence do not constitute a complete set of his or her fingerprints or some or all of the fingerprints are not of sufficient quality to allow satisfactory analysis, comparison or matching; and
 (b) arrest without warrant a person who fails to comply with the requirement.
-4.5 A person’s fingerprints may be taken as above electronically. The Minister for Home Affairs may require the use of methods or devices approved by the Minister for that purpose.
+4.5 A person’s fingerprints may be taken as above electronically. The Minister for Justice and Home Affairs may require the use of methods or devices approved by the Minister for that purpose.
 4.6 Reasonable force may be used if necessary to take a person’s fingerprints without his or her consent under the powers mentioned in paragraph 4.3 and 4.4.
 4.7 Before any fingerprints are taken with or without consent as above, the person must be informed of the following -
 (a) the reason his or her fingerprints are to be taken;
@@ -1258,7 +1258,7 @@ Action
 4.14 Reasonable force may be used if necessary to take a person’s fingerprints without his or her consent under the powers mentioned in paragraph 4.11.
 4.15 Paragraphs 4.1 and 4.8 apply.
 Notes for Guidance
-4A References to relevant offences in this Code relate to those offences which have been specified by the Minister for Home Affairs.
+4A References to relevant offences in this Code relate to those offences which have been specified by the Minister for Justice and Home Affairs.
 4B Fingerprints or a DNA sample (and the information derived from it) taken from a person who has been arrested on suspicion of being involved in a relevant offence or has been charged with such an offence or has been informed that he or she will be reported for such an offence may be subject of a speculative search. This means that the fingerprints may be checked against other fingerprints and DNA records held by or on behalf of the police and other law enforcement authorities in the United Kingdom or outside the United Kingdom or held in connection with or as a result of an investigation of an offence inside and outside the United Kingdom. Fingerprints and samples taken from any other person, for example a person suspected of committing a relevant offence but who has not been arrested, charged or informed that he or she will be reported for it, may be subject to a speculative search only if the person consents in writing to his or her fingerprints being subject of such a search (although they may be). The following is an example of a basic form of words;
 "I consent to my [fingerprints] [and] [DNA sample and information derived from it] being retained and used only for purposes related to the prevention and detection of a crime, the investigation of an offence or the conduct of a prosecution either nationally or internationally.
 I understand that this sample may be checked against other [fingerprint] [and] DNA records held by or on behalf of relevant law enforcement authorities, either nationally or internationally.
@@ -1616,7 +1616,7 @@ Notes for Guidance
 5.1 The interviewing officer shall make a note in his or her notebook of the fact that the interview has taken place and was audibly recorded, its time, duration and date and the identification number of the master recording.
 5.2 Where no proceedings follow in respect of the person whose interview was recorded, the recording media must nevertheless be kept securely in accordance with paragraph 6.1 and Note 6A.
 Note for Guidance
-5A Any written record of an audibly recorded interview shall be made in accordance with guidelines approved by the Minister for Home Affairs.
+5A Any written record of an audibly recorded interview shall be made in accordance with guidelines approved by the Minister for Justice and Home Affairs.
 6 Media security
 6.1 The officer in charge of each police station at which interviews with suspects are recorded shall make arrangements for master recordings to be kept securely and their movements accounted for on the same basis as other material which may be used for evidential purposes, in accordance with force standing orders. [See Note 6A]
 6.2 A police officer has no authority to break the seal on a master recording which is required for criminal proceedings. If it is necessary to gain access to the master recording, the police officer shall arrange for its seal to be broken in the presence of a representative of the Law Officers. The defendant or his or her legal representative shall be informed and given a reasonable opportunity to be present. If the defendant or his or her legal representative is present he or she shall be invited to reseal and sign the master recording. If either refuses or neither is present this shall be done by the representative of the Law Officers. [See Notes 6B and 6C]
@@ -1697,7 +1697,7 @@ Notes for Guidance
 Request for a sample
 2.1 The legislation requires that the request for a sample be made by a police officer and that before requesting a sample, an officer must warn the detainee that if he or she fails without good cause to provide a sample when requested to do so, the detainee could be liable to prosecution. Where an Inspector has authorised the taking of a sample, the officer must inform the detainee of that fact and the grounds for the authorisation.
 2.2 Where an officer of the rank of Inspector or above gives authorisation it may be orally or in writing. If it is given orally it must be confirmed in writing as soon as is practicable.
-2.3 A sample may only be taken under the Police Procedures and Criminal Evidence (Jersey) Law 2003 by a person specified by the Minister for Home Affairs.
+2.3 A sample may only be taken under the Police Procedures and Criminal Evidence (Jersey) Law 2003 by a person specified by the Minister for Justice and Home Affairs.
 Appropriate Adult
 2.4 While persons under the age of 18 years may not be tested for drugs there is no specific restriction on tests being undertaken in the case of persons who are mentally disordered, or mentally vulnerable. In circumstances where an appropriate adult is required at the police station during the interviewing or charging process, he or she should be asked to remain with the detainee throughout the drug testing procedure as well. In most cases, this procedure should be completed in less than half an hour. The role of the appropriate adult is to assist and advise the detainee. In the event that the appropriate adult advises the detainee not to consent to the provision of a sample for analysis, the detainee will still commit the offence of failure to provide.
 Medication
@@ -1811,7 +1811,7 @@ Notes for Guidance
 5.1 The interviewer shall make a note in his or her pocket book of the fact that the interview has taken place and has been recorded, its time, duration and date and the identification number of the master copy of the recording media.
 5.2 Where no proceedings follow in respect of the person whose interview was recorded, the recording media must nevertheless be kept securely in accordance with paragraph 6.1 and Note 6A.
 Note for Guidance
-5A Any written record of a recorded interview shall be made in accordance with guidelines approved by the Minister for Home Affairs.
+5A Any written record of a recorded interview shall be made in accordance with guidelines approved by the Minister for Justice and Home Affairs.
 6 Master Copy Security
 General
 6.1 The officer in charge of the police station at which interviews with suspects are recorded shall make arrangements for the master copies to be kept securely and their movements accounted for on the same basis as other material which may be used for evidential purposes, in accordance with Force standing orders. [See Note 6A].
