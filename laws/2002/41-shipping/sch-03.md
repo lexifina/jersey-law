@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 116)
 International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea
 TEXT OF CONVENTION

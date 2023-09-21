@@ -1,6 +1,6 @@
 # Shipping (Jersey) Law 2002
 
-L.41/2002 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_41_2002_20230920>
+L.41/2002 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_41_2002_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -208,12 +208,12 @@ L.41/2002 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 200 | [art-200.md](art-200.md) | 200 Lighthouses |
 | Art. 201 | [art-201.md](art-201.md) | 201 Repeals, consequential amendments, transitional and savings provisions |
 | Art. 202 | [art-202.md](art-202.md) | 202 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 3 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 4 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 5 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 6 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 7 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 8 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 9 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 10 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 3 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 4 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 5 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 6 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 7 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 8 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 9 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 10 |

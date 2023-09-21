@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 19(1))
 Private law provisions for registered ships
 Definitions

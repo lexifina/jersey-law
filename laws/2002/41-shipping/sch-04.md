@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 118)
 Convention Relating to the Carriage of Passengers and their Luggage by Sea
 PART 1

@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Article 200)
 Lighthouses
 1 Interpretation

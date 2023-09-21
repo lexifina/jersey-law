@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 119)
 Convention on Limitation of Liability for Maritime Claims 1976
 PART 1

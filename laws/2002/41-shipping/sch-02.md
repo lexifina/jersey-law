@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 52(2))
 Orders relating to submersible and supporting apparatus
 Interpretation

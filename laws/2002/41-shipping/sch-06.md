@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Articles 128 and 129)
 International Convention on Salvage 1989
 PART 1
