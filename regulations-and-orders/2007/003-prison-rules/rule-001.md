@@ -16,7 +16,7 @@ and includes a person committed to prison for contempt of court;
 “legal adviser” means an advocate or solicitor or a person employed as a clerk by an advocate or solicitor and acting on that person’s behalf;
 “letter” includes a packet;
 “Medical Officer” means the person appointed as such under Article 7 of the Law;
-“Minister” means the Minister for Home Affairs;
+“Minister” means the Minister for Justice and Home Affairs;
 “Monitoring Board” means the Independent Prison Monitoring Board;
 “officer”, without more, means a prison officer;
 “officer of the Impôts” shall be construed in accordance with Article 4 of the Customs and Excise (Jersey) Law 1999;

@@ -1,6 +1,6 @@
 # Prison (Jersey) Rules 2007
 
-R&O.3/2007 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20230920>
+R&O.3/2007 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_3_2007_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -122,4 +122,4 @@ R&O.3/2007 · official consolidation showing the law from 2021-10-01 · <https:/
 | Rule 111 | [rule-111.md](rule-111.md) | 111 Communications to the press and others |
 | Rule 112 | [rule-112.md](rule-112.md) | 112 Code of conduct |
 | Rule 113 | [rule-113.md](rule-113.md) | 113 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

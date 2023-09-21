@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Rule 80)
 BREACHES OF DISCIPLINE
 Part 1
