@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 24)
 consTitution and procedures of Youth Court
 1 Appointment of members of Youth Court

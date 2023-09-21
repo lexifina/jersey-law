@@ -1,6 +1,6 @@
 # Criminal Justice (Young Offenders) (Jersey) Law 2014
 
-L.27/2014 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_27_2014_20230920>
+L.27/2014 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_27_2014_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ L.27/2014 · official consolidation showing the law from 2021-10-01 · <https://
 | Art. 10 | [art-010.md](art-010.md) | 10 Power of Governor to move young adults and young persons in certain circumstances |
 | Art. 11 | [art-011.md](art-011.md) | 11 Attendance at court of parents of child or young person brought before court |
 | Art. 12 | [art-012.md](art-012.md) | 12 Power to order parent or guardian to pay fine, etc. |
+| Art. 14 | [art-014.md](art-014.md) | 14 Determination of age |
 | Art. 15 | [art-015.md](art-015.md) | 15 Saving with regard to court proceedings involving children |
 | Art. 16 | [art-016.md](art-016.md) | 16 Remand of children, young persons and young adults |
 | Art. 17 | [art-017.md](art-017.md) | 17 Placement Panel for children and young persons |
@@ -30,10 +31,11 @@ L.27/2014 · official consolidation showing the law from 2021-10-01 · <https://
 | Art. 24 | [art-024.md](art-024.md) | 24 Youth Court |
 | Art. 25 | [art-025.md](art-025.md) | 25 Persons to whom this Part applies |
 | Art. 26 | [art-026.md](art-026.md) | 26 Jurisdiction of Youth Court |
+| Art. 27 | [art-027.md](art-027.md) | 27 Procedure in Youth Court |
 | Art. 28 | [art-028.md](art-028.md) | 28 Miscellaneous provisions as to powers of Youth Court |
 | Art. 29 | [art-029.md](art-029.md) | 29 Appeals from Youth Court |
 | Art. 30 | [art-030.md](art-030.md) | 30 Repeal of the Criminal Justice (Young Offenders) (Jersey) Law 1994 |
 | Art. 31 | [art-031.md](art-031.md) | 31 Regulations and Orders - general provisions |
 | Art. 32 | [art-032.md](art-032.md) | 32 Consequential amendments to enactments and transitional provisions |
 | Art. 33 | [art-033.md](art-033.md) | 33 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
