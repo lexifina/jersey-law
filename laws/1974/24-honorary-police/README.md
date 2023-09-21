@@ -1,6 +1,6 @@
 # Honorary Police (Jersey) Law 1974
 
-L.24/1974 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_24_1974_20230920>
+L.24/1974 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_24_1974_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,5 +16,5 @@ L.24/1974 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 23 | [art-023.md](art-023.md) | 23 Impersonation etc. of police officer |
 | Art. 24 | [art-024.md](art-024.md) | 24 Wasting Honorary Police time |
 | Art. 30 | [art-030.md](art-030.md) | 30 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
