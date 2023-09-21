@@ -1,6 +1,6 @@
 # Police (Complaints and Discipline) (Jersey) Law 1999
 
-L.4/1999 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_4_1999_20230920>
+L.4/1999 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_4_1999>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -38,4 +38,4 @@ L.4/1999 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 31 | [art-031.md](art-031.md) | 31 Restrictions on subsequent proceedings |
 | Art. 32 | [art-032.md](art-032.md) | 32 Police Force (Jersey) Law 1974: saving |
 | Art. 33 | [art-033.md](art-033.md) | 33 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2(2))
 THE JERSEY POLICE COMPLAINTS AUTHORITY
 1 Constitution of the Authority
