@@ -1,6 +1,6 @@
 # Fire and Rescue Service (Jersey) Law 2011
 
-L.26/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_26_2011_20230920>
+L.26/2011 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_26_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
