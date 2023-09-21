@@ -1,6 +1,6 @@
 # Immigration (Hotel Records) (Jersey) Order 1999
 
-R&O.9354 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9354_20230920>
+R&O.9354 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_9354>
 
 | Provision | File | Heading |
 | --- | --- | --- |
