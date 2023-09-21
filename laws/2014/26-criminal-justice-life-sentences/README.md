@@ -1,6 +1,6 @@
 # Criminal Justice (Life Sentences) (Jersey) Law 2014
 
-L.26/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_26_2014_20230920>
+L.26/2014 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_26_2014_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
