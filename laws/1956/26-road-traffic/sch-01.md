@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 14)
 Motoring offences in respect of which disqualification or endorsement may be ordered
 A.

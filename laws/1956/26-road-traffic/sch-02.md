@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 21)
 Limits of Speed
 CLASS OR DESCRIPTION OF VEHICLE

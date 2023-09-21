@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_26_1956_20230920>
+L.26/1956 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_26_1956_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -110,6 +110,6 @@ L.26/1956 · official consolidation showing the law from 2022-08-12 · <https://
 | Art. 91 | [art-091.md](art-091.md) | 91 Financial provisions |
 | Art. 92 | [art-092.md](art-092.md) | 92 Power of States to make Regulations |
 | Art. 93 | [art-093.md](art-093.md) | 93 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
