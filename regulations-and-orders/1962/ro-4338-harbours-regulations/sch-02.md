@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 43)
 Tanker check list
 A. Vessel Identification

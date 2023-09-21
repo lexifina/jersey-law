@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulations 4, 5 and 6)
 policy guidelines To be followed by HARBOUR AUTHORITY
 1 Application
