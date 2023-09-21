@@ -1,6 +1,6 @@
 # Extradition (Jersey) Law 2004
 
-L.24/2004 · official consolidation showing the law from 2022-04-01 · <https://www.jerseylaw.je/laws/current/l_24_2004_20230920>
+L.24/2004 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_24_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -136,5 +136,5 @@ L.24/2004 · official consolidation showing the law from 2022-04-01 · <https://
 | Art. 120 | [art-120.md](art-120.md) | 120 Subordinate legislation |
 | Art. 121 | [art-121.md](art-121.md) | 121 Implementation of international obligations |
 | Art. 122 | [art-122.md](art-122.md) | 122 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

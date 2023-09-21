@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 73(2))
 RE-EXTRADITION PROCEEDINGS
 1 General provisions as to re-extradition hearing

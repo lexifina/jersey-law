@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 6(1))
 DESIGNATED TERRITORIES
 Part 1
