@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Jersey) Regulations 1967
 
-R&O.5010 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_5010_20230920>
+R&O.5010 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_5010_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
