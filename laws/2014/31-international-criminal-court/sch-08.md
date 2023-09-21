@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Article 48(6))
 OFFENCES AGAINST THE ICC: ARTICLE 70.1 of the Icc statute
 “Article 70

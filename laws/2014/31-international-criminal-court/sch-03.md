@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 24(3))
 RIGHTS OF PERSONS DURING INVESTIGATION: ARTICLE 55
 Article 55 of the ICC Statute

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(3))
 SUPPLEMENTARY PROVISIONS RELATING TO THE ICC
 1 Legal capacity, privileges and immunities

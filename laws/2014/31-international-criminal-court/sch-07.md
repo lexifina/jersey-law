@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 44(6))
 GENOCIDE, CRIMES AGAINST HUMANITY AND WAR CRIMES: ARTICLES 6 TO 9 of the ICC Statute
 “Article 6

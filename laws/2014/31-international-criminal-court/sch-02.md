@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 21)
 DELIVERY UP OF PERSONS SUBJECT TO CRIMINAL PROCEEDINGS, ETC.
 PART 1
@@ -27,7 +27,7 @@ In this Part “criminal proceedings” means proceedings before a court in Jers
 that person shall continue to be liable to complete any term of custody to which he or she had been sentenced by a court in Jersey, but there shall be counted towards the completion of that term any time during which he or she is in the custody of the ICC or of any state.
 (2) Where in pursuance of Part 2 of this Law a court orders the discharge of a person who is a prisoner, the discharge is without prejudice to the liability of that person to complete any term of custody to which that person has been sentenced by a court in Jersey.
 (3) A prisoner to an order referred to in paragraph (2) relates and whose sentence has not expired shall be transferred in custody to the place where he or she is liable to be detained under the sentence to which he or she is subject.
-(4) Where in pursuance of Part 2 of this Law a delivery order is made in respect of a person who is a prisoner, the order may include provision authorizing the return of the prisoner into the custody of the Minister for Home Affairs -
+(4) Where in pursuance of Part 2 of this Law a delivery order is made in respect of a person who is a prisoner, the order may include provision authorizing the return of the prisoner into the custody of the Minister -
 (a) in accordance with arrangements made by the Minister with the ICC; or
 (b) in the case of a prisoner taken to a place where he or she is to undergo imprisonment under a sentence of the ICC, in accordance with arrangements made by the Minister with the state where that place is situated,
 and for the transfer of the prisoner in custody to the institution where the prisoner is liable to be detained under the sentence of the court in Jersey to which he or she is subject.

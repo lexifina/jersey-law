@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 30)
 TAKING OF FINGERPRINTS OR NON-INTIMATE SAMPLES
 1 Nomination of court to supervise taking of evidence

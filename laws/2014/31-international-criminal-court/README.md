@@ -1,6 +1,6 @@
 # International Criminal Court (Jersey) Law 2014
 
-L.31/2014 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_31_2014_20230920>
+L.31/2014 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_31_2014_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -63,11 +63,11 @@ L.31/2014 · official consolidation showing the law from 2021-10-01 · <https://
 | Art. 56 | [art-056.md](art-056.md) | 56 References to United Kingdom Ministers |
 | Art. 57 | [art-057.md](art-057.md) | 57 Subordinate legislation |
 | Art. 58 | [art-058.md](art-058.md) | 58 Short title |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
