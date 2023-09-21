@@ -1,6 +1,6 @@
 # Fire Precautions (Jersey) Law 1977
 
-L.8/1977 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_8_1977_20230920>
+L.8/1977 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_8_1977>
 
 | Provision | File | Heading |
 | --- | --- | --- |
