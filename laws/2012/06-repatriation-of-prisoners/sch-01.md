@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 4(5))
 OPERATION OF CERTAIN ENACTMENTS IN RELATION TO THE PRISONER
 1 Application of Schedule
