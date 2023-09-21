@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 DIPPED-BEAM HEADLAMPS
 (Articles 19 and 21)
 PART 1

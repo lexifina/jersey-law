@@ -1,4 +1,4 @@
-# SCHEDULE 18
+# Schedule 18
 (Articles 19 and 21)
 REAR RETRO REFLECTORS
 PART 1

@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Articles 19 and 21)
 MAIN-BEAM HEADLAMPS
 PART 1

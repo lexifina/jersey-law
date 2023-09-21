@@ -1,4 +1,4 @@
-# SCHEDULE 12
+# Schedule 12
 (Articles 19 and 21)
 STOP LAMPS
 PART 1

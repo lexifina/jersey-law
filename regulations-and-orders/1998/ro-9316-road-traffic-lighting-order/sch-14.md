@@ -1,4 +1,4 @@
-# SCHEDULE 14
+# Schedule 14
 (Article 21)
 OPTIONAL REVERSING LAMPS
 1.

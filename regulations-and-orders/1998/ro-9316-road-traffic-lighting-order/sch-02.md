@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 19 and 21)
 FRONT POSITION LAMPS
 PART 1

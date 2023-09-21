@@ -1,4 +1,4 @@
-# SCHEDULE 17
+# Schedule 17
 (Articles 19 and 21)
 SIDE RETRO REFLECTORS
 PART 1

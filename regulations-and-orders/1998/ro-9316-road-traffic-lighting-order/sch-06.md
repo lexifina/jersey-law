@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 21)
 OPTIONAL FRONT FOG LAMPS
 1.

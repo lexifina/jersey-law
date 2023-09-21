@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Articles 19, 21 and 23)
 SIDE MARKER LAMPS
 PART 1

@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Articles 19 and 21)
 DIM-DIP DEVICES AND RUNNING LAMPS
 PART 1

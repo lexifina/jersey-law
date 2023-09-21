@@ -1,6 +1,6 @@
 # Road Traffic (Lighting) (Jersey) Order 1998
 
-R&O.9316 · official consolidation showing the law from 2021-05-17 · <https://www.jerseylaw.je/laws/current/ro_9316_20230920>
+R&O.9316 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_9316_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,26 +36,26 @@ R&O.9316 · official consolidation showing the law from 2021-05-17 · <https://w
 | Art. 29 | [art-029.md](art-029.md) | 29 Testing and inspection of lighting equipment and reflectors |
 | Art. 30 | [art-030.md](art-030.md) | 30 Transitional provisions |
 | Art. 31 | [art-031.md](art-031.md) | 31 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 9 |
-| Schedule 10 | [sch-10.md](sch-10.md) | SCHEDULE 10 |
-| Schedule 11 | [sch-11.md](sch-11.md) | SCHEDULE 11 |
-| Schedule 12 | [sch-12.md](sch-12.md) | SCHEDULE 12 |
-| Schedule 13 | [sch-13.md](sch-13.md) | SCHEDULE 13 |
-| Schedule 14 | [sch-14.md](sch-14.md) | SCHEDULE 14 |
-| Schedule 15 | [sch-15.md](sch-15.md) | SCHEDULE 15 |
-| Schedule 16 | [sch-16.md](sch-16.md) | SCHEDULE 16 |
-| Schedule 17 | [sch-17.md](sch-17.md) | SCHEDULE 17 |
-| Schedule 18 | [sch-18.md](sch-18.md) | SCHEDULE 18 |
-| Schedule 19 | [sch-19.md](sch-19.md) | SCHEDULE 19 |
-| Schedule 20 | [sch-20.md](sch-20.md) | SCHEDULE 20 |
-| Schedule 21 | [sch-21.md](sch-21.md) | SCHEDULE 21 |
-| Schedule 22 | [sch-22.md](sch-22.md) | SCHEDULE 22 |
-| Schedule 23 | [sch-23.md](sch-23.md) | SCHEDULE 23 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |
+| Schedule 11 | [sch-11.md](sch-11.md) | Schedule 11 |
+| Schedule 12 | [sch-12.md](sch-12.md) | Schedule 12 |
+| Schedule 13 | [sch-13.md](sch-13.md) | Schedule 13 |
+| Schedule 14 | [sch-14.md](sch-14.md) | Schedule 14 |
+| Schedule 15 | [sch-15.md](sch-15.md) | Schedule 15 |
+| Schedule 16 | [sch-16.md](sch-16.md) | Schedule 16 |
+| Schedule 17 | [sch-17.md](sch-17.md) | Schedule 17 |
+| Schedule 18 | [sch-18.md](sch-18.md) | Schedule 18 |
+| Schedule 19 | [sch-19.md](sch-19.md) | Schedule 19 |
+| Schedule 20 | [sch-20.md](sch-20.md) | Schedule 20 |
+| Schedule 21 | [sch-21.md](sch-21.md) | Schedule 21 |
+| Schedule 22 | [sch-22.md](sch-22.md) | Schedule 22 |
+| Schedule 23 | [sch-23.md](sch-23.md) | Schedule 23 |

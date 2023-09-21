@@ -1,4 +1,4 @@
-# SCHEDULE 20
+# Schedule 20
 (Articles 19 and 21)
 PEDAL RETRO REFLECTORS
 PART 1

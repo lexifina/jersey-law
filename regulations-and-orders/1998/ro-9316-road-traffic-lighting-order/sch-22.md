@@ -1,3 +1,3 @@
-# SCHEDULE 22
+# Schedule 22
 (Articles 1 and 18)
 PRESCRIBED SIGN

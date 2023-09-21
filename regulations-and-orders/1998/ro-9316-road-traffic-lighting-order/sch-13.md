@@ -1,4 +1,4 @@
-# SCHEDULE 13
+# Schedule 13
 (Articles 19 and 21)
 END-OUTLINE MARKER LAMPS
 PART 1

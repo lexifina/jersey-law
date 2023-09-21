@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Articles 19 and 21)
 OBLIGATORY AND OPTIONAL HAZARD WARNING SIGNAL DEVICES
 Every hazard warning signal device shall -

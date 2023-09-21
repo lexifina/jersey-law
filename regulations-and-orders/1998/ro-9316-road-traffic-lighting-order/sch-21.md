@@ -1,4 +1,4 @@
-# SCHEDULE 21
+# Schedule 21
 (Articles 19 and 21)
 FRONT RETRO REFLECTORS
 PART 1

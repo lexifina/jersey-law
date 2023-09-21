@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Articles 19 and 21)
 DIRECTION INDICATORS
 PART 1

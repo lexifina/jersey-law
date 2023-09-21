@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Articles 19 and 21)
 REAR FOG LAMPS
 PART 1

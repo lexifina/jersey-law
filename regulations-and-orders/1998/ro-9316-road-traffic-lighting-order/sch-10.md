@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Articles 19 and 21)
 REAR POSITION LAMPS
 PART 1
