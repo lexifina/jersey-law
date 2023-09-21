@@ -1,6 +1,6 @@
 # Emergency Powers and Planning (Jersey) Law 1990
 
-L.12/1990 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_12_1990_20230920>
+L.12/1990 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_12_1990_20231123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
