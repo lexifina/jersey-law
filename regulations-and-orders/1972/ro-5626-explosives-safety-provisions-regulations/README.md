@@ -1,6 +1,6 @@
 # Explosives (Safety Provisions) (Jersey) Regulations 1972
 
-R&O.5626 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5626_20230920>
+R&O.5626 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_5626>
 
 | Provision | File | Heading |
 | --- | --- | --- |
