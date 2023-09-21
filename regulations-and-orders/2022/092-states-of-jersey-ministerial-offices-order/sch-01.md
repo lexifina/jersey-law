@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 UK EXTENDED LEGISLATION - CONSTRUING REFERENCES TO COMMITTEES AND MINISTERS
 1 Aviation Security (Jersey) Order 1993 construed
