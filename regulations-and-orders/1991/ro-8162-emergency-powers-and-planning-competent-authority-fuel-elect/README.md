@@ -1,6 +1,6 @@
 # Emergency Powers and Planning (Competent Authority) (Fuel, Electricity and Gas) (Jersey) Act 1991
 
-R&O.8162 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8162_20230920>
+R&O.8162 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_8162>
 
 | Provision | File | Heading |
 | --- | --- | --- |
