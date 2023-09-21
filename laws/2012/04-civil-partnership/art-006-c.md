@@ -6,3 +6,4 @@
 (c) satisfying himself or herself whether any other ground exists for not issuing a notice of intended civil partnership.
 (3) The Superintendent Registrar may -
 (a) reject any information or evidence provided under Article 6B and this Article if he or she has reasonable grounds for suspecting that information or evidence is false; and
+(b) proceed under this Law as if that rejected information or evidence had not been provided.

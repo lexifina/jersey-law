@@ -1,6 +1,6 @@
 # Civil Partnership (Jersey) Law 2012
 
-L.4/2012 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_4_2012_20230920>
+L.4/2012 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_4_2012_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |

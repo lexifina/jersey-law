@@ -19,3 +19,4 @@
 (d) the timescales that apply or may be disapplied for making applications, giving notice, issuing declarations, schedules or certificates or searches in relation to a civil partnership in special circumstances;
 (e) the requirements for providing original documents and attending the office of the Superintendent Registrar;
 (f) the time and location for the solemnization of a civil partnership; and
+(g) the requirements for annotating any applications, notice, register or other document in consequence of any civil partnership being solemnized in special circumstances.
