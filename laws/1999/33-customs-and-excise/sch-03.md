@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 FORFEITURE
 (Article 55)
 1 Notice of seizure

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 EXCISE DUTIES
 PART 1
 (Article 2)

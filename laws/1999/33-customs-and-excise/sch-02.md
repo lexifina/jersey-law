@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 OATHS OF OFFICE
 (Article 4)
 Form of Oath to be taken by the Agent of the Impôts and all Deputy Agents of the Impôts
