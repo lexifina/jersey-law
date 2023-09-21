@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Articles 26(9) and 27(9))
 designated persons: complaints, discipline and conduct matters
 1 Interpretation of this Schedule

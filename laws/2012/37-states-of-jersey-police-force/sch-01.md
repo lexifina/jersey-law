@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 32)
 TRansitional provisions
 1 Chief Officer and Deputy Chief Officer

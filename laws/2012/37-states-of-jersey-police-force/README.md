@@ -1,6 +1,6 @@
 # States of Jersey Police Force Law 2012
 
-L.37/2012 · official consolidation showing the law from 2021-07-30 · <https://www.jerseylaw.je/laws/current/l_37_2012_20230920>
+L.37/2012 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_37_2012_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -45,6 +45,6 @@ L.37/2012 · official consolidation showing the law from 2021-07-30 · <https://
 | Art. 32 | [art-032.md](art-032.md) | 32 Transitional provisions |
 | Art. 33 | [art-033.md](art-033.md) | 33 Regulations and Orders |
 | Art. 34 | [art-034.md](art-034.md) | 34 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

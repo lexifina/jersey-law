@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 26(5) and 27(6))
 police powers and duties of designated persons
 1 Interpretation of this Schedule
