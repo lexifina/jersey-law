@@ -15,3 +15,4 @@
 (5) On receipt of notification under paragraph (4)(b), the Superintendent Registrar must determine whether the decision under paragraph (4) should be confirmed or not, and in doing so must have regard to the interests mentioned in paragraph (3)(a) and(b).
 (6) The Superintendent Registrar must notify the registrar and the applicant of a determination under paragraph (5).
 (7) If the Superintendent Registrar makes a decision under paragraph (2)(a) or confirms the decision of the registrar under paragraph (4)(a), the applicant may appeal against the decision to the Minister, who must determine the appeal having regard to the interests referred to in paragraph (3).
+(8) This Article has effect despite Articles 51, 52, 54, 55, 56, 57, 58 and 59A.

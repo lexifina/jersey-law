@@ -5,3 +5,4 @@
 (b) wishes those duties to cease to be performed, in respect of the parish, from the expiry of the time specified in the notice, by a parish registrar and thereafter to be performed by the Superintendent Registrar.
 (3) Where notice is given under paragraph (2), the Minister may by Order make such amendments to this Law or the Civil Partnership (Jersey) Law 2012 as appear necessary or expedient to give effect to the transfer of the duties referred to in paragraph (1) which is the subject of the notice.
 (4) Before making an Order under paragraph (3) the Minister must consult the Comité des Connétables.
+(5) For the sake of clarity, a notice under paragraph (2) may only require the transfer of all of the relevant registration duties.
