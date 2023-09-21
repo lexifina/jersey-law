@@ -3,7 +3,7 @@
 (a) in relation to any proceedings in respect of an immigration decision or a nationality decision; or
 (b) otherwise for the purposes of, or in connection with, any such decision.
 (2) In this Regulation -
-“immigration decision” means any decision, or proposed decision, of the Lieutenant-Governor, an immigration officer or the Minister for Home Affairs under -
+“immigration decision” means any decision, or proposed decision, of the Lieutenant-Governor, an immigration officer or the Minister for Justice and Home Affairs under -
 (a) the Immigration Act 1971 (c. 77) (the “1971 Act”) and the Immigration Act 1988 (c. 14) as extended to Jersey by the Immigration (Jersey) Order 1993 (the “1993 Order”);
 (b) the Asylum and Immigration Act 1996 (c. 49) as extended to Jersey by the Asylum and Immigration Act 1996 (Jersey) Order 1998;
 (c) the Immigration and Asylum Act 1999 (c. 33) as extended to Jersey by the Immigration and Asylum Act 1999 (Jersey) Order 2003;
