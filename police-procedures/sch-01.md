@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 SERIOUS OFFENCES
 PART 1
@@ -39,6 +39,6 @@ Offences mentioned in Article 3(2)(b)
 (a) Articles 15, 16, 17, 50, 51, 52, 53 and 54; and
 (b) Articles 19, 21 and 35 (except that an offence against any of these Articles is not a serious offence for the purposes of Article 13 of this Law).
 16. Articles 7(10), 8(5), 9(7), 10(14), 11(14) and 12(9) of the Sex Offenders (Jersey) Law 2010.
-17. In the Terrorist Asset-Freezing (Jersey) Law 2011 -
-(a) Articles 13, 14, 15, 16, 17 and 20; and
-(b) Article 21 (except that an offence against Article 21 is not a serious offence for the purposes of Article 13 of this Law).
+17. In the Sanctions and Asset-Freezing (Jersey) Law 2019 -
+(a) Articles 10, 11, 12, 13, 14 and 17; and
+(b) Article 32 (except that an offence against Article 32 is not a serious offence for the purposes of Article 13 of this Law).

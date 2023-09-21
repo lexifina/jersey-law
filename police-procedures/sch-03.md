@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 25)
 Enactments conferring power to issue a search warrant
 Control of Borrowing (Jersey) Law 1947

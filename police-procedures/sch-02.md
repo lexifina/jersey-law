@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 16)
 ACCESS TO CERTAIN MATERIAL
 Making of orders by the Bailiff

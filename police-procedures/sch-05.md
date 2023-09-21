@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 112(1))
 Consequential amendments
 Evidence of Matrimonial Matters (Jersey) Law 1952

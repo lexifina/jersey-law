@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 112(2))
 Repeals
 Column 1
