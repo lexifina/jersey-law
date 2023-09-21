@@ -1,0 +1,1 @@
+A LAW prescribing the procedure to be followed in, or in connection with, criminal proceedings; to provide for the quashing of acquittals by the Court of Appeal; to amend the Police Procedures and Criminal Evidence (Jersey) Law 2003 in connection with evidence in criminal proceedings; and for connected purposes.
