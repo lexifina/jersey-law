@@ -9,8 +9,8 @@ Clairvale Road
 West side (between the northern and southern boundaries of No. 4 Glenrose Place)
 West side (between a point 1 yard north of the northern boundary of Percy Villa and a point 6 yards further north)
 Commercial Buildings
-South side (between a point 9 yards west of the western edge of the northern slipway of the English Harbour to a point 6 yards further west)
-West side (between a point 145 yards south of a point 3 yards south of the northern boundary of No. 25 and a point 6 yards further south)
+South side (between a point 14 yards west of the western edge of the northern slipway of the English Harbour and a point 4 yards further west)
+West side (between a point 163 yards south of the north-eastern corner of the Old Harbour and a point 8 yards further south)
 Don Street
 East side (between a point 18 yards north of Burrard Street and a point 14 yards further north)
 Esplanade

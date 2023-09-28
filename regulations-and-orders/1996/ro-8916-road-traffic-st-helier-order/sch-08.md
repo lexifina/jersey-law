@@ -71,15 +71,16 @@ Clarence Road
 East side (between a point opposite the northern gable of No. 11 and a point 15 yards south)
 West side (between a point 13 yards north of Don Road and a point 24 yards further north)
 Commercial Buildings
-North side (between the western boundary of Harbour View Apartments and the western boundary of No. 5)
-West side (between a point 3 yards south of the northern boundary of No. 25 and a point 114 yards further south, and between a point 151 yards south of a point 3 yards south of the northern boundary of No. 25 and a point 35 yards further south)
-East side (between a point 7 yards south of the Tunnel and a point 19 yards further south)
-East side (between a point 71 yards south of the Tunnel and a point 80 yards further south)
-East side (between a point 86 yards south of the Tunnel and a point 98 yards further south)
-East side (between a point 137 yards south of the Tunnel and a point 155 yards further south)
-East side (between a point 164 yards south of the Tunnel and a point 182 yards further south)
-East side (between a point 219 yards south of the Tunnel and a point 236 yards further south)
-East side (between a point 241 yards south of the Tunnel and a point 250 yards further south)
+North side (between a point 14 yards west of the western edge of the northern slipway of the English Harbour and a point 22 yards further west)
+West side (between a point 14 yards south of the north-eastern corner of the Old Harbour and a point 117 yards further south)
+West side (between a point 171 yards south of the north-eastern corner of the Old Harbour and a point 30 yards further south)
+East side (between a point 7 yards south of the Tunnel and a point 12 yards further south)
+East side (between a point 71 yards south of the Tunnel and a point 9 yards further south)
+East side (between a point 86 yards south of the Tunnel and a point 12 yards further south)
+East side (between a point 137 yards south of the Tunnel and a point 18 yards further south)
+East side (between a point 164 yards south of the Tunnel and a point 12 yards further south)
+East side (between a point 219 yards south of the Tunnel and a point 17 yards further south)
+East side (between a point 241 yards south of the Tunnel and a point 9 yards further south)
 Don Street
 East side (between a point 46 yards north of Burrard Street and a point 12 yards further north)
 Duhamel Place
@@ -194,8 +195,8 @@ Clearview Street
 West side (between the northern boundary of No. 53 and Brighton Road)
 West side (between the southern boundary of No. 7 and a point 6 yards south)
 Commercial Buildings
-West and south sides (from the northern end of the masonry wall on the west and south side of the road to the western edge of the motorcycle parking on the south side)
-West side (between a point 189 yards south of the northern boundary of No. 25 and a point 19 yards further south)
+South side (between a point 18 yards west of the western edge of the northern slipway of the English Harbour and a point 58 yards further west)
+West side (between a point 201 yards south of the north-eastern corner of the Old Harbour and a point 26 yards further south)
 Dorset Street
 North side (between a point 12 yards east of the western boundary of No. 27 and a point 2 yards west of the eastern boundary of No. 31)
 Great Union Road
