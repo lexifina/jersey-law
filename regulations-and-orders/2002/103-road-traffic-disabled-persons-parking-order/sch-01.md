@@ -2,12 +2,18 @@
 (Article 2)
 Parking places for vehicles used by disabled persons
 GROUVILLE
+Parking places - 6 hour limit
+La Sente Brée
+East side (between a point 35 yards south of the northwestern corner of the property known as the Hollies Day Centre and a point 6 yards further south)
 Parking places - 2 hour limit
 La Rue a Don
 North side (between the eastern entrance of Grouville Parish Church and a point 13 yards further east)
 Parking places - 1 hour limit
 La Rue de la Haye du Puits
 North side (between a point 65 yards west of its junction with Rue de la Croix and a point 13 yards further west)
+Parking places - 30 minute limit
+Gorey Village Main Road
+West side (between a point 9 yards north of the junction with New Road and a point 6 yards further north)
 ST. BRELADE
 Parking places - 4 hour limit
 Le Boulevard
@@ -85,6 +91,8 @@ South side
 West Hill
 West side (between a point 140 yards north of its junction with Bellozanne Road and a point 12 yards further north)
 Parking places - 2 hour limit
+Commercial Buildings
+East side (between a point 176 yards south of the Tunnel and a point 6 yards further south)
 Great Union Street
 South side (between a point 10 yards west of Devonshire Place and a point 12 yards further west)
 Hue Street
