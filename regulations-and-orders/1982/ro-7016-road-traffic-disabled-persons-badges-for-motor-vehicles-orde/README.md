@@ -1,6 +1,6 @@
 # Road Traffic (Disabled Persons) (Badges for Motor Vehicles) (Jersey) Order 1982
 
-R&O.7016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7016_20230927>
+R&O.7016 · official consolidation showing the law from 2023-09-28 · <https://www.jerseylaw.je/laws/current/ro_7016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,4 +13,4 @@ R&O.7016 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 6 | [art-006.md](art-006.md) | 6 Grounds for refusing to issue badge |
 | Art. 7 | [art-007.md](art-007.md) | 7 Return of badge to authority |
 | Art. 8 | [art-008.md](art-008.md) | 8 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

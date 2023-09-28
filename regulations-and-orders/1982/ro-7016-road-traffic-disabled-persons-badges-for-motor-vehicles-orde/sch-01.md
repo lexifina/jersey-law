@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2)
 Part 1
 Form of disabled person’s badge
