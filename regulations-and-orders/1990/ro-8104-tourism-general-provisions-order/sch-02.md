@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 23)
 FORM OF APPLICATION FOR REGISTRATION BY THE PERSON CHARGED WITH THE ADMINISTRATION OF THE ESTATE OF A DECEASED REGISTERED PROPRIETOR
 I................................................................................................................(a)

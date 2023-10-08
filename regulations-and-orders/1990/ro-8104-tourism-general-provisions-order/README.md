@@ -1,6 +1,6 @@
 # Tourism (General Provisions) (Jersey) Order 1990
 
-R&O.8104 · official consolidation showing the law from 2022-10-07 · <https://www.jerseylaw.je/laws/current/ro_8104_20231007>
+R&O.8104 · official consolidation showing the law from 2023-10-08 · <https://www.jerseylaw.je/laws/current/ro_8104_20240313>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,6 +31,6 @@ R&O.8104 · official consolidation showing the law from 2022-10-07 · <https://w
 | Art. 26 | [art-026.md](art-026.md) | 26 Structural alterations and change of use |
 | Art. 27 | [art-027.md](art-027.md) | 27 Existing standards |
 | Art. 28 | [art-028.md](art-028.md) | 28 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
