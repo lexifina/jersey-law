@@ -1,6 +1,6 @@
 # Dormant Bank Accounts (Distribution of Fund Money) (Jersey) Order 2020
 
-R&O.86/2020 · official consolidation showing the law from 2020-06-18 · <https://www.jerseylaw.je/laws/current/ro_86_2020_20231025>
+R&O.86/2020 · official consolidation showing the law from 2023-10-26 · <https://www.jerseylaw.je/laws/current/ro_86_2020_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
