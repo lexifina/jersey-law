@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 3)
 SCALE OF COMPENSATION
 Duration of service completed in the employer’s service by the employee
