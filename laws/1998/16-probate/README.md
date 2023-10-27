@@ -1,6 +1,6 @@
 # Probate (Jersey) Law 1998
 
-L.16/1998 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_16_1998_20231026>
+L.16/1998 · official consolidation showing the law from 2023-10-27 · <https://www.jerseylaw.je/laws/current/l_16_1998_20260611>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,10 +24,16 @@ L.16/1998 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 17 | [art-017.md](art-017.md) | 17 Removal of executor or administrator |
 | Art. 18 | [art-018.md](art-018.md) | 18 Second and subsequent grants |
 | Art. 19 | [art-019.md](art-019.md) | 19 Necessity for production of grant |
+| Art. 19A | [art-019-a.md](art-019-a.md) | 19A Exception for small estates |
+| Art. 19B | [art-019-b.md](art-019-b.md) | 19B Exception for particular holders of movable estate |
+| Art. 19C | [art-019-c.md](art-019-c.md) | 19C Exception in respect of items worn by deceased person |
+| Art. 19D | [art-019-d.md](art-019-d.md) | 19D Exception for Viscount acting as court-appointed delegate |
+| Art. 19E | [art-019-e.md](art-019-e.md) | 19E Exception for bona vacantia |
+| Art. 19F | [art-019-f.md](art-019-f.md) | 19F Offence for false statement |
 | Art. 20 | [art-020.md](art-020.md) | 20 Protection for person releasing movable estate under grant |
 | Art. 21 | [art-021.md](art-021.md) | 21 Protection for person releasing movable estate without grant |
 | Art. 22 | [art-022.md](art-022.md) | 22 Release or payment under revoked grant |
-| Art. 23 | [art-023.md](art-023.md) | 23 Penalty for intermeddling |
+| Art. 23 | [art-023.md](art-023.md) | 23 Offence of intermeddling |
 | Art. 24 | [art-024.md](art-024.md) | 24 Duty of executor or administrator as to inventory |
 | Art. 25 | [art-025.md](art-025.md) | 25 Variation of dispositions etc. by consent |
 | Art. 26 | [art-026.md](art-026.md) | 26 Disclaimer of interest |
@@ -37,4 +43,7 @@ L.16/1998 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 30 | [art-030.md](art-030.md) | 30 Domicile of dependence for probate purposes |
 | Art. 31 | [art-031.md](art-031.md) | 31 Regulations |
 | Art. 32 | [art-032.md](art-032.md) | 32 Rules of Court |
+| Art. 32A | [art-032-a.md](art-032-a.md) | 32A Orders |
+| Art. 32B | [art-032-b.md](art-032-b.md) | 32B Application to the Crown |
+| Art. 32C | [art-032-c.md](art-032-c.md) | 32C Transitional provision |
 | Art. 33 | [art-033.md](art-033.md) | 33 Citation |
