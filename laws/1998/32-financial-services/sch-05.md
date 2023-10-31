@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 Article 39A
 Securities
 For the purposes of Part 3A, “securities” means any of the following -
@@ -22,10 +22,8 @@ Any option to acquire or dispose of any security falling within any other paragr
 (a) the references to a future date and to a price agreed when the contract is made include references to a date and a price determined in accordance with terms of the contract; and
 (b) “relevant securities” means any security within the meaning of any other paragraph of this Schedule.
 7 Contracts for differences
-(1) Rights under a contract which does not provide for the delivery of securities but whose purpose or pretended purpose is to secure a profit or avoid a loss by reference to fluctuations in -
-(a) a share index or other similar factor connected with relevant securities;
-(b) the price of particular relevant securities; or
-(c) the interest rate offered on money placed on deposit.
-(2) In sub-paragraph (1) “relevant securities” means any security falling within any paragraph of this Schedule.
+Rights under a contract which does not provide for the delivery of securities.
 8 LLC interests
 LLC interests.
+8A Financial derivatives
+Rights under any contract, except an option, future or contract for differences, the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the contract.

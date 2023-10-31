@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1)
 INVESTMENTS
 1 Shares, etc.
@@ -36,12 +36,21 @@ Options to acquire or dispose of -
 Rights under a contract for the sale of a commodity, or property of any other description which is entered into for investment, not commercial purposes, and under which delivery is to be made at a future date and at a price agreed upon when the contract is made.
 Notes:
 (1) A contract shall be regarded as made for investment purposes if it is made or traded on an investment exchange, or made otherwise but expressed to be as traded on such an exchange or on the same terms as those on which an equivalent contract would be made on such an exchange.
-(2) A contract not falling within Note (1) shall be regarded as made for commercial purposes if under the terms of the contract delivery is to be made within 7 days.
-8 Contracts for differences, etc.
-Rights under a contract for differences, or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the contract.
+(2) A contract not falling within Note (1) is to be regarded as made for commercial purposes if -
+(a) under the terms of the contract delivery is to be made within 7 days of the contract being made, unless it can be shown that there existed an understanding that (despite the terms of the contract) delivery would not be made within 7 days;
+(b) it is a commodities future and the parties intend that the profit is to be obtained or the loss avoided by taking delivery of any property to which the contract relates; or
+(c) it is a foreign exchange future, and -
+(i) the parties intend that the profit is to be obtained or the loss avoided by taking delivery of the currencies to which the contract relates, and
+(ii) the purpose of the trade is to facilitate a means of payment for identifiable goods and services.
+8 Contracts for differences
+Rights under a contract for differences.
+Note: This paragraph shall not apply to rights under any contract under which money is received by the Director of Savings as deposits or otherwise in connection with the business of the National Savings Bank or in respect of money raised under the National Loans Act 1968 of the United Kingdom under the auspices of the Director of Savings or under which money raised is treated as having been so raised by virtue of section 11(3) of the National Debt Act 1972 of the United Kingdom.
+8A Financial derivatives
+Rights under any contract, except an option, future or contract for differences, the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the contract.
 Notes:
-(1) This paragraph shall not apply to a contract where the parties intend that the profit is to be obtained or the loss avoided by taking delivery of any property to which the contract relates.
-(2) This paragraph shall not apply to rights under any contract under which money is received by the Director of Savings as deposits or otherwise in connection with the business of the National Savings Bank or in respect of money raised under the National Loans Act 1968 of the United Kingdom under the auspices of the Director of Savings or under which money raised is treated as having been so raised by virtue of section 11(3) of the National Debt Act 1972 of the United Kingdom.
+(1) This paragraph includes any contract made or traded on an investment exchange, or made otherwise but expressed to be as traded on such an exchange or on the same terms as those on which an equivalent contract would be made on such an exchange.
+(2) This paragraph does not apply to a contract not falling within Note (1) where the parties intend that the profit is to be obtained or the loss avoided by taking delivery of any property to which the contract relates.
+(3) This paragraph does not apply to rights under any contract under which money is received by the Director of Savings as deposits or otherwise in connection with the business of the National Savings Bank or in respect of money raised under the National Loans Act 1968 of the United Kingdom under the auspices of the Director of Savings or under which money raised is treated as having been so raised by virtue of section 11(3) of the National Debt Act 1972 of the United Kingdom.
 9 Long-term insurance contracts
 Rights under a contract the effecting and carrying out of which constitutes long-term business within the meaning of the Insurance Business (Jersey) Law 1996 or would do so but for the fact that for the purposes of class 6 or 7 set out in Schedule 1 to that Law it is effected and carried out by a person carrying on a banking business or by a person who does not carry on long-term business of class 1, 2, 3, 4 or 5 or general business of any class.
 Notes:

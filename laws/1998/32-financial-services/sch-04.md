@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 43A)
 TRANSITIONAL PROVISIONs
 1 General insurance mediation business
@@ -36,3 +36,24 @@ Notwithstanding anything in this Law, a person who carried on general insurance 
 (c) the Commission shall, as soon as practicable, issue to the person a registration certificate under Article 9.
 (5) Nothing in sub-paragraph (2) or (4) shall be taken to prevent the Commission amending, varying or revoking the registration of a person that is taken by virtue of that sub-paragraph to have occurred.
 (6) In this item, “commencement day” means the day on which the Financial Services (Amendment of Law) (No. 2) (Jersey) Regulations 2007 come into force.
+4 Certain types of investment business
+(1) Despite anything in this Law, a person who carried on investment business in relation to the matters in sub-paragraph (2) at any time during the 6 months immediately before the commencement day is not to be taken to have committed an offence under Article 7(4) by virtue of any action that is taken, or not taken, by the person in the course of carrying on that business during the period -
+(a) on and from the commencement day until the day 6 months after the commencement day or, if a later day is specified under sub-paragraph (5) in relation to the person, until that day; or
+(b) if the person applies, before 6 months after the commencement day, for registration under this Law as a person entitled to carry on investment business, on and from the commencement day until the day the application is finally determined (including as a result of an appeal to the Court under Article 11) or is withdrawn.
+(2) The matters are -
+(a) making arrangements for another person (whether as principal or agent) to buy, sell, subscribe for or underwrite investments; or
+(b) operating an investment exchange.
+(3) In relation to the period for which, in accordance with sub-paragraph (1), a person is taken not to have committed an offence under Article 7(4), the provisions of this Law apply (with the necessary modifications) to and in relation to the person as they apply to and in relation to a person registered under the Law to carry on investment business.
+(4) Without prejudice to the generality of sub-paragraph (3), the following modifications to the provisions of this Law apply to and in relation to a person to whom sub-paragraph (1) applies and who has applied for registration under this Law as a person entitled to carry on investment business -
+(a) a reference in this Law to the period during which a person is registered is taken to be a reference to the period between -
+(i) the date of the application, and
+(ii) the date on which the application is granted or refused by the Commission is finally determined (including as a result of an appeal to the Court under Article 11) or is withdrawn;
+(b) a reference in this Law to the terms of a registration is taken to be a reference to the terms of the application; and
+(c) a reference in Article 11 to the Commission, acting under Article 9, revoking a registration is taken to be a reference to the Commission refusing an application under Article 9.
+(5) On the application of a person, the Commission may, by notice in writing, specify a day in relation to the person for the purposes of sub-paragraph (1)(a).
+(6) The Commission must not specify a day under paragraph (5) unless -
+(a) the Commission is satisfied that there are exceptional circumstances that justify the extension of the period during which the person will not be taken to have committed an offence under Article 7(4) by reason only of carrying on investment business; and
+(b) the day is not later than 12 months after the commencement day.
+(7) In this paragraph, “commencement day” means -
+(a) for making arrangements for another person (whether as principal or agent) to buy, sell, subscribe for or underwrite investments, the day on which Regulation 2 of the Financial Services (Amendment of Law) (No. 6) (Jersey) Regulations 2023 comes into force; and
+(b) for operating an investment exchange, the day on which Regulation 3 of the Financial Services (Amendment of Law) (No. 6) (Jersey) Regulations 2023 comes into force.

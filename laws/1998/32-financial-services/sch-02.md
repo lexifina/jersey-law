@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 EXEMPTIONS
 PART 1 - INVESTMENT BUSINESS
@@ -91,6 +91,28 @@ Note: For the purposes of this paragraph “making arrangements” includes -
 (a) the communication of instructions to effect a transaction to a person dealing in investments;
 (b) the communication of offers and acceptances in relation to transactions to a person dealing in investments;
 (c) the execution and delivery of documentation concerning the title to investments.
+5A Arranging: professional investment clients
+Making arrangements for another person (person A) (whether as principal or agent) to buy, sell, subscribe for or underwrite investments, if -
+(a) person A -
+(i) is a person whose ordinary activities involve the carrying on of investment business, or who it is reasonable to expect will carry on investment business for the purposes of the person’s business,
+(ii) is an employee, director or partner of a person referred to in sub-clause (i),
+(iii) is a body corporate that is wholly owned by a person referred to in sub-clause (i),
+(iv) is a limited partnership whose limited partners are all persons referred to in sub-clause (i), or
+(v) is a trust established for the benefit of a person referred to in sub-clause (i); or
+(b) person A’s buying, selling, subscription or underwriting of the investments in question could reasonably occur without the involvement of the person arranging that buying, selling, subscription or underwriting.
+5B Arranging: sophisticated and high net worth investors
+Making arrangements for another person (person A) (whether as principal or agent) to buy, sell, subscribe for or underwrite investments, if -
+(a) person A is buying, selling, subscribing for or underwriting -
+(i) investments valued at no less than £250,000 in aggregate,
+(ii) units in a collective investment fund in relation to which a certificate has been granted under Article 8B of the Collective Investment Funds (Jersey) Law 1988, or
+(iii) units in a collective investment fund in relation to which a recognized fund certificate has been granted under the Collective Investment Funds (Recognized Funds) (General Provisions) (Jersey) Order 1988 or the Collective Investment Funds (Recognized Funds) (Rules) (Jersey) Order 2003; or
+(b) person A has an individual wealth or market value of no less than US$10,000,000 or the equivalent in another currency.
+5C Arranging: other exemptions
+Making arrangements for another person (person A) (whether as principal or agent) to buy, sell, subscribe for or underwrite investments, if -
+(a) the person arranging that buying, selling, subscription or underwriting (person B) is not remunerated for doing so;
+(b) person B’s activities are limited to introducing person A to another person;
+(c) person B is acting in relation to a professional investor regulated scheme (as defined in the Financial Services (Investment Business (Restricted Investment Business - Exemption)) (Jersey) Order 2001) or a special purpose regulated scheme (as defined in the Financial Services (Investment Business (Special Purpose Investment Business - Exemption)) (Jersey) Order 2001); or
+(d) advice in relation to person A’s buying, selling, subscription for or underwriting of the investments is provided by a person who is registered to carry on investment business under this Law.
 6 Giving advice in the course of a non-investment business
 (1) Giving investment advice other than in the course of carrying on any business which otherwise constitutes investment business, unless the advice consists of, includes or amounts to -
 (a) a recommendation to a person to buy, sell, subscribe for or underwrite a particular investment or to exercise or refrain from exercising rights conferred by it;

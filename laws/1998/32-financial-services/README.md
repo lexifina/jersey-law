@@ -1,6 +1,6 @@
 # Financial Services (Jersey) Law 1998
 
-L.32/1998 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_32_1998_20231030>
+L.32/1998 · official consolidation showing the law from 2023-10-31 · <https://www.jerseylaw.je/laws/current/l_32_1998_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -68,8 +68,8 @@ L.32/1998 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 43 | [art-043.md](art-043.md) | 43 Transitional provisions |
 | Art. 43A | [art-043-a.md](art-043-a.md) | 43A Further transitional provisions |
 | Art. 44 | [art-044.md](art-044.md) | 44 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 4 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 5 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 6 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 4 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 5 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 6 |
