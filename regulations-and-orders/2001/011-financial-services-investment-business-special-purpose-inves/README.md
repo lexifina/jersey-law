@@ -1,6 +1,6 @@
 # Financial Services (Investment Business (Special Purpose Investment Business - Exemption)) (Jersey) Order 2001
 
-R&O.11/2001 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_11_2001_20231030>
+R&O.11/2001 · official consolidation showing the law from 2023-10-31 · <https://www.jerseylaw.je/laws/current/ro_11_2001_20260412>
 
 | Provision | File | Heading |
 | --- | --- | --- |
