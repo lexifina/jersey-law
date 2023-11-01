@@ -1,6 +1,6 @@
 # Residential Tenancy (Deposit Scheme - Fee) (Jersey) Order 2015
 
-R&O.112/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_112_2015_20231031>
+R&O.112/2015 · official consolidation showing the law from 2023-11-01 · <https://www.jerseylaw.je/laws/current/ro_112_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
