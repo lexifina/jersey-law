@@ -82,51 +82,205 @@ Old Road
 Rue de la Croix
 Union Road
 ST. HELIER
-La Grande Route de St. Jean (from its northern boundary with the Parish of Trinity to a point 19 yards south of La Ruette Pinel)
-La Rue des Canons
-La Rue de Mon Sejour
-La Rue de Trachy (from La Route du Mont Cochon to La Route de St. Aubin)
-Les Grands Vaux
-Old St. John’s Road
-West Hill
+Albert Street
+Anley Street
+Ann Place
+Ann Street
+Apsley Road
+Aquila Road
+Bath Street (from David Place to Beresford Street)
+Balmoral Drive
+Bellozanne Road
+Belmont Gardens
+Belmont Place
+Belmont Road
+Beresford Street
+Bond Street
+Brighton Lane
+Brighton Road
+Broad Street
+Brook Street
+Brooklyn Street
+Burrard Street
+Byron Lane
+Byron Road
+Caledonia Place
+Cannon Street
+Castle Street
+Cattle Street
+Chapel Lane
+Charing Cross (from Broad Street to York Street)
+Charles Street
+Chevalier Road
+Church Street
+Clairvale Road
+Clare Street
+Claremont Road
+Clarence Road
+Clarendon Road
+Clearview Street
 Cleveland Avenue
 Cleveland Road
+Clubley Estate
+College Hill
+Columbus Street
+Commercial Street
+Common Lane
+Conway Street
+Craig Street
 Croydon Lane
 Croydon Road
 D’Auvergne Lane
+David Place
+Devonshire Lane
+Devonshire Place
+Don Street (from Duhamel Place to a point 37 metres north of King Street)
+Dorset Lane
+Dorset Street
+Duhamel Place
+Duhamel Street
+Dumaresq Street
+Dongola Road
+Drury Lane (from Rouge Bouillon to Dongola Road)
+Elizabeth Lane
+Esplanade (from La Route de la Libération to Weighbridge Place)
+Farley’s Lane
+Garden Lane
+Gas Place
+Gloucester Street (from The Parade to Savile Street/Cannon Street)
+Great Union Road
+Great Union Street
 Green Street (from Havre des Pas to The Tunnel)
+Grosvenor Street
+Grove Street
+Halkett Place
+Hansford Lane
 Hastings Lane
 Hastings Road
 Havre des Pas
 Havre des Pas Gardens
+Hilary Street
+Hilgrove Street
+Hill Street
+Hope Street
+Hue Street
+Ingouville Lane
+Ingouville Place
+James Street
+Janvrin Road (from Stopford Road to St. Mark’s Road)
+Journeaux Street
+Kensington Place
+Kensington Street
+La Chasse
+La Colomberie (from La Motte Street to Grenville Street)
+La Grande Route de St. Jean (from its northern boundary with the parish of Trinity to a point 17.5 metres south of La Ruette Pinel)
+La Motte Street
+La Pouquelaye
+La Route de la Libération (the slip road from La Route de la Libération eastbound carriageway to Weighbridge Place)
+La Route du Mont Cochon (from La Route de St. Aubin to La Rue de Trachy)
+La Rue de Carteret
+La Rue de la Fontaine
+La Rue de l’Est (from its junction with Regent Road for 91 metres)
+La Rue de l’Etau
+La Rue de Mon Séjour
+La Rue de Podêtre
+La Rue de Trachy (from La Route du Mont Cochon to La Route de St. Aubin)
+La Rue des Mielles
+L’Avenue et Dolmen du Pré des Lumières
+Le Breton Lane
+Le Clos St. André
+Le Clos Vaze
+Le Geyt Street
+Le Mont Pinel
+Lempriere Street
+Les Grands Vaux
+Lewis Street
+Le Vieux Mont Cochon
+Library Place
+Lower King’s Cliff
+Manor Park Road
 Marett Road
-Mount Bingham (from Green Street to the eastern junction with South Hill)
+Market Street
+Midvale Road
+Minden Place
+Minden Street
+Mount Bingham (from its junction with the car park at Les Quesne Barracks (Jersey Field Squadron) to Green Street)
+Mulcaster Street
+Museum Street
 Nelson Avenue
+Nelson Street
+New Cut
+New Street
+Newgate Street
+Old Don Road
+Old St. Andrew’s Road
+Old St. James’ Place
+Old St. John’s Road
+Old Street
+Old Trinity Hill
+Oxford Road
+Palmyra Road
+Parade Road
+Paris Lane
+Patriotic Place
+Patriotic Street
+Payn Street
+Peirson Road
+Pen-y-craig Avenue
+Peter Street
+Phillips Street
+Pleasant Street
+Pomona Lane
+Pomona Road
+Poonah Road
+Providence Street
+Queens Avenue
+Raleigh Avenue
+Raleigh Lane
+Regent Road
+Richmond Road
+Robin Place
 Rodney Avenue
 Roseville Street
-Any road within the area bounded by -
-St. Marks Road, from the boundary of the parish of St. Saviour to Janvrin Road,
-Janvrin Road, from St. Marks Road to Springfield Road,
-Springfield Road, from Janvrin Road to La Petite Rue du Val Plaisant,
-La Petite Rue du Val Plaisant,
-Val Plaisant, from La Petite Rue du Val Plaisant to Rouge Bouillon,
-Rouge Bouillon, from Val Plaisant to Elizabeth Place,
-Elizabeth Place,
-Cheapside,
-St. Aubin’s Road,
-La Route de St. Aubin from St. Aubin’s Road to Esplanade,
-Esplanade, from St. Aubin’s Road to the western junction with La Route de la Liberation,
-La Route de la Liberation,
-The Tunnel,
-Green Street, from the Tunnel to Grenville Street,
-Grenville Street,
-La Colomberie, from Grenville Street to Don Road,
-Don Road, from La Colomberie to St. James Street,
-St. James Street,
-St. Saviour’s Road, from St. James Street to La Rue le Masurier,
-La Rue le Masurier, from St. Saviour’s Road to the boundary with the parish of St. Saviour, and
-the boundary with the parish of St. Saviour, from la Rue le Masurier to St. Marks Road,
-except for Gloucester Street (from The Esplanade to the southwestern junction with The Parade), New St. James Place, Pier Road, St. James Mews and The Parade (from Elizabeth Place to Gloucester Street).
+Roussel Street
+Rue de Funchal
+Sand Street
+Savile Street
+Seafield Avenue
+Seale Street
+Seaton Place
+Simon Place
+Snow Hill Taxi Rank
+South Hill
+St. Andrew’s Road
+St. Aubin’s Road
+St. John’s Road (from West Park Avenue to Parade Road)
+St. Mark’s Lane
+St. Mark’s Road (from Janvrin Road to David Place)
+Stopford Road
+The Parade (from Cannon Street to Union Street)
+The Parade (from York Street to Gloucester Street)
+Tunnell Street
+Tyneville Lane
+Undercliffe Road
+Union Street
+Upper Clarendon Road
+Upper King’s Cliff
+Upper Midvale Road
+Valley Road
+Val Plaisant (from La Petite Rue du Val Plaisant to Vauxhall Street)
+Vauxhall Street
+Victoria Street
+Vine Street
+Waterloo Street
+Weighbridge Place
+Wesley Street
+West Hill
+West Park Avenue
+Wharf Street
+Winchester Street
+Windsor Road
+York Street
 ST. JOHN
 La Grande Route de St. Jean (from the southern boundary with the Parish of Trinity to a point 115 yards north of La Rue des Houguettes)
 La Rue des Servais (from La Grande Route de St. Jean to the north western boundary of the property known as Pine Cottage)

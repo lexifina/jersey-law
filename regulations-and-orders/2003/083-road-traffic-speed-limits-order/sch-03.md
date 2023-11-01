@@ -36,24 +36,28 @@ ST. HELIER
 Beechfield Lane
 Clarke Avenue
 Fern Valley
-La Fredée Lane
-La Grande Route de Mont à l’Abbé
 Highview Lane
-Le Mont Neron
-Oaklands Lane
-La Rue du Moulin de Flicquet
+La Fredée Lane
+La Grande Route du Mont à l’Abbé
 La Route des Petits Camps
 La Route du Petit Clos
-La Rue des Côtils
+La Rue Cyril Mauger
 La Rue de la Hauteur
-La Rue de Maupertuis
 La Rue de la Roulerie (between Oaklands Lane and Well Lane)
+La Rue de Maupertuis
+La Rue des Canons
+La Rue des Côtils
+La Rue du Moulin de Flicquet
 La Ruelle Vaucluse
+La Ruette de Rauvet
 La Ruette Pinel
-Les Ruisseaux
-Stafford Lane
 La Vallée des Vaux
+Le Mont Néron
+Les Ruisseaux
 Le Vert Chemin
+Oaklands Lane
+Patrick Freeley Lane
+Stafford Lane
 Well Lane
 ST. JOHN
 La Charrière

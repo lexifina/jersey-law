@@ -60,13 +60,61 @@ La Rue de la Sente Maillard (from La Grande Route des Sablons to a point 66 yard
 La Rue du Puits Mahaut (from La Grande Route des Sablons to a point 35 yards west of La Grande Route des Sablons)
 La Rue du Pont (from La Grande Route des Sablons to a point 26 yards north of La Grande Route des Sablons)
 ST. HELIER
-Any road in the parish, except -
-(a) a road specified in Schedule 2 or Schedule 3; and
-(b) Le Mont Cochon (from Landscape Grove to the boundary with the parish of St. Lawrence)
-La Rue des Arbres
-La Rue de la Croiserie
-La Rue de la Roulerie (from Well Lane to the boundary with the parish of Trinity)
-Victoria Avenue
+Bellozanne Valley
+Cheapside
+Clos de la Bliâse
+Commercial Buildings
+Don Road
+Elizabeth Place
+Esplanade (from La Route de St. Aubin to La Route de la Libération)
+First Tower Link Road
+Francis Street
+Gloucester Street (from Esplanade to the southwestern junction with The Parade)
+Green Street (from The Tunnel to La Colomberie)
+Grenville Street
+Howard Davis Park Slip Lane
+Janvrin Road (from St. Mark’s Road to Springfield Road)
+La Colomberie (from Grenville Street to its eastern junction with Don Road)
+La Colomberie (from Francis Street to its western junction with Don Road)
+La Grande Route de St. Jean (from a point 19 metres south of La Ruette Pinel to Queens Road)
+La Petite Rue du Val Plaisant
+La Route de la Libération (eastbound and westbound carriageways between Gloucester Street, The Tunnel and Commercial Buildings, the slip roads to and from the junctions with La Route du Port Elizabeth and Castle Street and the circulatory carriageway of the roundabout)
+La Route de la Trinité
+La Route de St. Aubin
+La Route du Fort
+La Route du Mont Cochon (from La Rue du Trachy to Le Mont Cochon)
+La Route du Port Elizabeth (from La Route de la Libération to La Rue de L’Etau, including the roundabout at La Rue de L’Etau)
+La Route du Veule
+La Route ès Nouaux
+La Rue du Vieux Moulin
+La Rue le Masurier
+Le Mont Cochon (from Le Vieux Mont Cochon to Landscape Grove)
+Le Mont Millais
+Le Quai aux Marchands
+Les Vaux New Road
+Mount Bingham (from its junction with the car park at Les Quesne Barracks (Jersey Field Squadron) to Le Quai aux Marchands)
+New St. James Place
+Orchard Mews
+Peirson Road
+Pier Road
+Queens Lane
+Queens Road
+Rouge Bouillon
+Springfield Road
+St. Aubin’s Road
+St. Clement’s Road
+St. James Mews
+St. James’ Street
+St. John’s Road (from Parade Road to Queens Road)
+St. Mark’s Road (from Janvrin Road to St. Saviour’s Road)
+St. Saviour’s Road
+The Parade (from Elizabeth Place to Gloucester Street)
+The Tunnel
+Tower Road
+Trinity Hill
+Trinity Road
+Val Plaisant (from La Petite Rue du Val Plaisant to Springfield Road)
+Westmount Road
 ST. JOHN
 La Grande Route de St. Jean (from a point 115 yards north of La Rue des Houguettes to a point 9 yards north of La Rue de Bechet)
 La Rue de la Mare Ballam (from La Route du Mont Mado to La Route de St. Jean)
