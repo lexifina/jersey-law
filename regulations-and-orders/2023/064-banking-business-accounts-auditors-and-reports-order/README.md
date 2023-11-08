@@ -1,6 +1,6 @@
 # Banking Business (Accounts, Auditors and Reports) (Jersey) Order 2023
 
-R&O.64/2023 · official consolidation showing the law from 2023-09-08 · <https://www.jerseylaw.je/laws/current/ro_64_2023_20231107>
+R&O.64/2023 · official consolidation showing the law from 2023-11-08 · <https://www.jerseylaw.je/laws/current/ro_64_2023>
 
 | Provision | File | Heading |
 | --- | --- | --- |
