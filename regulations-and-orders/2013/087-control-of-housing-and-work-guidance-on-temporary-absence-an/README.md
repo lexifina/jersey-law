@@ -1,6 +1,6 @@
 # Control of Housing and Work (Guidance on Temporary Absence and Significant Ownership) (Jersey) Order 2013
 
-R&O.87/2013 · official consolidation showing the law from 2019-06-14 · <https://www.jerseylaw.je/laws/current/ro_87_2013_20231115>
+R&O.87/2013 · official consolidation showing the law from 2023-11-16 · <https://www.jerseylaw.je/laws/current/ro_87_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
