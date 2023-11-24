@@ -1,6 +1,6 @@
-# SCHEDULE
+# Schedule
 APPLICATION FOR REGISTRATION
-To the Minister for Economic Development, Tourism, Sport and Culture
+To the Minister for Sustainable Economic Development
 I...................................................................................................................
 (state full name)
 of.................................................................................................................
