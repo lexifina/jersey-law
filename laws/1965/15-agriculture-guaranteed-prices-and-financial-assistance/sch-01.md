@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 (Article 3)
-PRODUCE IN RESPECT OF WHICH GUARANTEED PRICE SCHEMES MAY BE MADE
-PART 1
-CROPS
+Produce in respect of which guaranteed price schemes may be made
+Part 1
+Crops
 Potatoes (early and main crop).
 Hay and Cereals.
-PART 2
-LIVESTOCK AND LIVESTOCK PRODUCTS
+Part 2
+Livestock and livestock products
 Fat pigs.
 Cow’s milk (liquid).
 Eggs (hen in shell).

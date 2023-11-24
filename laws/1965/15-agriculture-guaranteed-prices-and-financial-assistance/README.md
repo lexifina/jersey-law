@@ -1,6 +1,6 @@
 # Agriculture (Guaranteed Prices and Financial Assistance) (Jersey) Law 1965
 
-L.15/1965 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_15_1965_20231123>
+L.15/1965 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_15_1965_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,4 +19,4 @@ L.15/1965 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 12 | [art-012.md](art-012.md) | 12 Offences |
 | Art. 13 | [art-013.md](art-013.md) | 13 Variation of Schedule |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
