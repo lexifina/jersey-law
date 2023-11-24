@@ -1,6 +1,6 @@
 # Weights and Measures (Jersey) Law 1967
 
-L.15/1967 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/l_15_1967_20231123>
+L.15/1967 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_15_1967_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -46,10 +46,10 @@ L.15/1967 · official consolidation showing the law from 2020-12-31 · <https://
 | Art. 39 | [art-039.md](art-039.md) | 39 Savings |
 | Art. 40 | [art-040.md](art-040.md) | 40 Minister’s exclusive power to mark weight, number etc. |
 | Art. 41 | [art-041.md](art-041.md) | 41 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |

@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 20)
 SOLID FUEL
 PART 1
