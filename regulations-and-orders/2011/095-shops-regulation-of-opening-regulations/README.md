@@ -1,6 +1,6 @@
 # Shops (Regulation of Opening) (Jersey) Regulations 2011
 
-R&O.95/2011 · official consolidation showing the law from 2019-10-30 · <https://www.jerseylaw.je/laws/current/ro_95_2011_20231123>
+R&O.95/2011 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_95_2011_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,6 +31,6 @@ R&O.95/2011 · official consolidation showing the law from 2019-10-30 · <https:
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Fees |
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Production of permit |
 | Reg. 25 | [reg-025.md](reg-025.md) | 25 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
