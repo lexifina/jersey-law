@@ -1,6 +1,6 @@
 # Agriculture (Loans and Guarantees) (Jersey) Law 1974
 
-L.5/1974 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1974_20231123>
+L.5/1974 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_5_1974_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
