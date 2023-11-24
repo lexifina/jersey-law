@@ -1,6 +1,6 @@
 # Food Safety (Jersey) Law 1966
 
-L.9/1966 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_9_1966_20231123>
+L.9/1966 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_9_1966>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -67,5 +67,5 @@ L.9/1966 · official consolidation showing the law from 2022-08-12 · <https://w
 | Art. 61 | [art-061.md](art-061.md) | 61 Temporary continuance of licence or registration on the happening of certain events |
 | Art. 62 | [art-062.md](art-062.md) | 62 Powers under this Law to be cumulative |
 | Art. 63 | [art-063.md](art-063.md) | 63 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 DISEASES OF COWS TO WHICH ARTICLE 28 APPLIES
 Actinomycosis of the udder.
 Acute mastitis.

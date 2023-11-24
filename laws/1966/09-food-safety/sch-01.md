@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 DISEASES TO WHICH ARTICLE 22(1) APPLIES
 Acute inflammation of the throat.
 Diphtheria.
