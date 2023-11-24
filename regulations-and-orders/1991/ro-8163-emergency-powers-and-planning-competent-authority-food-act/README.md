@@ -1,6 +1,6 @@
 # Emergency Powers and Planning (Competent Authority) (Food) (Jersey) Act 1991
 
-R&O.8163 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8163_20231123>
+R&O.8163 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_8163_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
