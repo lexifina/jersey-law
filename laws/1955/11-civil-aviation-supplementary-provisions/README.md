@@ -1,6 +1,6 @@
 # Civil Aviation (Supplementary Provisions) (Jersey) Law 1955
 
-L.11/1955 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_11_1955_20231123>
+L.11/1955 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_11_1955_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,4 +11,4 @@ L.11/1955 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 4 | [art-004.md](art-004.md) | 4 Indication of presence of obstructions to flying |
 | Art. 5 | [art-005.md](art-005.md) | 5 Notices |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
