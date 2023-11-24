@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 25(2) and 26(2))
 THE SUPPLEMENTARY FUND PROTOCOL 2003: Article 4, paragraphs 1, 2 and 3
 SUPPLEMENTARY FUND LIABILITY

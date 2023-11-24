@@ -1,6 +1,6 @@
 # Shipping (Oil Pollution) (Liability and Compensation) (Jersey) Law 2015
 
-L.8/2015 · official consolidation showing the law from 2020-01-01 · <https://www.jerseylaw.je/laws/current/l_8_2015_20231123>
+L.8/2015 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_8_2015_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -41,5 +41,5 @@ L.8/2015 · official consolidation showing the law from 2020-01-01 · <https://w
 | Art. 34 | [art-034.md](art-034.md) | 34 Exemption from taxes and duties |
 | Art. 35 | [art-035.md](art-035.md) | 35 Regulations |
 | Art. 36 | [art-036.md](art-036.md) | 36 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

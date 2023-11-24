@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 24(1))
 THE FUND CONVENTION 1992: ARticle 4, paragraphs 4 and 5
 OVERALL LIMIT ON LIABILITY OF FUND
