@@ -1,6 +1,6 @@
 # Places of Refreshment (Jersey) Law 1967
 
-L.2/1967 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_2_1967_20231123>
+L.2/1967 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_2_1967_20260316>
 
 | Provision | File | Heading |
 | --- | --- | --- |
