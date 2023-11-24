@@ -1,6 +1,6 @@
 # Harbours (Administration) (Jersey) Law 1961
 
-L.23/1961 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_23_1961_20231123>
+L.23/1961 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_23_1961_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ L.23/1961 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 5 | [art-005.md](art-005.md) | 5 Power to levy fines summarily |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Limitation of liability |
 | Art. 8 | [art-008.md](art-008.md) | 8 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
