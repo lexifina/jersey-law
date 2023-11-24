@@ -1,6 +1,6 @@
 # Licensing (Jersey) Law 1974
 
-L.21/1974 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/l_21_1974_20231123>
+L.21/1974 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_21_1974_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
