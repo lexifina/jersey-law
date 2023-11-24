@@ -1,6 +1,6 @@
 # Pilotage (Jersey) Law 2009
 
-L.7/2009 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_7_2009_20231123>
+L.7/2009 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_7_2009_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
