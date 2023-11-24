@@ -1,6 +1,6 @@
 # Financial Services Ombudsman (Jersey) Law 2014
 
-L.14/2014 · official consolidation showing the law from 2021-01-20 · <https://www.jerseylaw.je/laws/current/l_14_2014_20231123>
+L.14/2014 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_14_2014_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ L.14/2014 · official consolidation showing the law from 2021-01-20 · <https://
 | Art. 25 | [art-025.md](art-025.md) | 25 Consequential and related amendments |
 | Art. 26 | [art-026.md](art-026.md) | 26 Orders and Regulations |
 | Art. 27 | [art-027.md](art-027.md) | 27 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

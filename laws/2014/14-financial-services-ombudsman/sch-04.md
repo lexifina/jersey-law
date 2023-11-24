@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 9(1)(i))
 Relevant credit business
 1 Relevant credit business defined

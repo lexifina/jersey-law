@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2(3))
 Constitution of OFSO
 1 Appointment of board members

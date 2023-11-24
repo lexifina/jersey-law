@@ -1,6 +1,6 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 9(1)(h))
-Relevant Pension Business
+Relevant pension business
 1 Relevant pension business defined
 Relevant pension business is any business so far as it comprises the choice, establishment or operation of a pension scheme, within the meaning of paragraph 2.
 2 Pension scheme

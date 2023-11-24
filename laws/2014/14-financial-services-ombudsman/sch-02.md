@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 2(4))
 Finances of OFSO
 1 Accounts, audit and reports
