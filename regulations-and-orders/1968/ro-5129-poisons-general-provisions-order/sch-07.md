@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 20)
 Indication of character of article prescribed for the purposes of Article 9(1)(c)(iii) of the Law
 1. To be labelled with the words “Caution. It is dangerous to take this preparation except under medical supervision.” -

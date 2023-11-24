@@ -1,4 +1,4 @@
-# SCHEDULE 15
+# Schedule 15
 (Article 6)
 Substances in which poison is exempted by Article 6 from Article 9(2) of the Law
 Poison.

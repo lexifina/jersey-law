@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Article 33)
 Form of application for entry in the list kept in pursuance of Article 71(4) of the Medicines (Jersey) Law 1995
 PHARMACY and POISONS (JERSEY) LAW 1952.

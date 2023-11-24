@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Articles 18 and 19)
 Statement of particulars permitted in certain cases as to proportion of poison
 Name of Poison

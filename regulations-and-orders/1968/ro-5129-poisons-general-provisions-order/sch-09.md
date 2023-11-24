@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Article 32)
 Form of register of premises
 Address of premises.

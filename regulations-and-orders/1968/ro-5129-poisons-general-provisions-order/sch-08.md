@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Article 26)
 Poisons required to be specially labelled for transport
 Aldicarb

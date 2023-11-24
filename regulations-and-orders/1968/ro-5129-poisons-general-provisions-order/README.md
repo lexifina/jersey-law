@@ -1,6 +1,6 @@
 # Poisons (General Provisions) (Jersey) Order 1968
 
-R&O.5129 · official consolidation showing the law from 2019-12-18 · <https://www.jerseylaw.je/laws/current/ro_5129_20231123>
+R&O.5129 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_5129_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -42,21 +42,21 @@ R&O.5129 · official consolidation showing the law from 2019-12-18 · <https://w
 | Art. 35 | [art-035.md](art-035.md) | 35 Form of record of sales |
 | Art. 36 | [art-036.md](art-036.md) | 36 Preservation of records |
 | Art. 37 | [art-037.md](art-037.md) | 37 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 9 |
-| Schedule 10 | [sch-10.md](sch-10.md) | SCHEDULE 10 |
-| Schedule 11 | [sch-11.md](sch-11.md) | SCHEDULE 11 |
-| Schedule 12 | [sch-12.md](sch-12.md) | SCHEDULE 12 |
-| Schedule 13 | [sch-13.md](sch-13.md) | SCHEDULE 13 |
-| Schedule 14 | [sch-14.md](sch-14.md) | SCHEDULE 14 |
-| Schedule 15 | [sch-15.md](sch-15.md) | SCHEDULE 15 |
-| Schedule 16 | [sch-16.md](sch-16.md) | SCHEDULE 16 |
-| Schedule 17 | [sch-17.md](sch-17.md) | SCHEDULE 17 |
-| Schedule 18 | [sch-18.md](sch-18.md) | SCHEDULE 18 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |
+| Schedule 11 | [sch-11.md](sch-11.md) | Schedule 11 |
+| Schedule 12 | [sch-12.md](sch-12.md) | Schedule 12 |
+| Schedule 13 | [sch-13.md](sch-13.md) | Schedule 13 |
+| Schedule 14 | [sch-14.md](sch-14.md) | Schedule 14 |
+| Schedule 15 | [sch-15.md](sch-15.md) | Schedule 15 |
+| Schedule 16 | [sch-16.md](sch-16.md) | Schedule 16 |
+| Schedule 17 | [sch-17.md](sch-17.md) | Schedule 17 |
+| Schedule 18 | [sch-18.md](sch-18.md) | Schedule 18 |

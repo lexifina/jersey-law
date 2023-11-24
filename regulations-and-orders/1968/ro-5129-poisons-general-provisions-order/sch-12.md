@@ -1,4 +1,4 @@
-# SCHEDULE 12
+# Schedule 12
 (Article 34)
 Certificate for the purchase of a poison
 For the purposes of Article 9(2)(a)(i) of the Pharmacy and Poisons (Jersey) Law 1952, I, the undersigned, a householder occupying (a) ................................. certify from my knowledge of (b) .................................. of (a) .......................................... that he/she is a person to whom (c) ................................. may properly be supplied.

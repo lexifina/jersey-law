@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 5, 10, 11)
 Substances required to be sold by retail only upon a prescription given by a registered medical practitioner, registered dentist or registered veterinary surgeon
 PART A
@@ -28,7 +28,7 @@ Acemetacin
 Acetanilide; alkyl acetanilides
 Acetarsol
 Acetazolamide
-Acetohexamide.
+Acetohexamide
 Acetylcarbromal
 Acetylcysteine
 Acitretin
@@ -67,9 +67,9 @@ Amorolfine Hydrochloride
 Amoxapine
 Amsacrine
 Androgenic, oestrogenic and progestational substances, the following -
-Benzoestrol.
-Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters.
-Steroid compounds with androgenic or oestrogenic or progestational activity; their esters.
+Benzoestrol
+Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters
+Steroid compounds with androgenic or oestrogenic or progestational activity; their esters
 Anistreplase
 Astemizole (except when sold or supplied in a container containing not more than 100 mg astemizole for the treatment of hay-fever in adults or in children over the age of 12 years and with a maximum daily dose of 10 mg.)
 Atenolol
@@ -82,12 +82,12 @@ Azithromycin
 Aztreonam
 Baclofen
 Bambuterol Hydrochloride
-Benactyzine; its salts.
+Benactyzine; its salts
 Benapryzine
 Benperidol
 Benserazide
-Benzhexol; its salts.
-Benztropine and its homologues; their salts.
+Benzhexol; its salts
+Benztropine and its homologues; their salts
 Betahistine dihydrochloride
 Betaxolol Hydrochloride
 Bethanidine Sulphate
@@ -113,7 +113,7 @@ Carbimazole
 Carbocisteine
 Carboplatin
 Carboprost
-Carbromal.
+Carbromal
 Carisoprodol
 Carteolol Hydrochloride
 Cefamandole
@@ -125,17 +125,17 @@ Ceftizoxime Sodium
 Celiprolol
 Cetirizine Dihydrochloride (except when sold or supplied in a container containing not more than 100 mg cetirizine with a maximum daily dose of 10 mg cetirizine.)
 Chenodeoxycholic Acid
-Chloral; its addition and its condensation products other than alpha-chloralose; their molecular compounds; except when contained, in the form of chloral hydrate, in preparations intended for external application only.
+Chloral; its addition and its condensation products other than alpha-chloralose; their molecular compounds; except when contained, in the form of chloral hydrate, in preparations intended for external application only
 Chlorambucil
-Chlordiazepoxide; its salts.
+Chlordiazepoxide; its salts
 Chlormethiazole; its salts
 Chloroquine Sulphate (except when sold or supplied for the prophylaxis of malaria.)
 Chloroquine Phosphate (except when sold or supplied for the prophylaxis of malaria.)
-Chlorothiazide and other derivatives of benzo-1,2,4-thiadiazine-7-sulphonamide 1, 1-dioxide, whether hyrdrogenated or not.
-Chlorphenoxamine; its salts.
-Chlorphentermine; its salts.
-Chlorpropamide; its salts.
-Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts.
+Chlorothiazide and other derivatives of benzo-1,2,4-thiadiazine-7-sulphonamide 1, 1-dioxide, whether hyrdrogenated or not
+Chlorphenoxamine; its salts
+Chlorphentermine; its salts
+Chlorpropamide; its salts
+Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts
 Chlorthalidone and other derivatives of o -chlorobenzene sulphonamide
 Chorionic Godadotrophin
 Cilastatin Sodium
@@ -155,8 +155,8 @@ Clomipramine Hydrochloride
 Clonidine Hydrochloride
 Clopenthixol Decanoate
 Clopenthixol Hydrochloride
-Clorexolone.
-Clorprenaline; its salts; when contained in aerosol dispensers.
+Clorexolone
+Clorprenaline; its salts; when contained in aerosol dispensers
 Clotrimazole (except for external use and in the case of vaginal use only for the treatment of vaginal candidiasis)
 Clozapine
 Colaspase
@@ -183,8 +183,8 @@ Dapsone
 Daunorubicin Hydrochloride
 Debrisoquine Sulphate
 Desferrioxamine Mesylate
-Desipramine; its salts.
-Diazepam and other compounds containing the chemical structure of dihydro-1, 4-benzodiazepine substituted to any degree; their salts.
+Desipramine; its salts
+Diazepam and other compounds containing the chemical structure of dihydro-1, 4-benzodiazepine substituted to any degree; their salts
 Diazoxide
 Diclofenac Sodium
 Dicyclomine Hydrochloride (except in preparations for internal use with a maximum dose of 10 mg and maximum daily dose of 60 mg.)
@@ -205,13 +205,13 @@ Doxazocin Mesylate
 Doxepin Hydrochloride
 Doxorubicin
 Econazole Nitrate (except for external use and in the case of vaginal use only for the treatment of vaginal candidiasis.)
-Ectylurea.
+Ectylurea
 Emylcamate
 Enalapril Maleate
 Enoxacin
 Enoxaparin
 Enoximone
-Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers.
+Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers
 Epirubicin Hydrochloride
 Epoetin Alpha
 Epoetin Beta
@@ -222,13 +222,13 @@ Estramustine Phosphate
 Ethacrynic acid; its salts
 Ethambutol Hydrochloride
 Ethamsylate
-Ethchlorvynol.
-Ethinamate.
+Ethchlorvynol
+Ethinamate
 Ethionamide
 Ethoglucid
 Ethoheptazine; its salts
 Ethosuximide
-Ethylnoradrenaline; its salts; when contained in aerosol dispensers.
+Ethylnoradrenaline; its salts; when contained in aerosol dispensers
 Etidronate Disodium
 Etodolac
 Etoposide
@@ -248,7 +248,7 @@ Flecainide
 Flosequinan
 Fluconazole
 Fluclorolone Acetonide
-Flufenamic acid; its salts; its esters; their salts.
+Flufenamic acid; its salts; its esters; their salts
 Flumazenil
 Fluorouracil
 Fluoxetine Hydrochloride
@@ -279,22 +279,22 @@ Gonadorelin
 Goserelin Acetate
 Granisetron Hydrochloride
 Halofantrine
-Haloperidol and other 4-substituted derivatives of N-(3-p-fluoro-benzoylpropyl) piperidine.
+Haloperidol and other 4-substituted derivatives of N-(3-p-fluoro-benzoylpropyl) piperidine
 Heparin Calcium
 Hexachlorophane; aerosols containing more than 0.1% of hexachlorophane for human and animal use; soap containing more than 2% of hexachlorophane, any medicinal product containing more than 0.75% of hexachlorophane
-Hexapropymate.
+Hexapropymate
 Hyaluronidase
 Hydralazine Hydrochloride
-Hydrazines, benzyl phenethyl or phenoxyethyl; their α-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item.
-Hydroxy-N,N-dimethyltryptamines; their esters or ethers; any salt of any substance falling within this item.
+Hydrazines, benzyl phenethyl or phenoxyethyl; their α-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item
+Hydroxy-N,N-dimethyltryptamines; their esters or ethers; any salt of any substance falling within this item
 Hydroxychloroquine Sulphate
-Hydroxyzine; its salts.
+Hydroxyzine; its salts
 Ibuprofen (except in a preparation for topical use)
 Idarubicin Hydrochloride
 Idoxuridine
 Ifosfamide
 Imipinem
-Imipramine; its salts.
+Imipramine; its salts
 Indapamide Hemihydrate
 Indomethacin; its salts
 Inosine Prabonex
@@ -307,7 +307,7 @@ Isocarboxacid
 Isoconazole Nitrate (except for external use and in the case of vaginal use only for the treatment of vaginal candidiasis.)
 Isoetharine; its salts; when contained in aerosol dispensers
 Isoflurane
-Isoprenaline; its salts; when contained in aerosol dispensers.
+Isoprenaline; its salts; when contained in aerosol dispensers
 Isotretinoin
 Israpidine
 Itraconazole
@@ -332,34 +332,34 @@ Lysuride Maleate
 Mazindol
 Mebendazole (except when sold or supplied for the oral treatment of enterobiasis with a maximum dose of 100 mg and in a container containing not more than 400 mg mebendazole.)
 Mebeverine Hydrochloride (except in preparations for internal use with a maximum dose of 100 mg and a maximum daily dose of 300 mg.)
-Mebutamate.
-Meclofenoxate; its salts.
+Mebutamate
+Meclofenoxate; its salts
 Mefenamic acid; its salts; its esters; their salts
 Mefloquine Hydrochloride
 Melphalan
 Menotrophin
-Mephenesin; its esters.
+Mephenesin; its esters
 Meprobamate
 Mesalazine
 Mesna
 Metaraminol Tartrate
-Metaxalone.
-Metformin; its salts.
-Methaqualone; its salts.
-Methixene; its salts.
+Metaxalone
+Metformin; its salts
+Methaqualone; its salts
+Methixene; its salts
 Methocarbamol
 Methotrexate
 Methoxamine Hydrochloride (except in nasal spray or drops not containing liquid paraffin and not exceeding a concentration of 0.25%)
-Methoxsalen.
-Methoxyphenamine; its salts; when contained in aerosol dispensers.
-Methylaminoheptane; its salts, when contained in aerosol dispensers.
+Methoxsalen
+Methoxyphenamine; its salts; when contained in aerosol dispensers
+Methylaminoheptane; its salts, when contained in aerosol dispensers
 Methyldopa
-Methylpentynol; its esters and other derivatives.
-α-Methylphenethylamine; β-methylphenethylamine and α-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine and its optical isoners, N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenyl-propanolamine, pholedrine and prenylamine; any salt of any substance falling within this item.
+Methylpentynol; its esters and other derivatives
+α-Methylphenethylamine; β-methylphenethylamine and α-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine and its optical isoners, N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenyl-propanolamine, pholedrine and prenylamine; any salt of any substance falling within this item
 Methyprylone
 Metipranolol
 Metobronitol
-Metoclopramide; its salts.
+Metoclopramide; its salts
 Metolazone
 Metoprolol
 Metronidazole
@@ -409,7 +409,7 @@ Ofloxacin
 Olsalazine Sodium
 Omeprazole
 Ondansetron Hydrochloride
-Orciprenaline; its salts; when contained in aerosol dispensers.
+Orciprenaline; its salts; when contained in aerosol dispensers
 Orphenadrine; its salts
 Oxaprozin
 Oxethazaine (except when sold or supplied in a container containing not more than 400 mg oxethazaine and labelled to show a maximum dose of 10 mg and a maximum daily dose of 30 mg oxethazaine)
@@ -417,12 +417,12 @@ Oxitropium Bromide
 Oxprenolol Hydrochloride
 Oxybutynin Hydrochloride
 Oxypertine Hydrochloride
-Oxyphenbutazone.
+Oxyphenbutazone
 Oxytocins, natural and synthetic
 Pamidronate Disodium
 Pancuronium Bromide
-Paraldehyde.
-Paramethadione.
+Paraldehyde
+Paramethadione
 Pargyline; its salts
 Paroxetine
 Pemoline; its salts
@@ -432,13 +432,13 @@ Pergolide Mesylate
 Pericyazine
 Perindopril
 Phenacetin (except in substances containing less than 0.1% weight in weight, of phenacetin and except where used as a veterinary drug)
-Phenaglycodol.
+Phenaglycodol
 Phenbutrazate
 Phenelzine Sulphate
-Phenetidylphenacetin.
-Phenformin; its salts.
-Phenothiazine, derivatives of; their salts; except dimethoxanate, its salts and promethazine, its salts and molecular compounds.
-Phenylbutazone; its salts.
+Phenetidylphenacetin
+Phenformin; its salts
+Phenothiazine, derivatives of; their salts; except dimethoxanate, its salts and promethazine, its salts and molecular compounds
+Phenylbutazone; its salts
 5-Phenylhydantoin; its alkyl and aryl derivatives; their salts
 Pimozide
 Pindolol
@@ -459,9 +459,9 @@ Prazocin Hydrochloride
 Primidone
 Probenecid
 Probucol
-Procainamide; its salts.
-Procarbazine; its salts.
-Procyclidine; its salts.
+Procainamide; its salts
+Procarbazine; its salts
+Procyclidine; its salts
 Promoxolan
 Propafenone Hydrochloride
 Propanidid
@@ -471,8 +471,8 @@ Propranolol Hydrochloride
 Propylhexedrine; its salts; except when contained in inhalers
 Propylthiouracil
 Protamine Sulphate
-Prothionamide.
-Prothipendyl; its salts.
+Prothionamide
+Prothipendyl; its salts
 Protriptyline Hydrochloride
 Pyrazinamide
 Quinapril
@@ -507,7 +507,7 @@ Sucralfate
 Sulindac
 Sulbactam
 Sulconazole Nitrate
-Sulphinpyrazone.
+Sulphinpyrazone
 Sulphonal; alkyl sulphonals
 Sulpiride
 Sulthiame
@@ -531,7 +531,7 @@ Thiocarlide; its salts
 Thioguanine
 Thiotepa
 Thymoxamine Hydrochloride
-Thyroid gland, the active principles of; their salts.
+Thyroid gland, the active principles of; their salts
 L-Pyroglutamyl-L-histidyl-L-proline amide (Thyrotrophin-releasing Hormone)
 Tiaprofenic Acid
 Tibolone
@@ -551,8 +551,8 @@ Trazodone
 Tretinoin
 Triamterene
 Tribavirin
-Tribromethyl alcohol.
-2,2,2-Trichloroethyl alcohol, esters of; their salts.
+Tribromethyl alcohol
+2,2,2-Trichloroethyl alcohol, esters of; their salts
 Trientene Dihydrochloride
 Trilostane
 Trimeprazine Tartrate

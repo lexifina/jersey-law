@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Article 33)
 Form of the list to be kept in pursuance of Article 71(4) of the Medicines (Jersey) Law 1995
 List of persons entitled to sell poisons in Part 2 of the Poisons List

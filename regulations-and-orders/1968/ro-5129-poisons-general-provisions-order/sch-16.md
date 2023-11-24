@@ -1,4 +1,4 @@
-# SCHEDULE 16
+# Schedule 16
 (Article 14)
 Poisons required to be coloured in certain cases
 Arsenical poisons.

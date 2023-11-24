@@ -1,4 +1,4 @@
-# SCHEDULE 18
+# Schedule 18
 (Article 16)
 Form of authority for purchasing aluminium phosphide for killing moles
 Authority for the purchase of aluminium phosphide for killing moles in pursuance of Article 16(9)(d) of the Poisons (General Provisions) (Jersey) Order 1968.

@@ -1,4 +1,4 @@
-# SCHEDULE 17
+# Schedule 17
 (Article 16)
 Form of certificate authorizing the purchase of monofluoroacetic acid, a salt thereof, fluoroacetamide or fluoroacetanilide as a rodenticide
 Certificate authorizing the purchase of monofluoroacetic acid, a salt thereof, fluoroacetamide or fluoroacetanilide as a rodenticide.

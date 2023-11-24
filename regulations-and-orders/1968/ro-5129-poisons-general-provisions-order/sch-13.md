@@ -1,4 +1,4 @@
-# SCHEDULE 13
+# Schedule 13
 (Article 35)
 Form of entry to be made in the book to be kept by sellers of poisons in accordance with Article 9(2)(b) of the Law
 Date of sale

@@ -1,4 +1,4 @@
-# SCHEDULE 14
+# Schedule 14
 (Article 16)
 Form of authority for purchasing strychnine for killing moles
 Authority for the purchase of strychnine for killing moles in pursuance of Article 16(1)(e) of the Poisons (General Provisions) (Jersey) Order 1964.

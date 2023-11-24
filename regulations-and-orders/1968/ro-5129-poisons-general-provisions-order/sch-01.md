@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 6, 7, 8, 12, 13, 20, 24, 27, 28, and 30)
 Substances included in the Poisons List to which special restrictions apply unless exempted by Article 8
 Acetorphine; its salts; its esters and ethers; their salts.

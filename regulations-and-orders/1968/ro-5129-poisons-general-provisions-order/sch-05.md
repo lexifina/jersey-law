@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 13(2))
 PART A
 Form to which the substances specified are restricted when sold by listed sellers of Part 2 poisons

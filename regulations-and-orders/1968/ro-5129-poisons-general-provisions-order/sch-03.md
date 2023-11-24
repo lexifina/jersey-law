@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 9)
 Articles exempted from the provisions of the Law and of this Order
 GROUP 1
@@ -22,7 +22,7 @@ Substances containing less than 0.025% of the alkaloids of jaborandi.
 Lobelia, alkaloids of
 Preparations for the relief of asthma in the form of cigarettes, smoking mixtures or fumigants; substances containing less than 0.1% of the alkaloids of lobelia.
 Nicotine
-Tobacco; preparations con-taining not more than 7.5% of nicotine, weight in weight, aerosols containing not more than 0.2% of nicotine, weight in weight.
+Tobacco; preparations containing not more than 7.5% of nicotine, weight in weight, aerosols containing not more than 0.2% of nicotine, weight in weight.
 Pomegranate, alkaloids of
 Pomegranate bark.
 Solanaceous alkaloids

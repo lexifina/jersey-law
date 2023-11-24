@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 5)
 Poisons exempted from labelling provisions when sold or supplied in certain circumstances
 Alkali fluorides.
