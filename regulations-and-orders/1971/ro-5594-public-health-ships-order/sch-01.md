@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 9)
 INTERNATIONAL CODE OF SIGNALS
 Pratique Messages

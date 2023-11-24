@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 1 and 10)
 PUBLIC HEALTH (SHIPS) (JERSEY) ORDER 1971
 Maritime Declaration of Health.

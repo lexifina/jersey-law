@@ -1,6 +1,6 @@
 # Public Health (Ships) (Jersey) Order 1971
 
-R&O.5594 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5594_20231123>
+R&O.5594 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_5594_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -41,8 +41,8 @@ R&O.5594 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 34 | [art-034.md](art-034.md) | 34 Saving for mails |
 | Art. 35 | [art-035.md](art-035.md) | 35 Saving for ships unwilling to comply with this Order |
 | Art. 36 | [art-036.md](art-036.md) | 36 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
