@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 Fees under the Shipping (Jersey) Law 2002
 1
