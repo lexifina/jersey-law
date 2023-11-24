@@ -1,6 +1,6 @@
 # Telecommunications (Jersey) Law 2002
 
-L.1/2002 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_1_2002_20231123>
+L.1/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_1_2002_20240930>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -74,4 +74,4 @@ L.1/2002 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 65 | [art-065.md](art-065.md) | 65 Regulations and Orders |
 | Art. 66 | [art-066.md](art-066.md) | 66 Savings and transitional and consequential provisions |
 | Art. 67 | [art-067.md](art-067.md) | 67 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

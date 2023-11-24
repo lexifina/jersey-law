@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 SAVINGS AND TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
 (Article 66)
 1 No exclusive privilege
