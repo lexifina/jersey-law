@@ -1,6 +1,6 @@
 # Shops (Regulation of Opening and Deliveries) (Jersey) Law 2010
 
-L.21/2010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_21_2010_20231123>
+L.21/2010 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_21_2010_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
