@@ -1,6 +1,6 @@
 # Agricultural Returns (Jersey) Law 1947
 
-L.2/1947 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_2_1947_20231123>
+L.2/1947 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_2_1947_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
