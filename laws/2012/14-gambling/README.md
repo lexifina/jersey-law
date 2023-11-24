@@ -1,6 +1,6 @@
 # Gambling (Jersey) Law 2012
 
-L.14/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_2012_20231123>
+L.14/2012 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_14_2012_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
