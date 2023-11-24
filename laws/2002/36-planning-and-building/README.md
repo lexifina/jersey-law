@@ -1,6 +1,6 @@
 # Planning and Building (Jersey) Law 2002
 
-L.36/2002 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_36_2002_20231123>
+L.36/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_36_2002_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ L.36/2002 · official consolidation showing the law from 2022-08-12 · <https://
 | Art. 12 | [art-012.md](art-012.md) | 12 Public inquiries |
 | Art. 13 | [art-013.md](art-013.md) | 13 Environmental impact of proposed development |
 | Art. 14 | [art-014.md](art-014.md) | 14 Development of concern to highway authority |
-| Art. 15 | [art-015.md](art-015.md) | 15 Development of concern to the Minister for Economic Development, Tourism, Sport and Culture |
+| Art. 15 | [art-015.md](art-015.md) | 15 Development of concern to the Minister for Sustainable Economic Development |
 | Art. 16 | [art-016.md](art-016.md) | 16 Development of concern to the Minister for Infrastructure |
 | Art. 17 | [art-017.md](art-017.md) | 17 Development of concern to any Minister, etc. |
 | Art. 19 | [art-019.md](art-019.md) | 19 Grant of planning permission |
@@ -141,4 +141,4 @@ L.36/2002 · official consolidation showing the law from 2022-08-12 · <https://
 | Art. 129 | [art-129.md](art-129.md) | 129 Savings |
 | Art. 130 | [art-130.md](art-130.md) | 130 Transitional provisions |
 | Art. 131 | [art-131.md](art-131.md) | 131 Short title and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

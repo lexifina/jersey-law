@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 31(4))
 Contents of Building Bye-laws
 (1) Building Bye-laws may specify the functional requirements of buildings in respect of -
