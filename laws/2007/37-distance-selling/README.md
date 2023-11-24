@@ -1,6 +1,6 @@
 # Distance Selling (Jersey) Law 2007
 
-L.37/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_37_2007_20231123>
+L.37/2007 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_37_2007_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -31,4 +31,4 @@ L.37/2007 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 24 | [art-024.md](art-024.md) | 24 Publicity |
 | Art. 25 | [art-025.md](art-025.md) | 25 Regulations |
 | Art. 26 | [art-026.md](art-026.md) | 26 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

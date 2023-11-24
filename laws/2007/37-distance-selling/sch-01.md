@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 Indicative list of means of distance communication
 1. Unaddressed printed matter.
