@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 20)
 Transitional and savings provisions
 1 Shadow Commission taken to be appointed as Commission

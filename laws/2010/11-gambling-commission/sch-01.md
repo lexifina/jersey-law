@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 Constitution and operation of Commission
 1 Appointment of Commissioners

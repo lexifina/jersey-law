@@ -1,6 +1,6 @@
 # Gambling Commission (Jersey) Law 2010
 
-L.11/2010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_11_2010_20231123>
+L.11/2010 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_11_2010_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,5 +27,5 @@ L.11/2010 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 20 | [art-020.md](art-020.md) | 20 Transitional and savings provisions |
 | Art. 21 | [art-021.md](art-021.md) | 21 General provisions as to Regulations and Orders |
 | Art. 22 | [art-022.md](art-022.md) | 22 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
