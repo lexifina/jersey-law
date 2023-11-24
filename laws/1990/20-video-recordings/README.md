@@ -1,6 +1,6 @@
 # Video Recordings (Jersey) Law 1990
 
-L.20/1990 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_20_1990_20231123>
+L.20/1990 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_20_1990_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
