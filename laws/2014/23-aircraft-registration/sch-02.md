@@ -1,6 +1,6 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 20(1)(b))
-CLASSIFICATION OF AIRCRAFT
+Classification of aircraft
 Table of general classification of aircraft
 Column 1
 Column 2

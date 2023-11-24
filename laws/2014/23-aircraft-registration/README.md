@@ -1,6 +1,6 @@
 # Aircraft Registration (Jersey) Law 2014
 
-L.23/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_23_2014_20231123>
+L.23/2014 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_23_2014_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -71,5 +71,5 @@ L.23/2014 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 65 | [art-065.md](art-065.md) | 65 Orders |
 | Art. 66 | [art-066.md](art-066.md) | 66 Rules of Court |
 | Art. 67 | [art-067.md](art-067.md) | 67 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
