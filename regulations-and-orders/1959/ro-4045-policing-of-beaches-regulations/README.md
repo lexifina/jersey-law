@@ -1,6 +1,6 @@
 # Policing of Beaches (Jersey) Regulations 1959
 
-R&O.4045 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_4045_20231123>
+R&O.4045 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_4045_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,4 +14,4 @@ R&O.4045 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Application of fines levied summarily |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Savings |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

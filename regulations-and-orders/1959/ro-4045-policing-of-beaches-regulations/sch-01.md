@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 3(1)(c))
 Parts of slipways on which parking is permitted for up to 12 hours
 GROUVILLE
