@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 Being the Schedule (referred to in Article 30) Declaratory of the terms and conditions upon which -
 (a) the Harbours and Airport Committee (in this Schedule referred to as the “Committee”) is entitled to be supplied with electric current by the Company, and
 (b) the Company is entitled to occupy as a tenant, certain property owned by the States of Jersey, and administered by the Committee.

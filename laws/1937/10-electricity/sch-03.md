@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 Annual Rentals Payable Under ArtICLEs 11 and 12
 Poles of whatever type, with all attachments, in hedges or waste ........................................................................
 5p.

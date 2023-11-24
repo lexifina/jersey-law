@@ -1,6 +1,6 @@
 # Electricity (Jersey) Law 1937
 
-L.10/1937 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_10_1937_20231123>
+L.10/1937 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_10_1937_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -38,6 +38,6 @@ L.10/1937 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 35 | [art-035.md](art-035.md) | 35 States representation |
 | Art. 37 | [art-037.md](art-037.md) | 37 Intentional damage |
 | Art. 38 | [art-038.md](art-038.md) | 38 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
