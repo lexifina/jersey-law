@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 9 and Schedule 2)
 OATHS OF OFFICE
 PART 1

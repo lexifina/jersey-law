@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 15)
 RECORDS ADVISORY PANEL
 1 Terms of appointment of members

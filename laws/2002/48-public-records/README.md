@@ -1,6 +1,6 @@
 # Public Records (Jersey) Law 2002
 
-L.48/2002 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_48_2002_20231123>
+L.48/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_48_2002_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -44,6 +44,6 @@ L.48/2002 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 49 | [art-049.md](art-049.md) | 49 Regulations and Orders |
 | Art. 50 | [art-050.md](art-050.md) | 50 Savings and transitional provisions |
 | Art. 51 | [art-051.md](art-051.md) | 51 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 50)
 SAVINGS AND TRANSITIONAL PROVISIONS
 1 Regulations
