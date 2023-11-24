@@ -1,6 +1,6 @@
 # Consumer Safety (Jersey) Law 2006
 
-L.18/2006 · official consolidation showing the law from 2020-07-15 · <https://www.jerseylaw.je/laws/current/l_18_2006_20231123>
+L.18/2006 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_18_2006_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
