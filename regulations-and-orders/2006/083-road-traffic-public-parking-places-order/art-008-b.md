@@ -18,7 +18,7 @@ Highlands
 St. Saviour
 JE4 8QJ
 3
-On behalf of Minister for Economic Development, Tourism, Sport and Culture
+On behalf of the Minister for Sustainable Economic Development
 Finance Department
 Department for Economic Development, Tourism, Sport and Culture
 Springfield Stadium
