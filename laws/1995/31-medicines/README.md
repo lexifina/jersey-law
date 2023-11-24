@@ -1,6 +1,6 @@
 # Medicines (Jersey) Law 1995
 
-L.31/1995 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/l_31_1995_20231123>
+L.31/1995 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_31_1995_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -118,4 +118,4 @@ L.31/1995 · official consolidation showing the law from 2022-08-12 · <https://
 | Art. 111 | [art-111.md](art-111.md) | 111 General provisions as to operation of Law |
 | Art. 112 | [art-112.md](art-112.md) | 112 Protection of officers etc. |
 | Art. 113 | [art-113.md](art-113.md) | 113 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

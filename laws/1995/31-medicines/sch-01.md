@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 SAMPLING
 (Articles 97, 98, 100, 102, 106)
 Introductory
