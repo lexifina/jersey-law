@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 1(5))
 Part B
 Guidance regarding the provisions of Chapter XI-2 of the Annex to the International Convention for the Safety of Life at Sea, 1974 as amended and Part A of this Code

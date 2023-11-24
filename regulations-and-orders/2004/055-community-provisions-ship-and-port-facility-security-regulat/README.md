@@ -1,6 +1,6 @@
 # Community Provisions (Ship and Port Facility - Security) (Jersey) Regulations 2004
 
-R&O.55/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_55_2004_20231123>
+R&O.55/2004 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_55_2004_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -29,6 +29,6 @@ R&O.55/2004 · official consolidation showing the law from 2019-01-01 · <https:
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Amendments to plans |
 | Reg. 24 | [reg-024.md](reg-024.md) | 24 Offences by officers of bodies corporate |
 | Reg. 25 | [reg-025.md](reg-025.md) | 25 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
