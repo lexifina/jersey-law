@@ -4,6 +4,6 @@ In this Law -
 “airport authority” means the authority appointed under Article 2(1);
 “Airport Director” means the person who is, under Article 2, the Airport Director;
 “Harbour Master” has the meaning it has in the Harbours (Administration) (Jersey) Law 1961 and includes a person acting under that Law as the Harbour Master;
-“Minister” means the Minister for Economic Development, Tourism, Sport and Culture;
+“Minister” means the Minister for Sustainable Economic Development;
 “seadrome” means an area of water that is an aerodrome.
 This Law applies subject to the provisions of the Civil Aviation (Jersey) Law 2008.
