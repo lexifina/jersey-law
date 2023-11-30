@@ -276,13 +276,11 @@ Stopford Road
 Unnamed road between La Rue de la Parade and La Rue du Paradis
 Victoria Road
 TRINITY
-La Route de la Trinité (from its junction with La Rue ès Picots to a point 49 yards south of that junction)
-La Rue D’Asplet
-La Rue du Boulay (from its junction with La Rue ès Picots to a point 72 yards south of Le Chemin D’Olivet)
-La Rue des Croix (from La Rue du Presbytère to La Rue Au Sellier)
-La Rue Guerdain (from its junction with La Rue D’Asplet to a point 60 yards north of that junction)
-La Rue de La Monnaie (from La Rue D’Asplet to La Rue de la Fontaine)
-La Rue ès Picots (from La Route de la Trinité to a point 186 yards east of La Rue du Carrefour)
-La Rue du Presbytère
-La Rue Au Sellier (from its junction with La Rue D’Asplet to a point 28 yards north of that junction)
-La Ruette de la Ville à l’Evêque (from a point 24 yards north of its junction with La Rue de la Monnaie)
+La Route d’Ebenezer (from its junction with La Rue de la Petite Falaise to a point 320 metres west of that junction)
+La Rue de la Monnaie (from La Rue d’Asplet to La Rue de la Fontaine)
+La Rue de la Petite Falaise
+La Rue des Croix (from La Route d’Ebenezer to a point 30 metres northwest of its junction with La Rue au Sellier)
+La Rue du Boulay (from La Rue de la Petite Falaise to a point 66 metres south of Le Chemin d’Olivet)
+La Rue ès Picots (from a point 95 metres east of La Rue du Boulay to a point 185 metres further east)
+La Rue Guerdain
+La Ruette de la Ville à l’Evêque (from La Rue de la Monnaie to a point 22 metres north)

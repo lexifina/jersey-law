@@ -366,9 +366,17 @@ Swan Farm Lane
 Valley Road
 The estate roads at Wellington Park
 TRINITY
-La Grande Route de St. Jean
+La Grande Route de St. Jean (from La Rue du Bechet ès Cats to its southern boundary with the Parish of St. John)
+La Route de la Trinité (from La Rue ès Picots for 45 metres south)
+La Rue au Sellier
+La Rue d’Asplet
+La Rue des Croix (from La Rue du Presbytère to a point 30 metres northwest of its junction with La Rue au Sellier)
+La Rue du Boulay (from La Rue ès Picots to a point 66 metres south of Le Chemin d’Olivet)
 La Rue du Carrefour
 La Rue du Mont Pellier
-La Rue du Travers
-La Verte Rue (from La Rue ès Picots to La Rue du Catel)
+La Rue du Presbytère
+La Rue de Travers
+La Rue ès Picots (from a point 95 metres east of La Rue du Boulay to La Route de la Trinité)
+La Verte Rue (from La Rue ès Picots to La Rue du Câtel)
+Le Grand Clos
 Les Ruelles
