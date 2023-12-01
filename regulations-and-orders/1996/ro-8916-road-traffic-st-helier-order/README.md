@@ -1,6 +1,6 @@
 # Road Traffic (St. Helier) (Jersey) Order 1996
 
-R&O.8916 · official consolidation showing the law from 2023-09-28 · <https://www.jerseylaw.je/laws/current/ro_8916_20231130>
+R&O.8916 · official consolidation showing the law from 2023-12-01 · <https://www.jerseylaw.je/laws/current/ro_8916_20240213>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -35,6 +35,7 @@ R&O.8916 · official consolidation showing the law from 2023-09-28 · <https://w
 | Art. 27 | [art-027.md](art-027.md) | 27 Duration of parking on certain roads |
 | Art. 27A | [art-027-a.md](art-027-a.md) | 27A Special business parking permit |
 | Art. 27B | [art-027-b.md](art-027-b.md) | 27B Car club permit |
+| Art. 27C | [art-027-c.md](art-027-c.md) | 27C Electric vehicle parking |
 | Art. 28 | [art-028.md](art-028.md) | 28 Interpretation |
 | Art. 29 | [art-029.md](art-029.md) | 29 Permit parking in zones |
 | Art. 29A | [art-029-a.md](art-029-a.md) | 29A Use of parking places restricted to permit parking at specified times |

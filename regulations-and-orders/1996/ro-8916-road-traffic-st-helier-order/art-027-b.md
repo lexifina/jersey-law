@@ -2,7 +2,6 @@
 (1) In this Article -
 “car club” means a body of persons subject to an arrangement under which electric vehicles are made available for use by its members;
 “designated area” means the roads specified in Part 15 of Schedule 8;
-“electric vehicle” means a vehicle that is powered solely by an electric motor;
 “issuing body” means the Connétable or the Minister;
 “permit holder” means a car club to whom a permit has been issued by the issuing body under paragraph (3);
 “valid permit” means a permit that has not expired under paragraph (5).

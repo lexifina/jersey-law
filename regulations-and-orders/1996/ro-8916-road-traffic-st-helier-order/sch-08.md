@@ -347,5 +347,10 @@ North side (between the western boundary of No. 20 and a point 16 yards further 
 Part 15
 (Article 27B)
 car club permit parking
+Esplanade
+North side (between a point 99 yards east of its junction with Castle Street and a point 13 yards further east)
+Part 16
+(Article 27C)
+Electric vehicle parking - Paying parking places 2 hour limit between 9 a.m. and 10 p.m.
 Parade, The (eastern arm)
-West side (between a point 23 yards north of its junction with Union Street and a point 6 yards further north)
+West side (between a point 18 yards north of its junction with Union Street and a point 10 yards further north)”.
