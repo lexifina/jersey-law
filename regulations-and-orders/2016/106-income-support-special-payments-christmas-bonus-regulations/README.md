@@ -1,6 +1,6 @@
 # Income Support (Special Payments) (Christmas Bonus) (Jersey) Regulations 2016
 
-R&O.106/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_106_2016_20231203>
+R&O.106/2016 · official consolidation showing the law from 2023-12-04 · <https://www.jerseylaw.je/laws/current/ro_106_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
