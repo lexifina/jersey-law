@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 6)
 appeals to the medical appeal tribunal or the social security tribunal
 1 Appeals to the Tribunal

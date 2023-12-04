@@ -1,6 +1,6 @@
 # Long-Term Care (General Provisions) (Jersey) Order 2014
 
-R&O.75/2014 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_75_2014_20231203>
+R&O.75/2014 · official consolidation showing the law from 2023-12-04 · <https://www.jerseylaw.je/laws/current/ro_75_2014_20260405>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,4 +28,4 @@ R&O.75/2014 · official consolidation showing the law from 2023-01-01 · <https:
 | Art. 21 | [art-021.md](art-021.md) | 21 Persons paying in full charges under the HSS Charges Law |
 | Art. 22 | [art-022.md](art-022.md) | 22 Persons under the age of 65 receiving long-term care services |
 | Art. 23 | [art-023.md](art-023.md) | 23 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
