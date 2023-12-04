@@ -1,6 +1,6 @@
 # Social Security (Christmas Bonus) (Jersey) Regulations 2016
 
-R&O.107/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_107_2016_20231203>
+R&O.107/2016 · official consolidation showing the law from 2023-12-04 · <https://www.jerseylaw.je/laws/current/ro_107_2016_20260329>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,5 +12,4 @@ R&O.107/2016 · official consolidation showing the law from 2019-01-01 · <https
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Persons acting on behalf of claimants |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Verifying entitlement to Christmas bonus, and cessation of entitlement |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Recovery of bonus wrongly paid |
-| Reg. 9 | [reg-009.md](reg-009.md) | 9 Transitional provisions |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Citation |
