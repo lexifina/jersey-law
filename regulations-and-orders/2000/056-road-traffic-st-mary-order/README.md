@@ -1,6 +1,6 @@
 # Road Traffic (St. Mary) (Jersey) Order 2000
 
-R&O.56/2000 · official consolidation showing the law from 2021-02-19 · <https://www.jerseylaw.je/laws/current/ro_56_2000_20231205>
+R&O.56/2000 · official consolidation showing the law from 2023-12-06 · <https://www.jerseylaw.je/laws/current/ro_56_2000_20240613>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ R&O.56/2000 · official consolidation showing the law from 2021-02-19 · <https:
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Duration of parking on certain roads |
 | Art. 6 | [art-006.md](art-006.md) | 6 Savings |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

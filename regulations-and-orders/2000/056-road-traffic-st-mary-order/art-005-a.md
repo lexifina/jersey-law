@@ -1,2 +1,2 @@
 # 5A Duration of parking on certain roads
-A vehicle shall not be parked on a road specified in Schedule 4 for a total period exceeding 12 hours in any continuous period of 24 hours.
+A vehicle must not be parked on a road specified in Schedule 4 for a total period exceeding 12 hours in any continuous period of 24 hours.

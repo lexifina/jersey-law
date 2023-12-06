@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 PART 1
 (Article 5(1))
 Roads not to be used by chars-à-banc

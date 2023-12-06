@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 5A)
 Duration of parking on certain roads
 Column 1
