@@ -97,15 +97,15 @@ The Haiti (Sanctions) Regulations 2022
 regulation 6
 regulations 16(1), 17(1), 18(1), 19(1), 20(1), 20(2), 20(3), 21(1), 22(1)
 Iran 1
-The Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019
-2019/134
-regulation 10
-regulations 24(1), 25(1), 26(1), 27(1), 28(1), 28(2), 28(3), 29(1), 30(1)
-Iran 2
 The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019
 2019/461
 regulation 11
 regulations 22(1), 23(1), 24(1), 25(1), 26(1), 26(2), 26(3), 27(1), 29(1), 30(1), 31(1), 32(1), 33(1)
+Iran 2
+The Iran (Sanctions) Regulations 2023
+2023/1314
+regulation 14
+regulations 29(1), 30(1), 31(1), 32(1), 33(1), 33(2), 33(3), 34(1), 35(1), 38(1), 39(1), 40(1), 41(1), 42(1), 42(2), 42(3), 43(1), 46(1), 46(2), 47(4), 48(3)
 Iraq
 The Iraq (Sanctions) (EU Exit) Regulations 2020
 2020/707
