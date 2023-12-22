@@ -16,6 +16,8 @@ Gorey Village Main Road
 West side (between a point 9 yards north of the junction with New Road and a point 6 yards further north)
 ST. BRELADE
 Parking places - 4 hour limit
+La Neuve Route
+West side (from a point 168 yards south of La Mont au Roux for 7 yards in a southerly direction).
 Le Boulevard
 (The Bulwarks)
 Between the southern side of the entrance to the property known as the “Harbour View Guest House” and the northern side of the entrance to the property known as “Maison Herault”
