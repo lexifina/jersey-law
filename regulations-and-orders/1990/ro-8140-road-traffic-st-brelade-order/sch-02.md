@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4(1))
 Prohibition of waiting
 Belle Vue
@@ -10,7 +10,7 @@ Don Farm
 South side (from its junction with La Route des Quennevais for a distance of 500 feet in a westerly direction).
 North side (from its junction with La Route des Quennevais for a distance of 57 yards in a westerly direction).
 Elizabeth Avenue
-Both sides (from its junction with Le Clos des Sables for a distance of 59 yards in a westerly direction).
+Both sides (from its junction with Le Clos des Sables to its junction with Elizabeth Close).
 Five Mile Road
 Both sides (between Le Braye and points 100 yards north and south of Le Braye).
 La Marquanderie
@@ -19,9 +19,10 @@ La Mielle Clement
 Both sides.
 La Neuve Route
 West side (from Le Mont au Roux for a distance of 92 yards in a southerly direction).
-West side (from a point 54 yards north of the northern boundary of the Landslide Car Park for a distance of 206 yards in a southerly direction).
+West side (from a point 153 yards south of Le Mont au Roux for 22 yards in a southerly direction).
+West side (from a point 183 yards south of Le Mont au Roux for 218 yards in a southerly direction).
 West side (between the southern side of the southern entrance to the property known as “Peterborough Garage” and the northern side of the northern entrance to that property).
-East side (from La Haule slipway for a distance of 145 yards in a southerly direction).
+East side (from La Haule slipway for 147 yards in a southerly direction).
 East side (between a point 32 yards north of the northern boundary of the Sacred Heart Roman Catholic Church and a point 5 yards south of the southern boundary of the property known as ‘Windward’).
 East side (between the point 50 yards south of the southern boundary of the property known as “Windward” and its junction with Charing Cross).
 La Petite Route des Mielles
@@ -87,7 +88,9 @@ East side (between the point 4 yards south of the south side of the property num
 West side (between the south side of the property numbered 34 and the point 2 yards south of the north side of the property numbered 41).
 Le Clos des Sables
 Both sides (from the eastern boundary of 117 Le Clos des Sables for a distance of 91 yards in a southerly direction).
-Both sides (from its junction with Elizabeth Avenue for a distance of 101 yards in a northerly direction).
+West side (from its western-most junction with La Route Orange for 341 yards in a northerly direction).
+East side (from its western-most junction with La Route Orange for 306 yards in a northerly direction).
+East side (from a point 330 yards in a northerly direction from its western-most junction with La Route Orange, then in a northerly direction to its T-junction).
 Both sides (from a point 16 yards east of the western boundary of the property numbered 17 Le Clos des Sables to a point 6 yards south of the northern boundary of that property).
 Both sides (from a point 20 yards east of the western boundary of the property numbered 19 Le Clos des Sables to a point 5 yards north of the southern boundary of that property).
 West side (from its junction with La Route Orange to the northern boundary of the property numbered 59 Le Clos des Sables for a distance of 51 yards in a northerly direction.

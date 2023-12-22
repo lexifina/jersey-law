@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 13)
 PARKING restricted to VEHICLES LOADING AND UNLOADING
 Column 1

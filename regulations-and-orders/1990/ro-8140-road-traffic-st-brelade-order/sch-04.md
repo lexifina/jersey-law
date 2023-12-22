@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Articles 6 and 7)
 PART 1
 (Article 6)

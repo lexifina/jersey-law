@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 One-way traffic routes
 La Rue au Moestre (Market Hill)

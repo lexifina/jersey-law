@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 5)
 Roads closed to through traffic
 Road

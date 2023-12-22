@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 8)
 PART 1
 Prohibition or restriction of right-hand turns

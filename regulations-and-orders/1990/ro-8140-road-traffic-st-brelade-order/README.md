@@ -1,6 +1,6 @@
 # Road Traffic (St. Brelade) (Jersey) Order 1990
 
-R&O.8140 · official consolidation showing the law from 2020-08-17 · <https://www.jerseylaw.je/laws/current/ro_8140_20231221>
+R&O.8140 · official consolidation showing the law from 2023-12-22 · <https://www.jerseylaw.je/laws/current/ro_8140_20250723>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,8 +14,7 @@ R&O.8140 · official consolidation showing the law from 2020-08-17 · <https://w
 | Art. 7 | [art-007.md](art-007.md) | 7 Prohibition of driving of certain vehicles |
 | Art. 8 | [art-008.md](art-008.md) | 8 Prohibition or restriction of turns |
 | Art. 9 | [art-009.md](art-009.md) | 9 Interpretation |
-| Art. 10 | [art-010.md](art-010.md) | 10 Parking of vehicles displaying parking discs |
-| Art. 11 | [art-011.md](art-011.md) | 11 Duration of parking on certain roads |
+| Art. 10 | [art-010.md](art-010.md) | 10 Parking limits on roads that require parking discs |
 | Art. 12 | [art-012.md](art-012.md) | 12 Indication of time on, and display of, parking discs |
 | Art. 13 | [art-013.md](art-013.md) | 13 Parking limited to vehicles loading and unloading |
 | Art. 13A | [art-013-a.md](art-013-a.md) | 13A Interpretation |
@@ -30,13 +29,13 @@ R&O.8140 · official consolidation showing the law from 2020-08-17 · <https://w
 | Art. 13J | [art-013-j.md](art-013-j.md) | 13J Change of address |
 | Art. 14 | [art-014.md](art-014.md) | 14 Saving |
 | Art. 15 | [art-015.md](art-015.md) | 15 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 2A |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 3 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 4 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 5 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 6 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 7 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 8 |
-| Schedule 10 | [sch-10.md](sch-10.md) | SCHEDULE 9 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 2A |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 3 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 4 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 5 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 6 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 7 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 8 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 9 |
