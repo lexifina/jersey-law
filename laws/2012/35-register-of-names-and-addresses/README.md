@@ -1,6 +1,6 @@
 # Register of Names and Addresses (Jersey) Law 2012
 
-L.35/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_35_2012_20231228>
+L.35/2012 · official consolidation showing the law from 2023-12-29 · <https://www.jerseylaw.je/laws/current/l_35_2012_20260323>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,6 +10,7 @@ L.35/2012 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Verification of, and changes to, the Register |
 | Art. 4 | [art-004.md](art-004.md) | 4 Information to be provided to the Minister |
 | Art. 5 | [art-005.md](art-005.md) | 5 Access to the Register and use of information by public authorities |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Minister may supply relevant information to credit reference agencies |
 | Art. 6 | [art-006.md](art-006.md) | 6 Unauthorized disclosure of information |
 | Art. 7 | [art-007.md](art-007.md) | 7 Appointment of Commissioner |
 | Art. 8 | [art-008.md](art-008.md) | 8 Regulations and Orders |
