@@ -1,6 +1,6 @@
 # Cremation (Fees) (Jersey) Order 2007
 
-R&O.144/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_144_2007_20231231>
+R&O.144/2007 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_144_2007_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
