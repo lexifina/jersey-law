@@ -1,6 +1,6 @@
 # Long-Term Care Services (Health and Social Services Charges) (Jersey) Order 2014
 
-R&O.79/2014 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_79_2014_20231231>
+R&O.79/2014 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_79_2014_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
