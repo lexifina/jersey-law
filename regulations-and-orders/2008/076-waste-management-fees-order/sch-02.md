@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 1(7))
 determination of APPROPRIATE fee
 1 Licence application and licence surrender
