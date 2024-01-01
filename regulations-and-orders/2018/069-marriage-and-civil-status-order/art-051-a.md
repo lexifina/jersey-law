@@ -26,3 +26,4 @@
 (a) that person’s Health and Social Services number;
 (b) particulars of any surgical operations performed on that person’s body in the 12 months prior to that person’s death;
 (c) particulars of any morbid conditions present at the time of that person’s death, but not contributing to his or her death; and
+(d) any personal accident suffered by that person in the 12 months prior to that person’s death.

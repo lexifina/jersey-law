@@ -11,3 +11,4 @@
 (c) an authorized religious official must, if required by the Superintendent Registrar, undertake training approved by the Superintendent Registrar to ensure that marriages are solemnized in compliance with the Law;
 (d) an authorized religious official must notify the Superintendent Registrar in writing within 30 days of -
 (i) any change of circumstances that results in the details entered in the register of authorized religious officials in relation to the person no longer being correct, or
+(ii) the occurrence of an event that might have caused the Superintendent Registrar not to authorize the person as an authorized religious official if the event had occurred before the person was registered as such.
