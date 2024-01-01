@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 6)
 Value of transaction AND RATE OF LTT APPLICABLE
 1 Interpretation of Schedule
@@ -46,16 +46,24 @@ Variable element of tax
 (vii) exceeds £1,500,000 but does not exceed £2,000,000
 £47,000 in respect of the first £1,500,000 plus £5.50 for each £100 or part of £100 in excess thereof
 (viii) exceeds £2,000,000 but does not exceed £3,000,000
-£74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
+£74,500 in respect of the first £2,000,000 plus £7.50 for each £100 or part of £100 in excess thereof
 (ix) exceeds £3,000,000 but does not exceed £6,000,000
-£144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+£149,500 in respect of the first £3,000,000 plus £10 for each £100 or part of £100 in excess thereof
 (x) exceeds £6,000,000
-£429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
+£449,500 in respect of the first £6,000,000 plus £11 for each £100 or part of £100 in excess thereof
 (1A) For the purposes of sub-paragraph (1) -
 (a) a reference to domestic use must be construed as a reference to use for domestic purposes in accordance with the Rates (Jersey) Law 2005;
 (b) a reference to non-domestic use must be construed as a reference to use for non-domestic purposes in accordance with that Law;
 (c) any question whether land is used for domestic or non-domestic purposes is determined in accordance with the use indicated in the Rates List maintained and kept under that Law for the parish in which the land is situated at the date of the relevant transaction.
-(2) For the purposes of sub-paragraph (1), where consideration passes in respect of a transaction described in Article 3(1)(a) or (b), the value of the transaction is the amount of the consideration or, if the gross value of the land to which the transaction relates exceeds such consideration, the gross value of the land.
+(2) For the purposes of sub-paragraph (1), where consideration passes in respect of a transaction described in Article 3(1)(a) or (b), the value of the transaction is -
+(a) if sub-paragraph (2A) applies, the amount of the consideration; and
+(b) in any other case, the amount of the consideration or, if the gross value of the land exceeds the consideration, the gross value of the land.
+(2A) This sub-paragraph applies where -
+(a) the land to which the transaction relates is land on which a dwelling is, or is to be, constructed;
+(b) the sale and purchase contract for the transaction is not transferable by the purchaser to another person;
+(c) the sale and purchase contract contains a penalty of at least 10% of the consideration that applies if the purchaser does not complete the purchase;
+(d) the consideration agreed in the sale and purchase contract is at or above the notional market value, at the time the contract was signed, of the dwelling; and
+(e) the sale and purchase contract was signed on or after 1st January 2017.
 (3) For the purposes of sub-paragraph (1), where no consideration passes in respect of a transaction described in Article 3(1)(a) or (b), the value of the transaction is the gross value of the land to which it relates.
 (4) Notwithstanding sub-paragraphs (2) and (3), for the purposes of sub-paragraph (1), where a transaction described in Article 3(1)(a) is for the transfer of shares by a sole owner into joint ownership with another person, or where a transaction described in Article 3(1)(b) is for an alteration of a declaration of trusts whereby a share held on trust for the benefit of one person is henceforth held on trust for the benefit of that person jointly with another person, the value of the transaction is the amount of consideration for it or, if one half of the gross value of the land exceeds such consideration, one half of the gross value of land.
 (5) Notwithstanding sub-paragraphs (2) and (3), for the purposes of sub-paragraph (1), where a transaction described in Article 3(1)(a) is for the transfer of shares by joint owners into sole ownership, or where a transaction described in Article 3(1)(b) is for an alteration of a declaration of trusts whereby a share held on trust for the benefit of persons jointly is henceforth held on trust for the benefit of one only of those persons, the value of the transaction is the amount of consideration for it or, if one half of the gross value of the land exceeds such consideration, one half of the gross value of the land.
@@ -106,9 +114,9 @@ where Y is the value of the property.
 (d) any arrangement whereby a share described in Article 3(1)(a) was held on trust for the benefit of the occupier.
 (3) The rate of LTT applicable to a transaction to which this paragraph applies is £90, plus -
 (a) where the value of the transaction does not exceed £350,000, nil;
-(b) where the value of the transaction exceeds £350,000 but does not exceed £450,000, nil in respect of the first £350,000, plus £1 for each £100 or part of £100 in excess thereof;
-(c) where the value of the transaction exceeds £450,000 but does not exceed £500,000, the amount of LTT that would have been payable if paragraph (2) had applied reduced by the following formula:
-6,000 - ((V- 450,000) x 12%)
+(b) where the value of the transaction exceeds £350,000 but does not exceed £600,000, nil in respect of the first £350,000, plus £1 for each £100 or part of £100 in excess thereof;
+(c) where the value of the transaction exceeds £600,000 but does not exceed £700,000, the amount of LTT that would have been payable if paragraph (2) had applied reduced by the following formula:
+8,500 - ((V - 600,000) × 8.5%)
 where V is the value of the transaction.
 (4) For the purposes of this paragraph, the value of the transaction is the gross value of the land or, if the dwelling has not yet been constructed on it, the notional gross value of the land once the dwelling has been constructed.
 5 Properties that are not main residences
@@ -132,11 +140,11 @@ exceeds £1,000,000 but does not exceed £1,500,000
 exceeds £1,500,000 but does not exceed £2,000,000
 £92,000 in respect of the first £1,500,000 plus £8.50 for each £100 or part of £100 in excess thereof
 exceeds £2,000,000 but does not exceed £3,000,000
-£134,500 in respect of the first £2,000,000 plus £10 for each £100 or part of £100 in excess thereof
+£134,500 in respect of the first £2,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
 exceeds £3,000,000 but does not exceed £6,000,000
-£234,500 in respect of the first £3,000,000 plus £12.50 for each £100 or part of £100 in excess thereof
+£239,500 in respect of the first £3,000,000 plus £13 for each £100 or part of £100 in excess thereof
 exceeds £6,000,000
-£609,500 in respect of the first £6,000,000 plus £13.50 for each £100 or part of £100 in excess thereof
+£629,500 in respect of the first £6,000,000 plus £14 for each £100 or part of £100 in excess thereof
 6 Sole ownership into joint ownership: matrimonial property or civil partnership property
 (1) This paragraph applies where a transaction described in paragraph 2(4) -
 (a) takes place by reason of an order made by the Royal Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, or Article 48 of the Civil Partnership (Jersey) Law 2012; or

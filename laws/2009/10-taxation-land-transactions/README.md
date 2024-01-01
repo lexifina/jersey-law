@@ -1,6 +1,6 @@
 # Taxation (Land Transactions) (Jersey) Law 2009
 
-L.10/2009 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20231231>
+L.10/2009 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/l_10_2009_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -26,4 +26,4 @@ L.10/2009 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 Issue of replacement LTT receipt |
 | Art. 20 | [art-020.md](art-020.md) | 20 Orders |
 | Art. 21 | [art-021.md](art-021.md) | 21 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
