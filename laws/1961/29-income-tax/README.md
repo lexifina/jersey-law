@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://www.jerseylaw.je/laws/current/l_29_1961_20231231>
+L.29/1961 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20240110>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 3AC | [art-003-ac.md](art-003-ac.md) | 3AC Eligible investment scheme |
 | Art. 3AD | [art-003-ad.md](art-003-ad.md) | 3AD Eligible participant |
 | Art. 3AE | [art-003-ae.md](art-003-ae.md) | 3AE Distributions |
+| Art. 3AF | [art-003-af.md](art-003-af.md) | 3AF Regulatory compliance activity |
 | Art. 4 | [art-004.md](art-004.md) | 4 Meaning of, and provisions as to, total income |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Meaning of, and provision as to, financial period and accounting date |
 | Art. 15 | [art-015.md](art-015.md) | 15 Comptroller to ascertain income liable to tax |
@@ -48,6 +49,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 35 | [art-035.md](art-035.md) | 35 Power to summon and examine witnesses |
 | Art. 35A | [art-035-a.md](art-035-a.md) | 35A Appeals may be conducted remotely |
 | Art. 36 | [art-036.md](art-036.md) | 36 Appeals to the Royal Court |
+| Art. 36A | [art-036-a.md](art-036-a.md) | 36A Settling appeals by agreement |
 | Art. 37 | [art-037.md](art-037.md) | 37 Provision against double assessment |
 | Art. 38 | [art-038.md](art-038.md) | 38 Relief in respect of error or mistake |
 | Art. 39 | [art-039.md](art-039.md) | 39 Tax when due |
@@ -116,6 +118,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 70B | [art-070-b.md](art-070-b.md) | 70B Deduction on account of a levy paid to the Jersey Bank Depositors Compensation Board |
 | Art. 70C | [art-070-c.md](art-070-c.md) | 70C Deductions on account of foreign tax paid |
 | Art. 70D | [art-070-d.md](art-070-d.md) | 70D Employer’s contributions into group life insurance scheme |
+| Art. 70E | [art-070-e.md](art-070-e.md) | 70E Deductions for expenditure on regulatory compliance activity |
 | Art. 74 | [art-074.md](art-074.md) | 74 General partnerships |
 | Art. 75 | [art-075.md](art-075.md) | 75 Changes of proprietor |
 | Art. 75A | [art-075-a.md](art-075-a.md) | 75A Change of partner |
@@ -191,6 +194,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 106A | [art-106-a.md](art-106-a.md) | 106A Allowances and balancing adjustments |
 | Art. 106AB | [art-106-ab.md](art-106-ab.md) | 106AB Special provisions if assets transferred to successor to trade |
 | Art. 106B | [art-106-b.md](art-106-b.md) | 106B Special provisions as to glasshouses |
+| Art. 106BA | [art-106-ba.md](art-106-ba.md) | 106BA Special provision as to regulatory compliance activity |
 | Art. 106C | [art-106-c.md](art-106-c.md) | 106C Miscellaneous and general |
 | Art. 107 | [art-107.md](art-107.md) | 107 Right to have income for year of assessment adjusted by reference to losses |
 | Art. 107A | [art-107-a.md](art-107-a.md) | 107A Right to carry back losses |
@@ -205,9 +209,10 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 114A | [art-114-a.md](art-114-a.md) | 114A Interpretation of Part 14A |
 | Art. 114B | [art-114-b.md](art-114-b.md) | 114B General principles of unilateral relief |
 | Art. 114C | [art-114-c.md](art-114-c.md) | 114C Credit for foreign tax on dividends from subordinate companies |
+| Art. 114D | [art-114-d.md](art-114-d.md) | 114D Interpretation of Part 14B |
+| Art. 114E | [art-114-e.md](art-114-e.md) | 114E Unilateral relief from taxation on foreign income from employment |
 | Art. 115 | [art-115.md](art-115.md) | 115 Miscellaneous exemptions |
 | Art. 115A | [art-115-a.md](art-115-a.md) | 115A Exemption in respect of redundancy and other termination payments |
-| Art. 116 | [art-116.md](art-116.md) | 116 Exemption for certain friendly societies |
 | Art. 117 | [art-117.md](art-117.md) | 117 Exemption in respect of wounds and disability pensions |
 | Art. 118 | [art-118.md](art-118.md) | 118 Exemption for savings banks |
 | Art. 118A | [art-118-a.md](art-118-a.md) | 118A Exemption in respect of States of Jersey securities held by non-residents |
@@ -225,6 +230,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 121C | [art-121-c.md](art-121-c.md) | 121C Election by spouses for independent taxation from 2022 |
 | Art. 121D | [art-121-d.md](art-121-d.md) | 121D Election by spouses for independent taxation from 2023 |
 | Art. 121E | [art-121-e.md](art-121-e.md) | 121E Election by spouses for independent taxation from 2024 |
+| Art. 121F | [art-121-f.md](art-121-f.md) | 121F Election by spouses for independent taxation |
 | Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
 | Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
 | Art. 122AB | [art-122-ab.md](art-122-ab.md) | 122AB Application of this Part |
@@ -235,6 +241,7 @@ L.29/1961 · official consolidation showing the law from 2023-07-14 · <https://
 | Art. 122DA | [art-122-da.md](art-122-da.md) | 122DA Election by civil partners for independent taxation from 2022 |
 | Art. 122DB | [art-122-db.md](art-122-db.md) | 122DB Election by civil partners for independent taxation from 2023 |
 | Art. 122DC | [art-122-dc.md](art-122-dc.md) | 122DC Election by civil partners for independent taxation from 2024 |
+| Art. 122DD | [art-122-dd.md](art-122-dd.md) | 122DD Election by civil partners for independent taxation |
 | Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
 | Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |

@@ -5,11 +5,11 @@
 (2) In this Article “specified time” means -
 (a) in relation to a requirement to deliver a return in respect of a year of assessment -
 (i) in the case of a return in respect of a company’s own charge to tax, midnight on 30th November in the year following the year of assessment,
-(ia) in the case of a return in respect of an LLC under Article 135C, midnight on 31st December in the year following the year of assessment,
+(ia) in the case of a return in respect of an LLC under Article 135C, midnight on 30th November in the year following the year of assessment,
 (ii) in the case of a return delivered electronically other than a return referred to in clause (i) or (ia), midnight on 31st July in the year following the year of assessment,
 (iii) in the case of any other return not referred to in clause (i), (ia) or (ii), midnight on 31st May in the year following the year of assessment;
 (b) in the case of a return under Article 20(1) or 20A(1), midnight on the 15th day after the end of the month in respect of which the return is required to be delivered;
-(c) in the case of a return under Article 20C, midnight on 31st January in the year following the year in which or in respect of which the benefit was provided;
+(c) in the case of a return under Article 20C, midnight on 15th January in the year following the year in which or in respect of which the benefit was provided;
 (d) in the case of a return under Article 20(1A) or 20A(1A), midnight on the 15th day after the end of each year;
 (e) in the case of a return under Article 20E, midnight on 30th November in the year following the year of assessment.
 (2A) Where a person required to deliver to the Comptroller a true, complete and correct return does not do so by midnight on the date that is 3 months after the specified time, the person is liable to a penalty of an amount specified in paragraph (2B) for each month that the return remains undelivered up to a maximum of 9 months.
