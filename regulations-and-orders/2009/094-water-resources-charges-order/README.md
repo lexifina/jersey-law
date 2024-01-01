@@ -1,6 +1,6 @@
 # Water Resources (Charges) (Jersey) Order 2009
 
-R&O.94/2009 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_94_2009_20231231>
+R&O.94/2009 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_94_2009_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
