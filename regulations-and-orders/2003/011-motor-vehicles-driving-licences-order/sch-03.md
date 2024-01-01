@@ -3,35 +3,51 @@
 FEES
 Column 1
 Column 2
+Column 3
+Item
 Subject
 Fee
-Licences
-Grant of licence (other than a provisional licence)
-£50
-Grant of provisional licence
-£20
-Issue of a new licence in the place of a licence (other than a provisional licence) that has been lost or defaced
-£50
-Issue of a new licence in the place of a provisional licence that has been lost or defaced
-£20
-Grant of licence free of endorsement on surrender of subsisting licence
-£50
-Additional amount payable for grant or issue of licence where applicant requests and receives same-day service
-£25
-Prescribed test
-Compulsory basic training course (and giving of compulsory basic training certificate if successful)
-£145.50
-Duplicate copy of compulsory basic training certificate
-£12
-Off road theory test other than in respect of category C and D vehicles
-£38.50
-Off road theory test in respect of category C and D vehicles
-£47
-On road practical test other than in respect of category A1, P, C and D vehicles or, in respect of category A, where a person is not required under Article 24(4)(e) to produce a compulsory basic training certificate to the examiner immediately before taking the test
-£56.50
-On road practical test in respect of category C and D vehicles
-£106.50
-On road practical test in respect of category A1 and P vehicles or, in respect of category A, where a person is required under Article 24(4)(e) to produce a compulsory basic training certificate to the examiner immediately before taking the test
-£49
-Duplicate copy of certificate or statement in respect of result of theory test or practical test
-£12
+Part 1 - Licences
+1
+Application for grant of a licence (other than a provisional licence)
+£70
+2
+Application for grant of a provisional licence
+£30
+3
+Application for issue of a new licence in the place of a licence (other than a provisional licence) that has been lost or defaced
+£70
+4
+Application for issue of a new licence in the place of a provisional licence that has been lost or defaced
+£30
+5
+Application for issue of a licence free from endorsement on surrender of subsisting licence
+£70
+6
+Additional amount payable for grant or issue of licence if applicant requests and receives same-day service
+£35
+Part 2 - Prescribed test
+7
+Application to take basic training course (fee includes compulsory basic training certificate given on successful completion of course)
+£153
+8
+Issue of duplicate copy of compulsory basic training certificate
+£13
+9
+Application to take theory test, other than for category C and D vehicles
+£39.50
+10
+Application to take theory test for category C and D vehicles
+£48.50
+11
+Application to take practical test, other than for category C and D vehicles, category A1 and P vehicles, and category A vehicles if the person is required under Article 24(4)(d) to produce a compulsory basic training certificate before taking the test
+£58.50
+12
+Application to take practical test for category C and D vehicles
+£110
+13
+Application to take practical test for category A1 and P vehicles and category A vehicles if the person is required under Article 24(4)(d) to produce a compulsory basic training certificate before taking the test
+£50.50
+14
+Issue of duplicate copy of certificate or statement showing pass result for theory test or practical test
+£13
