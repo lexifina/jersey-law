@@ -1,6 +1,6 @@
 # Planning and Building (Fees) (Jersey) Order 2008
 
-R&O.33/2008 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_33_2008_20231231>
+R&O.33/2008 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_33_2008_20240818>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,6 @@ R&O.33/2008 · official consolidation showing the law from 2023-01-01 · <https:
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Fees in respect of appeals |
 | Art. 5 | [art-005.md](art-005.md) | 5 Waiver or refund of fees and circumstances in which no fee is payable |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

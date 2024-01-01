@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 4A)
 fees to accompany a notice of appeal
 Column 1
@@ -12,10 +12,10 @@ APPEAL AGAINST REFUSAL OR DEEMED REFUSAL OF APPLICATION FOR PLANNING PERMISSION 
 (including application for permission for development which has already taken place)
 1a
 - for major development
-£1,855
+£1,901
 1b
 - for minor development
-£580
+£594.50
 NOTE: “major development” is defined as:
 · Residential development of 1 unit or above.
 · New non-residential development.
@@ -30,26 +30,26 @@ NOTE: “major development” is defined as:
 Any development which is not major development is minor development.
 2
 APPEAL AGAINST GRANT OF PLANNING PERMISSION (Article 108(2)(a))
-£580
+£594.50
 3
 APPEAL AGAINST IMPOSITION OF CONDITION OR REFUSAL TO VARY OR REMOVE CONDITION (Article 108(2)(d))
-£580
+£594.50
 4
 APPEAL AGAINST A REFUSAL TO GRANT A CERTIFICATE OF COMPLETION (Article 108(2)(f))
-£580
+£594.50
 5
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION UNDER BUILDING BYE-LAWS (Article 108(2)(g))
-£580
+£594.50
 6
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION TO UNDERTAKE OPERATIONS OR MAKE CHANGE OF USE OR UNDERTAKE ACTIVITIES ON, IN OR UNDER A SITE OF SPECIAL INTEREST (Article 108(2)(j) and (k))
-£580
+£594.50
 7
 APPEAL AGAINST A REFUSAL TO GRANT PERMISSION FOR THE IMPORTATION OR USE OF A CARAVAN (Article 108(2)(n))
-£580
+£594.50
 8
 OTHER APPEALS:
 A) against the revocation or modification of any planning permission (Article 108(2)(e))
 B) against the listing of a building or place, or refusal to remove a building or place from the list (Article 108(2)(h) and (i))
 C) against the listing of a tree or refusal to remove a tree from the list (Article 108(2)(l))
 D) against the service of a notice requiring action including an enforcement notice (Article 109)
-£115.50
+£118.30
