@@ -75,15 +75,17 @@ Greffier
 Contract
 Greffier
 (viii) exceeds £2,000,000 but does not exceed £3,000,000
-£74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
+£74,500 in respect of the first £2,000,000 plus £7.50 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (ix) exceeds £3,000,000 but does not exceed £6,000,000
-£144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+£149,500 in respect of the first £3,000,000 plus £10 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (x) exceeds £6,000,000
-£429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
+£449,500 in respect of the first £6,000,000 plus £11 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
 2A Further bands relating to value in item 13
 The table set out in this paragraph is to be read as included in each paragraph of item 13 where there is an entry “See table in paragraph 2A”.
 Item 13
@@ -127,17 +129,17 @@ Contract
 Greffier
 (viii)
 exceeds £2,000,000 but does not exceed £3,000,000
-£134,500 in respect of the first £2,000,000 plus £10 for each £100 or part of £100 in excess thereof
+£134,500 in respect of the first £2,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (ix)
 exceeds £3,000,000 but does not exceed £6,000,000
-£234,500 in respect of the first £3,000,000 plus £12.50 for each £100 or part of £100 in excess thereof
+£239,500 in respect of the first £3,000,000 plus £13 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 (x)
 exceeds £6,000,000
-£609,500 in respect of the first £6,000,000 plus £13.50 for each £100 or part of £100 in excess thereof
+£629,500 in respect of the first £6,000,000 plus £14 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
 3 Tables of judicial fees
@@ -471,35 +473,60 @@ Designated Officer
 13.
 CONTRACTS -
 (a)
-Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (b), (j), (k) or (t) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
+Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (aa), (b), (ba), (j), (k) or (t) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
 IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
 IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 Provided that in the case of a contract of exchange of immovable property the fees specified in the table in this paragraph shall be separately calculated in respect of the gross value of each property transferred.
+(aa)
+Of sale of immovable property (except as provided by paragraph (ba) or (t) of this item) if the contract is a relevant off-plan contract, the amount of the consideration -
+IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
+IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
+Provided that in the case of a contract of exchange of immovable property the fees specified in the table in this paragraph are to be separately calculated in respect of the gross value of each property transferred.
 (b)
-Of sale of land on which a dwelling is, or is to be, constructed for occupation by the purchaser where (subject as is hereinafter provided) the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale -
+Of sale of land on which a dwelling is, or is to be, constructed for occupation by the purchaser where (subject as is hereinafter provided) the gross value of the property or, if the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale -
 (i) does not exceed £350,000
 NIL
 Contract
 Greffier
-(ii) exceeds £350,000 but does not exceed £450,000
+(ii) exceeds £350,000 but does not exceed £600,000
 NIL in respect of the first £350,000 plus £1 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
-(iii) exceeds £450,000 but does not exceed £500,000
+(iii) exceeds £600,000 but does not exceed £700,000
 the amount of stamp duty that would have been payable if paragraph (a) had applied reduced by the following formula:
-6,000 - ((V- 450,000) x 12%)
-Where V is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
+8,500 - ((V- 600,000) x 8.5%)
+where V is the gross value of the property or, if the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
 Contract
 Greffier
-Provided that the fees specified in this paragraph shall only be substituted for those payable under paragraph (a) of this item where the transaction fulfills all the following conditions -
+Provided that the fees specified in this paragraph are only to be substituted for those payable under paragraph (a) of this item if the transaction fulfils all the following conditions -
 (A) the purchaser requests that the stamp duty be assessed in accordance with this sub-paragraph;
 (B) the purchaser is a person who has Entitled status in accordance with the Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013, other than by virtue of Regulation 2(1)(e) of those Regulations, or is the spouse or a civil partner of such a person and is joint transferee with that person;
-(C) the purchaser satisfies the designated officer that he or she has never owned a reversionary interest in any dwelling accommodation wherever situated nor has he or she ever previously been entitled to occupy such dwelling accommodation (or would have been so entitled if clause (B) applied) by virtue of having owned the accommodation, and for the purposes of this clause “owned” includes -
+(C) the purchaser satisfies the designated officer that the purchaser has never owned a reversionary interest in any dwelling accommodation wherever situated nor have they ever previously been entitled to occupy such dwelling accommodation (or would have been so entitled if clause (B) applied) by virtue of having owned the accommodation, and for the purposes of this clause “owned” includes -
 (a) having held such accommodation on contract lease;
 (b) having owned such accommodation together with any other person;
 (c) having owned shares that confer entitlement to occupy such accommodation; and
-(d) any arrangement whereby such accommodation was held in the name of a nominee or trustee, or of a company owned by such nominee or trustee, for the benefit of the purchaser; and
-(D) the consideration for the sale is not less, or not substantially less, than the gross value of the property as sold.
+(d) any arrangement whereby such accommodation was held in the name of a nominee or trustee, or of a company owned by such nominee or trustee, for the benefit of the purchaser;
+(D) the consideration for the sale is not less, or not substantially less, than the gross value of the property as sold; and
+(E) paragraph (ba) does not apply.
+(ba)
+Of sale of land on which a dwelling is, or is to be, constructed for occupation by the purchaser if the consideration -
+(i) does not exceed £350,000
+NIL
+Contract
+Greffier
+(ii) exceeds £350,000 but does not exceed £600,000
+NIL in respect of the first £350,000 plus £1 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii) exceeds £600,000 but does not exceed £700,000
+the amount of stamp duty that would have been payable if paragraph (a) had applied reduced by the following formula:
+8,500 - ((V- 600,000) x 8.5%)
+where V is the consideration
+Contract
+Greffier
+Provided that the fees specified in this paragraph are only to be substituted for those payable under paragraph (aa) of this item if the transaction fulfils all the following conditions -
+(A) conditions (A) to (C) of paragraph (b) are met; and
+(B) the contract is a relevant off-plan contract.
 (c)
 Of gift, resignation or cession without cash consideration of immovable property (except as provided by paragraphs (j), (k) or (t) of this item), where the gross value of the immovable property transferred -
 IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
@@ -610,14 +637,14 @@ Of lease or transfer of lease of dwelling accommodation where (subject as is her
 NIL
 Contract
 Greffier
-(ii) exceeds £350,000 but does not exceed £450,000
+(ii) exceeds £350,000 but does not exceed £600,000
 NIL in respect of the first £350,000 plus £1 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
-(iii) exceeds £450,000 but does not exceed £500,000
+(iii) exceeds £600,000 but does not exceed £700,000
 the amount of stamp duty that would have been payable if paragraph (a) had applied reduced by the following formula:
-6,000 - ((V- 450,000) x 12%)
-Where V is the gross value of the property or, where the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
+8,500 - ((V- 600,000) x 8.5%)
+where V is the gross value of the property or, if the dwelling has not been constructed, the notional gross value of the property once the dwelling has been constructed, calculated on the basis of market values obtaining at the time of the sale
 Contract
 Greffier
 Provided that the fees specified in this paragraph shall only be substituted for those payable under paragraph (l) of this item where the transaction fulfils all the following conditions -

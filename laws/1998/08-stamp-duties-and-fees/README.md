@@ -1,6 +1,6 @@
 # Stamp Duties and Fees (Jersey) Law 1998
 
-L.8/1998 · official consolidation showing the law from 2023-06-21 · <https://www.jerseylaw.je/laws/current/l_8_1998_20231231>
+L.8/1998 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1998_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,7 +11,6 @@ L.8/1998 · official consolidation showing the law from 2023-06-21 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Mode of calculating stamp duty in respect of foreign currency |
 | Art. 5 | [art-005.md](art-005.md) | 5 Stamp duty in cases of grant of probate or administration |
 | Art. 6 | [art-006.md](art-006.md) | 6 Reduction or remission of stamp duty |
-| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Remission of stamp duty on Jersey Homebuy contracts |
 | Art. 6B | [art-006-b.md](art-006-b.md) | 6B Reduction of stamp duty where immovable property purchased under approved Assisted Ownership Scheme |
 | Art. 7 | [art-007.md](art-007.md) | 7 Exemption from payment of stamp duty on financial grounds |
 | Art. 8 | [art-008.md](art-008.md) | 8 Registration of chargeable documents and grant of probate or administration |
