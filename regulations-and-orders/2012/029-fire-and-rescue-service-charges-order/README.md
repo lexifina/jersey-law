@@ -1,6 +1,6 @@
 # Fire and Rescue Service (Charges) (Jersey) Order 2012
 
-R&O.29/2012 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_29_2012_20231231>
+R&O.29/2012 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_29_2012_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ R&O.29/2012 · official consolidation showing the law from 2023-01-01 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Power to charge for action taken at sea |
 | Art. 5 | [art-005.md](art-005.md) | 5 Power to charge for attending malfunctioning fire alarm |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
