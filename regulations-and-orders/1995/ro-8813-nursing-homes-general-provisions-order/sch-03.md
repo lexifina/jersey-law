@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 7)
 PARTICULARS TO BE RECORDED IN THE REGISTER KEPT BY THE Commission
 1 The full name and address of the person registered in respect of the home and, where both the person carrying on the home and the person in charge of it are registered in respect of it, their full names and addresses.

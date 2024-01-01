@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2(1)(a))
 PART 1
 NURSING HOMES (JERSEY) LAW 1994
