@@ -10,7 +10,8 @@ REGISTRATION
 (a) the value of the taxable supplies made by the transferor in the 12 months ending on the day when the business is transferred has exceeded £300,000; or
 (b) there are reasonable grounds for believing that the value of the taxable supplies made by the transferee in the 12 months after the day when the business is transferred will exceed £300,000.
 (4) In determining the value of the taxable supplies made by a person for the purposes of this paragraph, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
-(5) In this paragraph, and in the other provisions of this Schedule, references to taxable supplies are references to taxable supplies of goods or services in Jersey (including taxable supplies of goods that are treated as supplied in Jersey under Article 23(3)(a)) or of services on which GST is charged under Article 6(1)(c).
+(5) In this paragraph, and in the other provisions of this Schedule, references to taxable supplies are references to taxable supplies of goods or services in Jersey or of services on which GST is charged under Article 6(1)(c).
+(6) In sub-paragraph (5) the reference to supplies of goods or services in Jersey includes supplies of goods that are treated as supplied in Jersey under Article 23(3)(a) by virtue of meeting Condition A or Condition C, but does not include supplies of goods that are treated as supplied in Jersey under Article 23(3)(a) only by virtue of meeting Condition B.
 2 Evaluating supplies
 (1) The value of a supply of goods or services shall be determined for the purposes of this Schedule on the basis that no GST is chargeable on the supply.
 (2) References in this Schedule to supplies are references to supplies made in the course of or furtherance of business.
@@ -82,16 +83,13 @@ the Comptroller shall, by notice in writing served on all the members, give a di
 (1) For the purposes of this Schedule, 2 or more entities, being -
 (a) 2 or more bodies corporate; or
 (b) one or more partnerships and one or more bodies corporate,
-are eligible to be treated as members of a group if the conditions of sub-paragraphs (2), (3) and (4) are satisfied.
-(2) The first condition is that, in the opinion of the Comptroller, each entity has one or more of the following in Jersey -
-(a) its usual place of residence;
-(b) a business establishment;
-(c) a fixed establishment.
-(3) The second condition is that, in the opinion of the Comptroller -
+are eligible to be treated as members of a group if the conditions of sub-paragraphs (3) and (4) are satisfied.
+(2)
+(3) The first condition is that, in the opinion of the Comptroller -
 (a) one of the entities controls all of the others;
 (b) one person (whether or not an individual) controls all of the entities; or
 (c) 2 or more individuals carrying on a business in partnership control all of the entities.
-(4) The third condition is that each entity satisfies the Comptroller that it is, taken by itself, liable to be registered by virtue of paragraph 1 or that it -
+(4) The second condition is that each entity satisfies the Comptroller that it is, taken by itself, liable to be registered by virtue of paragraph 1 or that it -
 (a) makes taxable supplies; or
 (b) is carrying on a business and intends to make taxable supplies in the course of or furtherance of that business.
 (5) For the purposes of this paragraph and paragraphs 13 to 16 -
@@ -105,9 +103,7 @@ are eligible to be treated as members of a group if the conditions of sub-paragr
 (c) a partnership includes a limited liability partnership, but excludes a partnership (within the meaning of Article 11) that is not treated as a person by virtue of Article 11.
 13 Groups of entities
 (1) The Comptroller may, on application, register as a group 2 or more entities that are eligible to be treated as members of a group.
-(1A) The Comptroller may, on application, register as a group 2 or more entities if -
-(a) each entity is liable to be registered by reference to taxable supplies of goods that are treated under Article 23(3)(a) as supplies made in Jersey; and
-(b) the second and third conditions in paragraph 12(3) and (4) are satisfied in relation to the entities.
+(1A)
 (2) Where the Comptroller grants an application for registration under this paragraph, the Comptroller must give written notice of the registration to the entity that is to be the representative member of the group.
 (3) The registration shall take effect on and from the beginning of a prescribed accounting period specified in the notice.
 (4) The entities shall then be treated as members of a registered group for the purposes of this Law, and one of them, specified in the notice, shall be taken to be the representative member.
@@ -137,7 +133,7 @@ If entities are treated as members of a registered group for the purposes of thi
 16 Removal from group where change in circumstances
 (1) This paragraph applies to an entity that is a member of a group registered under paragraph 13.
 (2) If it appears to the Comptroller that -
-(a) the entity does not fulfil the condition set out in paragraph 12(2);
+(a)
 (b) the entity has ceased to be controlled by the entity, person, or individuals carrying on business in partnership, that controls or control the other entities in the group;
 (c) the condition set out in paragraph 12(3) is no longer fulfilled in respect of the group; or
 (d) the entity does not fulfil the condition set out in paragraph 12(4),
