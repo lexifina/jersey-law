@@ -97,9 +97,14 @@ STS4
 STS5
 STS6
 STS7
+STS8A
 STS10
+STS11
 T2
 T3
+T4
+T5
+T6
 PART 5
 The maximum parking period in respect of the following parking places is 4 hours during any one visit to the parking place.
 STL3
@@ -170,3 +175,9 @@ STS9
 PART 19
 The maximum parking period in respect of the following parking place between 6 a.m. and 10 p.m. on any day is 2 hours during any one visit. A valid parking disc and a valid permit must be displayed on the vehicle during the period when it is parked there. A vehicle cannot be parked in the parking place less than one hour after the end of its last visit.
 STH32
+PART 20
+The maximum parking period in respect of the following parking place between 8 a.m. and 6 p.m. on any day is 20 minutes during any one visit. A valid parking disc must be displayed on the vehicle during the period when it is parked there.
+SJ3
+PART 21
+The maximum parking period in respect of the following parking place on any day is 5 hours during any one visit. A valid parking disc must be displayed on the vehicle during the period when it is parked there.
+SJ4

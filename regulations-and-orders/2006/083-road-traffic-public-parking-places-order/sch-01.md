@@ -155,6 +155,10 @@ Route du Nord Car Park
 SJ1
 Sorel Car Park
 SJ2
+St. John’s Village Entrance Car Park
+SJ3
+La Rue des Buttes Car Park
+SJ4
 PART 5
 St. Martin
 Archirondel, car park adjacent to the café
@@ -217,6 +221,12 @@ Bechet ès Cats, La Rue des Platons Car Park
 T2
 Jardin d’Olivet, Parc de la Petite Falaise Car Park
 T3
+Riley Field Car Park
+T4
+Trinity Parish Hall Car Park
+T5
+Trinity Youth Centre Car Park
+T6
 PART 8
 St. Clement
 Green Island Car Park
@@ -275,7 +285,11 @@ Highlands College Access Road Car Park
 STS7
 Langford Sports Centre Car Park
 STS8
+La Ruette du Sacrement Car Park
+STS8A
 Oakfield Sports Centre Car Park
 STS9
 Rue des Prés Trading Estate Car Park
 STS10
+St. Saviour’s Parish Hall Car Park
+STS11

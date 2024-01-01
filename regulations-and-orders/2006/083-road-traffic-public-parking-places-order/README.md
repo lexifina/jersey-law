@@ -1,6 +1,6 @@
 # Road Traffic (Public Parking Places) (Jersey) Order 2006
 
-R&O.83/2006 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20231231>
+R&O.83/2006 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_83_2006_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
