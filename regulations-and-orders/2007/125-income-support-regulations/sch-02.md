@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Schedule 1, paragraph 6(2))
 part 1: statements in respect of personal care element of impairment component
 Directions

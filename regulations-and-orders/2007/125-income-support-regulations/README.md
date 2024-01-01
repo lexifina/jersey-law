@@ -1,6 +1,6 @@
 # Income Support (Jersey) Regulations 2007
 
-R&O.125/2007 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_125_2007_20231231>
+R&O.125/2007 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_125_2007_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,5 +17,5 @@ R&O.125/2007 · official consolidation showing the law from 2023-01-01 · <https
 | Reg. 5F | [reg-005-f.md](reg-005-f.md) | 5F Consequences and periods of successive breaches may run concurrently |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Components and rates of income support |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
