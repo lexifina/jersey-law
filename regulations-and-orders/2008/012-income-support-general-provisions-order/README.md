@@ -1,6 +1,6 @@
 # Income Support (General Provisions) (Jersey) Order 2008
 
-R&O.12/2008 · official consolidation showing the law from 2019-10-01 · <https://www.jerseylaw.je/laws/current/ro_12_2008_20231231>
+R&O.12/2008 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_12_2008_20250511>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,5 +28,5 @@ R&O.12/2008 · official consolidation showing the law from 2019-10-01 · <https:
 | Art. 17 | [art-017.md](art-017.md) | 17 Appeals to Social Security Tribunal |
 | Art. 18 | [art-018.md](art-018.md) | 18 Appeals to Royal Court |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

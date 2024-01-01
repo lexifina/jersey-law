@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 6(2) and 11(2))
 part 1
 information to be provided in support of claim for income support

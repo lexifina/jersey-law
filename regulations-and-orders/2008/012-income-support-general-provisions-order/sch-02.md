@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 10)
 calculated income
 1 Capital to be treated as income
@@ -60,7 +60,7 @@ the amount of that income or capital shall be included in his or her total incom
 (b) adding the amount derived from capital in accordance with paragraph 1; and
 (c) deducting the amount that the household is obliged to pay by way of -
 (i) contributions payable under Article 4(2)(a)(i) and (b) of the Social Security (Jersey) Law 1974, and
-(ii) any qualifying maintenance payment up to the amount specified in paragraph 2(1)(a) of Schedule 1 to the Regulations in the case of a payment to a spouse or civil partner and up to the amount specified in paragraph 2(1)(d) of that Schedule in the case of a payment to a child.
+(ii) any qualifying maintenance payment up to the amount specified in paragraph 2(a)” of Schedule 1 to the Regulations in the case of a payment to a spouse or civil partner and up to the amount specified in paragraph 2(d) of that Schedule in the case of a payment to a child.
 (2) If the income of a household includes earnings from employment, the average weekly earnings from that employment shall be calculated over a period immediately prior to the determination of -
 (a) if the earner is paid weekly, 5 weeks;
 (b) if the earner is paid monthly, 2 months,
