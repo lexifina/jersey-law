@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 8(6))
 Information that need not be disclosed
 1. The Minister shall not be obliged under Article 8 to make available any information -

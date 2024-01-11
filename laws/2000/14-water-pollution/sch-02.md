@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 19(1), (2))
 High risk substances
 1. Any substance that has or is associated with any of the following properties, characteristics or features -

@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 56)
 Transitional provisions
 1. Notwithstanding Article 17(1) -

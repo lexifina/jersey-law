@@ -1,6 +1,6 @@
 # Water Pollution (Jersey) Law 2000
 
-L.14/2000 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_14_2000_20240110>
+L.14/2000 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_14_2000_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -62,6 +62,6 @@ L.14/2000 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 55 | [art-055.md](art-055.md) | 55 Application to Crown |
 | Art. 56 | [art-056.md](art-056.md) | 56 Transitional |
 | Art. 57 | [art-057.md](art-057.md) | 57 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
