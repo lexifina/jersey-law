@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 2(1))
 Discipline Code
 1 Interpretation
@@ -29,6 +29,6 @@ Unless on duties which dictate otherwise, officers should always be well turned 
 13 General conduct
 Whether on or off duty, officers should not behave in a way which is likely to bring discredit upon the Honorary Police.
 Notes:
-(a) The duties of those who hold the office of Centenier, Vingtenier or Constable’s Officer include the protection of life and property, the preservation of the Queen’s peace, and the prevention and detection of criminal offences. To fulfil these duties they are granted extraordinary powers; the public and the Honorary Police therefore have a right to expect the highest standards of conduct from them.
+(a) The duties of those who hold the office of Centenier, Vingtenier or Constable’s Officer include the protection of life and property, the preservation of the King’s peace, and the prevention and detection of criminal offences. To fulfil these duties they are granted extraordinary powers; the public and the Honorary Police therefore have a right to expect the highest standards of conduct from them.
 (b) This Code sets out the principles which guide officers’ conduct. It does not seek to restrict officers’ discretion: rather it aims to define the parameters of conduct within which that discretion may be exercised. However, it is important to note that any breach of the principles in this Code may result in the preferment of disciplinary charges which, if proved, in a serious case, could involve dismissal.
 (c) This Code applies to the conduct of all officers whilst on duty, or whilst off duty if the conduct is serious enough to indicate that an officer is not fit to be such. It will be applied in a reasonable and objective manner. Due regard will be paid to the degree of negligence or deliberate fault and to the nature and circumstances of an officer’s conduct. Where off-duty conduct is in question, this will be measured against the generally accepted standards of the day.

@@ -1,6 +1,6 @@
 # Police (Honorary Police Complaints and Discipline Procedure) (Jersey) Regulations 2000
 
-R&O.110/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_110_2000_20240110>
+R&O.110/2000 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_110_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -47,4 +47,4 @@ R&O.110/2000 · official consolidation showing the law from 2019-01-01 · <https
 | Reg. 40 | [reg-040.md](reg-040.md) | 40 Administration for panel |
 | Reg. 41 | [reg-041.md](reg-041.md) | 41 Service by post |
 | Reg. 42 | [reg-042.md](reg-042.md) | 42 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
