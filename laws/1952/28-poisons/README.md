@@ -1,6 +1,6 @@
 # Poisons (Jersey) Law 1952
 
-L.28/1952 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_28_1952_20240110>
+L.28/1952 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_28_1952>
 
 | Provision | File | Heading |
 | --- | --- | --- |
