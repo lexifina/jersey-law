@@ -12,3 +12,4 @@
 (a) the disposal value is deemed to be the price that the hardware or software would fetch if sold on the open market; and
 (b) the person that incurred the eligible expenditure is liable to a balancing charge -
 (i) equal to 100% of the deemed disposal value for the basis period in which the disposal occurs if the disposal occurs 3 or more financial periods after the hardware or software is acquired, or
+(ii) equal to 150% of the deemed disposal value for the basis period in which the disposal occurs if the disposal occurs fewer than 3 financial periods after the hardware or software is acquired.
