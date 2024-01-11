@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 12)
 rULES OF COURT, DISCLOSURE AND SPECIAL counsel
 1 Application
