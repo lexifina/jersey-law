@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 45)
 Powers of Information Commissioner to enter premises, to require the supply of information and to inspect information
 1 Interpretation

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1)
 Scheduled public Authorities
 1 The States Assembly including the States Greffe.

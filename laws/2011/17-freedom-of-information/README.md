@@ -1,6 +1,6 @@
 # Freedom of Information (Jersey) Law 2011
 
-L.17/2011 · official consolidation showing the law from 2019-07-26 · <https://www.jerseylaw.je/laws/current/l_17_2011_20240110>
+L.17/2011 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_17_2011_20251204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ L.17/2011 · official consolidation showing the law from 2019-07-26 · <https://
 | Art. 27 | [art-027.md](art-027.md) | 27 National security |
 | Art. 28 | [art-028.md](art-028.md) | 28 States Assembly privileges |
 | Art. 29 | [art-029.md](art-029.md) | 29 Other prohibitions or restrictions |
-| Art. 30 | [art-030.md](art-030.md) | 30 Communications with Her Majesty etc. and honours |
+| Art. 30 | [art-030.md](art-030.md) | 30 Communications with His Majesty etc. and honours |
 | Art. 31 | [art-031.md](art-031.md) | 31 Advice by the Bailiff, Deputy Bailiff or a Law Officer |
 | Art. 32 | [art-032.md](art-032.md) | 32 Legal professional privilege |
 | Art. 33 | [art-033.md](art-033.md) | 33 Commercial interests |
@@ -62,5 +62,5 @@ L.17/2011 · official consolidation showing the law from 2019-07-26 · <https://
 | Art. 54 | [art-054.md](art-054.md) | 54 Rules of Court |
 | Art. 56 | [art-056.md](art-056.md) | 56 Citation |
 | Art. 57 | [art-057.md](art-057.md) | 57 Commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
