@@ -1,6 +1,6 @@
 # Departments of the Judiciary and the Legislature (Jersey) Law 1965
 
-L.22/1965 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_22_1965_20240110>
+L.22/1965 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_22_1965>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ L.22/1965 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 10 | [art-010.md](art-010.md) | 10 Provisions relating to functions of Viscount |
 | Art. 11 | [art-011.md](art-011.md) | 11 Provisions relating to functions of Judicial Greffier |
 | Art. 12 | [art-012.md](art-012.md) | 12 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
