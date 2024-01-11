@@ -11,6 +11,6 @@ Les outils des artisans, nécessaires à leurs occupations personnelles;
 Les livres relatifs à la profession du débiteur jusqu’à concurrence de la valeur de £5, à son choix.
 Les décisions du Juge seront enregistrées dans un livre tenu à cet effet par le Commis-Greffier.
 Nul ne sera tenu d’employer un Avocat pour plaider devant cette Cour.
-Nul ne pourra plaider la cause d’un autre devant cette Cour, excepté le Procureur Général de la Reine, l’Avocat Général de la Reine, les Avocats et les Écrivains de la Cour Royale.
+Nul ne pourra plaider la cause d’un autre devant cette Cour, excepté le Procureur Général du Roi, l’Avocat Général du Roi, les Avocats et les Écrivains de la Cour Royale.
 Le Juge pourra accorder à un marin un Ordre Provisioire pour faire opérer la saisie d’un bâtiment, lorsque le bâtiment sera sur le point de quitter le pays et que le temps serait insuffisant pour procéder par bille ou semonce.
 Le Juge pourra administrer ou faire administrer serment aux parties, aux témoins ou autres personnes qui paraîtront devant lui. Il aura le même pouvoir dans l’interrogatoire des parties et des témoins que la Cour Royale et il suivra les mêmes règles. Celui qui prêtera un faux serment devant le Juge sera passible des peines attachées au crime de parjure.
