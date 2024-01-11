@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 9(2), (3), (4), (5), (6))
 Wastes to which the OECD control procedures apply
 Part 1
-List of wastes subject to the Amber control procedure
+List of wastes subject to the amber control procedure
 Section A:
 Wastes listed in Annexes II and VIII of the Basel Convention.
 For the purposes of this Law:

@@ -1,7 +1,7 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3(1))
 Hazardous wastes
-part 1
+Part 1
 Hazardous waste specified in Basel Convention
 Section A: Categories
 Waste streams

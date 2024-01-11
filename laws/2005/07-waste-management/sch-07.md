@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 14(6))
 Information that need not be made available to the public
 Any information -

@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Article 112)
 Transitional provisions
 Part 1

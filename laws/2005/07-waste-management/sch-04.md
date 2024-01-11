@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 8(1), (2))
 Wastes that may be subject to the Basel Convention ban
 Part 1

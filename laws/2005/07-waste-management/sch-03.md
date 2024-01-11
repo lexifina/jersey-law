@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 7)
 Wastes that are subject to the Basel Convention
 1. Hazardous waste.

@@ -1,6 +1,6 @@
 # Waste Management (Jersey) Law 2005
 
-L.7/2005 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_7_2005_20240110>
+L.7/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_7_2005_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -118,14 +118,14 @@ L.7/2005 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 111 | [art-111.md](art-111.md) | 111 Application to Crown |
 | Art. 112 | [art-112.md](art-112.md) | 112 Transitional provisions |
 | Art. 113 | [art-113.md](art-113.md) | 113 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
-| Schedule 9 | [sch-09.md](sch-09.md) | SCHEDULE 9 |
-| Schedule 10 | [sch-10.md](sch-10.md) | SCHEDULE 10 |
-| Schedule 11 | [sch-11.md](sch-11.md) | SCHEDULE 11 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |
+| Schedule 11 | [sch-11.md](sch-11.md) | Schedule 11 |

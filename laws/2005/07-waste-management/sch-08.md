@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Articles 49(1), 65(1), 69(1) and 71(1))
 Control procedures for the movement of waste
 Introduction

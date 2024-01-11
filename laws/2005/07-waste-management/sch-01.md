@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(1))
 Disposal and recovery operations
 Part 1

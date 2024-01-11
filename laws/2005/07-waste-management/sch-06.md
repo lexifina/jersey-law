@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 14(2))
 Information that is to be made available to the public
 1. Approved codes of practice.

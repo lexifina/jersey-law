@@ -1,6 +1,6 @@
-# SCHEDULE 11
+# Schedule 11
 (Article 112)
-Operations by Minister for THE Environment
+Operations by Minister for the Environment
 1 Interpretation of Schedule
 (1) In this Schedule, references to the Minister for the Environment as the regulator are references to that Minister in that Minister’s capacity as the Minister responsible for exercising and performing the functions, powers and duties that are for the time being conferred and imposed on the Minister for the Environment by the provisions of this Law other than this Schedule.
 (2) In this Schedule -
