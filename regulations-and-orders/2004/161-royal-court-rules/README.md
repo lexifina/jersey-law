@@ -1,6 +1,6 @@
 # Royal Court Rules 2004
 
-R&O.161/2004 · official consolidation showing the law from 2023-07-17 · <https://www.jerseylaw.je/laws/current/ro_161_2004_20230920>
+R&O.161/2004 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_161_2004_20250226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
