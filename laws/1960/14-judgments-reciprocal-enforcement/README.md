@@ -1,6 +1,6 @@
 # Judgments (Reciprocal Enforcement) (Jersey) Law 1960
 
-L.14/1960 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_1960_20240110>
+L.14/1960 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_14_1960>
 
 | Provision | File | Heading |
 | --- | --- | --- |
