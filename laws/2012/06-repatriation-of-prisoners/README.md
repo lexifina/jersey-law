@@ -1,6 +1,6 @@
 # Repatriation of Prisoners (Jersey) Law 2012
 
-L.6/2012 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_6_2012_20240110>
+L.6/2012 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_6_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
