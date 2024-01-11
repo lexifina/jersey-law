@@ -1,6 +1,6 @@
 # Currency Offences (Jersey) Law 1952
 
-L.23/1952 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_23_1952_20240110>
+L.23/1952 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_23_1952>
 
 | Provision | File | Heading |
 | --- | --- | --- |
