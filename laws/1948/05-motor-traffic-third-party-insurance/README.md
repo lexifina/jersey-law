@@ -1,6 +1,6 @@
 # Motor Traffic (Third-Party Insurance) (Jersey) Law 1948
 
-L.5/1948 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_5_1948_20240110>
+L.5/1948 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_5_1948>
 
 | Provision | File | Heading |
 | --- | --- | --- |
