@@ -1,6 +1,6 @@
 # Arbitration (Jersey) Law 1998
 
-L.29/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1998_20240110>
+L.29/1998 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_29_1998>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -53,6 +53,6 @@ L.29/1998 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 46 | [art-046.md](art-046.md) | 46 Rules of Court |
 | Art. 47 | [art-047.md](art-047.md) | 47 Service of notices |
 | Art. 48 | [art-048.md](art-048.md) | 48 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

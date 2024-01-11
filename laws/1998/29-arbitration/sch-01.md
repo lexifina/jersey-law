@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(1))
 PROTOCOL ON ARBITRATION CLAUSES SIGNED ON BEHALF OF HIS MAJESTY AT A MEETING OF THE ASSEMBLY OF THE LEAGUE OF NATIONS HELD ON 24TH SEPTEMBER 1923
 The undersigned, being duly authorized, declare that they accept, on behalf of the countries which they represent, the following provisions -
