@@ -1,6 +1,6 @@
 # Health Insurance (Jersey) Law 1967
 
-L.12/1967 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_12_1967_20240110>
+L.12/1967 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_12_1967_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -52,5 +52,5 @@ L.12/1967 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 36 | [art-036.md](art-036.md) | 36 General provisions as to Acts, Regulations and Orders |
 | Art. 37 | [art-037.md](art-037.md) | 37 Saving |
 | Art. 38 | [art-038.md](art-038.md) | 38 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

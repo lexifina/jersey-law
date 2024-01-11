@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 1 and 27)
 HEALTH SERVICES DISCIPLINARY TRIBUNAL
 1 In this Schedule, the “Tribunal” means the Health Services Disciplinary Tribunal.
