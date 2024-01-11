@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 FINANCIAL RESOURCES: INVESTMENT POSITION RISK REQUIREMENT: UNITS IN RECOGNIZED FUNDS
 1 This Schedule applies to relevant holders other than a holder of a permit which is a recognized open-ended investment company and in this Schedule “relevant holder” shall be construed accordingly.
 2 For the purpose of this Schedule -

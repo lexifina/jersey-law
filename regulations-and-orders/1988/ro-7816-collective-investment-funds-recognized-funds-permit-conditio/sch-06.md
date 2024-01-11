@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 FORM AND CONTENTS OF FINANCIAL STATEMENTS
 Part 1 - General rules
 1 This Schedule applies to relevant holders other than a holder of a permit which is a recognized open-ended investment company and in this Schedule “relevant holder” shall be construed accordingly.

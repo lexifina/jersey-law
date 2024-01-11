@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 FINANCIAL RESOURCES: DEFINITION OF “RELEVANT ANNUAL EXPENDITURE”
 For the purposes of this Order the “relevant annual expenditure” of a manager of a recognized fund in relation to a financial year of the manager is the aggregate of the manager’s revenue for that year and the amount of any loss before taxation for that year less the aggregate of the amounts of the following items for that year -
 (a) profit before tax;

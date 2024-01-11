@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 FINANCIAL RESOURCES: INVESTMENT POSITION RISK REQUIREMENT: INVESTMENTS AND ASSETS OTHER THAN UNITS IN RECOGNIZED FUNDS
 1 This Schedule applies to relevant holders other than a holder of a permit which is a recognized open-ended investment company and in this Schedule “relevant holder” shall be construed accordingly.
 2 For the purposes of this Schedule 2 investments or assets are of the same description if an obligation to sell a unit of one of them can be fulfilled by the delivery or transfer of title to a unit of the other.
@@ -12,13 +12,13 @@ INVESTMENT POSITION RISK FACTORS
 Column 1
 Column 2
 I
-Debt instruments issued by Her Majesty’s Government or by a local authority in the United Kingdom with less than 12 months to final redemption;
+Debt instruments issued by the Government of the United Kingdom or by a local authority in the United Kingdom with less than 12 months to final redemption;
 2%
 II
 Debt instruments issued or accepted by an approved bank with less than 90 days to final redemption;
 2%
 III
-Debt instruments issued by Her Majesty’s Government or by a local authority in the United Kingdom with more than 12 months but less than 5 years to final redemption;
+Debt instruments issued by the Government of the United Kingdom or by a local authority in the United Kingdom with more than 12 months but less than 5 years to final redemption;
 5%
 IV
 Other debt instruments which are marketable investments with less than 12 months to final redemption;
@@ -27,7 +27,7 @@ V
 Floating Rate Notes which are marketable investments with no more than 20 years to final redemption;
 5%
 VI
-Debt instruments issued by Her Majesty’s Government or by a local authority in the United Kingdom with more than 5 years to final redemption;
+Debt instruments issued by the Government of the United Kingdom or by a local authority in the United Kingdom with more than 5 years to final redemption;
 10%
 VII
 Other debt instruments which are marketable investments with less than 5 years to final redemption;

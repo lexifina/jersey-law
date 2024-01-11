@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 FINANCIAL RESOURCES: GROSS CAPITAL
 A relevant holder’s gross capital at any time (the “relevant time”) is the amount of its net assets at that time adjusted in accordance with the following requirements.
 1 Fixed intangible assets

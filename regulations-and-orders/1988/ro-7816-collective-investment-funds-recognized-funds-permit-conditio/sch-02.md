@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 FINANCIAL RESOURCES: LIQUID CAPITAL
 The liquid capital of a manager of a recognized fund at any time (the “relevant time”) is the amount of its gross capital at that time adjusted in accordance with the following requirements.
 1 Bank undertakings

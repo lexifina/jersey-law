@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 122)
 FORM OF CLIENT MONEY TRUST DECLARATION FOR OPERATORS OF RECOGNIZED FUNDS
 Abbreviations and terms used in this Form -
