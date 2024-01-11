@@ -1,6 +1,6 @@
 # Harbours (Inshore Safety) (Jersey) Regulations 2012
 
-R&O.64/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_64_2012_20240110>
+R&O.64/2012 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_64_2012_20251117>
 
 | Provision | File | Heading |
 | --- | --- | --- |
