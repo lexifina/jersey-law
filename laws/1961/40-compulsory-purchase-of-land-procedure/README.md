@@ -1,6 +1,6 @@
 # Compulsory Purchase of Land (Procedure) (Jersey) Law 1961
 
-L.40/1961 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_40_1961_20240110>
+L.40/1961 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_40_1961>
 
 | Provision | File | Heading |
 | --- | --- | --- |
