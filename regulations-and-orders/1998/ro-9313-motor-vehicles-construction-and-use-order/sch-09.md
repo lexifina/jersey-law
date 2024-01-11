@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Article 68(23), (24) and (27))
 EMISSIONS FROM CERTAIN MOTOR VEHICLES
 PART 1

@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 16)
 Braking requirements
 1. The braking requirements referred to in Article 16(4) are set out in the Table and are to be interpreted in accordance with paragraphs 2 to 5.

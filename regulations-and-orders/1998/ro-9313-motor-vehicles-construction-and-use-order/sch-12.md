@@ -1,4 +1,4 @@
-# SCHEDULE 12
+# Schedule 12
 (Article 77)
 Department plate
 YEAR OF MANUFACTURE

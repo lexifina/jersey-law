@@ -1,4 +1,4 @@
-# SCHEDULE 13
+# Schedule 13
 (Articles 81, 83 and 85)
 MAXIMUM PERMITTED WEIGHTS, ETC.
 PART 1

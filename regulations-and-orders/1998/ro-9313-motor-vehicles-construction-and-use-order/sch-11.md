@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Article 76)
 Plates for motor cycles and mopeds
 1. The plate required by Article 76 shall be firmly attached to a part of the motor cycle which is not normally subject to replacement during the life of the motor cycle.

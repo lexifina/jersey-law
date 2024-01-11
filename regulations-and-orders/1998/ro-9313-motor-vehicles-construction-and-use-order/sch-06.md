@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 43)
 CONSTRUCTION OF MINIBUSES
 The requirements referred to in Article 43 are as follows -

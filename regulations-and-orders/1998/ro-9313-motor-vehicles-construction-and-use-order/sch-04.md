@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 42)
 GAS CONTAINERS
 PART 1

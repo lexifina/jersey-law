@@ -1,4 +1,4 @@
-# SCHEDULE 15
+# Schedule 15
 (Article 1(1))
 Plate for restricted speed vehicle
 1. A vehicle displays a plate in accordance with the requirements of this Schedule if a plate in respect of which the following conditions are satisfied is displayed on the vehicle in a prominent position.

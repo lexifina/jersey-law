@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Articles 42 and 103)
 GAS SYSTEMS
 1 Definitions
