@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 Controlled Drugs
 PART 1

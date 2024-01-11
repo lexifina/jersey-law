@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 Constitution of Advisory Council on Misuse of Drugs
 1. The members of the Council, of whom there shall be not less than 10, shall be appointed by the Bailiff after consultation with the Minister and such other bodies as the Bailiff considers appropriate, and shall include -

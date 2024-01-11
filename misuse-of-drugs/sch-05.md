@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Articles 6 and 7)
 Substances Useful for Manufacturing Controlled Drugs
 TABLE 1

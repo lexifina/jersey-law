@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 28)
 Penalties
 First column

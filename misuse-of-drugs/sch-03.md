@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 17)
 Constitution of Tribunal
 1. The Tribunal shall consist of -
