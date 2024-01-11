@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 5(1))
 SERVICE DISCIPLINARY CONVICTIONS
 1 Any conviction for an offence mentioned in this Schedule is a conviction referred to in Article 5(1)(a)(i).
@@ -33,7 +33,7 @@ Fighting, threatening words etc.
 Section 44
 Damage to, and loss of, public or service property etc.
 Section 44A
-Damage to, and loss of, Her Majesty’s aircraft or aircraft material.
+Damage to, and loss of, His Majesty’s aircraft or aircraft material.
 Section 44B
 Interference etc. with equipment, messages or signals.
 Section 45
@@ -105,7 +105,7 @@ Drunkenness.
 Section 29
 Damage to, and loss of, public or service property etc.
 Section 29A
-Damage to, and loss of, Her Majesty’s aircraft or aircraft material.
+Damage to, and loss of, His Majesty’s aircraft or aircraft material.
 Section 29B
 Interference etc. with equipment, messages or signals.
 Section 30

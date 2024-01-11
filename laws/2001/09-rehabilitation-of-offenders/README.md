@@ -1,6 +1,6 @@
 # Rehabilitation of Offenders (Jersey) Law 2001
 
-L.9/2001 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_9_2001_20240110>
+L.9/2001 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_9_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ L.9/2001 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 10 | [art-010.md](art-010.md) | 10 Effect of rehabilitation: other circumstances |
 | Art. 11 | [art-011.md](art-011.md) | 11 Unauthorized disclosure of spent conviction |
 | Art. 12 | [art-012.md](art-012.md) | 12 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
