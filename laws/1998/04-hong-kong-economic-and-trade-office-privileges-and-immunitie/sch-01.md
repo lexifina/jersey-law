@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2(2))
 Interpretation
 1 In this Schedule -

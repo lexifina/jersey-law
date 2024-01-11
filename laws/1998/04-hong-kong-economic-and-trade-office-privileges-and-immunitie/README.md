@@ -1,6 +1,6 @@
 # Hong Kong Economic and Trade Office (Privileges and Immunities) (Jersey) Law 1998
 
-L.4/1998 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_4_1998_20240110>
+L.4/1998 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_4_1998>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,4 +9,4 @@ L.4/1998 · official consolidation showing the law from 2023-04-12 · <https://w
 | Art. 2 | [art-002.md](art-002.md) | 2 Application |
 | Art. 3 | [art-003.md](art-003.md) | 3 Evidence |
 | Art. 4 | [art-004.md](art-004.md) | 4 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
