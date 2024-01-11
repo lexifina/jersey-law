@@ -1,6 +1,6 @@
 # States of Jersey Police Force Law 2012
 
-L.37/2012 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_37_2012_20240110>
+L.37/2012 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_37_2012_20251204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
