@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 4)
 Description of Firm, etc.
 Additional particulars.

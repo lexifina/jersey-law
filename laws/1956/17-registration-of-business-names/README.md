@@ -1,6 +1,6 @@
 # Registration of Business Names (Jersey) Law 1956
 
-L.17/1956 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_17_1956_20240110>
+L.17/1956 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_17_1956_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,4 +28,4 @@ L.17/1956 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 21 | [art-021.md](art-021.md) | 21 Publication of true names, etc. |
 | Art. 22 | [art-022.md](art-022.md) | 22 Connivance, abetting etc. |
 | Art. 23 | [art-023.md](art-023.md) | 23 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
