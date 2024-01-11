@@ -1,6 +1,6 @@
 # Loi (1862) sur les teneures en fidéicommis et l’incorporation d’associations
 
-L.1/1862 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_1_1862_20240110>
+L.1/1862 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_1_1862>
 
 | Provision | File | Heading |
 | --- | --- | --- |
