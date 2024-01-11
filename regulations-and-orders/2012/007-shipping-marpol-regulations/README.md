@@ -1,6 +1,6 @@
 # Shipping (MARPOL) (Jersey) Regulations 2012
 
-R&O.7/2012 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_7_2012_20240110>
+R&O.7/2012 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_7_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -26,4 +26,4 @@ R&O.7/2012 · official consolidation showing the law from 2019-01-01 · <https:/
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Extended liability for offences |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Orders about the MARPOL Convention |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

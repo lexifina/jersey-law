@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 4(a)(iii))
 protocol I: reporting incidents
 Article II When to make reports
