@@ -1,6 +1,6 @@
 # Public Health (Ships) (Jersey) Order 1971
 
-R&O.5594 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_5594_20240110>
+R&O.5594 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_5594_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
