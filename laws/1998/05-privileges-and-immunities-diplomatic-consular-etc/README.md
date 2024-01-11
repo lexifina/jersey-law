@@ -1,6 +1,6 @@
 # Privileges and Immunities (Diplomatic, Consular, etc.) (Jersey) Law 1998
 
-L.5/1998 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1998_20240110>
+L.5/1998 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_5_1998>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,6 +20,6 @@ L.5/1998 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 12A | [art-012-a.md](art-012-a.md) | 12A Privileges and immunities of international judiciary and related persons |
 | Art. 13 | [art-013.md](art-013.md) | 13 Evidence |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
