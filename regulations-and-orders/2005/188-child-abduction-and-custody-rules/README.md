@@ -1,6 +1,6 @@
 # Child Abduction and Custody Rules 2005
 
-R&O.188/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_188_2005_20240110>
+R&O.188/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_188_2005_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
