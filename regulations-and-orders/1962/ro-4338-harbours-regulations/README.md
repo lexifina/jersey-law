@@ -1,6 +1,6 @@
 # Harbours (Jersey) Regulations 1962
 
-R&O.4338 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_4338_20240110>
+R&O.4338 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_4338>
 
 | Provision | File | Heading |
 | --- | --- | --- |
