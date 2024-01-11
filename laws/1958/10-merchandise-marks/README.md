@@ -1,6 +1,6 @@
 # Merchandise Marks (Jersey) Law 1958
 
-L.10/1958 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_10_1958_20240110>
+L.10/1958 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_10_1958_20260731>
 
 | Provision | File | Heading |
 | --- | --- | --- |
