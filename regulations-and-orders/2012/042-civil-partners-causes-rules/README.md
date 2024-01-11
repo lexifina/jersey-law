@@ -1,6 +1,6 @@
 # Civil Partners Causes Rules 2012
 
-R&O.42/2012 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/ro_42_2012_20240110>
+R&O.42/2012 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_42_2012_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -82,4 +82,4 @@ R&O.42/2012 · official consolidation showing the law from 2022-06-22 · <https:
 | Rule 76 | [rule-076.md](rule-076.md) | 76 Entries in the Public Registry |
 | Rule 77 | [rule-077.md](rule-077.md) | 77 Directions |
 | Rule 78 | [rule-078.md](rule-078.md) | 78 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

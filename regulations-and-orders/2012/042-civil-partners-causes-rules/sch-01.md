@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Rule 1(3))
 Form CP1
 -
@@ -118,7 +118,7 @@ IN THE ROYAL COURT OF JERSEY File No:
 BETWEEN APPLICANT
 AND RESPONDENT
 I request that the [cause application] [originating summons] [or describe the document] in this cause be sent through the proper channels to [name of country] for [service] [substituted service] on the [name the party] at [address] or elsewhere in [name of country].
-I personally undertake to be responsible for all expenses incurred by [Her Majesty’s Principal Secretary of State for Foreign Affairs] [the foreign judicial authority] in respect of the service requested and, on receiving due notification of the amount of such expenses, I undertake to pay the same to the Judicial Greffier.
+I personally undertake to be responsible for all expenses incurred by [His Majesty’s Principal Secretary of State for Foreign Affairs] [the foreign judicial authority] in respect of the service requested and, on receiving due notification of the amount of such expenses, I undertake to pay the same to the Judicial Greffier.
 Signed: Date:
 [Requesting Party] [Requesting Party’s advocate or solicitor]
 Form CP3
