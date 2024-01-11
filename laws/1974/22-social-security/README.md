@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2023-07-01 · <https://www.jerseylaw.je/laws/current/l_22_1974_20240110>
+L.22/1974 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_22_1974_20240617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ L.22/1974 · official consolidation showing the law from 2023-07-01 · <https://
 | Art. 39 | [art-039.md](art-039.md) | 39 Recovery of sums due to Social Security Fund by deductions from earnings |
 | Art. 40 | [art-040.md](art-040.md) | 40 Benefit and assessment of damages |
 | Art. 41 | [art-041.md](art-041.md) | 41 Recovery in bankruptcy, etc. |
-| Art. 43 | [art-043.md](art-043.md) | 43 Crown servants and members of Armed Forces |
+| Art. 43 | [art-043.md](art-043.md) | 43 Crown servants and members of armed forces |
 | Art. 44 | [art-044.md](art-044.md) | 44 Mariners and airmen |
 | Art. 46 | [art-046.md](art-046.md) | 46 Insured persons outside Jersey |
 | Art. 47 | [art-047.md](art-047.md) | 47 Class 2 insured persons nearing pensionable age |
