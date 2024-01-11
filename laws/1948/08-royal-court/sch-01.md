@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 4(5))
 JERSEY
 ROYAL COURT (JERSEY) LAW 1948

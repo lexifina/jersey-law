@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/l_8_1948_20240110>
+L.8/1948 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_8_1948_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,5 +30,5 @@ L.8/1948 · official consolidation showing the law from 2022-10-01 · <https://w
 | Art. 21 | [art-021.md](art-021.md) | 21 Saving of assembly of Governor, Bailiff and Jurats |
 | Art. 21A | [art-021-a.md](art-021-a.md) | 21A Savings and transitional provision |
 | Art. 22 | [art-022.md](art-022.md) | 22 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
