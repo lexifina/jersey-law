@@ -8,11 +8,11 @@ SUPPLEMENTARY PROVISIONS RELATING TO THE ICC
 (b) the judges, the Prosecutor, the Deputy Prosecutors and the Registrar;
 (c) the Deputy Registrar, the staff of the Office of the Prosecutor and the staff of the Registry; and
 (d) counsel, experts, witnesses and other persons involved in proceedings of the ICC,
-shall have such privileges and immunities as the States decide are or will be required for giving effect to the ICC Statute or any related agreement to which the United Kingdom, or Her Majesty’s government in the United Kingdom, is or will be a party and which extends or will extend to Jersey.
+shall have such privileges and immunities as the States decide are or will be required for giving effect to the ICC Statute or any related agreement to which the United Kingdom, or the Government of the United Kingdom, is or will be a party and which extends or will extend to Jersey.
 2 Power to give effect to Rules of Procedure and Evidence etc.
 The States may by Regulations make such provision as appears to the States to be necessary or expedient for giving effect to -
 (a) any Rules of Procedure and Evidence having effect under article 51 of the ICC Statute; and
-(b) any related agreement to which the United Kingdom, or Her Majesty’s government in the United Kingdom, is a party and which extends to Jersey.
+(b) any related agreement to which the United Kingdom, or the Government of the United Kingdom, is a party and which extends to Jersey.
 3 Proof of orders, etc. of the ICC
 (1) An order, judgment, warrant or request of the ICC which purports -
 (a) to bear the seal of the ICC; or

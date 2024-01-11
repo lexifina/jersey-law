@@ -1,6 +1,6 @@
 # International Criminal Court (Jersey) Law 2014
 
-L.31/2014 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_31_2014_20240110>
+L.31/2014 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_31_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
