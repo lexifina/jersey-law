@@ -1,6 +1,6 @@
 # Civil Evidence (Jersey) Law 2003
 
-L.14/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_14_2003_20240110>
+L.14/2003 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_14_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
