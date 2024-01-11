@@ -1,6 +1,6 @@
 # Seignorial Rights (Abolition) (Jersey) Law 1966
 
-L.13/1966 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_13_1966_20240110>
+L.13/1966 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_13_1966>
 
 | Provision | File | Heading |
 | --- | --- | --- |
