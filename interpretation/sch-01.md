@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 4)
 PART 1
 (Article 4(1))
@@ -26,7 +26,7 @@ The definitions referred to in Article 4(1) are -
 “oath” shall, in the case of a person for the time being allowed by law to affirm or declare instead of swearing, include affirmation and declaration;
 “person” shall include any body of persons corporate or unincorporated;
 “Petty Debts Court” shall mean the Court known as the Cour pour le Recouvrement de Menues Dettes constituted in pursuance of the Loi (1891) sur la Cour pour le recouvrement de menues dettes, confirmed by Order of Her Majesty in Council of 9th May 1891;
-“pharmacist” shall mean a person registered as a pharmacist under the Pharmacists and Pharmacy Technicians (Registration) (Jersey) Law 2010 or deemed, by an Order made under Article 29(c) of that Law, to be registered as a pharmacist under that Law;
+“pharmacist” shall mean a person registered as a pharmacist under the Pharmacists and Pharmacy Technicians (Registration) (Jersey) Law 2010 or deemed, by an Order made under Article 28(c) of that Law, to be registered as a pharmacist under that Law;
 “police officer” shall mean a member of the Honorary Police or a member of the States of Jersey Police Force;
 “pound”, in relation to money, shall mean pound sterling;
 “registered contract” shall mean a contract registered in the Public Registry of Contracts;
