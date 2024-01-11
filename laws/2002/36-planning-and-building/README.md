@@ -1,6 +1,6 @@
 # Planning and Building (Jersey) Law 2002
 
-L.36/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_36_2002_20240110>
+L.36/2002 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_36_2002_20260611>
 
 | Provision | File | Heading |
 | --- | --- | --- |
