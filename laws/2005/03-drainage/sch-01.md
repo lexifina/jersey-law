@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(1))
 Premises that are not trade premises
 1 Hotels, guest houses, lodging houses, public houses, camp sites, leisure centres, restaurants, cafes and takeaway food shops, other than those parts of any such premises that -

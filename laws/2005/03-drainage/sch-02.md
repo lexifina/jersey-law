@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 54(1))
 Enactments repealed
 Sewerage (Amendment) (Jersey) Law 1953

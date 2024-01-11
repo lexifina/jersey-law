@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 54(1))
 Enactments amended
 (1)

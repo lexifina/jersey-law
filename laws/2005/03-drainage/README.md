@@ -1,6 +1,6 @@
 # Drainage (Jersey) Law 2005
 
-L.3/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_3_2005_20240110>
+L.3/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_3_2005_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ L.3/2005 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 53 | [art-053.md](art-053.md) | 53 Application to the Crown |
 | Art. 54 | [art-054.md](art-054.md) | 54 Repeals, amendments, savings and transitional provisions |
 | Art. 55 | [art-055.md](art-055.md) | 55 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
