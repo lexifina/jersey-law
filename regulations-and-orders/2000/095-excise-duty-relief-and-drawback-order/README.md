@@ -1,6 +1,6 @@
 # Excise Duty (Relief and Drawback) (Jersey) Order 2000
 
-R&O.95/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_95_2000_20240110>
+R&O.95/2000 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_95_2000_20260510>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,4 +16,4 @@ R&O.95/2000 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Transitional relief and drawback for hire vehicles |
 | Art. 9 | [art-009.md](art-009.md) | 9 Claims |
 | Art. 10 | [art-010.md](art-010.md) | 10 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
