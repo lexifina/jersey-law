@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 155(5))
 PENALTIES
 PART A

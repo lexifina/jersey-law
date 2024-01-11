@@ -1,6 +1,6 @@
 # Air Navigation (Jersey) Law 2014
 
-L.24/2014 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_24_2014_20240110>
+L.24/2014 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_24_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ L.24/2014 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 26 | [art-026.md](art-026.md) | 26 Flight crew licence requirements - exception for solo flying training |
 | Art. 27 | [art-027.md](art-027.md) | 27 Flight crew licence requirements - exception for dual flying training |
 | Art. 28 | [art-028.md](art-028.md) | 28 Flight crew licence requirement - exception for flight engineers |
-| Art. 29 | [art-029.md](art-029.md) | 29 Flight crew licence - exception for members of HM Forces |
+| Art. 29 | [art-029.md](art-029.md) | 29 Flight crew licence - exception for members of HM forces |
 | Art. 30 | [art-030.md](art-030.md) | 30 Grant, renewal and effect of flight crew licences |
 | Art. 31 | [art-031.md](art-031.md) | 31 Maintenance of privileges of aircraft ratings |
 | Art. 32 | [art-032.md](art-032.md) | 32 Maintenance of privileges of other ratings in licences |
@@ -189,6 +189,6 @@ L.24/2014 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 181 | [art-181.md](art-181.md) | 181 Orders |
 | Art. 182 | [art-182.md](art-182.md) | 182 Saving |
 | Art. 183 | [art-183.md](art-183.md) | 183 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

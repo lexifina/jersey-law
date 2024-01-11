@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1(4))
 CLASSIFICATION OF AIRCRAFT
 Table of general classification of aircraft
