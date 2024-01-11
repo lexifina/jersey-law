@@ -1,6 +1,6 @@
 # Opticians (Registration) (Jersey) Law 1962
 
-L.23/1962 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_23_1962_20240110>
+L.23/1962 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_23_1962>
 
 | Provision | File | Heading |
 | --- | --- | --- |
