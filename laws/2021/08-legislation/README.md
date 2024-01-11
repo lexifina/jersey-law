@@ -1,6 +1,6 @@
 # Legislation (Jersey) Law 2021
 
-L.8/2021 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-08-2021.aspx>
+L.8/2021 Â· official consolidation showing the law from 2024-01-11 Â· <https://www.jerseylaw.je/laws/current/l_8_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,8 +28,6 @@ L.8/2021 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-08-
 | Art. 21 | [art-021.md](art-021.md) | 21 Delegation of functions |
 | Art. 22 | [art-022.md](art-022.md) | 22 Privilege |
 | Art. 23 | [art-023.md](art-023.md) | 23 Amendment of this Part by Regulations |
-| Art. 24 | [art-024.md](art-024.md) | 24 Consequential and miscellaneous amendments |
-| Art. 25 | [art-025.md](art-025.md) | 25 Repeals |
 | Art. 26 | [art-026.md](art-026.md) | 26 Citation and commencement |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
