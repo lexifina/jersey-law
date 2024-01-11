@@ -1,6 +1,6 @@
 # Matrimonial Causes (Jersey) Law 1949
 
-L.22/1949 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_22_1949_20240110>
+L.22/1949 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_22_1949_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
