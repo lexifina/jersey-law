@@ -1,6 +1,6 @@
 # Police (Complaints and Discipline Procedure) (Jersey) Order 2000
 
-R&O.131/2000 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_131_2000_20240110>
+R&O.131/2000 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_131_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -51,5 +51,5 @@ R&O.131/2000 · official consolidation showing the law from 2019-01-01 · <https
 | Art. 44 | [art-044.md](art-044.md) | 44 Administration for panel |
 | Art. 45 | [art-045.md](art-045.md) | 45 Revocations |
 | Art. 46 | [art-046.md](art-046.md) | 46 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

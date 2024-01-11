@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 45(1))
 Enactments revoked
 1
