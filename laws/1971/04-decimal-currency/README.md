@@ -1,6 +1,6 @@
 # Decimal Currency (Jersey) Law 1971
 
-L.4/1971 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_4_1971_20240110>
+L.4/1971 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_4_1971>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,4 +22,4 @@ L.4/1971 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 15 | [art-015.md](art-015.md) | 15 Modification of forms |
 | Art. 16 | [art-016.md](art-016.md) | 16 Restrictions on melting or breaking of metal coins |
 | Art. 17 | [art-017.md](art-017.md) | 17 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

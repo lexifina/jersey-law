@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Articles 9, 10, 11, 13 and 14)
 METHOD OF CALCULATING IN CERTAIN CASES THE AMOUNT IN NEW PENCE CORRESPONDING TO AN AMOUNT IN SHILLINGS AND PENCE
 The amount in the new currency corresponding to an amount in shillings, shillings and pence, or pence shall be calculated as follows -
