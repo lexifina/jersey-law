@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 8(8))
 FREEZING ORDERS
 1

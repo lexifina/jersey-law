@@ -1,6 +1,6 @@
 # Crime and Security (Jersey) Law 2003
 
-L.32/2003 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_32_2003_20240110>
+L.32/2003 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_32_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ L.32/2003 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 10 | [art-010.md](art-010.md) | 10 The Crown |
 | Art. 11 | [art-011.md](art-011.md) | 11 Offences: general |
 | Art. 13 | [art-013.md](art-013.md) | 13 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
