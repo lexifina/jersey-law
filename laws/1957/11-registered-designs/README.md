@@ -1,6 +1,6 @@
 # Registered Designs (Jersey) Law 1957
 
-L.11/1957 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_11_1957_20240110>
+L.11/1957 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_11_1957_20240916>
 
 | Provision | File | Heading |
 | --- | --- | --- |
