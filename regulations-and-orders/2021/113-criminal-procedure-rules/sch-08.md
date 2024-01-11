@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Rule 27)
 Form of summons for jury service
 [First name] [Surname]

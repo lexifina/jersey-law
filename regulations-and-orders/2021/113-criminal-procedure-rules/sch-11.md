@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Rule 33)
 Form of defence case statement and witness notice
 DEFENCE CASE STATEMENT AND WITNESS NOTICE

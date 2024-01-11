@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# Schedule 9
 (Rule 30)
 Application for a witness summons
 APPLICATION FOR A WITNESS SUMMONS

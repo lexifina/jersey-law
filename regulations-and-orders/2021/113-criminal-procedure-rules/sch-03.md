@@ -1,3 +1,3 @@
-# SCHEDULE 3
+# Schedule 3
 (Rule 12)
 Form of application to vary conditions of bail

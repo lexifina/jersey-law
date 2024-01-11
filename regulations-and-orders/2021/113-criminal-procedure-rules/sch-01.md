@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 (Rule 8)
 Form of indictment
 Before the Royal Court of Jersey
-Her Majesty’s Attorney General
+His Majesty’s Attorney General
 -v-
 A.B.
 A.B. is charged with the following offences -

@@ -1,4 +1,4 @@
-# SCHEDULE 12
+# Schedule 12
 (Rules 53 and 54)
 Application for Special Measures Direction
 APPLICATION FOR A SPECIAL MEASURES DIRECTION

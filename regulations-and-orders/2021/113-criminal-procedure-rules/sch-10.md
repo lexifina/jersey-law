@@ -1,4 +1,4 @@
-# SCHEDULE 10
+# Schedule 10
 (Rule 31)
 Application for a witness summons; confidential information relating to another person
 APPLICATION FOR A WITNESS SUMMONS:
