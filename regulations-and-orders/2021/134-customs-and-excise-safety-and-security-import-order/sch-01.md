@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2(1))
 Types of goods to which this order does not apply
 The types of goods to which this Order does not apply are -
@@ -34,5 +34,5 @@ provided they are not carried under a transport contract;
 (q) goods which are unloaded in Jersey as a result of an unscheduled stop of a vessel or aircraft in which they are being carried arising from circumstances of force majeure;
 (r) goods, other than items of correspondence, contained in a postal parcel or package and conveyed under the responsibility of or by a postal operator in accordance with the provisions of the Universal Postal Convention concluded at Hamburg on 27th July 1984;
 (s) goods in a consignment, the intrinsic value of which does not exceed £19, provided that the Agent, with the agreement of the economic operator, can carry out a risk analysis in respect of the goods using the information contained in, or provided by, the system used by the economic operator;
-(t) any other goods in respect of which the Agent is satisfied that, if they were to be imported into the United Kingdom from outside the customs territory, an entry declaration would not be required to be submitted to Her Majesty’s Government;
+(t) any other goods in respect of which the Agent is satisfied that, if they were to be imported into the United Kingdom from outside the customs territory, an entry declaration would not be required to be submitted to the Government of the United Kingdom;
 (u) any other goods as may be specified by a direction of the Agent for this purpose.

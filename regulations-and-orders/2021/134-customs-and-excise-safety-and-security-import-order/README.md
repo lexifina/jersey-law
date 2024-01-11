@@ -1,6 +1,6 @@
 # Customs and Excise (Safety and Security) (Import) (Jersey) Order 2021
 
-R&O.134/2021 · official consolidation showing the law from 2022-05-26 · <https://www.jerseylaw.je/laws/current/ro_134_2021_20240110>
+R&O.134/2021 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_134_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,4 +16,4 @@ R&O.134/2021 · official consolidation showing the law from 2022-05-26 · <https
 | Art. 9 | [art-009.md](art-009.md) | 9 Time limits: force majeure |
 | Art. 10 | [art-010.md](art-010.md) | 10 Time limits: power of Agent to impose different time limits |
 | Art. 11 | [art-011.md](art-011.md) | 11 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
