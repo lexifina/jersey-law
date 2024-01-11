@@ -1,6 +1,6 @@
 # Honorary Police (Jersey) Law 1974
 
-L.24/1974 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_24_1974_20240110>
+L.24/1974 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_24_1974>
 
 | Provision | File | Heading |
 | --- | --- | --- |
