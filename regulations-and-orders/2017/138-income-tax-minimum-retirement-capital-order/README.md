@@ -1,6 +1,6 @@
 # Income Tax (Minimum Retirement Capital) (Jersey) Order 2017
 
-R&O.138/2017 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_138_2017_20240110>
+R&O.138/2017 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_138_2017>
 
 | Provision | File | Heading |
 | --- | --- | --- |
