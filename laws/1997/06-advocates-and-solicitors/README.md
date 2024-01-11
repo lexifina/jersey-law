@@ -1,6 +1,6 @@
 # Advocates and Solicitors (Jersey) Law 1997
 
-L.6/1997 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_6_1997_20240110>
+L.6/1997 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_6_1997>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ L.6/1997 · official consolidation showing the law from 2021-09-28 · <https://w
 | Art. 11 | [art-011.md](art-011.md) | 11 Rules of Court |
 | Art. 12 | [art-012.md](art-012.md) | 12 Transitional provisions, savings and repeals |
 | Art. 13 | [art-013.md](art-013.md) | 13 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

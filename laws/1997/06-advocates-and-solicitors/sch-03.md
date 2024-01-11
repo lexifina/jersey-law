@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 12)
 Transitional provisions and savings
 1
