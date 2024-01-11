@@ -1,6 +1,6 @@
 # Public Health (Aircraft) (Jersey) Order 1971
 
-R&O.5593 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5593_20240110>
+R&O.5593 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_5593>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ R&O.5593 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 29 | [art-029.md](art-029.md) | 29 Saving for mails |
 | Art. 30 | [art-030.md](art-030.md) | 30 Saving for aircraft unwilling to comply with this Order |
 | Art. 31 | [art-031.md](art-031.md) | 31 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 9)
 AIRCRAFT DECLARATION OF HEALTH
 Persons on board with illnesses other than airsickness or the effects of accidents (including persons with symptoms or signs of illness such as rash, fever, chills, diarrhoea) as well as those cases of illness disembarked during the flight …………………………………......…………............................................................. ……………………………..................................................................................................................................................................................................................................
