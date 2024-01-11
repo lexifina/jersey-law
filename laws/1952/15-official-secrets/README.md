@@ -1,6 +1,6 @@
 # Official Secrets (Jersey) Law 1952
 
-L.15/1952 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_15_1952_20240110>
+L.15/1952 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_15_1952>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,7 +15,7 @@ L.15/1952 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 8 | [art-008.md](art-008.md) | 8 Restriction on prosecution |
 | Art. 9 | [art-009.md](art-009.md) | 9 Search warrants |
 | Art. 10 | [art-010.md](art-010.md) | 10 Unauthorized use of uniforms; falsification of reports, forgery, personation and false documents |
-| Art. 11 | [art-011.md](art-011.md) | 11 Interfering with officers of police or members of Her Majesty’s forces |
+| Art. 11 | [art-011.md](art-011.md) | 11 Interfering with officers of police or members of His Majesty’s forces |
 | Art. 13 | [art-013.md](art-013.md) | 13 Registration and regulation of persons carrying on the business of receiving postal packets |
 | Art. 14 | [art-014.md](art-014.md) | 14 Attempts, incitements, etc. |
 | Art. 15 | [art-015.md](art-015.md) | 15 Provisions as to trial and punishment of offences |
