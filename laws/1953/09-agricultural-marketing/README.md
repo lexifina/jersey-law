@@ -1,6 +1,6 @@
 # Agricultural Marketing (Jersey) Law 1953
 
-L.9/1953 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_9_1953_20240110>
+L.9/1953 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_9_1953_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
