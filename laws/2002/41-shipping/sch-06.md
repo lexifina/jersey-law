@@ -166,4 +166,4 @@ Recourse for life salvage payment
 (2) If this paragraph applies, the Minister may pay to the salvor a sum, or as the case may be an additional sum, as the Minister thinks fit in respect of the services rendered in saving life.
 Meaning of “State Party”
 5
-If Her Majesty in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country or territory, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.
+If an Order in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country or territory, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.

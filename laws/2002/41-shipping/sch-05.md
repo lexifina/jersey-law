@@ -175,4 +175,4 @@ Bar to other actions
 If the release of a ship or other property is ordered under paragraph 2 of article 13, the person on whose application it is ordered to be released is to be regarded as having submitted to the jurisdiction of the court to adjudicate on the claim for which the property was arrested or attached.
 Meaning of “State Party”
 12
-If Her Majesty in Council declares that a State specified in the Order is a party to the Convention as amended by the 1996 Protocol, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact; but the Order shall not have effect in Jersey unless registered by the Royal Court.
+If an Order in Council declares that a State specified in the Order is a party to the Convention as amended by the 1996 Protocol, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact; but the Order shall not have effect in Jersey unless registered by the Royal Court.

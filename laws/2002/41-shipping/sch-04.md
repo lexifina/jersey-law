@@ -145,7 +145,7 @@ is conclusive evidence of those matters for the purposes of articles 7 to 9; and
 (b) to make part of its award conditional on the results of any other proceedings.
 Other provisions adapting or supplementing the Convention
 9. A reference in the Convention to a contract of carriage excludes a contract of carriage that is not for reward.
-10. If Her Majesty in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.
+10. If an Order in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.
 11. The Minister may by Order make provision -
 (a) for requiring a person who is the carrier in relation to a passenger to give to the passenger, in a manner specified in the Order, notice of such of the provisions of the Convention as are so specified;
 (b) for a person who fails to comply with a requirement imposed on him by the Order to commit an offence punishable with a fine up to level 3 on the standard scale.
