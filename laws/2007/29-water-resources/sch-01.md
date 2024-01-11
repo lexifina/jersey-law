@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 7(6))
 INFORMATION THAT NEED NOT BE DISCLOSED
 1. The regulator shall not be obliged under Article 7 to make available any information -

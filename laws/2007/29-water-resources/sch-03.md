@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 53)
 Operations by regulator
 Introductory provisions

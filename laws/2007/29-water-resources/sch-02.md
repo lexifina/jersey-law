@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 53)
 Transitional arrangements for water resources licences
 Part 1 - Water resources licences to abstract water

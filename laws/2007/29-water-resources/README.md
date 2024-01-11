@@ -1,6 +1,6 @@
 # Water Resources (Jersey) Law 2007
 
-L.29/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_29_2007_20240110>
+L.29/2007 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_29_2007_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -59,6 +59,6 @@ L.29/2007 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 52 | [art-052.md](art-052.md) | 52 Application to Crown |
 | Art. 53 | [art-053.md](art-053.md) | 53 Transitional and other provisions |
 | Art. 54 | [art-054.md](art-054.md) | 54 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
