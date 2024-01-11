@@ -1,6 +1,6 @@
 # Regulation of Investigatory Powers (Jersey) Law 2005
 
-L.17/2005 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_17_2005_20240110>
+L.17/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_17_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
