@@ -1,10 +1,10 @@
 # Consular Conventions (Jersey) Law 1952
 
-L.12/1952 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_12_1952_20240110>
+L.12/1952 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_12_1952>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | A LAW to confer upon the consular officers of foreign States with which consular conventions are concluded by Her Majest |
+| Long title | [long-title.md](long-title.md) | A LAW to confer upon the consular officers of foreign States with which consular conventions are concluded by His Majest |
 | Art. 1 | [art-001.md](art-001.md) | 1 Powers of consular officers in relation to property in Jersey of deceased persons |
 | Art. 2 | [art-002.md](art-002.md) | 2 Supplementary provisions as to Article 1 |
 | Art. 3 | [art-003.md](art-003.md) | 3 Civil jurisdiction concerning service on board ship or aircraft |
