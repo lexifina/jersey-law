@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 PROVISIONS AS TO ENFORCEMENT AND PENALTIES
 1. Any person who contravenes any provision of any Order made under this Law shall be liable to imprisonment for a term not exceeding 5 years or to a fine or to both such imprisonment and a fine.
 2.
