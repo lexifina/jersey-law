@@ -1,6 +1,6 @@
 # Cheques (Jersey) Law 1957
 
-L.2/1958 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_2_1958_20240110>
+L.2/1958 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_2_1958>
 
 | Provision | File | Heading |
 | --- | --- | --- |
