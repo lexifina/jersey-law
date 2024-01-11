@@ -1,6 +1,6 @@
 # Control of Borrowing (Jersey) Order 1958
 
-R&O.3943 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_3943_20240110>
+R&O.3943 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_3943_20260412>
 
 | Provision | File | Heading |
 | --- | --- | --- |
