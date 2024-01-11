@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Rule 1(3))
 FORMS
 Form 1

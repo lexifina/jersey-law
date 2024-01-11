@@ -1,6 +1,6 @@
 # Matrimonial Causes Rules 2005
 
-R&O.83/2005 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/ro_83_2005_20240110>
+R&O.83/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_83_2005_20240226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -85,4 +85,4 @@ R&O.83/2005 · official consolidation showing the law from 2022-06-22 · <https:
 | Rule 70 | [rule-070.md](rule-070.md) | 70 Entries in the Public Registry |
 | Rule 71 | [rule-071.md](rule-071.md) | 71 Directions |
 | Rule 72 | [rule-072.md](rule-072.md) | 72 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
