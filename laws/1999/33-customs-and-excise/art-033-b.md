@@ -14,7 +14,7 @@
 (ii) the country or territory from which goods originate,
 (iii) the amount of import duty applicable to any goods which are subject to a quota,
 (iv) the temporary lowering of the rate of import duty applicable to specified goods or descriptions of goods,
-(v) arrangements made by Jersey, with Her Majesty’s government in the United Kingdom or with the government of a country or territory outside the United Kingdom or with both (including arrangements of a type mentioned in Article 6);
+(v) arrangements made by Jersey, with the Government of the United Kingdom or with the government of a country or territory outside the United Kingdom or with both (including arrangements of a type mentioned in Article 6);
 (d) without derogation from sub-paragraph (a), may make provision for an additional amount of import duty to be applicable to specified agricultural goods or a specified description of such goods, if -
 (i) the volume of imports of such goods during a specified period exceeds a specified trigger level, or
 (ii) the import price of such goods falls below a specified trigger price;
