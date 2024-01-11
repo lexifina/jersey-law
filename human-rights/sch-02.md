@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 1(1) and 14)
 DEROGATION
 The United Kingdom Permanent Representative to the Council of Europe, on the instructions of his authorities, has the honour to convey to the Secretary General of the Council the following information.

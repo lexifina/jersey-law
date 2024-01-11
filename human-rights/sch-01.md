@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2(1))
 CONVENTION RIGHTS
 PART 1
