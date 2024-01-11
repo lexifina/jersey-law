@@ -12,8 +12,8 @@ in or in relation to a harbour in respect of which it is appointed and which is 
 (b) may, for the purposes of publication under this paragraph, provide copies of the list for sale at a reasonable price.
 (3) Any charges of a type specified in paragraph (1) which are in force immediately before the commencement of this Article by virtue of any other enactment shall continue in effect as though made, and be deemed to have been made, by virtue of this Article.
 (4) Charges made under paragraph (1) shall not be enforced in relation to -
-(a) ships belonging to or employed in the service of the Armed Forces of Her Majesty the Queen;
-(b) ships belonging to or used by the general lighthouse authority or by any department of Her Majesty’s Government of the United Kingdom;
+(a) ships belonging to or employed in the service of the armed forces of His Majesty the King;
+(b) ships belonging to or used by the general lighthouse authority or by any department of the Government of the United Kingdom;
 (c) ships of war belonging to or employed in the service of any foreign government; and
 (d) fishing vessels belonging to countries with which treaties exist for the time being exempting such vessels from duties and port charges when forced by stress of weather to seek shelter in the ports or on the coasts of the United Kingdom, when such vessels are forced by stress of weather to make use of any of the harbours of Jersey and do not break bulk while so doing.
 (5) The harbour authority may grant exemption from charges made under paragraph (1) -

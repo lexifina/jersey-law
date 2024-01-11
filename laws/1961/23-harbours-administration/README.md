@@ -1,6 +1,6 @@
 # Harbours (Administration) (Jersey) Law 1961
 
-L.23/1961 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_23_1961_20240110>
+L.23/1961 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_23_1961_20250626>
 
 | Provision | File | Heading |
 | --- | --- | --- |
