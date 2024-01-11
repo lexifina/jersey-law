@@ -1,6 +1,6 @@
 # Petroleum-Spirit (Carriage by Road) (Jersey) Regulations 2001
 
-R&O.57/2001 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/ro_57_2001_20240110>
+R&O.57/2001 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_57_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
