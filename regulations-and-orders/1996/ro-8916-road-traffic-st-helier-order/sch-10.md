@@ -16,7 +16,7 @@ East side (between Devonshire Lane and a point 24 yards north)
 5 a.m. to 6 p.m. Monday to Saturday
 East side (between a point 5 yards north of Poonah Lane and a point 7 yards further north)
 20 minutes
-8 a.m. to 12 midnight. Monday to Saturday;
+8 a.m. to midnight Monday to Saturday;
 Beresford Street
 South side (between a point 49 yards east of Halkett Place and a point 62 yards further east)
 1 hour
@@ -62,7 +62,7 @@ South side (between a point 18 yards west of its junction with Lewis Street and 
 Church Street
 East side (between a point 13 yards north of Hill Street and a point 10 yards further north)
 20 minutes
-5 a.m. to 12 midnight Monday to Saturday
+5 a.m. to midnight Monday to Saturday
 Colomberie
 North side (between Snow Hill and a point 16 yards east)
 20 minutes
@@ -128,7 +128,7 @@ North side (between a point 36 yards east of its junction with Castle Street and
 5 a.m. to 6 p.m. Monday to Saturday
 North side (between a point 124 yards east of its junction with Castle Street and a point 10 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+5 a.m. to midnight Monday to Saturday
 North side (between a point 14 yards east of the eastern boundary of “Marina Court” and a point 9 yards further east).
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
@@ -173,10 +173,10 @@ East side (between Charles Street and a point 18 yards south)
 Kensington Place
 North side (between Cheapside and a point 33 yards west)
 20 minutes
-5 a.m. to 12 midnight Monday to Saturday
+5 a.m. to midnight Monday to Saturday
 North side (between a point 19 yards west of the eastern boundary of Central Apartments and a point 12 yards further west)
 20 minutes
-5 a.m. to 12 midnight Monday to Saturday
+5 a.m. to midnight Monday to Saturday
 North side (between a point 10 yards south-west of the eastern corner of the Grand Hotel and a point 12 yards further south-west
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
@@ -187,7 +187,7 @@ North side (between a point 57 yards west of its junction with Castle Street to 
 La Rue de L’Etau
 West side (between a point 32 yards west of the junction with La Rue de Carteret and a point 11 yards further west
 20 minutes
-8 a.m. to 12 midnight Monday to Saturday
+8 a.m. to midnight Monday to Saturday
 Library Place
 South side (between the western corner of No. 13 and a point 12 yards east)
 20 minutes
@@ -216,7 +216,7 @@ West side (between a point 28 yards south of Burrard Street and a point 10 yards
 5 a.m. to 6 p.m. Monday to Saturday
 West side (between a point 12 yards north of the southern boundary of “Jersey Monumental” and the southern boundary of No. 1)
 20 minutes
-5 a.m. to 12 midnight Monday to Saturday
+5 a.m. to midnight Monday to Saturday
 Parade, The (western arm)
 West side (between the northern boundary of the Town Hall and a point 10 yards north)
 20 minutes
@@ -257,7 +257,7 @@ North side (between the western boundary of No. 20 and a point 4 yards east of t
 Stopford Road
 North side (between a point 2 yards west of the south-east corner of No. 5 and a point 24 yards further west)
 20 minutes
-8 a.m. to 12 midnight Monday to Saturday
+8 a.m. to midnight Monday to Saturday
 Union Street
 South side (between a point 17 yards east of Dumaresq Street and a point 27 yards further east)
 20 minutes
