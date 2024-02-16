@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 One-Way traffic routes
 La Rue de l’Epine

@@ -1,6 +1,6 @@
 # Road Traffic (Trinity) (Jersey) Order 1988
 
-R&O.7838 · official consolidation showing the law from 2022-04-14 · <https://www.jerseylaw.je/laws/current/ro_7838_20240215>
+R&O.7838 · official consolidation showing the law from 2024-02-16 · <https://www.jerseylaw.je/laws/current/ro_7838_20250818>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ R&O.7838 · official consolidation showing the law from 2022-04-14 · <https://w
 | Art. 5 | [art-005.md](art-005.md) | 5 Driving and stationing of certain vehicles |
 | Art. 6 | [art-006.md](art-006.md) | 6 Savings |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

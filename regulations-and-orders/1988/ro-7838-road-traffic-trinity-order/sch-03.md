@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 4A)
 duration of parking ON CERTAIN ROADS
 PART 1
 parking limited to 12 hours in 24 hours
 Les Charrières du Boulay
-West and north side (from the public toilets at the bottom of the hill to a point 25 yards to the east of the northern entrance to the property known as “North Cove”).
+West side (from a point 33 yards south of the junction with the northern slipway for 185 yards in a southerly then westerly direction).
 PART 2
 parking limited to 20 minutes with disc
 La Rue ès Picots
