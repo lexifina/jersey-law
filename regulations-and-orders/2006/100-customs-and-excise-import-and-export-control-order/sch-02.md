@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3)
 GOODS FOR WHICH LICENCE TO IMPORT IS REQUIRED
 Goods that shall not be imported except under the authority and in compliance with the terms and conditions of a licence.

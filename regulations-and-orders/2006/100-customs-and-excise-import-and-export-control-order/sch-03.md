@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 3)
 GOODS FOR WHICH LICENCE TO EXPORT IS REQUIRED
 Goods that shall not be exported except under the authority and in compliance with the terms and conditions of a licence.
