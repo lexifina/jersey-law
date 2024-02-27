@@ -1,6 +1,6 @@
 # Regulation of Care (Jersey) Law 2014
 
-L.42/2014 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_42_2014_20240226>
+L.42/2014 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_42_2014_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -55,4 +55,4 @@ L.42/2014 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 48 | [art-048.md](art-048.md) | 48 Service of documents |
 | Art. 49 | [art-049.md](art-049.md) | 49 Transitional and transfer Regulations |
 | Art. 50 | [art-050.md](art-050.md) | 50 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 2 |

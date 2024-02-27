@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 35(5))
 appointment, resources and funding of commission
 1 Interpretation of Schedule 2
@@ -27,7 +27,7 @@ In this Schedule, “JAC” means the Jersey Appointments Commission established
 4 Disqualification for appointment
 (1) A person cannot be a Commissioner if he or she is a member of the States of Jersey or of the States of Guernsey or Tynwald.
 (2) A person cannot be a Commissioner if the person -
-(a) is working or has worked, whether as a States’ employee or pursuant to a contract for services, in any administration of the States for which the Minister for Health and Social Services or Minister for Children and Education is responsible;
+(a) is working or has worked, whether as a States’ employee or pursuant to a contract for services, in any administration of the States for which the Minister for Health and Social Services or Minister for Children and Families is responsible;
 (b) is working or has worked, whether as an employee or pursuant to a contract for services, for any public authority in Guernsey or the Isle of Man that provides substantially the same services as any administration described in clause (a);
 (c) has, or has had, any other interest in the provision of health or social care in Jersey, Guernsey or the Isle of Man, whether that interest is or was financial, or as an officer, member, trustee, employee or associate or otherwise.
 (3) A person is not precluded from being a Commissioner by reason only that he or she is or has been a user of any service provided by an administration or public authority described in sub-paragraph (2)(a) or (b) or any regulated activity.
@@ -48,7 +48,7 @@ A Commissioner’s appointment shall end upon whichever is the earlier of -
 (d) is unfit to discharge his or her functions as the Chairman or other Commissioner;
 (e) is incapacitated by physical or mental illness or otherwise unable to discharge his or her functions as the Chairman or other Commissioner; or
 (f) for any other reason, does not discharge his or her functions as the Chairman or other Commissioner.
-(2) The Minister shall consult the Chairman before terminating the appointment of a Commissioner other than the Chairman,
+(2) The Minister shall consult the Chairman before terminating the appointment of a Commissioner other than the Chairman.
 (3) The Minister shall report to the States following the termination of a Commissioner’s appointment.
 8 Remuneration and expenses of Commissioners
 (1) The Commission shall pay to the Commissioners -
