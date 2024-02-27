@@ -1,6 +1,6 @@
 # Regulation of Care (Standards and Requirements) (Jersey) Regulations 2018
 
-R&O.119/2018 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20240226>
+R&O.119/2018 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -89,6 +89,6 @@ R&O.119/2018 · official consolidation showing the law from 2023-01-01 · <https
 | Reg. 82 | [reg-082.md](reg-082.md) | 82 Offences and improvement notices |
 | Reg. 83 | [reg-083.md](reg-083.md) | 83 Expiry of Regulations 3A, 17A and 80(3) to (5) |
 | Reg. 84 | [reg-084.md](reg-084.md) | 84 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

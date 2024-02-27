@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulations 39(2)(a) and (c), 40(2) and 41(3)(a))
 INFORMATION RELATING TO THE CHILD
 part 1
@@ -16,9 +16,9 @@ part 1
 (11) The child’s educational history, including -
 (a) the names, addresses and types of nurseries or schools attended with dates;
 (b) a summary of the child’s progress and attainments;
-(c) whether there is any plan maintained for the child by the Minister for Children and Education or Minister for Health and Social Services in respect of the child’s education and any associated health or care needs;
+(c) whether there is any plan maintained for the child by the Minister for Education and Lifelong Learning or Minister for Health and Social Services in respect of the child’s education and any associated health or care needs;
 (d) any special needs the child has in relation to learning; and
-(e) where the child is looked after by the Minister, details of any personal education plan prepared by the Minister for Children and Education.
+(e) if the child is looked after by the Minister for Children and Families, details of any personal education plan prepared by the Minister for Education and Lifelong Learning.
 (12) Information about -
 (a) the child’s relationship with -
 (i) the child’s parent or guardian,

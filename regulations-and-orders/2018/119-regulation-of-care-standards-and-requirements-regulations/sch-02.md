@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulations 47(2)(a) and (b) and 50(2)(a) and (b))
 INFORMATION RELATING TO PROSPECTIVE ADOPTER
 part 1
