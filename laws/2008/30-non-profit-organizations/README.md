@@ -1,6 +1,6 @@
 # Non-Profit Organizations (Jersey) Law 2008
 
-L.30/2008 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_30_2008_20240226>
+L.30/2008 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_30_2008_20251203>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -46,4 +46,4 @@ L.30/2008 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 41 | [art-041.md](art-041.md) | 41 Orders |
 | Art. 42 | [art-042.md](art-042.md) | 42 Citation |
 | Art. 43 | [art-043.md](art-043.md) | 43 Commencement and transitional arrangements |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
