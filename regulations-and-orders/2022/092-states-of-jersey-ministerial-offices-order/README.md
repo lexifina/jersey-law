@@ -1,6 +1,6 @@
 # States of Jersey (Ministerial Offices) Order 2022
 
-R&O.92/2022 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_92_2022_20240226>
+R&O.92/2022 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_92_2022_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
