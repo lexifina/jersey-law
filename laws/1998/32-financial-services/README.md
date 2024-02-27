@@ -1,6 +1,6 @@
 # Financial Services (Jersey) Law 1998
 
-L.32/1998 · official consolidation showing the law from 2023-10-31 · <https://www.jerseylaw.je/laws/current/l_32_1998_20240226>
+L.32/1998 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_32_1998_20241210>
 
 | Provision | File | Heading |
 | --- | --- | --- |
