@@ -1,6 +1,6 @@
 # Child Abduction and Custody (Jersey) Law 2005
 
-L.29/2005 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_29_2005_20240226>
+L.29/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_29_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -34,5 +34,5 @@ L.29/2005 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 27 | [art-027.md](art-027.md) | 27 Declarations by United Kingdom courts |
 | Art. 28 | [art-028.md](art-028.md) | 28 Rules of Court |
 | Art. 29 | [art-029.md](art-029.md) | 29 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
