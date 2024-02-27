@@ -210,7 +210,7 @@ In all cases under this item, except paragraph (ba), for each document registere
 rate F
 Billet
 Greffier
-Provided that where the Greffier is satisfied that the document is a renewal or further renewal of a judicial hypothec on which stamp duty has already been paid and which has become prescribed by lapse of time under Article 29 of the Loi (1880) sur la Propriété Foncière, the total fee payable -
+Provided that where the Greffier is satisfied that the document is a renewal or further renewal of a judicial hypothec on which stamp duty has already been paid and which has become prescribed by lapse of time under Article 29 of the Loi (1880) sur la propriété foncière, the total fee payable -
 (A)
 under paragraph (a) or (c) of this item shall be rate F; and
 (B)
@@ -1155,7 +1155,7 @@ Stamp Duty, by Figure or Rate
 Chargeable Document
 Designated Officer
 35.
-REALISATION under Loi (1880) sur la Propriété Foncière -
+REALISATION under Loi (1880) sur la propriété foncière -
 (a)
 Application to carry out a réalisation
 rate G
