@@ -1,6 +1,6 @@
 # Foundations (Jersey) Law 2009
 
-L.23/2009 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_23_2009_20240226>
+L.23/2009 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_23_2009>
 
 | Provision | File | Heading |
 | --- | --- | --- |
