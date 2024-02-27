@@ -1,6 +1,6 @@
 # Proceeds of Crime and Terrorism (Miscellaneous Provisions) (Jersey) Law 2014
 
-L.7/2014 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_7_2014_20240226>
+L.7/2014 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_7_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
