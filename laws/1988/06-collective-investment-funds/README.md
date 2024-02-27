@@ -1,6 +1,6 @@
 # Collective Investment Funds (Jersey) Law 1988
 
-L.6/1988 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_6_1988_20240226>
+L.6/1988 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_6_1988>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -58,4 +58,4 @@ L.6/1988 · official consolidation showing the law from 2023-04-12 · <https://w
 | Art. 36 | [art-036.md](art-036.md) | 36 Limitation of liability |
 | Art. 38A | [art-038-a.md](art-038-a.md) | 38A Certain permits become certificates |
 | Art. 39 | [art-039.md](art-039.md) | 39 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

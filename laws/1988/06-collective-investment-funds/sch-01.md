@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 4)
 Functionaries
 PART 1
