@@ -1,6 +1,6 @@
 # Banking Business (Jersey) Law 1991
 
-L.19/1991 · official consolidation showing the law from 2023-08-01 · <https://www.jerseylaw.je/laws/current/l_19_1991_20240226>
+L.19/1991 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_19_1991_20260630>
 
 | Provision | File | Heading |
 | --- | --- | --- |
