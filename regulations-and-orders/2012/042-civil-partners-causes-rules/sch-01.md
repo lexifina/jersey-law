@@ -609,7 +609,7 @@ IN THE ROYAL COURT OF JERSEY File No:
 (Family Division)
 BETWEEN APPLICANT
 AND RESPONDENT
-TAKE NOTICE that the [applicant] [respondent] intends to apply to the [Inferior Number] [Judicial Greffier] on the day of 201 , at [a.m.] [p,m,] for -
+TAKE NOTICE that the [applicant] [respondent] intends to apply to the [Inferior Number] [Judicial Greffier] on the day of 201 , at [a.m.] [p.m.] for -
 Signed: Date:
 [Advocate/Solicitor for the]
 [Applicant] [Respondent]
