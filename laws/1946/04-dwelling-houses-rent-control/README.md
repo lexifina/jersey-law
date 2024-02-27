@@ -1,6 +1,6 @@
 # Dwelling-Houses (Rent Control) (Jersey) Law 1946
 
-L.4/1946 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_4_1946_20240226>
+L.4/1946 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_4_1946>
 
 | Provision | File | Heading |
 | --- | --- | --- |
