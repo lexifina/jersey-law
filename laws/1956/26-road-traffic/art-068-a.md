@@ -28,7 +28,7 @@ is guilty of an offence and liable to a fine of level 2 on the standard scale.
 (a) a road, footpath or cycle track means the Connétable of the parish in which the road is situated;
 (b) a public parking place -
 (i) administered by a parish, means the Connétable of that parish,
-(ii) administered by an administration for which the Minister for Children and Education is responsible, means the Minister for Children and Education,
+(ii) administered by an administration for which the Minister for Education and Lifelong Learning is responsible, means the Minister for Education and Lifelong Learning,
 (iii) administered by an administration for which the Minister for Sustainable Economic Development is responsible, means the Minister for Sustainable Economic Development, or
 (iv) administered by an administration for which the Minister for Infrastructure is responsible, means the Minister for Infrastructure;
 “parking contravention” means -
