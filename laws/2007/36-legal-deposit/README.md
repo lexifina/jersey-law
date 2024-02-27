@@ -1,6 +1,6 @@
 # Legal Deposit (Jersey) Law 2007
 
-L.36/2007 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_36_2007_20240226>
+L.36/2007 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_36_2007_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
