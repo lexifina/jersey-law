@@ -1,6 +1,6 @@
 # Sex Offenders (Jersey) Law 2010
 
-L.18/2010 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_18_2010_20240226>
+L.18/2010 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_18_2010_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
