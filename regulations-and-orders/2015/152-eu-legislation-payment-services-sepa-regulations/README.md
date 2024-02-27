@@ -1,6 +1,6 @@
 # EU Legislation (Payment Services - SEPA) (Jersey) Regulations 2015
 
-R&O.152/2015 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_152_2015_20240226>
+R&O.152/2015 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_152_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -60,5 +60,5 @@ R&O.152/2015 · official consolidation showing the law from 2023-04-12 · <https
 | Reg. 51 | [reg-051.md](reg-051.md) | 51 Monitoring and enforcement powers of Commission |
 | Reg. 52 | [reg-052.md](reg-052.md) | 52 Orders amending these Regulations |
 | Reg. 53 | [reg-053.md](reg-053.md) | 53 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

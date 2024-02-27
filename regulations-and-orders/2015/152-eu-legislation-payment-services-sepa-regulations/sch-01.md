@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulations 3, 4, 8, 9, 10, 30 and 39)
 Prior General Information for Framework Contracts
 1 Payment service provider

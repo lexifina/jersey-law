@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulations 48 and 49)
 TECHNICAL REQUIREMENTS
 1 Credit transfer transactions and direct debit transactions: common requirements
