@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 4(1))
 what an AGREEMENT must specify
 1. A description sufficient to identify the residential unit that is the subject of the residential tenancy agreement.

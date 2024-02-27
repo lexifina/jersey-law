@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4(1))
 provisionS that an agreement must contain
 1. The tenant may detach and remove anything that the tenant has fixed to the residential unit, subject to the tenant’s making good any damage caused by the tenant’s so doing.

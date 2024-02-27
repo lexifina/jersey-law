@@ -1,6 +1,6 @@
 # Residential Tenancy (Jersey) Law 2011
 
-L.31/2011 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_31_2011_20240226>
+L.31/2011 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_31_2011_20260405>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,5 +30,5 @@ L.31/2011 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 23 | [art-023.md](art-023.md) | 23 Orders |
 | Art. 24 | [art-024.md](art-024.md) | 24 Regulations |
 | Art. 25 | [art-025.md](art-025.md) | 25 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
