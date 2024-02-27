@@ -26,7 +26,7 @@ D is the amount of LTC contribution already paid for the year of assessment (not
 (a) the sum of the rate calculated using the formula in Article 41C(2) and the LTC contribution effective rate determined in accordance with paragraph 4 of Schedule 1D to the 1974 Law, rounded up to the nearest whole number; and
 (b) the maximum combined effective rate for the employee in sub-paragraph (2).
 (2) The maximum combined effective rate for an employee is -
-(a) 22%, if the employee has arrears of income tax or LTC contributions;
+(a) 22%, if the employee has no arrears of income tax or LTC contributions;
 (b) 27%, if the employee has arrears of income tax or LTC contributions for one year of assessment;
 (c) 32%, if the employee has arrears of income tax or LTC contributions for 2 years of assessment; and
 (d) 37%, if the employee has arrears of income tax or LTC contributions for 3 or more years of assessment.
