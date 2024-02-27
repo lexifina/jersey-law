@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 2)
 areas designated as parks
 PART 1

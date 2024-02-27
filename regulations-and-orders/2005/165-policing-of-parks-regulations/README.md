@@ -1,6 +1,6 @@
 # Policing of Parks (Jersey) Regulations 2005
 
-R&O.165/2005 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_165_2005_20240226>
+R&O.165/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_165_2005_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,4 +15,4 @@ R&O.165/2005 · official consolidation showing the law from 2021-03-02 · <https
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Holding of events in parks |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Application of fines levied summarily |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
