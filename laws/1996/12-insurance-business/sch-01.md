@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 CLASSES OF INSURANCE BUSINESS
 (Article 5)
 PART 1

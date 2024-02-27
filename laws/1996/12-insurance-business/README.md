@@ -1,6 +1,6 @@
 # Insurance Business (Jersey) Law 1996
 
-L.12/1996 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_12_1996_20240226>
+L.12/1996 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_12_1996>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -60,5 +60,5 @@ L.12/1996 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 44 | [art-044.md](art-044.md) | 44 Service of notices |
 | Art. 44A | [art-044-a.md](art-044-a.md) | 44A Transitional provision |
 | Art. 45 | [art-045.md](art-045.md) | 45 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

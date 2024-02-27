@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 TRANSFER OF iNSURANCE BUSINESS
 (Article 27)
 1. Where it is proposed to carry out a scheme under which the whole or part of the insurance business carried on in or from within Jersey by a permit holder (the “transferor company”) is to be transferred to another body whether incorporated or not (the “transferee company”) the transferor company or transferee company may make a Representation to the Court for an order sanctioning the scheme.
