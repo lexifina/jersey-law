@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 94)
 1 Interpretation
 In this Schedule -

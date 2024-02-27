@@ -1,6 +1,6 @@
 # Security Interests (Jersey) Law 2012
 
-L.24/2012 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_24_2012_20240226>
+L.24/2012 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_24_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -104,4 +104,4 @@ L.24/2012 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 93 | [art-093.md](art-093.md) | 93 Regulations |
 | Art. 94 | [art-094.md](art-094.md) | 94 Savings, and transitional and consequential provisions |
 | Art. 95 | [art-095.md](art-095.md) | 95 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
