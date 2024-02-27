@@ -1,6 +1,6 @@
 # Criminal Justice (Young Offenders) (Jersey) Law 2014
 
-L.27/2014 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_27_2014_20240226>
+L.27/2014 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_27_2014_20251029>
 
 | Provision | File | Heading |
 | --- | --- | --- |
