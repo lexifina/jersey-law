@@ -1,6 +1,6 @@
 # Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
 
-L.32/2008 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_32_2008_20240226>
+L.32/2008 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_32_2008_20240613>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -51,4 +51,4 @@ L.32/2008 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 43 | [art-043.md](art-043.md) | 43 Transitional provisions |
 | Art. 44 | [art-044.md](art-044.md) | 44 Regulations and Orders |
 | Art. 45 | [art-045.md](art-045.md) | 45 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
