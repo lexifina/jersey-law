@@ -1,0 +1,3 @@
+# 143B Powers of court
+(1) If, on receiving an application under Article 143A, the court is satisfied that the company which is the subject of the report has not met the economic substance test, the court may make such order as it thinks fit requiring the company to take any action specified in the order for the purpose of meeting the test, including, without prejudice to the generality of the foregoing, any action described in Article 143(2).
+(2) If, under paragraph (1), a court orders a company to take any action described in Article 143(2), paragraphs (3) to (5) of that Article shall apply, as if an order under paragraph (1) were an order under that Article.

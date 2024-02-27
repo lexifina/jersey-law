@@ -1,0 +1,4 @@
+# 127YG Accounts of cell companies
+(1) Nothing in Article 105 shall be taken to require a cell company to prepare the accounts in relation to a cell of the company that are required to be prepared in relation to the cell.
+(2) Subject to any provision to the contrary in the articles of a cell of a cell company or of the company, a member of the cell company who is not a member of the cell shall only be entitled to be provided by the cell with so much of the accounts of the cell as is necessary in order for the cell company to comply with the requirements of Article 127YE(2) in relation to the cell company.
+(3) Nothing in this Article shall require the preparation, in relation to a cell of a cell company, of accounts in relation to the affairs of the cell that occurred before this Article came into operation.

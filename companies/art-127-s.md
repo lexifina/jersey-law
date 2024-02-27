@@ -1,0 +1,3 @@
+# 127S Objections by members to continuance overseas
+(1) If a company resolves to make an application under Article 127T to the Commission for authorization to seek continuance in another jurisdiction, any member of the company who objects to the application (other than a member who consented to or voted in favour of it) may apply to the court for an order under Article 143 on the ground that the proposed continuance would unfairly prejudice his or her interests.
+(2) No such application may be made by a member after the expiration of the period of 21 days following the last of the resolutions of the company which are required under Article 127Q.

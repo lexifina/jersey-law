@@ -1,0 +1,2 @@
+# 143A Power for Minister for Treasury and Resources to apply to Court
+If the Minister for Treasury and Resources receives a report from the Comptroller of Taxes under Article 9(5) of the Taxation (Companies - Economic Substance) (Jersey) Law 2019, that a company has not met the economic substance test within the meaning of that Law, the Minister for Treasury and Resources may apply to the court for an order under Article 143B.
