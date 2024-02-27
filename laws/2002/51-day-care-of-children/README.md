@@ -1,6 +1,6 @@
 # Day Care of Children (Jersey) Law 2002
 
-L.51/2002 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_51_2002_20240226>
+L.51/2002 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_51_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
