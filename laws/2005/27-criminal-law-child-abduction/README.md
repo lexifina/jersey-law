@@ -1,6 +1,6 @@
 # Criminal Law (Child Abduction) (Jersey) Law 2005
 
-L.27/2005 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_27_2005_20240226>
+L.27/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_27_2005_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ L.27/2005 · official consolidation showing the law from 2021-03-02 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Abduction of child by other persons |
 | Art. 4 | [art-004.md](art-004.md) | 4 Penalties and prosecutions |
 | Art. 5 | [art-005.md](art-005.md) | 5 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

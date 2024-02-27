@@ -1,11 +1,11 @@
-# SCHEDULE
+# Schedule
 (Article 2(8))
 MODIFICATIONS OF “APPROPRIATE CONSENT” FOR THE PURPOSES OF ARTICLE 2
 Description of child
 Appropriate leave or consent
 1.
 A child who is the subject of a care order (except a child falling within entry 5 below).
-The consent of the Minister for Children and Education.
+The consent of the Minister for Children and Families.
 2.
 A child who is the subject of a warrant issued under Article 10(1) of the Children (Jersey) Law 1969.
 The leave of the Bailiff.
