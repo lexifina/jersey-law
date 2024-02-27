@@ -1,6 +1,6 @@
 # Building Loans (Miscellaneous Provisions) (Jersey) Regulations 1961
 
-R&O.4204 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_4204_20240226>
+R&O.4204 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_4204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,5 +15,5 @@ R&O.4204 · official consolidation showing the law from 2021-03-02 · <https://w
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 ‎ |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 ‎ |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 ‎ |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
