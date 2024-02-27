@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 32)
 Charity Commission tribunal
 1 Appointment

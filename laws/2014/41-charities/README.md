@@ -1,6 +1,6 @@
 # Charities (Jersey) Law 2014
 
-L.41/2014 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_41_2014_20240226>
+L.41/2014 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_41_2014_20251015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -48,5 +48,5 @@ L.41/2014 · official consolidation showing the law from 2023-04-12 · <https://
 | Art. 41 | [art-041.md](art-041.md) | 41 Amendments of Laws relating to sharing of information |
 | Art. 42 | [art-042.md](art-042.md) | 42 Consequential amendments of other enactments |
 | Art. 43 | [art-043.md](art-043.md) | 43 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
