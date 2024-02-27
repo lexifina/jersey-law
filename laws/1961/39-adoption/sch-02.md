@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 11A(2))
 CONVENTION ON PROTECTION OF CHILDREN AND CO-OPERATION IN RESPECT OF INTERCOUNTRY ADOPTION
 The States signatory to the present Convention,

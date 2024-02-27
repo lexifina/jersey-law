@@ -1,6 +1,6 @@
 # Adoption (Jersey) Law 1961
 
-L.39/1961 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_39_1961_20240226>
+L.39/1961 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_39_1961_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -65,5 +65,5 @@ L.39/1961 · official consolidation showing the law from 2023-01-01 · <https://
 | Art. 45 | [art-045.md](art-045.md) | 45 Evidence of adoptions, etc. |
 | Art. 46 | [art-046.md](art-046.md) | 46 Registration of adoptions outside Jersey |
 | Art. 47 | [art-047.md](art-047.md) | 47 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
