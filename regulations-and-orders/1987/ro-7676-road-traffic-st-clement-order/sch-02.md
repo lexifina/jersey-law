@@ -93,7 +93,7 @@ both sides, from its junction with La Grande Route de la Côte for 80 yards sout
 (d)
 east side, from its junction with La Rue de la Croix to a point 58 yards further north;
 (e)
-west side, from its junction with La Rue du Maupertuis to a point 22 yards further south.
+west side, from its junction with La Rue du Maupertuis to a point 40 yards further south.
 La Rue du Hocq
 both sides, for its entire length.
 La Rue du Maupertuis
