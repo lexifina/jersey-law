@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 PART 1
 (Article 4(1))
 Oaths of office
