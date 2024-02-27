@@ -1,6 +1,6 @@
 # Alternative Investment Funds (Jersey) Regulations 2012
 
-R&O.142/2012 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_142_2012_20240226>
+R&O.142/2012 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_142_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
