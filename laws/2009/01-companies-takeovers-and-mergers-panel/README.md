@@ -1,6 +1,6 @@
 # Companies (Takeovers and Mergers Panel) (Jersey) Law 2009
 
-L.1/2009 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/l_1_2009_20240226>
+L.1/2009 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_1_2009_20260616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,4 +30,4 @@ L.1/2009 · official consolidation showing the law from 2023-04-12 · <https://w
 | Art. 23 | [art-023.md](art-023.md) | 23 Other legislation relating to takeovers and mergers |
 | Art. 24 | [art-024.md](art-024.md) | 24 Regulations and Orders |
 | Art. 25 | [art-025.md](art-025.md) | 25 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

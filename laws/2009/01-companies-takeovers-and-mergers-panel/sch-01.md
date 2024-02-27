@@ -1,9 +1,10 @@
-# SCHEDULE
+# Schedule
 (Article 8)
 Specified persons, descriptions of disclosure etc for the purposes of article 8
 PART 1
 SPECIFIED PERSONS
 1 Chief Minister
+1A Minister for External Relations
 2 Minister for Treasury and Resources
 3 Commission
 4 Comptroller of Income Tax
