@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 Rule 11
 PARTICULAR DUTIES OF THE GUARDIAN AD LITEM
 1. The guardian ad litem shall interview the applicant and shall ascertain -

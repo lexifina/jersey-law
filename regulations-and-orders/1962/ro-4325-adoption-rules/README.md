@@ -1,6 +1,6 @@
 # Adoption Rules 1962
 
-R&O.4325 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/ro_4325_20240226>
+R&O.4325 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_4325_20250413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,5 +17,5 @@ R&O.4325 · official consolidation showing the law from 2021-03-02 · <https://w
 | Rule 29 | [rule-029.md](rule-029.md) | 29 Service of documents |
 | Rule 30 | [rule-030.md](rule-030.md) | 30 Entries in the register of procurations |
 | Rule 31 | [rule-031.md](rule-031.md) | 31 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
