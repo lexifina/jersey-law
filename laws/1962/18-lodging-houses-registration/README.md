@@ -1,6 +1,6 @@
 # Lodging Houses (Registration) (Jersey) Law 1962
 
-L.18/1962 · official consolidation showing the law from 2021-03-02 · <https://www.jerseylaw.je/laws/current/l_18_1962_20210927>
+L.18/1962 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_18_1962>
 
 | Provision | File | Heading |
 | --- | --- | --- |
