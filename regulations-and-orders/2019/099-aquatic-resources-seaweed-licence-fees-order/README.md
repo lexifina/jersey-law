@@ -1,6 +1,6 @@
 # Aquatic Resources (Seaweed Licence Fees) (Jersey) Order 2019
 
-R&O.99/2019 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_99_2019_20240229>
+R&O.99/2019 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_99_2019_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
