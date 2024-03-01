@@ -1,6 +1,6 @@
 # Animal Health (Animal By-Products) (Jersey) Order 2018
 
-R&O.80/2018 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_80_2018_20240229>
+R&O.80/2018 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_80_2018_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,4 +18,4 @@ R&O.80/2018 · official consolidation showing the law from 2023-01-01 · <https:
 | Art. 12 | [art-012.md](art-012.md) | 12 Order not to limit Minister’s powers |
 | Art. 13 | [art-013.md](art-013.md) | 13 Licences and fees |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
