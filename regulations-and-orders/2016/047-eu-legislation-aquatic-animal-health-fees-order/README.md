@@ -1,6 +1,6 @@
 # EU Legislation (Aquatic Animal Health - Fees) (Jersey) Order 2016
 
-R&O.47/2016 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_47_2016_20240229>
+R&O.47/2016 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_47_2016_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
