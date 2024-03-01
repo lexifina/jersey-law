@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 13(3))
 DUTIES OF THE CENTRE VETERINARIAN IN EC STORAGE CENTRE
 The centre veterinarian must ensure that -

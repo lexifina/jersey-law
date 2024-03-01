@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 24(1))
 DUTIES OF THE approved person in respect of a DOMESTIC COLLECTION CENTRES
 PART 1

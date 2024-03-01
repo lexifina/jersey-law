@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 24(2))
 DUTIES OF THE approved person IN DOMESTIC STORAGE CENTRES
 The approved person in respect of a domestic storage centre must ensure that -

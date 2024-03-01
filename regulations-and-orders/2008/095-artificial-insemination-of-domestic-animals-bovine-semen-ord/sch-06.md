@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 31(2))
 duties of OPERATOR of on-farm bovine semen collection facilities
 1 The operator must ensure that the accommodation in which the bovine animals from which semen is to be collected is kept, and the collection facilities (if different), are constructed so that they can be readily cleaned and disinfected.
