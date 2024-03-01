@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 1(1) and (4), and 21(1))
 Kinds of dangerous wild animals
 First Column

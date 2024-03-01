@@ -1,6 +1,6 @@
 # Dangerous Wild Animals (Jersey) Law 1999
 
-L.5/1999 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/l_5_1999_20240229>
+L.5/1999 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/l_5_1999_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,6 +28,6 @@ L.5/1999 · official consolidation showing the law from 2023-01-01 · <https://w
 | Art. 21 | [art-021.md](art-021.md) | 21 Amendment of Schedules |
 | Art. 22 | [art-022.md](art-022.md) | 22 Relationship to other enactments |
 | Art. 23 | [art-023.md](art-023.md) | 23 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

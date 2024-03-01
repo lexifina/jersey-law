@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 4(1), 9(1) and 21(2)(a))
 Forms
 FORM 1
