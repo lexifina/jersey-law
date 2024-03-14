@@ -1,6 +1,6 @@
 # Tourism (General Provisions) (Jersey) Order 1990
 
-R&O.8104 · official consolidation showing the law from 2023-10-08 · <https://www.jerseylaw.je/laws/current/ro_8104_20240313>
+R&O.8104 · official consolidation showing the law from 2024-03-14 · <https://www.jerseylaw.je/laws/current/ro_8104_20241022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
