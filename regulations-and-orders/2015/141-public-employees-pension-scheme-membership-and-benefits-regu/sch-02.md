@@ -1,6 +1,6 @@
 # SCHEDULE 2
 (Regulation 50)
-forfeiture of scheme benefits
+Forfeiture of scheme benefits
 1 Interpretation
 In this Schedule -
 (a) “competent court” means the Royal Court, Petty Debts Court, or Magistrate’s Court;

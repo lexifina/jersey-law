@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Membership and Benefits) (Jersey) Regulations 2015
 
-R&O.141/2015 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_141_2015_20240317>
+R&O.141/2015 · official consolidation showing the law from 2024-03-18 · <https://www.jerseylaw.je/laws/current/ro_141_2015_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
