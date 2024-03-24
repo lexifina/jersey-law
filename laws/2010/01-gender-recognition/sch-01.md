@@ -1,6 +1,6 @@
 # Schedule
 (Article 9)
-alteration of registers
+Alteration of registers
 1 Re-registration of birth
 (1) This paragraph applies where the birth of a person to whom a gender recognition certificate is issued was registered in Jersey.
 (2) The Court shall send a copy of the gender recognition certificate to the Superintendent Registrar.

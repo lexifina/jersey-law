@@ -1,6 +1,6 @@
 # Gender Recognition (Jersey) Law 2010
 
-L.1/2010 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_1_2010_20240323>
+L.1/2010 · official consolidation showing the law from 2024-03-24 · <https://www.jerseylaw.je/laws/current/l_1_2010_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,7 +8,6 @@ L.1/2010 · official consolidation showing the law from 2023-03-24 · <https://w
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Application for gender recognition certificate |
 | Art. 3 | [art-003.md](art-003.md) | 3 Grant of application for gender recognition certificate |
-| Art. 5 | [art-005.md](art-005.md) | 5 Issue of full certificate once applicant no longer married or no longer in a civil partnership - other cases |
 | Art. 6 | [art-006.md](art-006.md) | 6 Correction of error in certificate |
 | Art. 7 | [art-007.md](art-007.md) | 7 Reference to Court in case of fraud |
 | Art. 8 | [art-008.md](art-008.md) | 8 General rule for acquisition of gender |
