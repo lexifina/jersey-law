@@ -1,6 +1,6 @@
 # Road Traffic (Periodic Technical Inspections - General Provisions) (Jersey) Order 2018
 
-R&O.132/2018 · official consolidation showing the law from 2021-03-05 · <https://www.jerseylaw.je/laws/current/ro_132_2018_20240327>
+R&O.132/2018 · official consolidation showing the law from 2024-03-28 · <https://www.jerseylaw.je/laws/current/ro_132_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
