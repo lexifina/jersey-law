@@ -765,6 +765,11 @@ Class M - late night entertainment and drinking venues to a mixed use of Class B
 Interpretation of Class B
 B.2
 For the purposes of Class B, a reference to a class by letter is a reference to the use Class bearing that letter in Schedule 2.
+PART 8A
+SHORT-TERM HOLIDAY LETS
+Development that is a change in use of a building, or part of a building, from use as a dwelling only to use, during a calendar year, either as a dwelling or as accommodation for stays -
+(a) by people mainly for their leisure and not as their main dwelling; and
+(b) whose combined duration (even for different people’s stays) is 12 weeks or less in the calendar year.
 part 9
 emergency development by the government of jersey
 CLASS A
