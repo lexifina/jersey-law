@@ -1,6 +1,6 @@
 # Criminal Procedure (Jersey) Rules 2021
 
-R&O.113/2021 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_113_2021_20240402>
+R&O.113/2021 · official consolidation showing the law from 2024-04-03 · <https://www.jerseylaw.je/laws/current/ro_113_2021_20250709>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -73,7 +73,17 @@ R&O.113/2021 · official consolidation showing the law from 2024-01-11 · <https
 | Rule 66 | [rule-066.md](rule-066.md) | 66 Notice of registration |
 | Rule 67 | [rule-067.md](rule-067.md) | 67 Application to vary or set aside registration |
 | Rule 68 | [rule-068.md](rule-068.md) | 68 Variation and cancellation of a registration |
-| Rule 69 | [rule-069.md](rule-069.md) | 69 Citation and commencement |
+| Rule 69 | [rule-069.md](rule-069.md) | 69 Application and interpretation of Part 7A |
+| Rule 70 | [rule-070.md](rule-070.md) | 70 Commencement of application or appeal |
+| Rule 71 | [rule-071.md](rule-071.md) | 71 Respondent’s notice |
+| Rule 72 | [rule-072.md](rule-072.md) | 72 Amendment of representation, notice of appeal or respondent’s notice |
+| Rule 73 | [rule-073.md](rule-073.md) | 73 Directions |
+| Rule 74 | [rule-074.md](rule-074.md) | 74 Hearing of application or appeal |
+| Rule 75 | [rule-075.md](rule-075.md) | 75 Party in custody |
+| Rule 76 | [rule-076.md](rule-076.md) | 76 Abandonment |
+| Rule 77 | [rule-077.md](rule-077.md) | 77 Court may sit in private |
+| Rule 78 | [rule-078.md](rule-078.md) | 78 Court may dispense with requirements of this Part |
+| Rule 79 | [rule-079.md](rule-079.md) | 79 Citation and commencement |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
 | Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
@@ -86,3 +96,6 @@ R&O.113/2021 · official consolidation showing the law from 2024-01-11 · <https
 | Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |
 | Schedule 11 | [sch-11.md](sch-11.md) | Schedule 11 |
 | Schedule 12 | [sch-12.md](sch-12.md) | Schedule 12 |
+| Schedule 13 | [sch-13.md](sch-13.md) | Schedule 13 |
+| Schedule 14 | [sch-14.md](sch-14.md) | Schedule 14 |
+| Schedule 15 | [sch-15.md](sch-15.md) | Schedule 15 |
