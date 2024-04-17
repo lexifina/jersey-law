@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20240416>
+R&O.86/2018 · official consolidation showing the law from 2024-04-17 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20250305>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,7 @@ R&O.86/2018 · official consolidation showing the law from 2024-02-27 · <https:
 | Art. 5 | [art-005.md](art-005.md) | 5 Meaning of relevant income of dependent student living with “relevant person” |
 | Art. 6 | [art-006.md](art-006.md) | 6 Meaning of relevant income of independent student |
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Meaning of relevant income of certain dependent students living with a single parent |
+| Art. 6B | [art-006-b.md](art-006-b.md) | 6B Status of examples |
 | Art. 7 | [art-007.md](art-007.md) | 7 General rules for eligibility |
 | Art. 8 | [art-008.md](art-008.md) | 8 Eligibility for higher education grant |
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Exception to non-eligibility for a grant in respect of certain courses |
@@ -21,8 +22,8 @@ R&O.86/2018 · official consolidation showing the law from 2024-02-27 · <https:
 | Art. 12 | [art-012.md](art-012.md) | 12 Interpretation |
 | Art. 12A | [art-012-a.md](art-012-a.md) | 12A Relevant assets exceeding £500,000 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Tuition fees grant |
-| Art. 13B | [art-013-b.md](art-013-b.md) | 13B Maximum maintenance grant where relevant income is less than £50,000 |
-| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Maintenance grant where relevant income is £50,000 or more, but less than £90,000 |
+| Art. 13B | [art-013-b.md](art-013-b.md) | 13B Maximum maintenance grant if relevant income is less than £50,000 |
+| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Maintenance grant if relevant income is between £50,000 and £89,999.99 |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
 | Art. 14 | [art-014.md](art-014.md) | 14 Clinical courses |
 | Art. 15 | [art-015.md](art-015.md) | 15 Clinical component grant |
