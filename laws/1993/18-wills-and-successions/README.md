@@ -1,6 +1,6 @@
 # Wills and Successions (Jersey) Law 1993
 
-L.18/1993 · official consolidation showing the law from 2022-10-01 · <https://www.jerseylaw.je/laws/current/l_18_1993_20240425>
+L.18/1993 · official consolidation showing the law from 2024-04-26 · <https://www.jerseylaw.je/laws/current/l_18_1993_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ L.18/1993 · official consolidation showing the law from 2022-10-01 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Représentation |
 | Art. 3 | [art-003.md](art-003.md) | 3 Right of maternal relatives in collateral succession |
+| Art. 3A | [art-003-a.md](art-003-a.md) | 3A Assets forming part of immovable estate treated as acquêts |
 | Art. 4 | [art-004.md](art-004.md) | 4 Heirs take as tenants in common |
 | Art. 5 | [art-005.md](art-005.md) | 5 Right of surviving spouse to life enjoyment of matrimonial home or surviving civil partner to life enjoyment of civil  |
 | Art. 6 | [art-006.md](art-006.md) | 6 Devolution of immovable estate on intestacy |
@@ -32,6 +33,7 @@ L.18/1993 · official consolidation showing the law from 2022-10-01 · <https://
 | Art. 14 | [art-014.md](art-014.md) | 14 Abolition of right of principal heir to demand possession of movable estate |
 | Art. 14A | [art-014-a.md](art-014-a.md) | 14A Abolition of viduité |
 | Art. 14B | [art-014-b.md](art-014-b.md) | 14B Abolition of requirement of consummation in relation to dower |
+| Art. 14C | [art-014-c.md](art-014-c.md) | 14C Abolition of rules relating to collateral succession of immovable estate |
 | Art. 15 | [art-015.md](art-015.md) | 15 Costs of administration |
 | Art. 16 | [art-016.md](art-016.md) | 16 Testamentary dispositions and appointments revoked by divorce or dissolution of civil partnership |
 | Art. 17 | [art-017.md](art-017.md) | 17 Will made by a minor |
