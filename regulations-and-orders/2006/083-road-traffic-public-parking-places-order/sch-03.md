@@ -4,7 +4,6 @@ Parking Charges
 PART 1
 The pay period in respect of each of the following parking places is the period between 8 a.m. and 5 p.m. on any day except Sunday.
 The prescribed charge payable in respect of a vehicle parked in the parking place during that pay period is 1 parking unit for each period of one hour or part of that period that a vehicle is parked in the parking place during the pay period.
-STHA2
 STH1
 STH5
 STH8
@@ -45,3 +44,7 @@ STH26A
 STL1
 STL2
 STL4
+PART 4
+The pay period in respect of the following parking places is the period between 8 a.m. and 10 p.m. on any day.
+The prescribed charge payable in respect of a vehicle parked in the parking place during that pay period is 1 parking unit for each period of one hour or part of that period that a vehicle is parked in the parking place during the pay period.
+STHA2
