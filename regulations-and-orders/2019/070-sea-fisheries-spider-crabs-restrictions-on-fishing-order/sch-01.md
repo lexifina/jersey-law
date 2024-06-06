@@ -1,6 +1,6 @@
 # Schedule
 (Article 2)
-DELINEATION OF AREA
+Delineation of area
 From a point to the south of Jersey where the UK/France median line is intersected by the meridian of longitude 02°20.00 west, eastwards along the median line until it is intersected by the meridian of longitude 01°55.00 west;
 thence north-eastwards along that meridian until it is intersected by the meridian of longitude of 02°00.08 west;
 thence southwards along that meridian to a point 49°16.95 north, 02°00.08 west;
