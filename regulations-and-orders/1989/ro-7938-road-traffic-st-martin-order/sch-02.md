@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4(1))
 Prohibition of waiting
 Beach Road
@@ -86,5 +86,9 @@ Both sides (from the junction with La Rond Collas to the western boundary of the
 South side (from the junction with Rue du Payn to the junction with the eastern side of Le Rond Collas).
 Rue des Raisies
 Both sides (from the junction with La Rue de la Croix au Maître for a distance of 12 yards in a northerly direction).
+Rue de la Solitude
+North side (from its junction with La Rue de la Côte au Palier for a distance of 227 yards in an easterly direction).
+North side (from a point 251 yards east of its junction with La Rue de la Côte au Palier to its junction with Les Viviers).
+South side (from its junction with La Rue de la Côte au Palier to its junction with Les Viviers).
 The road from La Route de la Côte (B29) to Archirondel Café
 Both sides (from La Route de la Côte to the car park).

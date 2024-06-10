@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 5)
 Roads closed to through traffic
 Mont de la Garenne

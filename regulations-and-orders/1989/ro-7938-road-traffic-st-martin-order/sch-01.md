@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3)
 One-way traffic routes
 Road
@@ -29,6 +29,6 @@ Rue de Caen to the premises known as “Cintra”
 New Road
 The parish boundary to Old Road
 Old Road
-The parish boundary to Rue de la Côte
+The parish boundary to Beach Road
 The road encircling the rock in the quarry at Verclut (the northern end of Route B 29)
 In a clockwise direction

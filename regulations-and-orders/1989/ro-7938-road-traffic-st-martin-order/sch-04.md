@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 6)
 PART 1
 Roads not to be used by chars-à-banc
