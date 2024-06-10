@@ -80,8 +80,8 @@ STMN13
 STO1
 STO4
 STO5
-ST07
-ST08
+STO7
+STO8
 STC1
 STC2
 STC3
@@ -97,9 +97,7 @@ STS4
 STS5
 STS6
 STS7
-STS8A
 STS10
-STS11
 T2
 T3
 T4
@@ -148,10 +146,11 @@ No parking places
 PART 13
 The maximum parking period in respect of the following parking places is a total period of 3 hours in any continuous period of 24 hours. A valid parking disc must be displayed on the vehicle during the period when it is parked there.
 STB3A
-STB3A
 STH29
 STH30
 STH31
+STS8A
+STS11
 PART 14
 The maximum parking period in respect of any of the following parking places on any day is a total period of 8 hours in any continuous period of 24 hours.
 STO10
