@@ -13,9 +13,15 @@ Azerbaijan
 Ecuador
 31st December 2018
 2019
+Jamaica
+31st December 2022
+2023
 Kazakhstan
 31st December 2018
 2019
+Kenya
+31st December 2022
+2023
 Liberia
 31st December 2018
 2019
@@ -25,6 +31,9 @@ Maldives
 Morocco
 31st December 2019
 2020
+New Caledonia
+31st December 2022
+2023
 Nigeria
 31st December 2017
 2018
@@ -34,3 +43,6 @@ Oman
 Peru
 31st December 2018
 2019
+Thailand
+31st December 2022
+2023
