@@ -1,6 +1,6 @@
 # The Law Society of Jersey Law 2005
 
-L.9/2005 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_9_2005_20240613>
+L.9/2005 · official consolidation showing the law from 2024-06-14 · <https://www.jerseylaw.je/laws/current/l_9_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
