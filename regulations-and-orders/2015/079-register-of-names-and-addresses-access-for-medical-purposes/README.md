@@ -1,6 +1,6 @@
 # Register of Names and Addresses (Access for Medical Purposes) (Jersey) Regulations 2015
 
-R&O.79/2015 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_79_2015_20240613>
+R&O.79/2015 · official consolidation showing the law from 2024-06-14 · <https://www.jerseylaw.je/laws/current/ro_79_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
