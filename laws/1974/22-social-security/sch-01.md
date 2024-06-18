@@ -1,6 +1,6 @@
 # Schedule 1AA
 (Articles 1A, 8A(6), 8A(7), 25(1A)(a) and 47(1))
-pensionable age
+Pensionable age
 1 Pensionable age
 A person’s pensionable age is the age specified in column 2 of the table, below, opposite the age category specified in column 1 of the table in which the person’s date of birth falls.
 2 Contribution years under Article 8A

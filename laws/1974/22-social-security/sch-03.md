@@ -1,6 +1,6 @@
 # Schedule 1B
 (Articles 8(3), 9 and 30(3))
-class 2 factors and contribution rates
+Class 2 factors and contribution rates
 1 Class 2 - earnings
 For the purposes of determining the amount of Class 2 contributions payable in respect of a Class 2 insured person, and subject to any Order made under Article 1(5) or 11, the earnings of a Class 2 insured person include any sums payable to the person (whether under a contract for services or any office or arrangement whereby the person is rewarded for work done or services rendered) by way of wages, salary, fees, bonuses, commission, overtime pay or any other emolument including the value of any loan, perquisite or any other benefit in kind.
 2 Class 2 - monthly earnings limits

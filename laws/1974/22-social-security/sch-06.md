@@ -21,7 +21,7 @@ Survivor’s allowance ...
 6.
 Survivor’s pension .......
 Standard rate of benefit.
-part 1A - rates of old age pension
+PART 1A - rates of old age pension
 1 Interpretation of Part 1A
 (1) For the purposes of this Part of this Schedule -
 “standard rate” shall be construed in accordance with paragraph 2;
@@ -47,7 +47,7 @@ the standard rate shall be adjusted by the percentage change that is the arithme
 (1) The weekly rate for the old age pension is the standard rate.
 (2) The weekly rate for a reduced old age pension taken in accordance with Article 25(1A) is the rate of old age pension payable to the person, reduced by 0.58% for each month from the month in which the person becomes entitled to receive the reduced old age pension until the month in which the person attains pensionable age (both months inclusive).
 (3) The weekly rate payable for an old age pension where the pension is payable to a woman by virtue of her husband’s insurance, and the woman’s husband is alive, is 66% of the rate of old age pension payable to her husband.
-PART 2 - Amounts of SINGLE PAYMENT BENEFITS
+PART 2 - Amounts of single payment benefits
 Description of Grant.
 Amount.
 1.

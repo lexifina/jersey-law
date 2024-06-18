@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_22_1974_20240617>
+L.22/1974 · official consolidation showing the law from 2024-06-18 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241205>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ L.22/1974 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Full contribution record and contribution factors |
 | Art. 9 | [art-009.md](art-009.md) | 9 Supplementation of contributions |
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Contributions by States to supplementation |
-| Art. 10 | [art-010.md](art-010.md) | 10 Exceptions from liability and crediting of contributions |
+| Art. 10 | [art-010.md](art-010.md) | 10 Exceptions from liability and credits of contributions |
 | Art. 11 | [art-011.md](art-011.md) | 11 General contribution provisions |
 | Art. 12 | [art-012.md](art-012.md) | 12 Description of benefits |
 | Art. 13 | [art-013.md](art-013.md) | 13 Rates and amounts of benefit |

@@ -1,6 +1,6 @@
 # Schedule 1A
 (Articles 5(3A) and (4), 9 and 30(3))
-class 1 MINIMUM EARNINGS THRESHOLD, factors and contribution rates
+class 1 minimum earnings threshold, factors and contribution rates
 A1 Class 1 minimum earnings threshold
 (1) The Class 1 minimum earnings threshold is £438.
 (2) On 1st January in 2023 and every subsequent year, the amount in sub-paragraph (1) is to be increased or decreased, as the case requires, by the percentage rise or fall in the minimum wage during the period of 12 months beginning with 2nd January in the preceding year.
