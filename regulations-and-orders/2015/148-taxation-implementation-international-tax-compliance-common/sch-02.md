@@ -1,7 +1,6 @@
 # SCHEDULE 2
 (Regulation 2(1)(a) and (2)(a))
 participating jurisdictions
-Anguilla
 Argentina
 Belgium
 Bermuda
@@ -34,7 +33,6 @@ Lithuania
 Luxembourg
 Malta
 Mexico
-Montserrat
 Netherlands
 Norway
 Poland

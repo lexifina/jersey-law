@@ -35,7 +35,6 @@ Mauritius
 Monaco
 Nauru
 New Zealand
-Niue
 Pakistan
 Panama
 Qatar
@@ -48,7 +47,6 @@ Saudi Arabia
 Singapore
 Sint Maarten
 Switzerland
-Trinidad and Tobago
 Turkey
 United Arab Emirates
 Uruguay
