@@ -1,7 +1,7 @@
 # SCHEDULE
 (Article 1)
 Days to be observed as public holidays
-part 1
+Part 1
 (Article 1(1))
 General rules
 1 Interpretation
@@ -27,8 +27,9 @@ The last Monday in August is to be observed as a public holiday.
 (3) If 26th December is a Saturday, Monday 28th December is to be observed as a public holiday.
 (4) If 26th December is a Sunday, Monday 27th and Tuesday 28th December are to be observed as public holidays.
 (5) If 26th December is a Monday, Tuesday 27th December is also to be observed as a public holiday.
-part 2
+Part 2
 (Article 1(2))
-rules for specific years
-2023: Coronation of His Majesty King Charles III
-Monday 8th May 2023 is to be observed as a public holiday.
+Rules for specific years
+8 2024: royal visit
+(1) Monday 15 July 2024 is to be observed as a public holiday.
+(2) This paragraph is deleted on 31 December 2024.

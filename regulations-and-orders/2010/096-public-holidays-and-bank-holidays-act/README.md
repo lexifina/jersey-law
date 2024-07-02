@@ -1,6 +1,6 @@
 # Public Holidays and Bank Holidays (Jersey) Act 2010
 
-R&O.96/2010 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_96_2010_20240701>
+R&O.96/2010 · official consolidation showing the law from 2024-07-02 · <https://www.jerseylaw.je/laws/current/ro_96_2010_20241230>
 
 | Provision | File | Heading |
 | --- | --- | --- |
