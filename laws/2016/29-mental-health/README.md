@@ -1,6 +1,6 @@
 # Mental Health (Jersey) Law 2016
 
-L.29/2016 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_29_2016_20240701>
+L.29/2016 · official consolidation showing the law from 2024-07-02 · <https://www.jerseylaw.je/laws/current/l_29_2016_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ L.29/2016 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 66 | [art-066.md](art-066.md) | 66 Guardianship orders |
 | Art. 67 | [art-067.md](art-067.md) | 67 Directions where sentence of imprisonment to be served in approved establishment |
 | Art. 68 | [art-068.md](art-068.md) | 68 Special restrictions on treatment orders |
-| Art. 69 | [art-069.md](art-069.md) | 69 Transfer orders |
+| Art. 69 | [art-069.md](art-069.md) | 69 Transfer and detention orders |
 | Art. 70 | [art-070.md](art-070.md) | 70 Special provisions where patient sentenced to imprisonment |
 | Art. 71 | [art-071.md](art-071.md) | 71 Committal to Royal Court for making of orders |
 | Art. 72 | [art-072.md](art-072.md) | 72 Special verdicts |

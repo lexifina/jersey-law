@@ -1,7 +1,7 @@
 # SCHEDULE
 (Articles 47, 49 and 50)
-part 1
-CONStITUTION AND PROCEEDINGS OF MENTAL HEALTH REVIEW TRIBUNAL
+Part 1
+Constitution and proceedings of Mental Health Review Tribunal
 1 Selection of members
 The members who are to constitute the Tribunal for the purposes of any proceedings, or any class or group of proceedings, under this Law shall be selected -
 (a) from among the persons appointed to the Panel and in accordance with paragraphs 2 and 3;
@@ -50,8 +50,8 @@ or
 (ii) in the interests of the investigation, detection, prevention or prosecution of crime, or
 (iii) to comply with an order of a court.
 (3) A person who makes a disclosure in contravention of paragraph (1) is guilty of an offence and liable to a fine.
-PART 2
-APPLICATIONS TO THE TRIBUNAL
+Part 2
+Applications to the Tribunal
 1 Types of applications and applicants
 (1) An application may be made to the Tribunal -
 (a) following a decision or other exercise of a power as described in the first column of the following table;
