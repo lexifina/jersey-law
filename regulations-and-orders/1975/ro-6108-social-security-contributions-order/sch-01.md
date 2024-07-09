@@ -23,7 +23,7 @@ Class 1 insured person - earnings
 (6) In sub-paragraph (5), “notice pay component of insolvency benefit” means any such component as is specified in paragraph (2)(a) of Article 26C of the Law.
 3 Directors fees
 (1) Directors fees received by a Class 1 insured person from the company that employs the person or from a company connected with it shall be treated as earnings.
-(2) For the purposes of sub-paragraph (1) “connected” shall be construed in accordance with Article 3A of the Income Tax (Jersey) Law 1961.
+(2) For the purposes of sub-paragraph (1) “connected” shall be construed in accordance with Article 3A of the Income Tax Law.
 4 Tips gratuities and service charges
 Tips, gratuities and service charges paid to a Class 1 insured person shall be treated as earnings of a Class 1 insured person, but only if the tips, gratuities or service charges are distributed to employees by the employer or otherwise in accordance with a scheme for their distribution.
 5 Benefits in kind - accommodation or board and lodging
