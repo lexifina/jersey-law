@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (United States of America) (Jersey) Regulations 2014
 
-R&O.69/2014 · official consolidation showing the law from 2023-04-12 · <https://www.jerseylaw.je/laws/current/ro_69_2014_20240723>
+R&O.69/2014 · official consolidation showing the law from 2024-07-24 · <https://www.jerseylaw.je/laws/current/ro_69_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,6 +24,7 @@ R&O.69/2014 · official consolidation showing the law from 2023-04-12 · <https:
 | Reg. 8H | [reg-008-h.md](reg-008-h.md) | 8H Commission of Appeal and procedure on appeal against penalty |
 | Reg. 8I | [reg-008-i.md](reg-008-i.md) | 8I Increased daily default penalty |
 | Reg. 8J | [reg-008-j.md](reg-008-j.md) | 8J Enforcement of penalties |
+| Reg. 8JA | [reg-008-ja.md](reg-008-ja.md) | 8JA Requirements and penalties for trusts and partnerships |
 | Reg. 8K | [reg-008-k.md](reg-008-k.md) | 8K Anti-avoidance |
 | Reg. 8L | [reg-008-l.md](reg-008-l.md) | 8L Power to enter business premises and examine business documents |
 | Reg. 8M | [reg-008-m.md](reg-008-m.md) | 8M Obstructing an authorized person |

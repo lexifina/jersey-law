@@ -1,6 +1,6 @@
 # SCHEDULE
 (Regulation 1(2))
-words and expressions defined in the AGREEMENT
+Words and expressions defined in the AGREEMENT
 Word or Expression
 Reference in Agreement
 entity
