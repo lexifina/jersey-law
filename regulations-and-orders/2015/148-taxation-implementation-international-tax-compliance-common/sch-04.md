@@ -1,6 +1,6 @@
 # SCHEDULE 4
 (Regulation 2(1)(c) and (2)(c))
-PARTICIPATING JURISDICTIONS
+Participating jurisdictions
 Participating Jurisdiction
 Relevant Date
 Relevant Year

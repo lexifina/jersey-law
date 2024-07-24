@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (Common Reporting Standard) (Jersey) Regulations 2015
 
-R&O.148/2015 · official consolidation showing the law from 2024-07-01 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20240723>
+R&O.148/2015 · official consolidation showing the law from 2024-07-24 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20250130>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,6 +24,7 @@ R&O.148/2015 · official consolidation showing the law from 2024-07-01 · <https
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Commission of Appeal and procedure on appeal against penalty |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Increased daily default penalty |
 | Reg. 18 | [reg-018.md](reg-018.md) | 18 Enforcement of penalties |
+| Reg. 18A | [reg-018-a.md](reg-018-a.md) | 18A Requirements and penalties for trusts and partnerships |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Anti-avoidance |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Power to enter business premises and examine business documents |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Obstructing an authorized person |

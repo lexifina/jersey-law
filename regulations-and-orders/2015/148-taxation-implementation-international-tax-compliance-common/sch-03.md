@@ -1,6 +1,6 @@
 # SCHEDULE 3
 (Regulation 2(1)(b) and (2)(b))
-participating jurisdictions
+Participating jurisdictions
 Andorra
 Antigua and Barbuda
 Aruba

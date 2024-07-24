@@ -1,6 +1,6 @@
 # SCHEDULE 1
 (Regulation 1(4))
-words and expressions defined in the CRS
+Words and expressions defined in the CRS
 Word or Expression
 Reference in CRS
 entity
