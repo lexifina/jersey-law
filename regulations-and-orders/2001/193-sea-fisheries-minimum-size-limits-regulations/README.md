@@ -1,6 +1,6 @@
 # Sea Fisheries (Minimum Size Limits) (Jersey) Regulations 2001
 
-R&O.193/2001 · official consolidation showing the law from 2019-05-28 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20240731>
+R&O.193/2001 · official consolidation showing the law from 2024-08-01 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20251012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,8 +9,6 @@ R&O.193/2001 · official consolidation showing the law from 2019-05-28 · <https
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Minimum size for sea fish |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Exemption - sardines, anchovy, herring, horse mackerel and mackerel |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Exemption - sea fish caught with towed gear of a mesh size less than 32 millimetres |
-| Reg. 5 | [reg-005.md](reg-005.md) | 5 Exemption - swordfish |
-| Reg. 6 | [reg-006.md](reg-006.md) | 6 Exemption - bluefin tuna |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Certain sea fish to be retained whole |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Transiting fishing vessels |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Measuring sea fish |
