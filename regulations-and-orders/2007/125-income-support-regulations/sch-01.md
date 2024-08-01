@@ -288,3 +288,10 @@ D: carer’s component
 (3) A household is not entitled to a carer’s component in respect of any carer while the household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of the carer as a consequence of paragraph 1(5).
 12 Rate for the carer’s component
 The rate payable in respect of the carer’s component is £68.81.
+E: Ancillary home care costs component
+13 Criteria for ancillary home care costs component
+A household is entitled to an ancillary home care costs component in respect of each member of the household who -
+(a) is in receipt of an approved care package under Article 7(2) of the Long-Term Care (Jersey) Law 2012; and
+(b) is being provided with long-term care under that Law in their home.
+14 Rate for ancillary home care costs component
+The rate payable in respect of an ancillary home care costs component is £30.03.
