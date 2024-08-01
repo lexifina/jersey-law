@@ -1,6 +1,6 @@
 # Income Support (Jersey) Law 2007
 
-L.9/2007 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_9_2007_20240731>
+L.9/2007 · official consolidation showing the law from 2024-08-01 · <https://www.jerseylaw.je/laws/current/l_9_2007_20250918>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,4 +27,4 @@ L.9/2007 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 20 | [art-020.md](art-020.md) | 20 Abolition of Parish Welfare |
 | Art. 21 | [art-021.md](art-021.md) | 21 Minor or consequential amendments |
 | Art. 22 | [art-022.md](art-022.md) | 22 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
