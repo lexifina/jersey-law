@@ -1,6 +1,6 @@
 # SCHEDULE 2
 (Article 1)
-Schedule 2 DRUGS
+Schedule 2 Drugs
 1 The following substances and products -
 Acetorphine
 Alfentanil

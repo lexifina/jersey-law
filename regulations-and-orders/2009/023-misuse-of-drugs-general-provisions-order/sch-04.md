@@ -1,6 +1,6 @@
 # SCHEDULE 4
 (Article 1)
-SCHEDULE 4 DRUGS
+SCHEDULE 4 Drugs
 1 The following substances and products -
 Alprazolam
 Aminorex
@@ -43,6 +43,7 @@ Pinazepam
 Prazepam
 Propylhexedrine
 Pyrovalerone
+Remimazolam
 Tetrazepam
 Triazolam
 Zaleplon

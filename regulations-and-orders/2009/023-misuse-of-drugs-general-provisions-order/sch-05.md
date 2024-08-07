@@ -1,6 +1,6 @@
 # SCHEDULE 5
 (Article 1)
-SCHEDULE 5 DRUGS
+SCHEDULE 5 Drugs
 1
 (1) Any preparation of one or more of the substances to which this paragraph applies, not being a preparation designed for administration by injection, when compounded with one or more other active or inert ingredients and containing a total of not more than 100 mg of the substance or substances (calculated as base) per dosage unit or with a total concentration of not more than 2.5% (calculated as base) in undivided preparations.
 (2) The substances to which this paragraph applies are acetyldihydrocodeine, codeine, dihydrocodeine, ethylmorphine, nicocodine, nicodicodine (6-nicotinoyldihydrocodeine), norcodeine, pholcodine and their respective salts.

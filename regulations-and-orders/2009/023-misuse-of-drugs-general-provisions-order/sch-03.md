@@ -1,6 +1,6 @@
 # SCHEDULE 3
 (Article 1)
-SCHEDULE 3 DRUGS
+SCHEDULE 3 Drugs
 1 The following substances, namely -
 (a) Benzphetamine
 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one

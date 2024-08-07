@@ -1,37 +1,61 @@
 # SCHEDULE 1
 (Article 1)
-Schedule 1 DRUGS
+Schedule 1 Drugs
 1 The following substances and products -
-(a) Bufotenine
+(a) Adinazolam (1-(8-chloro-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-1-yl)-N,N-dimethylmethanamine)
+Bromazolam(8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
+Bufotenine
 1-Cyclohexyl-4-(1,2diphenylethyl)piperazine (MT-45)
 Cannabinol (not falling within Article 2(5) or within paragraph 10 of Schedule 2)
 Cannabinol derivatives (not falling within Article 2(5) or within paragraph 10 of Schedule 2), other than dronabinol or a stereoisomer of dronabinol
 Cannabis (not falling within paragraph 10 of Schedule 2 or within paragraph 10 of Schedule 4)
 Cannabis resin (not falling within paragraph 10 of Schedule 2)
 Cathinone
+4’-chlorodiazepam (7-chloro-5-(4-chlorophenyl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
+Clonazolam (6-(2-chlorophenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
 Coca leaf
 Concentrate of poppy-straw
+3,4-dichloroethylphenidate
 3,4-Dichloromethylphenidate (3,4-DCMP)
 3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide (AH-7921)
+3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide (U-47,700)
+Deschloroetizolam (2-ethyl-9-methyl-4-phenyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4] diazepine)
+Diclazepam (7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Ethylnaphthidate
 Ethylphenidate
 Eticyclidine
 Etryptamine
+Flualprazolam (8-chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
+Flubromazepam (7-bromo-5-(2-fluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
+Flubromazolam (8-bromo-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
+Flunitrazolam (6-(2-fluorophenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
+4-fluoroethylphenidate
+4-fluoromethylphenidate
+Fonazepam (5-(2-fluorophenyl)-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
+3-hydroxyphenazepam (7-bromo-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Isopropylphenidate (IPP or IPPD)
 Khat
 Lysergamide
 Lysergide and other N-alkyl derivatives of lysergamide
+Meclonazepam (5-(2-chlorophenyl)-3-methyl-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Mescaline
 Methcathinone
 Methylamphetamine
+Methylmorphenate
 Methylnaphthidate (HDMP-28)
+Metizolam (4-(2-chlorophenyl)-2-ethyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4] diazepine)
 N-adamantyl-1-pentyl-1H-indazole-3-carboxamide (AKB-48)
 N-adamantyl-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AKB-48)
 N-adamantyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide (STS-135)
+N-benzyl-ethylphenidate
 N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AB-PINACA)
 N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)
+Nifoxipam (5-(2-fluorophenyl)-3-hydroxy-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
+Nitrazolam (1-methyl-8-nitro-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)”;
+Norfludiazepam (7-chloro-5-(2-fluorophenyl)-1,3-dihydro-1,4-benzodiazepine-2-one)
 Propylphenidate
 Psilocin
+Pyrazolam (8-bromo-1-methyl-6-(2-pyridinyl)-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
 Quinolin-8-yl-1-(5-fluoropentyl)-1H-indole-3-carboxylate (5F-PB-22)
 Quinolin-8-yl-1-(cyclohexylmethyl)-1H-indole-3-carboxylate (BB-22)
 Quinolin-8-yl-1-pentyl-1H-indole-3-carboxylate (PB-22)
