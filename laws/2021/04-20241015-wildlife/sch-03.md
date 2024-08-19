@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 (Articles 5, 9 and 10)
-PROTECTED wild ANIMALS AND WILD birds whICH RE-USE THEIR DENS OR NESTS
-PART 1
-PROTECTED WILD ANIMALS
+Protected wild animals and wild birds which re-use their dens or nests
+Part 1
+Protected wild animals
 Common name
 Species name
 Bats, horseshoe (all species)
@@ -12,9 +12,9 @@ Vespertilionidae
 Frog, agile
 Rana dalmatina
 Snake, grass
-Natrix natrix and Natrix helvetica
-PART 2
-PROTECTED WILD BIRDS
+Natrix helvetica
+Part 2
+Protected wild birds
 Common name
 Species name
 Chough, red-billed
@@ -40,6 +40,6 @@ Puffinus puffinus
 Storm petrel, European
 Hydrobates pelagicus
 Swallow, barn
-Hirundo rustic
+Hirundo rustica
 Swift, common
 Apus apus

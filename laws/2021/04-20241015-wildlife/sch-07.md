@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 (Articles 5, 7 and 15)
-ANIMALS AND BIRDS TO BE RELEASED WITHIN 48 HOURS
-part 1
-wild birds
+Animals and birds to be released within 48 hours
+Part 1
+Wild birds
 All wild birds, except birds of the following species:
 Common name
 Species name
@@ -15,16 +15,16 @@ Columba livia
 Pigeon, wood
 Columba palumbus
 Pheasant, common
-Phastanus colchicus
-part 2
-wild animals
+Phasianus colchicus
+Part 2
+Wild animals
 Common name
 Species / family name
-Bats, horsehoe (all species)
+Bats, horseshoe (all species)
 Rhinolophidae
 Bats, typical (all species)
 Vespertilionidae
 Frog, agile
 Rana dalmatina
 Snake, grass
-Natrix natrix and Natrix helvetica
+Natrix helvetica

@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 (Articles 5, 13)
-wild animals and wild birds which are protected from disturbance
-part 1
-wild birds
+Wild animals and wild birds which are protected from disturbance
+Part 1
+Wild birds
 All wild birds, except birds of the following species:
 Common name
 Species name
@@ -15,23 +15,23 @@ Columba livia
 Pigeon, wood
 Columba palumbus
 Pheasant, common
-Phastanus colchicus
-part 2
-wild animals
+Phasianus colchicus
+Part 2
+Wild animals
 Common name
 Species / family name
-Bats, horsehoe (all species)
+Bats, horseshoe (all species)
 Rhinolophidae
 Bats, typical (all species)
 Vespertilionidae
 Dolphins (all species)
-Delphinidae
+Cetacea
 Frog, agile
 Rana dalmatina
 Lizard, wall
 Podarcis muralis
 Porpoises (all species)
-Delphinidae
+Cetacea
 Sharks, pelagic (all species except houndsharks and catsharks)
 Selachimorpha (except Triakidae and Scyliorhinidae)
 Seahorse, long-snouted
@@ -39,9 +39,9 @@ Hippocampus guttulatus
 Seahorse, short-snouted
 Hippocampus hippocampus
 Seals (all species)
-Pennipedia
+Pinnipedia
 Snake, grass
-Natrix natrix and Natrix helvetica
+Natrix helvetica
 Sunfish
 Mola mola
 Tuna, Atlantic Bluefin
