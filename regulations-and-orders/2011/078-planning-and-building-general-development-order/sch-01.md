@@ -21,13 +21,15 @@ Work is not permitted by Class A if -
 (a)
 with the exception of the erection of a flagpole, canopy or porch, (whether free-standing or attached) any part of the structure, retractable awning, extension or garage is in front of a principal elevation of the dwelling-house;
 (b)
-with the exception of the erection of a free-standing flagpole, the dwelling-house and its curtilage is or forms part of a LBP or pLBP or is in an AAP;
+with the exception of the erection of a free-standing flagpole, the dwelling-house and its curtilage is or forms part of a LBP or is in an AAP;
+(ba)
+with the exception of the erection of a free-standing flagpole, the dwelling-house is in a CA and the work is visible from a road or the foreshore;
 (c)
 the extension or garage conversion is not directly accessible from within the existing dwelling-house;
 (d)
 the extension or garage conversion is, or will be, used for a commercial purpose or as a separate dwelling unit;
 (e)
-in the case of the erection of a free-standing flagpole, excavation is involved at a LBP, pLBP or in an AAP;
+in the case of the erection of a free-standing flagpole, excavation is involved at a LBP or in an AAP;
 (f)
 with the exception of the erection of a flagpole, canopy or porch -
 (i)
@@ -61,7 +63,7 @@ Work not permitted
 B.2
 Work is not permitted by Class B if -
 (a)
-the dwelling-house is or forms part of a LBP or pLBP or is in an AAP or, where the dwelling-house is in a CA, if the works are in front of a principal elevation of the dwelling-house;
+the dwelling-house is or forms part of a LBP or is in an AAP or, where the dwelling-house is in a CA, if the works are in front of a principal elevation of the dwelling-house or are visible from a road or the foreshore;
 (b)
 the gate, fence, wall or other means of enclosure abuts onto or is within 2 metres of a road and its highest point will be more than 90 centimetres above the level of the road, or in any other case, its highest point will be more than 2 metres above ground level on either side of it;
 (c)
@@ -78,9 +80,11 @@ Work is not permitted by Class C if -
 (a)
 in the case of a driveway, turning area or car park -
 (i)
-the dwelling-house is or forms part of a LBP or pLBP or is in a CA, or
+the dwelling-house is or forms part of a LBP,
 (ii)
-the dwelling-house is in an AAP and excavation is involved;
+the dwelling-house is in an AAP and excavation is involved, or
+(iii)
+the dwelling-house is in a CA and the work is visible from a road or the foreshore;
 (b)
 the driveway, turning area, car park, patio, pathway, decked area or other hardstanding or raised planting area exceeds 40 centimetres in height above or below the existing ground level;
 (c)
@@ -97,7 +101,9 @@ Work not permitted
 D.2
 Work is not permitted by Class D if -
 (a)
-the dwelling-house is or forms part of a LBP or pLBP or is in a CA; or if the dwelling-house is in an AAP and excavation is involved;
+the dwelling-house is or forms part of a LBP; or if the dwelling-house is in an AAP and excavation is involved;
+(aa)
+the dwelling-house is in a CA and the work is visible from a road or the foreshore;
 (b)
 any part of the work is in front of a principal elevation of the dwelling-house;
 (c)
@@ -116,7 +122,9 @@ Work not permitted
 E.2
 Work is not permitted by Class E if -
 (a)
-the dwelling-house is or forms part of a LBP or pLBP;
+the dwelling-house is or forms part of a LBP;
+(aa)
+the dwelling-house is in a CA and the work is visible from a road or the foreshore;
 (b)
 the work includes the insertion of a gable window.
 Conditions
@@ -138,7 +146,7 @@ F.1
 The placing of vents, flues, chimneys and similar items, and minor alterations to any dwelling.
 Work not permitted
 F.2
-Work is not permitted by Class F if the building is or forms part of a LBP or pLBP, or is in a CA.
+Work is not permitted by Class F if the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore.
 Conditions
 F.3
 A vent, flue or chimney installed within a roof must not protrude more than 1.5 metres above the plane of the roof in which it is set.
@@ -156,7 +164,9 @@ Work not permitted
 A.2
 Work is not permitted by Class A if -
 (a)
-the building is or forms part of a LBP or pLBP;
+the building is or forms part of a LBP;
+(aa)
+the building is in a CA and the work is visible from a road or the foreshore;
 (b)
 the work includes the insertion of a gable window.
 Conditions
@@ -180,7 +190,9 @@ Work not permitted
 AA.2
 Work is not permitted by Class AA if -
 (a)
-the building is or forms part of a LBP or pLBP;
+the building is or forms part of a LBP;
+(aa)
+the building is in a CA and the work is visible from a road or the foreshore;
 (b)
 the work involves the installation of a retractable awning onto the principal elevation of the building.
 Conditions
@@ -194,7 +206,9 @@ Work not permitted
 B.2
 Work is not permitted by Class B if -
 (a)
-the building is or forms part of a LBP or pLBP, or is in an AAP or CA;
+the building is or forms part of a LBP, or is in an AAP;
+(aa)
+the building is in a CA and the work is visible from a road or the foreshore;
 (b)
 the gate, fence, wall or other means of enclosure abuts onto or is within 2 metres of a road and its highest point will be more than 90 centimetres above the level of the road, or in any other case, its highest point will be more than 2 metres above ground level on either side of it;
 (c)
@@ -211,9 +225,11 @@ Work is not permitted by Class C if -
 (a)
 in the case of a driveway, turning area or car park -
 (i)
-the building concerned, or its curtilage is or forms part of a LBP or pLBP or is in a CA,
+the building concerned, or its curtilage, is or forms part of a LBP,
 (ii)
 the building concerned, or its curtilage, is in an AAP and excavation is involved;
+(iii)
+the building concerned, or its curtilage, is in a CA and the work is visible from a road or the foreshore;
 (b)
 the driveway, turning area, car park, patio, pathway, decked area or other hard standing or raised planting area exceeds 40 centimetres in height above or below the existing ground level;
 (c)
@@ -230,7 +246,9 @@ Work not permitted
 D.2
 Work is not permitted by Class D if -
 (a)
-the building or its curtilage is or forms part of a LBP or pLBP or is in a CA; or if the dwelling-house is in an AAP and excavation is involved;
+the building or its curtilage is or forms part of a LBP; or if the dwelling-house is in an AAP and excavation is involved;
+(aa)
+the building is in a CA and the work is visible from a road or the foreshore;
 (b)
 any part of the work is in front of a principal elevation of a building;
 (c)
@@ -247,7 +265,7 @@ E.1
 The placing of vents, flues, chimneys and similar items, and minor alterations to any dwelling forming part of the building.
 Work not permitted
 E.2
-Work is not permitted by Class E if the building is or forms part of a LBP or pLBP, or is in a CA.
+Work is not permitted by Class E if the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore.
 Conditions
 E.3
 A vent, flue or chimney installed within a roof must not protrude more than 1.5 metres above the plane of the roof in which it is set.
@@ -263,7 +281,11 @@ A.1
 The painting of the exterior, or any part of the exterior of a building or other structure.
 Work not permitted
 A.2
-Work is not permitted by Class A if the building is or forms part of a LBP or pLBP or, where the building is situated in a CA, and the part of the building to be painted has never been painted.
+Work is not permitted by Class A if -
+(a)
+the building is or forms part of a LBP and the part of the building to be painted has never been painted; or
+(b)
+the building is situated in a CA, the part of the building to be painted or repainted is visible from a road or the foreshore and the appearance of the building would be materially altered by the painting or repainting.
 A.3
 Work is not permitted by Class A where the painting is for the purpose of advertisement, announcement or direction.
 CLASS AA
@@ -289,7 +311,7 @@ Work is not permitted by Class AB if -
 (a)
 the work is for foul sewer systems, including packaged treatment plants, septic tanks or tight tanks;
 (b)
-the land is or forms part of a LBP or pLBP, or is in an AAP or CA.
+the land is or forms part of a LBP, or is in an AAP.
 CLASS B
 Permitted development
 B.1
@@ -300,9 +322,9 @@ Work is not permitted by Class B if -
 (a)
 in the case of a satellite dish attached to a building, its diameter exceeds 1.2 metres or if it is placed on a principal elevation;
 (b)
-the work is the erection, construction or placing of mobile telephone network equipment; or
+the work is the erection, construction or placing of mobile telephone network equipment;
 (c)
-the building on which the installation is to be placed is or forms part of a LBP or pLBP, or the building is in a CA and the installation would face a road;
+the building on which the installation is to be placed is or forms part of a LBP, or the building is in a CA and the installation would be visible from a road or the foreshore; or
 (d)
 in the case of a satellite dish, the work would result in there being more than 1 satellite dish being erected or placed at or on the building.
 Condition
@@ -313,17 +335,19 @@ BA.1
 The installation of a security camera on a building.
 Work not permitted
 BA.2
-Work is not permitted by Class BA if the building is or forms part of a LBP or pLBP.
+Work is not permitted by Class BA if the building is or forms part of a LBP or, if the building is in a CA, the installation is visible from a road or the foreshore.
 Conditions
 BA.3
 The field of vision of a security camera must so far as is practicable not extend beyond the boundaries of the land where it is sited.
+BA.4
+If the building is in a CA, the dimensions of a security camera (excluding any mounting, fixing, bracket or other support structure) must not exceed 150 millimetres in width, length or depth.
 CLASS BB
 Permitted development
 BB.1
 The installation of a retractable awning on a building that is day care accommodation or a school.
 Work not permitted
 BB.2
-Work is not permitted by Class BB if the building is or forms part of a LBP or pLBP.
+Work is not permitted by Class BB if the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore.
 Conditions
 BB.3
 The retractable awning must not be installed above ground floor level.
@@ -348,14 +372,20 @@ any land on which work permitted by Class C has been carried out must, as soon a
 CLASS D
 Permitted development
 D.1
-Any operation carried out within the boundaries of a private way for the purpose of improving the private way, including the installation of lamp standards, seats, cycle racks, refuse bins, bollards, barriers for the control of people or vehicles, and similar structures required in connection with the private way.
+Any operation carried out within the boundaries of a private way for the purpose of improving the private way, including -
+(a)
+the installation of lamp standards, seats, cycle racks, refuse bins, bollards, barriers for the control of people or vehicles, and similar structures required in connection with the private way; and
+(b)
+the carrying out of works to construct or maintain, improve or otherwise alter the surface of the private way.
 Work not permitted
 D.2
 Work is not permitted by Class D if -
 (a)
 the work or any part of the work is outside the boundaries of the private way; or
 (b)
-the land is or forms part of a LBP or pLBP or is in a CA or, in a case where the works involve excavation of ground, the land is in an AAP.
+the land is or forms part of a LBP or, in a case where the works involve excavation of ground, the land is in an AAP.
+(c)
+the land is in a CA and the work is visible from a road or the foreshore.
 CLASS E
 Permitted development
 E.1
@@ -364,7 +394,7 @@ Work not permitted
 E.2
 Work is not permitted by Class E if -
 (a)
-the land is or is within a LBP or pLBP, or in an AAP or CA;
+the land is or is within a LBP, or is in an AAP or CA;
 (b)
 the work would create an obstruction to the view of a person using a road at or near a bend, corner, junction or intersection so as to be likely to cause danger to such a person;
 (c)
@@ -417,7 +447,7 @@ the re-rendering (up to a maximum additional wall thickness of 15 centimetres) o
 Work not permitted
 F.2
 Work is not permitted by Class F if -
-(a) the building is or forms part of a LBP of pLBP or is in a CA;
+(a) the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore;
 (b) the replacement of a roof covering, including a height increase, alters the shape of the roof;
 (c) the work includes the insertion of a gable window;
 (d) the work is to a shop front;
@@ -453,7 +483,7 @@ Work is not permitted by Class G if -
 (a)
 the work includes the construction or extension of a hardstanding or other solid foundation; or
 (b)
-the land or structure is or forms part of a LBP or pLBP, or in a case where the works involve excavation of ground, the land or structure is in an AAP.
+the land or structure is or forms part of a LBP, or in a case where the works involve excavation of ground, the land or structure is in an AAP.
 Conditions
 G.3
 Where a structure is erected on or after 1st February 2017 -
@@ -486,7 +516,7 @@ Work is not permitted by Class I if -
 (a)
 the fence exceeds 1.2 metres in height; or
 (b)
-the land is or forms part of a LBP or pLBP, or in a case where the works involve excavation of ground, the land is in an AAP.
+the land is or forms part of a LBP, or in a case where the works involve excavation of ground, the land is in an AAP.
 Condition
 I.3
 The fence (including any gate within it) must be of timber post and rail with or without netting, wire, tape or mesh.
@@ -499,19 +529,19 @@ Work not permitted
 K.2
 Work, other than a minor repair, is not permitted by Class K if -
 (a)
-the building is or forms part of a LBP or pLPB or is in a CA; or
+the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore; or
 (b)
 except in an emergency, the work would materially affect the external appearance of the building.
 Conditions
 K.3
-Where the building is or is part of a LBP or pLBP the work must not result in the permanent alteration or removal of any feature that gives rise to the registration of the building as a LBP or pLBP, as the case may be.
+If the building is or is part of a LBP the work must not result in the permanent alteration or removal of any feature that gives rise to the listing of the building as a LBP.
 CLASS L
 Permitted development
 L.1
 The installation, alteration or replacement of gutters, hoppers, downpipes, drains or other rainwater goods, or verges or fascia boards on a building.
 Work not permitted
 L.2
-Work is not permitted by Class L if the building is or forms part of a LBP or pLBP.
+Work is not permitted by Class L if the building is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore.
 CLASS M
 Permitted development
 M.1
@@ -522,9 +552,11 @@ Work is not permitted by Class M if -
 (a)
 in the case of a driveway, turning area or car park -
 (i)
-the building or its curtilage is or forms part of a LBP or pLBP or is in a CA,
+the building or its curtilage is or forms part of a LBP,
 (ii)
-the building concerned, or its curtilage, is in an AAP and excavation is involved;
+the building concerned, or its curtilage, is in an AAP and excavation is involved,
+(iii)
+the work is in a CA and the work is visible from a road or the foreshore;
 (b)
 the driveway, turning area, car park, patio, pathway, decked area or other hard standing or raised planting area exceeds 40 centimetres in height above or below the existing ground level;
 (c)
@@ -539,10 +571,27 @@ N.1
 The installation of electricity meter boxes
 Work not permitted
 N.2
-Work is not permitted by Class N if the building on which the meter is installed is or forms part of a LBP or pLBP.
+Work is not permitted by Class N if the building on which the meter is installed is or forms part of a LBP or, if the building is in a CA, the work is visible from a road or the foreshore.
 Condition
 N.3
 The dimensions of any metre box must not exceed 850 millimetres in width, 1200 millimetres in length, or 500 millimetres in depth.
+CLASS O
+Permitted development
+O.1
+The installation of apparatus to provide external illumination (“lighting apparatus”).
+Work not permitted
+O.2
+Work is not permitted by Class O if -
+(a)
+the land or building is in a CA and the area illuminated would be visible from a road or the foreshore; and
+(b)
+any of the following apply -
+(i)
+the work would result in more than 1 lighting apparatus on any single elevation or structure,
+(ii)
+the lighting apparatus is more than 30 cm in any dimension,
+(iii)
+the light output from the lighting apparatus is more than 500 lumens.
 PART 4
 THE INSTALLATION OF EQUIPMENT FOR THE GENERATION OF ELECTRICITY FROM RENEWABLE SOURCES OR FOR THE EFFICIENT USE OF ENERGY
 CLASS A
@@ -553,7 +602,7 @@ Work not permitted
 A.2
 Work is not permitted by Class A if -
 (a)
-the land or building where the installation is to take place is or forms part of a LBP or pLBP, or in a case where the works involve excavation of ground, the land or building is in an AAP or, in the case where the installation is to be located on a principal elevation, the building is in a CA; and
+the land or building where the installation is to take place is or forms part of a LBP, or in a case where the works involve excavation of ground, the land or building is in an AAP or, if the building is in a CA, the installation is visible from a road or the foreshore; and
 (b)
 in the case of a solar panel or similar device, the land or building on which it is to be installed is located within an area shown hatched red on the map set out in Part 1 of the annexure to this Schedule.
 Conditions
@@ -571,7 +620,7 @@ B.1
 The installation of a ground or air-source heating system.
 Work not permitted
 B.2
-Work is not permitted by Class B if the installation of the system is on land or a building that is or forms part of a LBP or pLBP or, in a case where an air-pump is to be situated on a principal elevation of a building, the building is in a CA.
+Work is not permitted by Class B if the installation of the system is on land or a building that is or forms part of a LBP or, if the building is in a CA, the installation is visible from a road or the foreshore.
 Conditions
 B.3
 The highest point of the installation must be no more than 2.5 metres above ground level.
@@ -591,9 +640,21 @@ the maximum diameter of the sweep of the turbine’s blades exceeds 2.5 metres;
 (c)
 in the case of wind-turbine not attached to a building, the structure supporting the wind-turbine is less than 5 metres from the property boundary;
 (d)
-a written statement has not been obtained from the Director of Civil Aviation (as defined by the Civil Aviation (Jersey) Law 2008) stating that he or she has no objection to the proposed wind turbine on the grounds of hazard to aircraft or airport operations; or
+a written statement has not been obtained from the Director of Civil Aviation (as defined by the Civil Aviation (Jersey) Law 2008) stating that he or she has no objection to the proposed wind turbine on the grounds of hazard to aircraft or airport operations;
 (e)
-the building to which the turbine is to be attached is or forms part of a LBP or pLBP or is in a CA, or, in a case where a wind-turbine is within the curtilage of a building but is not attached to the building, the building and its curtilage is or forms part of a LBP, pLBP or is in an AAP.
+the building to which the turbine is to be attached -
+(i)
+is or forms part of a LBP, or
+(ii)
+is in a CA; or
+(f)
+the wind-turbine is within the curtilage of a building but is not attached to the building, and the building and its curtilage -
+(i)
+is or forms part of a LBP,
+(ii)
+is in an AAP, or
+(iii)
+is in a CA and the turbine is visible from a road or the foreshore.
 PART 5
 DEVELOPMENT AT INDUSTRIAL OR SIMILAR PREMISES
 CLASS A
@@ -608,7 +669,7 @@ Work not permitted
 A.2
 Work is not permitted by Class A if -
 (a)
-the land is or forms part of a LBP or pLBP, or is in an AAP and excavation is required;
+the land is or forms part of a LBP, or is in an AAP and excavation is required;
 (b)
 the work would result in an increase of noise, smells, dust or other pollution;
 (c)
@@ -625,7 +686,9 @@ Work not permitted
 B.2
 Work is not permitted by Class B if -
 (a)
-the building is or forms part of a LBP or pLBP or is in a CA, or, in a case where the works involve excavation of ground, the building is in an AAP;
+the building is or forms part of a LBP, or, in a case where the works involve excavation of ground, the building is in an AAP;
+(aa)
+the building is in a CA and the work is visible from a road or the foreshore;
 (b)
 the building is located within any safety zone for hazardous installations in respect of Les Ruettes, St. John or La Collette, St. Helier as shown on map to the Island Plan;
 (c)
@@ -646,16 +709,20 @@ Permitted development
 A.1
 The erection or construction, or the maintenance, improvement or other alteration by a public authority of -
 (a)
-temporary works and equipment on land belonging to or maintained by the authority required for the purposes of a function exercised by the authority on that land; or
+temporary works and equipment on land belonging to or maintained by the authority required for the purposes of a function exercised by the authority on that land;
 (b)
-lamp standards, bus shelters, public seats, fire alarms, cycle racks, security cameras, refuse bins, bollards, barriers for the control of people and vehicles and similar structures required in connection with the operation of a public service administered by them.
+lamp standards, bus shelters, public seats, fire alarms, cycle racks, security cameras, refuse bins, bollards, barriers for the control of people and vehicles and similar structures required in connection with the operation of a public service administered by them; or
+(c)
+road surfaces or the surfaces of other public areas administered by the public authority.
 Work not permitted
 A.2
 Work is not permitted by Class A if -
 (a)
 it involves the formation or widening of a means of access to a road;
 (b)
-the land is or forms part of a LBP or pLBP or, in a case where the works involve excavation of ground, the land is in an AAP.
+the land is or forms part of a LBP or, in a case where the works involve excavation of ground, the land is in an AAP;
+(c)
+the land is in a CA and the work is visible from a road or the foreshore.
 CLASS B
 Permitted development
 B.1
@@ -664,7 +731,9 @@ Work not permitted
 B.2
 Work is not permitted by Class B if -
 (a)
-the work is to be carried out on land or a building that is or forms part of a LBP or pLBP, or is in an AAP;
+the work is to be carried out on land or a building that is or forms part of a LBP, or is in an AAP;
+(aa)
+the work is to be carried out on land that is in a CA and the work is visible from a road or the foreshore, unless the work is emergency works or urgent works, as defined in the Road Works and Events (Jersey) Law 2016;
 (b)
 in the case of the placing of new work, any of the work would, on its completion, be above ground level;
 (c)
@@ -680,7 +749,7 @@ Within the area of a harbour administered by the harbour authority (being the pe
 (b) repair and maintenance of ramps, fuel jetty and associated equipment, navigational aids, handrails, ladders, drying pads and operational equipment.
 Work not permitted
 C.2
-Work is not permitted by Class C if the area is or forms part of a LBP or pLBP or is or is part of in an AAP or CA.
+Work is not permitted by Class C if the area is or forms part of a LBP, or is in or is part of an AAP or CA.
 CLASS D
 Permitted development
 D.1
@@ -689,7 +758,7 @@ D.1A
 The repair and maintenance of operational equipment and navigational aids, with the exclusion of reed beds.
 Work not permitted
 D.2
-Work is not permitted by Class D if the land or building is or forms part of a LBP or pLBP or, in a case where the works involve excavation of ground, the land is in an AAP.
+Work is not permitted by Class D if the land or building is or forms part of a LBP or, in a case where the works involve excavation of ground, the land is in an AAP.
 D.3
 Work is not permitted by Class D for the construction, extension or relocation of a runway.
 PART 7
@@ -719,7 +788,7 @@ Work not permitted
 A.2
 Work is not permitted by Class A if -
 (a)
-the structure or building to be demolished is or forms part of a LBP or pLBP or is in a CA;
+the structure or building to be demolished is or forms part of a LBP or is in a CA;
 (b)
 the work would create a vehicular access to a road;
 (c)
@@ -771,7 +840,7 @@ Development that is a change in use of a building, or part of a building, from u
 (a) by people mainly for their leisure and not as their main dwelling; and
 (b) whose combined duration (even for different people’s stays) is 12 weeks or less in the calendar year.
 part 9
-emergency development by the government of jersey
+emergency development by the Minister
 CLASS A
 Permitted development
 A.1
@@ -779,12 +848,12 @@ Development consisting of -
 (a)
 work which is -
 (i)
-carried out, by the Government of Jersey, on or to any land, and
+carried out, by the Minister, on or to any land, and
 (ii)
 of a type for which permission is granted to any other person or body under any other Part of this Schedule, subject only to the limitation and conditions in this Part,
 where such work is reasonably required to deal with the Covid-19 outbreak in Jersey or the aftermath of that outbreak; or
 (b)
-a change of use of land, by the Government of Jersey, to such use as may reasonably be required to deal with the Covid-19 outbreak in Jersey or the aftermath of that outbreak, including use as -
+a change of use of land, by the Minister, to such use as may reasonably be required to deal with the Covid-19 outbreak in Jersey or the aftermath of that outbreak, including use as -
 (i)
 a temporary hospital or other medical treatment facility,
 (ii)
@@ -802,11 +871,13 @@ A.3
 (1)
 Development under A.1 is permitted for no longer than the period of 2 years beginning with the date on which the work is completed, or the date on which the change of use in question first occurs, as the case may be.
 (2)
-Where the land is or forms part of a LBP or pLBP, or is in an AAP, development is permitted by Class A only to the extent that -
+Where the land is or forms part of a LBP, or is in an AAP or CA, development is permitted by Class A only to the extent that -
 (a)
-in the case of a LBP or pLBP, it would not affect the significance of that building or place through demolition or other changes; or
+in the case of a LBP, it would not affect the significance of that building or place through demolition or other changes;
 (b)
-in the case of any land to which a special archaeological interest attaches, it does not involve excavation or other work which would permanently and irrevocably damage that special interest.
+in the case of any land to which a special archaeological interest attaches, it does not involve excavation or other work which would permanently and irrevocably damage that special interest; or
+(c)
+in the case of a CA, it does not involve work that would damage or significantly harm the character or appearance of that land.
 (3)
 As soon as is reasonably practicable after the end of the period mentioned in (1), the land in question must be returned to the same use as, and restored to the same, or so near as practicably the same, condition in which it was, before the change of use occurred.
 ANNEXURE
