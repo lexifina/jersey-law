@@ -1,6 +1,6 @@
 # Planning and Building (Display of Advertisements) (Jersey) Order 2006
 
-R&O.68/2006 · official consolidation showing the law from 2023-05-31 · <https://www.jerseylaw.je/laws/current/ro_68_2006_20240818>
+R&O.68/2006 · official consolidation showing the law from 2024-08-19 · <https://www.jerseylaw.je/laws/current/ro_68_2006>
 
 | Provision | File | Heading |
 | --- | --- | --- |
