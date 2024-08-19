@@ -1,6 +1,6 @@
 # Planning and Building (Moveable Structures) (Jersey) Order 2006
 
-R&O.66/2006 · official consolidation showing the law from 2023-05-31 · <https://www.jerseylaw.je/laws/current/ro_66_2006_20240818>
+R&O.66/2006 · official consolidation showing the law from 2024-08-19 · <https://www.jerseylaw.je/laws/current/ro_66_2006>
 
 | Provision | File | Heading |
 | --- | --- | --- |
