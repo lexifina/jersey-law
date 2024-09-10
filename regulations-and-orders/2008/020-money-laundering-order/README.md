@@ -1,6 +1,6 @@
 # Money Laundering (Jersey) Order 2008
 
-R&O.20/2008 · official consolidation showing the law from 2023-09-01 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20240909>
+R&O.20/2008 · official consolidation showing the law from 2024-09-10 · <https://www.jerseylaw.je/laws/current/ro_20_2008_20260629>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -40,6 +40,5 @@ R&O.20/2008 · official consolidation showing the law from 2023-09-01 · <https:
 | Art. 23A | [art-023-a.md](art-023-a.md) | 23A Shell banks |
 | Art. 23B | [art-023-b.md](art-023-b.md) | 23B Anonymous accounts |
 | Art. 24 | [art-024.md](art-024.md) | 24 Citation and commencement |
-| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Application to certain businesses |
-| Art. 24B | [art-024-b.md](art-024-b.md) | 24B Provisions excluded for 12 months for specified directors |
+| Art. 25 | [art-025.md](art-025.md) | 25 Exemptions for low risk financial services businesses |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
