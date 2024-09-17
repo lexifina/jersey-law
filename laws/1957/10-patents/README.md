@@ -1,6 +1,6 @@
 # Patents (Jersey) Law 1957
 
-L.10/1957 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_10_1957_20240916>
+L.10/1957 · official consolidation showing the law from 2024-09-17 · <https://www.jerseylaw.je/laws/current/l_10_1957_20260731>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,6 +12,8 @@ L.10/1957 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 5 | [art-005.md](art-005.md) | 5 Registration of extension, additions and amendments and of restoration of lapsed patents |
 | Art. 6 | [art-006.md](art-006.md) | 6 Registration of assignments, etc. |
 | Art. 7 | [art-007.md](art-007.md) | 7 Legal presence in Jersey unnecessary for purpose of making applications |
+| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Registration of international patents (UK) |
+| Art. 7B | [art-007-b.md](art-007-b.md) | 7B Application of this Law to international patents (UK) |
 | Art. 8 | [art-008.md](art-008.md) | 8 Effect of registration |
 | Art. 9 | [art-009.md](art-009.md) | 9 Power of court to revoke registration |
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Compulsory licences - applications and grant |
