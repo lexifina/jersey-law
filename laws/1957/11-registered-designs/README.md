@@ -1,6 +1,6 @@
 # Registered Designs (Jersey) Law 1957
 
-L.11/1957 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_11_1957_20240916>
+L.11/1957 · official consolidation showing the law from 2024-09-17 · <https://www.jerseylaw.je/laws/current/l_11_1957_20260731>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,8 @@ L.11/1957 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 6 | [art-006.md](art-006.md) | 6 Registration of assignments, etc. |
 | Art. 7 | [art-007.md](art-007.md) | 7 Cancellation of registration, and registration of change of name and address |
 | Art. 8 | [art-008.md](art-008.md) | 8 Legal presence in Jersey unnecessary for purpose of making applications |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Registration of international registered designs (UK) |
+| Art. 8B | [art-008-b.md](art-008-b.md) | 8B Application of this Law to international registered designs (UK) |
 | Art. 9 | [art-009.md](art-009.md) | 9 Effect of registration |
 | Art. 10 | [art-010.md](art-010.md) | 10 Power of court to cancel registration |
 | Art. 11 | [art-011.md](art-011.md) | 11 Rectification of register |
