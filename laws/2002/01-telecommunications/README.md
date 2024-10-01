@@ -1,6 +1,6 @@
 # Telecommunications (Jersey) Law 2002
 
-L.1/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_1_2002_20240930>
+L.1/2002 · official consolidation showing the law from 2024-10-01 · <https://www.jerseylaw.je/laws/current/l_1_2002_20251007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,6 +30,25 @@ L.1/2002 · official consolidation showing the law from 2023-11-24 · <https://w
 | Art. 22 | [art-022.md](art-022.md) | 22 General role of Authority |
 | Art. 23 | [art-023.md](art-023.md) | 23 Power to require information |
 | Art. 24 | [art-024.md](art-024.md) | 24 Register |
+| Art. 24A | [art-024-a.md](art-024-a.md) | 24A Interpretation of this Part |
+| Art. 24B | [art-024-b.md](art-024-b.md) | 24B Designation notices |
+| Art. 24C | [art-024-c.md](art-024-c.md) | 24C Review, variation and revocation of designation notices |
+| Art. 24D | [art-024-d.md](art-024-d.md) | 24D Designated vendor directions |
+| Art. 24E | [art-024-e.md](art-024-e.md) | 24E Review, variation and revocation of designated vendor directions |
+| Art. 24F | [art-024-f.md](art-024-f.md) | 24F Designated vendor directions: notification to designated vendor |
+| Art. 24G | [art-024-g.md](art-024-g.md) | 24G Laying before States Assembly |
+| Art. 24H | [art-024-h.md](art-024-h.md) | 24H Compliance with and enforcement of provisions relating to designated vendor directions |
+| Art. 24I | [art-024-i.md](art-024-i.md) | 24I Requirement not to disclose |
+| Art. 24J | [art-024-j.md](art-024-j.md) | 24J Power of Minister to require information etc. |
+| Art. 24ZA | [art-024-za.md](art-024-za.md) | 24ZA Right of appeal |
+| Art. 24ZB | [art-024-zb.md](art-024-zb.md) | 24ZB Power to amend this Part by Regulations to provide for Authority to require payment of fees |
+| Art. 24ZC | [art-024-zc.md](art-024-zc.md) | 24ZC Power of Authority to require information |
+| Art. 24ZD | [art-024-zd.md](art-024-zd.md) | 24ZD Power of Authority to require information: compliance and enforcement |
+| Art. 24ZE | [art-024-ze.md](art-024-ze.md) | 24ZE Power of Authority to require information: statement of policy |
+| Art. 24ZF | [art-024-zf.md](art-024-zf.md) | 24ZF Information and advice in relation to this Part |
+| Art. 24ZG | [art-024-zg.md](art-024-zg.md) | 24ZG Power of Minister and Authority to disclose documents and information obtained under this Part |
+| Art. 24ZH | [art-024-zh.md](art-024-zh.md) | 24ZH Power of Minister to give directions in relation to this Part |
+| Art. 24ZI | [art-024-zi.md](art-024-zi.md) | 24ZI Orders in relation to calculation of maximum amount of penalty under this Part |
 | Art. 25 | [art-025.md](art-025.md) | 25 Interpretation |
 | Art. 25A | [art-025-a.md](art-025-a.md) | 25A Relationship with other enactments |
 | Art. 26 | [art-026.md](art-026.md) | 26 Installation of apparatus on roads |
@@ -74,4 +93,7 @@ L.1/2002 · official consolidation showing the law from 2023-11-24 · <https://w
 | Art. 65 | [art-065.md](art-065.md) | 65 Regulations and Orders |
 | Art. 66 | [art-066.md](art-066.md) | 66 Savings and transitional and consequential provisions |
 | Art. 67 | [art-067.md](art-067.md) | 67 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
