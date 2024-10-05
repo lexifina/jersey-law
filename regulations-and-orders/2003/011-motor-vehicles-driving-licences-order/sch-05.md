@@ -1,6 +1,6 @@
 # SCHEDULE 5
 (Article 11)
-domestic driving permits of other countries
+Domestic driving permits of other countries
 1
 2
 3

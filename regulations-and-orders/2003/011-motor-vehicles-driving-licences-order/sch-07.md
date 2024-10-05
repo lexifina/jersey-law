@@ -4,7 +4,7 @@ REQUIREMENTS IN RESPECT OF THE ON ROAD PRACTICAL PART OF PRESCRIBED TESTS
 PART 1
 REQUIREMENTS IN RESPECT ALL PRESCRIBED TESTS
 1 A person being tested on any category of vehicle must be able to demonstrate an ability to -
-(a) read at a distance of 20.5 metres in good daylight (with the aid of glasses or contact lenses if worn) a motor car registration plate containing 6 letters and figures;
+(a) read at a distance of 20 metres in good daylight (with the aid of glasses or contact lenses if worn) a motor car registration plate containing 6 letters and figures;
 (b) start the engine of the vehicle;
 (c) move the vehicle smoothly away straight ahead or at an angle (uphill, downhill and on level ground);
 (d) cause the vehicle to overtake, meet or cross the path of other vehicles, taking an appropriate path in the road and keep the correct distance behind when following vehicles; and

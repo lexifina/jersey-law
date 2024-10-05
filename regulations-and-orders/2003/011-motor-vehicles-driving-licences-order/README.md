@@ -1,12 +1,12 @@
 # Motor Vehicles (Driving Licences) (Jersey) Order 2003
 
-R&O.11/2003 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_11_2003_20241004>
+R&O.11/2003 · official consolidation showing the law from 2024-10-05 · <https://www.jerseylaw.je/laws/current/ro_11_2003_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Long title | [long-title.md](long-title.md) | THE HOME AFFAIRS COMMITTEE, in pursuance of Articles 4, 8, 9, 10, 11, 12, 16, 20 and 84 of the Road Traffic (Jersey) Law |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
-| Art. 2 | [art-002.md](art-002.md) | 2 Manner of application for the grant or renewal of a licence |
+| Art. 2 | [art-002.md](art-002.md) | 2 Prescribed manner of applying for a licence |
 | Art. 3 | [art-003.md](art-003.md) | 3 Prescribed photograph requirements |
 | Art. 4 | [art-004.md](art-004.md) | 4 Prescribed certificates - medical certificate |
 | Art. 5 | [art-005.md](art-005.md) | 5 Prescribed licences |
@@ -28,12 +28,14 @@ R&O.11/2003 · official consolidation showing the law from 2024-01-01 · <https:
 | Art. 22 | [art-022.md](art-022.md) | 22 Test fees |
 | Art. 23 | [art-023.md](art-023.md) | 23 Taking the theory test |
 | Art. 24 | [art-024.md](art-024.md) | 24 Taking the practical test |
-| Art. 25 | [art-025.md](art-025.md) | 25 Disqualifying diseases and physical disabilities - before grant of licence |
-| Art. 26 | [art-026.md](art-026.md) | 26 Epilepsy - when non disqualifying for obtaining licence |
-| Art. 27 | [art-027.md](art-027.md) | 27 Heart device - when non disqualifying for obtaining licence |
-| Art. 28 | [art-028.md](art-028.md) | 28 Loss, etc. of limbs - when non disqualifying for obtaining licence |
-| Art. 29 | [art-029.md](art-029.md) | 29 Disqualifying diseases and physical disabilities to take prescribed test |
-| Art. 30 | [art-030.md](art-030.md) | 30 Disqualifying diseases and physical disabilities - holder of a licence |
+| Art. 25 | [art-025.md](art-025.md) | 25 Relevant medical conditions and prescribed requirements (Group 1 and Group 2 licences) |
+| Art. 26 | [art-026.md](art-026.md) | 26 Impairment of vision - relevant medical condition and prescribed requirements (Group 1 licences only) |
+| Art. 27 | [art-027.md](art-027.md) | 27 Impairment of vision - relevant medical condition (Group 2 licences only) |
+| Art. 28 | [art-028.md](art-028.md) | 28 Epilepsy - relevant medical condition and prescribed requirements (Group 1 licences only) |
+| Art. 29 | [art-029.md](art-029.md) | 29 Isolated seizures - relevant medical condition and prescribed requirements (Group 1 licences only) |
+| Art. 30 | [art-030.md](art-030.md) | 30 Epilepsy and other seizures - relevant medical conditions and prescribed requirements (Group 2 licences only) |
+| Art. 30A | [art-030-a.md](art-030-a.md) | 30A Diabetes mellitus - relevant medical condition and prescribed requirements (Group 1 licences only) |
+| Art. 30B | [art-030-b.md](art-030-b.md) | 30B Diabetes mellitus - relevant medical condition and prescribed requirements (Group 2 licences only) |
 | Art. 31 | [art-031.md](art-031.md) | 31 Form to be served on holder of licence by parochial authority |
 | Art. 32 | [art-032.md](art-032.md) | 32 Prescribed fee payable on application for a provisional licence |
 | Art. 33 | [art-033.md](art-033.md) | 33 Prescribed form of provisional licence |
