@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_26_1956_20241004>
+L.26/1956 · official consolidation showing the law from 2024-10-05 · <https://www.jerseylaw.je/laws/current/l_26_1956_20241017>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ L.26/1956 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 7 | [art-007.md](art-007.md) | 7 Orders regarding driving instruction |
 | Art. 7A | [art-007-a.md](art-007-a.md) | 7A Licence applicants to be permanent residents of Jersey |
 | Art. 8 | [art-008.md](art-008.md) | 8 Test of competence to drive and surrender of certain domestic driving permits |
-| Art. 9 | [art-009.md](art-009.md) | 9 Physical fitness to drive - before grant of licence |
+| Art. 9 | [art-009.md](art-009.md) | 9 Physical fitness to drive - before grant of licence or following grant of a provisional licence |
 | Art. 10 | [art-010.md](art-010.md) | 10 Physical fitness to drive - after grant of licence |
 | Art. 11 | [art-011.md](art-011.md) | 11 Provisional licences |
 | Art. 12 | [art-012.md](art-012.md) | 12 Orders regarding licences |

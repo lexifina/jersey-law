@@ -1,6 +1,6 @@
 # Schedule 3
 (Article 89)
-OFFENCES IN RESPECT OF WHICH THERE IS NO POWER TO LEVY FINES SUMMARILY
+Offences in respect of which there is no power to levy fines summarily
 Article 4(1)
 -
 driving without a licence or employing unlicensed driver;
