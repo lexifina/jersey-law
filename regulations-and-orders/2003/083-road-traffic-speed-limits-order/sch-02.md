@@ -367,7 +367,7 @@ Valley Road
 The estate roads at Wellington Park
 TRINITY
 La Grande Route de St. Jean (from La Rue du Bechet ès Cats to its southern boundary with the Parish of St. John)
-La Route de la Trinité (from La Rue ès Picots for 45 metres south)
+La Route de la Trinité (from La Rue ès Picots to a point 15 metres south of East Lodge (Trinity Manor))
 La Rue au Sellier
 La Rue d’Asplet
 La Rue des Croix (from La Rue du Presbytère to a point 30 metres northwest of its junction with La Rue au Sellier)
