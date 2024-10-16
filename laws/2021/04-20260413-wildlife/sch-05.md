@@ -1,12 +1,14 @@
-# SCHEDULE 5
+# Schedule 5
 (Articles 5, 12)
-wild birds whose breeding sites and resting sites are protected
-part 1
-protected at any time
+Wild birds whose breeding sites and resting sites are protected
+Part 1
+Protected at any time
 Common name
 Species name
 Cormorant, great
 Phalacrocorax carbo
+Egret, cattle
+Bubulcus ibis
 Egret, little
 Egretta garzetta
 Falcon, peregrine
@@ -22,7 +24,7 @@ Riparia riparia
 Puffin, Atlantic
 Fratercula arctica
 Razorbill
-Alca sorda
+Alca torda
 Shag, European
 Phalacrocorax aristotelis
 Shearwater, Manx
@@ -32,7 +34,7 @@ Alauda arvensis
 Storm petrel, European
 Hydrobates pelagicus
 Swallow, barn
-Hirunda rustica
+Hirundo rustica
 Tern, common
 Sterna hirundo
 Tern, little
@@ -40,13 +42,13 @@ Sternula albifrons
 Tern, roseate
 Sterna dougallii
 Tern, Sandwich
-Sterna Sandvicensis
-part 2
-protected when in use
+Thalasseus sandvicensis
+Part 2
+Protected when in use
 Common name
 Species name
 Bee-eater, European
-Merops aplaster
+Merops apiaster
 Bluethroat
 Luscinia svecica
 Bullfinch, Eurasian
@@ -58,19 +60,17 @@ Buteo buteo
 Chough, red-billed
 Pyrrhocorax pyrrhocorax
 Crane, common
-Gras gras
+Grus grus
 Cuckoo, common
-Clamator glandarius
+Cuculus canorus
 Dove, European turtle
 Streptopelia turtur
-Egret, little
-Egretta garzetta
 Firecrest
-Regulus ignicapillus
+Regulus ignicapilla
 Flycatcher, spotted
 Muscicapa striata
 Gadwall
-Anas strepera
+Mareca strepera
 Golden oriole, Eurasian
 Oriolus oriolus
 Grebe, black-necked
@@ -78,7 +78,7 @@ Podiceps nigricollis
 Grebe, little
 Tachybaptus ruficollis
 Gull, Mediterranean
-Larus melanocephalus
+Ichthyaetus melanocephalus
 Hobby, Eurasian
 Falco subbuteo
 Ibis, glossy
@@ -88,9 +88,9 @@ Falco tinnunculus
 Kingfisher, common
 Alcedo atthis
 Nightingale, common
-Luscinia megaryhnchos
+Luscinia megarhynchos
 Nightjar, European
-Caprimulgus Europaeus
+Caprimulgus europaeus
 Owl, barn
 Tyto alba
 Owl, long-eared
@@ -100,21 +100,23 @@ Charadrius dubius
 Plover, ringed
 Charadrius hiaticula
 Plover, Kentish
-Anarhynchus alexandrinus
+Charadrius alexandrinus
 Redstart, black
-Phoenicurus ochrensis
+Phoenicurus ochruros
 Rosefinch, common
-Erythrina erythrina
+Carpodacus erythrina
 Serin, European
 Serinus serinus
+Shelduck, common
+Tadorna tadorna
 Shoveler, northern
-Anas clypeata
+Spatula clypeata
 Sparrowhawk
 Accipiter nisus
 Spoonbill, Eurasian
 Platalea leucorodia
 Starling, common
-Sturvus vulgaris
+Sturnus vulgaris
 Stilt, black-winged
 Himantopus himantopus
 Stonechat, Eurasian
@@ -128,7 +130,7 @@ Motacilla flava
 Warbler, Cetti’s
 Cettia cetti
 Warbler, Dartford
-Sylvia undata
+Curruca undata
 Warbler, sedge
 Acrocephalus schoenobaenus
 Water rail
