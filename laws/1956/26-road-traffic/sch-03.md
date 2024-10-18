@@ -1,9 +1,6 @@
 # Schedule 3
 (Article 89)
 Offences in respect of which there is no power to levy fines summarily
-Article 4(1)
--
-driving without a licence or employing unlicensed driver;
 Article 15(4)
 -
 applying for or obtaining a licence or driving while disqualified;
@@ -29,9 +26,6 @@ causing death by dangerous driving;
 Article 23A
 -
 causing serious injury by dangerous driving;
-Article 25
--
-careless driving; except where each person who has suffered personal injury or damage to property as a result of the offence has agreed to accept the decision of a Centenier having jurisdiction in the matter and the offence was committed more than 5 years since the date on which the defendant was last convicted for an offence under any of Article 21, 22, 25, 27, 28, 29, 30, 30B or 52;
 Article 25A
 -
 causing death by careless driving;

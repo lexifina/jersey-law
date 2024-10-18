@@ -1,6 +1,6 @@
 # Road Traffic (Jersey) Law 1956
 
-L.26/1956 · official consolidation showing the law from 2024-10-05 · <https://www.jerseylaw.je/laws/current/l_26_1956_20241017>
+L.26/1956 · official consolidation showing the law from 2024-10-18 · <https://www.jerseylaw.je/laws/current/l_26_1956_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
