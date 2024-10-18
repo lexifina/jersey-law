@@ -1,6 +1,6 @@
 # Firearms (Jersey) Law 2000
 
-L.9/2000 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_9_2000_20241017>
+L.9/2000 · official consolidation showing the law from 2024-10-18 · <https://www.jerseylaw.je/laws/current/l_9_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -48,7 +48,6 @@ L.9/2000 · official consolidation showing the law from 2023-09-21 · <https://w
 | Art. 40 | [art-040.md](art-040.md) | 40 Carrying firearm with criminal intent |
 | Art. 41 | [art-041.md](art-041.md) | 41 Carrying firearm in a public place |
 | Art. 42 | [art-042.md](art-042.md) | 42 Trespassing with firearm |
-| Art. 43 | [art-043.md](art-043.md) | 43 Prohibition on the carrying of offensive weapons without lawful authority or reasonable excuse |
 | Art. 44 | [art-044.md](art-044.md) | 44 Discharging firearm or imitation firearm in a reckless, dangerous or careless manner |
 | Art. 45 | [art-045.md](art-045.md) | 45 Restrictions on hunting any bird or animal |
 | Art. 46 | [art-046.md](art-046.md) | 46 Restriction on sale of ammunition for shot guns |
