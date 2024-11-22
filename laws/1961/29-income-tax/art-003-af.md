@@ -9,3 +9,4 @@
 “eligible entity” means an entity that -
 (a) is a financial services business, within the meaning of the Proceeds of Crime (Jersey) Law 1999, which is registered with the Jersey Financial Services Commission; and
 (b) is a financial services company charged to tax under Article 123D of this Law;
+“Jersey Financial Services Commission” means the Jersey Financial Services Commission established under Article 2 of the Financial Services Commission (Jersey) Law 1998.

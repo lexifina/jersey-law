@@ -9,3 +9,4 @@
 (b) the predecessor’s annual allowance for the year in which the succession occurs is calculated under Article 106A(2) (as adjusted, if necessary, by Article 106A(2A)); and
 (c) the successor’s qualifying expenditure for the year in which the succession occurs is the sum of -
 (i) the predecessor’s qualifying expenditure for the plant and machinery calculated under Article 106A(4), less the predecessor’s allowance for the year; and
+(ii) the successor’s qualifying expenditure calculated under Article 106A(4), less any amount spent on acquiring the plant and machinery acquired as part of the succession.
