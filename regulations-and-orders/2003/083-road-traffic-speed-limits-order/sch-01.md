@@ -5,9 +5,11 @@ ST. BRELADE
 Beauport Estate
 La Grande Route de St. Brelade
 La Marquanderie
+La Montée du Sud Access Road (or La Pulente slipway)
 La Neuve Route (from La Route de la Haule to the northern boundary of the Church of the Sacred Heart)
 La Route de la Baie (from Le Mont es Croix to St. Brelade Slipway Access Road)
 La Route de la Haule
+La Route de la Pulente (from a point 140 metres north of La Montée du Sud Access Road (or La Pulente slipway) to Le Mont de la Pulente)
 La Route de l’Isle
 La Route de Noirmont
 La Route des Camps
@@ -19,7 +21,7 @@ La Route du Petit Port (from La Route Orange to the junction with La Route du Su
 La Route Orange (from La Route du Petite Port to a point 95 yards north of La Rue de Sergenté)
 La Route Orange (from a point 35 yards east of Le Chemin Particulier de L’Ecole to La Rue Don)
 La Rue Carrée
-La Rue de la Sergenté (from La Route Orange to a point 142 yards west of Le Feugerel)
+La Rue de la Sergenté
 La Rue des Fosses a Mortier
 La Rue des Longcamps
 La Rue des Mans
@@ -32,6 +34,7 @@ Le Chemin de Creux
 Le Chemin des Basses Mielles (from Le Mont à la Brune to the western Private Road access)
 Le Mont à la Brune
 Le Mont au Roux
+Le Mont de la Pulente
 Le Mont des Vignes
 Le Mont du Coin
 Le Mont es Croix
@@ -116,16 +119,12 @@ Trinity Road
 Val Plaisant (from La Petite Rue du Val Plaisant to Springfield Road)
 Westmount Road
 ST. JOHN
-La Grande Route de St. Jean (from a point 115 yards north of La Rue des Houguettes to a point 9 yards north of La Rue de Bechet)
-La Rue de la Mare Ballam (from La Route du Mont Mado to La Route de St. Jean)
-La Route des Issues (from La Route de la Mare Ballam to a point 210 yards west of La Rue des Courts Champs)
-La Route du Mont Mado (from La Route des Issues to a point 120 yards east of La Rue de la Mare des Prés)
-La Route du Nord (between La Route de St. Jean and a point 120 yards north of La Rue de l’Etocquet)
-La Route de St. Jean (from La Rue de la Mare Ballam to a point 104 yards west of La Rue du Cimetière)
-La Rue de l’Eglise
-La Rue du Temple (from La Rue de la Mare Ballam northwards for a distance of 80 yards)
-Les Cliquards
-St. John’s Village Precinct
+La Grande Route de St. Jean (from a point 143 metres north of La Rue des Houguettes to a point 8 metres north of La Rue de Bechet)
+La Route de St. Jean (from a point 49 metres west of La Route du Nord to a point 95 metres west of La Rue du Cimetière)
+La Route des Issues (from a point 96 metres east of La Route du Mont Mado to a point 192 metres west of La Rue des Courts Champs)
+La Route du Mont Mado (from a point 88 metres east of La Rue des Clicquards to a point 110 metres east of La Rue de la Mare des Prés)
+La Rue de l’Église (from a point 117 metres east of La Rue de la Ville Guyon to La Rue de la Porte)
+La Rue de Sorel (from La Rue du Grand Mourier to Sorel Point)
 ST. LAWRENCE
 Les Charrières Malorey (from the private road leading to the German Underground Hospital southwards to La Rue des Prés Sorsoleil)
 Le Chemin des Moulins (from Ruelle de St. Clair to La Route de St. Aubin)

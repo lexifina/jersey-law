@@ -282,11 +282,28 @@ Winchester Street
 Windsor Road
 York Street
 ST. JOHN
-La Grande Route de St. Jean (from the southern boundary with the Parish of Trinity to a point 115 yards north of La Rue des Houguettes)
-La Rue des Servais (from La Grande Route de St. Jean to the north western boundary of the property known as Pine Cottage)
+La Grande Route de St. Jean (from its southern boundary with the parish of Trinity to a point 143 metres north of La Rue des Houguettes)
+La Route de St. Jean (from La Rue de la Mare Ballam to a point 49 metres west of La Route du Nord)
+La Route des Issues (from each of its northern and southern junctions with La Rue de la Mare Ballam to a point 96 metres east of La Route du Mont Mado)
+La Route du Mont Mado (from La Route des Issues to a point 88 metres east of La Rue des Clicquards)
+La Route du Nord (between La Route de St. Jean and a point 125 metres north of La Rue de l’Etocquet)
+La Rue de l’Église (from La Route du Nord to a point 117 metres east of La Rue de la Ville Guyon)
+La Rue de l’Etocquet (from a point 272 metres west of La Rue du Cimetière to La Route du Nord)
+La Rue de la Mare Ballam (from its southern junction with La Route des Issues to La Route de St. Jean)
+La Rue de la Ville Guyon
+La Rue des Clicquards
+La Rue des Servais
+La Rue du Temple
+Le Clos de l’École
+Le Pré des Chênes
+Les Charrières de Bonne Nuit (from Les Nouvelles Charrières de Bonne Nuit for 153 metres in a northerly and then westerly direction)
+Les Nouvelles Charrières de Bonne Nuit (from Bonne Nuit Bay Harbour Pier to a point 82 metres south of Les Charrières de Bonne Nuit)
+Les Tuiles
+St. John Village Precinct
 The estate roads at La Ville des Chênes
 ST. LAWRENCE
 La Rue de Haut
+La Rue des Saints Germains
 Sandybrook Lane
 La Grande Route de St. Laurent (from La Rue du Vard to Rue de Bas)
 ST. MARTIN

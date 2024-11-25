@@ -81,6 +81,8 @@ La Rue de la Perruque
 La Rue des Peupliers
 La Rue du Pont
 La Rue de Sorel (from the parish boundary to La Rue du Grand Mourier)
+Mont Mado Lane
+North View
 ST. LAWRENCE
 Les Charrières Malorey (from the private road leading to the German Underground Hospital to its northern end)
 Le Chemin des Montagnes
