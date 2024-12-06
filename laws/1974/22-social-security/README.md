@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2024-06-18 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241205>
+L.22/1974 · official consolidation showing the law from 2024-12-06 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241215>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ L.22/1974 · official consolidation showing the law from 2024-06-18 · <https://
 | Art. 24 | [art-024.md](art-024.md) | 24 Survivor’s benefit |
 | Art. 25 | [art-025.md](art-025.md) | 25 Old age pensions |
 | Art. 25A | [art-025-a.md](art-025-a.md) | 25A 2013 old age pension adjustment |
-| Art. 26 | [art-026.md](art-026.md) | 26 Death grant |
+| Art. 26 | [art-026.md](art-026.md) | 26 Death granthttps://www.jerseylaw.je/laws/current/l_50_2002https://www.jerseylaw.je/laws/current/l_31_2001 |
 | Art. 26A | [art-026-a.md](art-026-a.md) | 26A Qualifying for insolvency benefit |
 | Art. 26B | [art-026-b.md](art-026-b.md) | 26B Insolvency benefit and deductions |
 | Art. 26C | [art-026-c.md](art-026-c.md) | 26C Components of insolvency benefit |
