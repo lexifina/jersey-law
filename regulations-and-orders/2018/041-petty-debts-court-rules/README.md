@@ -1,6 +1,6 @@
 # Petty Debts Court Rules 2018
 
-R&O.41/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_41_2018_20241208>
+R&O.41/2018 · official consolidation showing the law from 2024-12-09 · <https://www.jerseylaw.je/laws/current/ro_41_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
