@@ -1,6 +1,6 @@
 # Statutory Nuisances (Jersey) Law 1999
 
-L.34/1999 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_34_1999_20241210>
+L.34/1999 · official consolidation showing the law from 2024-12-11 · <https://www.jerseylaw.je/laws/current/l_34_1999_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
