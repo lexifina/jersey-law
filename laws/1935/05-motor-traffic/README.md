@@ -1,6 +1,6 @@
 # Motor Traffic (Jersey) Law 1935
 
-L.5/1935 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_5_1935_20241210>
+L.5/1935 · official consolidation showing the law from 2024-12-11 · <https://www.jerseylaw.je/laws/current/l_5_1935_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
