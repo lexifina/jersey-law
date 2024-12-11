@@ -32,7 +32,7 @@ Histoplasma farciminosum.
 Influenza viruses of avian origin in mammals.
 Japanese encephalitis virus.
 Lumpy skin disease virus.
-Monkeypox virus.
+Mpox.
 Mycobacterium avium subspecies paratuberculosis.
 Mycobacterium caprae.
 Mycobacterium tuberculosis.
