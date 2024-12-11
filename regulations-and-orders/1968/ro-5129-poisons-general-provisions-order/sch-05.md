@@ -1,6 +1,6 @@
 # Schedule 5
 (Article 13(2))
-PART A
+Part A
 Form to which the substances specified are restricted when sold by listed sellers of Part 2 poisons
 Poison
 Form to which sale is restricted
@@ -92,7 +92,7 @@ Triphosphoric pentadi-methylamide
 Vamidothion
 Zinc phosphide
 Preparations for the destruction of rats or mice.
-PART B
+Part B
 Poisons which may be sold by listed sellers of Part 2 poisons only to persons engaged in the trade or business of agriculture or horticulture and for the purpose of that trade or business
 Aldicarb
 Arsenical poisons other than lead arsenates, calcium arsenates and copper acetoarsenite.

@@ -1,11 +1,11 @@
 # Schedule 3
 (Article 9)
 Articles exempted from the provisions of the Law and of this Order
-GROUP 1
-GENERAL EXEMPTIONS
+Group 1
+General exemptions
 Adhesives; anti-fouling compositions; builders’ materials; ceramics; distempers; electrical valves; enamels; explosives; fillers; fireworks; fluorescent lamps; glazes; glue; inks; lacquer solvents; loading materials; matches; motor fuels and lubricants; paints other than pharmaceutical paints; photographic paper; pigments; plastics; propellants; rubber; varnishes; vascular plants and their seeds.
-GROUP 2
-SPECIAL EXEMPTIONS
+Group 2
+Special exemptions
 Poison
 Substance or article in which exempted
 Acetanilide; alkyl acetanilides

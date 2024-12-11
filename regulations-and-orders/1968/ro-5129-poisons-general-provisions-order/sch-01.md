@@ -85,7 +85,7 @@ Dinosam; its compounds with a metal or a base.
 Dinoseb; its compounds with a metal or a base.
 Dioxaphetyl butyrate; its salts.
 Diphenoxylate; its salts; except
-(a) pharmaceutical preparations in solid or liquid form containing not more than 2.5 mg of diphenoxylate calculated as base and not less than 25 microgrammes of atropine calculated as atropine sulphate per dosage unit and containing no other substance to which any Part of the Dangerous Drugs (Jersey) Law 1954, applies; and
+(a) pharmaceutical preparations in solid or liquid form containing not more than 2.5 mg of diphenoxylate calculated as base and not less than 25 microgrammes of atropine calculated as atropine sulphate per dosage unit and containing no other substance to which the Misuse of Drugs (Jersey) Law 1978 applies; and
 (b) liquid preparations containing 0.5 mg diphenoxylate hydrochloride, 0.005 mg atropine sulphate, 0.16 ml ethylalcohol, 0.002 ml imitation cherry flavour, 0.45 ml glycerine, 0.4 ml sorbital solution (70%), 0.01 mg red dye colour index No. 14700 (F.D. 4C.Red No. 4), 0.0008 ml water.
 Dipipanone; its salts.
 Disulfiram.

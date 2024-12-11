@@ -1,7 +1,7 @@
 # Schedule 4
 (Article 5, 10, 11)
 Substances required to be sold by retail only upon a prescription given by a registered medical practitioner, registered dentist or registered veterinary surgeon
-PART A
+Part A
 Alcuronium chloride.
 Allylisopropylacetylurea.
 Barbituric acid; its salts; derivatives of barbituric acid; their salts; compounds of barbituric acid, its salts, its derivatives, their salts, with any other substance.
@@ -22,7 +22,7 @@ Phencyclidine; its salts.
 Polymethylenebistrimethylammonium salts.
 Tretamine; its salts.
 Triaziquone.
-PART B
+Part B
 Acebutolol Hydrochloride
 Acemetacin
 Acetanilide; alkyl acetanilides
