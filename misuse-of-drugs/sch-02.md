@@ -27,6 +27,7 @@ CLASS A DRUGS
 2-Methoxyethyl(α-methyl-3,4-methylenedioxyphenethyl)amine
 2-Methyl-3-morpholino-l, l-diphenylpropanecar-boxylic acid
 3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide (AH-7921)
+3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide (U-47,700)
 4-Bromo- β,2,5-trimethoxyphenethylamine
 4-Bromo-2, 5-dimethoxy-α-methylphenethylamine
 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
@@ -197,6 +198,7 @@ Amphetamine
 Buprenorphine
 Cannabis and cannabis resin
 Codeine
+3,4-Dichloroethylphenidate
 3,4-Dichloromethylphenidate (3,4-DCMP)
 Dihydrocodeine
 2-((Dimethylamino)methyl)-1-(3-hydroxyphenyl)cyclohexanol (also known as O-desmethyltramadol)
@@ -205,6 +207,8 @@ Ethylmorphine
 (3-ethylmorphine)
 Ethylnaphthidate
 3-Fluorophenmetrazine
+4-Fluoroethylphenidate
+4-Fluoromethylphenidate
 Glutethimide
 Isopropylphenidate (IPP or IPPD)
 Ketamine
@@ -214,6 +218,7 @@ Mecloqualone
 Methaqualone
 Methcathinone
 4-methylmethylphenidate
+Methylmorphenate
 Methylnaphthidate (HDMP-28)
 Methylphenidate
 Methylphenobarbitone
@@ -222,6 +227,7 @@ N-adamantyl-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AKB-48)
 N-adamantyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide (STS-135)
 N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AB-PINACA)
 N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)
+N-benzyl-ethylphenidate
 N-methyl-1-(thiophen-2-yl)propan-2-amine (methiopropamine or MPA)
 Nabilone
 Nicocodine
@@ -281,27 +287,33 @@ Zipeprol
 PART 3
 CLASS C DRUGS
 1. The following substances, namely -
-(a) Alprazolam
+(a) Adinazolam (1-(8-chloro-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-1-yl)-N,N-dimethylmethanamine)
+Alprazolam
 Amineptine
 Aminorex
 Benzphetamine
 Bromazepam
+Bromazolam (8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one;
 Brotizolam
 1-4 butanediol
 Camazepam
 Cathine
 Cathinone
+4’-chlorodiazepam (7-chloro-5-(4-chlorophenyl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Chlordiazepoxide
 Chlorphentermine
 Clobazam
 Clonazepam
+Clonazolam (6-(2-chlorophenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
 Clorazepic acid
 Clotiazepam
 Cloxazolam
 Delorazepam
+Deschloroetizolam (2-ethyl-9-methyl-4-phenyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4] diazepine)
 Dextropropoxyphene
 Diazepam
+Diclazepam (7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Diethylpropion
 Estazolam
 Ethchlorvynol
@@ -311,29 +323,40 @@ Etizolam
 Fencamfamin
 Fenethylline
 Fenproporex
+Flualprazolam (8-chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine
+Flubromazepam (7-bromo-5-(2-fluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
+Flubromazolam (8-bromo-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
 Fludiazepam
 Flunitrazepam
+Flunitrazolam (6-(2-fluorophenyl)-1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
 Flurazepam
+Fonazepam (5-(2-fluorophenyl)-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Gamma-butyrolactone;
 Halazepam
 Haloxazolam
 4-hydroxybutanoic acid (4-hydroxy-n-butyric acid; gamma-hydroxybutyric acid)
+3-hydroxyphenazepam (7-bromo-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Ketazolam
 Khat
 Loprazolam
 Lorazepam
 Lormetazepam
 Mazindol
+Meclonazepam (5-(2-chlorophenyl)-3-methyl-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Medazepam
 Mefenorex
 Mephentermine
 Meprobamate
 Mesocarb
 Methyprylone
+Metizolam (4-(2-chlorophenyl)-2-ethyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4] diazepine)
 Midazolam
+Nifoxipam (5-(2-fluorophenyl)-3-hydroxy-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one)
 Nimetazepam
 Nitrazepam
+Nitrazolam (1-methyl-8-nitro-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine)
 Nordazepam
+Norfludiazepam (7-chloro-5-(2-fluorophenyl)-1,3-dihydro-1,4-benzodiazepine-2-one
 Oripavine
 Oxazepam
 Oxazolam
@@ -343,7 +366,9 @@ Phentermine
 Pinazepam
 Prazepam
 Propylhexedrine
+Pyrazolam (8-bromo-1-methyl-6-(2-pyridinyl)-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine)
 Pyrovalerone
+Remimazolam
 Temazepam
 Tetrazepam
 Tramadol ((±)-trans-2-((dimethylamino)methy1)-1-(3-methoxyphenyl)cyclohexanol)
