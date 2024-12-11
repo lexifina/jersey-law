@@ -105,7 +105,7 @@ the Inspector shall, if all the applications are granted and are put into effect
 (a) that it is proportionate to do so on the ground that the mark would not have been assigned but for a contravention of a requirement of this Order or the Law by or on behalf of the owner; or
 (b) if the Attorney-General consents to the withdrawal, that the mark-right was obtained through the use of money or property that -
 (i) was or represented the proceeds of criminal conduct, within the meaning of the Proceeds of Crime (Jersey) Law 1999, or
-(ii) could have been forfeited under Article 29 of the Misuse of Drugs (Jersey) Law 1978, Article 26 of the Terrorism (Jersey) Law 2002 or Article 9 of the Proceeds of Crime (Cash Seizure) (Jersey) Law 2008.
+(ii) could have been forfeited under Article 29 of the Misuse of Drugs (Jersey) Law 1978, Article 26 of the Terrorism (Jersey) Law 2002 or Article 15 of the Forfeiture of Assets (Civil Proceedings) (Jersey) Law 2018.
 (4) The Inspector shall, on exercising a power under sub-paragraph (2) or (3), give written notice (by post, electronic communication or otherwise) of the decision to exercise the power, including reasons, to the person whose application is refused or to the owner of the vehicle from which the mark-right is withdrawn.
 (5) A person notified under sub-paragraph (4) of the exercise of a power may, within 28 days of the giving of the notification, appeal to the Royal Court on the ground that the exercise of the power was unreasonable having regard to all the circumstances of the case.
 (6) Reasons given under sub-paragraph (4) need not include any reasons for the giving of the Attorney-General’s consent under sub-paragraph (3)(b).
