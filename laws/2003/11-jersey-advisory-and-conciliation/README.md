@@ -1,6 +1,6 @@
 # Jersey Advisory and Conciliation (Jersey) Law 2003
 
-L.11/2003 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_11_2003_20241210>
+L.11/2003 · official consolidation showing the law from 2024-12-11 · <https://www.jerseylaw.je/laws/current/l_11_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |

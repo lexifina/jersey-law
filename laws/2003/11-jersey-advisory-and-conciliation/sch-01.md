@@ -54,8 +54,8 @@ JACS shall reimburse to the members of its Board such travelling and other expen
 (a) shall not prevent the performance of those functions by the Board or JACS itself; and
 (b) may be amended or revoked by the Board.
 8
-9 Public Finances (Jersey) Law 2005
-For the purposes of Article 3(2)(a) of the Public Finances (Jersey) Law 2005, money received by JACS is not money received by or on behalf of the States.
+9 Public Finances (Jersey) Law 2019
+For the purposes of Article 3(2) of the Public Finances (Jersey) Law 2019, money received by JACS is not money received by or on behalf of the States.
 10 Annual report and accounts
 (1) JACS shall -
 (a) keep proper accounts and proper records in relation to the accounts; and
