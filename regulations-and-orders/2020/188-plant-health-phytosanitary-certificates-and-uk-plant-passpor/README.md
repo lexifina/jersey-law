@@ -1,6 +1,6 @@
 # Plant Health (Phytosanitary Certificates and UK Plant Passports) (Jersey) Order 2020
 
-R&O.188/2020 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_188_2020_20241215>
+R&O.188/2020 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/ro_188_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
