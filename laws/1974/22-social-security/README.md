@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2024-12-06 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241215>
+L.22/1974 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ L.22/1974 · official consolidation showing the law from 2024-12-06 · <https://
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Contributions by States to supplementation |
 | Art. 10 | [art-010.md](art-010.md) | 10 Exceptions from liability and credits of contributions |
 | Art. 11 | [art-011.md](art-011.md) | 11 General contribution provisions |
+| Art. 11A | [art-011-a.md](art-011-a.md) | 11A Interpretation of Part 3 |
 | Art. 12 | [art-012.md](art-012.md) | 12 Description of benefits |
 | Art. 13 | [art-013.md](art-013.md) | 13 Rates and amounts of benefit |
 | Art. 14 | [art-014.md](art-014.md) | 14 Contribution conditions |
@@ -32,11 +33,12 @@ L.22/1974 · official consolidation showing the law from 2024-12-06 · <https://
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Home carer’s allowance |
 | Art. 21 | [art-021.md](art-021.md) | 21 Entitlement to parental grant |
 | Art. 22 | [art-022.md](art-022.md) | 22 Entitlement to parental allowance |
-| Art. 23 | [art-023.md](art-023.md) | 23 Interpretation of Articles 21 and 22 |
-| Art. 24 | [art-024.md](art-024.md) | 24 Survivor’s benefit |
+| Art. 22B | [art-022-b.md](art-022-b.md) | 22B Additional period for which parental allowance is payable - child requiring urgent medical care |
+| Art. 22C | [art-022-c.md](art-022-c.md) | 22C Payment of parental allowance |
+| Art. 22D | [art-022-d.md](art-022-d.md) | 22D Order in respect of parental allowance |
 | Art. 25 | [art-025.md](art-025.md) | 25 Old age pensions |
 | Art. 25A | [art-025-a.md](art-025-a.md) | 25A 2013 old age pension adjustment |
-| Art. 26 | [art-026.md](art-026.md) | 26 Death granthttps://www.jerseylaw.je/laws/current/l_50_2002https://www.jerseylaw.je/laws/current/l_31_2001 |
+| Art. 26 | [art-026.md](art-026.md) | 26 Death grant |
 | Art. 26A | [art-026-a.md](art-026-a.md) | 26A Qualifying for insolvency benefit |
 | Art. 26B | [art-026-b.md](art-026-b.md) | 26B Insolvency benefit and deductions |
 | Art. 26C | [art-026-c.md](art-026-c.md) | 26C Components of insolvency benefit |

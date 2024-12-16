@@ -1,4 +1,17 @@
-# 24 Survivor’s benefit
+# 22D Order in respect of parental allowance
+Further provision may be made by Order in respect of the parental allowance and, in particular, about -
+(a) the determination of a dispute between parents regarding the nomination to be made under Article 22C(4)(a);
+(b) entitlement to, and payment of, the parental allowance in a case where no nomination is made under Article 22C(4)(a);
+(c) the determination of an issue or dispute regarding -
+(i) entitlement to the parental allowance,
+(ii) the period for which it is payable, or
+(iii) the parent to whom it is payable;
+(d) cases in which relevant contribution conditions may be disapplied;
+(e) requirements that must be satisfied for the purpose of making a valid claim for the parental allowance;
+(f) cases in which an individual may be disqualified from receiving the parental allowance;
+(g) cases in which the period for which the parental allowance is payable may be varied, and variations of that period;
+(h) entitlement to, and payment of, the parental allowance in a case where a parent has died;
+(i) the time and manner of payment of the parental allowance.
 (1) Subject to the provisions of this Law, where a person who dies (the “deceased”) is, at the time of his or her death, married or a civil partner, the spouse or civil partner who survives him or her (the “survivor”) shall be entitled to survivor’s benefit if the deceased satisfied the relevant contribution conditions, and -
 (a) in the case of survivor’s allowance, at the time of the death of the deceased, either the deceased or the survivor was not entitled to an old age pension, or was under pensionable age; or
 (b) in the case of survivor’s pension, at the expiry of 52 weeks following the death of the deceased, the survivor -

@@ -1,6 +1,6 @@
 # 26A Qualifying for insolvency benefit
 (1) A person qualifies under this Article if all of the following conditions are satisfied -
-(a) the person was in employment as, within the meaning of the Employment (Jersey) Law 2003, an employee of an employer;
+(a) the person was in employment as an employee of an employer (within the meanings given in Article 1A of the Employment Law);https://www.jerseylaw.je/laws/current/l_42_2003
 (b) the person was so employed wholly or mainly in Jersey;
 (c) the employer is bankrupt;
 (d) that bankruptcy is the principal reason for the fact that the person is no longer so employed;
