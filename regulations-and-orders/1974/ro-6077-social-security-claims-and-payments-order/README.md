@@ -1,6 +1,6 @@
 # Social Security (Claims and Payments) (Jersey) Order 1974
 
-R&O.6077 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6077_20241215>
+R&O.6077 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/ro_6077_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
