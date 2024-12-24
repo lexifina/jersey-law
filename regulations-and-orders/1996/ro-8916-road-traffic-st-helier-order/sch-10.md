@@ -52,9 +52,9 @@ East side (between Dumaresq Street and a point 23 yards south)
 20 minutes
 7 a.m. to 11 a.m. Monday to Saturday
 Charles Street
-North side (between a point 8 yards east of Providence Street and a point 15 yards further east)
+North side (between a point 9 yards east of Providence Street and a point 28 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+At all times
 Cheapside
 South side (between a point 18 yards west of its junction with Lewis Street and a point 18 yards further west)
 20 minutes
@@ -185,9 +185,15 @@ North side (between a point 57 yards west of its junction with Castle Street to 
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 La Rue de L’Etau
-West side (between a point 32 yards west of the junction with La Rue de Carteret and a point 11 yards further west
+West side (between a point 32 yards north of its junction with La Rue de Carteret and a point 11 yards further north)
 20 minutes
-8 a.m. to midnight Monday to Saturday
+At all times
+West side (between a point 60 yards north of its junction of La Rue de Carteret and a point 23 yards further north)
+20 minutes
+At all times
+West side (between a point 198 yards north of its junction with La Rue de Carteret and a point 33 yards further north)
+20 minutes
+At all times
 Library Place
 South side (between the western corner of No. 13 and a point 12 yards east)
 20 minutes

@@ -34,7 +34,3 @@ All vehicles
 Rouge Bouillon
 Great Union Road
 Part 4
-(Article 4(4))
-COMPULSORY left-HAND TURNS FROM CAR PARKS
-Esplanade car park (exit leading to Castle Street)
-Castle Street

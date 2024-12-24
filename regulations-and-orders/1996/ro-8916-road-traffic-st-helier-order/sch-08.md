@@ -245,8 +245,6 @@ Part 3B
 PARKING DISCS 10 MINUTE LIMIT BETWEEN 8 A.M. AND MIDNIGHT
 Cheapside
 South side (between a point 11 yards west of its junction with Kensington Place and a point 16 yards further west)
-La Rue de L’Etau
-West side (between a point 60 yards north of its junction of La Rue de Carteret and a point 23 yards further north)
 Peirson Road
 South side (between Lewis Lane and a point 10 yards east)
 South side (between Lewis Lane and a point 12 yards west)
