@@ -30,6 +30,3 @@ The last Monday in August is to be observed as a public holiday.
 Part 2
 (Article 1(2))
 Rules for specific years
-8 2024: royal visit
-(1) Monday 15 July 2024 is to be observed as a public holiday.
-(2) This paragraph is deleted on 31 December 2024.
