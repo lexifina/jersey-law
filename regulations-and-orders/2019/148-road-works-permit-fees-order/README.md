@@ -1,6 +1,6 @@
 # Road Works (Permit Fees) (Jersey) Order 2019
 
-R&O.148/2019 · official consolidation showing the law from 2024-05-01 · <https://www.jerseylaw.je/laws/current/ro_148_2019_20241231>
+R&O.148/2019 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_148_2019_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
