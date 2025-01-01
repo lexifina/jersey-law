@@ -17,10 +17,14 @@ PART 2
 (Article 38)
 GOODS CHARGEABLE WITH EXCISE DUTY AND RATES OF DUTY
 1 Spirits and spirits-based drinks
-There shall be charged -
-(a) on all spirits, produced by a small independent distiller of spirits, which are imported into or produced or manufactured in Jersey, excise duty at the rate of £22.75 per litre of alcohol;
-(b) on all other spirits imported into or produced or manufactured in Jersey, excise duty at the rate of £45.46 per litre of alcohol; and
+(1) There shall be charged -
+(a) on all distilled spirits that are produced or manufactured by a small independent distiller and imported into or produced or manufactured in Jersey, excise duty at the rate of £22.75 per litre of alcohol;
+(b) on all other spirits (including other distilled spirits) imported into or produced or manufactured in Jersey, excise duty at the rate of £45.46 per litre of alcohol; and
 (c) on spirits-based products which are ready-to-drink and are imported into or produced or manufactured in Jersey, excise duty at the rate of £45.46 per litre of alcohol.
+(2) A person is a “small independent distiller” in relation to distilled spirits produced or manufactured by the person (the “taxable spirits”) if -
+(a) the person is an independent distiller; and
+(b) the total amount of alcohol contained in distilled and other spirits produced or manufactured by the person during the reference period does not exceed 20,000 litres.
+(3) The “reference period”, in relation to taxable spirits, is the calendar year in which the spirits are produced or manufactured.
 2 Wines
 There shall be charged, on all wines imported into or produced or manufactured in Jersey, excise duty at the following rates -
 Strength of wines
@@ -37,7 +41,7 @@ Rate per litre of alcohol
 Wines exceeding 22% volume
 45.46
 3 Beer
-There shall be charged -
+(1) There shall be charged -
 (a) on all beer, produced by a small independent brewer, which is imported into or produced or manufactured in Jersey, excise duty at the rate of -
 (i) £18.47 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
 (ii) £36.91 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
@@ -46,8 +50,12 @@ There shall be charged -
 (i) £36.91 per hectolitre of beer exceeding 1.2% volume but not exceeding 2.8% volume,
 (ii) £73.82 per hectolitre of beer exceeding 2.8% volume but not exceeding 4.9% volume, and
 (iii) £137.39 per hectolitre of beer exceeding 4.9% volume.
+(2) A person is a “small independent brewer” in relation to beer produced or manufactured by the person (the “taxable beer”) if -
+(a) the person is an independent brewer; and
+(b) the total amount of beer produced or manufactured by the person during the reference period does not exceed 200,000 hectolitres.
+(3) The “reference period”, in relation to taxable beer, is the calendar year in which the beer is produced or manufactured.
 4 Cider
-There shall be charged -
+(1) There shall be charged -
 (a) on all cider, produced by a small independent cider-maker, which is imported into or produced or manufactured in Jersey, excise duty at the rate of -
 (i) £18.47 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
 (ii) £36.91 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
@@ -56,28 +64,32 @@ There shall be charged -
 (i) £36.91 per hectolitre of cider exceeding 1.2% volume but not exceeding 2.8% volume,
 (ii) £73.82 per hectolitre of cider exceeding 2.8% volume but not exceeding 4.9% volume, and
 (iii) £137.39 per hectolitre of cider exceeding 4.9% volume.
+(2) A person is a “small independent cider-maker” in relation to cider produced or manufactured by the person (the “taxable cider”) if -
+(a) the person is an independent cider-maker; and
+(b) the total amount of cider produced or manufactured by the person during the reference period does not exceed 500,000 litres.
+(3) The “reference period”, in relation to taxable cider, is the calendar year in which the cider is produced or manufactured.
 5 Other alcoholic beverages
 There shall be charged, on all alcoholic beverages imported into or produced or manufactured in Jersey (other than wines, beer or cider) exceeding 1.2% volume but not exceeding 5.5% volume, excise duty at the rate of £45.46 per litre of alcohol.
 6 Tobacco
 There shall be charged, on all tobacco imported into or grown, produced or manufactured in Jersey, excise duty at the following rates -
 Type of tobacco
-Rate of excise duty per kilogramme
+Rate of excise duty per kilogram
 (£)
 (a)
 unprocessed tobacco
-616.30
+669.30
 (b)
 cigars
-724.39
+808.42
 (c)
 cigarettes
-807.29
+876.72
 (d)
 hand-rolling tobacco
-807.29
+876.72
 (e)
 processed tobacco other than types (b) to (d)
-642.23
+697.46
 7 Hydrocarbon oil
 (1) There shall be charged, on hydrocarbon oil imported or delivered into or produced in Jersey, excise duty at the following rates -
 Type of hydrocarbon oil
@@ -126,49 +138,49 @@ all other types of hydrocarbon oil
 (4) For motor vehicles (other than commercial vehicles) that have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates for the year in which it is payable -
 Established CO2 mass emission figure
 (g)
-Rate for 2024
+Rate for 2025
 (£)
 0
 0
 1-50
-35.00
+35
 51-75
-73.00
+73
 76-100
-240.00
+240
 101-125
-422.00
+422
 126-150
-715.00
+715
 151-175
-1,367.00
+1,435
 176-200
-4,200.00
+4,830
 201 or more
-7,937.00
+9,921
 (5) For motor vehicles (other than commercial vehicles) that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates for the year in which it is payable -
 Cylinder capacity of engine
 (cm3)
-Rate for 2024
+Rate for 2025
 (£)
 0
 0
 1-500
-35.00
+35
 501-1400
-291.00
+291
 1401-1800
-567.00
+567
 1801-2000
-814.00
+814
 2001-2500
-1,290.00
+1,290
 2501-3000
-2,125.00
+2,231
 3001-3500
-4,200.00
+4,830
 3501 or more
-7,937.00
+9,921
 8A Motor vehicles - commercial vehicles
 (1) In this paragraph -
 “commercial vehicle” means a vehicle of a type that is designed to be used to transport goods or materials (rather than passengers);
@@ -190,25 +202,25 @@ Vehicle emissions duty for vehicle that is not lower emission vehicle
 0
 51-75
 0
-53.66
+56
 76-100
 0
-160.97
+167
 101-125
-53.66
-268.28
+56
+278
 126-150
-160.97
-429.24
+167
+445
 151-175
-268.28
-804.83
+278
+834
 176-200
-429.24
-1,341.38
+445
+1,390
 201 or more
-804.83
-1,931.58
+834
+2,001
 (3) For commercial vehicles that do not have an established CO2 mass emission figure, vehicle emissions duty is charged at the following rates -
 Cylinder capacity of engine
 (cm3)
@@ -224,25 +236,25 @@ Vehicle emissions duty for vehicle that is not lower emission vehicle
 0
 501-1400
 0
-214.62
+222
 1401-1800
 0
-375.59
+389
 1801-2000
-214.62
-536.55
+222
+556
 2001-2500
-375.59
-751.17
+389
+778
 2501-3000
-536.55
-1,073.10
+556
+1,112
 3001-3500
-751.17
-1,395.03
+778
+1,445
 3501 or more
-1,073.10
-1,931.58
+1,112
+2,001
 9 Restricted speed agricultural tractors
 (1) In this paragraph -
 “restricted speed agricultural tractor” means a motor vehicle that -

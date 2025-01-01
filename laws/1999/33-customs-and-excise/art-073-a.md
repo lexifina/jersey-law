@@ -8,3 +8,4 @@
 (i) to consider, within a specified period, whether or not an application for approval is duly made in accordance with any provision made under sub-paragraphs (a) to (c), and
 (ii) to notify, in such manner as may be specified, the person making or purporting to make the application as to whether or not the application falls to be determined;
 (e) confer rights of appeal;
+(f) make provision about the circumstances in which an approval by the Agent must be treated as if it had never been granted, and otherwise about the amendment, suspension or revocation of approvals.

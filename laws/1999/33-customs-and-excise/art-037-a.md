@@ -7,7 +7,7 @@
 (ii) endorsed without restriction,
 (ii) made out to a fictitious payee, or
 (iv) otherwise in such form that title to them passes upon delivery;
-(c) incomplete instruments (including cheques, promissory notes and money orders) signed, but with the payee's name omitted;
+(c) incomplete instruments (including cheques, promissory notes and money orders) signed, but with the payee’s name omitted;
 (d) currency (banknotes and coins that are in circulation, whether in Jersey or elsewhere, as a medium of exchange);
 (e) a monetary instrument of a type prescribed under paragraph (3)(a);
 (f) a forged or counterfeit version of any instrument or currency mentioned in sub-paragraphs (a) to (e) of this definition;
