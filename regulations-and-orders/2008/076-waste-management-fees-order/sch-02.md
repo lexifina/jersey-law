@@ -1,6 +1,6 @@
 # Schedule 2
 (Article 1(7))
-determination of APPROPRIATE fee
+Determination of appropriate fee
 1 Licence application and licence surrender
 (1) The high regulatory requirement fee is payable if the Minister is satisfied that the application is in respect of a complex facility with a significant pollution potential or sensitive receptors.
 (2) The medium regulatory requirement fee is payable if the Minister is satisfied that the application is in respect of a facility that has a reduced pollution potential but where receptors are still present and where a detailed consideration of the application is still required.
