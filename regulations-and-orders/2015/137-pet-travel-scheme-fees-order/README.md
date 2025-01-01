@@ -1,6 +1,6 @@
 # Pet Travel Scheme (Fees) (Jersey) Order 2015
 
-R&O.137/2015 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_137_2015_20241231>
+R&O.137/2015 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_137_2015_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
