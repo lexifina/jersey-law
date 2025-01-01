@@ -473,7 +473,7 @@ Designated Officer
 13.
 CONTRACTS -
 (a)
-Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (aa), (b), (ba), (j), (k) or (t) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
+Of sale of immovable property other than rentes anciennes but including rentes nouvelles and simple conventional hypothecs (except as provided by paragraphs (aa), (b), (ba), (j), (k), (t) or (ta) of this item), where the consideration for the transfer of the property or, if the gross value of the property transferred exceeds such consideration, the gross value of the property -
 IN RELATION TO PROPERTY THAT IS NOT RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2
 IN RELATION TO PROPERTY THAT IS RELEVANT PROPERTY SEE TABLE IN PARAGRAPH 2A
 Provided that in the case of a contract of exchange of immovable property the fees specified in the table in this paragraph shall be separately calculated in respect of the gross value of each property transferred.
@@ -604,7 +604,7 @@ Provided that -
 (B) where any transfer of immovable property or of a share therein takes place by reason of an order made by the Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949 or Article 48 of the Civil Partnership (Jersey) Law 2012, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10; and
 (C) where any transfer of immoveable property in the joint ownership of spouses or civil partners is by one of them into the sole ownership of the other and, at the time of the transfer, that property is their matrimonial home or civil partnership home, the fee specified in this paragraph shall be reduced to £5 for each page of the contract subject to a minimum of £10.
 (l)
-Of lease, sub-lease, licence to occupy premises, or transfer or extension of lease, sub-lease or licence (subject as is hereinafter provided, and except as provided by paragraphs (m) or (t) of this item) where -
+Of lease, sub-lease, licence to occupy premises, or transfer or extension of lease, sub-lease or licence (subject as is hereinafter provided, and except as provided by paragraphs (m), (t) or (ta) of this item) where -
 (1) the annual rental stipulated in the contract multiplied by the number of years for which the contract provides that the lessee, sub-lessee or transferee shall have possession of the demised premises, or the amount payable annually for the licence to occupy the premises multiplied by the number of years for which the contract provides that the licensee shall be entitled to occupy the premises (in either case excluding any period in excess of 21 years) -
 (i) does not exceed £100,000
 (A) In relation to property that is not relevant property, 50p for each £100 or part of £100 subject to a minimum of £10
@@ -666,12 +666,12 @@ Contract
 Greffier
 (o)
 Power of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority
-rate F
+£90
 Power of attorney or letters
 Greffier
 (p)
 Where contracts, powers of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority, are passed in private, or otherwise than on a day or at a time appointed by rules of court for the public passing of contracts, an additional fee shall be payable of
-rate F
+£90
 Contract, power of attorney or letters
 Greffier
 (q)
@@ -690,10 +690,15 @@ rate E
 Copy of contract
 Greffier
 (t)
-Of sale within the terms of paragraph (a) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Revenue confirming that the purchaser, donee, lessee, sub-lessee or transferee -
+Of sale within the terms of paragraph (a) or (aa) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Revenue confirming that the purchaser, donee, lessee, sub-lessee or transferee -
 (a) qualifies for exemption from income tax under Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961; or
 (b) is a company prescribed under Article 2 of the Social Housing (Transfer) (Jersey) Law 2013, and qualifies for exemption from income tax under Article 115(c) of the Income Tax (Jersey) Law 1961
 rate F
+Contract
+Greffier
+(ta)
+Of sale within the terms of paragraph (a) or (l) of this item or of gift, resignation or cession within the terms of paragraph (c) of this item if the sale, gift, resignation or cession is between companies within the same group
+£90
 Contract
 Greffier
 (u)
@@ -1433,15 +1438,15 @@ Greffier
 Application
 Greffier
 (h) exceeds £2,000,000 but does not exceed £3,000,000
-£74,500 in respect of the first £2,000,000 plus £7 for each £100 or part of £100 in excess thereof
+£74,500 in respect of the first £2,000,000 plus £7.50 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (i) exceeds £3,000,000 but does not exceed £6,000,000
-£144,500 in respect of the first £3,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+£149,500 in respect of the first £3,000,000 plus £10 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (j) exceeds £6,000,000
-£429,500 in respect of the first £6,000,000 plus £10.50 for each £100 or part of £100 in excess thereof
+£449,500 in respect of the first £6,000,000 plus £11 for each £100 or part of £100 in excess thereof
 Application
 Greffier
 (2)
