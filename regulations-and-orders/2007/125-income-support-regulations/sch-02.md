@@ -1,6 +1,6 @@
 # Schedule 2
 (Schedule 1, paragraph 6(2))
-part 1: statements in respect of personal care element of impairment component
+Part 1: statements in respect of personal care element of impairment component
 Directions
 (1) A statement in respect of any of the activities numbered 1 to 12B in the table shall be selected having regard only to the member of the household’s physical and sensory abilities.
 (1A) Where a member of a household is normally fitted with or normally wears a prosthesis, he or she shall be assessed as if he or she was fitted with or wearing that prosthesis.
@@ -417,7 +417,7 @@ e) none of the above
 0
 None
 12 years
-part 2: statements in respect of mobility element of impairment component
+Part 2: statements in respect of mobility element of impairment component
 (Schedule 1, paragraph 7(1))
 Directions
 (1) A statement in respect of any of the activities numbered 1 to 3 shall be selected having regard only to the member of the household’s physical and sensory abilities.

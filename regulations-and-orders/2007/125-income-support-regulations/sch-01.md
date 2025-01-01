@@ -1,6 +1,6 @@
 # Schedule 1
 (Regulation 6)
-part 1: basic components
+Part 1: basic components
 1 Criteria for basic components
 (1) A household is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law in respect of any member of the household -
 (a) during any week in which the member is entitled to a grant under an Order made by the Minister for Education and Lifelong Learning under Article 51 of the Education (Jersey) Law 1999 that is intended to cover the whole of that week;
@@ -16,25 +16,23 @@ part 1: basic components
 (4A) If a housing component is calculated under paragraph 4(12)(a) in respect of a household, the basic component under Article 5(2)(d) shall be multiplied by H/B where H and B have the same values used to calculate the housing component under paragraph 4(12)(a) in respect of that household.
 (5) A household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of any member of the household who has not been ordinarily resident in Jersey for the period prescribed under Article 2(1)(b) of the Law.
 2 Rates for basic components
-(1) The rates payable for the basic components under Article 5(2) of the Law are as follows -
+The rates payable for the basic components under Article 5(2) of the Law are -
 (a)
 under Article 5(2)(a) of the Law (adult component rate)
-£120.89
+£125.79
 (b)
 under Article 5(2)(b) of the Law (single parent component rate)
-£47.25
+£49.14
 (c)
 under Article 5(2)(c) of the Law (first child component rate)
-£99.61
+£103.60
 (d)
 under Article 5(2)(ca) of the Law (subsequent child component rate)
-£83.93
+£87.29
 (e)
 under Article 5(2)(d) of the Law (household component rate)
-£67.41
-(2)
-(3)
-part 2: special components
+£70.14
+Part 2: special components
 A: housing component
 3 Criteria for housing component
 (1) A household is entitled to a housing component if -
@@ -61,34 +59,34 @@ A: housing component
 (2) The rates payable under this sub-paragraph are -
 (a)
 in the case of a hostel
-£152.60
+£158.76
 (b)
 in the case of lodgings or a bedsit
-£184.73
+£192.15
 (c)
 in the case of a flat with 1 bedroom
-£272.37
+£283.29
 (d)
 in the case of a flat with 2 bedrooms
-£348.74
+£362.74
 (e)
 in the case of a flat with 3 or more bedrooms
-£374.15
+£389.13
 (f)
 in the case of a house with 1 bedroom
-£312.20
+£324.73
 (g)
 in the case of a house with 2 bedrooms
-£396.27
+£412.16
 (h)
 in the case of a house with 3 bedrooms
-£462.77
+£481.32
 (i)
 in the case of a house with 4 bedrooms
-£504.42
+£524.65
 (j)
 in the case of a house with 5 or more bedrooms
-£558.25
+£580.58
 (3) If the dwelling occupied is social housing occupied under a lease or licence by an eligible household and -
 (a) the dwelling is appropriate to the needs of the eligible household; and
 (b) the actual weekly rent payable is no more than is reasonable having regard to -
@@ -112,22 +110,22 @@ the rate is the rate payable under sub-paragraph (13) in respect of a dwelling o
 (7) The rates payable under this sub-paragraph are -
 (a)
 in the case of a bedsit or flat with 1 or 2 bedrooms
-£8.54
+£8.89
 (b)
 in the case of a flat with 3 bedrooms
-£12.04
+£12.53
 (c)
 in the case of a flat with 4 or more bedrooms
-£17.01
+£17.71
 (d)
 in the case of a house with 1 bedroom
-£8.54
+£8.89
 (e)
 in the case of a house with 2 bedrooms
-£12.04
+£12.53
 (f)
 in the case of a house with 3 or more bedrooms
-£17.01
+£17.71
 (8) In this paragraph a dwelling (or part of a dwelling for the purposes of sub-paragraph (12)), is appropriate to the needs of an eligible household -
 (a) if it is no larger than is reasonably necessary for that household;
 (b) if, having regard to all the circumstances, it would be unreasonable to expect the household to move from that dwelling; or
@@ -164,34 +162,34 @@ for a dwelling of a description that refers to the total number of bedrooms that
 (13) The rates payable under this sub-paragraph are -
 (a)
 in the case of a hostel
-£152.60
+£158.76
 (b)
 in the case of lodgings or a bedsit
-£175.14
+£182.21
 (c)
 in the case of a flat with 1 bedroom
-£258.09
+£268.45
 (d)
 in the case of a flat with 2 bedrooms
-£330.33
+£343.56
 (e)
 in the case of a flat with 3 or more bedrooms
-£354.34
+£368.55
 (f)
 in the case of a house with 1 bedroom
-£295.68
+£307.51
 (g)
 in the case of a house with 2 bedrooms
-£375.55
+£390.60
 (h)
 in the case of a house with 3 bedrooms
-£438.55
+£456.12
 (i)
 in the case of a house with 4 bedrooms
-£477.82
+£497.00
 (j)
 in the case of a house with 5 or more bedrooms
-£528.99
+£550.20
 B: impairment component
 5 Elements of impairment component
 (1) The impairment component shall consist of the following 3 elements -
@@ -215,16 +213,16 @@ B: impairment component
 (2) Except in the case of an adult referred to in sub-paragraph (1)(d), the rate of personal care element payable to a member of a household is calculated by -
 (a) in accordance with the directions set out in Part 1 of Schedule 2, selecting the one statement set out in column 1 of the table in Part 1 of Schedule 2 in respect of each numbered activity described in that table that most accurately applies to the member (excluding any statement that does not apply to the member by virtue of column 3 or 4); and
 (b) totalling each score indicated in column 2 of the table in respect of each statement selected under clause (a).
-(3) The rate of personal care element payable in respect of the total score calculated under sub-paragraph (2) is as follows -
+(3) The rate of personal care element payable in respect of the total score calculated under sub-paragraph (2) is -
 (a)
 for a score of at least 15 but less than 36
-£30.38
+£31.64
 (b)
 for a score of at least 36 but less than 56
-£132.79
+£138.11
 (c)
 for a score of at least 56
-£190.40
+£198.03
 (4) The rate of personal care element in respect of a member of a household referred to in sub-paragraph (1)(d) shall be whichever amount is the lower of -
 (a) the net weekly cost of an approved care package for that member having taken account and deducted the amount of any funding or subsidy provided by the Minister for Health and Social Services with respect to the cost of the approved care package; and
 (b) the weekly rate set at the lowest level of standard care provided under Article 8 of the Long-Term Care (Benefits) (Jersey) Order 2014.
@@ -237,8 +235,8 @@ for a score of at least 56
 (1) A household is entitled to a mobility element in respect of any member of the household who is at least 3 years of age if one or more of the statements set out in Part 2 of Schedule 2 applies to that member (unless the member is a child and the statement is expressed not to be relevant to a child of his or her age).
 (2) However, a household is not entitled to a mobility element in respect of a member of the household who is receiving long-term care in an approved care home.
 (3) The rate of mobility element of the impairment component is -
-(a) £30.38 if the person’s average weekly earnings do not exceed the amount in clause (b); or
-(b) £60.48.
+(a) £31.64 if the person’s average weekly earnings do not exceed the amount in clause (b); or
+(b) £62.93.
 (4) Whether or not a statement set out in Part 2 of Schedule 2 applies to a member of a household shall be assessed in accordance with the directions set out in that Part.
 8 Clinical cost element
 (1) A household is entitled to a clinical cost element in respect of any member of the household if that member -
@@ -252,7 +250,7 @@ for a score of at least 56
 “approved medical practitioner” means a doctor for the time being approved under Article 26 of the Health Insurance (Jersey) Law 1967;
 “medical practitioner” means a doctor or any person who is a fully registered person as defined by section 55 of the Medical Act 1983 of the United Kingdom;
 “recognised clinical guidelines” means evidence-based systematically-developed statements originating from a professional medical or scientific organisation that are designed to assist medical practitioners and patients with decisions about appropriate health care for the patient’s specific medical circumstances.
-c: child day care component
+C: child day care component
 9 Child day care component criteria
 A household is entitled to a child day care component in respect of any child under 12 years of age who is a member of the household, other than a foster child, if the adult member of the household who is treated under Article 3 of the Law as having the main responsibility for the physical care of the children of the household -
 (a) has average earnings, calculated over any period not exceeding 12 months, that are greater than the cost of the day care provided to all the children for whom he or she has the main responsibility for the physical care during that period; or
@@ -270,10 +268,10 @@ whichever is the lower.
 (3) The rates payable under this sub-paragraph are -
 (a)
 for a child under the age of 3 years
-£9.61
+£10.00
 (b)
 for a child aged 3 years or over
-£8.04
+£8.37
 D: carer’s component
 11 Carer’s component criteria
 (1) A household is entitled to a carer’s component in respect of all persons cared for by each member of the household (a “carer”) if -
@@ -287,11 +285,11 @@ D: carer’s component
 (2) However, a household is not entitled to a carer’s component in respect of any carer while the carer is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(b), (c) or (d), unless the disentitlement is because one or more of the persons being cared for is receiving medical treatment outside Jersey and the carer has accompanied that person or persons.
 (3) A household is not entitled to a carer’s component in respect of any carer while the household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of the carer as a consequence of paragraph 1(5).
 12 Rate for the carer’s component
-The rate payable in respect of the carer’s component is £68.81.
+The rate payable in respect of the carer’s component is £71.61.
 E: Ancillary home care costs component
 13 Criteria for ancillary home care costs component
 A household is entitled to an ancillary home care costs component in respect of each member of the household who -
 (a) is in receipt of an approved care package under Article 7(2) of the Long-Term Care (Jersey) Law 2012; and
 (b) is being provided with long-term care under that Law in their home.
 14 Rate for ancillary home care costs component
-The rate payable in respect of an ancillary home care costs component is £30.03.
+The rate payable in respect of an ancillary home care costs component is £31.29.
