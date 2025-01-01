@@ -1,6 +1,6 @@
 # Social Security (Jersey) Law 1974
 
-L.22/1974 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/l_22_1974_20241231>
+L.22/1974 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/l_22_1974_20250220>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -33,9 +33,11 @@ L.22/1974 · official consolidation showing the law from 2024-12-16 · <https://
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Home carer’s allowance |
 | Art. 21 | [art-021.md](art-021.md) | 21 Entitlement to parental grant |
 | Art. 22 | [art-022.md](art-022.md) | 22 Entitlement to parental allowance |
+| Art. 22A | [art-022-a.md](art-022-a.md) | 22A Period for which parental allowance is payable to a parent |
 | Art. 22B | [art-022-b.md](art-022-b.md) | 22B Additional period for which parental allowance is payable - child requiring urgent medical care |
 | Art. 22C | [art-022-c.md](art-022-c.md) | 22C Payment of parental allowance |
 | Art. 22D | [art-022-d.md](art-022-d.md) | 22D Order in respect of parental allowance |
+| Art. 24 | [art-024.md](art-024.md) | 24 Survivor’s benefit |
 | Art. 25 | [art-025.md](art-025.md) | 25 Old age pensions |
 | Art. 25A | [art-025-a.md](art-025-a.md) | 25A 2013 old age pension adjustment |
 | Art. 26 | [art-026.md](art-026.md) | 26 Death grant |
