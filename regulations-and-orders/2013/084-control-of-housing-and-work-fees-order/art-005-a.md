@@ -1,6 +1,6 @@
 # 5A Annual charge in respect of Registered persons
-(1) The annual charge for a Registered person who is permitted to work for an undertaking which is an employment agency by the business licence of that undertaking (including, for the avoidance of doubt, any such person whose labour is supplied by an employment agency to any other undertaking) is £525 in respect of each Registered person.
-(2) The annual charge for a Registered person who is permitted, by the undertaking’s business licence, to work in or for an undertaking of any kind other than an employment agency as mentioned in paragraph (1) is £52.50 in respect of each Registered person.
+(1) The annual charge for a Registered person who is permitted to work for an undertaking which is an employment agency by the business licence of that undertaking (including, for the avoidance of doubt, any such person whose labour is supplied by an employment agency to any other undertaking) is £538 in respect of each Registered person.
+(2) The annual charge for a Registered person who is permitted, by the undertaking’s business licence, to work in or for an undertaking of any kind other than an employment agency as mentioned in paragraph (1) is £53.80 in respect of each Registered person.
 (3) An annual charge payable under this Article is payable in respect of each Registered person permitted by an undertaking’s business licence to work in or for the undertaking -
 (a) on such date as may be agreed by the Minister -
 (i) on social or economic grounds,
