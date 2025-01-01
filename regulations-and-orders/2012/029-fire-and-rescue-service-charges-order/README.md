@@ -1,6 +1,6 @@
 # Fire and Rescue Service (Charges) (Jersey) Order 2012
 
-R&O.29/2012 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_29_2012_20241231>
+R&O.29/2012 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_29_2012_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
