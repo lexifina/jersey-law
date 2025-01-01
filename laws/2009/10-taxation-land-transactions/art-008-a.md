@@ -3,3 +3,4 @@
 (2) The conditions are that the Assisted Ownership Scheme has been approved by the Minister for Housing and -
 (a) the land has been allocated to the occupier through the Affordable Housing Gateway administered by the Minister for Housing; or
 (b) the Scheme has been approved by the Minister for Treasury and Resources.
+(3) The affordable price is the proportion of the gross value of the transaction that is funded by the occupier, whether or not the funding involves a security agreement.

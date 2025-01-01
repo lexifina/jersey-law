@@ -159,6 +159,19 @@ exceeds £6,000,000
 Where the Comptroller is satisfied that an occupier or a secured party qualifies for exemption from income tax pursuant to Article 115(a), (aa) or (ae) of the 1961 Law, LTT shall be charged on the value of a transaction to which this Law applies at the rate of £180.
 9 Devolution of deceased person’s estate
 Where a transaction described in Article 3(1)(a) or (b) gives effect to a devise to a beneficiary or the devolution on intestacy to the heir or heirs, of a deceased person’s estate, LTT shall be charged at the rate of £90.
+9A Transactions between companies within same group
+(1) If a transaction described in Article 3(1)(a) or (b) is between companies within the same group, LTT is charged at the rate of £180.
+(2) For the purposes of this paragraph -
+“control”, in relation to a company (“controlled company”) means the power of 1 or more companies (“controlling company”) to secure that the affairs of the controlled company are conducted in accordance with the wishes of the controlling company by means of -
+(a) 1 or more of the following -
+(i) the holding, directly or indirectly, of 75% or more of shares (whether in the controlled company or another company),
+(ii) the possession, directly or indirectly, of 75% or more of voting power in or in relation to the controlled company,
+(iii) the holding, directly or indirectly, of 75% or more of powers conferred by the articles of association or other document regulating the controlled company or another company;
+(b) the right to 75% or more of the profits and gains of the company;
+“group” means a holding company and 1 or more of its subsidiaries and, for the purposes of this definition, a company (“company A”) is a subsidiary of another company (“company B”) if -
+(a) company B controls company A; or
+(b) company A is a subsidiary of a company that is itself a subsidiary of company B;
+“holding company” means a company that is not controlled by another company.
 10 Mode of calculating value where cash consideration is in foreign currency
 (1) Where, by virtue of this Schedule, the value of a transaction is to be determined by reference to any cash consideration passing for the transaction, and that consideration is in a currency other than sterling, the value of the transaction shall be the equivalent value, in sterling, of the cash consideration, according to the rate of exchange prevailing on the day the value of the transaction is to be determined in accordance with this Schedule.
 (2) Evidence of the rate of exchange prevailing on a day may be given by written certificate signed by an officer of any bank in Jersey.
