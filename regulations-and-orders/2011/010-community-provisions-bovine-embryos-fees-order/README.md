@@ -1,6 +1,6 @@
 # Community Provisions (Bovine Embryos) (Fees) (Jersey) Order 2011
 
-R&O.10/2011 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_10_2011_20241231>
+R&O.10/2011 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_10_2011_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
