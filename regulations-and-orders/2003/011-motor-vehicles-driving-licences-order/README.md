@@ -1,6 +1,6 @@
 # Motor Vehicles (Driving Licences) (Jersey) Order 2003
 
-R&O.11/2003 · official consolidation showing the law from 2024-10-05 · <https://www.jerseylaw.je/laws/current/ro_11_2003_20241231>
+R&O.11/2003 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_11_2003_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |

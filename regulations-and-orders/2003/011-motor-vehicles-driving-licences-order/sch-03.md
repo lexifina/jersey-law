@@ -29,25 +29,25 @@ Additional amount payable for grant or issue of licence if applicant requests an
 Part 2 - Prescribed test
 7
 Application to take basic training course (fee includes compulsory basic training certificate given on successful completion of course)
-£153
+£156.80
 8
 Issue of duplicate copy of compulsory basic training certificate
-£13
+£13.30
 9
 Application to take theory test, other than for category C and D vehicles
-£39.50
+£40.40
 10
 Application to take theory test for category C and D vehicles
-£48.50
+£49.70
 11
 Application to take practical test, other than for category C and D vehicles, category A1 and P vehicles, and category A vehicles if the person is required under Article 24(4)(d) to produce a compulsory basic training certificate before taking the test
-£58.50
+£59.90
 12
 Application to take practical test for category C and D vehicles
-£110
+£112.70
 13
 Application to take practical test for category A1 and P vehicles and category A vehicles if the person is required under Article 24(4)(d) to produce a compulsory basic training certificate before taking the test
-£50.50
+£51.70
 14
 Issue of duplicate copy of certificate or statement showing pass result for theory test or practical test
-£13
+£13.30
