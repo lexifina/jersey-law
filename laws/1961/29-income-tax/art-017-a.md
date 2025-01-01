@@ -14,16 +14,16 @@
 (e) in the case of a return under Article 20E, midnight on 30th November in the year following the year of assessment.
 (2A) Where a person required to deliver to the Comptroller a true, complete and correct return does not do so by midnight on the date that is 3 months after the specified time, the person is liable to a penalty of an amount specified in paragraph (2B) for each month that the return remains undelivered up to a maximum of 9 months.
 (2B) Those amounts are -
-(a) in the case of a return under Article 16 or 17 by a person other than a body corporate or LLC, £50 per month;
-(b) in the case of a return under Article 20, 20A, 20B, 20C, 20D, 20E or 135C or by a body corporate or LLC under Article 16, £100 per month.
+(a) in the case of a return under Article 16 or 17 by a person other than a body of persons, £50 per month;
+(b) in the case of a return under Article 20, 20A, 20B, 20C, 20D, 20E or 135C or by a body of persons under Article 16, £100 per month.
 (3) A person who is required to deliver a return under Article 16 or 17 is not liable to a penalty under this Article if -
-(a) the person is not a body corporate or LLC; and
+(a) the person is not a body of persons; and
 (b) the Comptroller is satisfied that the person is not liable to pay any tax for the period to which the return relates.
-(4) Where a return under Article 16 or 17 is delivered after the specified time and the Comptroller is satisfied that, for the year of assessment to which the return relates, a person other than a body corporate or LLC is liable to pay tax of less than £300 -
+(4) Where a return under Article 16 or 17 is delivered after the specified time and the Comptroller is satisfied that, for the year of assessment to which the return relates, a person other than a body of persons is liable to pay tax of less than £300 -
 (a) the person’s liability under paragraph (1) must be abated to an amount equal to the tax that the person is liable to pay for that year of assessment; and
 (b) the Comptroller must repay to the person any amount paid by the person in discharge of the person’s liability under paragraph (1) which exceeds the abated amount.
 (4A) Paragraph (4B) applies if -
-(a) a person, other than a body corporate or LLC, is liable to pay one or more penalties under paragraph (2A) in respect of a return under Article 16 or 17; and
+(a) a person, other than a body of persons, is liable to pay one or more penalties under paragraph (2A) in respect of a return under Article 16 or 17; and
 (b) the Comptroller is satisfied that the person is liable to pay tax of less than £50 for the period to which the return relates.
 (4B) If this paragraph applies, -
 (a) each penalty that the person is liable to pay under paragraph (2A) is abated to an amount equal to the tax the person is liable to pay for the period to which the return relates; and

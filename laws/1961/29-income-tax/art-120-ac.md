@@ -1,0 +1,6 @@
+# 120AC Article 120AB cases: disapplication of certain requirements to provide returns etc.
+(1) A requirement to provide a return for a year of assessment, or a period within a year of assessment, imposed by a notice under Article 20B (companies) or Article 20D (foundations) does not apply to a company or foundation that is a relevant MNE group entity (as defined in Article 120AB) for that year or period.
+(2) A requirement to provide a return for a year of assessment, or a period within a year of assessment, imposed by a general notice under Article 135C (limited liability companies), does not apply to the secretary of a limited liability company that is a relevant MNE group entity for that year or period.
+(3) For the purposes of Article 20E (returns of information by partnerships) -
+(a) the requirement in paragraph (1) to notify the Comptroller as to whether the partnership is a relevant partnership does not apply, in relation to a year of assessment, to the responsible partner of a partnership that is a relevant MNE group entity for the whole of a year of assessment; and
+(b) a partnership that is a relevant MNE group entity for the whole of a year of assessment is not a relevant partnership for that year.

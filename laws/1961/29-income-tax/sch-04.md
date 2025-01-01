@@ -70,12 +70,12 @@ There shall be left out of account -
 13 Car parking
 There shall be left out of account the provision of any car parking space.
 14 Relocation expenses
-There shall be left out of account the payment of -
-(a) the actual, reasonable expenditure incurred, in relation to an office holder or employee newly recruited or transferred to Jersey from a place outside Jersey, in the office holder’s or employee’s removal to and establishment in Jersey, in respect of -
+In relation to an office holder or employee newly recruited or transferred to Jersey from a place outside Jersey, the following are to be left out of account -
+(a) the payment of the actual, reasonable expenditure incurred in the office holder’s or employee’s removal to and establishment in Jersey in respect of -
 (i) the removal to Jersey of the household furniture and effects, including motor vehicles, of the office holder or employee and members of that person’s family and household,
-(ii) storage, for a period not exceeding 12 months, of the household furniture and effects, including motor vehicles, of the office holder or employee and members of that person’s family and household, and
+(ii) storage, for no more than 12 months, of the household furniture and effects, including motor vehicles, of the office holder or employee and members of that person’s family and household, and
 (iii) travel to Jersey, upon the office holder’s or employee’s recruitment or transfer, by the office holder or employee and by members of that person’s family and household; and
-(b) the first £7,500 of any disturbance allowance in respect of the removal.
+(b) the first £7,500 of any other actual, reasonable expenditure incurred in the office holder’s or employee’s removal to and establishment in Jersey.
 15 Training
 (1) There shall be left out of account the provision of training, where the subject matter of the training is related to the duties or anticipated future duties of the office holder or employee.
 (2) For the purposes of this paragraph, the provision of training includes -

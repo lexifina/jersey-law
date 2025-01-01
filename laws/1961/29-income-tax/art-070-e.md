@@ -3,3 +3,4 @@
 (2) For the purposes of paragraph (1) eligible expenditure is expenditure in the 2024 year of assessment and subsequent years on -
 (a) computer hardware;
 (b) software, including software subscriptions and licences; and
+(c) training that is delivered by an external provider on hardware or software.

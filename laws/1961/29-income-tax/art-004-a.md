@@ -5,7 +5,7 @@
 (1) In this Part, unless the context otherwise requires -
 “building contractor” means, subject to paragraphs (4) and (5), a person carrying on any business in the building or construction industry;
 “earnings” means all salaries, fees, wages, perquisites or profits or gains arising from an office or employment;
-“effective rate” means the rate applicable in a person’s case in accordance with Article 41B(2);
+“effective rate” means the rate applicable in a person’s case in accordance with Article 41B(3);
 “employee” includes -
 (a) a director of a company;
 (b) a person engaged in the management of a company; and

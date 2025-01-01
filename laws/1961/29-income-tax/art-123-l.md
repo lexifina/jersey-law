@@ -23,7 +23,7 @@ A is the amount of profits or gains chargeable to tax under Schedule D.
 (6) If a large corporate retailer has a relevant financial period that is greater or less than 12 months, for the figures of £500,000 and £750,000 wherever they appear in paragraphs (2), (3) and (4), there shall be deemed to be substituted the figure calculated as follows -
 (A/365) x £500,000 or £750,000 as the case requires
 Where A is the number of days in the relevant financial period.
-(7) For the purpose of this Article, where a large corporate retailer is an associated company, paragraph (2), (3) or (4), as appropriate, is applied to the aggregate income, profits and gains of all the associated companies in the same group except that, for the purpose of calculating such income, profits and gains, any loss suffered by any associated company in the group shall be deemed as zero (regardless of whether the loss is surrendered under Article 123EA).
+(7) For the purpose of this Article, where a large corporate retailer is an associated company, paragraph (2), (3) or (4), as appropriate, is applied to the aggregate income, profits and gains of all the associated companies in the same group except that, for the purpose of calculating such income, profits and gains, any loss suffered by any associated company in the group shall be deemed as zero (regardless of whether the loss is surrendered under Article 123F).
 (8) If an associated company has a relevant financial period that is greater or less than 12 months, for the figures of £500,000 and £750,000 wherever they appear in paragraphs (2), (3) and (4), there shall be deemed to be substituted the figure calculated as follows -
 (A/365) x £500,000 or £750,000 as the case requires
 Where A is the number of days -

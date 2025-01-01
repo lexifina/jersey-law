@@ -53,7 +53,7 @@ H is the estimated amount of the employee’s earnings for the remainder of the 
 (1) Articles 41B to Article 41CB apply to an employer in respect of an employee who is an insured person as if -
 (a) references in those provisions to an employee’s effective rate are references to the employee’s combined effective rate;
 (b) references to amounts of tax are references to amounts of tax and LTC contributions.
-(2) For the purpose of Article 41B(3), if an employer has not received a notice under Article 41CC specifying the employee’s combined effective rate, the employee’s combined effective rate is 22%.
+(2) For the purpose of Article 41B, if an employer has not received a notice under Article 41CC specifying the employee’s combined effective rate, the employee’s combined effective rate is 22%.
 PART 2
 41E Duty of building contractor to deduct and account for tax [and LTC contributions]
 (1) A building contractor shall, in accordance with this Article, deduct tax [and an LTC contribution] at the specified rate from payments made to a sub-contractor or to a person nominated by the sub-contractor for the purpose.

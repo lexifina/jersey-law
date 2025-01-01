@@ -1,11 +1,9 @@
 # 129B Relief for non-residents
 (1) In this Article -
 (a) “Jersey income” means income which is chargeable to tax on a non-resident under Schedule A or Schedule D and which arises from an activity taking place in Jersey, or which is derived from a scheme or arrangement which is subject to approval by the Comptroller under this Law;
-(b) “non-Jersey income” in relation to a non-resident means income (however derived and regardless of the jurisdiction in which it is derived) which is not Jersey income, including -
-(i) income which is exempt from income tax under this Law, and
-(ii) income of a spouse or civil partner which would be treated under this Law as the non-resident’s income if the non-resident were resident in Jersey;
+(b) “non-Jersey income”, in relation to a non-resident, means income (however derived and regardless of the jurisdiction in which it is derived) which is not Jersey income, including income that is exempt from income tax under this Law;
 (c) “qualifying Schedule D income” means income, profits or gains arising or accruing that are charged to tax under Case I or Case II(a) or (b) of Schedule D excluding income, profits or gains which are exempt from income tax under this Law;
-(d) “relevant threshold exemption” means the amount specified in whichever of the circumstances described in Article 92A(2), (2A), (4), (4A) or (6) applies to the non-resident with the modification that Article 92A(2)(i), (2A)(i) and (6)(a) are disregarded.
+(d) “relevant threshold exemption”, for an individual, means the low income threshold as defined in Article 92A(2).
 (2) A non-resident is entitled to allowances and reliefs under Part 12, subject to the provisions of this Part, for a year of assessment only if the non-resident has qualifying Schedule D income for that year of assessment.
 (3) A non-resident who does not have qualifying Schedule D income for a year of assessment is charged to income tax on Jersey income at 0% for that year of assessment if the aggregate of the amount of the non-resident’s Jersey income and non-Jersey income for that year of assessment is less than the amount of the relevant threshold exemption.
 (4) A non-resident who does not have qualifying Schedule D income for a year of assessment and who is not charged to income tax on Jersey income at 0% under paragraph (3) is entitled to the relief described in paragraph (7) or (8).

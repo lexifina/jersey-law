@@ -1,41 +1,37 @@
-# 92B Increase in exemption threshold for child day care
-(1) The threshold applicable in the case of an eligible claimant shall be increased by -
-(a) the amount paid by the claimant -
-(i) to a registered day carer or nanny accredited by the Jersey Child Care Trust for the care of a qualifying child, or
-(ii) under Regulations made under Article 9 of the Education (Jersey) Law 1999 for the attendance of a qualifying child below compulsory school age in a nursery school or nursery class maintained by the Minister for Education and Lifelong Learning under that Law;
-(b) in the case of a claimant who is an eligible claimant by virtue of sub-paragraph (a) of the definition “eligible claimant” in paragraph (5), whichever is the lower of -
-(i) the claimant’s qualifying income, and
-(ii) the qualifying income of the claimant’s spouse or civil partner;
-(ba) in the case of a claimant who is an eligible claimant by virtue of sub-paragraph (c) of the definition “eligible claimant” in paragraph (5), the claimant’s qualifying income;
-(c) in the case of a qualifying child whose date of birth is between 1st January and 31st August inclusive and who, in a year of assessment has not attained the age of 4 years, £19,700;
-(d) in the case of a qualifying child whose date of birth is between 1st September and 31st December inclusive and who, in a year of assessment -
-(A) has not attained the age of 4 years, or
-(B) has his or her 4th birthday,
-£19,700; or
-(e) in the case of any other qualifying child, £7,600,
-whichever is the lowest, but no amount which qualifies for relief under any other provision of this Law shall be included.
-(2) Where, for any year of assessment, 2 or more individuals are entitled to an increase under paragraph (1) in respect of the qualifying child, the amount of the increase shall be apportioned between them as they agree or, in default of agreement, by the Comptroller to the best of his or her judgment, in accordance with evidence supplied to the Comptroller by each claimant.
-(2A) An amount apportioned to an individual under paragraph (2) must not exceed the amount that the individual paid for child care for the qualifying child for the year of assessment.
-(3) The Comptroller may require an eligible claimant to provide the Comptroller with a certificate from, as the case requires, the registered day carer, nanny, nursery school or primary school in which the nursery class is held showing, in respect of the year of assessment -
-(a) the name and address of the registered day carer, nanny, nursery school or primary school;
-(b) in the case of a registered day carer, his or her registration number;
-(c) in the case of a nanny, his or her reference number from the Jersey Child Care Trust;
-(d) the full name and date of birth of the qualifying child; and
-(e) the amount received for the care of the child.
-(4) For the purposes of Article 137, a certificate provided under paragraph (3) shall be treated as a statement made in connection with a claim for relief.
-(5) In this Article -
-“eligible claimant” means -
-(a) an individual -
-(i) in whose case the exemption threshold described in Article 92A(2) or (2A) applies,
-(ii) who has qualifying income, and
-(iii) whose spouse or civil partner has qualifying income;
-(b) an individual -
-(i) in whose case the exemption threshold described in Article 92A(2) or (2A) applies, and
-(ii) who is entitled to an additional allowance under Article 98A; or
-(c) an individual in whose case the exemption threshold described in Article 92A(6) applies and who has qualifying income;
-“qualifying child” means a child in respect of whom an eligible claimant is entitled to an exemption threshold increase under Article 95 and who has not attained the age of 13 years in the year of assessment;
-“qualifying income” means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I, II or IIA of Schedule D or under Schedule A pursuant to Article 51(1)(b) or (c), excluding -
-(a) for the purposes of sub-paragraph (a) of the definition “eligible claimant”, the first £7,950 of such income for the year of assessment;
-(b) in the case of an individual who is an eligible claimant by virtue of sub-paragraph (c) of the definition “eligible claimant”, the first £5,550 of such income for the year of assessment; and
-(c) in the case of an individual who is married or in a civil partnership, earned income received or receivable by the individual from his or her spouse or civil partner;
-“registered day carer” means a day carer registered under the Day Care of Children (Jersey) Law 2002 or a person taken to have been so registered by virtue of Article 13 of that Law.
+# 92B Increase in exemption threshold for certain child care payments
+(1) An individual who is entitled to an increase in the exemption threshold under Article 95 for a year of assessment in respect of a child aged under 13 (a “qualifying child”) is entitled to a further increase in the exemption threshold in respect of the qualifying child if, for the year of assessment -
+(a) the individual has qualifying income;
+(b) the individual has made a qualifying child care payment for the child’s care.
+(2) The amount of the increase that the individual is entitled to in respect of each qualifying child is the lesser of -
+(a) the amount that the individual paid in the year of assessment in qualifying child care payments for the child’s care; and
+(b) the maximum increase that applies to the child.
+(3) The total amount of increase that an individual is entitled to for a year of assessment is the lesser of -
+(a) the sum of the amounts to which the individual is entitled under paragraph (2); and
+(b) the individual’s qualifying income for the year of assessment.
+(4) If, for a year of assessment, 2 or more individuals are entitled to an increase in the exemption threshold under this Article in respect of the same child, the increase must be apportioned between them -
+(a) in proportions agreed between the individuals; or
+(b) if there is no agreement, in proportions determined by the Comptroller, to be determined to the best of the Comptroller’s judgement and in accordance with any evidence provided to the Comptroller by the individuals.
+(5) An amount apportioned to an individual under paragraph (4) must not exceed the amount the individual paid in qualifying child care payments for the qualifying child for the year of assessment.
+(6) The Comptroller may require an individual to provide the Comptroller with a certificate from the person to whom the individual makes a qualifying child care payment.
+(7) The certificate -
+(a) must state -
+(i) the name and address of the person,
+(ii) if the person is a registered day carer, the person’s registration number,
+(iii) if the person is a nanny, the person’s reference number from the Jersey Child Care Trust,
+(iv) the full name and date of birth of the qualifying child, and
+(v) the amount received in the year of assessment for care of the qualifying child; and
+(b) for the purposes of Article 137, is a statement made by the individual in connection with a claim for relief.
+(8) In this Article -
+“maximum increase”, in relation to a qualifying child, means -
+(a) for a qualifying child whose date of birth is between 1st January and 31st August inclusive and who in the year of assessment has not attained the age of 4 years, £20,400;
+(b) for a qualifying child whose date of birth is between 1st September and 31st December inclusive and who is aged 4 or under on 31st December of the year of assessment, £20,400; or
+(c) for any other child, £7,850;
+“qualifying child care payment” means a payment made -
+(a) for the care of a qualifying child to a registered day carer or to a nanny accredited by the Jersey Child Care Trust; or
+(b) if the qualifying child is below compulsory school age, for the attendance of the child in a nursery school or nursery class under Regulations made under Article 9 of the Education (Jersey) Law 1999;
+“qualifying income” -
+(a) means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I, II or IIA of Schedule D or under Schedule A by virtue of Article 51(1)(b) or (c) (which apply to income from commercial dealings in Jersey land or from exploitation of Jersey land); but
+(b) does not include -
+(i) income received or receivable by an individual from the individual’s spouse or civil partner, or
+(ii) the first £5,750 of the individual’s income under sub-paragraph (a);
+“registered day carer” means a day carer registered under the Day Care of Children (Jersey) Law 2002 (including day carers treated as registered by virtue of Article 13 of that Law).

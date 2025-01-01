@@ -1,6 +1,0 @@
-# 122A Election of civil partner as civil partner A or civil partner B for treatment of tax
-(1) Subject to paragraph (2), immediately upon the formation of a civil partnership the older partner of the civil partnership shall be regarded as ‘civil partner A’ and the younger shall be regarded as ‘civil partner B’ for all purposes under this Law.
-(2) No later than 2 years from the date of formation of the civil partnership the civil partners may make a joint written election to the Comptroller for the younger civil partner to be regarded as civil partner A and for the older civil partner to be regarded as civil partner B.
-(3) An election made under paragraph (2) is irrevocable and shall have effect as if it had been made on the formation of the civil partnership.
-(4) Where an election is made under paragraph (2) the Comptroller shall regard the younger civil partner as civil partner A for all purposes under this Law.
-(5) Where an election is made under paragraph (2) the Comptroller shall assess (or re-assess, where a previous assessment has been made) the tax liability of both civil partners in respect of every year from the year of the formation of the civil partnership to the year of the election made under paragraph (2).

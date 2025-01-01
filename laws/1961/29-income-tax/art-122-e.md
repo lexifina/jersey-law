@@ -1,9 +1,0 @@
-# 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as to certain civil partners geographically separated
-(1) A civil partner B shall be treated for all the purposes of this Law as living with his or her civil partner A unless either -
-(a) they are separated under an order of a court of competent jurisdiction or by agreement of separation; or
-(b) they are in fact separated in such circumstances that the separation is likely to be permanent.
-(2) Where a civil partner B is living with civil partner A and either -
-(a) one of them is, and one of them is not, resident in Jersey for a year of assessment; or
-(b) both of them are resident in Jersey but one of them is, and one of them is not, absent from Jersey throughout that year,
-the same consequences shall follow for all the purposes of this Law as would have followed if, throughout that year of assessment, they had been in fact separated in such circumstances that the separation was likely to be permanent:
-Provided that, where this paragraph applies and the net aggregate amount of income tax falling to be borne by the civil partner A and the civil partner B for the year is greater than it would have been but for the provisions of this paragraph, the Comptroller shall give such relief as will reduce the said net aggregate amount by the amount of the excess.

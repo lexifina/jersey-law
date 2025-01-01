@@ -12,5 +12,5 @@
 (b) Article 131B(3)(f); and
 (c) Article 131CA(4)(g),
 as they were in force before the commencement of the Income Tax (Amendment No. 44) (Jersey) Law 2014.
-(3) An approved Jersey Scheme may permit the pension holder to elect to commute the whole of the fund value if, at the time the election is made, the fund value does not exceed £15,000.
+(3) An approved Jersey Scheme may permit the pension holder to elect to commute the whole of the fund value if, at the time the election is made, the fund value does not exceed £10,000.
 (4) But the fund value of an approved Jersey Scheme may only be commuted under paragraph (3) if the pension holder is no longer an employee of the employer contributing to the approved Jersey Scheme.

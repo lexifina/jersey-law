@@ -12,7 +12,7 @@ and, in either case, the spouse or civil partner was, throughout the year of ass
 (b) if 16 years of age or over at the commencement of the year of assessment, was receiving, during that year of assessment, full time instruction at any school or full time “higher education” within the meaning of the Education (Jersey) Law 1999;
 (c) on 31st August in the year of assessment is not 21 years of age or over and married or in a civil partnership; and
 (d) on 31st August in the year of assessment has not been living financially independently of his or her parents for the 3 year period immediately preceding that date.
-(1A) Subject to paragraphs (2) to (5), the individual is entitled to an increase in his or her exemption threshold of £5,550 (which may be additional to any exemption to which the individual is entitled under Article 95).
+(1A) Subject to paragraphs (2) to (5), the individual is entitled to an increase in his or her exemption threshold of £5,750 (which may be additional to any exemption to which the individual is entitled under Article 95).
 (2) Not more than one exemption threshold increase shall be allowed to an individual under this Article for any year.
 (3) Where -
 (a) 2 persons who are not married to each other live together as if they were spouses for the whole or any part of a year of assessment; and

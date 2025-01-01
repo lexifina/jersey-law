@@ -8,4 +8,4 @@
 (a) subject to paragraph (3), deduct income tax at the standard rate; and
 (b) deliver to the Comptroller an account of the payment and the tax deducted from it.
 (3) The Comptroller may direct that income tax is deducted from a payment referred to in paragraph (1) at a rate that is less than the standard rate.
-(4) Paragraph (1)(a) does not affect the generality of sub-paragraph (a) of the definition “earned income” in Article 3(1).
+(4) Paragraph (1)(a) does not affect the generality of sub-paragraph (b) of the definition “earned income” in Article 3(1).

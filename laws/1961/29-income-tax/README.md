@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://www.jerseylaw.je/laws/current/l_29_1961_20241231>
+L.29/1961 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20250220>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,6 +18,8 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Meaning of, and provision as to, financial period and accounting date |
 | Art. 15 | [art-015.md](art-015.md) | 15 Comptroller to ascertain income liable to tax |
 | Art. 16 | [art-016.md](art-016.md) | 16 Delivery of returns in pursuance of notices |
+| Art. 16AA | [art-016-aa.md](art-016-aa.md) | 16AA Joint returns for spouses and civil partners |
+| Art. 16AB | [art-016-ab.md](art-016-ab.md) | 16AB Valid elections: making and revoking |
 | Art. 16A | [art-016-a.md](art-016-a.md) | 16A Furnishing of documents and other information in pursuance of notices |
 | Art. 17 | [art-017.md](art-017.md) | 17 Delivery of returns by persons acting for others |
 | Art. 17A | [art-017-a.md](art-017-a.md) | 17A Penalty for late delivery of return |
@@ -58,7 +60,11 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 41A | [art-041-a.md](art-041-a.md) | 41A Duty to pay instalments (taxpayers other than companies) |
 | Art. 41AA | [art-041-aa.md](art-041-aa.md) | 41AA Applications to waive or reduce amount of instalment |
 | Art. 41AB | [art-041-ab.md](art-041-ab.md) | 41AB Duty to pay instalment (companies) |
-| Art. 41B | [art-041-b.md](art-041-b.md) | 41B Duty of employer to deduct and account for tax |
+| Art. 41B | [art-041-b.md](art-041-b.md) | 41B Duty of employer to deduct tax |
+| Art. 41BA | [art-041-ba.md](art-041-ba.md) | 41BA Duty of employer to pay deductions to Comptroller |
+| Art. 41BB | [art-041-bb.md](art-041-bb.md) | 41BB Comptroller may estimate amount employer must pay |
+| Art. 41BC | [art-041-bc.md](art-041-bc.md) | 41BC Duty of employer to keep records of deductions |
+| Art. 41BD | [art-041-bd.md](art-041-bd.md) | 41BD Failure by employer to deduct tax or pay deductions to Comptroller |
 | Art. 41C | [art-041-c.md](art-041-c.md) | 41C Calculation of rate |
 | Art. 41CA | [art-041-ca.md](art-041-ca.md) | 41CA Revised rates: initiated by Comptroller |
 | Art. 41CB | [art-041-cb.md](art-041-cb.md) | 41CB Revised rates: initiated by employee |
@@ -66,8 +72,6 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 41CD | [art-041-cd.md](art-041-cd.md) | 41CD Appeals against rates decisions |
 | Art. 41CE | [art-041-ce.md](art-041-ce.md) | 41CE False and altered rate notices |
 | Art. 41CF | [art-041-cf.md](art-041-cf.md) | 41CF Rates do not prevent recovery of arrears |
-| Art. 41D | [art-041-d.md](art-041-d.md) | 41D Deductions in respect of spouses |
-| Art. 41DA | [art-041-da.md](art-041-da.md) | 41DA Deductions in respect of civil partners |
 | Art. 41E | [art-041-e.md](art-041-e.md) | 41E Duty of building contractor to deduct and account for tax |
 | Art. 41F | [art-041-f.md](art-041-f.md) | 41F Exemption certificate |
 | Art. 41G | [art-041-g.md](art-041-g.md) | 41G Treatment of amounts received by Comptroller |
@@ -88,7 +92,7 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 51 | [art-051.md](art-051.md) | 51 Schedule A |
 | Art. 51A | [art-051-a.md](art-051-a.md) | 51A Basis of computation under Schedule A |
 | Art. 52 | [art-052.md](art-052.md) | 52 Deductions under Schedule A in respect of rents, etc. |
-| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Allowable deduction under Schedule A for energy-saving items |
+| Art. 52B | [art-052-b.md](art-052-b.md) | 52B Deductions for accounting fees |
 | Art. 53 | [art-053.md](art-053.md) | 53 Relief for rent not paid |
 | Art. 54 | [art-054.md](art-054.md) | 54 Treatment of premiums and other payments as rents |
 | Art. 54A | [art-054-a.md](art-054-a.md) | 54A Deductions under Schedule A in respect of property development or quarrying, etc. |
@@ -119,6 +123,7 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 70C | [art-070-c.md](art-070-c.md) | 70C Deductions on account of foreign tax paid |
 | Art. 70D | [art-070-d.md](art-070-d.md) | 70D Employer’s contributions into group life insurance scheme |
 | Art. 70E | [art-070-e.md](art-070-e.md) | 70E Deductions for expenditure on regulatory compliance activity |
+| Art. 70F | [art-070-f.md](art-070-f.md) | 70F Deductions for accounting fees |
 | Art. 74 | [art-074.md](art-074.md) | 74 General partnerships |
 | Art. 75 | [art-075.md](art-075.md) | 75 Changes of proprietor |
 | Art. 75A | [art-075-a.md](art-075-a.md) | 75A Change of partner |
@@ -183,12 +188,14 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 90A | [art-090-a.md](art-090-a.md) | 90A Maintenance payments |
 | Art. 90B | [art-090-b.md](art-090-b.md) | 90B Marginal income deduction in respect of qualifying maintenance payments |
 | Art. 90C | [art-090-c.md](art-090-c.md) | 90C Marginal income deduction in respect of maintenance payments under existing obligations |
-| Art. 92A | [art-092-a.md](art-092-a.md) | 92A Threshold for exemption from income tax |
-| Art. 92B | [art-092-b.md](art-092-b.md) | 92B Increase in exemption threshold for child day care |
+| Art. 92A | [art-092-a.md](art-092-a.md) | 92A Exemption from income tax for individuals whose income is not over the exemption threshold |
+| Art. 92AA | [art-092-aa.md](art-092-aa.md) | 92AA Taxation of individuals whose income is over the exemption threshold |
+| Art. 92B | [art-092-b.md](art-092-b.md) | 92B Increase in exemption threshold for certain child care payments |
 | Art. 92C | [art-092-c.md](art-092-c.md) | 92C Marginal rate of tax |
 | Art. 93 | [art-093.md](art-093.md) | 93 Deductions from assessable income |
 | Art. 95 | [art-095.md](art-095.md) | 95 Children |
 | Art. 98A | [art-098-a.md](art-098-a.md) | 98A Additional allowance in respect of children |
+| Art. 99 | [art-099.md](art-099.md) | 99 Increase in exemption threshold for certain spouses and civil partners |
 | Art. 104 | [art-104.md](art-104.md) | 104 No relief in respect of charges on income |
 | Art. 105 | [art-105.md](art-105.md) | 105 Partners |
 | Art. 106A | [art-106-a.md](art-106-a.md) | 106A Allowances and balancing adjustments |
@@ -223,27 +230,9 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 119A | [art-119-a.md](art-119-a.md) | 119A Exemption of consuls and other official agents |
 | Art. 120 | [art-120.md](art-120.md) | 120 Exemption of consular officers and employees |
 | Art. 120AA | [art-120-aa.md](art-120-aa.md) | 120AA Exemption in respect of rent-a-room arrangements |
-| Art. 120A | [art-120-a.md](art-120-a.md) | 120A Application of this Part |
-| Art. 121 | [art-121.md](art-121.md) | 121 General rule as to income tax on married persons |
-| Art. 121A | [art-121-a.md](art-121-a.md) | 121A Election by spouse for separate assessment |
-| Art. 121B | [art-121-b.md](art-121-b.md) | 121B Effect of election for separate assessment |
-| Art. 121C | [art-121-c.md](art-121-c.md) | 121C Election by spouses for independent taxation from 2022 |
-| Art. 121D | [art-121-d.md](art-121-d.md) | 121D Election by spouses for independent taxation from 2023 |
-| Art. 121E | [art-121-e.md](art-121-e.md) | 121E Election by spouses for independent taxation from 2024 |
-| Art. 121F | [art-121-f.md](art-121-f.md) | 121F Election by spouses for independent taxation |
-| Art. 122 | [art-122.md](art-122.md) | 122 Construction of references to a spouse B living with his or her spouse A, and special provisions as to certain spous |
-| Art. 122AA | [art-122-aa.md](art-122-aa.md) | 122AA Access of spouse B to tax information |
-| Art. 122AB | [art-122-ab.md](art-122-ab.md) | 122AB Application of this Part |
-| Art. 122A | [art-122-a.md](art-122-a.md) | 122A Election of civil partner as civil partner A or civil partner B for treatment of tax |
-| Art. 122B | [art-122-b.md](art-122-b.md) | 122B General rule as to income tax on civil partners |
-| Art. 122C | [art-122-c.md](art-122-c.md) | 122C Election by civil partner A or civil partner B for separate assessment |
-| Art. 122D | [art-122-d.md](art-122-d.md) | 122D Effect of election for separate assessment |
-| Art. 122DA | [art-122-da.md](art-122-da.md) | 122DA Election by civil partners for independent taxation from 2022 |
-| Art. 122DB | [art-122-db.md](art-122-db.md) | 122DB Election by civil partners for independent taxation from 2023 |
-| Art. 122DC | [art-122-dc.md](art-122-dc.md) | 122DC Election by civil partners for independent taxation from 2024 |
-| Art. 122DD | [art-122-dd.md](art-122-dd.md) | 122DD Election by civil partners for independent taxation |
-| Art. 122E | [art-122-e.md](art-122-e.md) | 122E Construction of references to a civil partner B living with his or her civil partner A, and special provisions as t |
-| Art. 122F | [art-122-f.md](art-122-f.md) | 122F Access of civil partner B to tax information |
+| Art. 120AB | [art-120-ab.md](art-120-ab.md) | 120AB Relevant MNE group entities |
+| Art. 120AC | [art-120-ac.md](art-120-ac.md) | 120AC Article 120AB cases: disapplication of certain requirements to provide returns etc. |
+| Art. 120AD | [art-120-ad.md](art-120-ad.md) | 120AD Article 120AB cases: carry forward of losses in subsequent years |
 | Art. 123 | [art-123.md](art-123.md) | 123 Bodies Corporate |
 | Art. 123AA | [art-123-aa.md](art-123-aa.md) | 123AA Duty of body corporate to notify Comptroller of certain matters |
 | Art. 123C | [art-123-c.md](art-123-c.md) | 123C Tax rate for companies |
@@ -252,8 +241,7 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 123D | [art-123-d.md](art-123-d.md) | 123D Financial services companies |
 | Art. 123DA | [art-123-da.md](art-123-da.md) | 123DA Companies in the cannabis industry |
 | Art. 123E | [art-123-e.md](art-123-e.md) | 123E Apportionment on change of status during year |
-| Art. 123EA | [art-123-ea.md](art-123-ea.md) | 123EA Group relief for non-financial services companies |
-| Art. 123F | [art-123-f.md](art-123-f.md) | 123F Group relief for financial services companies |
+| Art. 123F | [art-123-f.md](art-123-f.md) | 123F Group relief for companies |
 | Art. 123G | [art-123-g.md](art-123-g.md) | 123G Exception for pension scheme manager, etc. |
 | Art. 123H | [art-123-h.md](art-123-h.md) | 123H Interpretation of Part 17 1A |
 | Art. 123I | [art-123-i.md](art-123-i.md) | 123I Meaning of “large corporate retailer” and application of Article 123C |
@@ -267,7 +255,7 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 123P | [art-123-p.md](art-123-p.md) | 123P Application of Articles 107, 107A (relief for losses) |
 | Art. 123Q | [art-123-q.md](art-123-q.md) | 123Q Application of Part 14A (foreign company income relief) |
 | Art. 123R | [art-123-r.md](art-123-r.md) | 123R Application of Article 118B (non-resident exemption) |
-| Art. 123S | [art-123-s.md](art-123-s.md) | 123S Application of Article 123EA (group relief) |
+| Art. 123S | [art-123-s.md](art-123-s.md) | 123S Application of Article 123F (group relief for companies) |
 | Art. 124 | [art-124.md](art-124.md) | 124 Individuals under disability |
 | Art. 125 | [art-125.md](art-125.md) | 125 Personal representatives of a deceased person |
 | Art. 126 | [art-126.md](art-126.md) | 126 Individuals temporarily abroad |
@@ -339,6 +327,7 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Art. 144 | [art-144.md](art-144.md) | 144 Power to make Orders |
 | Art. 145 | [art-145.md](art-145.md) | 145 Delivery and service of notices and forms |
 | Art. 149A | [art-149-a.md](art-149-a.md) | 149A Savings and transitional provisions: general |
+| Art. 149B | [art-149-b.md](art-149-b.md) | 149B Savings and transitional provisions: taxation of certain married people and civil partners in 2025 |
 | Art. 150 | [art-150.md](art-150.md) | 150 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule A1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 1 |
@@ -348,3 +337,4 @@ L.29/1961 · official consolidation showing the law from 2024-11-22 · <https://
 | Schedule 6 | [sch-06.md](sch-06.md) | Schedule 3A |
 | Schedule 7 | [sch-07.md](sch-07.md) | Schedule 5 |
 | Schedule 8 | [sch-08.md](sch-08.md) | Schedule 6 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 7 |
