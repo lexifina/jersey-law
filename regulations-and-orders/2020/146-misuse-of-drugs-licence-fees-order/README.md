@@ -1,6 +1,6 @@
 # Misuse of Drugs (Licence Fees) (Jersey) Order 2020
 
-R&O.146/2020 · official consolidation showing the law from 2020-11-26 · <https://www.jerseylaw.je/laws/current/ro_146_2020_20241231>
+R&O.146/2020 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_146_2020_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
