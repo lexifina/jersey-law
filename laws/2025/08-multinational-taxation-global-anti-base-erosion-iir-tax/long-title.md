@@ -1,0 +1,1 @@
+A LAW to implement the model rules published by the Organisation for Economic Co-operation and Development as “Tax Challenges Arising from the Digitalisation of the Economy - Global Anti-Base Erosion Model Rules (Pillar Two): Inclusive Framework on BEPS”.
