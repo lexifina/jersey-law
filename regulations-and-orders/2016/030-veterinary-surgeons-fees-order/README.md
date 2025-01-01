@@ -1,6 +1,6 @@
 # Veterinary Surgeons (Fees) (Jersey) Order 2016
 
-R&O.30/2016 · official consolidation showing the law from 2024-03-01 · <https://www.jerseylaw.je/laws/current/ro_30_2016_20241231>
+R&O.30/2016 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_30_2016_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
