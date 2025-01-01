@@ -1,6 +1,6 @@
 # Food Safety (Ice-Cream Stalls etc.) (Jersey) Order 1969
 
-R&O.5255 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_5255_20241231>
+R&O.5255 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_5255_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
