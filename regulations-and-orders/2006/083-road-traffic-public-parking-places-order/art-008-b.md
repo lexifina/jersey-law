@@ -18,14 +18,6 @@ Highlands
 St. Saviour
 JE4 8QJ
 3
-On behalf of the Minister for Sustainable Economic Development
-Finance Department
-Department for Economic Development, Tourism, Sport and Culture
-Springfield Stadium
-Janvrin Road
-St. Helier
-JE2 4LF
-4
 Any other case
 Parking Control Office
 Sand Street Car Park
