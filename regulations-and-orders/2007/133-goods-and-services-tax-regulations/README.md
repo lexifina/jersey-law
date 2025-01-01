@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Regulations 2007
 
-R&O.133/2007 · official consolidation showing the law from 2022-03-04 · <https://www.jerseylaw.je/laws/current/ro_133_2007_20241231>
+R&O.133/2007 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_133_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ R&O.133/2007 · official consolidation showing the law from 2022-03-04 · <https
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Interpretation |
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Application of Part |
 | Reg. 24 | [reg-024.md](reg-024.md) | 24 Various transactions treated in different ways: Article 21 of Law |
-| Reg. 25 | [reg-025.md](reg-025.md) | 25 Margin scheme for second-hand motor vehicles: Article 52 of Law |
+| Reg. 25 | [reg-025.md](reg-025.md) | 25 Margin scheme for second-hand motor vehicles and cycles: Article 52 of Law |
 | Reg. 26 | [reg-026.md](reg-026.md) | 26 Calculation of terms for determining profit margin: generally |
 | Reg. 27 | [reg-027.md](reg-027.md) | 27 Calculation of terms for determining profit margin: auctions |
 | Reg. 28 | [reg-028.md](reg-028.md) | 28 Relief for charities on their expenses: Article 56 of Law |
