@@ -139,3 +139,6 @@ Beach Road
 East side (between a point 24 yards south of its junction with Le Dicq Road and a point 6 yards further south)
 Princes Tower Road
 North side (between a point 16 yards east of the eastern boundary of the electricity substation and a point 11 yards further east)
+Parking places - 30 minute limit
+La Chasse Brunet
+East side (between a point 64 yards south of the junction with La Rue de Patier and a point 6 yards further south)
