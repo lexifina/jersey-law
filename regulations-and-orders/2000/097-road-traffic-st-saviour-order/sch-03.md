@@ -14,6 +14,7 @@ Both sides (between Bagatelle Road to Wellington Road)
 Bagatelle Road
 Both sides (between the Five Oaks junction and the junction with Patier Road)
 Both sides (between the parish boundary and the junction with Bagatelle Lane)
+North side (from the junction with La Rue de Patier for a distance of 30 yards in a southerly direction)
 Bagot Road
 Both sides (between the junction with Aubin Lane and the junction with Plat Douet Road)
 South side (from its junction with the private road known as Norcott Road for a distance of 10 yards in a northerly direction and 10 yards in a southerly direction)
@@ -92,6 +93,8 @@ La Rue de Patier
 North side (between the junction with La Chasse Brunette and the junction with Sunshine Avenue)
 Both sides (between its junction with La Chasse Brunet to its junction with Le Jardin à Pommiers)
 Both sides (from a point 10 yards west of its junction with Le Jardin à Pommiers for a distance of 63 yards in a westerly direction)
+La Rue du Trot
+East side (from a point 10 yards north of the junction with La Rue de Sergent to a point 68 yards south of that junction)
 La Rue Le Masurier
 Both sides
 La Rue St. Thomas
@@ -149,6 +152,10 @@ Victoria Road
 South side (between the junction with Dicq Road and a point opposite the junction with Albert Road)
 Wellington Road
 Both sides (between the junction with St. Saviour’s Road and the junction with Bagatelle Lane)
+South side (from its junction with Bagatelle Lane for a distance of 54.5 yards in an easterly direction)
+South side (from a point 65.5 yards east of the junction with Bagatelle Lane for a distance of 23 yards in an easterly direction)
+South side (from a point 98.5 yards east of the junction with Bagatelle Lane for a distance of 85 yards in an easterly direction)
+South side (from a point 193.5 yards east of the junction with Bagatelle Lane in an easterly direction to La Rue du Froid Vent)
 Westley Court Car Park (Access Road)
 Both sides from La Rue Le Masurier for a distance of 40 yards
 PART 2

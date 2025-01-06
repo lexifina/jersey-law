@@ -1,44 +1,12 @@
-# Schedule 4
-(Article 7)
-PART 1
-(Article 7(1))
-Roads not to be used by chars-à-banc
+# Schedule 3B
+(Article 6B)
+road closed to traffic when school open to children
 Column 1
 Column 2
+Column 3
 Road
-Direction
-Bagatelle Lane
-Throughout its length
-Elizabeth Street
-Between its junction with La Route du Fort and Dicq Road
-Grands Vaux
-Between Rue à la Dame and Moulin de Pol
-La Rue du Tapon
-Throughout its length
-Les Varines
-Throughout its length
-Mary Street
-Throughout its length
-Mont de la Rosière
-Throughout its length
-Rue de la Chouquetterie
-Between Princes Tower Road and Rue du Côtil
-PART 2
-(Article 7(5))
-Roads not to be used by vehicles exceeding 6 feet 6 inches in width
-Column 1
-Column 2
-Road
-Direction
-Brickfield Lane
-Throughout its length
-Claremont Road
-Between Bagatelle Road and the parish boundary
-La Rue à la Dame
-From its junction with Bel Air Lane to its junction with Les Grands Vaux
-Le Geyt Road
-Throughout its length
-Les Ruettes
-Throughout its length
-Les Varines
-Throughout its length
+Times during which road closed
+Restrictions
+Elizabeth Street from its junction with La Route du Fort to its junction with Dicq Road
+Between 7.45 a.m. and 9.15 a.m. and between 2.00 p.m. and 3.30 p.m. on any day when St. Luke’s School is open to children
+A person who drives a vehicle on the road by virtue of Article 6B(1)(a) or (b)(i) must only enter and exit the road from its junction with Dicq Road
