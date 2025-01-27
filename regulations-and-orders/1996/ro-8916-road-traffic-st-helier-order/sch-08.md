@@ -59,7 +59,8 @@ Paying parking places - 1 hour limit
 Albert Place
 West side (between a point 12 yards north of La Route du Port Elizabeth and a point 28 yards further north)
 Ann Place
-North side
+North side (between a point 9 yards east of its junction with Providence Street and a point 18 yards further east)
+North side (between a point 33 yards east of its junction with Providence Street and a point 38 yards further east)
 Ann Street
 East side (between a point 82 yards north of Charles Street and a point 12 yards south of the southern boundary of Fern Place)
 West side (between a point 16 yards north of Charles Street and a point 51 yards further north)

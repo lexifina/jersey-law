@@ -17,12 +17,15 @@ South side (between Clearview Street and a point 7 yards east of the eastern bou
 Anley Street
 Both sides
 Ann Place
+North side (between its junction with Providence Street and a point 9 yards east)
+North side (between a point 27 yards east of its junction with Providence Street and a point 6 yards further east)
+North side (between a point 71 yards east of its junction with Providence Street and its junction with Ann Street)
 South side
 Ann Street
 Both sides (between La Motte Street and Charles Street)
-East side (between Charles Street and a point 82 yards north)
-East side (between Belmont Road and a point 12 yards south of the southern boundary of Fern Place)
-West side (between Belmont Road and a point 67 yards north of Charles Street)
+East side (between Belmont Road and Brooklyn Street)
+West side (between its junction with Belmont Road and a point 26 yards north of its junction with Charles Street)
+West side (between its junction with Charles Street and a point 16 yards north)
 Apsley Road
 East side
 West side (between Gas Place and a point 5 yards south of the southern boundary of No. 13)

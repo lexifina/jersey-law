@@ -7,9 +7,9 @@ Location
 Waiting period
 Times of restriction
 Ann Street
-East side (between a point 15 yards south of Charles Street and a point 9 yards further south)
+West side (between a point 16 yards north of Charles Street to a point 10 yards further north)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+At all times
 Aquila Road
 East side (between Devonshire Lane and a point 24 yards north)
 20 minutes
