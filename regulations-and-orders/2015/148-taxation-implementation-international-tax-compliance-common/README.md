@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (Common Reporting Standard) (Jersey) Regulations 2015
 
-R&O.148/2015 · official consolidation showing the law from 2024-07-24 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20250130>
+R&O.148/2015 · official consolidation showing the law from 2025-01-31 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ R&O.148/2015 · official consolidation showing the law from 2024-07-24 · <https
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Power to enter business premises and examine business documents |
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Obstructing an authorized person |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

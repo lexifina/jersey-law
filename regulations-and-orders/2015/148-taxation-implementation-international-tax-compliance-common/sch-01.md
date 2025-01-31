@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 1(4))
 Words and expressions defined in the CRS
 Word or Expression

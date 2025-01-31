@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 2(1)(a) and (2)(a))
 Participating jurisdictions
 Argentina

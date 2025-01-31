@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 2(1)(b) and (2)(b))
 Participating jurisdictions
 Andorra
