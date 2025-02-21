@@ -25,7 +25,7 @@ PART 1A - rates of old age pension
 1 Interpretation of Part 1A
 (1) For the purposes of this Part of this Schedule -
 “standard rate” shall be construed in accordance with paragraph 2;
-“RPI (Pensioners)” means the Jersey Retail Prices Index (Pensioners) produced by the States of Jersey Statistics Unit.
+“RPI (Pensioners)” means the Jersey Retail Prices Index (Pensioners) produced by the Office of the Chief Statistician constituted under Article 5(1) of the Statistics and Census (Jersey) Law 2018.
 (2) For the purposes of this Part of this Schedule -
 (a) a reference to the RPI (Pensioners) for a year or to the Jersey Index of Earnings for a year is a reference to that index after the percentage increase or decrease in the index for the year has been applied; and
 (b) the percentage increase or decrease in the RPI (Pensioners) or the Jersey Index of Earnings for a year is the percentage increase or decrease in that index during the 12 months commencing July of the preceding year.
