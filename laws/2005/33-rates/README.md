@@ -1,6 +1,6 @@
 # Rates (Jersey) Law 2005
 
-L.33/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_33_2005_20250220>
+L.33/2005 · official consolidation showing the law from 2025-02-21 · <https://www.jerseylaw.je/laws/current/l_33_2005_20250617>
 
 | Provision | File | Heading |
 | --- | --- | --- |
