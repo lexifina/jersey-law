@@ -60,7 +60,7 @@ shall apply (subject to paragraph (11)) to the person for the year of assessment
 (a) no later than 1st January 2023; and
 (b) thereafter, once in each subsequent period of 5 years beginning with that date,
 consider whether the prescribed limits and rates continue to be appropriate in all the circumstances for the purposes of this Part.
-(12B) Following the consideration described in paragraph (12A), the Minister may recommend to the States such revaluation of the prescribed limits as the Minister may consider appropriate, except that no increase may be recommended which exceeds the percentage increase, if any, in the RPI in the same period as that in respect of which the Minister’s recommendation is made (and for this purpose “RPI” means the Retail Prices Index published by Statistics Jersey (within the meaning assigned by Article 2 of the Statistics and Census (Jersey) Law 2018)).
+(12B) Following the consideration described in paragraph (12A), the Minister may recommend to the States such revaluation of the prescribed limits as the Minister may consider appropriate, except that no increase may be recommended which exceeds the percentage increase, if any, in the RPI in the same period as that in respect of which the Minister’s recommendation is made (and for this purpose “RPI” means the Retail Prices Index published by the Office of the Chief Statistician constituted under Article 5(1) of the Statistics and Census (Jersey) Law 2018).
 (13) In this Article -
 “dividend” includes a distribution made by a company;
 “1(1)(k) housing consent” means consent under the Housing (Jersey) Law 1949 for the sale, transfer or lease of any land in the case described in Regulation 1(1)(k) of the Housing (General Provisions) (Jersey) Regulations 1970;
