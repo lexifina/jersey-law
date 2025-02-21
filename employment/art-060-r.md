@@ -1,0 +1,5 @@
+# 60R Right to remuneration for time off under Article 60Q
+(1) An employee who is permitted to take time off under Article 60Q is entitled to paid remuneration by his or her employer for the time taken off at the appropriate hourly rate.
+(2) The appropriate hourly rate, in relation to an employee, is the amount of one week’s pay calculated in accordance with Schedule 1 divided by the number of normal working hours in a week for that employee when employed under the contract of employment in force on the day when the time off is taken.
+(3) A right to any amount under paragraph (1) does not affect any right of an employee in relation to remuneration under his or her contract of employment (“contractual remuneration”).
+(4) Any contractual remuneration paid to an employee in respect of a period of time off under Article 60Q goes towards discharging any liability of the employer to pay remuneration under paragraph (1) in respect of that period, and, conversely, any payment of remuneration under paragraph (1) in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.

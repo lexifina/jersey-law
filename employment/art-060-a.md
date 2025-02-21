@@ -1,0 +1,3 @@
+# 60A The right to redundancy payment
+(1) Subject to the following provisions of this Part, if an employer dismisses any employee by reason of redundancy, the employer shall pay the employee a redundancy payment.
+(2) Remuneration paid to the employee under his or her contract of employment in respect of redundancy shall go towards discharging the employer’s liability under paragraph (1) to make a redundancy payment; and conversely any redundancy payment under that paragraph shall go towards discharging any liability of the employer to pay remuneration to the employee under his or her contract of employment in respect of redundancy.
