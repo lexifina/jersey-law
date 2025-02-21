@@ -1,6 +1,6 @@
 # Revenue Administration (Information Sharing) (Jersey) Order 2024
 
-R&O.2/2024 · official consolidation showing the law from 2025-02-08 · <https://www.jerseylaw.je/laws/current/ro_2_2024_20250220>
+R&O.2/2024 · official consolidation showing the law from 2025-02-21 · <https://www.jerseylaw.je/laws/current/ro_2_2024_20250420>
 
 | Provision | File | Heading |
 | --- | --- | --- |

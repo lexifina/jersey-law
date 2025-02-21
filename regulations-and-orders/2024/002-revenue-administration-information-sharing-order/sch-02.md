@@ -11,5 +11,5 @@ Fiscal Policy Panel
 Enabling or assisting the Fiscal Policy Panel to exercise functions under the Public Finances (Jersey) Law 2019
 Income Forecasting Group established by the Minister for Treasury and Resources for the purposes of giving independent advice on forecasts of income from taxation and social security contributions
 Enabling or assisting the Income Forecasting Group with the preparation of the general estimate of Jersey’s public finances
-Statistics Jersey
-Enabling or assisting Statistics Jersey to exercise functions under the Statistics and Census (Jersey) Law 2018
+Office of the Chief Statistician
+Enabling or assisting the Chief Statistician to exercise functions under Article 3 of the Statistics and Census (Jersey) Law 2018
