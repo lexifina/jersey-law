@@ -55,8 +55,8 @@ where -
 C is calculated according to sub-paragraph (2); and
 T is the aggregate, up to a maximum of 540, of the amount by which the average daily temperature of each day in that month falls below 15.5 degrees Celsius.
 (2) C is -
-(a) for each cold weather month from October 2024 to April 2025 inclusive, £193.37 increased or decreased by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by Statistics Jersey (within the meaning of Article 2 of the Statistics and Census (Jersey) Law 2018) for the 12 months ending on 30th June 2024;
-(b) for each subsequent cold weather month, the figure produced by increasing or decreasing the figure for the previous April by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by Statistics Jersey (within the meaning assigned by Article 2 of the Statistics and Census (Jersey) Law 2018) for the 12 months ending in the previous June.
+(a) for each cold weather month from October 2024 to April 2025 inclusive, £193.37 increased or decreased by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by the Office of the Chief Statistician constituted under Article 5(1) of the Statistics and Census (Jersey) Law 2018 for the 12 months ending on 30th June 2024;
+(b) for each subsequent cold weather month, the figure produced by increasing or decreasing the figure for the previous April by the same percentage as that of the rise or fall in the fuel element of the Jersey Retail Prices Index published by the Office of the Chief Statistician constituted under Article 5(1) of the Statistics and Census (Jersey) Law 2018 for the 12 months ending in the previous June.
 (3) The product of each formula in this paragraph shall be rounded up to the next whole penny.
 (4) Only one cold weather bonus is payable at any time in respect of a dwelling.
 (5) If a dwelling is occupied by 2 or more households entitled to a cold weather bonus, the cold weather bonus is divided equally between all the households entitled to it.
