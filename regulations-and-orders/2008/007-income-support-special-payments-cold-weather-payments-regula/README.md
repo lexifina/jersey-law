@@ -1,6 +1,6 @@
 # Income Support (Special Payments) (Cold Weather Payments) (Jersey) Regulations 2008
 
-R&O.7/2008 · official consolidation showing the law from 2024-10-01 · <https://www.jerseylaw.je/laws/current/ro_7_2008_20250220>
+R&O.7/2008 · official consolidation showing the law from 2025-02-21 · <https://www.jerseylaw.je/laws/current/ro_7_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
