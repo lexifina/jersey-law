@@ -260,6 +260,7 @@ St. Mark’s Road (from Janvrin Road to David Place)
 Stopford Road
 The Parade (from Cannon Street to Union Street)
 The Parade (from York Street to Gloucester Street)
+Tower Road (from Bellozanne Road to La Route ès Nouaux)
 Tunnell Street
 Tyneville Lane
 Undercliffe Road
@@ -310,16 +311,18 @@ ST. MARTIN
 The one-way road encircling the rock in the quarry at Verclut, St. Catherine (the northern end of Route B.29)
 ST. MARY
 La Route de l’Eglise (from La Rue des Buttes to La Verte Rue)
-La Route de Ste. Marie (from its junction with La Rue des Buttes to a point 137 yards west of its junction with La Rue és Viberts)
+La Route de Ste. Marie (from its junction with La Rue des Buttes to a point 125 metres west of its junction with La Rue és Viberts)
 La Rue de Bel Air (from its junction with La Rue des Buttes to its junction with La Rue des Landes)
 La Rue des Buttes
 La Rue du Rondin (from La Route de Ste. Marie to La Verte Rue)
-La Rue du Rondin (from La Verte Rue to a point 44 yards north of La Rue Mahier)
+La Rue du Rondin (from La Verte Rue to a point 40 metres north of La Rue Mahier)
 La Rue de la Rosière (from La Rue des Buttes to La Verte Rue)
-La Rue de la Vallée (from its junction with La Rue des Buttes to a point 142 yards north of its junction with La Rue de la Rosière)
+La Rue de la Vallée (from its junction with La Rue des Buttes to a point 130 metres north of its junction with La Rue de la Rosière)
 The unnamed road between La Route de Ste. Marie and La Verte Rue
 The unnamed road between La Rue de Bel Air and La Verte Rue, adjacent to the property known as “Eden House”
 La Verte Rue (from La Rue du Rondin to the property known as “Eden House”)
+Le Clos de l’Arsenal
+St. Mary’s Village (off Le Clos de l’Arsenal)
 ST. OUEN
 La Rue des Cosnets (between La Rue du Sud and a point 235 yards south)
 ST. PETER

@@ -113,7 +113,7 @@ St. Mark’s Road (from Janvrin Road to St. Saviour’s Road)
 St. Saviour’s Road
 The Parade (from Elizabeth Place to Gloucester Street)
 The Tunnel
-Tower Road
+Tower Road (from St. John’s Road to Bellozanne Road)
 Trinity Hill
 Trinity Road
 Val Plaisant (from La Petite Rue du Val Plaisant to Springfield Road)
@@ -128,8 +128,7 @@ La Rue de Sorel (from La Rue du Grand Mourier to Sorel Point)
 ST. LAWRENCE
 Les Charrières Malorey (from the private road leading to the German Underground Hospital southwards to La Rue des Prés Sorsoleil)
 Le Chemin des Moulins (from Ruelle de St. Clair to La Route de St. Aubin)
-La Chenolles de Six Rues for a distance of 164 yards from Le Passage
-La Grande Route de St. Laurent (from Le Mont Felard to Rue de Bas)
+Les Chanolles des Six Rues La Grande Route de St. Laurent (from Le Mont Felard to Rue de Bas)
 La Grande Route de St. Laurent (from La Rue du Vard to a point 35 yards north of La Rue Millbraie)
 La Grande Route de St. Laurent (from 22 yards south of La Rue to La Rue de la Golarde)
 La Longue Rue
@@ -160,7 +159,6 @@ La Ruelle
 La Ruette
 La Ruette à la Pierre
 La Vallée de St. Pierre (from La Route de St. Aubin to Les Gellettes)
-La Verte Rue (Coin Tourgis Nord)
 Victoria Avenue (from La Route de la Haule to a point 60 yards westerly from the exit from the lay-by opposite Coronation Park)
 ST. MARTIN
 La Grande Route de Faldouet
@@ -174,9 +172,12 @@ La Route de la Côte (from Le Mont de Gouray to Le Mont de la Guerande)
 La Rue de la Croix au Maître (from the eastern boundary of the property known as “La Croix au Maître” to La Grande Route de Faldouet)
 La Rue à Don
 ST. MARY
-La Rue es Boeufs (from La Ruette es Boeufs to La Verte Rue)
+La Grande Rue (between La Rue du Camp Durrel and La Verte Rue)
+La Rue de la Frontière
 La Rue de la Rosière (from La Rue des Buttes to La Rue de la Vallée)
-La Rue de la Vallée (from a point 142 yards north of its junction with La Rue de la Rosière to a point 49 yards south of that junction)
+La Rue de la Vallée (from a point 130 metres north of its junction with La Rue de la Rosière to a point 45 metres south of that junction)
+La Rue du Rondin (from a point 40 metres north of La Rue Mahier to Le Mont de Ste. Marie)
+Le Mont de Ste. Marie (from 221 metres south-east of the boundary with St. Ouen to La Rue du Rondin)
 La Verte Rue (from La Rue es Boeufs to the boundary with the parish of St. Lawrence)
 ST. OUEN
 Le Chemin de l’Eglise (from Rue Militaire for a distance of 60 yards)

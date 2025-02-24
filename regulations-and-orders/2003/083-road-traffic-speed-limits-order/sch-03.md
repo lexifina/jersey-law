@@ -104,6 +104,7 @@ La Rue Rouge Cul
 La Ruette
 La Ruette d’Avranches
 La Ruette Pinel
+La Verte Rue (La Vingtaine du Coin Tourgis Nord)
 Rue de Bas
 Ruelle de St. Clair
 The unnamed road abutting the southern boundaries of the property known as “La Maison du Guardien” and the Parish Hall, and lying between La Route de l’Eglise and La Grande Route de St. Laurent
@@ -154,16 +155,25 @@ ST. MARY
 La Charrière
 Le Chemin du Câtel
 Le Chemin des Hougues
+La Chève Rue
+Le Clos des Buis
 La Dimerie
+La Grande Rue (from La Rue du Camp Durrel to Le Chemin des Hougues)
 La Hougue Mauger
 Le Hurel
+Le Jardin du Couvent
 Le Mont de la Barcelone
 La Rue ès Abbés
+La Rue Bechervaise (from Le Mont Remon to La Chève Rue)
 La Rue Blouin
+La Rue ès Boeufs
 La Rue de la Câche
 La Rue du Camp Durrel
+La Rue du Couvent
 La Rue de Crabbé
+La Rue du Douet
 La Route de l’Eglise (from La Verte Rue to La Rue de la Grange)
+La Rue à Georges
 La Rue de la Grosse Epine
 La Rue de la Grange
 La Rue de la Hougue Mauger (between La Rue des Touettes and La Rue du Camp Durrel)
@@ -177,6 +187,7 @@ La Rue des Potirons
 La Rue de la Prairie
 La Rue du Rondin (from its junction with Le Mont de Ste. Marie to La Rue de Crabbé)
 La Rue des Touettes
+La Rue ès Viberts
 La Ruette (between La Rue de la Frontière and La Rue de Bel Air)
 La Vau Bourel
 Water Lane
@@ -212,15 +223,18 @@ Les Grupieaux (from La Rue du Craslin to La Rue de la Fontaine)
 Le Mont de Gargate
 Le Mont des Louannes
 Le Mont de la Mare
+Le Mont Remon
 Le Mont de St. Anastase
 La Route de la Marette
 La Rue du Coin Varin
+La Rue du Couvent
 La Rue de la Fontaine
 La Rue de la Hague
 La Rue du Panigot
 La Rue de la Presse
 La Rue St. Nicholas
 La Rue Vazon
+La Rue ès Viberts
 Les Ruelles
 La Ruette du Coin Varin
 La Verte Rue
