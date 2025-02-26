@@ -25,7 +25,8 @@ Savings, transitional and Similar Provisions: general
 (3) Expressions used in this paragraph shall be construed in accordance with Articles 81B, 81CA, 81CB and 81D to 81M as they had effect under paragraph 9(1) immediately before that paragraph was repealed.
 11
 12
-13
+13 Income Tax (Amendment No. 41) (Jersey) Law 2013: securities and possessions out of Jersey
+Despite the definition “distribution” in Article 3AE, tax under Case V of Schedule D is not to be charged, by virtue of that definition, in respect of anything that was not so chargeable immediately before the commencement of that Article.
 14 Income Tax (Amendment No. 41) (Jersey) Law 2013: stock dividends
 Where tax has been charged on the issue of a stock dividend under Article 62B prior to the repeal of that Article by the Income Tax (Amendment No. 41) (Jersey) Law 2013, repayment of capital of the stock dividend shall not be treated as a distribution for the purposes of Case IX of Schedule D.
 15
