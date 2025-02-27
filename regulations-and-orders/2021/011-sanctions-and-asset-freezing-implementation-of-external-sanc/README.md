@@ -1,6 +1,6 @@
 # Sanctions and Asset-Freezing (Implementation of External Sanctions) (Jersey) Order 2021
 
-R&O.11/2021 · official consolidation showing the law from 2024-12-05 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20250226>
+R&O.11/2021 · official consolidation showing the law from 2025-02-27 · <https://www.jerseylaw.je/laws/current/ro_11_2021_20250424>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,6 +10,9 @@ R&O.11/2021 · official consolidation showing the law from 2024-12-05 · <https:
 | Art. 3 | [art-003.md](art-003.md) | 3 Asset-freezes: designations, exceptions and licences |
 | Art. 4 | [art-004.md](art-004.md) | 4 Offences of contravention of certain implemented provisions other than asset-freezes |
 | Art. 5 | [art-005.md](art-005.md) | 5 Licences in relation to implemented provisions other than asset-freezes |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Director disqualification sanctions |
+| Art. 5B | [art-005-b.md](art-005-b.md) | 5B Director disqualification licences |
+| Art. 5C | [art-005-c.md](art-005-c.md) | 5C Director disqualification: licensing offences |
 | Art. 6 | [art-006.md](art-006.md) | 6 Offence of disclosure of confidential information as to designation |
 | Art. 7 | [art-007.md](art-007.md) | 7 Customs provisions applied in relation to offences |
 | Art. 8 | [art-008.md](art-008.md) | 8 Prohibition of satisfaction of claims affected by certain UNSCRs between 1990 and 1994 |
