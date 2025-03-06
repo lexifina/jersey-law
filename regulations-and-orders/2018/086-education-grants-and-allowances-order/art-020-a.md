@@ -40,4 +40,4 @@ Percentage of full amount of maintenance grant awardable for part-time course
 (5) For the calculation of the percentage amount of maintenance grant awardable in respect of a course of a length not set out in the table, the percentage is calculated by dividing the length of the full-time course in years by the length of the equivalent part-time course in years.
 (6) An increase under Article 13D (London component increase), if any, is to be applied after the calculation has been made of the percentage amount of maintenance grant awardable.
 (7) A clinical component grant is awardable in full even if it is awarded in respect of a part-time course.
-(8) In this Article “full amount of the maintenance grant” means the amount of the maintenance grant awardable under Article 13B or 13C.
+(8) In this Article “full amount of the maintenance grant” means the amount of the maintenance grant awardable under Article 13B, 13BA, 13C or 13CA.

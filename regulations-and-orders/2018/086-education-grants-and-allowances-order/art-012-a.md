@@ -1,5 +1,4 @@
 # 12A Relevant assets exceeding £500,000
-If the value of a student’s relevant assets exceeds £500,000, the student’s relevant income is deemed to be £200,000 or more for the purposes of an award of a -
-(a) tuition fees grant;
-(b) maintenance grant; or
-(c) clinical component grant.
+For the purposes of awarding a tuition fees grant, a maintenance grant or a clinical component grant, if the value of a student’s relevant assets is more than £500,000, the student’s relevant income is -
+(a) £200,000 or more for a grant awarded for the 2024 academic year;
+(b) £210,400 or more for a grant awarded for the 2025 academic year or a subsequent academic year.

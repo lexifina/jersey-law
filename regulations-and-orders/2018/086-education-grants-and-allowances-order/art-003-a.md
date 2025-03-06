@@ -1,4 +1,4 @@
-# 3A Meaning of “income"
+# 3A Meaning of “income”
 (1) For the purposes of this Order, “income”, in respect of a person (“first person”), means the person’s profits, gains, salaries, fees, wages and perquisites of any kind arising from any source, whether in Jersey or elsewhere, and includes -
 (a) any income applied by another person, under a trust, for or towards the maintenance, education, or other benefit, of the first person or of any other person dependent on or maintained by the first person;
 (b) any amount payable, whether under an order of a court or any agreement, for the maintenance of the first person or of any other person dependent on the first person;
