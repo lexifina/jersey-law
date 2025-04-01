@@ -10,7 +10,7 @@ Address for receipt
 On behalf of a parochial authority
 Parish hall of parochial authority
 2
-On behalf of the Minister for Education
+On behalf of the Minister for Education and Lifelong Learning
 Finance Department
 Department for Education
 PO Box 142
