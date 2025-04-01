@@ -1,6 +1,6 @@
 # Companies (GAAP) (Jersey) Order 2010
 
-R&O.31/2010 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_31_2010_20250331>
+R&O.31/2010 · official consolidation showing the law from 2025-04-01 · <https://www.jerseylaw.je/laws/current/ro_31_2010>
 
 | Provision | File | Heading |
 | --- | --- | --- |
