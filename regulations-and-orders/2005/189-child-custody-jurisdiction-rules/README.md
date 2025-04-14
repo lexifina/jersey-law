@@ -1,6 +1,6 @@
 # Child Custody (Jurisdiction) Rules 2005
 
-R&O.189/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_189_2005_20250413>
+R&O.189/2005 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_189_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
