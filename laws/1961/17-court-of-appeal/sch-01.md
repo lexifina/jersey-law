@@ -1,0 +1,4 @@
+# Schedule 1
+(Article 5)
+FORM OF OATH TO BE TAKEN BY JUDGES OF COURT OF APPEAL
+“Vous jurez et promettez par la foi et serment que vous devez à Dieu que bien et fidèlement vous exercerez la charge de Juge de la Cour d’Appel du Bailliage de Jersey; que vous soutiendrez et maintiendrez l’honneur et gloire de Dieu, et de sa pure parole; que vous conserverez et garderez les droits de Sa Majesté notre Souverain Seigneur Charles Trois, par la Grâce de Dieu Roi du Royaume-Uni de la Grande Bretagne et de l’Irlande du Nord et de ses autres Royaumes et Territoires, Chef du Commonwealth, Défenseur de la Foi, et qu’à Sadite Majesté vous serez vrai et loyal sujet; que vous maintiendrez, soutiendrez et défendrez tous les lois, libertés, usages et anciennes coutumes dudit Bailliage, vous opposant à quiconque les voudrait enfreindre; et que vous administrerez bonne et briève justice à un chacun, sans acception de personne”.
