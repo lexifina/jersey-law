@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_8_1948_20250413>
+L.8/1948 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/l_8_1948_20250427>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,6 +18,9 @@ L.8/1948 · official consolidation showing the law from 2024-01-11 · <https://w
 | Art. 10 | [art-010.md](art-010.md) | 10 Appointment of Commissioners |
 | Art. 11 | [art-011.md](art-011.md) | 11 Oath of Commissioner |
 | Art. 12 | [art-012.md](art-012.md) | 12 Powers of Commissioners |
+| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Appointment of Family Judge |
+| Art. 12B | [art-012-b.md](art-012-b.md) | 12B Oath of Family Judge |
+| Art. 12C | [art-012-c.md](art-012-c.md) | 12C Regulations |
 | Art. 13 | [art-013.md](art-013.md) | 13 Rules of Court |
 | Art. 14 | [art-014.md](art-014.md) | 14 Family division |
 | Art. 15 | [art-015.md](art-015.md) | 15 Powers of the Bailiff and Jurats |

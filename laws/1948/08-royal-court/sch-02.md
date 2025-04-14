@@ -7,3 +7,7 @@ FORM 2
 (Article 11)
 OATH OF OFFICE OF COMMISSIONER
 You swear and promise before God that well and faithfully you will exercise the office of Commissioner; that you will be faithful and bear true allegiance to His Majesty King Charles the Third, his heirs and successors, according to law; that you will uphold and maintain the laws and usages and the privileges and freedoms of Jersey and that you will vigorously oppose whomsoever may seek to destroy them; that you will administer justice to all manner of persons without favour or partiality; and that you will take heed of the good advice and counsel of the Jurats as the case may require.
+FORM 3
+(Article 12B)
+Oath of office of family judge
+You swear and promise before God that well and faithfully you will exercise the office of Family Judge; that you will be faithful and bear true allegiance to His Majesty King Charles the Third, his heirs and successors, according to law; that you will uphold and maintain the laws and usages and the privileges and freedoms of Jersey and that you will vigorously oppose whomsoever may seek to destroy them; and that you will administer justice to all manner of persons without favour or partiality.
