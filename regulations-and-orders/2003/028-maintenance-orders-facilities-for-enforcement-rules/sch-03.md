@@ -3,7 +3,7 @@
 REQUEST FOR CONFIRMATION OF A PROVISIONAL ORDER
 MAINTENANCE ORDERS (FACILITIES FOR ENFORCEMENT) (JERSEY) LAW 2000 (ARTICLE 5(3) OR 12(6))
 [The Judicial Greffier]
-[Registrar, Family Division of the Royal Court of Jersey]*
+[Family Judge, Royal Court of Jersey]*
 (address)
 .................................................................................................
 .................................................................................................
@@ -18,7 +18,7 @@ I enclose a document, duly authenticated, setting out or summarizing the evidenc
 Orders made under Article 5(3) only: [delete if inapplicable]
 4.
 The order is a fresh provisional order in place of the order dated and previously sent for confirmation in your court, which has been revoked.
-[Signature of Greffier/Registrar]
+[Signature of Judge/Greffier]
 .................................................................
 [Date of signature]
 .................................................................

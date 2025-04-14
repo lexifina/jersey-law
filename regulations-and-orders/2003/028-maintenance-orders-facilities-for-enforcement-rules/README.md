@@ -1,6 +1,6 @@
 # Maintenance Orders (Facilities for Enforcement) Rules 2003
 
-R&O.28/2003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_28_2003_20250413>
+R&O.28/2003 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_28_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |

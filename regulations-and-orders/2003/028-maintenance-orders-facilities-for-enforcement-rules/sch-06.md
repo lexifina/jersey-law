@@ -5,7 +5,7 @@ Hague Convention on the Recognition and Enforcement
 of Maintenance Obligations
 MAINTENANCE ORDERS (FACILITIES FOR ENFORCEMENT) (JERSEY) LAW 2000 (ARTICLE 32(2))
 [The Judicial Greffier]
-[Registrar, Family Division of the Royal Court of Jersey]*
+[Family Judge, Royal Court of Jersey]*
 (address)
 .................................................................................................
 .................................................................................................
@@ -23,7 +23,7 @@ should be varied by an order requiring: [give details]
 The substance of the application is as follows: [give details of grounds, etc.
 3.
 The hearing may take place at any time after the expiry of 6 weeks from the service on you of this notice. If you wish to make written representations to the Court, or to adduce evidence in person or through a representative you may do so.
-[Signature of Greffier/Registrar]
+[Signature of Judge/Greffier]
 .................................................................
 [Date of signature]
 .................................................................

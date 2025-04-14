@@ -5,7 +5,7 @@ Hague Convention on the Recognition and Enforcement
 of Maintenance Obligations
 MAINTENANCE ORDERS (FACILITIES FOR ENFORCEMENT) (JERSEY) LAW 2000 (ARTICLE 32(3))
 [The Judicial Greffier]
-[Registrar, Family Division of the Royal Court of Jersey]*
+[Family Judge, Royal Court of Jersey]*
 (address)
 .................................................................................................
 .................................................................................................
@@ -22,7 +22,7 @@ I certify that the payer appeared in the proceedings leading to the making of th
 I certify that notice of the institution of the proceedings for variation or revocation, including notice of the substance of the claim, was served on the payer and enclose a copy of a document establishing that fact.
 4.
 I certify that legal aid was granted as follows: [give details or delete if inapplicable]
-[Signature of Greffier/Registrar]
+[Signature of Judge/Greffier]
 .................................................................
 [Date of signature]
 .................................................................

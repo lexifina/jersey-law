@@ -3,7 +3,7 @@
 NOTICE OF APPLICATION
 MAINTENANCE ORDERS (FACILITIES FOR ENFORCEMENT) (JERSEY LAW 2000 (ARTICLE 27(4)(b))
 [The Judicial Greffier]
-[Registrar, Family Division of the Royal Court of Jersey]*
+[Family Judge, Royal Court of Jersey]*
 (address)
 .................................................................................................
 .................................................................................................
@@ -21,7 +21,7 @@ should be varied by an order requiring: [state type of order sought]
 The grounds for the application are: [give details]
 3.
 The hearing of the application will be on [date] ……………… at [time] ……………… in this Court. If you do not appear the Court may proceed in your absence. If you wish to make written representations to the Court you may do so; they should be sent to me at the above address.
-[Signature of Greffier/Registrar]
+[Signature of Judge/Greffier]
 .................................................................
 [Date of signature]
 .................................................................

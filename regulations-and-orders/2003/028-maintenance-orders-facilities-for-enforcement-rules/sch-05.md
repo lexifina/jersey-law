@@ -5,7 +5,7 @@ Hague Convention on the Recognition and Enforcement
 of Maintenance Obligations
 MAINTENANCE ORDERS (FACILITIES FOR ENFORCEMENT) (JERSEY) LAW 2000 (ARTICLE 31(2))
 [The Judicial Greffier]
-[Registrar, Family Division of the Royal Court of Jersey]*
+[Family Judge, Royal Court of Jersey]*
 (address)
 .................................................................................................
 .................................................................................................
@@ -33,7 +33,7 @@ The following is the information I have as to the whereabouts of the payer:
 The following information may facilitate the identification of the payer:
 8.
 I enclose a photograph of the payer [delete if no photograph is available].
-[Signature of Greffier/Registrar]
+[Signature of Judge/Greffier]
 .................................................................
 [Date of signature]
 .................................................................
