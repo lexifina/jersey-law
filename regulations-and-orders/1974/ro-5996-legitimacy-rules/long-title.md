@@ -1,5 +1,5 @@
 THE SUPERIOR NUMBER OF THE ROYAL COURT, in pursuance of Article 13 of the Royal Court (Jersey) Law 1948 of Articles 6 and 7 of the Legitimacy (Jersey) Law 1973 and of all other powers enabling it in this behalf, has made the following Rules -
-In these Rules -
+In these Rules, unless the context otherwise requires -
 “Court” means the Inferior Number of the Royal Court;
 “Law” means the Legitimacy (Jersey) Law 1973;
 “legitimated child” has the same meaning as in the Law.
@@ -45,7 +45,7 @@ and shall, except by leave of the Court, be accompanied by -
 (2) Upon a petition being presented to the Court, if the child be living, the Court shall appoint a guardian ad litem of the child, unless the child is of full age and otherwise capable of acting on the child’s own behalf,
 (3) In appointing a guardian ad litem, the Court shall proceed of its own motion and shall have an absolute discretion as to the person or body to be appointed.
 (4) Where a guardian ad litem has been appointed, such guardian shall be made a respondent in the cause and the Court shall order that a copy of the petition be served on the guardian.
-(5) In this Rule-
+(5) In this Rule -
 “husband” means the husband of the mother at the time of the birth of the child;
 “marriage” means the marriage of the mother of the child to the man to whom she was joined in wedlock at the time of the birth of the child.
 The personal attendance of the petitioner shall not be necessary for the purpose of presenting a petition under the Law.
@@ -54,8 +54,9 @@ Where a petitioner applying for a decree under Article 6 of the Law or decrees u
 When a petition is delivered to the Attorney General in accordance with Article 6(6) or 7(4) of the Law, the Attorney General shall be notified of the date when the petition is to be presented to the Court.
 (1) Upon a petition being presented to the Court under the Law, the Court, upon hearing the Attorney General, shall fix a day for the hearing of the petition, being a day not earlier than one month from the day on which the petition is presented, and shall determine what persons shall be given notice of the application, and such persons shall be made respondents to the petition.
 (2) Such notice, together with a copy of the relevant Act of the Court, shall be served on any such person within Jersey personally through the medium of the Viscount’s Department at the instance of the petitioner or the petitioner’s guardian ad litem, as the case may be, in order that such person may appear in Court on the day so fixed and show cause, if such person so desire, why the decree applied for should not be made.
-(3) Where any such person is out of Jersey or the person’s whereabouts are unknown, application shall be made ex parte to the Court or the Judicial Greffier for directions with respect to the service of such notice upon the person, and the Court or the Judicial Greffier shall give such directions as it or the Judicial Greffier may deem necessary.
+(3) Where any such person is out of Jersey or the person’s whereabouts are unknown, application shall be made ex parte to the Court for directions with respect to the service of such notice upon the person, and the Court shall give such directions as it may deem necessary.
 (4) Every notice to a respondent under this Rule shall be served at least 10 clear days before the day fixed for the hearing of the petition.
+(5) In paragraph (3) “the Court” includes a Family Judge or the Judicial Greffier.
 All petitions under the Law may be presented to the Court and heard in term or in vacation.
 Where the Court has made a decree declaring that a child is illegitimate and that child has acquired by way of inheritance any rights or interests in immovable estate situate in Jersey prior to the pronouncement of the decree, the Court shall order that the Act containing the decree be registered in the Public Registry of Contracts.
 These Rules may be cited as the Legitimacy Rules 1974.

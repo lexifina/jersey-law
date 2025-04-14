@@ -1,6 +1,6 @@
 # Legitimacy Rules 1974
 
-R&O.5996 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5996_20250413>
+R&O.5996 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_5996>
 
 | Provision | File | Heading |
 | --- | --- | --- |
