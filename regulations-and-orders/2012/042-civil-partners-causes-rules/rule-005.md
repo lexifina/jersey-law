@@ -35,8 +35,8 @@ and such proceedings shall include any which are not instituted in a court of la
 (d) the steps which have been taken to trace the respondent.
 (4) If the applicant, whether for his or her own protection or otherwise, wishes to omit from the cause application any information required by paragraph (1) -
 (a) the cause application may be filed without such information; and
-(b) before service is effected the applicant must make an ex parte application to the Greffier for leave for the cause application to stand,
-and if leave is refused, the Greffier shall make an order requiring the cause application to be amended to comply with paragraph (1).
+(b) before service is effected the applicant must make an ex parte application to the Court for leave for the cause application to stand,
+and if leave is refused, the Court shall make an order requiring the cause application to be amended to comply with paragraph (1).
 (5) In the case of a cause application for dissolution, a separation order or annulment that discloses that there is a minor child of the family, the application must be accompanied by a separate written statement signed by the applicant personally containing the information required by Form CP5, if practicable, agreed with the respondent.
 (6) If a claim for ancillary relief is made in a cause application, it must contain a statement in general terms of the respondent’s income and property in so far as they are within the applicant’s knowledge and belief.
 (7) The cause application must conclude with a prayer setting out particulars of the relief claimed including any claim -
@@ -46,4 +46,5 @@ and if leave is refused, the Greffier shall make an order requiring the cause ap
 (8) Every cause application, if settled by an advocate or solicitor, must be signed by that person and, if not so settled, must be signed by the applicant.
 (9) If an applicant is legally represented, the applicant’s advocate or solicitor must endorse on the cause application his or her name and address in Jersey, which shall be an address for service.
 (10) An applicant acting in person must endorse on the cause application an address for service, which must be the applicant’s place of residence or, if he or she has no place of residence in Jersey, an address for service in Jersey.
-(11) Unless otherwise directed by the Greffier on a written request being made to the Greffier ex parte, a civil partnership certificate to which the cause application relates must be filed with the cause application.
+(11) A certificate of marriage to which the petition relates must be filed with the petition unless the Court otherwise directs.
+(12) An application for a direction under paragraph (11) may be made to the Court ex parte.

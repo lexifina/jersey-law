@@ -1,5 +1,5 @@
 # 16 Consent to making of order for dissolution or separation
-(1) If, before the hearing of a cause application on the ground of one year’s separation coupled with the respondent’s consent to an order being made, the respondent wishes to indicate to the Court that he or she consents to the making of an order, the respondent must do so by giving the Greffier a notice to that effect signed by him or her personally.
+(1) If, before the hearing of a cause application on the ground of one year’s separation coupled with the respondent’s consent to an order being made, the respondent wishes to indicate to the Court that he or she consents to the making of an order, the respondent must do so by filing a notice to that effect signed by him or her personally.
 (2) For the purposes of paragraph (1) an acknowledgement of service containing a statement that the respondent consents to the making of an order shall be treated as such a notice if the acknowledgement is signed personally by the respondent and attested by a qualifying witness.
 (3) For the purpose of paragraph (2) a qualifying witness is -
 (a) in Jersey, a Jurat or a Connétable, a Deputy of the States, an advocate or solicitor of the Royal Court or a notary public; or

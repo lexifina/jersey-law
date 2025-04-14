@@ -3,4 +3,4 @@
 (2) Unless otherwise directed, the answer must contain particulars of the conditions satisfied and steps taken in the approved jurisdiction that are -
 (a) prescribed; or
 (b) relied upon to satisfy the Court that, but for the fact that the parties are still in a civil partnership, the applicant’s change of gender would be recognized by that jurisdiction.
-(3) The respondent must file such documents as the Greffier may direct in support of an answer to which this Rule applies.
+(3) The respondent must file such documents as the Court may direct in support of an answer to which this Rule applies.

@@ -1,3 +1,3 @@
 # 45 Rescission of conditional order by consent
-(1) If, after a conditional order has been made but before the making of a final order, or after a separation order has been made, the applicant and the respondent have become reconciled, either party may request the Greffier to make an order rescinding the decree by consent.
+(1) If, after a conditional order has been made but before the making of a final order, or after a separation order has been made, the applicant and the respondent have become reconciled, either party may request the Court to make an order rescinding the decree by consent.
 (2) A request under paragraph (1) must be made by summons which, in addition to being served on the applicant or the respondent, as the case may be, must be served on any other party against whom costs have been awarded or who is otherwise affected by the order; and such other party shall be entitled to be heard.

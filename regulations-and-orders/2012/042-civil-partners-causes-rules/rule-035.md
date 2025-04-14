@@ -9,7 +9,7 @@
 (iii) by copies of documents or entries in books, or
 (iv) in the case of a fact which is or was a matter of common knowledge either generally or in a particular area by the production of a specified newspaper containing a statement of that fact; and
 (c) that not more than a specified number of expert witnesses may be called.
-(4) A request to the Greffier for an order under paragraph (3) must -
+(4) A request for an order under paragraph (3) must -
 (a) if no notice of intention to defend has been given; or
 (b) if the applicant and every party who has given notice of intention to defend consents to the order sought; or
 (c) if the cause is undefended and the Greffier’s certificate has been issued,

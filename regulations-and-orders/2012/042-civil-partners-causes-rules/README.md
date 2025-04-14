@@ -1,11 +1,11 @@
 # Civil Partners Causes Rules 2012
 
-R&O.42/2012 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_42_2012_20250413>
+R&O.42/2012 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_42_2012_20260606>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Rule 1 | [rule-001.md](rule-001.md) | 1 Interpretation |
-| Rule 2 | [rule-002.md](rule-002.md) | 2 Powers of Greffier |
+| Rule 2 | [rule-002.md](rule-002.md) | 2 Powers of Family Judges |
 | Rule 3 | [rule-003.md](rule-003.md) | 3 Request for leave to present application |
 | Rule 4 | [rule-004.md](rule-004.md) | 4 Commencement of proceedings |
 | Rule 5 | [rule-005.md](rule-005.md) | 5 Contents of cause application |
@@ -39,7 +39,7 @@ R&O.42/2012 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 33 | [rule-033.md](rule-033.md) | 33 Greffier’s certificate and directions for trial |
 | Rule 34 | [rule-034.md](rule-034.md) | 34 Listing of causes and fixing date of trial |
 | Rule 35 | [rule-035.md](rule-035.md) | 35 Evidence at trial of cause |
-| Rule 36 | [rule-036.md](rule-036.md) | 36 Hearing of undefended causes by Greffier |
+| Rule 36 | [rule-036.md](rule-036.md) | 36 Hearing of undefended causes by Family Judge |
 | Rule 37 | [rule-037.md](rule-037.md) | 37 Right of respondent or other party to be heard on question of costs |
 | Rule 38 | [rule-038.md](rule-038.md) | 38 Respondent’s statement as to arrangements for children |
 | Rule 39 | [rule-039.md](rule-039.md) | 39 Requests relating to children of the family |
@@ -49,7 +49,7 @@ R&O.42/2012 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 43 | [rule-043.md](rule-043.md) | 43 Intervention by Attorney General |
 | Rule 44 | [rule-044.md](rule-044.md) | 44 Intervention by person other than Attorney General |
 | Rule 45 | [rule-045.md](rule-045.md) | 45 Rescission of conditional order by consent |
-| Rule 46 | [rule-046.md](rule-046.md) | 46 Final order on lodging notice |
+| Rule 46 | [rule-046.md](rule-046.md) | 46 Final order on filing notice |
 | Rule 47 | [rule-047.md](rule-047.md) | 47 Final order on application |
 | Rule 48 | [rule-048.md](rule-048.md) | 48 Expedition of final order |
 | Rule 49 | [rule-049.md](rule-049.md) | 49 Certificate of final order |
@@ -70,8 +70,8 @@ R&O.42/2012 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 64 | [rule-064.md](rule-064.md) | 64 Costs |
 | Rule 65 | [rule-065.md](rule-065.md) | 65 Hearing of claim for ancillary relief |
 | Rule 66 | [rule-066.md](rule-066.md) | 66 Order on claim for ancillary relief |
-| Rule 67 | [rule-067.md](rule-067.md) | 67 Reference of claim to Inferior Number |
-| Rule 68 | [rule-068.md](rule-068.md) | 68 Appeals against orders and decisions of the Greffier |
+| Rule 67 | [rule-067.md](rule-067.md) | 67 Reference of claim for ancillary relief to Inferior Number |
+| Rule 68 | [rule-068.md](rule-068.md) | 68 Appeals against orders and decisions of Family Judge or the Greffier |
 | Rule 69 | [rule-069.md](rule-069.md) | 69 Minors and persons of unsound mind |
 | Rule 70 | [rule-070.md](rule-070.md) | 70 Separate representation of children |
 | Rule 71 | [rule-071.md](rule-071.md) | 71 Transcript of evidence |

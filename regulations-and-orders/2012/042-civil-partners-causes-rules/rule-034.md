@@ -8,5 +8,5 @@
 (7) The party must, not less than 4 days before making the request, notify the other parties in writing of the intention to make the request and when and where it will be made.
 (8) Save with the consent of all parties, the day fixed for the trial or hearing of the cause must be not less than 10 days from the date of the request.
 (9) When a date has been fixed for the trial or hearing of a cause, the party that requested the date must, within 4 days, notify that date to every party who was not present when the request was heard.
-(10) In all defended causes the applicant must, at least 2 days before the day fixed for the trial or hearing, lodge with the Greffier the billet containing the full names of all parties to the cause and a list of all witnesses whom the applicant proposes to call.
-(11) Any party who is defending or to be heard in a cause must, at least 2 days before the day fixed for the trial or hearing, lodge with the Greffier a list of all witnesses whom that party proposes to call.
+(10) In all defended causes the applicant must, at least 2 days before the day fixed for the trial or hearing, file the billet containing the full names of all parties to the cause and a list of all witnesses whom the applicant proposes to call.
+(11) Any party who is defending or to be heard in a cause must, at least 2 days before the day fixed for the trial or hearing, file a list of all witnesses whom that party proposes to call.

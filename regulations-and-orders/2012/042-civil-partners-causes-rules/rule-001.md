@@ -15,10 +15,10 @@ and includes proceedings by a civil partner on an application for a presumption 
 (d) a presumption of death order and dissolution thereupon.
 “child maintenance” means maintenance payable under an order pursuant to Article 44 of the Law;
 “competent witness” means a person who, under Article 3 of, and Schedule 1 to, the Powers of Attorney (Jersey) Law 1995, would be competent to attest the document if it were an instrument creating a power of attorney;
-“Court” means the Family Division of the Royal Court and includes the Greffier;
+“Court” means the Family Division of the Royal Court and includes a Family Judge and the Greffier;
 “defended cause” means a cause that is not an undefended cause;
 “dissolution” means dissolution of a civil partnership;
-“filed” means filed in the Judicial Greffe;
+“file” means file in the Judicial Greffe (and “filed” and “filing” are to be read accordingly);
 “Greffier” means the Judicial Greffier;
 “Inferior Number” means the Inferior Number of the Royal Court;
 “interim maintenance” means maintenance payable under an order pursuant to Article 51 of the Law;
