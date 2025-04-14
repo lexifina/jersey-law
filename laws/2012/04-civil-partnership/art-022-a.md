@@ -9,3 +9,4 @@ A civil partnership is void if it is knowingly and intentionally formed by 2 peo
 (g) on the authority of a certificate of no impediment which is void under Article 12(7);
 (h) in the case of a civil partnership purporting to be solemnized in an approved location, at any location that is not approved at the time the civil partnership is solemnized or, as the case may be, for the purposes of that civil partnership, unless Article 14B applies;
 (i) in the absence of a civil partnership celebrant; or
+(j) except where Article 14B applies, at a time, place or date that is not specified as the time, date or place of the civil partnership in the civil partnership schedule or the civil partnership conversion schedule.

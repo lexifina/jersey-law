@@ -1,6 +1,6 @@
 # Schedule 1
 (Article 2)
-oVERSEAS RELATIONSHIPS
+OVERSEAS RELATIONSHIPS
 1 Meaning of overseas relationship
 (1) For the purposes of this Law an overseas relationship is a relationship which -
 (a) is a specified relationship, or a relationship which meets the general conditions in sub-paragraph (2); and

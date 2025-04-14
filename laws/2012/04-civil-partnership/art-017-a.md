@@ -13,3 +13,4 @@
 (4) Where paragraph (3) applies, the registrar must keep -
 (a) subject to sub-paragraph (b), in the date order in which each civil partnership is solemnized, a register of all civil partnerships that are solemnized in the registrar’s parish;
 (b) in the order in which each marriage is converted to a civil partnership, a register of all the conversions that are solemnized in the registrar’s parish.
+(5) The Superintendent Registrar must pay the registrar the prescribed fee for each civil partnership which the registrar registers under paragraph (4) and for the provision of returns or registers.

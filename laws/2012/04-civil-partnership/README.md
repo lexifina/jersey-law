@@ -1,6 +1,6 @@
 # Civil Partnership (Jersey) Law 2012
 
-L.4/2012 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_4_2012_20250413>
+L.4/2012 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/l_4_2012_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -89,6 +89,7 @@ L.4/2012 · official consolidation showing the law from 2023-09-21 · <https://w
 | Art. 71 | [art-071.md](art-071.md) | 71 Power to make further provision in connection with civil partnerships |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations and Orders |
 | Art. 72A | [art-072-a.md](art-072-a.md) | 72A Fees |
+| Art. 72B | [art-072-b.md](art-072-b.md) | 72B Savings |
 | Art. 73 | [art-073.md](art-073.md) | 73 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
