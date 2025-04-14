@@ -13,5 +13,5 @@ and, when considering the interests of the child under sub-paragraph (a), the Co
 (7) Unless the Court otherwise directs -
 (a) a directions appointment shall be in chambers before -
 (i) the Bailiff in public law proceedings, or
-(ii) the Greffier in private law proceedings; and
+(ii) the Family Judge in private law proceedings; and
 (b) a hearing of any proceedings shall be in private.

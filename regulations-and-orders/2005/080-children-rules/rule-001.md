@@ -7,6 +7,7 @@
 “Children Law” means the Children (Jersey) Law 2002;
 “Court” is to be construed in accordance with Rule 3(3);
 “directions appointment” means a hearing for directions under Rule 13(2);
+“file” means file in the Judicial Greffe (and “filed” and “filing” are to be read accordingly);
 “Greffier” means Judicial Greffier;
 “Inferior Number” means the Inferior Number of the Royal Court;
 “leave” includes permission and approval;

@@ -8,7 +8,7 @@
 (ii) for directions in accordance with Rule 13(2),
 as the case may be.
 (2) The applicant must, if the application or request is to be heard by the Bailiff or the Inferior Number, apply to the Bailiff in chambers for a date to be fixed for the hearing of the application or request.
-(3) If the application or request is to be heard by the Greffier, the applicant must request the Greffier for a date upon which the applicant may apply to the Greffier for a date to be fixed for the hearing of the application or request.
+(3) If the application or request is to be heard by a Family Judge, the applicant must request a Family Judge for a date upon which the applicant may apply to a Family Judge for a date to be fixed for the hearing of the application or request.
 (4) The applicant must, not later than 2 days before applying under paragraph (2) or, as the case may be, paragraph (3), for a date to be fixed, notify in writing the parties of the time when and place where the applicant will so apply.
 (5) If the applicant does not apply, within 10 days of the day on which he or she was notified of the direction of the Court under -
 (a) Rule 5(3)(b);

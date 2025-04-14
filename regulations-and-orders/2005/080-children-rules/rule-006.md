@@ -19,7 +19,7 @@
 (n) under paragraph 3(3) of Schedule 5 to the Children Law for the discharge of an existing order; or
 (o) under Article 22 for an order for a child to be kept in secure accommodation,
 made by the Minister or in proceedings to which the Minister is, or is to be, party.
-(2) Subject to Rule 8, an applicant must file with the Bailiff the application, consisting of -
+(2) Subject to Rule 8, an applicant must lodge with the Bailiff the application, consisting of -
 (a)
 (i) Form C1 or, where an order is sought in existing proceedings, Form C2, and
 (ii) such of the supplemental Forms C5 to C13 as may be appropriate; or
@@ -28,7 +28,7 @@ together with sufficient copies for one to be served on each respondent.
 (3) If the application is made in respect of more than one child, all the children must be included in one application.
 (4) Subject to paragraph (7), on receipt of the application, the Bailiff shall -
 (a) fix the date for a hearing or a directions appointment; and
-(b) endorse the date so fixed on the copies of the application filed by the applicant and return them forthwith to the applicant.
+(b) endorse the date so fixed on the copies of the application lodged by the applicant and return them forthwith to the applicant.
 (5) In fixing the date for a hearing or a directions appointment, the Bailiff must allow sufficient time for the applicant to comply with paragraph (6).
 (6) The applicant must serve a copy of the application on each respondent such number of days prior to the date fixed under paragraph (4)(a) as is specified for that application in column (ii) of Schedule 1.
-(7) The Bailiff may, if the Bailiff thinks fit, refer an application to which this Rule applies to the Greffier and, if the Bailiff does so, the application shall be treated as an application to which Rule 7 applies.
+(7) The Bailiff may, if the Bailiff thinks fit, refer an application to which this Rule applies to a Family Judge and, if the Bailiff does so, the application shall be treated as an application to which Rule 7 applies.
