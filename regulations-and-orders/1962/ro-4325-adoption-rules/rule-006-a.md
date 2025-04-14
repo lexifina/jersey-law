@@ -1,7 +1,7 @@
 # 6A Dispensing with agreement of spouse or civil partner
 (1) This Rule applies where the applicant wishes to ask the Court to dispense with the agreement of his or her spouse or civil partner under Article 10A of the Law.
 (2) The applicant must -
-(a) give notice of the request in the application form or at any later stage by lodging with the Judicial Greffe a written statement setting out the reasons for the request; and
+(a) give notice of the request in the application form or at any later stage by filing a written statement setting out the reasons for the request; and
 (b) lodge a statement of facts setting out a summary of the history of the case and any other facts to satisfy the Court that -
 (i) the spouse or civil partner cannot be found;
 (ii) the spouse or civil partner is incapable of giving agreement;

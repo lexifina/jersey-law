@@ -6,7 +6,7 @@
 (c) orders containing any provision for contact with the child after the adoption order was made;
 (d) any transcript or written reasons of the Court’s decision with regard to the adoption in question; and
 (e) a report made to the Court by the Fostering and Adoption Service or the guardian ad litem.
-(3) The application shall be made by filing in the Judicial Greffe an application in Form 11.
+(3) The application shall be made by filing an application in Form 11.
 (4) The application must -
 (a) have attached to it a certified copy of the entry in the Adopted Children Register relating to the applicant; and
 (b) be accompanied by evidence of the applicant’s identity showing a photograph and signature, such as a certified copy of the applicant’s passport or driving licence.

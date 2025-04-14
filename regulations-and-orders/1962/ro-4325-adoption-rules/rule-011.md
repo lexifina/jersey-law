@@ -4,7 +4,8 @@
 (b) perform such other duties as are specified in Schedule 2 or as the Court may direct.
 (2) On completing the investigations the guardian ad litem shall make a confidential report in writing to the Court.
 (3) With a view to obtaining the directions of the Court on any particular matter the guardian ad litem may at any time make such interim report to the Court as appears to him or her to be necessary.
-When the guardian ad litem has made the report to the Court pursuant to Rule 11(2), the Judicial Greffier, after giving such directions (if any) as the Judicial Greffier thinks necessary, shall fix a date for the hearing of the application by the Court.
+(1) When the guardian ad litem has made the report to the Court under Rule 11(2), directions may be given as necessary by a Family Judge or by the Judicial Greffier.
+(2) The Judicial Greffier shall, once the report has been made to the Court or, if applicable, once directions have been given under paragraph (1), fix a date for the hearing of the application by the Court.
 When a date for the hearing of the application has been fixed, the Judicial Greffier shall serve a notice in Form 2 on the following persons -
 (a) every person, not being an applicant, whose consent to the making of the order is required under Article 12(2) of the Law;
 (b) any person having the rights and powers of a parent of the child by virtue of any enactment;
@@ -41,7 +42,7 @@ Rules 25B to 25E apply to an application for a declaration that an adoption appe
 (a) the date and place of the birth of the person who is the subject of the overseas adoption;
 (b) the date and place of any order or other instrument giving effect to the overseas adoption and the court or other tribunal or authority which made it;
 (c) the grounds on which the application is made and all material facts in support of the making of the declaration; and
-(d) the domicile of the applicant and his or her place of habitual residence on the date of the filing of the application.
+(d) the domicile of the applicant and his or her place of habitual residence on the date the application is made.
 (2) An application shall be supported by an affidavit verifying the content of the application and giving particulars of any person whose interest may be affected by the proceedings and his or her relationship to the person who is the subject of the overseas adoption.
 (3) There shall be annexed to the application a copy of the birth certificate of the person who is the subject of the overseas adoption and, unless otherwise directed, a certified copy of the order or other instrument giving effect to the overseas adoption under the law of the relevant country.
 (4) Where a document produced by virtue of paragraph (3) is not in English, it shall, unless otherwise directed, be accompanied by a translation certified by a notary public or authenticated by affidavit.
