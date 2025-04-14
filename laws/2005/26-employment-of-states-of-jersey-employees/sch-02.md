@@ -1,6 +1,6 @@
 # SCHEDULE 2
 (Article 31)
-classes of politically eligible states’ employees
+Classes of politically eligible states’ employees
 (a) Airport Electricians;
 (b) Members of the Airport Rescue and Fire-fighting Service;
 (c) Educational, Technical and Support staff, who are of Grade 11 or below;

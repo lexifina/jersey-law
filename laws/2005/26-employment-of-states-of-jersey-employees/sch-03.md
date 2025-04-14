@@ -1,6 +1,6 @@
 # SCHEDULE 3
 (Article 31)
-classes of politically ineligible states’ employees
+Classes of politically ineligible states’ employees
 (a) Chief Officers;
 (b) Area Managers of the Fire Service;
 (c) Head Teachers;

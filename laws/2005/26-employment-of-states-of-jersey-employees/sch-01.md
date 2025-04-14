@@ -13,5 +13,6 @@ Greffier of the States
 Deputy Greffier of the States
 Master of the Royal Court
 Magistrate
+Family Judge appointed under Article 12A(1) of the Royal Court (Jersey) Law 1948
 Information Commissioner
 Commissioner for Children and Young People (within the meaning of the Commissioner for Children and Young People (Jersey) Law 2019)
