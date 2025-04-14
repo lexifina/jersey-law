@@ -35,8 +35,8 @@ and such proceedings shall include any which are not instituted in a court of la
 (d) the steps which have been taken to trace the respondent.
 (4) If the petitioner, whether for his or her own protection or otherwise, wishes to omit from the petition any information required by paragraph (1) -
 (a) the petition may be filed without such information; and
-(b) before service is effected the petitioner must make an ex parte application to the Greffier for leave for the petition to stand,
-and if leave is refused, the Greffier shall make an order requiring the petition to be amended to comply with paragraph (1).
+(b) before service is effected the petitioner must make an ex parte application to the Court for leave for the petition to stand,
+and if leave is refused, the Court shall make an order requiring the petition to be amended to comply with paragraph (1).
 (5) In the case of a petition for divorce, nullity or judicial separation that discloses that there is a minor child of the family, the petition must be accompanied by a separate written statement signed by the petitioner personally containing the information required by Form 5, if practicable, agreed with the respondent.
 (6) If an application for ancillary relief is made in a petition, it must contain a statement in general terms of the respondent’s income and property in so far as they are within the petitioner’s knowledge and belief.
 (7) The petition must conclude with a prayer setting out particulars of the relief claimed including -
@@ -46,4 +46,5 @@ and if leave is refused, the Greffier shall make an order requiring the petition
 (8) Every petition, if settled by an advocate or solicitor, must be signed by that person and, if not so settled, must be signed by the petitioner.
 (9) If a petitioner is legally represented, the petitioner’s advocate or solicitor must endorse on the petition his or her name and address in Jersey, which shall be an address for service.
 (10) A petitioner acting in person must endorse on the petition an address for service, which must be the petitioner’s place of residence or, if he or she has no place of residence in Jersey, an address for service in Jersey.
-(11) Unless otherwise directed by the Greffier on application being made to the Greffier ex parte, a certificate of marriage to which the petition relates must be filed with the petition.
+(11) A certificate of marriage to which the petition relates must be filed with the petition unless the Court otherwise directs.
+(12) An application for a direction under paragraph (11) may be made to the Court ex parte.

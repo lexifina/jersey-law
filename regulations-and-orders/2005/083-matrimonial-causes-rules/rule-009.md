@@ -13,10 +13,10 @@
 (a) the petition is presented on the ground of one year’s separation coupled with the respondent’s consent to a decree being granted; and
 (b) none of the other facts mentioned in Article 7 of the Law is alleged,
 unless the petitioner produces to the Court a written statement containing the respondent’s consent to the grant of a decree.
-(8) An application for leave to substitute for the modes of service prescribed by this Rule some other mode of service, or to substitute for service notice of the proceedings by advertisement or otherwise, must be made ex parte by lodging with the Greffier an affidavit, sworn by the petitioner or respondent, as the case may be, personally, setting out the grounds on which the application is made and the facts relied on.
-(9) No order giving leave to substitute notice of proceedings by advertisement shall be made unless it appears to the Greffier that there is a reasonable probability that the advertisement will come to the knowledge of the person concerned.
-(10) If leave is given to substitute for service notice of the proceedings by advertisement, the form of advertisement must be approved by the Greffier and copies of the newspapers containing the advertisement together with any notice to appear must be filed.
-(11) An application for leave to dispense with service altogether must be made ex parte to the Greffier supported by an affidavit setting out the grounds of the application and, if it appears necessary or expedient to do so, the Greffier may grant such leave.
+(8) An application for leave to substitute for the modes of service prescribed by this Rule some other mode of service, or to substitute for service notice of the proceedings by advertisement or otherwise, must be made ex parte by filing an affidavit, sworn by the petitioner or respondent, as the case may be, personally, setting out the grounds on which the application is made and the facts relied on.
+(9) No order giving leave to substitute notice of proceedings by advertisement shall be made unless it appears to the Court that there is a reasonable probability that the advertisement will come to the knowledge of the person concerned.
+(10) If leave is given to substitute for service notice of the proceedings by advertisement, the form of advertisement must be approved by the Court and copies of the newspapers containing the advertisement together with any notice to appear must be filed.
+(11) An application for leave to dispense with service altogether must be made ex parte to the Court supported by an affidavit setting out the grounds of the application and, if it appears necessary or expedient to do so, the Court may grant such leave.
 (12) Unless otherwise directed, service or delivery of any summons, notice or other document in a cause may, if no other mode of service or delivery is prescribed, be effected -
 (a) where the party to be served -
 (i) is the petitioner,

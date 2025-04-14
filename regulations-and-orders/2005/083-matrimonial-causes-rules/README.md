@@ -1,11 +1,11 @@
 # Matrimonial Causes Rules 2005
 
-R&O.83/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_83_2005_20250413>
+R&O.83/2005 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_83_2005_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Rule 1 | [rule-001.md](rule-001.md) | 1 Interpretation |
-| Rule 2 | [rule-002.md](rule-002.md) | 2 Powers of Greffier |
+| Rule 2 | [rule-002.md](rule-002.md) | 2 Powers of Family Judges |
 | Rule 3 | [rule-003.md](rule-003.md) | 3 Application for leave to present petition |
 | Rule 4 | [rule-004.md](rule-004.md) | 4 Commencement of proceedings |
 | Rule 5 | [rule-005.md](rule-005.md) | 5 Contents of petition |
@@ -42,7 +42,7 @@ R&O.83/2005 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 28 | [rule-028.md](rule-028.md) | 28 Greffier’s certificate and directions for trial |
 | Rule 29 | [rule-029.md](rule-029.md) | 29 Listing of causes and fixing date of trial |
 | Rule 30 | [rule-030.md](rule-030.md) | 30 Evidence at trial of cause |
-| Rule 31 | [rule-031.md](rule-031.md) | 31 Hearing of undefended causes by Greffier |
+| Rule 31 | [rule-031.md](rule-031.md) | 31 Hearing of undefended causes by Family Judge |
 | Rule 32 | [rule-032.md](rule-032.md) | 32 Right of respondent, co-respondent or party cited to be heard on question of costs |
 | Rule 33 | [rule-033.md](rule-033.md) | 33 Respondent's statement as to arrangements for children |
 | Rule 34 | [rule-034.md](rule-034.md) | 34 Applications relating to children of the family |
@@ -52,7 +52,7 @@ R&O.83/2005 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 38 | [rule-038.md](rule-038.md) | 38 Intervention by Attorney General |
 | Rule 39 | [rule-039.md](rule-039.md) | 39 Intervention by person other than Attorney General |
 | Rule 40 | [rule-040.md](rule-040.md) | 40 Rescission of decree nisi by consent |
-| Rule 41 | [rule-041.md](rule-041.md) | 41 Decree absolute on lodging notice |
+| Rule 41 | [rule-041.md](rule-041.md) | 41 Decree absolute on filing notice |
 | Rule 42 | [rule-042.md](rule-042.md) | 42 Decree absolute on application |
 | Rule 43 | [rule-043.md](rule-043.md) | 43 Expedition of decree absolute |
 | Rule 44 | [rule-044.md](rule-044.md) | 44 Certificate of decree absolute |
@@ -73,8 +73,8 @@ R&O.83/2005 · official consolidation showing the law from 2024-02-27 · <https:
 | Rule 58 | [rule-058.md](rule-058.md) | 58 Costs |
 | Rule 59 | [rule-059.md](rule-059.md) | 59 Hearing of application for ancillary relief |
 | Rule 60 | [rule-060.md](rule-060.md) | 60 Order on application for ancillary relief |
-| Rule 61 | [rule-061.md](rule-061.md) | 61 Reference of application to Inferior Number |
-| Rule 62 | [rule-062.md](rule-062.md) | 62 Appeals against orders and decisions of the Greffier |
+| Rule 61 | [rule-061.md](rule-061.md) | 61 Reference of application for ancillary relief to Inferior Number |
+| Rule 62 | [rule-062.md](rule-062.md) | 62 Appeals against orders and decisions of Family Judge or the Greffier |
 | Rule 63 | [rule-063.md](rule-063.md) | 63 Minors and persons of unsound mind |
 | Rule 64 | [rule-064.md](rule-064.md) | 64 Separate representation of children |
 | Rule 65 | [rule-065.md](rule-065.md) | 65 Transcript of evidence |

@@ -3,5 +3,5 @@
 (2) A party on whom a copy of the affidavit has been served under paragraph (1) may, within 14 days after service, file an affidavit in answer and, if that party does so, the party must, within 24 hours of filing, serve a copy on the person showing cause.
 (3) The person showing cause may file an affidavit in reply within 14 days after service of the affidavit in answer and, if that person does so, he or she must, within 24 hours of filing, serve a copy on each party who was served with a copy of the original affidavit.
 (4) No affidavit may be served after an affidavit in reply except with the leave of the Court.
-(5) A person showing cause must apply to the Greffier for directions within 14 days after expiry of the time allowed for filing an affidavit in reply or, if an affidavit in answer has been filed, within 14 days after the expiry of the time allowed for filing such an affidavit.
+(5) A person showing cause must apply to the Court for directions within 14 days after expiry of the time allowed for filing an affidavit in reply or, if an affidavit in answer has been filed, within 14 days after the expiry of the time allowed for filing such an affidavit.
 (6) If the person showing cause does not apply under paragraph (5) within the time allowed, any of the other parties may do so.
