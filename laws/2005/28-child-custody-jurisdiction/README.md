@@ -1,6 +1,6 @@
 # Child Custody (Jurisdiction) (Jersey) Law 2005
 
-L.28/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_28_2005_20250413>
+L.28/2005 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/l_28_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,4 +30,5 @@ L.28/2005 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 23 | [art-023.md](art-023.md) | 23 Application to Guernsey, Isle of Man, etc. |
 | Art. 24 | [art-024.md](art-024.md) | 24 Amendment consequential on changes in United Kingdom legislation |
 | Art. 25 | [art-025.md](art-025.md) | 25 Rules of Court |
+| Art. 25A | [art-025-a.md](art-025-a.md) | 25A Savings |
 | Art. 26 | [art-026.md](art-026.md) | 26 Citation |
