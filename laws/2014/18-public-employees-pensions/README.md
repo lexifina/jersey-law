@@ -1,6 +1,6 @@
 # Public Employees (Pensions) (Jersey) Law 2014
 
-L.18/2014 · official consolidation showing the law from 2021-10-01 · <https://www.jerseylaw.je/laws/current/l_18_2014_20250413>
+L.18/2014 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/l_18_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
