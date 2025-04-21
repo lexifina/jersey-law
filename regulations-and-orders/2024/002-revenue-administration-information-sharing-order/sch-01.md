@@ -20,6 +20,8 @@ Enabling or assisting the Data Protection Authority to exercise functions under 
 Jersey Resolution Authority
 Enabling or assisting the Jersey Resolution Authority to exercise functions under the Bank (Recovery and Resolution) (Jersey) Law 2017
 Office of the Chief Statistician
-Enabling or assisting the Chief Statistician to provide tier 1 statistics within the meaning of Article 7G of the Statistics and Census (Jersey) Law 2018
+Enabling or assisting the Chief Statistician to exercise functions under the Statistics and Census (Jersey) Law 2018
 Minister with functions under the Sanctions and Asset-Freezing (Jersey) Law 2019
 Enabling or assisting the Minister to exercise functions under the Sanctions and Asset-Freezing (Jersey) Law 2019
+Jersey Employment and Discrimination Tribunal
+Enabling or assisting the Jersey Employment and Discrimination Tribunal to exercise functions under the Employment (Jersey) Law 2003, the Discrimination (Jersey) Law 2013 and the Employment Relations (Jersey) Law 2007 or enabling or assisting the Tribunal to identify parties to proceedings
