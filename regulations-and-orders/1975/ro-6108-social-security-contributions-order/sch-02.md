@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article A3)
 Class 2 insured person - income from self-employment, total income and earnings
 1 Income from self-employment

@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 6)
 Exceptions and credits for long term incapacity allowance
 Column 1

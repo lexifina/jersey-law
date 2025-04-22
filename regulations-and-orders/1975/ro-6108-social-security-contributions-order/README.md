@@ -1,6 +1,6 @@
 # Social Security (Contributions) (Jersey) Order 1975
 
-R&O.6108 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_6108_20250421>
+R&O.6108 · official consolidation showing the law from 2025-04-22 · <https://www.jerseylaw.je/laws/current/ro_6108_20261018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ R&O.6108 · official consolidation showing the law from 2025-01-01 · <https://w
 | Art. 13C | [art-013-c.md](art-013-c.md) | 13C Low earnings employee classified as Class 2 insured person |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D Class 2 - deferred contributions for business commencement |
 | Art. 13E | [art-013-e.md](art-013-e.md) | 13E Recalculation of contributions deferred under Article 13D |
-| Art. 14 | [art-014.md](art-014.md) | 14 Home responsibilities credits |
+| Art. 14 | [art-014.md](art-014.md) | 14 Persons with care of pre-school child |
 | Art. 15 | [art-015.md](art-015.md) | 15 Credited contributions |
 | Art. 16 | [art-016.md](art-016.md) | 16 Class 2 insured persons nearing pensionable age |
 | Art. 16A | [art-016-a.md](art-016-a.md) | 16A Applications for exception or concession |
@@ -39,6 +39,6 @@ R&O.6108 · official consolidation showing the law from 2025-01-01 · <https://w
 | Art. 24 | [art-024.md](art-024.md) | 24 Treatment for the purpose of any benefit of contributions which persons are entitled, but not liable, to pay |
 | Art. 25 | [art-025.md](art-025.md) | 25 Payments after death |
 | Art. 27 | [art-027.md](art-027.md) | 27 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

@@ -1,6 +1,5 @@
 THE EMPLOYMENT AND SOCIAL SECURITY COMMITTEE, in pursuance of Articles 10, 11, 36, 46, 47 and 51 of the Social Security (Jersey) Law 1974, orders as follows -
 (1) In this Order, unless the context otherwise requires -
-“below compulsory school age” has the same meaning as in Article 2 of the Education (Jersey) Law 1999;
 “Comptroller” means the Comptroller of Revenue described in Article 2 of the Revenue Administration (Jersey) Law 2019;
 “contribution liability notice” has the same meaning as in the Social Security (Collection of Class 1 and Class 2 Contributions) (Jersey) Order 2013;
 “due date” means, in relation to any contribution under the Law, the day on which that contribution was due to be paid;

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article A2)
 Class 1 insured person - earnings
 1 Periods of absence from employment
