@@ -59,5 +59,4 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 (d) except to the extent that the Minister -
 (i) grants a general licence under Article 5 of this Order or Article 16 of the Law in which a provision of the UK Russia general licence is expressly modified or disapplied, or
 (ii) publicises a notice that disapplies the UK Russia general licence, by taking steps equivalent to those required by Article 16(5)(b) of the Law for revocation of a general licence granted by the Minister.
-5 Syria (Sanctions) (EU Exit) Regulations 2019: aircraft offence
-In column 5 of the table in Schedule 1 to this Order, for the purpose of the reference to regulation 51(1) of the Syria (Sanctions) (EU Exit) Regulations 2019, the persons who commit the offence in Article 4(1)(a) of contravening regulation 51(1) are the operator and pilot in command of the aircraft.
+5
