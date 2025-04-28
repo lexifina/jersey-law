@@ -3,22 +3,23 @@
 judicial fees
 1 Lettered Rates
 In the column headed “Stamp Duty, by Figure or Rate” in the tables in paragraph 3, the amounts represented by the lettered rates (if shown) in those tables are -
-(a) by rate A, £1.50;
-(b) by rate B, £16;
-(c) by rate C, £35;
-(d) by rate D, £45;
-(e) by rate E, £65;
-(f) by rate F, £90;
-(g) by rate G, £130;
-(h) by rate H, £165;
-(i) by rate I, £220;
-(j) by rate J, £330;
-(k) by rate K, £400;
-(l) by rate L, £550;
-(m) by rate M, £750;
-(n) by rate N, £1,000;
-(o) by rate O, £1,250;
-(p) by rate P, £1,500.
+(a) by rate A, £2;
+(b) by rate B, £18;
+(c) by rate C, £43;
+(d) by rate D, £52;
+(e) by rate E, £75;
+(f) by rate F, £104;
+(g) by rate G, £151;
+(h) by rate H, £191;
+(i) by rate I, £255;
+(j) by rate J, £383;
+(k) by rate K, £464;
+(l) by rate L, £638;
+(m) by rate M, £870;
+(n) by rate N, £1,160;
+(o) by rate O, £1,450;
+(p) by rate P, £1,740;
+(q) by rate Q, £5,000.
 2 Bands relating to value in item 13
 The table set out in this paragraph is to be read as included in each paragraph of item 13 where there is an entry “See table in paragraph 2”.
 Item 13
@@ -174,12 +175,12 @@ Greffier
 (ba)
 Where an acknowledgement of debt document specifies a new amount of borrowing (the “new borrowing document”) for a dwelling in respect of which another acknowledgement of debt document specifying an amount of borrowing is registered in the Public Registry and for which stamp duty has been paid (the “registered borrowing document”), and some or all of the amount specified in the registered borrowing document remains unpaid (the “unpaid amount”) -
 (i) where the amount of borrowing specified in the new borrowing document is less than or equal to the unpaid amount
-rate F
+£90
 Billet
 Greffier
 (ii) where the amount of borrowing specified in the new borrowing document is greater than the unpaid amount,
 (I) for the portion of the amount that is equal to the unpaid amount, and
-rate F
+£90
 Billet
 Greffier
 (II) for the portion of the amount that is greater than the unpaid amount
@@ -207,12 +208,12 @@ Billet
 Greffier
 (d)
 In all cases under this item, except paragraph (ba), for each document registered
-rate F
+£90
 Billet
 Greffier
 Provided that where the Greffier is satisfied that the document is a renewal or further renewal of a judicial hypothec on which stamp duty has already been paid and which has become prescribed by lapse of time under Article 29 of the Loi (1880) sur la propriété foncière, the total fee payable -
 (A)
-under paragraph (a) or (c) of this item shall be rate F; and
+under paragraph (a) or (c) of this item shall be £90; and
 (B)
 under paragraph (b) of this item shall be rate B
 Item 2.
@@ -284,8 +285,12 @@ In the Royal Court (excluding acknowledgement of debt) on Table or au Greffe -
 rate J
 Billet or application
 Greffier
-(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million but does not exceed £10 million
 rate P
+Billet or application
+Greffier
+(iii) where the value of the claim or the value of the assets affected by the claim exceeds £10 million
+rate Q
 Billet or application
 Greffier
 (b) Before the Superior Number
@@ -301,8 +306,12 @@ Greffier
 rate J
 Application
 Greffier
-(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million but does not exceed £10 million
 rate P
+Application
+Greffier
+(iii) where the value of the claim or the value of the assets affected by the claim exceeds £10 million
+rate Q
 Application
 Greffier
 (e) Hearing of the action in a case, or any interlocutory matter therein, where the court appoints a special day for judging a dispute between parties, whether or not witnesses are heard, for each half day or part of a half day -
@@ -326,8 +335,12 @@ Greffier
 rate O
 Billet or application
 Greffier
-(vi) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+(vi) where the value of the claim or the value of the assets affected by the claim exceeds £2 million but does not exceed £10 million
 rate P
+Billet or application
+Greffier
+(vii) where the value of the claim or the value of the assets affected by the claim exceeds £10 million
+rate Q
 Billet or application
 Greffier
 (f) Each intervention or opposition made during the course of an action
@@ -550,7 +563,7 @@ Contract
 Greffier
 (d1)
 Of creation of rente nouvelle, or of one or more simple conventionnel hypothecs, where the borrower produces to the designated officer a letter from the Comptroller of Revenue confirming that it qualifies for exemption from income tax under Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961
-rate F
+£90
 Contract
 Greffier
 (d2)
@@ -676,7 +689,7 @@ Contract, power of attorney or letters
 Greffier
 (q)
 For any contract, power of attorney, or letters of appointment of guardian, or of administration to property, or of attainment of majority, passed en minute an additional fee shall be payable of
-rate F
+£90
 Contract, power of attorney or letters
 Greffier
 (r)
@@ -693,7 +706,7 @@ Greffier
 Of sale within the terms of paragraph (a) or (aa) of this item, of gift, resignation or cession within the terms of paragraph (c) of this item or of lease, sub-lease or transfer or extension of lease or sub-lease within the terms of paragraph (l) of this item, where the purchaser, donee, lessee, sub-lessee or transferee, according to the case, produces to the designated officer a letter from the Comptroller of Revenue confirming that the purchaser, donee, lessee, sub-lessee or transferee -
 (a) qualifies for exemption from income tax under Article 115(a), (aa) or (ae) of the Income Tax (Jersey) Law 1961; or
 (b) is a company prescribed under Article 2 of the Social Housing (Transfer) (Jersey) Law 2013, and qualifies for exemption from income tax under Article 115(c) of the Income Tax (Jersey) Law 1961
-rate F
+£90
 Contract
 Greffier
 (ta)
@@ -703,7 +716,7 @@ Contract
 Greffier
 (u)
 In all cases under this item, for each document registered
-rate F
+£90
 Contract, power of attorney or letters
 Greffier
 Item 14.
@@ -1055,8 +1068,12 @@ Order of justice signed by Bailiff -
 rate J
 Order of justice
 Bailiff
-(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+(ii) where the value of the claim or the value of the assets affected by the claim exceeds £2 million but does not exceed £10 million
 rate P
+Order of justice
+Bailiff
+(iii) where the value of the claim or the value of the assets affected by the claim exceeds £10 million
+rate Q
 Order of justice
 Bailiff
 (b)
@@ -1066,8 +1083,12 @@ Provisional order -
 rate J
 Provisional order
 Bailiff
-(B) where the value of the claim or the value of the assets affected by the claim exceeds £2 million
+(B) where the value of the claim or the value of the assets affected by the claim exceeds £2 million but does not exceed £10 million
 rate P
+Provisional order
+Bailiff
+(C) where the value of the claim or the value of the assets affected by the claim exceeds £10 million
+rate Q
 Provisional order
 Bailiff
 (ii) signed by Judge of Petty Debts Court
@@ -1199,8 +1220,12 @@ Presentation to Court -
 rate J
 Remonstrance, representation or doléance
 Greffier
-(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million
+(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million but does not exceed £10 million
 rate P
+Remonstrance, representation or doléance
+Greffier
+(iii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £10 million
+rate Q
 Remonstrance, representation or doléance
 Greffier
 (b)
@@ -1209,8 +1234,12 @@ Where the Court fixes a special day for the hearing, each half day or part of a 
 rate L
 Remonstrance, representation or doléance
 Greffier
-(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million
+(ii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £2 million but does not exceed £10 million
 rate P
+Remonstrance, representation or doléance
+Greffier
+(iii) where the value of the assets affected by the remonstrance, representation or doléance exceeds £10 million
+rate Q
 Remonstrance, representation or doléance
 Greffier
 Item 37.

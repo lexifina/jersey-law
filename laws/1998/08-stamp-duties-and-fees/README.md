@@ -1,6 +1,6 @@
 # Stamp Duties and Fees (Jersey) Law 1998
 
-L.8/1998 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/l_8_1998_20250427>
+L.8/1998 · official consolidation showing the law from 2025-04-28 · <https://www.jerseylaw.je/laws/current/l_8_1998_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,7 +19,6 @@ L.8/1998 · official consolidation showing the law from 2025-01-01 · <https://w
 | Art. 10 | [art-010.md](art-010.md) | 10 Determinations and appeals |
 | Art. 11 | [art-011.md](art-011.md) | 11 Offences |
 | Art. 12 | [art-012.md](art-012.md) | 12 Validity of stamp duty charged under previous legislation |
-| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Transitional provision |
 | Art. 13 | [art-013.md](art-013.md) | 13 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

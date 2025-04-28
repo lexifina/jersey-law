@@ -4,18 +4,18 @@ FEES IN MATRIMONIAL AND CIVIL PARTNERSHIP PROCEEDINGS
 1 Lettered Rates
 In the column headed “Stamp Duty, by Figure or Rate” in the tables in paragraph 2, the amounts represented by the lettered rates (if shown) in those tables -
 (a) by rate A, £1;
-(b) by rate B, £15;
-(c) by rate C, £30;
-(d) by rate D, £40;
-(e) by rate E, £60;
-(f) by rate F, £80;
-(g) by rate G, £120;
-(h) by rate H, £150;
-(i) by rate I, £200;
-(j) by rate J, £300;
-(k) by rate K, £360;
-(l) by rate L, £500;
-(m) by rate M, £1,500.
+(b) by rate B, £20;
+(c) by rate C, £40;
+(d) by rate D, £54;
+(e) by rate E, £80;
+(f) by rate F, £107;
+(g) by rate G, £161;
+(h) by rate H, £201;
+(i) by rate I, £268;
+(j) by rate J, £402;
+(k) by rate K, £482;
+(l) by rate L, £670;
+(m) by rate M, £2,010.
 2 Tables of Fees in Matrimonial and Civil Partnership Proceedings
 Item
 Stamp Duty
