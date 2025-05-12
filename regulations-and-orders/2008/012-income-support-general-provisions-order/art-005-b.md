@@ -6,7 +6,7 @@
 (d) a medical practitioner.
 (2) An application under paragraph (1) must -
 (a) be made to the Minister on a form approved by the Minister, or in such other manner as the Minister may accept as sufficient in the circumstances of the case; and
-(b) be accompanied by such information, documents and evidence as the Minister requires for the purpose of enabling the application to be determined.
+(b) be accompanied by the information and documents the Minister requires for the purpose of enabling the application to be determined.
 (3) On receiving an application under paragraph (1), the Minister may -
 (a) subject to paragraph (4), grant the application; or
 (b) refuse the application,

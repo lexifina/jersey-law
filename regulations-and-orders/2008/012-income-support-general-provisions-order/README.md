@@ -1,6 +1,6 @@
 # Income Support (General Provisions) (Jersey) Order 2008
 
-R&O.12/2008 · official consolidation showing the law from 2024-01-01 · <https://www.jerseylaw.je/laws/current/ro_12_2008_20250511>
+R&O.12/2008 · official consolidation showing the law from 2025-05-12 · <https://www.jerseylaw.je/laws/current/ro_12_2008_20250609>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,9 +11,9 @@ R&O.12/2008 · official consolidation showing the law from 2024-01-01 · <https:
 | Art. 5 | [art-005.md](art-005.md) | 5 Persons treated as being members of the same household |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Assessment of impairment and approval of care packages |
 | Art. 5B | [art-005-b.md](art-005-b.md) | 5B Approved registered person |
-| Art. 6 | [art-006.md](art-006.md) | 6 Manner in which claims are to be made |
-| Art. 7 | [art-007.md](art-007.md) | 7 Information and evidence in support of a claim |
-| Art. 8 | [art-008.md](art-008.md) | 8 Notification of change of circumstances and furnishing of information |
+| Art. 6 | [art-006.md](art-006.md) | 6 Making a claim and information required |
+| Art. 7 | [art-007.md](art-007.md) | 7 Information in support of impairment component |
+| Art. 8 | [art-008.md](art-008.md) | 8 Notification of change of circumstances and provision of information |
 | Art. 9 | [art-009.md](art-009.md) | 9 Persons unable to act |
 | Art. 10 | [art-010.md](art-010.md) | 10 Manner of determining income |
 | Art. 11 | [art-011.md](art-011.md) | 11 Application of Part 3 to special payments |
@@ -21,7 +21,7 @@ R&O.12/2008 · official consolidation showing the law from 2024-01-01 · <https:
 | Art. 13 | [art-013.md](art-013.md) | 13 Right to redetermination by second determining officer |
 | Art. 13A | [art-013-a.md](art-013-a.md) | 13A Notice of determination or decision |
 | Art. 13B | [art-013-b.md](art-013-b.md) | 13B Payments of income support |
-| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Changes in circumstances affecting payments of income support |
+| Art. 13C | [art-013-c.md](art-013-c.md) | 13C Change of circumstances affecting payments of income support |
 | Art. 14 | [art-014.md](art-014.md) | 14 Review on medical grounds |
 | Art. 15 | [art-015.md](art-015.md) | 15 Medical Appeal Tribunal |
 | Art. 16 | [art-016.md](art-016.md) | 16 Procedure of Medical Appeal Tribunal |
