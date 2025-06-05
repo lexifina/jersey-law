@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2025-03-06 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20250604>
+R&O.86/2018 · official consolidation showing the law from 2025-06-05 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20250831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -26,11 +26,11 @@ R&O.86/2018 · official consolidation showing the law from 2025-03-06 · <https:
 | Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA 2025 academic year: maximum maintenance grant if relevant income is less than £52,600 |
 | Art. 13C | [art-013-c.md](art-013-c.md) | 13C 2024 academic year: maintenance grant if relevant income is £50,000 or more, but less than £90,000 |
 | Art. 13CA | [art-013-ca.md](art-013-ca.md) | 13CA 2025 academic year: maintenance grant if relevant income is £52,600 or more, but less than £94,680 |
+| Art. 13CB | [art-013-cb.md](art-013-cb.md) | 13CB Student detained in prison not entitled to maintenance grant |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
 | Art. 14 | [art-014.md](art-014.md) | 14 Clinical courses |
 | Art. 15 | [art-015.md](art-015.md) | 15 Clinical component grant |
 | Art. 16 | [art-016.md](art-016.md) | 16 Arts foundation courses |
-| Art. 17 | [art-017.md](art-017.md) | 17 Distance learning course grant |
 | Art. 19 | [art-019.md](art-019.md) | 19 Reduction of grant to take account of child allowance |
 | Art. 20 | [art-020.md](art-020.md) | 20 Reduction of grant in respect of 4-year courses |
 | Art. 20A | [art-020-a.md](art-020-a.md) | 20A Reduced maintenance grant in respect of part-time courses |
@@ -49,3 +49,4 @@ R&O.86/2018 · official consolidation showing the law from 2025-03-06 · <https:
 | Art. 33 | [art-033.md](art-033.md) | 33 Grant or allowance may be suspended or withdrawn |
 | Art. 34 | [art-034.md](art-034.md) | 34 Appeals panel |
 | Art. 37 | [art-037.md](art-037.md) | 37 Citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
