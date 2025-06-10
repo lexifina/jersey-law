@@ -10,3 +10,4 @@
 (a) the determining officer does not require any further information because of the change, the increase has effect from the date the Minister is notified of the change of circumstances;
 (b) further information required because of the change is provided within the time specified under Article 8(3), the increase has effect from the date the Minister is notified of the change of circumstances;
 (c) further information required because of the change is not provided within the time specified under Article 8(3), the increase has effect from the date the further information is provided.
+(6) In this Article, “further information” means certificates, documents or other information specified by the determining officer under Article 8(3), or as may be specified by the determining officer under Article 8(5).
