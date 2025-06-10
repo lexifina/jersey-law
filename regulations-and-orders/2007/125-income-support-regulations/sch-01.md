@@ -206,11 +206,12 @@ B: impairment component
 (1) A household is entitled to the personal care element in respect of any member of the household if he or she is -
 (a) an adult or child who has the score described in sub-paragraph (3)(a);
 (b) an adult who has the score described in sub-paragraph (3)(b);
-(c) an adult who has the score described in sub-paragraph (3)(c) and who is not receiving long-term care; or
+(c) an adult who has the score described in sub-paragraph (3)(c) and who is not receiving long-term care;
 (d) an adult aged 18 or over who is assessed by an approved registered person as having personal care needs that are permanent and requiring an approved care package, and -
 (i) is not receiving any personal care element under clause (a), (b) or (c), and
-(ii) does not meet the condition under Article 3(2)(a) of the Long-Term Care (Jersey) Law 2012 and is not receiving any benefit under that Law.
-(2) Except in the case of an adult referred to in sub-paragraph (1)(d), the rate of personal care element payable to a member of a household is calculated by -
+(ii) does not meet the condition under Article 3(2)(a) of the Long-Term Care (Jersey) Law 2012 and is not receiving any benefit under that Law; or
+(e) an adult or child who, in the opinion of a relevant clinician, is not expected to live more than 12 months.
+(2) Except in the case of an adult referred to in sub-paragraph (1)(d) or an adult or child referred to in sub-paragraph (1)(e), the rate of personal care element payable to a member of a household is calculated by -
 (a) in accordance with the directions set out in Part 1 of Schedule 2, selecting the one statement set out in column 1 of the table in Part 1 of Schedule 2 in respect of each numbered activity described in that table that most accurately applies to the member (excluding any statement that does not apply to the member by virtue of column 3 or 4); and
 (b) totalling each score indicated in column 2 of the table in respect of each statement selected under clause (a).
 (3) The rate of personal care element payable in respect of the total score calculated under sub-paragraph (2) is -
@@ -226,11 +227,16 @@ for a score of at least 56
 (4) The rate of personal care element in respect of a member of a household referred to in sub-paragraph (1)(d) shall be whichever amount is the lower of -
 (a) the net weekly cost of an approved care package for that member having taken account and deducted the amount of any funding or subsidy provided by the Minister for Health and Social Services with respect to the cost of the approved care package; and
 (b) the weekly rate set at the lowest level of standard care provided under Article 8 of the Long-Term Care (Benefits) (Jersey) Order 2014.
+(4A) In the case of an adult or child referred to in sub-paragraph (1)(e), the rate of personal care element payable is that referred to in sub-paragraph (3)(c) (without the need for the calculation set out in sub-paragraph (2)).
 (5) In this paragraph -
 “approved care package” means a care package, approved by an approved registered person, for providing personal care for a person assessed by the approved registered person as having personal care needs that are permanent, such personal care being provided in the person’s home or other premises not being an approved care home;
 “approved registered person” has the meaning given by Article 1(1) of the Income Support (General Provisions) (Jersey) Order 2008;
 “permanent” means continuing or likely to continue for the rest of a person’s life;
-“personal care” means assistance with every day activities (such as bathing, dressing, grooming and eating) given to a person with a physical, sensory, mental or cognitive impairment which makes that person unable to care for himself or herself.
+“personal care” means assistance with every day activities (such as bathing, dressing, grooming and eating) given to a person with a physical, sensory, mental or cognitive impairment which makes that person unable to care for himself or herself;
+“relevant clinician” means -
+(a) a doctor;
+(b) a fully registered person as defined by section 55 of the Medical Act 1983 of the United Kingdom; or
+(c) a nurse who specialises in the terminal condition of the adult or child referred to in sub-paragraph (1)(e).
 7 Mobility element
 (1) A household is entitled to a mobility element in respect of any member of the household who is at least 3 years of age if one or more of the statements set out in Part 2 of Schedule 2 applies to that member (unless the member is a child and the statement is expressed not to be relevant to a child of his or her age).
 (2) However, a household is not entitled to a mobility element in respect of a member of the household who is receiving long-term care in an approved care home.
@@ -277,10 +283,11 @@ D: carer’s component
 (1) A household is entitled to a carer’s component in respect of all persons cared for by each member of the household (a “carer”) if -
 (a) the carer has the main responsibility for caring for a person who is ordinarily resident in Jersey;
 (b) the carer -
-(i) is not in receipt of a personal care element of the impairment component at the rate mentioned in paragraph 6(3)(c), and
+(i) is not in receipt of a personal care element of the impairment component at the rate mentioned in paragraph 6(3)(c);
+(ia) is not in receipt of the personal care element under paragraph 6(1)(d);
 (ii) has not been assessed, under Article 5 of the Long-Term Care (Jersey) Law 2012, as being in need of long-term care; and
 (c) at least one of the persons cared for -
-(i) meets the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(c), or
+(i) meets the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(c); or
 (ii) has been assessed, under Article 5 of the Long-Term Care (Jersey) Law 2012, as being in need of long-term care.
 (2) However, a household is not entitled to a carer’s component in respect of any carer while the carer is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(b), (c) or (d), unless the disentitlement is because one or more of the persons being cared for is receiving medical treatment outside Jersey and the carer has accompanied that person or persons.
 (3) A household is not entitled to a carer’s component in respect of any carer while the household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of the carer as a consequence of paragraph 1(5).

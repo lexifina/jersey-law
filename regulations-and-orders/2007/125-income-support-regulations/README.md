@@ -1,6 +1,6 @@
 # Income Support (Jersey) Regulations 2007
 
-R&O.125/2007 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_125_2007_20250609>
+R&O.125/2007 · official consolidation showing the law from 2025-06-10 · <https://www.jerseylaw.je/laws/current/ro_125_2007_20250918>
 
 | Provision | File | Heading |
 | --- | --- | --- |
