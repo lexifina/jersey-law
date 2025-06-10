@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulations 16(6))
 DETAILS TO GO ON CERTIFICATE OF REGISTRY
 1. A certificate of registry for a ship -

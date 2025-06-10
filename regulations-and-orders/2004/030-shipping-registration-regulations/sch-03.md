@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulations 16(5))
 DETAILS TO GO ON REGISTER
 1. The following information is to be registered about each owner who is an individual -

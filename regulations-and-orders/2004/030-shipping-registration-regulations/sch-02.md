@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulations 15(2)(a))
 CARVING AND MARKING
 1. This Schedule sets out how a ship must be permanently and conspicuously marked before it can be registered.

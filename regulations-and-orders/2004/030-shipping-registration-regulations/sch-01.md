@@ -1,4 +1,4 @@
-# schedule A1
+# Schedule A1
 (Regulation 4)
 specified countries
 The specified countries are -

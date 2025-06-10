@@ -1,6 +1,6 @@
 # Shipping (Registration) (Jersey) Regulations 2004
 
-R&O.30/2004 · official consolidation showing the law from 2024-12-17 · <https://www.jerseylaw.je/laws/current/ro_30_2004_20250609>
+R&O.30/2004 · official consolidation showing the law from 2025-06-10 · <https://www.jerseylaw.je/laws/current/ro_30_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ R&O.30/2004 · official consolidation showing the law from 2024-12-17 · <https:
 | Reg. 32A | [reg-032-a.md](reg-032-a.md) | 32A Transitional provision - Shipping Registration (Amendment) (Jersey) Regulations 2011 |
 | Reg. 32B | [reg-032-b.md](reg-032-b.md) | 32B Offences by separate limited partnerships, limited liability partnerships and bodies corporate |
 | Reg. 33 | [reg-033.md](reg-033.md) | 33 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | schedule A1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 1 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 2 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule A1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 1 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 2 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 3 |
