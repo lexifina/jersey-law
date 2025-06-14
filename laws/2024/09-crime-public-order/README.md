@@ -1,6 +1,6 @@
 # Crime (Public Order) (Jersey) Law 2024
 
-L.9/2024 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-09-2024.aspx>
+L.9/2024 Â· official consolidation showing the law from 2025-06-14 Â· <https://www.jerseylaw.je/laws/current/l_9_2024>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -15,8 +15,8 @@ L.9/2024 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-09-
 | Art. 8 | [art-008.md](art-008.md) | 8 Restraining orders |
 | Art. 9 | [art-009.md](art-009.md) | 9 Breach of restraining order |
 | Art. 10 | [art-010.md](art-010.md) | 10 Amendment or revocation of restraining order |
+| Art. 10A | [art-010-a.md](art-010-a.md) | 10A Restraining orders under legislation repealed by this Law |
 | Art. 11 | [art-011.md](art-011.md) | 11 Power to impose fines summarily |
 | Art. 12 | [art-012.md](art-012.md) | 12 Offences by bodies corporate etc. |
-| Art. 13 | [art-013.md](art-013.md) | 13 Repeals and minor amendments |
 | Art. 14 | [art-014.md](art-014.md) | 14 Abolition of customary law offence |
 | Art. 15 | [art-015.md](art-015.md) | 15 Citation and commencement |
