@@ -1,6 +1,6 @@
 # Financial Services Ombudsman (Exempt Business) (Jersey) Order 2014
 
-R&O.158/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_158_2014_20250617>
+R&O.158/2014 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_158_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
