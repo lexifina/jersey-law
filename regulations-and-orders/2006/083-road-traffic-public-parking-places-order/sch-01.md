@@ -92,6 +92,20 @@ STB28
 Les Quennevais Sports Centre and Playing Fields Car Park
 STB29
 PART 3
+St. Clement
+Green Island Car Park
+STC1
+La Mare Common Car Park
+STC2
+Le Hocq Car Park
+STC3
+Old Grève d’Azette Station site car park
+STC4
+Le Hocq Slip, car park at top
+STC 5
+FB Playing Fields Car Park
+STC6
+PART 4
 St. Helier
 Charles Street Car Park
 STHA2
@@ -149,7 +163,7 @@ Springfield Stadium South Car Park
 STH31
 Val Plaisant Gyratory Car Park
 STH32
-PART 4
+PART 5
 St. John
 La Route du Nord Car Park
 SJ1
@@ -159,7 +173,19 @@ St. John’s Village Entrance Car Park
 SJ3
 La Rue des Buttes Car Park
 SJ4
-PART 5
+PART 6
+St. Lawrence
+Bel Royal, Victoria House Car Park
+STL1
+La Perquage Car Park
+STL2
+Millbrook, Coronation Gardens Car Park
+STL3
+Moignard Liberation Garden Car Park
+STL3A
+Victoria Avenue, car park in lay-by 7
+STL4
+PART 7
 St. Martin
 Archirondel, car park adjacent to the café
 STMN1
@@ -187,7 +213,7 @@ Welcome Inn, car park north-east of slipway
 STMN12
 St. Martin’s Village Green Car Park
 STMN13
-PART 6
+PART 8
 St. Ouen
 Grève de Lecq, Martello Tower Car Park
 STO1
@@ -213,47 +239,7 @@ Parish Hall Car Park - rear only
 STO11
 Parish Hall Car Park - front only
 STO12
-PART 7
-Trinity
-Bouley Bay, car park near Water’s Edge Hotel
-T1
-Bechet ès Cats, La Rue des Platons Car Park
-T2
-Jardin d’Olivet, Parc de la Petite Falaise Car Park
-T3
-Riley Field Car Park
-T4
-Trinity Parish Hall Car Park
-T5
-Trinity Youth Centre Car Park
-T6
-PART 8
-St. Clement
-Green Island Car Park
-STC1
-La Mare Common Car Park
-STC2
-Le Hocq Car Park
-STC3
-Old Grève d’Azette Station site car park
-STC4
-Le Hocq Slip, car park at top
-STC 5
-FB Playing Fields Car Park
-STC6
 PART 9
-St. Lawrence
-Bel Royal, Victoria House Car Park
-STL1
-La Perquage Car Park
-STL2
-Millbrook, Coronation Gardens Car Park
-STL3
-Moignard Liberation Garden Car Park
-STL3A
-Victoria Avenue, car park in lay-by 7
-STL4
-PART 10
 St. Peter
 Beaumont, Gunsite Car Park
 STP1
@@ -267,7 +253,7 @@ St. Peter’s Parish Hall Car Park
 STP4
 The unnamed road that runs between the Gunsite Slipway and La Route de la Haule Car Park
 STP5
-PART 11
+PART 10
 St. Saviour
 Bagatelle Car Park
 STS1
@@ -293,3 +279,17 @@ Rue des Prés Trading Estate Car Park
 STS10
 St. Saviour’s Parish Hall Car Park
 STS11
+PART 11
+Trinity
+Bouley Bay, car park near Water’s Edge Hotel
+T1
+Bechet ès Cats, La Rue des Platons Car Park
+T2
+Jardin d’Olivet, Parc de la Petite Falaise Car Park
+T3
+Riley Field Car Park
+T4
+Trinity Parish Hall Car Park
+T5
+Trinity Youth Centre Car Park
+T6

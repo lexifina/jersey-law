@@ -33,24 +33,24 @@ Grouville
 GR2, GR5, GR6, GR7
 St. Brelade
 STB2, STB3, STB3B, STB5, STB5A, STB6, STB7, STB8, STB9, STB11, STB15, STB20, STB23, STB27
+St. Clement
+STC1, STC2, STC3, STC4, STC5
 St. Helier
 STHA3, STH26, STH26A
 St. John
 SJ1
+St. Lawrence
+STL1, STL2, STL4
 St. Martin
 STMN1, STMN4, STMN9, STMN12, STMN13
 St. Ouen
 STO1, STO4, STO5, STO7, STO8
-Trinity
-T2, T3, T4, T5, T6
-St. Clement
-STC1, STC2, STC3, STC4, STC5
-St. Lawrence
-STL1, STL2, STL4
 St. Peter
 STP2, STP3, STP6
 St. Saviour
 STS4, STS5, STS6, STS7, STS10
+Trinity
+T2, T3, T4, T5, T6
 PART 5
 The maximum parking period in respect of the following parking places is 4 hours during any one visit to the parking place.
 St. Lawrence
@@ -119,10 +119,10 @@ PART 17
 The maximum parking period in respect of any of the following parking places on any day except Saturday and Sunday is a total period of 3 hours in any continuous period of 24 hours and on Saturday and Sunday is a total period of 8 hours in a continuous period of 24 hours. A valid parking disc must be displayed on the vehicle during the period when it is parked there.
 St. Brelade
 STB28, STB29
-St. Helier
-STH6
 St. Clement
 STC6
+St. Helier
+STH6
 St. Saviour
 STS3
 PART 18
