@@ -113,7 +113,7 @@ Parking places - 1 hour limit
 Grosvenor Street
 South side (between a point 40 yards east of St. James Street and a point 5 yards further east)
 Halkett Place
-West side (between the southern boundary of the ‘States Library’ and a point 10 yards south of the northern boundary of the ‘States Library’)
+West side (between the southern boundary of the Public Library and a point 10 yards south of the northern boundary of the Public Library)
 Lewis Street
 South side (between a point 10 yards west of Cheapside and a point 6 yards further west)
 Oxford Road
