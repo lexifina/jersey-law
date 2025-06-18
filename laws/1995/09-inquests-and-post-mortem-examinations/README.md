@@ -1,6 +1,6 @@
 # Inquests and Post-Mortem Examinations (Jersey) Law 1995
 
-L.9/1995 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/l_9_1995_20250617>
+L.9/1995 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_9_1995>
 
 | Provision | File | Heading |
 | --- | --- | --- |
