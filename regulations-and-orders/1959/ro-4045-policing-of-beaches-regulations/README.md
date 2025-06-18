@@ -1,10 +1,10 @@
 # Policing of Beaches (Jersey) Regulations 1959
 
-R&O.4045 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_4045_20250617>
+R&O.4045 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_4045_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | THE STATES, in pursuance of the powers conferred upon them by the Order in Council of the 26 December 1851, Article 92 o |
+| Long title | [long-title.md](long-title.md) | THE STATES, in pursuance of the powers conferred upon them by the Loi (1851) autorisant l’établissement des règlements s |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Prohibited acts |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Acts for which written permission of Minister is required |
