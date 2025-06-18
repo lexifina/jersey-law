@@ -1,5 +1,5 @@
 A LAW to empower the States to provide that fines imposed for offences against Regulations relating to the policing of roads, parks and sea beaches shall be awarded for the benefit of the Parishes
-(1) Subject as hereinafter provided, Regulations made by the States in exercise of the powers conferred upon them by the Order in Council of 26th December 1851, or by the said Order in Council and by Article 92 of the Road Traffic (Jersey) Law 1956 (hereinafter referred to as the “relevant powers”), may include provisions -
+(1) Subject as hereinafter provided, Regulations made by the States in exercise of the powers conferred upon them by the Loi (1851) autorisant l’établissement des règlements sur la police des chemins, or by that Loi and by Article 92 of the Road Traffic (Jersey) Law 1956 (hereinafter referred to as the “relevant powers”), may include provisions -
 (a) awarding the fine imposed for any offence against the Regulations for the benefit of the parish in which the offence was committed;
 (b) directing the purpose to which fines so awarded shall be applied.
 (2) Where a person -

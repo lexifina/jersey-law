@@ -1,6 +1,6 @@
 # Policing of Roads, Parks and Sea Beaches (Application of Fines) (Jersey) Law 1957
 
-L.23/1957 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_23_1957_20250617>
+L.23/1957 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_23_1957>
 
 | Provision | File | Heading |
 | --- | --- | --- |
