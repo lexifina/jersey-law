@@ -1,6 +1,6 @@
 # Mental Health (Jersey) Law 2016
 
-L.29/2016 · official consolidation showing the law from 2024-07-02 · <https://www.jerseylaw.je/laws/current/l_29_2016_20250617>
+L.29/2016 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_29_2016_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -103,4 +103,4 @@ L.29/2016 · official consolidation showing the law from 2024-07-02 · <https://
 | Art. 96 | [art-096.md](art-096.md) | 96 Rules of Court |
 | Art. 97 | [art-097.md](art-097.md) | 97 Saving |
 | Art. 98 | [art-098.md](art-098.md) | 98 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Articles 47, 49 and 50)
 Part 1
 Constitution and proceedings of Mental Health Review Tribunal
@@ -40,7 +40,7 @@ The Minister may by Order make such rules of procedure as the Minister may think
 (1) Subject to sub-paragraph (2), a member of the Panel shall not disclose any document or other information -
 (a) relating to the business or affairs of any person; and
 (b) which is acquired by the member in the course of exercising functions of a member of the Panel.
-(2) A disclosure which is otherwise prohibited by paragraph (1) may be made -
+(2) A disclosure which is otherwise prohibited by sub-paragraph (1) may be made -
 (a) with the consent of (or consent lawfully given on behalf of) -
 (i) the person to whom the disclosure relates, and
 (ii) if different, the person from whom the document or information was acquired;
@@ -49,16 +49,16 @@ or
 (i) to enable the member to exercise functions as a member of the Panel,
 (ii) in the interests of the investigation, detection, prevention or prosecution of crime, or
 (iii) to comply with an order of a court.
-(3) A person who makes a disclosure in contravention of paragraph (1) is guilty of an offence and liable to a fine.
+(3) A person who makes a disclosure in contravention of sub-paragraph (1) is guilty of an offence and liable to a fine.
 Part 2
 Applications to the Tribunal
-1 Types of applications and applicants
+7 Types of applications and applicants
 (1) An application may be made to the Tribunal -
 (a) following a decision or other exercise of a power as described in the first column of the following table;
 (b) by the patient (including by the patient’s nearest person) or another person as described in the second column (the “applicant”); and
 (c) within the period described in the third column,
 for a review of the decision or exercise of the power in question, and in particular, where the patient is for the time being liable to be detained, for the discharge of the patient.
-(2) An application under paragraph (1) shall be made in such form as may be prescribed, or in writing substantially to the same effect.
+(2) An application under sub-paragraph (1) shall be made in such form as may be prescribed, or in writing substantially to the same effect.
 DECISION OR EXERCISE OF POWER
 APPLICANT
 PERIOD
@@ -93,6 +93,6 @@ A person (other than the patient) by whom a postal packet was sent
 Authorization to remove person from Jersey
 The Minister
 As provided by Article 85(2)
-2 Limit on applications, and further interpretation of table
+8 Limit on applications, and further interpretation of table
 (1) Only one application may be made by the same applicant within a period described in the third column of the table, except where a previous application made by the same applicant under the same provision has been withdrawn.
 (2) For the avoidance of doubt, in relation to the first two entries in the table, detention under an authorization includes any detention during the initial period (as defined in Article 20(1)(b)).
