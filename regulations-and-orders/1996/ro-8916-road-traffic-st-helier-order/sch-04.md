@@ -207,7 +207,7 @@ Both sides
 Don Street
 East side (between the pedestrian precinct and a point 34 yards north)
 East side (between Burrard Street and a point 48 yards north of the pedestrian precinct)
-East side (between the northern boundary of the States Public Library and a point 14 yards south)
+East side (between the northern boundary of the Public Library and a point 14 yards south)
 West side (between the pedestrian precinct and a point 42 yards south of Burrard Street)
 West side (between Burrard Street and Craig Street)
 Dorset Lane
@@ -226,7 +226,7 @@ East side (between its junction with Dongola Road and its junction with Rouge Bo
 West side (between its junction with Dongola Road and the northern boundary of “Inglis House”)
 West side (between a point 22 yards south of the northern boundary of “Inglis House” and its junction with Rouge Bouillon
 Duhamel Place
-East side (between the northern boundary of the States Public Library and a point 15 yards north)
+East side (between the northern boundary of the Public Library and a point 15 yards north)
 East side (between Grove Street and a point 2 yards north of the northern boundary of No. 8)
 West side
 Duhamel Street
@@ -299,7 +299,7 @@ East side (between Burrard Street and a point 27 yards north)
 East side (between Burrard Street and a point 2 yards south of the southern boundary of No. 68)
 East side (between Hilgrove Street and a point 6 yards north of Hill Street)
 East side (between Beresford Street and a point 15 yards north)
-West side (between St. Helier Methodist Centre and a point 10 yards south of the northern boundary of the States Library)
+West side (between St. Helier Methodist Centre and a point 10 yards south of the northern boundary of the Public Library)
 West side (between its junction with Burrard Street and a point 10 yards north of the southern boundary of the “Mechanics Institute”)
 West side (between a point one yard north of the southern boundary of the “Cock and Bottle” public house and a point 2 yards south of the northern boundary of No. 51)
 Hansford Lane
