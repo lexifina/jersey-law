@@ -1,14 +1,14 @@
 # Legal Deposit (Jersey) Law 2007
 
-L.36/2007 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_36_2007_20250617>
+L.36/2007 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_36_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | A LAW to require the deposit in the Jersey Library of copies of works that are published in Jersey; to provide for their |
+| Long title | [long-title.md](long-title.md) | A LAW to require the deposit in the Public Library of copies of works that are published in Jersey; to provide for their |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Object of Law |
 | Art. 3 | [art-003.md](art-003.md) | 3 Application of Law |
-| Art. 4 | [art-004.md](art-004.md) | 4 Jersey Library to be the repository for copies of works |
+| Art. 4 | [art-004.md](art-004.md) | 4 Public Library to be the repository for copies of works |
 | Art. 5 | [art-005.md](art-005.md) | 5 Copies of work published in Jersey to be deposited with Library |
 | Art. 6 | [art-006.md](art-006.md) | 6 Exceptions from the duty to deposit |
 | Art. 7 | [art-007.md](art-007.md) | 7 Medium in which copy to be deposited |
