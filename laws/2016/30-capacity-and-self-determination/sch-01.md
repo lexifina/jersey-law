@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 13)
 PART 1
 EXECUTION OF LASTING POWER OF ATTORNEY
@@ -29,7 +29,7 @@ Where a form is prescribed under paragraph 1, the Minister -
 (b) may prescribe guidance to assist those executing an instrument creating a lasting power of attorney.
 PART 2
 REGISTRATION OF LASTING POWER OF ATTORNEY
-1 Application for registration
+3 Application for registration
 (1) A lasting power of attorney is not created, and no such power may be validly exercised, until the instrument purporting to create it is registered in accordance with this Part of this Schedule.
 (2) An application for registration must be made to the Judicial Greffe -
 (a) in the prescribed form, and including the instrument and all such other information as may be prescribed;
@@ -37,12 +37,12 @@ REGISTRATION OF LASTING POWER OF ATTORNEY
 (c) accompanied by the prescribed fee.
 (3) Where the instrument confers authority on more than one person to act jointly and severally, “A” in sub-paragraph (2)(b) means any one of the persons on whom authority is so conferred.
 (4) A person who, in an application under this paragraph, makes a statement which the person knows to be false in a material particular, is guilty of an offence and liable upon conviction to imprisonment for a term of 2 years and a fine.
-2 Notification of application
-As soon as practicable after receiving an application under paragraph 1 of this Part, the Judicial Greffe must give notice of the application, in the prescribed form, to each of the persons who made and signed a statement as described in paragraph 1(1)(a) and (b) of Part 1 of this Schedule.
-3 Registration
-(1) Subject to this paragraph and paragraphs 4 to 6 of this Part of this Schedule, the Judicial Greffe must register the lasting power of attorney no later than the end of the period prescribed for this purpose.
+4 Notification of application
+As soon as practicable after receiving an application under paragraph 3, the Judicial Greffe must give notice of the application, in the prescribed form, to each of the persons who made and signed a statement as described in paragraph 1(1)(a) and (b).
+5 Registration
+(1) Subject to this paragraph and paragraphs 6 to 8, the Judicial Greffe must register the lasting power of attorney no later than the end of the period prescribed for this purpose.
 (2) If it appears to the Judicial Greffe that -
-(a) the instrument is not made in accordance with paragraph 1 of Part 1 of this Schedule; or
+(a) the instrument is not made in accordance with paragraph 1; or
 (b) the instrument contains a provision which would be ineffective or would otherwise prevent the creation or operation of a valid lasting power of attorney,
 the Judicial Greffe must not register a lasting power of attorney and must as soon as practicable return the form to the applicant together with a statement of reasons why no lasting power of attorney has been registered.
 (3) In a case to which sub-paragraph (2) applies, an application may be made to the Court under Article 19 or 20 for its determination of the matter, and sub-paragraph (4) shall apply where the Court determines that the instrument contains a provision which -
@@ -52,12 +52,12 @@ the Judicial Greffe must not register a lasting power of attorney and must as so
 (a) sever the provision, and notify the Judicial Greffe that it has done so; or
 (b) direct the Judicial Greffe not to register the instrument as creating a lasting power of attorney.
 (5) Where the Judicial Greffe is notified by the Court that a provision has been severed, the Judicial Greffe must register the instrument with a note to that effect attached to it.
-4 Delegate already appointed
+6 Delegate already appointed
 Where it appears to the Judicial Greffe that -
 (a) there is already a delegate appointed by the Court for P; and
 (b) the authority to be conferred on A would, if the lasting power of attorney were registered, conflict with the powers conferred on the delegate,
 the Judicial Greffe must not register the instrument unless directed to do so by the Court.
-5 Objections to registration
+7 Objections to registration
 (1) A person may give notice of an objection to registration of an instrument -
 (a) to the Judicial Greffe;
 (b) before the end of the prescribed period,
@@ -70,20 +70,20 @@ on any of the grounds listed in sub-paragraph (2).
 (3) If the Judicial Greffe is satisfied that the ground for making the objection is established, the instrument is not to be registered unless the Court, on the application of the person applying for registration -
 (a) is satisfied that the ground is not established; and
 (b) directs the Judicial Greffe to register the instrument as creating a lasting power of attorney.
-6 Notification of registration
+8 Notification of registration
 Where an instrument is registered under this Schedule, the Judicial Greffe must give notice of the fact in the prescribed form to P and to A.
-7 Evidence of registration
+9 Evidence of registration
 A document provided by the Judicial Greffe and purporting to be a copy of an instrument registered under this Schedule is, in Jersey, evidence of -
 (a) the contents of the instrument; and
 (b) the fact that it has been registered as creating a lasting power of attorney.
-8 Cancellation of registration
+10 Cancellation of registration
 (1) Where registration of an instrument as creating a lasting power of attorney has taken place, the registration may be cancelled only -
 (a) by the Judicial Greffe, in accordance with sub-paragraph (2); or
 (b) by the Court, in accordance with sub-paragraph (3),
 and by no other means.
 (2) Where, after an instrument has been registered, the Judicial Greffe is satisfied that -
 (a) P, having capacity to do so, has revoked the lasting power of attorney; or
-(b) any of the grounds listed in paragraph 5(2) of this Part has been established,
+(b) any of the grounds listed in paragraph 7(2) has been established,
 the Judicial Greffe must cancel the registration and must notify P and A of the fact of the cancellation.
 (3) The Court must direct the Judicial Greffe to cancel a registration of an instrument as creating a lasting power of attorney where the Court -
 (a) determines under Article 19(1)(a) that one or more of the requirements for the creation of a lasting power of attorney have not been met;
@@ -96,7 +96,7 @@ the Judicial Greffe must cancel the registration and must notify P and A of the 
 (a) sever the provision, and notify the Judicial Greffe that it has done so; or
 (b) direct the Judicial Greffe to cancel the registration of the instrument as creating a lasting power of attorney.
 (6) Where the Judicial Greffe is notified by the Court that a provision has been severed, the Judicial Greffe must attach a note to the instrument to that effect.
-9 Records of alterations to registered LPAs
+11 Records of alterations to registered LPAs
 (1) Where, in the case of a registered instrument, it appears to the Judicial Greffe that -
 (a) a lasting power of attorney is revoked, or suspended, in whole or in part in relation to P’s property and affairs (but not in relation to other matters);
 (b) an event has occurred which has terminated A’s appointment, but has not revoked a lasting power of attorney; or

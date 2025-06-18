@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Jersey) Law 2016
 
-L.30/2016 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_30_2016_20250617>
+L.30/2016 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_30_2016_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -78,4 +78,4 @@ L.30/2016 · official consolidation showing the law from 2021-09-28 · <https://
 | Art. 71 | [art-071.md](art-071.md) | 71 Rules of Court |
 | Art. 72 | [art-072.md](art-072.md) | 72 Repeal |
 | Art. 73 | [art-073.md](art-073.md) | 73 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
