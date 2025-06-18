@@ -1,6 +1,6 @@
 # Public Library (Jersey) Regulations 2007
 
-R&O.164/2007 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_164_2007_20250617>
+R&O.164/2007 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_164_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
