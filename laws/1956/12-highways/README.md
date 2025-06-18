@@ -1,6 +1,6 @@
 # Highways (Jersey) Law 1956
 
-L.12/1956 · official consolidation showing the law from 2025-06-10 · <https://www.jerseylaw.je/laws/current/l_12_1956_20250617>
+L.12/1956 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_12_1956>
 
 | Provision | File | Heading |
 | --- | --- | --- |

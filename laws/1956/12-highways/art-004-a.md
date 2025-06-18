@@ -29,3 +29,4 @@
 “nomination meeting”;
 “parish election”;
 “political party”;
+“public election”.
