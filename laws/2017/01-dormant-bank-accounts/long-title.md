@@ -1,0 +1,1 @@
+A LAW to provide for the transfer, to a fund, of balances in dormant accounts, and for the distribution of money in that fund for charitable and other purposes, subject to a right to reclaim those balances from the fund; and for connected purposes.
