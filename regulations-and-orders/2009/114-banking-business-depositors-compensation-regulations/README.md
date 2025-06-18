@@ -1,6 +1,6 @@
 # Banking Business (Depositors Compensation) (Jersey) Regulations 2009
 
-R&O.114/2009 · official consolidation showing the law from 2020-01-28 · <https://www.jerseylaw.je/laws/current/ro_114_2009_20250617>
+R&O.114/2009 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_114_2009_20260312>
 
 | Provision | File | Heading |
 | --- | --- | --- |
