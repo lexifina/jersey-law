@@ -1,6 +1,6 @@
 # Piercing and Tattooing (Jersey) Law 2002
 
-L.13/2002 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_13_2002_20250617>
+L.13/2002 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_13_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
