@@ -1,6 +1,6 @@
 # Shipping (Standards of Training, Certification and Watchkeeping) (Jersey) Order 2021
 
-R&O.129/2021 · official consolidation showing the law from 2021-10-18 · <https://www.jerseylaw.je/laws/current/ro_129_2021_20250626>
+R&O.129/2021 · official consolidation showing the law from 2025-06-27 · <https://www.jerseylaw.je/laws/current/ro_129_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -48,4 +48,4 @@ R&O.129/2021 · official consolidation showing the law from 2021-10-18 · <https
 | Art. 42 | [art-042.md](art-042.md) | 42 Power to detain |
 | Art. 43 | [art-043.md](art-043.md) | 43 Offences and penalties |
 | Art. 45 | [art-045.md](art-045.md) | 45 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
