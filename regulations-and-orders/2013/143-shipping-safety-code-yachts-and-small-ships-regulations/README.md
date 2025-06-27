@@ -1,6 +1,6 @@
 # Shipping (Safety Code - Yachts and Small Ships) (Jersey) Regulations 2013
 
-R&O.143/2013 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_143_2013_20250626>
+R&O.143/2013 · official consolidation showing the law from 2025-06-27 · <https://www.jerseylaw.je/laws/current/ro_143_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
