@@ -1,6 +1,6 @@
 # Shipping (Tonnage) (Jersey) Regulations 2004
 
-R&O.28/2004 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_28_2004_20250626>
+R&O.28/2004 · official consolidation showing the law from 2025-06-27 · <https://www.jerseylaw.je/laws/current/ro_28_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -30,5 +30,5 @@ R&O.28/2004 · official consolidation showing the law from 2019-01-01 · <https:
 | Reg. 24 | [reg-024.md](reg-024.md) | 24 Ascertainment of tonnage and certification |
 | Reg. 25 | [reg-025.md](reg-025.md) | 25 Penalties |
 | Reg. 26 | [reg-026.md](reg-026.md) | 26 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 EXCLUDED SPACES AS DEFINED IN REGULATION 1
 In the following figures:
 O

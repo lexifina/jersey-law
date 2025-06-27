@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 COEFFICIENTS K1 AND K2 REFERRED TO IN REGULATIONS 5, 6 AND 7
 V or VC = Volume in cubic metres;
 Coefficients K1 or K2 at intermediate values of V or VC shall be obtained by linear interpolation.
