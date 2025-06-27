@@ -1,4 +1,4 @@
 # Schedule
-HARBOURS - MANAGEMENT ETC. OF MOORINGS
+Harbours - management etc. of moorings
 (Articles 2(2) and 4B)
-PORT & HARBOUR LIMITS
+Port & harbour limits
