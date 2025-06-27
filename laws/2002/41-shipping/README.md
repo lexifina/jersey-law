@@ -1,6 +1,6 @@
 # Shipping (Jersey) Law 2002
 
-L.41/2002 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_41_2002_20250626>
+L.41/2002 · official consolidation showing the law from 2025-06-27 · <https://www.jerseylaw.je/laws/current/l_41_2002_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ L.41/2002 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 115 | [art-115.md](art-115.md) | 115 Application to Government ships |
 | Art. 116 | [art-116.md](art-116.md) | 116 Interpretation of Chapter and Schedule 4 |
 | Art. 117 | [art-117.md](art-117.md) | 117 Power to give effect to Convention |
-| Art. 118 | [art-118.md](art-118.md) | 118 Scheduled Convention to have force of law |
+| Art. 118 | [art-118.md](art-118.md) | 118 Convention has force of law |
 | Art. 119 | [art-119.md](art-119.md) | 119 Limitation of liability for maritime claims |
 | Art. 120 | [art-120.md](art-120.md) | 120 Exclusion of liability |
 | Art. 121 | [art-121.md](art-121.md) | 121 Apportionment of liability for damage or loss |
@@ -171,13 +171,14 @@ L.41/2002 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 163 | [art-163.md](art-163.md) | 163 Compensation in connection with invalid prohibition notices |
 | Art. 164 | [art-164.md](art-164.md) | 164 Offences |
 | Art. 165 | [art-165.md](art-165.md) | 165 Application and interpretation of Chapter |
-| Art. 166 | [art-166.md](art-166.md) | 166 Investigation of marine accidents |
+| Art. 166 | [art-166.md](art-166.md) | 166 Inquiries into marine incidents |
 | Art. 167 | [art-167.md](art-167.md) | 167 Investigation by marine accident tribunal |
 | Art. 168 | [art-168.md](art-168.md) | 168 Rehearings and appeals from investigation |
-| Art. 169 | [art-169.md](art-169.md) | 169 Duties of owners, masters etc. in relation to accidents |
+| Art. 169 | [art-169.md](art-169.md) | 169 Duties of owners, masters and others in relation to accidents |
 | Art. 170 | [art-170.md](art-170.md) | 170 Inquiries into deaths of crew members and others |
 | Art. 171 | [art-171.md](art-171.md) | 171 Reports of and inquiries into injuries |
 | Art. 172 | [art-172.md](art-172.md) | 172 Transmission of particulars of certain deaths on ships |
+| Art. 172A | [art-172-a.md](art-172-a.md) | 172A Regulations and Orders under this Part |
 | Art. 173 | [art-173.md](art-173.md) | 173 Jurisdiction in case of offences on board ship, etc. |
 | Art. 174 | [art-174.md](art-174.md) | 174 Offences committed by Jersey masters and seamen |
 | Art. 175 | [art-175.md](art-175.md) | 175 Offences by officers of bodies corporate |
@@ -212,8 +213,9 @@ L.41/2002 · official consolidation showing the law from 2024-01-11 · <https://
 | Schedule 2 | [sch-02.md](sch-02.md) | Schedule 3 |
 | Schedule 3 | [sch-03.md](sch-03.md) | Schedule 4 |
 | Schedule 4 | [sch-04.md](sch-04.md) | Schedule 5 |
-| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 6 |
-| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 7 |
-| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 8 |
-| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 9 |
-| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 10 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Annex |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |
+| Schedule 9 | [sch-09.md](sch-09.md) | Schedule 9 |
+| Schedule 10 | [sch-10.md](sch-10.md) | Schedule 10 |

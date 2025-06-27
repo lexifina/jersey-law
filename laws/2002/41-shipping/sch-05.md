@@ -1,178 +1,71 @@
-# Schedule 6
-(Article 119)
-Convention on Limitation of Liability for Maritime Claims 1976
-PART 1
-TEXT OF EXTRACT FROM CONVENTION AS MODIFIED BY THE PROTOCOL OF 1996
-CHAPTER I
-THE RIGHT OF LIMITATION
-ARTICLE 1
-Persons entitled to limit liability
-1. Shipowners and salvors, as hereinafter defined, may limit their liability in accordance with the rules of this Convention for claims set out in Article 2.
-2. The term “shipowner” shall mean the owner, charterer, manager or operator of a seagoing ship.
-3. Salvor shall mean any person rendering services in direct connection with salvage operations. Salvage operations shall also include operations referred to in Article 2, paragraph 1(d), (e) and (f).
-4. If any claims set out in Article 2 are made against any person for whose act, neglect or default the shipowner or salvor is responsible, such person shall be entitled to avail himself of the limitation of liability provided for in this Convention.
-5. In this Convention the liability of a shipowner shall include liability in an action brought against the vessel herself.
-6. An insurer of liability for claims subject to limitation in accordance with the rules of this Convention shall be entitled to the benefits of this Convention to the same extent as the assured himself.
-7. The act of invoking limitation of liability shall not constitute an admission of liability.
-ARTICLE 2
-Claims subject to limitation
-1. Subject to Articles 3 and 4 the following claims, whatever the basis of liability may be, shall be subject to limitation of liability:
-(a) claims in respect of loss of life or personal injury or loss of or damage to property (including damage to harbour works, basins and waterways and aids to navigation), occurring on board or in direct connection with the operation of the ship or with salvage operations, and consequential loss resulting therefrom;
-(b) claims in respect of loss resulting from delay in the carriage by sea of cargo, passengers or their luggage;
-(c) claims in respect of other loss resulting from infringement of rights other than contractual rights, occurring in direct connection with the operation of the ship or salvage operations;
-(d) claims in respect of the raising, removal, destruction or the rendering harmless of a ship which is sunk, wrecked, stranded or abandoned, including anything that is or has been on board such ship;
-(e) claims in respect of the removal, destruction or the rendering harmless of the cargo of the ship;
-(f) claims of a person other than the person liable in respect of measures taken in order to avert or minimise loss for which the person liable may limit his liability in accordance with this Convention, and further loss caused by such measures.
-2. Claims set out in paragraph 1 shall be subject to limitation of liability even if brought by way of recourse or for indemnity under a contract or otherwise. However, claims set out under paragraph 1(d), (e) and (f) shall not be subject to limitation of liability to the extent that they relate to remuneration under a contract with the person liable.
-ARTICLE 3
-Claims excepted from limitation
-The rules of this Convention shall not apply to:
-(a) claims for salvage, including, if applicable, any claim for special compensation under Article 14 of the International Convention on Salvage 1989, as amended, or contribution in general average;
-(b) claims for oil pollution damage within the meaning of the International Convention on Civil Liability for Oil Pollution Damage dated 29th November 1969 or of any amendment or Protocol thereto which is in force;
-(c) claims subject to any international convention or national legislation governing or prohibiting limitation of liability for nuclear damage;
-(d) claims against the shipowner of a nuclear ship for nuclear damage;
-(e) claims by servants of the shipowner or salvor whose duties are connected with the ship or the salvage operations, including claims of their heirs, dependants or other persons entitled to make such claims, if under the law governing the contract of service between the shipowner or salvor and such servants the shipowner or salvor is not entitled to limit his liability in respect of such claims, or if he is by such law only permitted to limit his liability to an amount greater than that provided for in Article 6.
-ARTICLE 4
-Conduct barring limitation
-A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
-ARTICLE 5
-Counterclaims
-Where a person entitled to limitation of liability under the rules of this Convention has a claim against the claimant arising out of the same occurrence, their respective claims shall be set off against each other and the provisions of this Convention shall only apply to the balance, if any.
-CHAPTER II
-LIMITS OF LIABILITY
-ARTICLE 6
-The general limits
-1. The limits of liability for claims other than those mentioned in Article 7, arising on any distinct occasion, shall be calculated as follows:
-(a) in respect of claims for loss of life or personal injury,
-(i) 3.02 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
-(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in (i):
-for each ton from 2,001 to 30,000 tons, 1,208 Units of Account;
-for each ton from 30,001 to 70,000 tons, 906 Units of Account; and
-for each ton in excess of 70,000 tons, 604 Units of Account,
-(b) in respect of any other claims,
-(i) 1.51 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
-(ii) for a ship with a tonnage in excess thereof the following amount in addition to that mentioned in (i):
-for each ton from 2,001 to 30,000 tons, 604 Units of Account;
-for each ton from 30,001 to 70,000 tons, 453 Units of Account; and
-for each ton in excess of 70,000 tons, 302 Units of Account.
-2. Where the amount calculated in accordance with paragraph 1(a) is insufficient to pay the claims mentioned therein in full, the amount calculated in accordance with paragraph 1(b) shall be available for payment of the unpaid balance of claims under paragraph 1(a) and such unpaid balance shall rank rateably with claims mentioned under paragraph 1(b).
-4. The limits of liability for any salvor not operating from any ship or for any salvor operating solely on the ship to, or in respect of which he is rendering salvage services, shall be calculated according to a tonnage of 1,500 tons.
-ARTICLE 7
-The limit for passenger claims
-1. In respect of claims arising on any distinct occasion for loss of life or personal injury to passengers of a ship, the limit of liability of the shipowner thereof shall be an amount of 175,000 Units of Account multiplied by the number of passengers which the ship is authorised to carry according to the ship's certificate.
-2. For the purpose of this Article “claims for loss of life or personal injury to passengers of a ship” shall mean any such claims brought by or on behalf of any person carried in that ship:
-(a) under a contract of passenger carriage, or
-(b) who, with the consent of the carrier, is accompanying a vehicle or live animals which are covered by a contract for the carriage of goods.
-ARTICLE 8
-Unit of Account
-The Unit of Account referred to in Articles 6 and 7 is the special drawing right as defined by the International Monetary Fund. The amounts mentioned in Articles 6 and 7 shall be converted into the national currency of the State in which limitation is sought, according to the value of that currency at the date the limitation fund shall have been constituted, payment is made, or security is given which under the law of that State is equivalent to such payment.
-ARTICLE 9
-Aggregation of claims
-1. The limits of liability determined in accordance with Article 6 shall apply to the aggregate of all claims which arise on any distinct occasion:
-(a) against the person or persons mentioned in paragraph 2 of Article 1 and any person for whose act, neglect or default he or they are responsible; or
-(b) against the shipowner of a ship rendering salvage services from that ship and the salvor or salvors operating from such ship and any person for whose act, neglect or default he or they are responsible; or
-(c) against the salvor or salvors who are not operating from a ship or who are operating solely on the ship to, or in respect of which, the salvage services are rendered and any person for whose act, neglect or default he or they are responsible.
-2. The limits of liability determined in accordance with Article 7 shall apply to the aggregate of all claims subject thereto which may arise on any distinct occasion against the person or persons mentioned in paragraph 2 of Article 1 in respect of the ship referred to in Article 7 and any person for whose act, neglect or default he or they are responsible.
-ARTICLE 10
-Limitation of liability without constitution of a limitation fund
-1. Limitation of liability may be invoked notwithstanding that a limitation fund as mentioned in Article 11 has not been constituted.
-2. If limitation of liability is invoked without the constitution of a limitation fund, the provisions of Article 12 shall apply correspondingly.
-3. Questions of procedure arising under the rules of this Article shall be decided in accordance with the national law of the State Party in which action is brought.
-CHAPTER III
-THE LIMITATION FUND
-ARTICLE 11
-Constitution of the Fund
-1. Any person alleged to be liable may constitute a fund with the Court or other competent authority in any State Party in which legal proceedings are instituted in respect of claims subject to limitation. The fund shall be constituted in the sum of such of the amounts set out in Articles 6 and 7 as are applicable to claims for which that person may be liable, together with interest thereon from the date of the occurrence giving rise to the liability until the date of the constitution of the fund. Any fund thus constituted shall be available only for the payment of claims in respect of which limitation of liability can be invoked.
-2. A fund may be constituted, either by depositing the sum, or by producing a guarantee acceptable under the legislation of the State Party where the fund is constituted and considered to be adequate by the Court or other competent authority.
-3. A fund constituted by one of the persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2 of Article 9 or his insurer shall be deemed constituted all persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2, respectively.
-ARTICLE 12
-Distribution of the fund
-1. Subject to the provisions of paragraphs 1 and 2 of Article 6 and of Article 7, the fund shall be distributed among the claimants in proportion to their established claims against the fund.
-2. If, before the fund is distributed, the person liable, or his insurer, has settled a claim against the fund such person shall, up to the amount he has paid, acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
-3. The right of subrogation provided for in paragraph 2 may also be exercised by persons other than those therein mentioned in respect of any amount of compensation which they may have paid, but only to the extent that such subrogation is permitted under the applicable national law.
-4. Where the person liable or any other person establishes that he may be compelled to pay, at a later date, in whole or in part any such amount of compensation with regard to which such person would have enjoyed a right of subrogation pursuant to paragraphs 2 and 3 had the compensation been paid before the fund was distributed, the Court or other competent authority of the State where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
-ARTICLE 13
-Bar to other actions
-1. Where a limitation fund has been constituted in accordance with Article 11, any person having made a claim against the fund shall be barred from exercising any right in respect of such a claim against any other assets of a person by or on behalf of whom the fund has been constituted.
-2. After a limitation fund has been constituted in accordance with Article 11, any ship or other property, belonging to a person on behalf of whom the fund has been constituted, which has been arrested or attached within the jurisdiction of a State Party for a claim which may be raised against the fund, or any security given, may be released by order of the Court or other competent authority of such State. However, such release shall always be ordered if the limitation fund has been constituted:
-(a) at the port where the occurrence took place, or, if it took place out of port, at the first port of call thereafter; or
-(b) at the port of disembarkation in respect of claims for loss of life or personal injury; or
-(c) at the port of discharge in respect of damage to cargo; or
-(d) in the State where the arrest is made.
-3. The rules of paragraphs 1 and 2 shall apply only if the claimant may bring a claim against the limitation fund before the Court administering that fund and the fund is actually available and freely transferable in respect of that claim.
-ARTICLE 14
-Governing law
-Subject to the provisions of this Chapter the rules relating to the constitution and distribution of a limitation fund, and all rules of procedure in connection therewith, shall be governed by the law of the State Party in which the fund constituted.
-CHAPTER IV
-SCOPE OF APPLICATION
-ARTICLE 15
-1. This Convention shall apply whenever any person referred to in Article 1 seeks to limit his liability before the Court of a State Party or seeks to procure the release of a ship or other property or the discharge of any security given within the jurisdiction of any such State.
-2. A State Party may regulate by specific provisions of national law the system of limitation of liability to be applied to vessels which are:
-(a) according to the law of that State, ships intended for navigation on inland waterways;
-(b) ships of less than 300 tons.
-A State Party which makes use of the option provided for in this paragraph shall inform the depositary of the limits of liability adopted in its national legislation or of the fact that there are none.
-3bis. Notwithstanding the limit of liability prescribed in paragraph 1 of article 7, a State Party may regulate by specific provisions of national law the system of liability to be applied to claims for loss of life or personal injury to passengers of a ship, provided that the limit of liability is not lower than that prescribed in paragraph 1 of article 7. A State Party which makes use of the option provided for in this paragraph shall inform the Secretary-General of the limits of liability adopted or of the fact that there are none.
-Chapter V
-FINAL CLAUSES
-ARTICLE 18
-Reservations
-1. Any State may, at the time of signature, ratification, acceptance, approval or accession, or at any time thereafter, reserve the right:
-(a) to exclude the application of article 2, paragraphs 1(d) and (e);
-(b) to exclude claims for damage within the meaning of the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996 or of any amendment or Protocol thereto.
-No other reservations shall be admissible to the substantive provisions of this Convention.
+# Annex
+certificate of insurance or other financial security in respect of liability for the death of and personal injury to passengers
+Issued in accordance with the provisions of Article 4bis of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 2002
+[Name of ship]
+[Distinctive number or letters]
+IMO Ship
+[Identification number]
+[Port of Registry]
+[Name and full address of the principal place of business of the carrier who actually performs the carriage]
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article 4bis of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 2002.
+[Type of security]…………
+[Duration of security]
+[Name of insurer(s) and/or guarantor(s)]………………………………..
+[Address of insurer(s) and/or guarantor(s)]……………………………..…………………………………………………………………………..
+This certificate is valid until [date]…………
+Issued or certified by the Government of……………………………….
+[full designation of the State]
+OR
+[The following text should be used when a State Party avails itself of Article 4bis, paragraph 3]
+The present certificate is issued under the authority of the Government of ……………………………[full designation of the State] by
+……………………………[name of institution or organization]
+At…………………[place] on……………………..[date]
+……………………………………….[Signature and title of issuing or certifying official]
+Explanatory Notes:
+1 If desired, the designation of the State may include a reference to the competent public authority of the country where the Certificate is issued.
+2 If the total amount of security has been furnished by more than one source, the amount of each of them should be indicated.
+3 The entry “Duration of security” must stipulate the date on which such security takes effect.
+4 The entry “Address” of the insurer(s) and/or guarantor(s) must indicate the principal place of business of the insurer(s) and/or guarantor(s). If appropriate, the place of business where the insurance or other security is established shall be indicated.
 PART 2
 PROVISIONS HAVING EFFECT IN CONNECTION WITH CONVENTION
 Interpretation
-1
-(1) In this Part of this Schedule “the Convention” means the Convention as set out in Part 1 of this Schedule, and a reference to a numbered article is a reference to the article of the Convention that is so numbered.
-(2) A reference in the Convention and this Part of this Schedule to -
-(a) a court, is a reference to the Royal Court;
-(b) a ship, includes a reference to a structure, whether completed or in the course of completion, launched and intended for use in navigation as a ship or part of a ship.
-Right to limit liability
-2
-Subject to paragraph 6 below, the right to limit liability under the Convention applies in relation to any ship, whether seagoing or not, and the definition of “shipowner” in paragraph 2 of article 1 is to be construed accordingly.
-Claims subject to limitation
-3
-Paragraph 1(d) of article 2 does not apply in Jersey.
-Claims excluded from limitation
-4
-(1) Claims for damage within the meaning of the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea 1996, or any amendment of or Protocol to that Convention, that arise from occurrences that take place after the coming into force of the first Regulations made by the States under Article 117 of this Law are to be excluded from the Convention.
-(2) The claims excluded from the Convention by paragraph (c) of article 3 are claims made by virtue of sections 10 or 11 of the Nuclear Installations Act 1965 of the United Kingdom as extended to Jersey by the Nuclear Installations (Jersey) Order 1980.
-The general limits
-5
-(1) In the application of article 6 to a ship with a tonnage of less than 300 tons that article has effect as if -
-(a) paragraph 1(a)(i) referred to 1,000,000 Units of Account; and
-(b) paragraph 1(b)(i) referred to 500,000 Units of Account.
-(2) For the purposes of article 6 and this paragraph, a ship’s tonnage is its gross tonnage calculated in a manner that may be prescribed by an Order made by the Minister.
-Limit for passenger claims
-6
-(1) Article 7 of the Convention does not apply in respect of a seagoing ship; and has effect in the case of a ship that is not seagoing as if, in paragraph 1 of that article -
-(a) after “thereof” there were inserted “in respect of each passenger,”; and
-(b) the words from “multiplied” onwards were omitted.
-(2) In paragraph 2 of article 7 the reference to claims brought on behalf of a person includes a reference to a claim in respect of the death of a person under the Fatal Accidents (Jersey) Law 1962.
-Units of Account
-7
-(1) For the purpose of converting the amounts mentioned in articles 6 and 7 from special drawing rights into sterling, one special drawing right is to be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being one special drawing right for -
-(a) the relevant date under paragraph 1 of article 8; or
+1. In this Part of this Schedule “the Convention” means the Convention as set out in Part 1 of this Schedule, a reference to a numbered article is a reference to the article of the Convention that is so numbered, and an expression to which a meaning is given by article 1 of the Convention has that meaning.
+Provisions adapting or supplementing specified articles of the Convention
+2. For the purposes of paragraph 2 of article 2, provisions of an international convention referred to in that paragraph that apart from this paragraph do not have mandatory application to carriage by sea are to be treated as having mandatory application to carriage by sea if it is stated in the contract of carriage for the carriage in question that those provisions are to apply in connection with the carriage.
+2A.-(1) For the purposes of paragraph 3(a) of Article 4bis, the Minister is authorised to issue certificates in respect of Jersey ships, and (subject to the third sentence of that paragraph) the Minister may in writing authorise another person or body to issue certificates on their behalf.
+(2) The Minister may by Order specify (subject to paragraph 7 of Article 4bis) conditions for the issue of certificates and concerning their validity.
+(3) In sub-paragraph (1), the power to issue certificates includes the power to refuse to issue a certificate, or to cancel or withdraw a certificate, if -
+(a) the relevant contract of carriage appears invalid;
+(b) the insurance is inadequate or there is doubt as to the ability of the insurer or guarantor to meet their liability;
+(c) the conditions under which the certificate was issued are not complied with;
+(d) the carrier or performing carrier ceases to be the person by whom the contract of carriage in question is to be performed; or
+(e) any other matter that appears to the Minister to be relevant is not complied with.
+(4) If a certificate is cancelled or withdrawn under sub-paragraph (3) -
+(a) the Minister or other person or body issuing the certificate may require the return of the certificate; and
+(b) if the ship concerned is not in Jersey, the certificate may be delivered to any person listed in Article 177(1) of this Law, and that person may lawfully board the ship for that purpose and remove the certificate.
+3. The reference in article 6 to the law of the court is to be construed as a reference to the Law Reform (Miscellaneous Provisions) (Jersey) Law 1960.
+4. The Minister may by Order provide that, in relation to a carrier whose principal place of business is in Jersey, paragraph 1 of article 7 is to have effect with the substitution for the limit for the time being specified in that paragraph of a different limit specified in the Order, that shall not be lower than 400,000 units of account.
+5.-(1) For the purpose of converting from special drawing rights into sterling the amounts mentioned in articles 7 and 8 in respect of which a judgment is given, one special drawing right is to be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being one special drawing right for -
+(a) the day on which the judgment is given; or
 (b) if no sum has been so fixed for that day, the last day before that day for which a sum has been so fixed.
 (2) A certificate given on behalf of the Minister for Treasury and Resources stating -
 (a) that a particular sum in sterling has been fixed as mentioned in sub-paragraph (1) for a particular day; or
-(b) that no sum has been so fixed for that day and a particular sum in sterling has been so fixed for a day that is the last preceding day for which a sum has been so fixed,
-is conclusive evidence of those matters for the purposes of those articles; and a document purporting to be such a certificate is to be received in evidence in any proceedings and, unless the contrary is proved, is to be treated as such a certificate.
-Applicable law
-8
-(1) If an action is brought in Jersey, the reference in paragraph 3 of article 10 to the national law of the State Party is to be construed as a reference to the law of Jersey.
-(2) In article 14, the reference to the law of the State Party is, if the fund is constituted in Jersey, to be construed as a reference to the law of Jersey.
-Constitution of fund
-9
-(1) The Minister may, with the concurrence of the Minister for Treasury and Resources, by Order prescribe the rate of interest to be applied for the purposes of paragraph 1 of article 11; but in the absence of such a prescription the rate of interest is the rate applicable in the United Kingdom under an order made by the Secretary of State for that purpose.
-(2) If a fund is constituted with the court in accordance with article 11 for the payment of claims arising out of any occurrence, the court may stay any proceedings relating to a claim arising out of that occurrence that are pending against the person by whom the fund has been constituted.
-Distribution of fund
-10
-A lien or other right in respect of any ship or property does not affect the proportions in which under article 12 the fund is distributed among several claimants.
-Bar to other actions
-11
-If the release of a ship or other property is ordered under paragraph 2 of article 13, the person on whose application it is ordered to be released is to be regarded as having submitted to the jurisdiction of the court to adjudicate on the claim for which the property was arrested or attached.
-Meaning of “State Party”
-12
-If an Order in Council declares that a State specified in the Order is a party to the Convention as amended by the 1996 Protocol, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact; but the Order shall not have effect in Jersey unless registered by the Royal Court.
+(b) that no sum has been so fixed for that day and a particular sum in sterling has been so fixed for a day that is the last day for which a sum has been so fixed before the particular day,
+is conclusive evidence of those matters for the purposes of articles 7 to 9; and a document purporting to be such a certificate is to be received in evidence in any proceedings and, unless the contrary is proved, is to be treated as such a certificate.
+6. The limitations on liability mentioned in article 12 in respect of a passenger or his luggage apply to the aggregate liabilities of the persons in question in all proceedings for enforcing the liabilities or any of them that may be brought whether in Jersey or elsewhere.
+7. Article 16 applies to an arbitration as it applies to an action.
+8.-(1) The court before which proceedings are brought under article 17 to enforce a liability may at any stage of the proceedings make orders that appear to the court to be equitable in view of -
+(a) the provisions of article 12; and
+(b) any other proceedings that have been or are likely to be begun in Jersey or elsewhere to enforce the liability in whole or part.
+(2) Without prejudice to the generality of sub-paragraph (1), if the liability is or may be partly enforceable in other proceedings in Jersey or elsewhere, a court has jurisdiction -
+(a) to award an amount less than it would have awarded if the limitation applied solely to the proceedings before it; or
+(b) to make part of its award conditional on the results of any other proceedings.
+Other provisions adapting or supplementing the Convention
+9. A reference in the Convention to a contract of carriage excludes a contract of carriage that is not for reward.
+10. If an Order in Council declares that a State specified in the Order is a party to the Convention in respect of a particular country, the Order is, subject to any subsequent Order made by virtue of this paragraph, conclusive evidence of that fact.
+11. The Minister may by Order make provision -
+(a) for requiring a person who is the carrier in relation to a passenger to give to the passenger, in a manner specified in the Order, notice of such of the provisions of the Convention as are so specified;
+(b) for a person who fails to comply with a requirement imposed on him by the Order to commit an offence punishable with a fine up to level 3 on the standard scale.
+Application of Articles 119 and 120
+12.-(1) Nothing in the Convention affects the operation of Article 119 of this Law (limitation of a shipowner’s liability in certain cases of loss of life, injury or damage).
+(2) Nothing in Article 120 of this Law (that among other things limits a shipowner’s liability for loss or damage of goods in certain cases) relieves a person of a liability imposed on him by the Convention.
