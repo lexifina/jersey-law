@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 20)
 Transitional provision
 1 Date from which economic substance test must be met

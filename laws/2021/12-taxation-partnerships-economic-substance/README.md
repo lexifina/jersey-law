@@ -1,6 +1,6 @@
 # Taxation (Partnerships - Economic Substance) (Jersey) Law 2021
 
-L.12/2021 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-12-2021.aspx>
+L.12/2021 Â· official consolidation showing the law from 2025-06-27 Â· <https://www.jerseylaw.je/laws/current/l_12_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -25,7 +25,6 @@ L.12/2021 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-12
 | Art. 18 | [art-018.md](art-018.md) | 18 Disclosure of information and confidentiality |
 | Art. 19 | [art-019.md](art-019.md) | 19 Regulations |
 | Art. 20 | [art-020.md](art-020.md) | 20 Transitional arrangements |
-| Art. 21 | [art-021.md](art-021.md) | 21 Consequential and related amendments |
 | Art. 22 | [art-022.md](art-022.md) | 22 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
