@@ -177,7 +177,7 @@ and in the course of providing those services, the person provides the service o
 (b) Clause (a) includes trust company business under the Financial Services (Jersey) Law 1998 where the person carries on a business that involves the provision of company administration services, services to foundations or services to partnerships and, in the course of those services, the person provides the service of acting as or fulfilling or arranging for another person to act as shareholder or unitholder as a nominee for another person.
 (c) In this sub-paragraph, a reference to a company, foundation or partnership is a reference to a company, foundation or partnership wherever incorporated or otherwise established; and to any similar or equivalent structure or arrangement regardless of its name.
 PART 4
-ViRTUAL ASSET SERVICE PROVIDER
+VIRTUAL ASSET SERVICE PROVIDER
 24 Virtual asset service provider
 (1) Virtual asset service provider.
 (2) Sub-paragraph (1) includes a natural or legal person or arrangement that carries on the business of conducting one or more of the following activities or operations to, for or on behalf of another natural or legal person or arrangement -
