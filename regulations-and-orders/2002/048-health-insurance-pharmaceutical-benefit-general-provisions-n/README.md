@@ -1,6 +1,6 @@
 # Health Insurance (Pharmaceutical Benefit) (General Provisions) (No. 2) (Jersey) Order 2002
 
-R&O.48/2002 · official consolidation showing the law from 2023-05-01 · <https://www.jerseylaw.je/laws/current/ro_48_2002_20250702>
+R&O.48/2002 · official consolidation showing the law from 2025-07-03 · <https://www.jerseylaw.je/laws/current/ro_48_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
