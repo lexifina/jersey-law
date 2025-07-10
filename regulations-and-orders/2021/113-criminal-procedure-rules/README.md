@@ -1,6 +1,6 @@
 # Criminal Procedure (Jersey) Rules 2021
 
-R&O.113/2021 · official consolidation showing the law from 2024-04-03 · <https://www.jerseylaw.je/laws/current/ro_113_2021_20250709>
+R&O.113/2021 · official consolidation showing the law from 2025-07-10 · <https://www.jerseylaw.je/laws/current/ro_113_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -68,6 +68,7 @@ R&O.113/2021 · official consolidation showing the law from 2024-04-03 · <https
 | Rule 61 | [rule-061.md](rule-061.md) | 61 Status of offences to be taken into consideration |
 | Rule 62 | [rule-062.md](rule-062.md) | 62 Computation of custodial sentences |
 | Rule 63 | [rule-063.md](rule-063.md) | 63 Fines and forfeitures |
+| Rule 63A | [rule-063-a.md](rule-063-a.md) | 63A Interest on sums unpaid under confiscation orders or instrumentalities forfeiture orders |
 | Rule 64 | [rule-064.md](rule-064.md) | 64 Interpretation of Part 7 |
 | Rule 65 | [rule-065.md](rule-065.md) | 65 Application for registration |
 | Rule 66 | [rule-066.md](rule-066.md) | 66 Notice of registration |

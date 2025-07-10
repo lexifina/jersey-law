@@ -1,0 +1,2 @@
+# 63A Interest on sums unpaid under confiscation orders or instrumentalities forfeiture orders
+For the purposes of Article 18(1) of the Proceeds of Crime (Jersey) Law 1999 (Interest on sums unpaid under confiscation orders or instrumentalities forfeiture orders), the rate of interest that a person is liable to pay under a confiscation order or instrumentalities forfeiture order that remains unpaid is 2% above the UK selected retail banks short term money rates (base rate) from time to time during the period for which interest runs, calculated on a daily basis.
