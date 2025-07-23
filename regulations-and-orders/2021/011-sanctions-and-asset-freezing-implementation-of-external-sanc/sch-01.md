@@ -76,6 +76,11 @@ The Global Human Rights Sanctions Regulations 2020
 2020/680
 regulation 10
 none
+Global Irregular Migration and Trafficking
+The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+2025/902
+regulation 13
+none
 Guinea
 The Guinea (Sanctions) (EU Exit) Regulations 2019
 2019/1145
