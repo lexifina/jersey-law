@@ -7,6 +7,8 @@ La Rue du Crocquet
 East side (from a point 12 yards from its junction with Mont Les Vaux to a point 12 yards further north).
 La Neuve Route
 West side (from a point 10 yards north of the southern boundary of the southernmost property on its west side, for a distance of 21 yards in a northerly direction).
+Parcq du Pont Marquet
+South side (from a point 28 yards east of its junction with La Petite Route des Mielles to a point 28 yards further east).
 PART 1
 Parking discs
 1 hour limit
@@ -42,8 +44,12 @@ East side (from a point 147 yards south of La Haule slipway for 221 yards in a s
 West side (from a point 92 yards south of Le Mont au Roux for 62 yards in a southerly direction).
 La Route de Noirmont
 West side (from a point 19 yards north of its junction with La Ruelle du Clos du Parcq for 49 yards in a northerly direction).
+La Rue des Sauvalleries
+West side (from a point 27 yards north of its junction with La Route du Francfief to a point 41 yards further north).
 La Rue du Crocquet
-Both sides (from a point 14 yards north of the property known as “Hillside” for 47 yards in a northerly direction).
+West side (from a point 25 yards south of its junction with Le Mont de la Rocque to a point 37 yards further south).
+West side (from a point 64 yards south of its junction with Le Mont de la Rocque to a point 7 yards further south).
+East side (from a point 12 yards south of its junction with Le Mont de la Rocque to a point 45 yards further south).
 La Rue Voisin
 West side (from its junction with Le Chemin du Portelet for 80 yards in a southerly direction).
 West side (from a point 150 yards south of its junction with Le Chemin du Portelet for 15 yards in a southerly direction).

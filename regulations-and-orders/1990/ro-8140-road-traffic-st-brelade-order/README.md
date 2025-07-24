@@ -1,6 +1,6 @@
 # Road Traffic (St. Brelade) (Jersey) Order 1990
 
-R&O.8140 · official consolidation showing the law from 2023-12-22 · <https://www.jerseylaw.je/laws/current/ro_8140_20250723>
+R&O.8140 · official consolidation showing the law from 2025-07-24 · <https://www.jerseylaw.je/laws/current/ro_8140>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,7 +11,8 @@ R&O.8140 · official consolidation showing the law from 2023-12-22 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Prohibition of waiting |
 | Art. 5 | [art-005.md](art-005.md) | 5 Closing of roads to through traffic |
 | Art. 6 | [art-006.md](art-006.md) | 6 Public service vehicles |
-| Art. 7 | [art-007.md](art-007.md) | 7 Prohibition of driving of certain vehicles |
+| Art. 7 | [art-007.md](art-007.md) | 7 Roads closed to vehicles exceeding gross weight of 7½ tons |
+| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Roads closed to vehicles exceeding width of 6 feet 6 inches |
 | Art. 8 | [art-008.md](art-008.md) | 8 Prohibition or restriction of turns |
 | Art. 9 | [art-009.md](art-009.md) | 9 Interpretation |
 | Art. 10 | [art-010.md](art-010.md) | 10 Parking limits on roads that require parking discs |

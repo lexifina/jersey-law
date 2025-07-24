@@ -1,6 +1,6 @@
 # 13F Issue of parking permit
-(1) Subject to Article 13D(1) and the provisions of this Article, on payment of the fee prescribed under Article 13E the Connétable shall issue a resident’s parking permit to the applicant.
-(2) Resident’s parking permits shall not be issued if -
+(1) Subject to Article 13D(1) and the provisions of this Article, on payment of the fee prescribed under Article 13E the Connétable must issue a resident’s parking permit to the applicant.
+(2) Resident’s parking permits must not be issued if -
 (a) the Connétable is not satisfied that the applicant for the parking permit satisfies the criteria specified in Article 13C; or
 (b) a vehicle to which the application relates is -
 (i) a commercial vehicle the unladen weight of which exceeds 2,500 kg, or

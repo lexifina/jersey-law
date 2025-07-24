@@ -41,6 +41,7 @@ Both sides (from a point 10 yards south of the crossroads formed by it with Trav
 West side (from a point 37 yards north of its junction with Travers Farm Lane for a distance of 82 yards in a northerly direction).
 East side (from its junction with Travers Farm Lane for a distance of 123 yards in a northerly direction).
 Both sides (from a point 30 yards north of its junction with La Ruelle du Clos du Parcq to its junction with La Rue de Haut and Noirmont Lane.
+West side (from a point 5 yards south of the junction with Le Clos de Noirmont for a distance of 32 yards in a north-westerly direction).
 La Route des Camps
 Both sides (from its junction with La Route du Sud to its junction with Le Chemin de la Bolonnière).
 La Route des Genets
@@ -56,11 +57,18 @@ La Rue Baal
 Both sides (from its junction with La Rue du Sud to its intersection with the projection in a westerly direction of the northern boundary of the property known as No. 3 La Rue Baal).
 La Rue Carrée
 Both sides (from its junction with La Route des Quennevais for a distance of 194 yards in a westerly direction).
+La Rue des Sauvalleries
+West side (from its junction with La Route du Francfief to a point 27 yards in a northerly direction).
+West side (from a point 68 yards north of its junction with La Route du Francfief for a distance of 16 yards in a northerly direction).
+East side (from its junction with La Route du Francfief to a point 79 yards in a northerly direction).
 La Rue du Cimetière
 North, west and south sides.
 La Rue du Crocquet
-Both sides (from its junction with Charing Cross to a point 14 yards north of the property known as ‘Hillside’).
-East side (from its junction with Le Mont de la Rocque for a distance of 22 yards in a southerly direction).
+West side (from its junction with Charing Cross to a point 71 yards south of its junction with Le Mont de la Rocque).
+East side (from its junction with Charing Cross to a point 57 yards south of its junction with Le Mont de la Rocque).
+East side (from its junction with Le Mont de la Rocque for a distance of 12 yards in a southerly direction).
+West side (from its junction with Le Mont de la Rocque for a distance of 25 yards in a southerly direction).
+West side (from a point 62 yards south of its junction with Le Mont de la Rocque for a distance of 2 yards in a southerly direction).
 La Rue du Pont Marquet
 North side (from its junction with La Route des Quennevais for a distance of 140 yards in an easterly direction).
 La Rue Voisin
@@ -72,6 +80,8 @@ East side (from its junction with La Neuve Route to that with Le Mont du Bouleva
 West side (in relation to every access to premises from the road for motor cars, between a point one yard to the north of the north side of the access and a point one yard to the south of the south side of the access).
 Le Chemin de Belcroute
 South side (between Noirmont Manor Cottage and Belcroute Bay).
+Le Chemin de la Corbière
+North side (from a point 74 yards west of its junction with Le Mont du Grouet for a distance of 18 yards in a westerly direction).
 Le Chemin de Maudelaine
 Both sides.
 Le Chemin des Creux
