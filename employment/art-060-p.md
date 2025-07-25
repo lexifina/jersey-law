@@ -8,5 +8,5 @@
 (b) a deliberate failure to act shall be treated as done when it was decided on as construed in accordance with paragraph (4).
 (4) In the absence of evidence establishing the contrary, an employer shall be taken to decide on a failure to act when he or she does an act inconsistent with doing the act or, if the employer has done no such inconsistent act, when the period expires within which he or she might reasonably have been expected to do the act if it was to be done.
 (5) Where the Tribunal finds a complaint under this Article well-founded, it shall -
-(a) order the employer to pay compensation to the employee of an amount not exceeding 4 weeks’ pay, calculated in accordance with Schedule 1; and
+(a) order the employer to pay compensation to the employee of an amount not exceeding 8 weeks’ pay, calculated in accordance with Schedule 1; and
 (b) declare that any action taken against the employee by the employer, other than the dismissal of the employee, is void.

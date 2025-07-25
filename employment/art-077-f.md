@@ -1,6 +1,9 @@
 # 77F Compensation awards
 (1) Subject to paragraph (3), an award under Article 77(2) or Article 77E(3)(a) shall be calculated in accordance with an Order made under paragraph (2).
 (2) The Minister shall by Order specify a scale of compensation which may be awarded by the Tribunal under Article 77(2) or Article 77E(3)(a).
+(2A) The Tribunal may -
+(a) have regard to the employer’s conduct when making an award of compensation under Article 77(2), or Article 77E(3)(a); and
+(b) if it considers it reasonable to do so, increase the amount of the award by up to 25%.
 (3) An award under Article 77(2) or Article 77E(3)(a) may be reduced by such amount as the Tribunal considers just and equitable having regard to any of the circumstances described in paragraphs (4), (5), (7), (8), (9) and (10).
 (4) The Tribunal finds the complainant has either -
 (a) unreasonably refused an offer by the employer which, if accepted, would have had the effect of reinstating the complainant in the complainant’s former employment; or

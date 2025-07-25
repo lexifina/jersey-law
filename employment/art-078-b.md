@@ -4,5 +4,5 @@
 (a) the 8 weeks immediately following the failure or threat; or
 (b) such further period as the Tribunal may, in the interests of justice, consider reasonable.
 (3) If the Tribunal finds that a complaint under this Article is well-founded it must -
-(a) order the employer to pay compensation to the employee of an amount not exceeding 4 weeks’ pay; and
+(a) order the employer to pay compensation to the employee of an amount not exceeding 8 weeks’ pay; and
 (b) declare that any action taken against the employee by the employer, other than the dismissal of the employee, is void.
