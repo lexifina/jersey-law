@@ -1,6 +1,6 @@
 # Employment and Discrimination Tribunal (Procedure) (Jersey) Order 2016
 
-R&O.10/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_10_2016_20250724>
+R&O.10/2016 · official consolidation showing the law from 2025-07-25 · <https://www.jerseylaw.je/laws/current/ro_10_2016_20260722>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -44,6 +44,7 @@ R&O.10/2016 · official consolidation showing the law from 2019-01-01 · <https:
 | Art. 38 | [art-038.md](art-038.md) | 38 Decisions and reasons |
 | Art. 39 | [art-039.md](art-039.md) | 39 Awards of compensation in discrimination cases |
 | Art. 40 | [art-040.md](art-040.md) | 40 Matters ancillary to judgments |
+| Art. 40A | [art-040-a.md](art-040-a.md) | 40A Costs orders |
 | Art. 41 | [art-041.md](art-041.md) | 41 Register of judgments |
 | Art. 42 | [art-042.md](art-042.md) | 42 Delivery to the tribunal office |
 | Art. 43 | [art-043.md](art-043.md) | 43 Delivery to parties |
