@@ -1,19 +1,21 @@
 # Schedule
 (Article 3)
 SCALE OF COMPENSATION
-Duration of service completed in the employer’s service by the employee
-Amount of wages to be awarded
-Not more than 26 weeks
-An amount not exceeding 4 weeks’ pay, in the discretion of the Tribunal, having regard to the actual length of service
-More than 26 weeks but not more than 1 year
+Duration of service completed by employee in employer’s service
+Amount of compensation award
+Up to and including 1 year
 4 weeks’ pay
-More than 1 year but not more than 2 years
+More than 1 year, up to and including, 2 years
 8 weeks’ pay
-More than 2 years but not more than 3 years
+More than 2 years, up to and including, 3 years
 12 weeks’ pay
-More than 3 years but not more than 4 years
+More than 3 years, up to and including, 4 years
 16 weeks’ pay
-More than 4 years but not more than 5 years
+More than 4 years, up to and including, 5 years
 21 weeks’ pay
-More than 5 years
+More than 5 years, up to and including, 10 years
 26 weeks’ pay
+More than 10 years, up to and including, 15 years
+31 weeks’ pay
+More than 15 years
+36 weeks’ pay

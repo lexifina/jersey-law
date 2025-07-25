@@ -1,6 +1,6 @@
 # Employment (Awards) (Jersey) Order 2009
 
-R&O.93/2009 · official consolidation showing the law from 2023-10-27 · <https://www.jerseylaw.je/laws/current/ro_93_2009_20250724>
+R&O.93/2009 · official consolidation showing the law from 2025-07-25 · <https://www.jerseylaw.je/laws/current/ro_93_2009>
 
 | Provision | File | Heading |
 | --- | --- | --- |
