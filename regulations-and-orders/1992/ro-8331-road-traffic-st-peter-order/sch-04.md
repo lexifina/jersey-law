@@ -1,4 +1,4 @@
-# SCHEDULE 2B
+# Schedule 2B
 (Article 4A)
 PARKING restricted to VEHICLES LOADING AND UNLOADING
 Column 1

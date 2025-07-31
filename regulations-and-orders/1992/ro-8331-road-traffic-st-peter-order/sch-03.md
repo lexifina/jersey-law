@@ -1,4 +1,4 @@
-# SCHEDULE 2A
+# Schedule 2A
 (Article 4(2A) and (2B))
 MAXIMUM WAITING PERIODS
 Road

@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 7)
 Restriction on parking
 PART 1
