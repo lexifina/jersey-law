@@ -1,6 +1,6 @@
 # Road Traffic (St. Mary) (Jersey) Order 2000
 
-R&O.56/2000 · official consolidation showing the law from 2024-06-14 · <https://www.jerseylaw.je/laws/current/ro_56_2000_20250818>
+R&O.56/2000 · official consolidation showing the law from 2025-08-19 · <https://www.jerseylaw.je/laws/current/ro_56_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ R&O.56/2000 · official consolidation showing the law from 2024-06-14 · <https:
 | Art. 4 | [art-004.md](art-004.md) | 4 Prohibition of waiting and stopping |
 | Art. 5 | [art-005.md](art-005.md) | 5 Public service vehicles |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Duration of parking on certain roads |
+| Art. 5B | [art-005-b.md](art-005-b.md) | 5B Roads closed to vehicles exceeding width of 6 feet 6 inches |
 | Art. 6 | [art-006.md](art-006.md) | 6 Savings |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
