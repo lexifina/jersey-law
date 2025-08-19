@@ -1,6 +1,6 @@
 # Road Traffic (Trinity) (Jersey) Order 1988
 
-R&O.7838 · official consolidation showing the law from 2024-02-16 · <https://www.jerseylaw.je/laws/current/ro_7838_20250818>
+R&O.7838 · official consolidation showing the law from 2025-08-19 · <https://www.jerseylaw.je/laws/current/ro_7838>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,6 +10,7 @@ R&O.7838 · official consolidation showing the law from 2024-02-16 · <https://w
 | Art. 3 | [art-003.md](art-003.md) | 3 One-way traffic |
 | Art. 4 | [art-004.md](art-004.md) | 4 Prohibition of waiting and stopping |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Restriction on parking of vehicles on certain roads |
+| Art. 4B | [art-004-b.md](art-004-b.md) | 4B Les Ruelles closed to traffic when school open to children |
 | Art. 5 | [art-005.md](art-005.md) | 5 Driving and stationing of certain vehicles |
 | Art. 6 | [art-006.md](art-006.md) | 6 Savings |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |

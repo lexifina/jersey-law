@@ -17,6 +17,10 @@ La Rue d’Asplet
 South side (from its junction with La Route de la Trinité for 128 yards in a westerly direction).
 North side (from its junction with La Rue au Sellier for 77 yards in a westerly direction).
 North side (from its junction with La Rue au Sellier for 51 yards in an easterly direction).
+La Rue de la Falaise
+Western arm, east side (from its junction with Le Chemin d’Olivet (in a northerly direction) to the northern arm of La Rue de la Falaise).
+Northern arm, south side (from the western arm of La Rue de la Falaise to the eastern arm of La Rue de la Falaise).
+Eastern arm, west side (from its junction with Le Chemin d’Olivet (in a northerly direction) to the northern arm of La Rue de la Falaise).
 La Rue de la Garenne
 Both sides (from its junction with the entrance to the property known as “Beau Desert” to the point where it becomes a footpath).
 La Rue du Mont Pellier
