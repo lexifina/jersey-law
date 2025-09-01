@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2025-06-05 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20250831>
+R&O.86/2018 · official consolidation showing the law from 2025-09-01 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20251123>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,9 +22,7 @@ R&O.86/2018 · official consolidation showing the law from 2025-06-05 · <https:
 | Art. 12 | [art-012.md](art-012.md) | 12 Interpretation |
 | Art. 12A | [art-012-a.md](art-012-a.md) | 12A Relevant assets exceeding £500,000 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Tuition fees grant |
-| Art. 13B | [art-013-b.md](art-013-b.md) | 13B 2024 academic year: maximum maintenance grant if relevant income is less than £50,000 |
 | Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA 2025 academic year: maximum maintenance grant if relevant income is less than £52,600 |
-| Art. 13C | [art-013-c.md](art-013-c.md) | 13C 2024 academic year: maintenance grant if relevant income is £50,000 or more, but less than £90,000 |
 | Art. 13CA | [art-013-ca.md](art-013-ca.md) | 13CA 2025 academic year: maintenance grant if relevant income is £52,600 or more, but less than £94,680 |
 | Art. 13CB | [art-013-cb.md](art-013-cb.md) | 13CB Student detained in prison not entitled to maintenance grant |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
