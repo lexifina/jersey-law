@@ -327,18 +327,25 @@ ST. OUEN
 La Rue des Cosnets (between La Rue du Sud and a point 235 yards south)
 ST. PETER
 Le Clos Saut Falluet (between L’Avenue de la Commune and the boundary of the parish of St. Brelade)
-La Grande Route de St. Pierre (between La Route du Manoir and 33 yards north of its junction with La Verte Rue)
+La Grande Route de St. Pierre (between La Route du Manoir and 220 metres north of its junction with La Rue des Sapins)
 Les Grupieaux (from La Rue du Craslin to Sandybrook Lane)
-La Route de Beaumont (between La Route du Manoir and a point 50 yards south of La Rue de St. Clement)
-Route de L’Hermite
+La Petite Rue de l’Église
+La Route de Beaumont (between La Route du Manoir and a point 46 metres south of La Rue de St. Clement)
+La Route de L’Hermite
+La Route du Manoir
+La Rue du Bocage
+La Rue Cappelain
 La Rue du Craslin
-La Rue de l’Eglise (between the entrance to Clifton Place and La Grande Route de St. Pierre)
+La Rue de l’Église (between the entrance to Clifton Place and La Grande Route de St. Pierre)
+La Rue Fondon
 La Rue des Fosses
 La Petite Rue des Fosses
+La Rue des Landes (from L’Avenue de la Reine Élizabeth II to a point 83 metres south of its junction with La Rue Cappelain)
 La Rue de St. Clement
-Rue du Moulin de Tesson
-La Rue du Presbytere
-The estate roads at La Ville de l’Eglise
+La Rue du Moulin de Tesson
+La Rue du Presbytère
+La Rue des Vignes (from L’Avenue de la Reine Élizabeth II to a point 144 metres south of its junction with La Rue Cappelain)
+The estate roads at La Ville de l’Église
 ST. SAVIOUR
 Albert Road
 Aubin Lane

@@ -232,9 +232,11 @@ La Rue de la Fontaine
 La Rue de la Hague
 La Rue du Panigot
 La Rue de la Presse
+La Rue des Sapins
 La Rue St. Nicholas
 La Rue Vazon
 La Rue ès Viberts
+La Rue du Vieux Presbytère
 Les Ruelles
 La Ruette du Coin Varin
 La Verte Rue

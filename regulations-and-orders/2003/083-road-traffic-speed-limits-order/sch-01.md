@@ -191,23 +191,28 @@ La Rue Militaire
 La Rue de la Pointe
 ST. PETER
 L’Avenue de la Commune (from the boundary with the parish of St. Brelade to Le Clos Saut Falluet)
-La Grande Route des Augerez (from its junction with La Grande Route de St. Pierre to a point 49 yards north of that junction)
-La Grande Route de St. Pierre (from a point 87 yards north of La Verte Rue to a point 72 yards north of La Neuve Route)
-Le Mont Fallu (from La Vallée de St. Pierre to the western boundary of the property known as “Les Côtils”)
+La Grande Route des Augerez (from its junction with La Grande Route de St. Pierre to a point 45 metres north of that junction)
+La Grande Route de St. Pierre (from a point 220 metres north of its junction with La Rue des Sapins to a point 66 metres north of its junction with La Neuve Route)
+Le Mont des Vignes
+Le Mont du Jubilé (from its junction with La Rue de la Pointe to a point 64 metres south-west of that junction)
+Le Mont Fallu
 La Petite Rue de la Pointe
-La Route de Beaumont (from La Route de la Haule to a point 38 yards north-west of Le Clos de Bauche)
-La Route de Beaumont (from a point 59 yards south of La Rue de St. Clement to a point 130 yards north-west of La Rue Maret)
+La Route de Beaumont (from La Route de la Haule to a point 35 metres north-west of its junction with Le Clos de Bauche)
+La Route de Beaumont (from a point 54 metres south of its junction with La Rue de St. Clement to a point 119 metres north-west of its junction with La Rue Maret)
 La Route de la Haule
-La Rue du Bocage
-La Rue de l’Église (from a point 114 yards south-west of La Ville de l’Église to its junction with La Rue de la Pointe)
-La Rue des Fontaines (from its junction with La Rue de la Pointe to a point 27 yards west of that junction)
-La Rue des Niemes (from La Rue de la Pointe to a point 114 yards north of its junction with La Rue de la Presse)
+La Rue de la Commune
+La Rue de l’Église (from a point 104 metres south-west of its junction with La Ville de l’Église to La Rue de la Pointe)
+La Rue des Fontaines (from its junction with La Rue de la Pointe to a point 25 metres west of that junction)
+La Rue des Landes (from a point 83 metres south of its junction with La Rue Cappelain to La Route du Francfief)
+La Rue des Lauriers
+La Rue des Nièmes
 La Rue de la Pointe
+La Ruelle és Ruaux
+La Rue du Saut Falluet
+La Rue des Sauvalleries
+La Rue des Vignes (from a point 144 metres south of its junction with La Rue Cappelain to Le Mont des Vignes)
 La Rue de la Ville au Bas
-La Ruelle és Ruaux (from La Route de Beaumont to a point 77 yards north-east of its junction with Le Mont des Vignes)
-La Rue des Sapins
-La Rue du Vieux Presbytère (from its junction with La Grande Route de St. Pierre to a point 49 yards north-east of that junction)
-Le Vieux Beaumont (from its junction with La Rue du Craslin to a point 49 yards north of that junction)
+Le Vieux Beaumont
 ST. SAVIOUR
 Any road within the area bounded by St. Saviour’s Road, St. Saviour’s Hill, Bagatelle Road and the southerly boundary of the parish, except a road described in Schedule 2 or Schedule 3
 Albert Road
