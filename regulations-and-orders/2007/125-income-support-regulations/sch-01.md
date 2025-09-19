@@ -4,16 +4,26 @@ Part 1: basic components
 1 Criteria for basic components
 (1) A household is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law in respect of any member of the household -
 (a) during any week in which the member is entitled to a grant under an Order made by the Minister for Education and Lifelong Learning under Article 51 of the Education (Jersey) Law 1999 that is intended to cover the whole of that week;
+(aa) if the member of the household is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) (approved education or training) of the Law, during any week in which the member’s weekly earnings exceed the product of the formula set out in paragraph (1A);
 (b) during any week when the member is, for the whole of that week, remanded in custody or detained by virtue of a sentence of imprisonment, youth detention or similar punishment (whether in Jersey or elsewhere);
 (c) during any continuous period of more than 4 weeks when the member is provided with board and lodging at public expense;
 (ca) during any period when the member is receiving long-term care in an approved care home; or
 (d) for the fifth or subsequent week that the member is outside Jersey -
 (i) during the 12 month period beginning on the date of determination of the claim for income support, and
 (ii) during any subsequent 12 month period immediately following that period.
+(1A) The formula referred to in sub-paragraph (1)(aa) is as follows -
+A x B
+where
+A is the rate payable under paragraph 2(a);
+B = 1 + C
+C
+C = 1 - (D + E)
+D is the percentage of primary Class 1 contributions payable under Schedule 1A, paragraph 3(1) to the Social Security (Jersey) Law 1974, expressed as a decimal;
+E is the percentage of earnings disregarded under Schedule 2, paragraph 5(a) to the Income Support (General Provisions) (Jersey) Order 2008, expressed as a decimal.
 (2) A household is not entitled to a basic component under Article 5(2)(a), (c) or (ca) of the Law in relation to any member of the household who is a foster child.
 (3) A household is only entitled to a basic component under Article 5(2)(d) of the Law if it is entitled to a housing component in respect of the occupation of a dwelling other than a hostel.
-(4) If a housing component is apportioned between 2 or more households under paragraph 4(10)(c) or (11)(c), the basic component under Article 5(2)(d) shall be similarly apportioned.
-(4A) If a housing component is calculated under paragraph 4(12)(a) in respect of a household, the basic component under Article 5(2)(d) shall be multiplied by H/B where H and B have the same values used to calculate the housing component under paragraph 4(12)(a) in respect of that household.
+(4) If a housing component is apportioned between 2 or more households under paragraph 4E(2)(c), 4F(2)(c) or 4H(6)(c), the basic component under Article 5(2)(d) shall be similarly apportioned.
+(4A) If a housing component is calculated under paragraph 4G(3) or (4) in respect of a household, the basic component under Article 5(2)(d) shall be multiplied by H/B where H and B have the same values used to calculate the housing component under paragraph 4G(3) or (4) in respect of that household.
 (5) A household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of any member of the household who has not been ordinarily resident in Jersey for the period prescribed under Article 2(1)(b) of the Law.
 2 Rates for basic components
 The rates payable for the basic components under Article 5(2) of the Law are -
@@ -21,8 +31,8 @@ The rates payable for the basic components under Article 5(2) of the Law are -
 under Article 5(2)(a) of the Law (adult component rate)
 £125.79
 (b)
-under Article 5(2)(b) of the Law (single parent component rate)
-£49.14
+under Article 5(2)(b) or (ba) of the Law (single parent component rate)
+£174.93
 (c)
 under Article 5(2)(c) of the Law (first child component rate)
 £103.60
@@ -51,144 +61,157 @@ A: housing component
 (iii) a person in whose case paragraph 1(1)(ca) applies -
 (A) for a fifth or subsequent week of a continuous period, in a case where there is no reasonable expectation that the person will resume living in the principal residence of the household, or
 (B) for a thirteenth or subsequent week of a continuous period in any other case.
-4 Rates of housing component
-(1) If the dwelling occupied is private sector housing occupied under the terms of a lease or licence by an eligible household, the housing component payable is whichever is the lowest of the following -
-(a) the actual weekly rent payable;
-(b) if the dwelling is appropriate to the needs of the eligible household, the rate payable under sub-paragraph (2) in respect of a dwelling of that description; or
-(c) if the dwelling is not appropriate to the needs of the eligible household, the rate payable under sub-paragraph (2) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
-(2) The rates payable under this sub-paragraph are -
-(a)
-in the case of a hostel
-£158.76
-(b)
-in the case of lodgings or a bedsit
-£192.15
-(c)
-in the case of a flat with 1 bedroom
-£283.29
-(d)
-in the case of a flat with 2 bedrooms
-£362.74
-(e)
-in the case of a flat with 3 or more bedrooms
-£389.13
-(f)
-in the case of a house with 1 bedroom
-£324.73
-(g)
-in the case of a house with 2 bedrooms
-£412.16
-(h)
-in the case of a house with 3 bedrooms
-£481.32
-(i)
-in the case of a house with 4 bedrooms
-£524.65
-(j)
-in the case of a house with 5 or more bedrooms
-£580.58
-(3) If the dwelling occupied is social housing occupied under a lease or licence by an eligible household and -
-(a) the dwelling is appropriate to the needs of the eligible household; and
-(b) the actual weekly rent payable is no more than is reasonable having regard to -
-(i) the fact that the dwelling is social housing, and
-(ii) the value of the property on the open rental market,
-the housing component payable is the actual weekly rent payable.
-(4) If -
-(a) the dwelling occupied is social housing;
-(b) the dwelling is occupied under a lease or licence by an eligible household;
-(c) the dwelling is appropriate to the needs of the eligible household; and
-(d) the actual weekly rent is more than is reasonable having regard to -
-(i) the fact that the dwelling is social housing, and
-(ii) the value of the property on the open rental market,
-the rate is the rate payable under sub-paragraph (13) in respect of a dwelling of that description.
-(5) If the dwelling occupied is social housing and is not appropriate to the needs of the eligible household, the rate payable is whichever amount is the lower of the following -
-(a) the rate payable under sub-paragraph (13) in respect of a dwelling of a description that is appropriate to the needs of the eligible household; or
-(b) the actual weekly rent payable.
-(6) If a dwelling that an eligible household occupies is owned by a member of the household, the housing component payable is -
-(a) if the dwelling is appropriate to the needs of the eligible household, the rate payable under sub-paragraph (7) in respect of a dwelling of that description; or
-(b) if the dwelling is not appropriate to the needs of the eligible household, the rate payable under sub-paragraph (7) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
-(7) The rates payable under this sub-paragraph are -
-(a)
-in the case of a bedsit or flat with 1 or 2 bedrooms
-£8.89
-(b)
-in the case of a flat with 3 bedrooms
-£12.53
-(c)
-in the case of a flat with 4 or more bedrooms
-£17.71
-(d)
-in the case of a house with 1 bedroom
-£8.89
-(e)
-in the case of a house with 2 bedrooms
-£12.53
-(f)
-in the case of a house with 3 or more bedrooms
-£17.71
-(8) In this paragraph a dwelling (or part of a dwelling for the purposes of sub-paragraph (12)), is appropriate to the needs of an eligible household -
+4 Meaning of “appropriate to needs of eligible household”
+(1) In paragraphs 4A to 4I, a dwelling is appropriate to the needs of an eligible household -
 (a) if it is no larger than is reasonably necessary for that household;
 (b) if, having regard to all the circumstances, it would be unreasonable to expect the household to move from that dwelling; or
-(c) where -
-(i) it has become larger than is reasonably necessary for the household because the household has become smaller within the last 12 months, and
+(c) if -
+(i) it has become larger than is reasonably necessary for the household because the household has become smaller within the last 12 months; and
 (ii) the household is taking all reasonable steps to find alternative accommodation that is appropriate to the needs of the household.
-(9) If an eligible household (“first household”) shares a dwelling with one or more other households which include either or both of the following -
-(a) another household (whether or not an eligible household) which is part of the same family unit as the first household; or
-(b) another household (whether or not an eligible household) which is not part of the same family unit as the first household,
-the amount of housing component is determined in accordance with sub-paragraph (10), (11) or (12), as the case requires.
-(10) If a dwelling is shared by 2 or more households, each household being an eligible household and all the households sharing the dwelling being part of the same family unit, the housing component is determined under sub-paragraph (1), (3), (4), (5) or (6), as the case requires, subject to the following -
-(a) a dwelling is appropriate to the needs of the household if it is no larger than is reasonably necessary for all the households sharing the dwelling, or if, having regard to all the circumstances, it would be unreasonable to expect all or any of them to move from that dwelling;
-(b) only one housing component is payable in respect of the dwelling; and
-(c) the component is divided equally between all the households entitled to it.
-(11) If a dwelling is shared by 2 or more households at least one of which is not an eligible household but where all of the households sharing the dwelling are part of the same family unit, the housing component is determined under sub-paragraph (1), (3) (4), (5) or (6) as the case requires, subject to the following -
-(a) a dwelling is appropriate to the needs of the household if it is no larger than is reasonably necessary for all the eligible households sharing the dwelling (or the eligible household, if there is only one), or if, having regard to all the circumstances, it would be unreasonable to expect all or any of the eligible households (or the eligible household, if there is only one) to move from that dwelling;
-(b) only one housing component is payable in respect of the dwelling; and
-(c) where there is more than one eligible household, the component is divided equally between all the eligible households entitled to it.
-(12) If a dwelling is shared by 2 or more households, such households not being part of the same family unit, the housing component that is payable to each eligible household is determined in accordance with clause (a) or (b), as the case requires -
-(a) in the case of an eligible household that occupies a dwelling under a lease or licence the housing component is whichever amount described in sub-clause (i) or (ii) is the lower -
-(i) the actual weekly rent payable by the household, or
-(ii) the amount calculated as follows -
-H/B x C
-Where -
-H is the number of bedrooms comprised in the part of the dwelling that is occupied by the eligible household if such part is appropriate to the needs of the household, or, if not appropriate, the number of bedrooms comprised in a part of dwelling that is appropriate to such needs;
-B is the total number of bedrooms that are comprised in the dwelling;
-C is -
-(i) in the case of private sector housing, the rate payable under sub-paragraph (2), or
-(ii) in the case of social housing, the rate payable under sub-paragraph (13),
-for a dwelling of a description that refers to the total number of bedrooms that are comprised in the dwelling;
-(b) in the case of an eligible household that owns a dwelling -
-(i) if the dwelling is appropriate to the needs of the eligible household, the housing component is the rate payable under sub-paragraph (7) in respect of a dwelling of that description, or
-(ii) if the dwelling is not appropriate to the needs of the eligible household, the housing component is the rate payable under sub-paragraph (7) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
-(13) The rates payable under this sub-paragraph are -
-(a)
-in the case of a hostel
+(2) If a dwelling is occupied by more than 1 household, paragraph (1) applies to all the eligible households that occupy the dwelling.
+4A Rate of housing component - private sector rental
+(1) This paragraph applies if the dwelling occupied is private sector housing occupied under the terms of a lease or licence by an eligible household.
+(2) The housing component payable is whichever is the lowest of the following -
+(a) the actual weekly rent payable;
+(b) if the dwelling is appropriate to the needs of the eligible household, the rate payable under sub-paragraph (3) in respect of a dwelling of that description; or
+(c) if the dwelling is not appropriate to the needs of the eligible household, the rate payable under sub-paragraph (3) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
+(3) The rates payable under this sub-paragraph are -
+hostel
 £158.76
-(b)
-in the case of lodgings or a bedsit
+lodgings or bedsit
+£192.15
+flat with 1 bedroom
+£283.29
+flat with 2 bedrooms
+£362.74
+flat with 3 or more bedrooms
+£389.13
+house with 1 bedroom
+£324.73
+house with 2 bedrooms
+£412.16
+house with 3 bedrooms
+£481.32
+house with 4 bedrooms
+£524.65
+house with 5 or more bedrooms
+£580.58
+4B Rate of housing component - social housing
+(1) This paragraph applies if the dwelling occupied by an eligible household is social housing occupied under a lease or licence.
+(2) If the dwelling is appropriate to the needs of the household and -
+(a) the actual weekly rent is reasonable, the housing component is the actual weekly rent payable; or
+(b) the actual weekly rent is more than is reasonable, the rate is the rate payable under paragraph 4I in respect of a dwelling of that description.
+(3) If the dwelling is not appropriate to the needs of the household, the rate payable is the lower of -
+(a) the rate payable under paragraph 4I in respect of a dwelling of a description that is appropriate to the needs of the household; or
+(b) the actual weekly rent payable.
+(4) In this paragraph, “reasonable”, with regard to rent payable, means an amount of rent that is reasonable having regard to -
+(a) the fact that the dwelling is social housing; and
+(b) the value of the property on the open rental market.
+4C Rate of housing component - dwelling owned by member of household
+(1) This paragraph applies if an eligible household occupies a dwelling that is owned by a member of the household.
+(2) If the dwelling is appropriate to the needs of the eligible household, the housing component payable is the rate stated in sub-paragraph (4) in respect of a dwelling of that description.
+(3) If the dwelling is not appropriate to the needs of the eligible household, the housing component payable is the rate stated in sub-paragraph (4) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
+(4) The rates payable under this sub-paragraph are -
+bedsit or flat with 1 or 2 bedrooms
+£8.89
+flat with 3 bedrooms
+£12.53
+flat with 4 or more bedrooms
+£17.71
+house with 1 bedroom
+£8.89
+house with 2 bedrooms
+£12.53
+house with 3 or more bedrooms
+£17.71
+4D Meaning of “family unit”
+In Articles 4E to 4H, 2 households occupying the same dwelling are part of a “family unit” if -
+(a) 1 of the households consists of a person under the age of 25; and
+(b) a member of the other household -
+(i) has the main responsibility for the physical care of the person; or
+(ii) if the person is over school leaving age -
+(A) had that responsibility until the person attained school leaving age; or
+(B) is the person’s parent.
+4E Dwelling shared by 2 or more eligible households in same family unit
+(1) This paragraph applies if a dwelling is occupied by 2 or more households -
+(a) each of which is an eligible household; and
+(b) that are part of the same family unit.
+(2) The rate of housing component is determined under paragraph 4A, 4B or 4C, as appropriate, subject to the following -
+(a) a dwelling is appropriate to the needs of the household if it is no larger than is reasonably necessary for all the households sharing the dwelling, or if, having regard to all the circumstances, it would be unreasonable to expect all or any of them to move from that dwelling;
+(b) only 1 housing component is payable in respect of the dwelling; and
+(c) the component is divided equally between all the households entitled to it.
+4F Dwelling shared by 2 or more households in same family unit of which 1 or more not eligible
+(1) This paragraph applies if a dwelling is occupied by 2 or more households -
+(a) at least 1 of which is not an eligible household; and
+(b) that are part of the same family unit.
+(2) The rate of housing component is determined under paragraph 4A, 4B or 4C, as appropriate, subject to the following -
+(a) a dwelling is appropriate to the needs of the household if -
+(i) it is no larger than is reasonably necessary for all the eligible households sharing the dwelling (or the eligible household, if there is only 1); or
+(ii) if, having regard to all the circumstances, it would be unreasonable to expect all or any of the eligible households (or the eligible household, if there is only 1) to move from that dwelling;
+(b) only 1 housing component is payable in respect of the dwelling; and
+(c) if there is more than 1 eligible household, the component is divided equally between all the eligible households entitled to it.
+4G Dwelling shared by 2 or more households not in family unit
+(1) This paragraph applies if a dwelling is occupied by 2 or more households that do not form part of the same family unit.
+(2) If a member of an eligible household owns the dwelling -
+(a) if the dwelling is appropriate to the needs of the eligible household, the housing component is the rate payable under paragraph 4C in respect of a dwelling of that description; or
+(b) if the dwelling is not appropriate to the needs of the eligible household, the housing component is the rate payable under paragraph 4C in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
+(3) If the dwelling occupied by the eligible household is social housing occupied under a lease or licence, and the dwelling is appropriate to the needs of all the eligible households occupying the dwelling, the housing component is the amount calculated using the formula H/B x T.
+(4) If the eligible household occupies a dwelling under a lease or licence, the housing component is the lower of -
+(a) the actual weekly rent payable by the household;
+(b) the amount calculated using the formula H/B x C; or
+(c) the amount calculated using the formula H/B x T.
+(5) In this paragraph -
+H is the number of bedrooms that is appropriate to the needs of the eligible household;
+B is the total number of bedrooms in the dwelling;
+C is, for a dwelling of a description that refers to the total number of bedrooms in the dwelling -
+(i) in the case of private sector housing, the rate payable under paragraph 4A; or
+(ii) in the case of social housing that is not appropriate to the needs of all the eligible households occupying the dwelling household, the rate payable under paragraph 4I;
+T is the total weekly rent payable for the dwelling.
+4H Further provision in case of parent/child relationship
+(1) This paragraph applies if -
+(a) paragraph 4G(3) or (4) applies; and
+(b) 2 of the households occupying the dwelling would form part of the same family unit, but for the person in the child household having attained the age of 25; but
+(c) not all of the households occupying the dwelling are named on the lease or licence.
+(2) Only 1 housing component is payable in respect of a dwelling.
+(3) The housing component is calculated based on all the eligible households to whom paragraph (1)(b) applies who occupy the dwelling.
+(4) If the lease or licence on the dwelling is in the sole name of the parent household, the housing component is payable only if the parent household is an eligible household (and is paid to the parent household).
+(5) If the lease or licence on the dwelling is in the sole name of the child household, the housing component is payable only if the child household is an eligible household (and is paid to the child household).
+(6) If the lease or licence on the dwelling is in the joint names of the parent and child households -
+(a) if only the parent household is an eligible household, the housing component is paid to the parent household;
+(b) if only the child household is an eligible household, the housing component is paid to the child household; and
+(c) if both parent and child households are eligible households, the housing component is divided proportionately between the households.
+(7) In this paragraph -
+“child” means a member of a child household;
+“child household” means a household comprising a person -
+(a) who is over the age of 25; and
+(b) in respect of whom a member of the parent household -
+(i) is their parent; or
+(ii) had responsibility for the person’s physical care until the person attained school leaving age;
+“parent” means a member of a parent household;
+“parent household” means a household comprising 1 or more persons who -
+(a) is the parent of a person in the child household; or
+(b) had responsibility for the physical care of a member of the child household until that member attained school leaving age.
+4I Rates payable under paragraphs 4B(2) and (3) and 4G(5)(ii)
+The rates payable under this paragraph are -
+hostel
+£158.76
+lodgings or bedsit
 £182.21
-(c)
-in the case of a flat with 1 bedroom
+flat with 1 bedroom
 £268.45
-(d)
-in the case of a flat with 2 bedrooms
+flat with 2 bedrooms
 £343.56
-(e)
-in the case of a flat with 3 or more bedrooms
+flat with 3 or more bedrooms
 £368.55
-(f)
-in the case of a house with 1 bedroom
+house with 1 bedroom
 £307.51
-(g)
-in the case of a house with 2 bedrooms
+house with 2 bedrooms
 £390.60
-(h)
-in the case of a house with 3 bedrooms
+house with 3 bedrooms
 £456.12
-(i)
-in the case of a house with 4 bedrooms
+house with 4 bedrooms
 £497.00
-(j)
-in the case of a house with 5 or more bedrooms
+house with 5 or more bedrooms
 £550.20
 B: impairment component
 5 Elements of impairment component
@@ -199,7 +222,7 @@ B: impairment component
 (2) A household is not entitled to an impairment component unless -
 (a) the circumstances that would otherwise entitle the household to the component have lasted, or are likely to last, for a total period of not less than 6 months; or
 (b) the member of the household who would entitle the household to the component is not expected to live more than 6 months.
-(3) A household is not entitled to an impairment component in relation to any member of the household in respect of whom the household has no entitlement to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1) (b), (c) or (d) unless the person’s absence from Jersey is due to the person being a pupil at a school outside Jersey that caters for pupils with special needs.
+(3) A household is not entitled to an impairment component in relation to any member of the household in respect of whom the household has no entitlement to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(aa), (b), (c) or (d) unless the person’s absence from Jersey is due to the person being a pupil at a school outside Jersey that caters for pupils with special needs.
 (4) A household is not entitled to an impairment component in relation to any member of the household in respect of whom the household has no entitlement to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(2).
 (5) A household is not entitled to an impairment component in relation to any member of the household in respect of whom the household has no entitlement to a basic component under Article 5(2)(a) or (b) of the Law as a consequence of paragraph 1(5).
 6 Personal care element
@@ -258,11 +281,14 @@ for a score of at least 56
 “recognised clinical guidelines” means evidence-based systematically-developed statements originating from a professional medical or scientific organisation that are designed to assist medical practitioners and patients with decisions about appropriate health care for the patient’s specific medical circumstances.
 C: child day care component
 9 Child day care component criteria
-A household is entitled to a child day care component in respect of any child under 12 years of age who is a member of the household, other than a foster child, if the adult member of the household who is treated under Article 3 of the Law as having the main responsibility for the physical care of the children of the household -
+(1) A household is entitled to a child day care component in respect of any child under 12 years of age who is a member of the household, other than a foster child, if the adult member of the household who is treated under Article 3 of the Law as having the main responsibility for the physical care of the children of the household -
 (a) has average earnings, calculated over any period not exceeding 12 months, that are greater than the cost of the day care provided to all the children for whom he or she has the main responsibility for the physical care during that period; or
 (b) is exempted from the requirement to be in full time remunerative work by virtue of -
 (i) Article 3(1)(d) of the Law; or
 (ii) Article 3(1)(e) of the Law.
+(2) But a household is not entitled to a child day care component if -
+(a) the adult member of the household described in sub-paragraph (1)(a) is exempted from the requirement to be in full time remunerative work by virtue of Article 3(1)(e) (approved education or training) of the Law; and
+(b) the adult member of the household’s average earnings, calculated over a period not exceeding 12 months, exceed the product of the formula set out in paragraph 1(1A).
 10 Rate for the child day care component
 (1) The rate payable in respect of the child day care component is -
 (a) the average weekly cost of the day care provided to the child; or
@@ -289,7 +315,7 @@ D: carer’s component
 (c) at least one of the persons cared for -
 (i) meets the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(c); or
 (ii) has been assessed, under Article 5 of the Long-Term Care (Jersey) Law 2012, as being in need of long-term care.
-(2) However, a household is not entitled to a carer’s component in respect of any carer while the carer is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(b), (c) or (d), unless the disentitlement is because one or more of the persons being cared for is receiving medical treatment outside Jersey and the carer has accompanied that person or persons.
+(2) However, a household is not entitled to a carer’s component in respect of any carer while the carer is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(aa), (b), (c) or (d), unless the disentitlement is because one or more of the persons being cared for is receiving medical treatment outside Jersey and the carer has accompanied that person or persons.
 (3) A household is not entitled to a carer’s component in respect of any carer while the household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of the carer as a consequence of paragraph 1(5).
 12 Rate for the carer’s component
 The rate payable in respect of the carer’s component is £71.61.
