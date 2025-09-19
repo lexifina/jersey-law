@@ -69,29 +69,29 @@ or over such other period as will most accurately enable average weekly earnings
 (4) If the income of the household includes any unearned income, the average weekly income of the household from that unearned income shall be estimated over such period, not exceeding one year immediately prior to the determination, as will most accurately enable average weekly income to be assessed.
 (5) If the calculation of the income of a household under paragraph (1) results in a zero or negative value, the income of the household shall be deemed to have a zero value.
 5 Percentage of income to be disregarded
-In assessing the weekly income of the household there shall be disregarded -
-(a) 26% of the earnings of any adults in the household;
-(b) 100% of the earnings of any children in the household;
-(c)
-(d) 26% of any income derived from any qualifying maintenance payment received by any person in the household;
-(da) 100% of any income derived from a pension received by any children in the household;
-(e)
-(f) the following pension income -
-(i) in the case of one existing pensioner in the household, whichever is the greater of -
-(A) 100% of the first £55.23 of his or her pension income, or
-(B) 26% of his or her pension income,
+In assessing the weekly income of the household, the following is disregarded -
+(a) 26% of the earnings of an adult in the household;
+(b) 100% of the earnings of a child in the household;
+(c) 26% of income derived from a qualifying maintenance payment received by a person in the household;
+(d) 100% of income derived from a pension received by a child in the household;
+(e) the following pension income -
+(i) in the case of 1 existing pensioner in the household, whichever is the greater of -
+(A) 100% of the first £55.23 of the person’s pension income; or
+(B) 26% of the person’s pension income;
 (ii) in the case of any other existing pensioner in the household, whichever is the greater of -
-(A) 100% of the first £35.77 of his or her pension income, or
-(B) 26% of his or her pension income,
-(iii) in the case of any new pensioner in the household, 26% of his or her pension income;
-(g)
-(ga)
-(h)
-(i) in the case of a person who -
-(i) is under 25 years,
-(ii) is treated under Article 5(1) as being a member of the same household of another person, and
-(iii) is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) of the Law (persons undergoing education or training on any course approved by the Minister) but does not meet the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(b) or (c) of Schedule 1 to the Regulations,
-100% of the aggregate of the person’s earnings and any income derived from a pension received by the person, up to the value of the basic component payable in respect of that person under Article 5(2)(a) of the Law.
+(A) 100% of the first £35.77 of the person’s pension income; or
+(B) 26% of the person’s pension income;
+(iii) in the case of any new pensioner in the household, 26% of that person’s pension income;
+(f) 100% of the aggregate of a person’s earnings and any income derived from a pension received by the person, up to the value of the basic component payable in respect of that person under Article 5(2)(a) of the Law, if the person -
+(i) is under 25 years;
+(ii) is treated under Article 5(1) as being a member of the same household of another person;
+(iii) is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) (approved education or training) of the Law but does not meet the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(b) or (c) of Schedule 1 to the Regulations; and
+(iv) has weekly earnings that do not exceed the product of the formula given in Schedule 1, paragraph 1(1A) to the Regulations;
+(g) 100% of the aggregate of a person’s earnings and any income derived from a pension received by the person, if the person -
+(i) is under 25 years;
+(ii) is treated under Article 5(1) as being a member of the same household of another person;
+(iii) is excepted from the requirement to be engaged in full time remunerative work by virtue of Article 3(1)(e) (approved education or training) of the Law but does not meet the criteria for the rate payable in respect of the personal care element of the impairment component under paragraph 6(3)(b) or (c) of Schedule 1 to the Regulations; and
+(iv) has weekly earnings that exceed the product of the formula given in Schedule 1, paragraph 1(1A) to the Regulations.
 6 Interpretation
 In this Schedule -
 “capital” means any capital asset;

@@ -1,6 +1,6 @@
 # Income Support (General Provisions) (Jersey) Order 2008
 
-R&O.12/2008 · official consolidation showing the law from 2025-06-10 · <https://www.jerseylaw.je/laws/current/ro_12_2008_20250918>
+R&O.12/2008 · official consolidation showing the law from 2025-09-19 · <https://www.jerseylaw.je/laws/current/ro_12_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
