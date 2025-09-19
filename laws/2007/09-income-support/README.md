@@ -1,6 +1,6 @@
 # Income Support (Jersey) Law 2007
 
-L.9/2007 · official consolidation showing the law from 2024-08-01 · <https://www.jerseylaw.je/laws/current/l_9_2007_20250918>
+L.9/2007 · official consolidation showing the law from 2025-09-19 · <https://www.jerseylaw.je/laws/current/l_9_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
