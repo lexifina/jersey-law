@@ -35,6 +35,7 @@
 (c) a person who makes available facilities that are associated facilities by reference to a public electronic communications network or a public electronic communications service;
 “public electronic communications network” means an electronic communications network provided wholly or mainly for the purpose of making electronic communications services available to members of the public;
 “public electronic communications service” means an electronic communications service that is provided so as to be available for use by members of the public.
+(1A) For the purposes of the definitions “public electronic communications network” and “public electronic communications service” in paragraph (1), a service is made available to members of the public if members of the public are customers, in respect of that service, of the provider of that service.
 (2) In this Part -
 (a) reference to the provision of an electronic communications network includes reference to its establishment, maintenance or operation;
 (b) if one or more persons are employed or engaged to provide a network or service under the direction or control of another person, then a reference to the person by whom an electronic communications network or electronic communications service is provided is to be construed as a reference to that other person only;

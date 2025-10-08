@@ -1,6 +1,6 @@
 # Telecommunications (Jersey) Law 2002
 
-L.1/2002 · official consolidation showing the law from 2024-10-01 · <https://www.jerseylaw.je/laws/current/l_1_2002_20251007>
+L.1/2002 · official consolidation showing the law from 2025-10-08 · <https://www.jerseylaw.je/laws/current/l_1_2002_20260531>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -72,6 +72,10 @@ L.1/2002 · official consolidation showing the law from 2024-10-01 · <https://w
 | Art. 44 | [art-044.md](art-044.md) | 44 Collective agreements about new staff |
 | Art. 45 | [art-045.md](art-045.md) | 45 Saving of rights under retirement schemes |
 | Art. 46 | [art-046.md](art-046.md) | 46 New employees to join retirement scheme |
+| Art. 46A | [art-046-a.md](art-046-a.md) | 46A Interpretation and operation of this Part |
+| Art. 46B | [art-046-b.md](art-046-b.md) | 46B Allocation of telephone numbers by OFCOM |
+| Art. 46C | [art-046-c.md](art-046-c.md) | 46C Conditions binding non-providers |
+| Art. 46D | [art-046-d.md](art-046-d.md) | 46D Power to amend this Part by Regulations |
 | Art. 47 | [art-047.md](art-047.md) | 47 Damage to public telecommunication system |
 | Art. 48 | [art-048.md](art-048.md) | 48 Obstruction of public telecommunications staff |
 | Art. 49 | [art-049.md](art-049.md) | 49 Fraudulent use of telecommunication system |

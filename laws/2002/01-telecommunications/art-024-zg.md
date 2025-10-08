@@ -5,7 +5,7 @@
 (c) to the Authority;
 (d) to a law officer of the Crown for Guernsey or of the Crown for the Isle of Man;
 (e) to a department of the Government of the United Kingdom or the Government of any other country or territory;
-(f) to the Office of Communications (“OFCOM”) established under the Communications Act 2003 of the United Kingdom;
+(f) to OFCOM;
 (g) with a view to instituting, or otherwise for the purposes of, proceedings for an offence under this Law; or
 (h) with the consent of a person who, in their own right, is entitled to the information or to possession of the document, copy or extract, to a third party.
 (2) The Authority may, for the purpose of its functions under this Part, disclose any document or information obtained in the exercise of its functions under this Part -
