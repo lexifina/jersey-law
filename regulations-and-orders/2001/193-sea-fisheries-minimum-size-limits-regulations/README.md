@@ -1,6 +1,6 @@
 # Sea Fisheries (Minimum Size Limits) (Jersey) Regulations 2001
 
-R&O.193/2001 · official consolidation showing the law from 2024-08-01 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20251012>
+R&O.193/2001 · official consolidation showing the law from 2025-10-13 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20251204>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,4 +13,4 @@ R&O.193/2001 · official consolidation showing the law from 2024-08-01 · <https
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Transiting fishing vessels |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Measuring sea fish |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

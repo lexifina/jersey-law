@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulations 2 and 8)
 PART 1
 Column 1
@@ -129,7 +129,7 @@ Hard clam (Callista chione)
 Grooved carpetshell (Ruditapes decussatus)
 40 millimetres measured across the broadest part of the shell
 Lobster (Homarus gammarus)
-88 millimetres measured from the rear of either eye socket to the rear end of the body shell along a line parallel to the centre line of the body shell
+89 millimetres measured from the rear of either eye socket to the rear end of the body shell along a line parallel to the centre line of the body shell
 Nephrops (Nephrops norvegicus) -
 (a) whole Nephrops
 25 millimetres measured from the rear of either eye socket to the rear end of the body shell along a line parallel to the centre line of the body shell or a total length of 85 millimetres measured from the tip of the rostrum to the rear end of the telson, not including the bristles (setae)
