@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 1)
 Schedule 1 Drugs
 1 The following substances and products -

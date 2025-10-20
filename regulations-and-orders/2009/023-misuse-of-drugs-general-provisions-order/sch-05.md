@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 1)
 SCHEDULE 5 Drugs
 1

@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 1)
 SCHEDULE 4 Drugs
 1 The following substances and products -

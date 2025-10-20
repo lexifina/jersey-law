@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 1)
 SCHEDULE 3 Drugs
 1 The following substances, namely -

@@ -1,6 +1,6 @@
 # Misuse of Drugs (General Provisions) (Jersey) Order 2009
 
-R&O.23/2009 · official consolidation showing the law from 2024-08-07 · <https://www.jerseylaw.je/laws/current/ro_23_2009_20251019>
+R&O.23/2009 · official consolidation showing the law from 2025-10-20 · <https://www.jerseylaw.je/laws/current/ro_23_2009_20260316>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,6 +16,7 @@ R&O.23/2009 · official consolidation showing the law from 2024-08-07 · <https:
 | Art. 10 | [art-010.md](art-010.md) | 10 Cultivation of cannabis plant under licence |
 | Art. 11 | [art-011.md](art-011.md) | 11 Exemption for authorized needle supply services |
 | Art. 12 | [art-012.md](art-012.md) | 12 Documents to be obtained by a person indirectly supplying controlled drugs to a person |
+| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Restriction on issuing prescription for ketamine |
 | Art. 13 | [art-013.md](art-013.md) | 13 Documents to be obtained by a person supplying controlled drugs to certain persons |
 | Art. 14 | [art-014.md](art-014.md) | 14 Documents to be obtained by a person supplying controlled drugs at a hospital or nursing home |
 | Art. 15 | [art-015.md](art-015.md) | 15 Exemptions |
@@ -38,9 +39,9 @@ R&O.23/2009 · official consolidation showing the law from 2024-08-07 · <https:
 | Art. 31 | [art-031.md](art-031.md) | 31 Destruction of controlled drugs |
 | Art. 32 | [art-032.md](art-032.md) | 32 Savings |
 | Art. 33 | [art-033.md](art-033.md) | 33 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |

@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 2(4))
 SCHEDULE 6 Drugs
 1 Gamma-butyrolactone including -
