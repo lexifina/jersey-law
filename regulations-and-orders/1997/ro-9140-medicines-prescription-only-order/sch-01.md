@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 1(2), 2(a), 3(1) and 7)
 PART 1
 PRESCRIPTION ONLY MEDICINES

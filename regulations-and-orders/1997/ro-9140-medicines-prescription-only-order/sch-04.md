@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Articles 6(2)(ca) and 6A(2))
 clinical management plan
 1 Information to be included in clinical management plan

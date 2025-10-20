@@ -1,6 +1,6 @@
 # Medicines (Prescription Only) (Jersey) Order 1997
 
-R&O.9140 · official consolidation showing the law from 2022-08-12 · <https://www.jerseylaw.je/laws/current/ro_9140_20251019>
+R&O.9140 · official consolidation showing the law from 2025-10-20 · <https://www.jerseylaw.je/laws/current/ro_9140_20260316>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ R&O.9140 · official consolidation showing the law from 2022-08-12 · <https://w
 | Art. 14 | [art-014.md](art-014.md) | 14 Exemption for parenteral administration to human beings |
 | Art. 15 | [art-015.md](art-015.md) | 15 Exemption for non-parenteral administration to human beings |
 | Art. 16 | [art-016.md](art-016.md) | 16 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

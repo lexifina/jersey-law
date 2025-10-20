@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 EXEMPTION FOR CERTAIN PERSONS FROM ARTICLE 57(2) OF THE LAW
 PART 1
 (Articles 1(2)(a) and 8(1))
@@ -175,3 +175,9 @@ Polygeline
 Sodium bicarbonate
 Sodium chloride.
 Streptokinase
+7. A person who carries on the business of a school providing full-time education and who is trained to administer the medicine referred to in column 2.
+7. A prescription only medicine consisting of an auto-injector containing adrenaline
+7. The administration must be -
+(a) in the course of the person carrying on the business of a school;
+(b) to a pupil at that school who is known to be at risk of anaphylaxis; and
+(c) only if the pupil requires the medicinal product in an emergency.
