@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 4(1)(b))
 Information to be entered in pharmacy registers
 1 Where the sale or supply of a prescription only medicine is made under a prescription given by a practitioner or in accordance with Article 9(1) of the Medicines (Prescription Only) (Jersey) Order 1997 (by reason that the conditions in paragraph (2) of that Article are fulfilled), the information to which Article 4(1)(b) of this Order refers is -

@@ -1,6 +1,6 @@
 # Medicines (Sale and Supply) (Miscellaneous Provisions) (Jersey) Order 1997
 
-R&O.9137 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9137_20251019>
+R&O.9137 · official consolidation showing the law from 2025-10-20 · <https://www.jerseylaw.je/laws/current/ro_9137>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,5 +11,5 @@ R&O.9137 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Pharmacy records |
 | Art. 5 | [art-005.md](art-005.md) | 5 Additional conditions for sale or supply elsewhere than at pharmacy |
 | Art. 6 | [art-006.md](art-006.md) | 6 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
