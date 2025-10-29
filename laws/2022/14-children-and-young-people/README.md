@@ -1,6 +1,6 @@
 # Children and Young People (Jersey) Law 2022
 
-L.14/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-14-2022.aspx>
+L.14/2022 Â· official consolidation showing the law from 2025-10-29 Â· <https://www.jerseylaw.je/laws/current/l_14_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -51,6 +51,5 @@ L.14/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-14
 | Art. 44 | [art-044.md](art-044.md) | 44 Independent advocates |
 | Art. 45 | [art-045.md](art-045.md) | 45 Procedure for complaints or representations |
 | Art. 46 | [art-046.md](art-046.md) | 46 Regulations and Orders |
-| Art. 47 | [art-047.md](art-047.md) | 47 Children Law amended |
 | Art. 48 | [art-048.md](art-048.md) | 48 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

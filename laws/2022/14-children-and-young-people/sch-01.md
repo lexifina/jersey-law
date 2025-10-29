@@ -1,6 +1,6 @@
-# SCHEDULE
+# Schedule
 (Article 25)
-corporate parents
+Corporate parents
 Column 1
 Column 2
 Column 3
