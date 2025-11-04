@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 collective investment funds (recognized funds) rules 2003
 PART 1
@@ -2609,12 +2609,12 @@ b. to exercise as a delegate of the manager any function concerning the manageme
 “investment manager”: see investment adviser;
 “Jersey” means the Bailiwick;
 the “Law” means the Collective Investment Funds (Jersey) Law 1988;
-“management agreement”, has the meaning given in Part 1;
-“manager”, has the meaning given in Part 1;
+“management agreement” has the meaning given in Part 1;
+“manager” has the meaning given in Part 1;
 “margin” means cash or other property paid, transferred or deposited under the terms of a margined contract, and for these purposes cash or property shall be treated as having been paid, transferred or deposited if it must be paid, transferred or deposited in order to comply with a requirement imposed by the market on which the contract is made or traded;
 “margined contract” means any contract for a derivative;
 “member state” means, at any time, in addition to a State which is a member of the European Union, any other State which is within the European Economic Area;
-“Minister” means the Chief Minister;
+“Minister” means the Minister for External Relations;
 “money market fund”: see Article 2.05.3;
 “money market fund assets”: see Article 5.18.2;
 “mortgage” includes a charge, heritable security or other similar security created on or over an immovable;
@@ -2676,13 +2676,13 @@ c. “notional principal” means -
 “synthetic future”: see Article 5.23.9;
 “transferable security”: see Article 5.05;
 “trust instrument” has the meaning given in Article 1.01;
-“trustee”, has the meaning given in Article 1.01;
+“trustee” has the meaning given in Article 1.01;
 “types of collective investment fund” means categories of regulated collective investment funds or constituent parts, or their equivalent, thereof;
 “UCITS Directive” means the Council Directive of 20 December 1985 on the co-ordination of the laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (No. 85/611/EEC);
 “umbrella fund” means a recognized fund (or where the context requires other collective investment fund) where the contributions of the unitholders and the profits and income out of which payments are to be made to them are not only pooled but that the constitutional documents provide that such pooling is to be accomplished separately in relation to separate parts of the property in question and that unitholders are entitled to exchange rights in one part for rights in another;
 “unit trust” has the meaning given in Article 1.01 of these Rules;
-“units”, shall have the meaning given in Article 1 of the Law;
-“unitholder”, means
+“units” shall have the meaning given in Article 1 of the Law;
+“unitholder” means
 a. in relation to a unit in a recognized fund, the person who is entered in the register as the holder of that unit or, where the context requires, is the holder of a unit in another collective investment fund; or
 b. in relation to a unit in a recognized unit trust or, where the context otherwise requires, in another collective investment fund, where a bearer certificate represents that unit, the bearer of that bearer certificate;
 “unitization”: see Article 4.05.1;
