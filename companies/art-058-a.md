@@ -34,3 +34,6 @@ in order for a resolution to be passed or an action or decision to be taken or n
 (9) For the purposes of this Article, an employees’ share scheme is a scheme for encouraging or facilitating the holding of shares or debentures in a company by or for the benefit of -
 (a) the bona fide employees or former employees of the company, the company’s subsidiary or holding company or a subsidiary of the company’s holding company; or
 (b) the wives, husbands, widows, widowers, civil partners or surviving civil partners or minor children or minor step-children of such employees or former employees.
+(10) In paragraph (9) the following are treated as the child of a person -
+(a) the person’s adopted child;
+(b) a child who is the subject of a parental order in which the person is named as the child’s parent.

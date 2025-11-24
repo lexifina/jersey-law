@@ -15,9 +15,14 @@
 (ii) if each company is controlled by a group of 2 or more persons and the groups either consist of the same persons or could be regarded as consisting of the same persons by treating (in one or more cases) a member of either group as replaced by a person of whom he or she is an associate;
 (f) a company is an associate of another person if that person has control of the company or if that person and persons who are his or her associates together have control of the company; and
 (g) a provision that a person is an associate of another person shall be taken to mean that they are associates of each other.
-(3) For the purposes of this Article, a person is a relative of an individual if he or she is that individual’s brother, sister, uncle, aunt, nephew, niece, lineal ancestor or lineal descendant, for which purpose -
-(a) any relationship of the half blood shall be treated as a relationship of the whole blood and the stepchild or adopted child of a person as his or her child; and
-(b) an illegitimate child shall be treated as the legitimate child of his or her mother and reputed father.
+(3) For the purposes of this Article, a person is a relative of an individual if they are that individual’s brother, sister, uncle, aunt, nephew, niece, lineal ancestor or lineal descendant, for which purpose -
+(a) a relationship of the half-blood is treated as a relationship of the whole blood;
+(b) the following are treated as the child of an individual -
+(i) the person’s stepchild;
+(ii) the person’s adopted child;
+(iii) a child of a person who is the child’s father under Schedule A1 (fertility treatment and artificial insemination) to the Children (Jersey) Law 2002;
+(iv) a child of a person who is the child’s second parent under that Schedule; and
+(v) a child who is the subject of a parental order or a recognition order (having the meanings given to those terms in that Law), in which the person is named as the child’s parent.
 (4) References in this Article to a husband or wife or civil partner include a former husband or wife or civil partner and a reputed husband or wife or civil partner.
 (5) For the purposes of this Article, a director or other officer of a company shall be treated as employed by the company.
 (6) For the purposes of this Article, a person shall be taken as having control of a company if -

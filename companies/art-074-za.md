@@ -20,8 +20,8 @@ other than a trust for the purposes of an employees’ share scheme or a pension
 (2) The members of the director’s family are -
 (a) the director’s spouse or civil partner;
 (b) any other person (whether of a different sex or the same sex) with whom the director lives as partner in an enduring family relationship, other than a grandparent or grandchild, sister, brother, aunt or uncle, or nephew or niece;
-(c) the director’s children or step-children;
-(d) any children or step-children of a person within paragraph (b) (and who are not children or step-children of the director) who live with the director and have not attained the age of 18; and
+(c) the director’s children or stepchildren, including adopted children and children the subject of a parental order in which the director is named as their parent;
+(d) any children or stepchildren of a person within paragraph (b) (and who are not children or stepchildren of the director) who live with the director and have not attained the age of 18; and
 (e) the director’s parents.
 (3) A director is connected with a body corporate (other than a foundation incorporated under the Foundations (Jersey) Law 2009 or an incorporated limited partnership) if, but only if, the director and the persons connected with the director together -
 (a) have an interest in shares comprised in the equity share capital of that body corporate of a nominal value equal to at least 20% of that share capital; or
