@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 22)
 Purchase of Past Added Years - Current Provisions
 PART 1

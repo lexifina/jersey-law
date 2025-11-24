@@ -1,6 +1,6 @@
 # Teachers’ Superannuation (Existing Members) (Jersey) Order 1986
 
-R&O.7546 · official consolidation showing the law from 2022-06-01 · <https://www.jerseylaw.je/laws/current/ro_7546_20251123>
+R&O.7546 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_7546>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -93,9 +93,9 @@ R&O.7546 · official consolidation showing the law from 2022-06-01 · <https://w
 | Art. 89 | [art-089.md](art-089.md) | 89 Savings, transitory provisions and revocation |
 | Art. 89A | [art-089-a.md](art-089-a.md) | 89A Transitional provisions: Teachers’ Superannuation (General Provisions) (Amendment No. 3) (Jersey) Order 2007 |
 | Art. 90 | [art-090.md](art-090.md) | 90 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |

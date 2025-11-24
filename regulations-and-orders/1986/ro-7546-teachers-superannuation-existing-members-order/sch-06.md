@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 89(2))
 TRANSITORY PROVISIONS RELATING TO FAMILY BENEFITS
 Provision of 1970 Regulations

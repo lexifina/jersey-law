@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 73)
 ALLOCATION DECLARATIONS
 1
