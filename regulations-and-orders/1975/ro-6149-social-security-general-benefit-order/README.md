@@ -1,6 +1,6 @@
 # Social Security (General Benefit) (Jersey) Order 1975
 
-R&O.6149 · official consolidation showing the law from 2020-11-24 · <https://www.jerseylaw.je/laws/current/ro_6149_20251123>
+R&O.6149 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_6149>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,5 +14,5 @@ R&O.6149 · official consolidation showing the law from 2020-11-24 · <https://w
 | Art. 12 | [art-012.md](art-012.md) | 12 Interim payments, arrears and repayments |
 | Art. 13 | [art-013.md](art-013.md) | 13 Disqualifications to be disregarded for certain purposes |
 | Art. 14 | [art-014.md](art-014.md) | 14 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
