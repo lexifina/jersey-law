@@ -1,6 +1,6 @@
 # Regulation of Care (Standards and Requirements) (Jersey) Regulations 2018
 
-R&O.119/2018 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20251123>
+R&O.119/2018 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20260405>
 
 | Provision | File | Heading |
 | --- | --- | --- |

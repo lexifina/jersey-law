@@ -56,6 +56,10 @@ part 3
 (e) views about a suitable home environment for a child;
 (f) views about the importance and value of education;
 (g) views and feelings about the importance of a child’s religious persuasion, racial origin, and cultural and linguistic background; and
-(h) views and feelings about contact between the child’s parent or guardian or other individual with parental responsibility for the child, the child’s father, and any relative, friend or other individual.
+(h) views and feelings about contact between the child and -
+(i) the child’s parent or guardian,
+(ii) another individual with parental responsibility for the child,
+(iii) a person who would be a parent of the child if they had parental responsibility,
+(iv) any relative, friend or other individual.
 (20) The views of other members of the prospective adopter’s household and wider family in relation to adoption.
 (21) Any other relevant information which may assist the Adoption Panel and the adoption service.
