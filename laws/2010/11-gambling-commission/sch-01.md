@@ -16,7 +16,7 @@ Constitution and operation of Commission
 (i) the applicant,
 (ii) any business partner of the applicant,
 (iii) any spouse of the applicant or any person in a marriage-like relationship with the applicant (whether or not both persons are of different sexes), and
-(iv) any child of the applicant or any person who has been adopted by the applicant; and
+(iv) any child of the applicant or any person who has been adopted by the applicant or who is the subject of a parental order or a recognition order (having the meanings given to those terms in the Children (Jersey) Law 2002) in which the applicant is named as the child’s parent; and
 (b) an instrument authorizing the provision to the Minister of information as to whether the person has been charged with, or convicted of, an offence -
 (i) under customary law or under any enactment, or
 (ii) against any law of a country or territory outside Jersey.
