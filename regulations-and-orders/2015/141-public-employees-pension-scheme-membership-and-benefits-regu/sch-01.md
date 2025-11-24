@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 7)
 Extension of scheme - admitted employers
 1 Interpretation

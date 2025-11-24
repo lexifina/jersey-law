@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 50)
 Forfeiture of scheme benefits
 1 Interpretation

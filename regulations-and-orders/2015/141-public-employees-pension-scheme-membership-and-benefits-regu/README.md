@@ -1,6 +1,6 @@
 # Public Employees (Pension Scheme) (Membership and Benefits) (Jersey) Regulations 2015
 
-R&O.141/2015 · official consolidation showing the law from 2024-03-18 · <https://www.jerseylaw.je/laws/current/ro_141_2015_20251123>
+R&O.141/2015 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_141_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -54,5 +54,5 @@ R&O.141/2015 · official consolidation showing the law from 2024-03-18 · <https
 | Reg. 49 | [reg-049.md](reg-049.md) | 49 Bankruptcy and non-assignment of Scheme benefits |
 | Reg. 50 | [reg-050.md](reg-050.md) | 50 Forfeiture of Scheme benefits |
 | Reg. 51 | [reg-051.md](reg-051.md) | 51 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
