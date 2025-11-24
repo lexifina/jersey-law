@@ -1,6 +1,6 @@
 # Nursing Homes (Jersey) Law 1994
 
-L.12/1994 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_12_1994_20251123>
+L.12/1994 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_12_1994>
 
 | Provision | File | Heading |
 | --- | --- | --- |
