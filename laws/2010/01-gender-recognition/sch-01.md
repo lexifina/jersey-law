@@ -43,6 +43,25 @@ and shall amend accordingly the index to the Adopted Children Register.
 (a) the Court shall send a copy of its order revoking the certificate to the Superintendent Registrar; and
 (b) the Superintendent Registrar shall cancel any entries and marking made under sub-paragraph (3).
 (7) In this paragraph, “Adopted Children Register” has the same meaning as in the Adoption (Jersey) Law 1961.
+2A Parental Orders Register
+(1) This paragraph applies if a parental order is entered in the Parental Orders Register in respect of a person to whom a full certificate is issued.
+(2) The Court must send a copy of the certificate to the Superintendent Registrar.
+(3) The Superintendent Registrar must amend the entry for the person in the Parental Orders Register to record -
+(a) the person’s acquired gender; and
+(b) the person’s acquired name.
+(4) The Superintendent Registrar must amend the index to the Parental Orders Register to accord with the requirements of sub-paragraph (3).
+(5) The amendments made under sub-paragraphs (3) and (4) must be made in a way that the reason for re-registration would not be disclosed -
+(a) to a person searching the index; or
+(b) in a certified copy of the entry in the Parental Orders Register.
+(6) If, under Article 6, there is a correction of a certificate that affects the person’s acquired name -
+(a) the Court must send a copy of the corrected certificate to the Superintendent Registrar; and
+(b) the Superintendent Registrar must cause the amended entry made under sub-paragraph (3) to be corrected accordingly.
+(7) If, under Article 7, a certificate is revoked -
+(a) the Court must send a copy of its order revoking the certificate to the Superintendent Registrar; and
+(b) the Superintendent Registrar must cancel any entries and markings made under sub-paragraph (3) or (4).
+(8) In this paragraph -
+“parental order” has the meaning given in Article 1(1) of the Children (Jersey) Law 2002 and includes a recognition order made under Article 9N of that Law;
+“Parental Orders Register” means the register of that name maintained by the Superintendent Registrar under Article 61A of the Marriage and Civil Status (Jersey) Law 2001.
 3 Public Registry of Contracts, Register of Procurations and Register of Obligations
 (1) This paragraph applies where, before the issue of a gender recognition certificate to a person, the person’s name was recorded in the books of the Public Registry of Contracts, the Register of Procurations or the Register of Obligations.
 (2) The Court shall direct the Judicial Greffier to -

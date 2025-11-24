@@ -1,6 +1,6 @@
 # Gender Recognition (Jersey) Law 2010
 
-L.1/2010 · official consolidation showing the law from 2024-03-24 · <https://www.jerseylaw.je/laws/current/l_1_2010_20251123>
+L.1/2010 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_1_2010>
 
 | Provision | File | Heading |
 | --- | --- | --- |
