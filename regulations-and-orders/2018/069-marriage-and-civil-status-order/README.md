@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Order 2018
 
-R&O.69/2018 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20251123>
+R&O.69/2018 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_69_2018_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -53,12 +53,14 @@ R&O.69/2018 · official consolidation showing the law from 2025-01-01 · <https:
 | Art. 45A | [art-045-a.md](art-045-a.md) | 45A Transfer of duties between parish and Superintendent Registrar |
 | Art. 45B | [art-045-b.md](art-045-b.md) | 45B Keeping of marriage register and other documents |
 | Art. 46 | [art-046.md](art-046.md) | 46 Registration of births and stillbirths |
-| Art. 47 | [art-047.md](art-047.md) | 47 Declaration for re-registration of birth of legitimated person |
+| Art. 47 | [art-047.md](art-047.md) | 47 Declaration for re-registration of birth on marriage or civil partnership of parents |
+| Art. 47A | [art-047-a.md](art-047-a.md) | 47A Declaration for re-registration of birth on abolition of status of legitimacy |
 | Art. 48 | [art-048.md](art-048.md) | 48 Further registration of name |
 | Art. 49 | [art-049.md](art-049.md) | 49 Registration of abandoned child |
 | Art. 50 | [art-050.md](art-050.md) | 50 Short birth certificate |
 | Art. 51 | [art-051.md](art-051.md) | 51 Certificate of registration of stillbirth |
 | Art. 51A | [art-051-a.md](art-051-a.md) | 51A Certificate of fact and cause of death |
+| Art. 51B | [art-051-b.md](art-051-b.md) | 51B Parental order certificate |
 | Art. 52 | [art-052.md](art-052.md) | 52 Registration of death |
 | Art. 53 | [art-053.md](art-053.md) | 53 Certificate of registration of death |
 | Art. 54 | [art-054.md](art-054.md) | 54 Declarations under Part 5 |

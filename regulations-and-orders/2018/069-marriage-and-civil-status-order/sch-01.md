@@ -56,13 +56,33 @@ Article 52(3)(b)
 £220.76
 The relevant registrar
 11.
-Re-registration of birth where parents not married
+Re-registration of birth if parents neither married nor civil partners
 Article 56(3)
 £60.71
 The relevant registrar
+11A.
+Re-registration of birth if father married to, or civil partner of, mother
+Article 56A(3)
+£60.71
+The relevant registrar
+11B.
+Re-registration of birth if mother married to, or civil partner of, second parent
+Article 56B(3)
+£60.71
+The relevant registrar
+11C.
+Re-registration of birth to female same-sex couple before commencement of Children and Civil Status (Amendments) (Jersey) Law 2024
+Article 56C(4)
+£0
+The relevant registrar
 12.
-Re-registration of birth following legitimation
-Article 57(6)
+Re-registration of birth on marriage or civil partnership of parents
+Article 57(8)
+£60.71
+The Superintendent Registrar
+12A.
+Re-registration of birth following abolition of status of legitimacy
+Article 57A(5)
 £60.71
 The Superintendent Registrar
 13.
@@ -216,3 +236,21 @@ Issue of new marriage schedule, marriage certificate or certificate of no impedi
 37(10)
 £82.79
 The Superintendent Registrar
+Schedule 1A
+(Article 51B)
+particulars to be recorded in the parental orders register
+1. The number of the entry in the register
+2. Surname of child
+3. Forename of child
+4. Sex of child
+5. Date of birth
+6. Place of birth (including in the case of a child born in Jersey, the parish)
+7. Full name of parent, including any middle names and birth surname (if applicable)
+8. Occupation of the person named in item 7
+9. Full name of parent, including any middle names and birth surname (if applicable)
+10. Occupation of the person named in item 9
+11.
+12. Address of the persons named in items 7 and 9
+13. Date of parental order
+14. Date of registration
+15. Name of the Superintendent Registrar
