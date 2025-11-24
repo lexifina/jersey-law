@@ -1,6 +1,6 @@
 # Criminal Law (Child Abduction) (Jersey) Law 2005
 
-L.27/2005 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_27_2005_20251123>
+L.27/2005 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_27_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |

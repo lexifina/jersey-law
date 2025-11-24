@@ -20,3 +20,6 @@ A child who is the subject of -
 (a) an order under Article 12 of the Adoption (Jersey) Law 1961 declaring him or her free for adoption, or a pending application for such an order; or
 (b) a pending application for an adoption order under Article 10 of that Law.
 The leave of the Royal Court.
+6.
+A child who is the subject of a pending application for a parental order.
+The leave of the Royal Court.
