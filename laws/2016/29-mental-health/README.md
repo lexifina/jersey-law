@@ -1,6 +1,6 @@
 # Mental Health (Jersey) Law 2016
 
-L.29/2016 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_29_2016_20251123>
+L.29/2016 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_29_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
