@@ -1,6 +1,6 @@
 # Adoption (Jersey) Law 1961
 
-L.39/1961 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_39_1961_20251123>
+L.39/1961 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_39_1961>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ L.39/1961 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 18 | [art-018.md](art-018.md) | 18 Procedure |
 | Art. 20 | [art-020.md](art-020.md) | 20 Consequences of adoption |
 | Art. 21 | [art-021.md](art-021.md) | 21 Friendly societies, insurance, etc. |
-| Art. 22 | [art-022.md](art-022.md) | 22 Orders and agreements for maintenance of illegitimate children |
+| Art. 22 | [art-022.md](art-022.md) | 22 Orders and agreements for maintenance if child adopted by parent |
 | Art. 23 | [art-023.md](art-023.md) | 23 Intestacies, etc. |
 | Art. 24 | [art-024.md](art-024.md) | 24 Adopted Children Register |
 | Art. 25 | [art-025.md](art-025.md) | 25 Registration of adoptions |
@@ -41,8 +41,6 @@ L.39/1961 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 28 | [art-028.md](art-028.md) | 28 Recording of change of name in Public Registry of Contracts |
 | Art. 29 | [art-029.md](art-029.md) | 29 Registration of baptism |
 | Art. 30 | [art-030.md](art-030.md) | 30 Disclosure of birth records of adopted children |
-| Art. 31 | [art-031.md](art-031.md) | 31 Legitimation: revocation of adoption orders and cancellations in registers |
-| Art. 32 | [art-032.md](art-032.md) | 32 Legitimation: marking of entries on re-registration of births |
 | Art. 32A | [art-032-a.md](art-032-a.md) | 32A Restriction on disclosure of certain information |
 | Art. 32B | [art-032-b.md](art-032-b.md) | 32B Right of adopted person to obtain documents from Court |
 | Art. 32C | [art-032-c.md](art-032-c.md) | 32C Disclosure in certain circumstances of restricted information about adults |
@@ -65,5 +63,4 @@ L.39/1961 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 45 | [art-045.md](art-045.md) | 45 Evidence of adoptions, etc. |
 | Art. 46 | [art-046.md](art-046.md) | 46 Registration of adoptions outside Jersey |
 | Art. 47 | [art-047.md](art-047.md) | 47 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 2 |

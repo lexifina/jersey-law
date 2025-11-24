@@ -2,20 +2,21 @@
 (1) Where at any time more than 12 months after the making of an order under Article 12 of this Law (an “Article 12 order”), if the child -
 (a) has not been adopted; and
 (b) does not have his or her home with a person with whom he or she has been placed for adoption,
-his or her former parent may apply to the Court for an order revoking the Article 12 order on the ground that he or she wishes to resume parental responsibility.
+his or her former parent or a person who, immediately before the making of the order was treated in law as a parent of the child may apply to the Court for an order revoking the Article 12 order on the ground that he or she wishes to resume parental responsibility.
 (2) While an application under this Article is pending the Minister shall not place the child for adoption without the leave of the Court.
 (3) The revocation of an Article 12 order operates -
 (a) to extinguish the parental responsibility given to the Minister;
-(b) to give parental responsibility to the child’s mother and, where the child’s father and mother were married at the time of the child’s birth, the child’s father; and
-(c) to revive -
-(ai) parental responsibility acquired by a father in accordance with the requirements of Article 5(1)(aa) of the Children (Jersey) Law 2002,
-(i) any parental responsibility agreement,
-(ii) any order pursuant to Article 5 of the Children (Jersey) Law 2002 that the father shall have parental responsibility for the child, and
-(iii) any appointment of a guardian in respect of the child (whether made by a court or otherwise),
-extinguished by the making of the Article 12 order.
+(b) to give parental responsibility -
+(i) if the child was conceived as a result of intercourse, to the child’s mother, and if a man is named as the child’s father in the register of births maintained under Article 50 of the Marriage and Civil Status Law, to that man,
+(ii) if any of Circumstances A to D apply, to the child’s birth mother and the other person (if any) who is to be treated as the parent of the child in whichever Circumstance applies;
+(c) to revive any of the following extinguished by the making of the Article 12 order -
+(i) parental responsibility acquired by a father under Article 9C(1)(a) of the Children Law,
+(ii) a parental responsibility agreement under Article 9C(1)(b), 9D(b) or 9E(a) of the Children Law,
+(iii) an order under Article 9C, 9D, 9E or 9G of the that a person is to have parental responsibility,
+(iv) an appointment of a guardian in respect of the child (whether by a court or otherwise).
 (4) Subject to paragraph (3)(c), the revocation does not -
 (a) operate to revive -
-(i) any order under the Children (Jersey) Law 2002; or
+(i) any order under the Children Law; or
 (ii) any duty referred to in Article 20(2)(a)(iii) of this Law,
 extinguished by the making of the Article 12 order; or
 (b) affect any person’s parental responsibility so far as it relates to the period between the making of the Article 12 order and the date of revocation of that order.
