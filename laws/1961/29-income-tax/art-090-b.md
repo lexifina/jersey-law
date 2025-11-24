@@ -10,7 +10,7 @@
 other than a payment made under an existing obligation; or
 (b) a periodical payment (not being a lump sum or an instalment of a lump sum) due on or after the first day of January 2004 which -
 (i) is made under an order of a court in Jersey or in the United Kingdom or in a member State of the EU, or under a written agreement the proper law of which is the law of Jersey or of the United Kingdom or of a member State of the EU,
-(ii) is made by a parent to or for the benefit, maintenance or education of his or her illegitimate child,
+(ii) is made by a parent to or for the benefit, maintenance or education of the parent’s child for whom the parent does not have parental responsibility,
 (iii) is due at a time when the parents of the child are not living together, and
 (iv) is not a payment in respect of which relief from tax is available to the individual making the payment under any provision of this Law other than this Article,
 other than a payment made under an existing obligation.

@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2025-02-26 · <https://www.jerseylaw.je/laws/current/l_29_1961_20251123>
+L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_29_1961_20251231>
 
 | Provision | File | Heading |
 | --- | --- | --- |
