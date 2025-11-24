@@ -1,6 +1,6 @@
 # Health Insurance (Medical Benefit) (General Provisions) (Jersey) Order 1967
 
-R&O.5003 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5003_20251123>
+R&O.5003 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_5003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,5 +22,5 @@ R&O.5003 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 17 | [art-017.md](art-017.md) | 17 Persons unable to act |
 | Art. 18 | [art-018.md](art-018.md) | 18 Payments on death |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
