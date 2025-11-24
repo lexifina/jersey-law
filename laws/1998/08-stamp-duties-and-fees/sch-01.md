@@ -365,6 +365,15 @@ ADOPTION, application and hearing under the Adoption (Jersey) Law 1961
 rate G
 Application
 Greffier
+Item 4AA.
+Stamp Duty, by Figure or Rate
+Chargeable Document
+Designated Officer
+4AA.
+PARENTAL ORDER, application and hearing under the Children (Jersey) Law 2002
+rate G
+Application
+Greffier
 Item 4A.
 Stamp Duty, by Figure or Rate
 Chargeable Document
@@ -986,10 +995,6 @@ Stamp Duty, by Figure or Rate
 Chargeable Document
 Designated Officer
 27.
-LEGITIMACY (JERSEY) LAW 1973, presentation and hearing of petition for decree of legitimacy or illegitimacy
-rate H
-Petition
-Greffier
 Item 28.
 Stamp Duty, by Figure or Rate
 Chargeable Document
@@ -1503,7 +1508,7 @@ Designated Officer
 47.
 CHILDREN (JERSEY) LAW 2002
 (a)
-Application for order in relation to parental responsibility (Article 5(1)(a) and (2))
+Application for order in relation to parental responsibility or the making of a parental order (Article 9C(1)(c), 9D(c), 9E(b), 9G(4) and 9N(2))
 rate G
 Application
 Greffier
