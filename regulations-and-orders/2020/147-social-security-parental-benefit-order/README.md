@@ -1,6 +1,6 @@
 # Social Security (Parental Benefit) (Jersey) Order 2020
 
-R&O.147/2020 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/ro_147_2020_20251123>
+R&O.147/2020 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_147_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
