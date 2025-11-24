@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3(1))
 OPERATOR CONDITIONS
 1. The operator is a person registered under the Law in respect of relevant FSB services.

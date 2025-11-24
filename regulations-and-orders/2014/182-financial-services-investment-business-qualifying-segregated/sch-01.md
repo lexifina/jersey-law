@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2(1))
 QSMA CONDITIONS
 1. A single operator is appointed in relation to the SMA.
