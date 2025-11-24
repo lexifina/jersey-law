@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 1(1)(b))
 DEATH
 1. Registration mark of aircraft.
