@@ -10,6 +10,7 @@ The definitions referred to in Article 4(1) are -
 “advocate” shall mean a person admitted to the Bar as an advocate of the Royal Court;
 “Bailiwick” shall mean the Island of Jersey and its dependencies;
 “British Islands” shall mean the United Kingdom, the Channel Islands and the Isle of Man;
+“child”, in relation to a parent, includes a person who is that parent’s child by virtue of Schedule A1 to the Children (Jersey) Law 2002;
 “civil partnership” means a civil partnership within the meaning of Article 2 of the Civil Partnership (Jersey) Law 2012 (and any reference to a civil partner is to be read accordingly);
 “consular officer” shall include consul-general, consul, vice-consul, consular agent, and any person for the time being authorized to discharge the duties of consul-general, consul or vice-consul;
 “contravene”, in relation to any requirement or condition prescribed in an enactment or in a grant, permit, lease, licence or other authority under an enactment, includes a failure to comply with that requirement or condition;
@@ -24,6 +25,7 @@ The definitions referred to in Article 4(1) are -
 “misdemeanour” shall mean a délit;
 “month” shall mean a calendar month;
 “oath” shall, in the case of a person for the time being allowed by law to affirm or declare instead of swearing, include affirmation and declaration;
+“parent”, in relation to a child, includes a person who is that child’s parent by virtue of Schedule A1 to the Children (Jersey) Law 2002;
 “person” shall include any body of persons corporate or unincorporated;
 “Petty Debts Court” shall mean the Court known as the Cour pour le Recouvrement de Menues Dettes constituted in pursuance of the Loi (1891) sur la Cour pour le recouvrement de menues dettes, confirmed by Order of Her Majesty in Council of 9th May 1891;
 “pharmacist” shall mean a person registered as a pharmacist under the Pharmacists and Pharmacy Technicians (Registration) (Jersey) Law 2010 or deemed, by an Order made under Article 28(c) of that Law, to be registered as a pharmacist under that Law;
