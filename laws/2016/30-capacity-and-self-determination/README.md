@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Jersey) Law 2016
 
-L.30/2016 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/l_30_2016_20251123>
+L.30/2016 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_30_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
