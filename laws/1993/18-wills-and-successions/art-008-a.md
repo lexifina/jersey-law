@@ -1,6 +1,6 @@
 # 8A Interpretation of Part 3A
 In this Part -
-“commencement day” means the day this Part came into force;
+“commencement day” means the day the Civil Status (Abolition of Legitimacy Etc.) (Jersey) Law 2025 came into force;
 “disposition” means a disposition made by -
 (a) a will or codicil; or
 (b) an instrument executed entre vifs which relates to rights of succession;

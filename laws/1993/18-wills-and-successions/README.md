@@ -1,6 +1,6 @@
 # Wills and Successions (Jersey) Law 1993
 
-L.18/1993 · official consolidation showing the law from 2024-04-26 · <https://www.jerseylaw.je/laws/current/l_18_1993_20251123>
+L.18/1993 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_18_1993_20260611>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,10 +20,10 @@ L.18/1993 · official consolidation showing the law from 2024-04-26 · <https://
 | Art. 8AA | [art-008-aa.md](art-008-aa.md) | 8AA Civil partners living apart |
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Interpretation of Part 3A |
 | Art. 8B | [art-008-b.md](art-008-b.md) | 8B Application of Part 3A |
-| Art. 8C | [art-008-c.md](art-008-c.md) | 8C Equality of succession rights of legitimate and illegitimate issue |
+| Art. 8C | [art-008-c.md](art-008-c.md) | 8C Equality of succession |
 | Art. 8D | [art-008-d.md](art-008-d.md) | 8D Construction of dispositions |
-| Art. 8E | [art-008-e.md](art-008-e.md) | 8E Presumptions of survivorship relating to illegitimate child |
-| Art. 8F | [art-008-f.md](art-008-f.md) | 8F Amendment of customary laws |
+| Art. 8E | [art-008-e.md](art-008-e.md) | 8E Presumption of survivorship |
+| Art. 8F | [art-008-f.md](art-008-f.md) | 8F Effect of customary laws |
 | Art. 8G | [art-008-g.md](art-008-g.md) | 8G Construction of enactments |
 | Art. 9 | [art-009.md](art-009.md) | 9 Declaration of survivorship or simultaneous death |
 | Art. 10 | [art-010.md](art-010.md) | 10 Effect of declaration of simultaneous death |

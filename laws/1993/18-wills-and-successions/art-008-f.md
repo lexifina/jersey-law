@@ -1,2 +1,2 @@
-# 8F Amendment of customary laws
-The customary laws of succession are hereby amended so as to confer the rights expressed in Article 8C.
+# 8F Effect of customary laws
+Any rule of customary law that conflicts with Article 8C is of no effect to the extent of that conflict.
