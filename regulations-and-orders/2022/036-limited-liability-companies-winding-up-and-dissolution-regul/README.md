@@ -1,6 +1,6 @@
 # Limited Liability Companies (Winding Up and Dissolution) (Jersey) Regulations 2022
 
-R&O.36/2022 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_36_2022_20251123>
+R&O.36/2022 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_36_2022_20260531>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -65,4 +65,4 @@ R&O.36/2022 · official consolidation showing the law from 2023-02-14 · <https:
 | Reg. 52 | [reg-052.md](reg-052.md) | 52 Bar against other proceedings in bankruptcy |
 | Reg. 52A | [reg-052-a.md](reg-052-a.md) | 52A Disposal of records |
 | Reg. 55 | [reg-055.md](reg-055.md) | 55 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |

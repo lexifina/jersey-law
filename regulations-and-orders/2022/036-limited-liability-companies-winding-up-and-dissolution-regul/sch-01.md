@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulation 13A(2)(a))
 statutory demand
 STATUTORY DEMAND

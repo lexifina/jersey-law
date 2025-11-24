@@ -35,3 +35,4 @@
 (17) The Viscount, or any member of the Viscount’s Department is not liable in damages for anything done or omitted in the discharge of or purported discharge of any function under these Regulations.
 (18) Paragraph (17) does not apply -
 (a) if it is shown that the act was done, or the omission made, in bad faith; or
+(b) so as to prevent an award of damages made in respect of an act on the ground that the act was unlawful as a result of Article 7(1) of the Human Rights (Jersey) Law 2000.
