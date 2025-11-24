@@ -21,6 +21,8 @@ PARTICULAR DUTIES OF THE GUARDIAN AD LITEM
 6. The guardian ad litem shall ascertain when the mother of the child ceased to have the care and possession of the child and to whom the care and possession was transferred.
 7. The guardian ad litem shall ascertain that every consent to the making of an adoption order in pursuance of the application is freely given and with full understanding of the nature and effect of an adoption order.
 8. Where either parent of the child is dead, the guardian ad litem shall inform the Court if he or she learns of any relation of the deceased parent who wishes to be heard by the Court on the question whether an adoption order should be made.
-9. Where the child is illegitimate but no one is liable as the putative father to contribute to the maintenance of the child by virtue of any order or agreement, the guardian ad litem shall forthwith inform the Court if he or she learns of any person, claiming to be the father, who wishes to be heard by the Court on the question whether an adoption order should be made.
+9. If the child was born to parents who are not married or in a civil partnership, and no father or second parent is liable under an order or agreement to contribute to the maintenance of the child, the guardian ad litem must inform the Court if they learn of a person who -
+(a) claims to be the father or second parent; and
+(b) wishes to be heard by the Court on the question of whether an adoption order should be made.
 10. The guardian ad litem shall inform the Court if he or she learns of any other person or body who wishes or ought in his or her opinion to be heard by the Court on the question whether an adoption order should be made.
 11. Where the applicant is not ordinarily resident in Jersey, the guardian ad litem shall endeavour to obtain a report on the applicant’s home and living conditions from a suitable agency in the country in which he or she is ordinarily resident.
