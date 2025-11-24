@@ -1,6 +1,6 @@
 # Social Security (Claims and Payments) (Jersey) Order 1974
 
-R&O.6077 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/ro_6077_20251123>
+R&O.6077 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_6077_20260422>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -25,5 +25,5 @@ R&O.6077 · official consolidation showing the law from 2024-12-16 · <https://w
 | Art. 18 | [art-018.md](art-018.md) | 18 Payment of benefit to third party |
 | Art. 19 | [art-019.md](art-019.md) | 19 Offences |
 | Art. 20 | [art-020.md](art-020.md) | 20 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

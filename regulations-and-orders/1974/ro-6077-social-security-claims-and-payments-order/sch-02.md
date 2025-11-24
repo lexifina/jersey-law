@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Articles 1(3) and 13)
 Showing in Part 1 the prescribed times for claiming benefit and the disqualifications for benefit arising by reason of late claims, and in Part 2 the provisions (and related provisions) which affect the benefit which would otherwise be payable, or not payable, by virtue of Part 1.
 PART 1
@@ -17,15 +17,15 @@ The benefit claimed.
 Parental grant and parental allowance -
 (a)
 Parental grant.
-The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
+The period beginning with the 13th week before the expected date of birth, adoption or making of a parental order and ending 6 months after the date of birth.
 The benefit claimed.
 (b)
 Parental allowance.
-The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
+The period beginning with the 13th week before the expected date of birth, adoption or making of a parental order and ending 6 months after the date of birth.
 The benefit claimed.
 (c)
 Increase of parental allowances in respect of a dependant.
-The period beginning with the 13th week before the expected date of birth or adoption and ending 6 months after the date of birth.
+The period beginning with the 13th week before the expected date of birth, adoption or making of a parental order and ending 6 months after the date of birth.
 The benefit claimed.
 3.
 Death grant.
@@ -78,10 +78,10 @@ INCAPACITY BENEFIT
 (b) that a person (being a person who, throughout the period of 6 months immediately preceding the date of the certificate, has been in receipt of incapacity benefit) is incapable of work,
 a claim for incapacity benefit may, unless the Minister otherwise directs, be made by that person in respect of the period of 13 weeks, or such shorter period as the Minister may in the circumstances determine, in either case commencing immediately after the date of the certificate.
 (2) Any claim for incapacity benefit made by any such person may, if it is made on the form containing the certificate, be treated by the Minister as a claim made also in respect of any days in the said period of 13 weeks or in any such shorter period, as the case may be.
-(3) Where for the said purposes it has been certified that it is to be expected that a child will be born or adopted, and either -
-(a) a claim for incapacity benefit is made by that woman on or after the date of that certificate, or
-(b) a claim for parental allowance so made by that woman is treated under the provisions of Article 10(1) as a claim in the alternative for incapacity benefit,
-any such claim may, unless the Minister otherwise directs, be treated as a claim for incapacity benefit made in respect of any days in the period beginning with the second week before the expected week of birth or adoption or with the date of birth or adoption, whichever is the earlier, and ending 2 weeks after the date of the birth or adoption.
+(3) Where for the said purposes it has been certified that it is to be expected that a child will be born, adopted or the subject of a parental order, and either -
+(a) a claim for incapacity benefit is made by the birth mother of the child on or after the date of that certificate, or
+(b) a claim for parental allowance so made by the birth mother of the child is treated under the provisions of Article 10(1) as a claim in the alternative for incapacity benefit,
+any such claim may, unless the Minister otherwise directs, be treated as a claim for incapacity benefit made in respect of any days in the period beginning with the second week before the expected week of birth, adoption or the making of a parental order or with the date of birth, adoption or the making of a parental order, whichever is the earlier, and ending 2 weeks after the date of the birth, adoption or the making of a parental order.
 3
 4 Old age pensions
 (1) A claim for old age pension may be made at any time not more than 4 months before the date on which the claimant will, subject to the fulfilment of the necessary conditions, become entitled to such a pension.
