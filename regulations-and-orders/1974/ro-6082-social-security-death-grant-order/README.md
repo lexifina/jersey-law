@@ -1,6 +1,6 @@
 # Social Security (Death Grant) (Jersey) Order 1974
 
-R&O.6082 · official consolidation showing the law from 2024-12-16 · <https://www.jerseylaw.je/laws/current/ro_6082_20251123>
+R&O.6082 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_6082>
 
 | Provision | File | Heading |
 | --- | --- | --- |
