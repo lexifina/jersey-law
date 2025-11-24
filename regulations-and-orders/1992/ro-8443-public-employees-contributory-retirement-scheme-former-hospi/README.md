@@ -1,6 +1,6 @@
 # Public Employees (Contributory Retirement Scheme) (Former Hospital Scheme) (Jersey) Regulations 1992
 
-R&O.8443 · official consolidation showing the law from 2020-07-21 · <https://www.jerseylaw.je/laws/current/ro_8443_20251123>
+R&O.8443 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_8443>
 
 | Provision | File | Heading |
 | --- | --- | --- |
