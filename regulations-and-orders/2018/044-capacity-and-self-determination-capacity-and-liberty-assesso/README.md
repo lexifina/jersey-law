@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Capacity and Liberty - Assessors) (Jersey) Regulations 2018
 
-R&O.44/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_44_2018_20251123>
+R&O.44/2018 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_44_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
