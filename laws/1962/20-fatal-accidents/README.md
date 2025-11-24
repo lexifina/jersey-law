@@ -1,6 +1,6 @@
 # Fatal Accidents (Jersey) Law 1962
 
-L.20/1962 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_20_1962_20251123>
+L.20/1962 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_20_1962>
 
 | Provision | File | Heading |
 | --- | --- | --- |
