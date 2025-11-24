@@ -1,6 +1,6 @@
 # Incorporated Limited Partnerships (Jersey) Regulations 2011
 
-R&O.68/2011 · official consolidation showing the law from 2021-10-08 · <https://www.jerseylaw.je/laws/current/ro_68_2011_20251123>
+R&O.68/2011 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_68_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
