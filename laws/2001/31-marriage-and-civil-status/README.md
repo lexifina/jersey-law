@@ -1,6 +1,6 @@
 # Marriage and Civil Status (Jersey) Law 2001
 
-L.31/2001 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_31_2001_20251123>
+L.31/2001 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_31_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -65,16 +65,31 @@ L.31/2001 · official consolidation showing the law from 2023-09-21 · <https://
 | Art. 52 | [art-052.md](art-052.md) | 52 Restriction on registration of birth after 21 days |
 | Art. 53 | [art-053.md](art-053.md) | 53 Power of Superintendent Registrar to require information about birth |
 | Art. 54 | [art-054.md](art-054.md) | 54 Restriction on registration of birth after 6 months |
-| Art. 55 | [art-055.md](art-055.md) | 55 Registration of father where parents not married |
-| Art. 56 | [art-056.md](art-056.md) | 56 Re-registration where parents not married |
-| Art. 57 | [art-057.md](art-057.md) | 57 Re-registration of birth of legitimated person |
+| Art. 55 | [art-055.md](art-055.md) | 55 Registration of father if parents neither married nor civil partners |
+| Art. 55A | [art-055-a.md](art-055-a.md) | 55A Registration of father if parents married or civil partners |
+| Art. 55AA | [art-055-aa.md](art-055-aa.md) | 55AA Registration of father if father dies while child en ventre sa mère |
+| Art. 55B | [art-055-b.md](art-055-b.md) | 55B Registration of second parent if parents neither married nor civil partners |
+| Art. 55C | [art-055-c.md](art-055-c.md) | 55C Registration of second parent if parents married or civil partners |
+| Art. 56 | [art-056.md](art-056.md) | 56 Re-registration of birth of child if parents neither married nor civil partners |
+| Art. 56A | [art-056-a.md](art-056-a.md) | 56A Re-registration of birth of child if father married to, or civil partner of, mother |
+| Art. 56B | [art-056-b.md](art-056-b.md) | 56B Re-registration of birth of child if mother married to, or civil partner of, second parent |
+| Art. 56C | [art-056-c.md](art-056-c.md) | 56C Re-registration of birth of child of female same-sex couple before commencement |
+| Art. 56D | [art-056-d.md](art-056-d.md) | 56D Registration of father or second parent under certain provisions of Children (Jersey) Law 2002 |
+| Art. 57 | [art-057.md](art-057.md) | 57 Re-registration of child on marriage or civil partnership of parents |
+| Art. 57A | [art-057-a.md](art-057-a.md) | 57A Re-registration of child following abolition of status of illegitimacy |
 | Art. 58 | [art-058.md](art-058.md) | 58 Further registration of name |
 | Art. 58A | [art-058-a.md](art-058-a.md) | 58A Re-registration following giving of name |
 | Art. 58B | [art-058-b.md](art-058-b.md) | 58B Registration: confusing, embarrassing or offensive names |
 | Art. 59 | [art-059.md](art-059.md) | 59 Registration of birth of abandoned child |
 | Art. 59A | [art-059-a.md](art-059-a.md) | 59A Surname of child |
-| Art. 60 | [art-060.md](art-060.md) | 60 Short birth certificate |
+| Art. 60 | [art-060.md](art-060.md) | 60 Short birth, adoption or parental order certificate |
 | Art. 61 | [art-061.md](art-061.md) | 61 Registration of stillbirth |
+| Art. 61A | [art-061-a.md](art-061-a.md) | 61A Parental Orders Register |
+| Art. 61B | [art-061-b.md](art-061-b.md) | 61B Registration of parental orders |
+| Art. 61C | [art-061-c.md](art-061-c.md) | 61C Amendment of orders and rectification of registers |
+| Art. 61D | [art-061-d.md](art-061-d.md) | 61D Registration of baptism |
+| Art. 61E | [art-061-e.md](art-061-e.md) | 61E Registration of a recognition order |
+| Art. 61F | [art-061-f.md](art-061-f.md) | 61F Disclosure of birth records of children subject to parental orders |
 | Art. 62 | [art-062.md](art-062.md) | 62 Duty to inform relevant registrar of death within 5 days |
 | Art. 63 | [art-063.md](art-063.md) | 63 Power of Superintendent Registrar to require information about death |
 | Art. 64 | [art-064.md](art-064.md) | 64 Certificate of fact and cause of death |
@@ -90,9 +105,13 @@ L.31/2001 · official consolidation showing the law from 2023-09-21 · <https://
 | Art. 73 | [art-073.md](art-073.md) | 73 Declarations |
 | Art. 74 | [art-074.md](art-074.md) | 74 Orders concerning registration |
 | Art. 75 | [art-075.md](art-075.md) | 75 Duty of Minister |
+| Art. 75A | [art-075-a.md](art-075-a.md) | 75A Abolition of wife’s domicile of dependence |
+| Art. 75AA | [art-075-aa.md](art-075-aa.md) | 75AA Domicile of child conceived in Circumstance A or to parents married or in civil partnership |
+| Art. 75AB | [art-075-ab.md](art-075-ab.md) | 75AB Domicile of child conceived in Circumstance B or to parents neither married nor in civil partnership |
+| Art. 75B | [art-075-b.md](art-075-b.md) | 75B Domicile of child conceived in Circumstance C or Circumstance D, or to whom paragraph 9 of Schedule A1 to the Childr |
+| Art. 75C | [art-075-c.md](art-075-c.md) | 75C Domicile of child subject to parental order |
 | Art. 76 | [art-076.md](art-076.md) | 76 Offences relating to solemnization of marriage |
 | Art. 77 | [art-077.md](art-077.md) | 77 Offences relating to registration |
-| Art. 77A | [art-077-a.md](art-077-a.md) | 77A Abolition of wife’s domicile of dependence |
 | Art. 78 | [art-078.md](art-078.md) | 78 Searches |
 | Art. 79 | [art-079.md](art-079.md) | 79 Correction of errors in books and registers |
 | Art. 80 | [art-080.md](art-080.md) | 80 Witnesses for marriage |
@@ -101,7 +120,7 @@ L.31/2001 · official consolidation showing the law from 2023-09-21 · <https://
 | Art. 80C | [art-080-c.md](art-080-c.md) | 80C Fees and charges |
 | Art. 80D | [art-080-d.md](art-080-d.md) | 80D Publications by Superintendent Registrar |
 | Art. 81 | [art-081.md](art-081.md) | 81 Savings |
-| Art. 82 | [art-082.md](art-082.md) | 82 Power to make further provision in connection with marriages and registration of births, marriages and deaths |
+| Art. 82 | [art-082.md](art-082.md) | 82 Power to make further provision in connection with marriages and registration of births, parental orders, marriages a |
 | Art. 82A | [art-082-a.md](art-082-a.md) | 82A Regulations and Orders |
 | Art. 82B | [art-082-b.md](art-082-b.md) | 82B Applications |
 | Art. 82C | [art-082-c.md](art-082-c.md) | 82C Scheme of authorization for civil celebrants and authorized religious officials |

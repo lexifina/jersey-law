@@ -10,7 +10,7 @@ This Schedule applies in the case of a child who is not of full age and whose bi
 (i) the request of the person registering the birth, and
 (ii) the production of a declaration made by the other of them stating his or her choice.
 (2) On the re-registration of a birth so as to record the surname chosen by the father and mother, in addition to the requirements of Article 72, the register of births shall be signed by the relevant registrar.
-(3) In the case of a child whose father and mother were not married to each other at the time of the child’s birth and who has not been legitimated by their subsequent marriage, a surname shall not be re-registered under this paragraph unless the father is recorded in the register, pursuant to Article 55 or 56, as the father of the child.
+(3)
 (3A) Where a child’s birth is re-registered in accordance with this paragraph the father and mother may, at the same time, request the addition to or removal from the register of any forename for the child.
 (3B) A request under sub-paragraph (3A) shall be evidenced in accordance with sub-paragraph (1).
 (4) Where either the father or mother of the child is deceased -

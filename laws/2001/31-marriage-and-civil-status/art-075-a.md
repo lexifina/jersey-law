@@ -1,0 +1,3 @@
+# 75A Abolition of wife’s domicile of dependence
+(1) Unless paragraph (2) applies, at any time after the coming into force of this Article, the domicile of a married woman, instead of being the same as her husband’s by virtue only of marriage, is to be ascertained by reference to the same factors as in the case of any other individual capable of having an independent domicile.
+(2) If, immediately before this Article came into force, a married woman was treated as having her husband’s domicile by dependence, the woman is to be treated as retaining that domicile (as a domicile of choice) unless and until it is changed by the acquisition or revival of another domicile, either on or after the coming into force of this Article.

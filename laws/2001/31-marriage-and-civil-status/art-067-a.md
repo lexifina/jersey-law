@@ -9,3 +9,4 @@
 (b) must not register the death unless authorised to do so under paragraph (3).
 (3) The Minister may -
 (a) direct that any requirement imposed by or under this Part be dispensed with in relation to the death, and direct the registration of the death; or
+(b) refer the case through the Attorney General to the Inferior Number for the Court’s direction and authorisation.
