@@ -11,15 +11,8 @@ which is of a kind likely to fall into the hands of children or young persons an
 (ii) any act of violence or cruelty, or
 (iii) any incident of a repulsive or horrible nature,
 in such a way that it would as a whole tend to corrupt a child or young person into whose hands it might fall.
-3. Any dog of -
-(a) the type commonly known as -
-(i) the Dogo Argentino,
-(ii) the Fila Braziliera,
-(iii) the Japanese Tosa (or Tosa),
-(iv) the Pit Bull Terrier, or
-(v) the XL Bully; or
-(b) any other type which appears to have been bred for fighting.
-3A. When a person is considering whether a dog is of a type listed in paragraph 3, that person must have regard to guidance (if any) about the dog type published by the States Veterinary Officer appointed under Article 5 of the Animal Health (Jersey) Law 2016.
+3. A type of dog described in Article 1B(1)(a) or (b) of the Dogs (Jersey) Law 1961.
+3A.
 4. Any decoding equipment that is designed or adapted to be used primarily for the purpose of enabling the reception of programmes transmitted in the provision of a proscribed service within the meaning of section 178 of the Broadcasting Act 1990 of the United Kingdom as that section has effect in Jersey by virtue of the Broadcasting Act 1990 (Jersey) (No. 2) Order 1991.
 5. Any explosives, within the meaning of the Convention on the Marking of Plastic Explosives for the Purpose of Detection done at Montreal on 1st March 1991, other than explosives deemed to be marked for the purposes of that Convention.
 6. Any toxic chemical or precursor (including mixtures of them) listed in Schedule 1 to the Annex on Chemicals to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, signed at Paris on 13th January 1993 and any toxic chemical or precursor listed in Schedule 2 to that Annex or any chemical mixture containing any such toxic chemical or precursor, or any good containing, or containing a chemical mixture itself containing, any such toxic chemical or precursor originating in or consigned from any non-State Party to the Convention, except -

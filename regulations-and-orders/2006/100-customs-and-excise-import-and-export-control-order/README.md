@@ -1,6 +1,6 @@
 # Customs and Excise (Import and Export Control) (Jersey) Order 2006
 
-R&O.100/2006 · official consolidation showing the law from 2024-02-24 · <https://www.jerseylaw.je/laws/current/ro_100_2006_20251201>
+R&O.100/2006 · official consolidation showing the law from 2025-12-02 · <https://www.jerseylaw.je/laws/current/ro_100_2006_20251203>
 
 | Provision | File | Heading |
 | --- | --- | --- |
