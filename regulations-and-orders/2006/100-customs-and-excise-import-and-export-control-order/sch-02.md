@@ -25,7 +25,7 @@ Goods that shall not be imported except under the authority and in compliance wi
 (d) ammunition for an air rifle, air gun or air pistol including a rifle, gun or pistol powered by compressed carbon dioxide;
 (e) blank cartridges not exceeding one inch in diameter measured immediately in front of the rim or cannelure of the base of the cartridge;
 (f) any antique firearm which is acquired as a curiosity or ornament;
-(g) firearms and ammunition, including parts of firearms, where they are imported by a person who holds a firearms certificate issued under Article 3 of the 2000 Law and the importation has been approved by either the Minister;
+(g) firearms and ammunition, including parts of firearms, where they are imported by a person who holds a firearms certificate issued under Article 3 of the 2000 Law and the importation has been approved by the Minister;
 (h) firearms and ammunition including parts of firearms where they are imported by a person who holds a permit issued under Article 50 of the 2000 Law or a person who is registered as a firearm dealer under Article 20 of the 2000 Law;
 (i) firearms and ammunition, including parts of firearms where they are imported by -
 (i) a person who is in the service of the Crown,
