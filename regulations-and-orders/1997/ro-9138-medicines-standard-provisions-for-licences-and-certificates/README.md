@@ -1,6 +1,6 @@
 # Medicines (Standard Provisions for Licences and Certificates) (Jersey) Order 1997
 
-R&O.9138 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9138_20251203>
+R&O.9138 · official consolidation showing the law from 2025-12-04 · <https://www.jerseylaw.je/laws/current/ro_9138>
 
 | Provision | File | Heading |
 | --- | --- | --- |
