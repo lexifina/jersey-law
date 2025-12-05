@@ -11,3 +11,4 @@ Scheduled public Authorities
 7 The States of Jersey Police Force.
 8 A parish.
 9 The office of the Commissioner for Children and Young People established under the Commissioner for Children and Young People (Jersey) Law 2019.
+10 The Jersey Police Complaints Commission referred to in Article 7 of the Police (Complaints and Conduct) (Jersey) Law 2022.
