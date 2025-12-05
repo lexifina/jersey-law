@@ -3,10 +3,7 @@
 Special Provisions
 A1 Republic of Belarus (Sanctions) (EU Exit) Regulations 2019: shipping and aircraft, and general licences
 (1) In relation to the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 (the “UK Belarus Regulations”) -
-(a) for the purpose of the entry in column 5 in the row labelled “Belarus” in Schedule 1, a provision falls within this clause if -
-(i) it is contained in the UK Belarus Regulations,
-(ii) it imposes a prohibition or obligation, and
-(iii) the UK Belarus Regulations provide that a person (however described) who contravenes that prohibition or obligation commits a criminal offence;
+(a)
 (b) for the purpose of regulation 29A(A1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 29A(A1) are the operator and pilot in command of the aircraft;
 (c) for the purpose of regulation 29I(8) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a);
 (d) for the purpose of regulation 29J(3)(c) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002;
@@ -23,7 +20,7 @@ A1 Republic of Belarus (Sanctions) (EU Exit) Regulations 2019: shipping and airc
 1 Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019: designations, directions and shipping legislation
 In relation to the Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019 -
 (a) for the purpose of column 4 of the table in Schedule 1 to this Order, regulations 5 and 10 are to be treated as if they defined “designated person” as a person designated by or under either of those regulations for the purposes of regulations 13 to 17;
-(b) for the purpose of the reference in column 5 of that table to regulation 65(1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 65(1) are the operator and pilot in command of the aircraft; and
+(b) for the purpose of regulation 65(1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 65(1) are the operator and pilot in command of the aircraft; and
 (c) for the purpose of regulation 75(7) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a).
 1A Iran (Sanctions) Regulations 2023: shipping
 In relation to the Iran (Sanctions) Regulations 2023 -
@@ -41,10 +38,7 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 4 Russia (Sanctions) (EU Exit) Regulations 2019: shipping and aircraft, and general licences
 (1) In relation to the Russia (Sanctions) (EU Exit) Regulations 2019 (the “UK Russia Regulations”) -
 (a) a Crimean ports direction, a Donetsk ports direction or a Kherson and Zaporizhzhia ports direction, given by the Secretary of State under regulation 57, has effect in Jersey as if it was given by the Minister, and paragraph 1(1) of Schedule 2 does not apply to the power to make that direction;
-(aa) for the purpose of the entry in column 5 in the row labelled “Russia” in Schedule 1, a provision falls within this clause if -
-(i) it is contained in the UK Russia Regulations,
-(ii) it imposes a prohibition or obligation, and
-(iii) the UK Russia Regulations provide that a person (however described) who contravenes that prohibition or obligation commits a criminal offence;
+(aa)
 (b) for the purpose of regulation 57D(8) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a);
 (c) for the purpose of regulation 57E(3)(c) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002;
 (d) for the purpose of regulation 57J(1), the persons who commit the offence in Article 4(1)(a) of contravening regulation 57J(1) are the operator and pilot in command of the aircraft;
@@ -59,4 +53,77 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 (d) except to the extent that the Minister -
 (i) grants a general licence under Article 5 of this Order or Article 16 of the Law in which a provision of the UK Russia general licence is expressly modified or disapplied, or
 (ii) publicises a notice that disapplies the UK Russia general licence, by taking steps equivalent to those required by Article 16(5)(b) of the Law for revocation of a general licence granted by the Minister.
-5
+5 Finance reporting obligations
+In the UK sanctions instruments in the first column of the following table, the provisions listed in the second column are to be read as if -
+(a) for “30th November” there were substituted “31 March”; and
+(b) for “30th September” there were substituted “31 December”.
+UK sanctions instrument
+Provisions
+The Afghanistan (Sanctions) (EU Exit) Regulations 2020
+regulation 30(4A) and (4B)
+The Global Anti-Corruption Sanctions Regulations 2021
+regulation 24(4A) and (4B)
+The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019
+regulation 38(4A) and (4B)
+The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020
+regulation 24(4A) and (4B)
+The Central African Republic (Sanctions) (EU Exit) Regulations 2020
+regulation 39(4A) and (4B)
+The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019
+regulation 24(4A) and (4B)
+The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019
+regulation 34(4A) and (4B)
+The Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019
+regulation 21(4A) and (4B)
+The Cyber (Sanctions) (EU Exit) Regulations 2020
+regulation 23(4A) and (4B)
+The Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019
+regulation 99(4A) and (4B)
+The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
+regulation 39(4A) and (4B)
+The Unauthorised Drilling Activities in the Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020
+regulation 24(4A) and (4B)
+The Global Human Rights Sanctions Regulations 2020
+regulation 25(4A) and (4B)
+The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
+regulation 33(5) and (6)
+The Guinea (Sanctions) (EU Exit) Regulations 2019
+regulation 23(4A) and (4B)
+The Republic of Guinea-Bissau (Sanctions) (EU Exit) Regulations 2019
+regulation 24(4A) and (4B)
+The Haiti (Sanctions) Regulations 2022
+regulation 31(4A) and (4B)
+The Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019
+regulation 46(4A) and (4B)
+The Iran (Sanctions) Regulations 2023
+regulation 68(4A) and (4B)
+The Iraq (Sanctions) (EU Exit) Regulations 2020
+regulation 40(4A) and (4B)
+The ISIL (Da’esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019
+regulation 31(4A) and (4B)
+The Lebanon (Sanctions) (Assassination of Rafiq Hariri and others) (EU Exit) Regulations 2020
+regulation 18(4A) and (4B)
+The Libya (Sanctions) (EU Exit) Regulations 2020
+regulation 56(4A) and (4B)
+The Mali (Sanctions) (EU Exit) Regulations 2020
+regulation 25(4A) and (4B)
+The Myanmar (Sanctions) Regulations 2021
+regulation 50(4A) and (4B)
+The Nicaragua (Sanctions) (EU Exit) Regulations 2020
+regulation 23(4A) and (4B)
+The Russia (Sanctions) (EU Exit) Regulations 2019
+regulation 70(1ZB), (4A) and (4B)
+The Somalia (Sanctions) (EU Exit) Regulations 2020
+regulation 53(4A) and (4B)
+The South Sudan (Sanctions) (EU Exit) Regulations 2019
+regulation 39(4A) and (4B)
+The Sudan (Sanctions) (EU Exit) Regulations 2020
+regulation 40(4A) and (4B)
+The Syria (Sanctions) (EU Exit) Regulations 2019
+regulation 69(4A) and (4B)
+The Venezuela (Sanctions) (EU Exit) Regulations 2019
+regulation 41(4A) and (4B)
+The Yemen (Sanctions) (EU Exit) (No. 2) Regulations 2020
+regulation 39(4A) and (4B)
+The Zimbabwe (Sanctions) (EU Exit) Regulations 2019
+regulation 39(4A) and (4B)
