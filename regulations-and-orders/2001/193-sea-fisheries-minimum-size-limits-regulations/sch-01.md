@@ -141,8 +141,8 @@ Prawn (Palaemon serratus)
 50 millimetres measured from the tip of the rostrum to the rear end of the telson
 Razor clam (Ensis spp.)
 10 centimetres measured across the longest part of the shell
-Scallop (Pectin maximus)
-102 millimetres measured across the broadest part of the shell
+Scallop (Pecten maximus)
+105 millimetres measured across the broadest part of the shell
 Short-necked clam (Ruditapes philippinarum)
 40 millimetres measured across the broadest part of the shell
 Surf clam (Spisula solida)

@@ -1,6 +1,6 @@
 # Sea Fisheries (Minimum Size Limits) (Jersey) Regulations 2001
 
-R&O.193/2001 · official consolidation showing the law from 2025-10-13 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20251204>
+R&O.193/2001 · official consolidation showing the law from 2025-12-05 · <https://www.jerseylaw.je/laws/current/ro_193_2001_20260413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
