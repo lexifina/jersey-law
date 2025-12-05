@@ -37,6 +37,6 @@
 (b) the Chief Officer;
 (c) the Agent of the Impôts;
 (d) the Chief Immigration Officer;
-(e) the Police Complaints Authority; and
+(e) the Complaints Commission; and
 (f) any other person or body that the Police Authority thinks appropriate.
 (11) Independent custody visitors and the persons and bodies referred to in clauses (i) to (iii) of paragraph (1)(a) must comply with such arrangements published under this Article as apply to them.
