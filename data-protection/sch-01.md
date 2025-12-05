@@ -14,8 +14,7 @@ Jersey Customs & Immigration Service
 Jersey Financial Services Commission
 Jersey Fire and Rescue Service
 Jersey Gambling Commission
-Jersey Police Complaints Authority
-Jersey Probation Service
+Jersey Police Complaints Commission Jersey Probation Service
 Judicial Greffe
 The Law Officers’ Department
 Any Parish
