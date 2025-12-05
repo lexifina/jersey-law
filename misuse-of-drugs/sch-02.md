@@ -58,8 +58,6 @@ Betamethadol
 Betaprodine
 Bezitramide
 Bufotenine
-Cannabinol derivatives
-Cannabinol, except where contained in cannabis or cannabis resin
 Carfentanil
 Clonitazene
 Coca Leaf
@@ -196,6 +194,8 @@ CLASS B DRUGS
 (a) Acetyldihydrocodeine
 Amphetamine
 Buprenorphine
+Cannabinol, except where contained in cannabis or cannabis resin
+Cannabinol derivatives
 Cannabis and cannabis resin
 Codeine
 3,4-Dichloroethylphenidate
