@@ -11,9 +11,17 @@ Where -
 (c) C is the percentage rise or fall in the Jersey Index of Earnings in the base year.
 (3) If 0.8B is equal to or greater than A, no money is required to be paid for the year.
 (4) Despite paragraphs (2) and (3) -
-(a) subject to paragraph (4AA), the amount to be paid for 2025 is the product of the formula in paragraph (2), minus £10,000,000; and
-(b) subject to paragraph (4AA), the amount to be paid for 2026 is the product of the formula in paragraph (2), minus £10,000,000.
-(4AA) If the amount calculated under paragraph (4)(a) or (b) is zero or less, no amount is to be paid for the year.
+(a) the amount to be paid for 2025 is £30,368,000; and
+(b) the amount to be paid for 2026 is £22,768,000.
+(4AA)
 (4A)
+(4B) Despite paragraphs (2) and (3), the amount to be paid for 2027 is the product of the following formula -
+£50,368,000 x (1 + C)
+Where C is the percentage rise or fall in the Jersey Index of Earnings in the base year.
+(4C) Despite paragraphs (2) and (3), the amount to be paid for 2028 or 2029 is the product of the following formula -
+A x (1 + C)
+Where -
+(a) A is the amount paid into the Social Security Fund for the previous year, as determined under this Article; and
+(b) C is the percentage rise or fall in the Jersey Index of Earnings in the base year.
 (5) The amount to be paid under this Article for a year may be paid in a lump sum or in instalments, and at such time or times, as the Minister determines.
 (6) In this Article, “base year” means the year that is 2 years before the year for which the amount to be paid into the Social Security Fund is being determined.
