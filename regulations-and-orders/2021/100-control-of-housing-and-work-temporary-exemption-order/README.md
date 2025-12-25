@@ -1,6 +1,6 @@
 # Control of Housing and Work (Temporary Exemption) (Jersey) Order 2021
 
-R&O.100/2021 · official consolidation showing the law from 2024-12-12 · <https://www.jerseylaw.je/laws/current/ro_100_2021_20251224>
+R&O.100/2021 · official consolidation showing the law from 2025-12-25 · <https://www.jerseylaw.je/laws/current/ro_100_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |
