@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 15)
 Measures in a surveillance zone
 1 Record of visitors

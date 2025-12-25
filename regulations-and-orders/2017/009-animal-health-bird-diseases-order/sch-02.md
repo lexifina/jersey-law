@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 12(2))
 Measures on premises designated as infected premises
 1 Killing and seizure

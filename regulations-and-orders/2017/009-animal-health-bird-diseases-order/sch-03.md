@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 12(4))
 Measures on premises where low pathogenic avian influenza or its virus is confirmed
 1 Record of birds and mammals

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 9 and 10)
 Measures on suspect or contact premises
 1 Record of birds and mammals

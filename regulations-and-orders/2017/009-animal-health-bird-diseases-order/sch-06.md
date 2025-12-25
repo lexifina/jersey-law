@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 16)
 Measures in A restricted zone
 1 Restrictions on movement of birds and mammals onto and off premises

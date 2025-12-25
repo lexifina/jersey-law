@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# Schedule 8
 (Article 18, 31 and 34)
 Cleansing and disinfection of premises and of any thing on premises
 1 General procedures for cleansing, disinfection and treatment

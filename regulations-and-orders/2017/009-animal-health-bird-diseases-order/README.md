@@ -1,13 +1,13 @@
 # Animal Health (Bird Diseases) (Jersey) Order 2017
 
-R&O.9/2017 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9_2017_20251224>
+R&O.9/2017 · official consolidation showing the law from 2025-12-25 · <https://www.jerseylaw.je/laws/current/ro_9_2017>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Application |
 | Art. 3 | [art-003.md](art-003.md) | 3 Regulation of imports |
-| Art. 4 | [art-004.md](art-004.md) | 4 Records relating to poultry |
+| Art. 4 | [art-004.md](art-004.md) | 4 Records relating to poultry and other captive birds |
 | Art. 5 | [art-005.md](art-005.md) | 5 Measures to reduce the risk of transmission of disease |
 | Art. 6 | [art-006.md](art-006.md) | 6 Vaccination for avian influenza |
 | Art. 7 | [art-007.md](art-007.md) | 7 Racing pigeons |
@@ -42,11 +42,11 @@ R&O.9/2017 · official consolidation showing the law from 2019-01-01 · <https:/
 | Art. 36 | [art-036.md](art-036.md) | 36 Measures at other restocked premises |
 | Art. 37 | [art-037.md](art-037.md) | 37 Records |
 | Art. 38 | [art-038.md](art-038.md) | 38 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
-| Schedule 5 | [sch-05.md](sch-05.md) | SCHEDULE 5 |
-| Schedule 6 | [sch-06.md](sch-06.md) | SCHEDULE 6 |
-| Schedule 7 | [sch-07.md](sch-07.md) | SCHEDULE 7 |
-| Schedule 8 | [sch-08.md](sch-08.md) | SCHEDULE 8 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
+| Schedule 5 | [sch-05.md](sch-05.md) | Schedule 5 |
+| Schedule 6 | [sch-06.md](sch-06.md) | Schedule 6 |
+| Schedule 7 | [sch-07.md](sch-07.md) | Schedule 7 |
+| Schedule 8 | [sch-08.md](sch-08.md) | Schedule 8 |

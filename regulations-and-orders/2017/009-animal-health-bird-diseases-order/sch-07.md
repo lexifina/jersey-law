@@ -1,4 +1,4 @@
-# SCHEDULE 7
+# Schedule 7
 (Articles 26 and 28)
 Part 1 - Measures applicable in respect of a wild bird control area
 1 Prohibition on the movement of birds or carcasses from premises

@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 14)
 Measures in a protection zone
 1 Record of visitors
