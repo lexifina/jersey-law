@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Articles 1, 6, 7, 8 and 19 and Schedule 2)
 General Measures on Suspect and Infected Premises, Temporary ControlLED Zones and ControlLED Zones
 Part 1

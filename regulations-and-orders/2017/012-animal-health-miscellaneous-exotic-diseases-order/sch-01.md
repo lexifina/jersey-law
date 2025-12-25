@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 1 and 2)
 Diseases and Susceptible animals
 Disease
@@ -30,7 +30,7 @@ All primates except human beings
 Enzootic bovine leucosis
 Cattle
 Epizootic haemorrhagic disease
-Deer
+Deer, cattle, goats and sheep
 Epizootic lymphangitis
 Equidae
 Equine infectious anaemia

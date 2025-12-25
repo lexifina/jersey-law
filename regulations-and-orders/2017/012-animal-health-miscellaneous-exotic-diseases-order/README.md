@@ -1,6 +1,6 @@
 # Animal Health (Miscellaneous Exotic Diseases) (Jersey) Order 2017
 
-R&O.12/2017 · official consolidation showing the law from 2021-08-20 · <https://www.jerseylaw.je/laws/current/ro_12_2017_20251224>
+R&O.12/2017 · official consolidation showing the law from 2025-12-25 · <https://www.jerseylaw.je/laws/current/ro_12_2017>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,6 +28,6 @@ R&O.12/2017 · official consolidation showing the law from 2021-08-20 · <https:
 | Art. 22 | [art-022.md](art-022.md) | 22 Publication of results of veterinary inquiry |
 | Art. 23 | [art-023.md](art-023.md) | 23 Records |
 | Art. 24 | [art-024.md](art-024.md) | 24 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

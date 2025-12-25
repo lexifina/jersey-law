@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 1)
 diseases to which certain restrictions in schedule 3 apply
 Part 1
