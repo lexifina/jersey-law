@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2)
 Prohibitions
 Prohibition Number
@@ -97,3 +97,6 @@ All countries excluding the British Islands.
 24
 Personal consignments of porcine products that are animal by-products and not intended for human consumption exceeding 2 kilogrammes.
 All countries excluding the British Islands.
+25
+Marsupials.
+All countries.
