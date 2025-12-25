@@ -1,6 +1,6 @@
 # Animal Health (Jersey) Law 2016
 
-L.12/2016 · official consolidation showing the law from 2024-12-11 · <https://www.jerseylaw.je/laws/current/l_12_2016_20251224>
+L.12/2016 · official consolidation showing the law from 2025-12-25 · <https://www.jerseylaw.je/laws/current/l_12_2016_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ L.12/2016 · official consolidation showing the law from 2024-12-11 · <https://
 | Art. 32 | [art-032.md](art-032.md) | 32 Orders generally |
 | Art. 33 | [art-033.md](art-033.md) | 33 Minor and consequential amendments to enactments |
 | Art. 34 | [art-034.md](art-034.md) | 34 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

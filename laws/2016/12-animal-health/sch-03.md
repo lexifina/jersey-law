@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 7(1)(b))
 order-making powers
 PART 1 - POWERS EXERCISABLE IN ALL CASES

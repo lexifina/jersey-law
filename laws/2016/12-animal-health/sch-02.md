@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3(1) and 15(1)(a))
 specified pathogens
 PART 1
@@ -53,9 +53,7 @@ Rabies virus and all viruses of the genus Lyssavirus.
 Rift Valley Fever virus.
 Rinderpest virus.
 St. Louis equine encephalomyelitis virus.
-Salmonella pullorum.
-Salmonella gallinarum.
-Salmonella arizonae.
+All bacteria of the genus Salmonella.
 Sheep and goat pox virus.
 Swine vesicular disease virus.
 Teschen disease virus.

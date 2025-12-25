@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Article 10(2))
 preventive measures
 1. To require and regulate the housing, confinement or isolation of animals, birds or any other thing likely to spread disease.
