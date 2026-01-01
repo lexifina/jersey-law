@@ -1,6 +1,6 @@
 # Motor Cars (Driving Instruction) (Jersey) Order 1982
 
-R&O.7028 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_7028_20251231>
+R&O.7028 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_7028>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,5 +13,5 @@ R&O.7028 · official consolidation showing the law from 2025-01-01 · <https://w
 | Art. 6 | [art-006.md](art-006.md) | 6 Exemptions |
 | Art. 7 | [art-007.md](art-007.md) | 7 Fees |
 | Art. 8 | [art-008.md](art-008.md) | 8 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

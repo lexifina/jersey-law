@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 4 and 5)
 FORM 1
 Application for entry of a person’s name in the register
