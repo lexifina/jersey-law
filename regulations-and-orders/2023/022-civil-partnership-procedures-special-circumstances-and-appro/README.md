@@ -1,6 +1,6 @@
 # Civil Partnership (Procedures, Special Circumstances and Approved Locations) (Jersey) Order 2023
 
-R&O.22/2023 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_22_2023_20251231>
+R&O.22/2023 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_22_2023>
 
 | Provision | File | Heading |
 | --- | --- | --- |
