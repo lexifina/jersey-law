@@ -145,6 +145,29 @@ exceeds £3,000,000 but does not exceed £6,000,000
 £239,500 in respect of the first £3,000,000 plus £13 for each £100 or part of £100 in excess thereof
 exceeds £6,000,000
 £629,500 in respect of the first £6,000,000 plus £14 for each £100 or part of £100 in excess thereof
+(4) Despite sub-paragraph (3), for the year 2026, the rate of LTT applicable to a transaction to which this paragraph applies is £90 plus the amount found in accordance with the table -
+Value of the transaction
+Variable element of tax
+does not exceed £50,000
+£2.50 each £100 or part of £100 subject to a minimum of £10
+exceeds £50,000 but does not exceed £300,000
+£1,250 in respect of the first £50,000, plus £3.50 for each £100 or part of £100 in excess thereof
+exceeds £300,000 but does not exceed £500,000
+£10,000 in respect of the first £300,000, plus £4 for each £100 or part of £100 in excess thereof
+exceeds £500,000 but does not exceed £700,000
+£18,000 in respect of the first £500,000, plus £5 for each £100 or part of £100 in excess thereof
+exceeds £700,000 but does not exceed £1,000,000
+£28,000 in respect of the first £700,000, plus £5.50 for each £100 or part of £100 in excess thereof
+exceeds £1,000,000 but does not exceed £1,500,000
+£44,500 in respect of the first £1,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+exceeds £1,500,000 but does not exceed £2,000,000
+£77,000 in respect of the first £1,500,000 plus £7.50 for each £100 or part of £100 in excess thereof
+exceeds £2,000,000 but does not exceed £3,000,000
+£114,500 in respect of the first £2,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+exceeds £3,000,000 but does not exceed £6,000,000
+£209,500 in respect of the first £3,000,000 plus £12 for each £100 or part of £100 in excess thereof
+exceeds £6,000,000
+£569,500 in respect of the first £6,000,000 plus £13 for each £100 or part of £100 in excess thereof
 6 Sole ownership into joint ownership: matrimonial property or civil partnership property
 (1) This paragraph applies where a transaction described in paragraph 2(4) -
 (a) takes place by reason of an order made by the Royal Court under Article 28 of the Matrimonial Causes (Jersey) Law 1949, or Article 48 of the Civil Partnership (Jersey) Law 2012; or
@@ -168,7 +191,7 @@ Where a transaction described in Article 3(1)(a) or (b) gives effect to a devise
 (ii) the possession, directly or indirectly, of 75% or more of voting power in or in relation to the controlled company,
 (iii) the holding, directly or indirectly, of 75% or more of powers conferred by the articles of association or other document regulating the controlled company or another company;
 (b) the right to 75% or more of the profits and gains of the company;
-“group” means a holding company and 1 or more of its subsidiaries and, for the purposes of this definition, a company (“company A”) is a subsidiary of another company (“company B”) if -
+“group” means a holding company and 1 or more of its subsidiaries that are each controlled by the holding company and, for the purposes of this definition, a company (“company A”) is a subsidiary of another company (“company B”) if -
 (a) company B controls company A; or
 (b) company A is a subsidiary of a company that is itself a subsidiary of company B;
 “holding company” means a company that is not controlled by another company.
