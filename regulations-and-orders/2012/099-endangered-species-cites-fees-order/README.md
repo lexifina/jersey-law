@@ -1,6 +1,6 @@
 # Endangered Species (CITES) (Fees) (Jersey) Order 2012
 
-R&O.99/2012 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_99_2012_20251231>
+R&O.99/2012 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_99_2012_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
