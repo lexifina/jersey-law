@@ -1,6 +1,6 @@
 # Weights and Measures (Testing Fees) (Jersey) Order 2003
 
-R&O.158/2003 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_158_2003_20251231>
+R&O.158/2003 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_158_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
