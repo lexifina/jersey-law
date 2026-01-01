@@ -1,6 +1,6 @@
 # Schedule 3
 (Article 13(3))
-DUTIES OF THE CENTRE VETERINARIAN IN EC STORAGE CENTRE
+Duties of the centre veterinarian in EC storage centre
 The centre veterinarian must ensure that -
 (a) only semen is stored at the centre;
 (b) semen is only stored at the centre if it has not come into contact with any other semen and -

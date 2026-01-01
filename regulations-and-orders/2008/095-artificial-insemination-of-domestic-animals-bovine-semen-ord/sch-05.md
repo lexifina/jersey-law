@@ -1,6 +1,6 @@
 # Schedule 5
 (Article 24(2))
-DUTIES OF THE approved person IN DOMESTIC STORAGE CENTRES
+Duties of the approved person in domestic storage centres
 The approved person in respect of a domestic storage centre must ensure that -
 (a) only semen is stored at the centre;
 (b) semen is only stored at the centre if it was -

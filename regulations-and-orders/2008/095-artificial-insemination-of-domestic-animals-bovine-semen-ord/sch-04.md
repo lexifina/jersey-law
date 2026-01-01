@@ -1,15 +1,15 @@
 # Schedule 4
 (Article 24(1))
-DUTIES OF THE approved person in respect of a DOMESTIC COLLECTION CENTRES
-PART 1
-MARKING OF SEMEN DOSES
+Duties of the approved person in respect of a domestic collection centres
+Part 1
+Marking of semen doses
 The approved person in respect of a domestic collection centre must ensure that each individual dose of semen collected at the centre is clearly marked in such a way that the following information can be readily established -
 (a) the date the semen was collected;
 (b) the identity of the donor bovine animal under the cattle identification Regulations;
 (c) the breed of the donor bovine animal; and
 (d) the licence number of the centre.
-PART 2
-MEASURES APPLICABLE TO PROCESSING AT A DOMESTIC COLLECTION CENTRE
+Part 2
+Measures applicable to processing at a domestic collection centre
 1 The approved person in respect of a domestic collection centre must ensure that -
 (a) semen is not stored with semen of a different health status and semen must be identifiable by a marking different from that used in EC collection or storage centres for semen for trade with a member state or intra-British Islands trade;
 (b) products of animal origin used in the processing of semen, including additives or dilutents, are obtained from sources that present no animal health risk or are so treated prior to use that such risk is removed;
@@ -33,8 +33,8 @@ MEASURES APPLICABLE TO PROCESSING AT A DOMESTIC COLLECTION CENTRE
 (d) not less than 300 μg spectinomycin per ml final dilution.
 (2) An alternative combination of antibiotics with an equivalent effect against campylobacters, leptospires and mycoplasms may be used.
 4 The approved person in respect of a domestic collection centre must ensure that, immediately after the addition of antibiotics, the semen is kept at a temperature of at least 5ºC for a period of not less than 45 minutes.
-PART 3
-MEASURES APPLICABLE TO SEMEN QUARANTINE AT A DOMESTIC COLLECTION CENTRE
+Part 3
+Measures applicable to semen quarantine at a domestic collection centre
 1 The approved person in respect of a domestic collection centre must ensure that frozen semen is kept in the semen quarantine unit for at least 30 days before it leaves the centre.
 2 The approved person in respect of a domestic collection centre must not allow any semen to leave the domestic collection centre unless the premises where it was collected remain clear of -
 (a) foot and mouth disease; and

@@ -1,6 +1,6 @@
 # Schedule 1
 (Articles 13(1))
-DUTIES OF THE CENTRE VETERINARIAN IN EC QUARANTINE CENTRES
+Duties of the centre veterinarian in EC quarantine centres
 1
 (1) The centre veterinarian must make a record of any bovine animals to be admitted that -
 (a) did not belong to a herd officially free of enzootic bovine leukosis under Directive 64/432/EEC or other national or international standards or standards that the Minister considers equivalent or more stringent; or
