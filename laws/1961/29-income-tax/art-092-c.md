@@ -1,6 +1,6 @@
-# 92C Marginal rate of tax
+# 92C Marginal relief
 (1) An individual whose total income exceeds the threshold applicable in the individual’s case by virtue of Article 92A shall be entitled, for any year of assessment, to have the amount of income tax payable in respect of his or her total income reduced so that it does not exceed an amount equal to 26% of the amount by which the individual’s total income exceeds that threshold.
-(2) In calculating an individual’s total income for the purposes of paragraph (1), that total shall be reduced by any marginal income deduction to which the individual is entitled under Article 90AA, 90B or 90C.
+(2) In calculating an individual’s total income for the purposes of paragraph (1), that total shall be reduced by any marginal income deduction to which the individual is entitled under Article 90B or 90C.
 (3) For the year of assessment 2015 and ensuing years, a credit is allowable against the income tax payable by virtue of the application of paragraphs (1) and (2).
 (4) The amount of the credit is the lower of -
 (a) the result of the calculation

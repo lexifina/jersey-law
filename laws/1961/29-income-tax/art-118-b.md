@@ -9,14 +9,17 @@
 (f) emoluments other than pensions arising from an office or employment of an individual who is present in Jersey for a total of no more than 60 days in the year of assessment (“a short-term business visitor”);
 (g) any royalty or other sum paid in respect of the user of a patent;
 (h) interest paid by or on behalf of any body of persons established under an enactment;
-(i) income distributions from a relevant trust.
+(i) income distributions from a relevant trust;
+(j) dividends paid out by a relevant MNE group entity for which tax has been paid under the MCIT Law.
 (1A) A person who is not resident in Jersey and who is paid a dividend from which tax is deducted at the rate of 10% under Article 88(3) shall be exempt from the balance of tax that would, apart from this paragraph, be due in respect of the dividend.
 (1B) When calculating the number of days an individual is present in Jersey for the purposes of paragraph (1)(f), any day on which the individual is present in Jersey is included, whether for the whole or part of that day.
 (1C) An employer that has employees who are short-term business visitors is not required to -
 (a) register under Article 19A(1) if all of the employees are short-term business visitors; or
 (b) deliver a return under Article 20 and make deductions under Article 41B in respect of employees who are short-term business visitors.
 (2) In this Article -
-“relevant trust” means a trust which is managed by a trustee resident in Jersey and is -
-(a) a Jersey trust as defined in Article 1 of the Trusts (Jersey) Law 1984; or
-(b) a foreign trust as defined in Article 1 of that Law;
+“relevant trust” means a trust that -
+(a) is managed by a trustee resident in Jersey and that is -
+(i) a Jersey trust as defined in Article 1 of the Trusts (Jersey) Law 1984; or
+(ii) a foreign trust as defined in that Article; but
+(b) is not a trust that is approved under any provision of Part 19 of this Law;
 “purchased life annuity” has the same meaning as in Article 132.

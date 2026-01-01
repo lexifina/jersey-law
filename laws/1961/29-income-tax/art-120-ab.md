@@ -6,5 +6,5 @@
 (3) If a person is a relevant MNE group entity for part (but not the whole) of a year of assessment, the person’s income, profits and gains are to be apportioned for the purposes of assessing and charging income tax under this Law -
 (a) by reference to the proportion of the year of assessment for which the person is not a relevant MNE group entity; or
 (b) on another basis that the Comptroller considers is just and reasonable in all the circumstances.
-(4) In this Article and in Article 120AD, “MCIT Law” means the Multinational Corporate Income Tax (Jersey) Law 202-.
+(4)
 (5) Terms used in paragraph (2) have the same meaning as in the MCIT Law.

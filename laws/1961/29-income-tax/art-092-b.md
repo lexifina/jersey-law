@@ -3,8 +3,8 @@
 (a) the individual has qualifying income;
 (b) the individual has made a qualifying child care payment for the child’s care.
 (2) The amount of the increase that the individual is entitled to in respect of each qualifying child is the lesser of -
-(a) the amount that the individual paid in the year of assessment in qualifying child care payments for the child’s care; and
-(b) the maximum increase that applies to the child.
+(a) the amount that the individual paid in the year of assessment in qualifying child care payments for the child’s care, less the amount of any payment or grant made by the Minister for Education and Lifelong Learning for the child’s care; and
+(b) the maximum increase that applies to the child, less the amount of any payment or grant made by the Minister for Education and Lifelong Learning for the child’s care.
 (3) The total amount of increase that an individual is entitled to for a year of assessment is the lesser of -
 (a) the sum of the amounts to which the individual is entitled under paragraph (2); and
 (b) the individual’s qualifying income for the year of assessment.
@@ -23,9 +23,9 @@
 (b) for the purposes of Article 137, is a statement made by the individual in connection with a claim for relief.
 (8) In this Article -
 “maximum increase”, in relation to a qualifying child, means -
-(a) for a qualifying child whose date of birth is between 1st January and 31st August inclusive and who in the year of assessment has not attained the age of 4 years, £20,400;
-(b) for a qualifying child whose date of birth is between 1st September and 31st December inclusive and who is aged 4 or under on 31st December of the year of assessment, £20,400; or
-(c) for any other child, £7,850;
+(a) for a qualifying child whose date of birth is between 1st January and 31st August inclusive and who in the year of assessment has not attained the age of 4 years, £20,950;
+(b) for a qualifying child whose date of birth is between 1st September and 31st December inclusive and who is aged 4 or under on 31st December of the year of assessment, £20,950; or
+(c) for any other child, £8,050;
 “qualifying child care payment” means a payment made -
 (a) for the care of a qualifying child to a registered day carer or to a nanny accredited by the Jersey Child Care Trust; or
 (b) if the qualifying child is below compulsory school age, for the attendance of the child in a nursery school or nursery class under Regulations made under Article 9 of the Education (Jersey) Law 1999;
@@ -33,5 +33,5 @@
 (a) means income arising from a trade, profession, office, employment or vocation chargeable to tax under Case I, II or IIA of Schedule D or under Schedule A by virtue of Article 51(1)(b) or (c) (which apply to income from commercial dealings in Jersey land or from exploitation of Jersey land); but
 (b) does not include -
 (i) income received or receivable by an individual from the individual’s spouse or civil partner, or
-(ii) the first £5,750 of the individual’s income under sub-paragraph (a);
+(ii) the first £5,900 of the individual’s income under sub-paragraph (a);
 “registered day carer” means a day carer registered under the Day Care of Children (Jersey) Law 2002 (including day carers treated as registered by virtue of Article 13 of that Law).

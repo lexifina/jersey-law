@@ -10,19 +10,10 @@ Savings, transitional and Similar Provisions: general
 5A
 6
 7
-8 Income Tax (Amendment No. 38) (Jersey) Law 2011: entitlement to credit for tax paid on full attribution
-(1) An individual who has paid tax on his or her portion of a company’s relevant profits for a financial period, pursuant to Article 85F, shall be entitled to a credit, not exceeding the amount of tax paid, against his or her liability to pay tax on any dividend that -
-(a) is paid or issued out of the relevant profits in respect of a share comprised in the ordinary share capital of the company; and
-(b) is not deducted by virtue of Article 85F(12A), in determining that portion.
-(2) Expressions used in sub-paragraph (1) have the same meaning as in Article 85F, as it had effect under paragraph 7(1) immediately before that paragraph was repealed.
+8
 8A
 9
-10 Income Tax (Amendment No. 38) (Jersey) Law 2011: entitlement to credit for tax paid on deemed dividends
-(1) This paragraph applies where -
-(a) pursuant to Article 81D or 81G, a dividend is deemed to be received by an individual out of the relevant profits of a company for a relevant financial period; and
-(b) a dividend that is not a relevant dividend is paid or issued out of those profits, in respect of a share comprised in the ordinary share capital of the company.
-(2) Where this paragraph applies, an individual who has paid tax on a deemed dividend described in sub-paragraph (1)(a) shall be entitled to a credit, in an amount equal to the amount of tax paid, against his or her liability to tax on any dividend described in sub-paragraph (1)(b).
-(3) Expressions used in this paragraph shall be construed in accordance with Articles 81B, 81CA, 81CB and 81D to 81M as they had effect under paragraph 9(1) immediately before that paragraph was repealed.
+10
 11
 12
 13 Income Tax (Amendment No. 41) (Jersey) Law 2013: securities and possessions out of Jersey
@@ -30,30 +21,13 @@ Despite the definition “distribution” in Article 3AE, tax under Case V of Sc
 14 Income Tax (Amendment No. 41) (Jersey) Law 2013: stock dividends
 Where tax has been charged on the issue of a stock dividend under Article 62B prior to the repeal of that Article by the Income Tax (Amendment No. 41) (Jersey) Law 2013, repayment of capital of the stock dividend shall not be treated as a distribution for the purposes of Case IX of Schedule D.
 15
-16 Income Tax (Amendment No. 41) (Jersey) Law 2013: entitlement to credit for tax paid on full attribution or deemed dividends
-Notwithstanding paragraphs 8 and 10 of this Schedule, an individual shall not be entitled to a tax credit under either of those paragraphs in respect of a distribution which is chargeable to tax under Case IX of Schedule D.
+16
 17 Income Tax (Amendment No. 41) (Jersey) Law 2013: insurance premiums
 Any annuity to which Article 132 did not apply by virtue of Article 132(7)(b), shall, where the annuity is in payment before 1st January 2013 or will come into payment after that date by virtue of contributions made before that date, continue to be an annuity to which Article 132 does not apply notwithstanding the substitution of Article 132(7)(b) by the Income Tax (Amendment No. 41) (Jersey) Law 2013.
 18
 19
 20
-21 Finance (2018 Budget) (Jersey) Law 2018: relief from taxation for large corporate retailers and certain financial services companies
-(1) In this paragraph -
-(a) “0% company” means either -
-(i) a large corporate retailer, or
-(ii) a company which is a financial services company because it falls within a description in the definition ‘financial services company’ that existed in that definition after, but not before, the date Article 5 of the Finance (2018) Budget (Jersey) Law 2018 has effect.’;
-(b) “relevant financial period” means such part of the financial period of a 0% company occurring during all or any part of the period from 1st January 2016 to 31st December 2017 that is taken into account for the purpose of assessing the company’s liability to income tax for the year of assessment 2018.
-(2) If the condition in paragraph (3) is met in relation to a 0% company, the Comptroller shall grant such relief on the company’s income, profits and gains arising during the relevant financial period as the Comptroller considers to be fair, just and reasonable.
-(3) That condition is that the latest accounting date of a financial period of the 0% company (whether or not aggregated with another financial period) that is taken into account for the purpose of assessing the company’s liability to income tax for the year of assessment 2018 is 31st December 2018 (regardless of whether the accounting date is changed to that date for the purposes of this paragraph).
-(3A) Where a 0% company does not have an accounting date of 31st December 2018 for the year of assessment 2018, if a 0% company notifies the Comptroller on or before 31st December 2019 that it wishes to be treated as if it had an accounting date of 31st December 2018 even though it does not, the condition in paragraph (3) is deemed to be met.
-(3B) Where paragraph (3A) applies, for year of assessment 2018 and each subsequent year of assessment, the 0% company is treated for all purposes of this Law as if it had an accounting date of 31st December, even though it does not.
-(3C) A 0% company must notify the Comptroller if it no longer wishes paragraph (3B) to apply to it, before 31st December in the year immediately after the year of assessment in which it wishes paragraph (3B) to cease to apply.
-(3D) If a 0% company makes a notification under paragraph (3C), it must also notify the Comptroller of its accounting date for the year of assessment immediately following the last year of assessment in which paragraph (3B) applied.
-(3E) If the Comptroller receives a notification under paragraphs (3C) and (3D) -
-(a) paragraph (3B) ceases to apply in accordance with the 0% company’s notification; and
-(b) the Comptroller must charge the 0% company on the full amount of its profits or gains for the period of 12 months ending on the accounting date notified to the Comptroller under paragraph (3D).
-(3F) For the avoidance of doubt, where a notification is given to the Comptroller under paragraphs (3C) and (3D), 31st December is not treated as an accounting date for the purposes of Article 64B and no change of financial period is deemed to have taken place by reason of that notification.
-(4) The Comptroller may determine the extent to which any person’s liability to tax is affected by relief given under paragraph (2) and make such adjustments to that person’s liability as the Comptroller considers to be fair, just and reasonable.
+21
 22 Interpretation of paragraphs 23 to 25
 In paragraphs 23 to 25 -
 “2019 liability” means the amount of income tax assessed (or to be assessed) for the year beginning 1st January 2019;

@@ -39,10 +39,11 @@ There shall be left out of account transport provided within Jersey for use betw
 (b) where the office holder or employee is severely disabled.
 7 Accommodation
 There shall be left out of account -
-(a) accommodation provided for the use of a clergyman or minister of any religious denomination by any registered charity (within the meaning of the Charities (Jersey) Law 2014) or ecclesiastical body mainly and substantially for the purposes of that person’s duty as a clergyman or minister; or
+(a) accommodation provided for the use of a clergyman or minister of any religious denomination by any registered charity (within the meaning of the Charities (Jersey) Law 2014) or ecclesiastical body mainly and substantially for the purposes of that person’s duty as a clergyman or minister;
 (b) accommodation -
 (i) that forms part of the employer’s premises, and
-(ii) the occupation of which is essential to the performance of the office holder’s or employee’s duties as a person responsible for the care and security of those premises or for the care of persons occupying those premises or animals kept on those premises.
+(ii) the occupation of which is essential to the performance of the office holder’s or employee’s duties as a person responsible for the care and security of those premises or for the care of persons occupying those premises or animals kept on those premises; or
+(c) accommodation that is occupied by the office holder or employee to allow them to provide care to a person occupying those premises.
 8 Entertainment
 There shall be left out of account -
 (a) the provision of entertainment facilities for the sole or main purpose of conducting business to which the duties of the office holder or employee are relevant; and
@@ -75,7 +76,7 @@ In relation to an office holder or employee newly recruited or transferred to Je
 (i) the removal to Jersey of the household furniture and effects, including motor vehicles, of the office holder or employee and members of that person’s family and household,
 (ii) storage, for no more than 12 months, of the household furniture and effects, including motor vehicles, of the office holder or employee and members of that person’s family and household, and
 (iii) travel to Jersey, upon the office holder’s or employee’s recruitment or transfer, by the office holder or employee and by members of that person’s family and household; and
-(b) the first £7,500 of any other actual, reasonable expenditure incurred in the office holder’s or employee’s removal to and establishment in Jersey.
+(b) the first £15,000 of any other actual, reasonable expenditure incurred in the office holder’s or employee’s removal to and establishment in Jersey.
 15 Training
 (1) There shall be left out of account the provision of training, where the subject matter of the training is related to the duties or anticipated future duties of the office holder or employee.
 (2) For the purposes of this paragraph, the provision of training includes -

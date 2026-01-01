@@ -9,6 +9,4 @@
 (b) under approved Jersey retirement annuity contracts; and
 (c) to approved Jersey retirement trust schemes;
 “excess income” means the amount by which a pension holder’s income for a year of assessment exceeds £150,000;
-“income” means the pension holder’s total income for a year of assessment, before the deduction of any of the following paid by the pension holder in the year of assessment -
-(a) interest in respect of which the pension holder is entitled to a marginal income deduction under Article 90AA; and
-(b) the pension holder’s total approved pension contributions (whether or not allowed as a deduction under paragraph (2)).
+“income” means the pension holder’s total income for a year of assessment, before the deduction of the total approved pension contributions paid by the pension holder in the year of assessment (whether or not allowed as a deduction under paragraph (2)).

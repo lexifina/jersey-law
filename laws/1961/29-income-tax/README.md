@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_29_1961_20251231>
+L.29/1961 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20260331>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -98,12 +98,13 @@ L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 54A | [art-054-a.md](art-054-a.md) | 54A Deductions under Schedule A in respect of property development or quarrying, etc. |
 | Art. 55 | [art-055.md](art-055.md) | 55 Persons chargeable under Schedule A |
 | Art. 55A | [art-055-a.md](art-055-a.md) | 55A Miscellaneous provisions applicable to property development and quarrying, etc. |
+| Art. 55B | [art-055-b.md](art-055-b.md) | 55B Provision against double assessment: dealing in or developing land in Jersey |
 | Art. 61 | [art-061.md](art-061.md) | 61 Schedule D |
 | Art. 62 | [art-062.md](art-062.md) | 62 Mode of charge under Schedule D; the Cases |
 | Art. 62A | [art-062-a.md](art-062-a.md) | 62A Disapplication of Schedule D where trade taxed under Schedule A |
 | Art. 62C | [art-062-c.md](art-062-c.md) | 62C Application of Schedule D to the repayments of a levy made to the Jersey Bank Depositors Compensation Board |
 | Art. 62D | [art-062-d.md](art-062-d.md) | 62D Application of Schedule D to termination and other payments |
-| Art. 63 | [art-063.md](art-063.md) | 63 Farming and other commercial occupation of land in Jersey to be charged under Schedule D |
+| Art. 63 | [art-063.md](art-063.md) | 63 Farming of land in Jersey to be charged under Schedule D |
 | Art. 64 | [art-064.md](art-064.md) | 64 Full tax to be charged |
 | Art. 64A | [art-064-a.md](art-064-a.md) | 64A General provision as to period of computation for trade, profession or vocation |
 | Art. 64B | [art-064-b.md](art-064-b.md) | 64B Change of financial period and accounting date |
@@ -141,6 +142,7 @@ L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 77E | [art-077-e.md](art-077-e.md) | 77E Treatment of attributable earnings for other purposes |
 | Art. 78 | [art-078.md](art-078.md) | 78 Basis of computation under Case III |
 | Art. 79 | [art-079.md](art-079.md) | 79 Pensions chargeable under Case III |
+| Art. 79A | [art-079-a.md](art-079-a.md) | 79A Credit for tax paid on full attribution of deemed dividends |
 | Art. 80 | [art-080.md](art-080.md) | 80 Basis of computation under Cases IV and V |
 | Art. 80A | [art-080-a.md](art-080-a.md) | 80A Application of Article 80: individuals who become, or cease to be, ordinarily resident |
 | Art. 81 | [art-081.md](art-081.md) | 81 Basis of computation under Cases VI and VII |
@@ -176,14 +178,14 @@ L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 87A | [art-087-a.md](art-087-a.md) | 87A Payments made under covenant |
 | Art. 87B | [art-087-b.md](art-087-b.md) | 87B Donations to charity |
 | Art. 88 | [art-088.md](art-088.md) | 88 Deduction of tax from Jersey dividends and other distributions |
+| Art. 88A | [art-088-a.md](art-088-a.md) | 88A Distributions from MNE group entity |
 | Art. 89 | [art-089.md](art-089.md) | 89 Explanation of income tax deductions to be annexed to dividend warrants, other distributions, etc. |
 | Art. 89A | [art-089-a.md](art-089-a.md) | 89A Relief in respect of interest paid to finance houses |
 | Art. 90 | [art-090.md](art-090.md) | 90 Relief in respect of interest paid to banks |
-| Art. 90AA | [art-090-aa.md](art-090-aa.md) | 90AA Marginal income deduction in respect of interest payments: only or main residence |
 | Art. 90AB | [art-090-ab.md](art-090-ab.md) | 90AB Deduction in respect of loan costs: commercial letting |
 | Art. 90AC | [art-090-ac.md](art-090-ac.md) | 90AC Relief in respect of interest payments: machinery and plant |
 | Art. 90AD | [art-090-ad.md](art-090-ad.md) | 90AD Relief in respect of interest payments: acquisition of trade, partnership share or trading company |
-| Art. 90AE | [art-090-ae.md](art-090-ae.md) | 90AE Provisions supplementary to Articles 90AA to 90AD: general |
+| Art. 90AE | [art-090-ae.md](art-090-ae.md) | 90AE Provisions supplementary to Articles 90AB to 90AD: general |
 | Art. 90AF | [art-090-af.md](art-090-af.md) | 90AF Provisions supplementary to Article 90AD: recovery of capital from trade, partnership or company |
 | Art. 90A | [art-090-a.md](art-090-a.md) | 90A Maintenance payments |
 | Art. 90B | [art-090-b.md](art-090-b.md) | 90B Marginal income deduction in respect of qualifying maintenance payments |
@@ -191,7 +193,7 @@ L.29/1961 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 92A | [art-092-a.md](art-092-a.md) | 92A Exemption from income tax for individuals whose income is not over the exemption threshold |
 | Art. 92AA | [art-092-aa.md](art-092-aa.md) | 92AA Taxation of individuals whose income is over the exemption threshold |
 | Art. 92B | [art-092-b.md](art-092-b.md) | 92B Increase in exemption threshold for certain child care payments |
-| Art. 92C | [art-092-c.md](art-092-c.md) | 92C Marginal rate of tax |
+| Art. 92C | [art-092-c.md](art-092-c.md) | 92C Marginal relief |
 | Art. 93 | [art-093.md](art-093.md) | 93 Deductions from assessable income |
 | Art. 95 | [art-095.md](art-095.md) | 95 Children |
 | Art. 98A | [art-098-a.md](art-098-a.md) | 98A Additional allowance in respect of children |
