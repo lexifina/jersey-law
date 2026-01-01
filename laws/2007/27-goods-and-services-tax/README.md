@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Law 2007
 
-L.27/2007 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20251231>
+L.27/2007 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20260405>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -77,8 +77,6 @@ L.27/2007 · official consolidation showing the law from 2025-01-01 · <https://
 | Art. 66 | [art-066.md](art-066.md) | 66 Opportunity to be heard |
 | Art. 69 | [art-069.md](art-069.md) | 69 Application of Customs and Excise (Jersey) Law 1999 |
 | Art. 70 | [art-070.md](art-070.md) | 70 Details of application of Customs and Excise (Jersey) Law 1999 |
-| Art. 71 | [art-071.md](art-071.md) | 71 Penalty tax where conduct involving dishonesty |
-| Art. 72 | [art-072.md](art-072.md) | 72 Liability of partners and officers for penalty tax where corporate dishonesty |
 | Art. 73 | [art-073.md](art-073.md) | 73 Penalty tax if failure to notify or unauthorized issue of invoices |
 | Art. 74 | [art-074.md](art-074.md) | 74 Surcharge if GST not paid or return not made |
 | Art. 75 | [art-075.md](art-075.md) | 75 Assessment and surcharge if returns or paperwork inadequate |
