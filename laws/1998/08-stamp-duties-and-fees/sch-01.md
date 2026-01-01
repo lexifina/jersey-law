@@ -143,6 +143,68 @@ exceeds £6,000,000
 £629,500 in respect of the first £6,000,000 plus £14 for each £100 or part of £100 in excess thereof
 Contract
 Greffier
+2B Bands relating to value in item 13 in 2026
+(1) This paragraph applies for stamp duty payable in 2026.
+(2) The table set out in this sub-paragraph is to be read as included instead of the table in paragraph 2A in each paragraph of item 13 where there is an entry “See table in paragraph 2A”.
+Item 13
+Stamp Duty by Figure or Rate
+Chargeable Document
+Designated Officer
+(i)
+does not exceed £50,000
+£2.50 for each £100 or part of £100 subject to a minimum of £10
+Contract
+Greffier
+(ii)
+exceeds £50,000 but does not exceed £300,000
+£1,250 in respect of the first £50,000, plus £3.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iii)
+exceeds £300,000 but does not exceed £500,000
+£10,000 in respect of the first £300,000, plus £4 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(iv)
+exceeds £500,000 but does not exceed £700,000
+£18,000 in respect of the first £500,000, plus £5 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(v)
+exceeds £700,000 but does not exceed £1,000,000
+£28,000 in respect of the first £700,000, plus £5.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vi)
+exceeds £1,000,000 but does not exceed £1,500,000
+£44,500 in respect of the first £1,000,000 plus £6.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(vii)
+exceeds £1,500,000 but does not exceed £2,000,000
+£77,000 in respect of the first £1,500,000 plus £7.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(viii)
+exceeds £2,000,000 but does not exceed £3,000,000
+£114,500 in respect of the first £2,000,000 plus £9.50 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(ix)
+exceeds £3,000,000 but does not exceed £6,000,000
+£209,500 in respect of the first £3,000,000 plus £12 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(x)
+exceeds £6,000,000
+£569,500 in respect of the first £6,000,000 plus £13 for each £100 or part of £100 in excess thereof
+Contract
+Greffier
+(3) Paragraph (l)(1) of item 13 applies as if -
+(a) in clause (i)(B), “£3.50” is “£2.50”;
+(b) in clause (ii)(B) -
+(i) “£3,500” is “£2,500”; and
+(ii) “£3.75” is “£2.75”.
 3 Tables of judicial fees
 Item 1.
 Stamp Duty, by Figure or Rate
