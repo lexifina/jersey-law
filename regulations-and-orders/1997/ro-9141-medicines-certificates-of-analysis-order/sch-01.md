@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 Form 1
 CERTIFICATE OF ANALYSIS OF SAMPLE
