@@ -1,6 +1,6 @@
 # Animal Welfare (Licence Fee) (Jersey) Order 2008
 
-R&O.31/2008 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_31_2008_20251231>
+R&O.31/2008 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_31_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
