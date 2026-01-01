@@ -29,19 +29,19 @@ E is the percentage of earnings disregarded under Schedule 2, paragraph 5(a) to 
 The rates payable for the basic components under Article 5(2) of the Law are -
 (a)
 under Article 5(2)(a) of the Law (adult component rate)
-£125.79
+£130.83
 (b)
-under Article 5(2)(b) or (ba) of the Law (single parent component rate)
-£174.93
+under Article 5(2)(b) of the Law (single parent component rate)
+£181.93
 (c)
 under Article 5(2)(c) of the Law (first child component rate)
-£103.60
+£107.80
 (d)
 under Article 5(2)(ca) of the Law (subsequent child component rate)
-£87.29
+£90.79
 (e)
 under Article 5(2)(d) of the Law (household component rate)
-£70.14
+£73.01
 Part 2: special components
 A: housing component
 3 Criteria for housing component
@@ -76,26 +76,36 @@ A: housing component
 (b) if the dwelling is appropriate to the needs of the eligible household, the rate payable under sub-paragraph (3) in respect of a dwelling of that description; or
 (c) if the dwelling is not appropriate to the needs of the eligible household, the rate payable under sub-paragraph (3) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
 (3) The rates payable under this sub-paragraph are -
+(a)
 hostel
-£158.76
-lodgings or bedsit
-£192.15
+£199.85
+(b)
+lodgings or a bedsit
+£199.85
+(c)
 flat with 1 bedroom
-£283.29
+£294.63
+(d)
 flat with 2 bedrooms
-£362.74
+£377.30
+(e)
 flat with 3 or more bedrooms
-£389.13
+£404.74
+(f)
 house with 1 bedroom
-£324.73
+£337.75
+(g)
 house with 2 bedrooms
-£412.16
+£428.68
+(h)
 house with 3 bedrooms
-£481.32
+£500.64
+(i)
 house with 4 bedrooms
-£524.65
+£545.65
+(j)
 house with 5 or more bedrooms
-£580.58
+£603.82
 4B Rate of housing component - social housing
 (1) This paragraph applies if the dwelling occupied by an eligible household is social housing occupied under a lease or licence.
 (2) If the dwelling is appropriate to the needs of the household and -
@@ -112,18 +122,24 @@ house with 5 or more bedrooms
 (2) If the dwelling is appropriate to the needs of the eligible household, the housing component payable is the rate stated in sub-paragraph (4) in respect of a dwelling of that description.
 (3) If the dwelling is not appropriate to the needs of the eligible household, the housing component payable is the rate stated in sub-paragraph (4) in respect of a dwelling of a description that is appropriate to the needs of the eligible household.
 (4) The rates payable under this sub-paragraph are -
+(a)
 bedsit or flat with 1 or 2 bedrooms
-£8.89
+£9.31
+(b)
 flat with 3 bedrooms
-£12.53
+£13.09
+(c)
 flat with 4 or more bedrooms
-£17.71
+£18.48
+(d)
 house with 1 bedroom
-£8.89
+£9.31
+(e)
 house with 2 bedrooms
-£12.53
+£13.09
+(f)
 house with 3 or more bedrooms
-£17.71
+£18.48
 4D Meaning of “family unit”
 In Articles 4E to 4H, 2 households occupying the same dwelling are part of a “family unit” if -
 (a) 1 of the households consists of a person under the age of 25; and
@@ -193,26 +209,36 @@ T is the total weekly rent payable for the dwelling.
 (b) had responsibility for the physical care of a member of the child household until that member attained school leaving age.
 4I Rates payable under paragraphs 4B(2) and (3) and 4G(5)(ii)
 The rates payable under this paragraph are -
-hostel
-£158.76
-lodgings or bedsit
-£182.21
-flat with 1 bedroom
-£268.45
-flat with 2 bedrooms
-£343.56
-flat with 3 or more bedrooms
-£368.55
-house with 1 bedroom
-£307.51
-house with 2 bedrooms
-£390.60
-house with 3 bedrooms
-£456.12
-house with 4 bedrooms
-£497.00
-house with 5 or more bedrooms
-£550.20
+(a)
+in the case of a hostel
+£165.13
+(b)
+in the case of lodgings or a bedsit
+£189.56
+(c)
+in the case of a flat with 1 bedroom
+£279.23
+(d)
+in the case of a flat with 2 bedrooms
+£357.35
+(e)
+in the case of a flat with 3 or more bedrooms
+£383.32
+(f)
+in the case of a house with 1 bedroom
+£319.83
+(g)
+in the case of a house with 2 bedrooms
+£406.28
+(h)
+in the case of a house with 3 bedrooms
+£474.39
+(i)
+in the case of a house with 4 bedrooms
+£516.88
+(j)
+in the case of a house with 5 or more bedrooms
+£572.25
 B: impairment component
 5 Elements of impairment component
 (1) The impairment component shall consist of the following 3 elements -
@@ -240,13 +266,13 @@ B: impairment component
 (3) The rate of personal care element payable in respect of the total score calculated under sub-paragraph (2) is -
 (a)
 for a score of at least 15 but less than 36
-£31.64
+£32.97
 (b)
 for a score of at least 36 but less than 56
-£138.11
+£143.64
 (c)
 for a score of at least 56
-£198.03
+£206.01
 (4) The rate of personal care element in respect of a member of a household referred to in sub-paragraph (1)(d) shall be whichever amount is the lower of -
 (a) the net weekly cost of an approved care package for that member having taken account and deducted the amount of any funding or subsidy provided by the Minister for Health and Social Services with respect to the cost of the approved care package; and
 (b) the weekly rate set at the lowest level of standard care provided under Article 8 of the Long-Term Care (Benefits) (Jersey) Order 2014.
@@ -264,8 +290,8 @@ for a score of at least 56
 (1) A household is entitled to a mobility element in respect of any member of the household who is at least 3 years of age if one or more of the statements set out in Part 2 of Schedule 2 applies to that member (unless the member is a child and the statement is expressed not to be relevant to a child of his or her age).
 (2) However, a household is not entitled to a mobility element in respect of a member of the household who is receiving long-term care in an approved care home.
 (3) The rate of mobility element of the impairment component is -
-(a) £31.64 if the person’s average weekly earnings do not exceed the amount in clause (b); or
-(b) £62.93.
+(a) £32.97 if the person’s average weekly earnings do not exceed the amount in clause (b); or
+(b) £65.45.
 (4) Whether or not a statement set out in Part 2 of Schedule 2 applies to a member of a household shall be assessed in accordance with the directions set out in that Part.
 8 Clinical cost element
 (1) A household is entitled to a clinical cost element in respect of any member of the household if that member -
@@ -300,10 +326,10 @@ whichever is the lower.
 (3) The rates payable under this sub-paragraph are -
 (a)
 for a child under the age of 3 years
-£10.00
+£10.40
 (b)
 for a child aged 3 years or over
-£8.37
+£8.71
 D: carer’s component
 11 Carer’s component criteria
 (1) A household is entitled to a carer’s component in respect of all persons cared for by each member of the household (a “carer”) if -
@@ -318,11 +344,11 @@ D: carer’s component
 (2) However, a household is not entitled to a carer’s component in respect of any carer while the carer is not entitled to a basic component under Article 5(2)(a) to (ca) of the Law as a consequence of paragraph 1(1)(aa), (b), (c) or (d), unless the disentitlement is because one or more of the persons being cared for is receiving medical treatment outside Jersey and the carer has accompanied that person or persons.
 (3) A household is not entitled to a carer’s component in respect of any carer while the household is not entitled to a basic component under Article 5(2)(a) or (b) of the Law in respect of the carer as a consequence of paragraph 1(5).
 12 Rate for the carer’s component
-The rate payable in respect of the carer’s component is £71.61.
+The rate payable in respect of the carer’s component is £74.48.
 E: Ancillary home care costs component
 13 Criteria for ancillary home care costs component
 A household is entitled to an ancillary home care costs component in respect of each member of the household who -
 (a) is in receipt of an approved care package under Article 7(2) of the Long-Term Care (Jersey) Law 2012; and
 (b) is being provided with long-term care under that Law in their home.
 14 Rate for ancillary home care costs component
-The rate payable in respect of an ancillary home care costs component is £31.29.
+The rate payable in respect of an ancillary home care costs component is £32.55.
