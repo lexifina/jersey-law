@@ -1,6 +1,6 @@
 # Regulation of Care (Fees) (Jersey) Order 2022
 
-R&O.118/2022 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/ro_118_2022_20251231>
+R&O.118/2022 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_118_2022_20260405>
 
 | Provision | File | Heading |
 | --- | --- | --- |
