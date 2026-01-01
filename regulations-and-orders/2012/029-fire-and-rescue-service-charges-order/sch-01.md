@@ -7,55 +7,55 @@ Action required in order to provide the technical fire safety advice described i
 Charge
 1
 Use of light portable pump and one operator
-£184
+£188.50
 2
 Use of light appliance and crew (one or 2 personnel)
-£274
+£280.50
 3
 Use of standard or special appliance and crew (one or 2 personnel)
-£291
+£298
 4
 Use of standard appliance or rescue boat and crew (4 or 5 personnel)
-£370
+£379
 5
 Use of aerial ladder platform and crew (2 personnel)
-£458
+£469
 6
 Interview with Fire and Rescue Service officer at the rank of Station Commander or above
-£138 per hour per officer interviewed
+£141 per hour per officer interviewed
 7
 Interview with Fire and Rescue Service officer below the rank of Station Commander
-£101 per hour per officer interviewed
+£103 per hour per officer interviewed
 8
 Use of Fire and Rescue Service training room and training facilities for over 4 hours in a day
-£198
+£202
 9
 Use of Fire and Rescue Service training room and training facilities for up to (and including) 4 hours in a day
-£138
+£141
 10
 Provision of a copy of a fire report or other incident report
-£668 per report
+£684 per report
 11
 Provision of documents, photos, tapes, videos or other similar recordings
-£500
+£512.50
 12
 Inspection of any commercial, trade, professional or public premises, and the provision of a fire safety report in respect of such inspection
-£451 for premises with a floor area of 100 square metres or less, or £4.50 per square metre for premises with a floor area of more than 100 square metres
+£462 for premises with a floor area of 100 square metres or less, or £4.60 per square metre for premises with a floor area of more than 100 square metres
 13
 Technical fire safety advice or consultation
-£162
+£166
 14
 Search of Fire and Rescue Service records to establish whether any material or information is held by the Fire and Rescue Service in respect of any premises
-£511
+£523.50
 15
 Provision of training courses by one or more personnel of the Fire and Rescue Service at any premises of the Fire and Rescue Services - subject to a reduction of 5% for the same person attending 3 courses and to an 11th person free of charge for every 10 people in a group attending the same course - charge per person per course -
-£64.50
+£66
 16
 Provision of training courses by one or more personnel of the Fire and Rescue Service at any premises not being premises of the Fire and Rescue Service - subject to a reduction of 5% for the same person attending 3 courses - charge per person per course -
-£64.50
+£66
 17
 Personnel charges for the preparation of bespoke training
-£141 per hour
+£144.50 per hour
 Notes:
 Items 1-5
 Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the time the vehicle and personnel leave the fire station and ending at the time of return of the vehicle and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
@@ -75,19 +75,19 @@ Appliance or personnel required by action described in Article 3
 Charge
 1
 Use of light portable pump and one operator
-£184
+£188.50
 2
 Use of light appliance and crew (one or 2 personnel)
-£274
+£280.50
 3
 Use of standard or special appliance and crew (one or 2 personnel)
-£291
+£298
 4
 Use of standard appliance or rescue boat and crew (4 or 5 personnel)
-£370
+£379
 5
 Use of aerial ladder platform and crew (2 personnel)
-£458
+£469
 Note:
 Items 1-5
 Charges for Fire and Rescue Service appliances and personnel services are per hour or part hour commencing from the vehicle and personnel leaving the fire station (or where the appliance and personnel are already at the place where the assistance is to be given, at the time when the assistance commences) and ending at the time of return of the appliance and personnel to the fire station. The charges include the use of all equipment carried as normal complement. An additional charge will be made for any other expenditure incurred, including the costs of materials supplied or repairs to appliances and equipment that are directly attributable to the service rendered.
@@ -96,4 +96,4 @@ Part 3
 Charge for attending malfunctioning automatic fire alarm
 1
 Charge for attending a place for the purpose of responding to a malfunctioning automatic fire alarm
-£370
+£379
