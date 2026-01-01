@@ -1,4 +1,4 @@
-# SCHEDULE 5
+# Schedule 5
 (Article 23)
 Requirements as to registration marks
 PART 1

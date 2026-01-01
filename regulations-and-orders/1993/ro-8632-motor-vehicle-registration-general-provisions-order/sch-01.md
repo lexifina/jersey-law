@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 2)
 Particulars of motor vehicles contained in the register
 1.

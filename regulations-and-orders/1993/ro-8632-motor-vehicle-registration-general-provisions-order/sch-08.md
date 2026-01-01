@@ -1,3 +1,3 @@
-# SCHEDULE 7
+# Schedule 7
 (Article 25)
 Form of trade licence
