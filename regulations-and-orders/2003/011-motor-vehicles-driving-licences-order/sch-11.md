@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# Schedule 11
 (Article 34)
 Form of certain plates in reSpect of learner drivers
 PART 1

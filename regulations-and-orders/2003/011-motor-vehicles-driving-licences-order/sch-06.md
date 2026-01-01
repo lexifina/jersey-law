@@ -1,4 +1,4 @@
-# SCHEDULE 6
+# Schedule 6
 (Article 14(2))
 Form of Compulsory Basic training certificate
 PART 1
