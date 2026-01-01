@@ -1,0 +1,1 @@
+A LAW to make provision for the administration of taxes and other charges under various enactments which raise revenue for the States of Jersey and to rename the Comptroller of Taxes as the Comptroller of Revenue.
