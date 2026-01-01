@@ -1,6 +1,6 @@
 # Road Traffic (Motor Cycle Helmets) (Jersey) Order 2004
 
-R&O.36/2004 · official consolidation showing the law from 2021-10-11 · <https://www.jerseylaw.je/laws/current/ro_36_2004_20251231>
+R&O.36/2004 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_36_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,3 +8,4 @@ R&O.36/2004 · official consolidation showing the law from 2021-10-11 · <https:
 | Art. 1 | [art-001.md](art-001.md) | 1 Protective helmet to be worn |
 | Art. 1A | [art-001-a.md](art-001-a.md) | 1A Exemption |
 | Art. 2 | [art-002.md](art-002.md) | 2 Citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
