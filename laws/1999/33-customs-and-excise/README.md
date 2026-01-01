@@ -1,6 +1,6 @@
 # Customs and Excise (Jersey) Law 1999
 
-L.33/1999 · official consolidation showing the law from 2025-01-01 · <https://www.jerseylaw.je/laws/current/l_33_1999_20251231>
+L.33/1999 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/l_33_1999_20260122>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -92,6 +92,5 @@ L.33/1999 · official consolidation showing the law from 2025-01-01 · <https://
 | Art. 73 | [art-073.md](art-073.md) | 73 Orders |
 | Art. 73A | [art-073-a.md](art-073-a.md) | 73A Orders etc. making provision for certain approvals and authorizations |
 | Art. 74 | [art-074.md](art-074.md) | 74 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 2 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 3 |
