@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 3)
 Fees to be charged in connection with grant of licence
 Table 1: Fees
@@ -6,61 +6,61 @@ Part 1 - Annual licences
 Fee for grant or renewal of grant of licence
 Fee for grant of modification of licence
 Arborist Licence - granted for tree surgeons to disturb bats to conduct a survey and use endoscopes for observation, for conservation purposes only
-£100
-£50
+£102.50
+£51.20
 Bat Survey Licence - granted for persons with experience of working with bats to disturb, take, handle and release bats and to use methods of capture prohibited by the Law, for scientific or educational purposes -
 · for capture using traps and lures
-£150
-£50
+£153.70
+£51.20
 · for capture using hand nets
-£100
-£50
+£102.50
+£51.20
 · for disturbance only
-£50
-£50
+£51.20
+£51.20
 General Survey Licence - granted for persons with experience of working with protected wild birds or protected wild animals, other than bats, to disturb, take, handle and release those protected species and to use methods of capture prohibited by the Law, for scientific or educational purposes -
 · for disturbance, capture and release
-£100
-£50
+£102.50
+£51.20
 · for disturbance only
-£50
-£50
+£51.20
+£51.20
 Gull Control Licence - granted for persons experienced in gull control to disturb, kill or take herring gull to preserve public health and safety, or to prevent the spread of disease or serious damage to property -
-· where 3 or more individuals are acting under the licence
-£400
-£50
-· where fewer than 3 individuals are acting under the licence
-£200
-£50
+· if 3 or more individuals are acting under the licence
+£410
+£51.20
+· if fewer than 3 individuals are acting under the licence
+£205
+£51.20
 Pheasant Control Licence - granted for persons to disturb, kill or take the common pheasant to prevent serious damage to crops or vegetables on land belonging to the holder of the licence -
-· where 3 or more individuals are acting under the licence
-£100
-£50
-· where fewer than 3 individuals are acting under the licence
-£50
-£50
+· if 3 or more individuals are acting under the licence
+£102.50
+£51.20
+· if fewer than 3 individuals are acting under the licence
+£51.20
+£51.20
 Part 2 - Project licences
 Fee for grant or renewal of grant of licence
 Fee for grant of modification of licence
 Mitigation Licence for Development with -
 · a requirement for an environmental impact statement under the Planning and Building (Environmental Impact) (Jersey) Order 2006
-£1200
-Major modification - £400
-Minor modification - £200
+£1,230
+Major modification - £410
+Minor modification - £205
 · a high regulatory requirement
-£400
-Major modification - £100
-Minor modification - £50
+£410
+Major modification - £102.50
+Minor modification - £51.20
 · a medium regulatory requirement
-£300
+£307.50
 · a low regulatory requirement
-£200
+£205
 Bird Control Licence for Air Safety - granted to permit the disturbance and killing of named protected bird species for the purpose of preserving public safety at and around the airport
-£400
-£50
-Any other licence not otherwise described in this Order authorising a person to do anything which would constitute an offence under Parts 2 to 4 of the Law, granted for any purpose specified in Article 37 of the Law and also specified in the licence
-£52 for each hour or part of an hour taken to administer the grant of the licence
-£50
+£410
+£51.20
+Any other licence not otherwise described in this Order authorising a person to do anything that would constitute an offence under Parts 2 to 4 of the Law, granted for any purpose specified in Article 37 of the Law and also specified in the licence
+£51.20 for each hour or part of an hour taken to administer the grant of the licence
+£51.20
 Table 2: circumstances in which licences may be exempt from fees
 Exemption
 Circumstances where exemption applies
