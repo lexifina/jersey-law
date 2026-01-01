@@ -1,6 +1,6 @@
 # Taxation (Implementation) (International Tax Compliance) (Common Reporting Standard) (Jersey) Regulations 2015
 
-R&O.148/2015 · official consolidation showing the law from 2025-01-31 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20251231>
+R&O.148/2015 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/ro_148_2015_20260325>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ R&O.148/2015 · official consolidation showing the law from 2025-01-31 · <https
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Option for reporting financial institutions to comply with Regulations in relation to participating jurisdictions list |
 | Reg. 7A | [reg-007-a.md](reg-007-a.md) | 7A Transitional provision regarding United Kingdom reportable accounts |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Content and timing of returns |
+| Reg. 8A | [reg-008-a.md](reg-008-a.md) | 8A Prevention of duplicative reporting |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Use of service providers |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Penalty for failure to comply with Regulations |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Daily default penalty |
