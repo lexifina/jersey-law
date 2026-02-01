@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 31)
 Classes of politically ineligible states’ employees
 (a) Chief Officers;

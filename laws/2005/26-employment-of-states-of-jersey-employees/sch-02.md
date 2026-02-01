@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 31)
 Classes of politically eligible states’ employees
 (a) Airport Electricians;

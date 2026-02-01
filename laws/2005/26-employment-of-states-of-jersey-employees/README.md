@@ -1,6 +1,6 @@
 # Employment of States of Jersey Employees (Jersey) Law 2005
 
-L.26/2005 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/l_26_2005_20260131>
+L.26/2005 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_26_2005_20261026>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -54,6 +54,6 @@ L.26/2005 · official consolidation showing the law from 2025-04-14 · <https://
 | Art. 41 | [art-041.md](art-041.md) | 41 Employment terminates before politically ineligible States’ employee campaigns or is nominated |
 | Art. 42 | [art-042.md](art-042.md) | 42 Repeal etc. Regulations |
 | Art. 43 | [art-043.md](art-043.md) | 43 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

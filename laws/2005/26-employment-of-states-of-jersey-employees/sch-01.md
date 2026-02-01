@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Articles 2(4) and 13)
 OFFICES THE HOLDERS OF WHICH ARE NOT STATES’ EMPLOYEES
 Bailiff
