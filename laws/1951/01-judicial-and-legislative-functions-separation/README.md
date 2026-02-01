@@ -1,6 +1,6 @@
 # Judicial and Legislative Functions (Separation) (Jersey) Law 1951
 
-L.1/1951 · official consolidation showing the law from 2021-12-22 · <https://www.jerseylaw.je/laws/current/l_1_1951_20260131>
+L.1/1951 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_1_1951>
 
 | Provision | File | Heading |
 | --- | --- | --- |
