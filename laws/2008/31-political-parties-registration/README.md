@@ -1,10 +1,10 @@
 # Political Parties (Registration) (Jersey) Law 2008
 
-L.31/2008 · official consolidation showing the law from 2022-01-20 · <https://www.jerseylaw.je/laws/current/l_31_2008_20260131>
+L.31/2008 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_31_2008_20260209>
 
 | Provision | File | Heading |
 | --- | --- | --- |
-| Long title | [long-title.md](long-title.md) | A LAW to provide for the registration of political parties who wish to endorse candidates for election as a Deputy or Co |
+| Long title | [long-title.md](long-title.md) | A LAW to provide for the registration of political parties who wish to endorse candidates for election as a Senator, Dep |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Requirements for political party to be registered |
 | Art. 3 | [art-003.md](art-003.md) | 3 Restriction on name and emblem used by registered political party |
