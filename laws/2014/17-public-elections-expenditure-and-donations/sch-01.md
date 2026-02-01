@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 2)
 DONATIONS AND EXPENSES
 1 Money

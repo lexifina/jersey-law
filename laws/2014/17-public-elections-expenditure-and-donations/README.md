@@ -1,6 +1,6 @@
 # Public Elections (Expenditure and Donations) (Jersey) Law 2014
 
-L.17/2014 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/l_17_2014_20260131>
+L.17/2014 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_17_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -32,4 +32,4 @@ L.17/2014 · official consolidation showing the law from 2022-06-22 · <https://
 | Art. 18 | [art-018.md](art-018.md) | 18 Consequences of conviction of successful candidate in election |
 | Art. 18A | [art-018-a.md](art-018-a.md) | 18A Consequential etc amendments |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
