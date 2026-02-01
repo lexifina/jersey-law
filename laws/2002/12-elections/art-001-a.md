@@ -1,5 +1,5 @@
 # 1A Electoral districts
-(1) In relation to an election of a Deputy or Connétable, “electoral district” means -
+(1) In relation to an election of a Senator, Deputy or Connétable, “electoral district” means -
 (a) in the Deputies’ constituency of St. Saviour, each of -
 (i) Vingtaine de la Petite Longueville,
 (ii) Vingtaine de Sous l’Eglise,

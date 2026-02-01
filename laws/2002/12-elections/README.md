@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260131>
+L.12/2002 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260209>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,23 +18,27 @@ L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://
 | Art. 7A | [art-007-a.md](art-007-a.md) | 7A Notice of registered voters |
 | Art. 8 | [art-008.md](art-008.md) | 8 Exclusion or removal of name from electoral register |
 | Art. 9 | [art-009.md](art-009.md) | 9 Application for name to be omitted from register |
-| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Deputies and Connétables |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Senators, Deputies and Connétables |
 | Art. 10 | [art-010.md](art-010.md) | 10 Appeals |
 | Art. 11 | [art-011.md](art-011.md) | 11 Electoral register to be available |
 | Art. 12 | [art-012.md](art-012.md) | 12 Electoral register in force for an election |
 | Art. 13 | [art-013.md](art-013.md) | 13 Regulations may amend times in this Part |
 | Art. 13A | [art-013-a.md](art-013-a.md) | 13A Establishment of Jersey Electoral Authority |
 | Art. 13B | [art-013-b.md](art-013-b.md) | 13B Reports on election |
+| Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA 2026 elections (transitional): reports on elections for Senators and Deputies |
 | Art. 13C | [art-013-c.md](art-013-c.md) | 13C Code of conduct for candidates |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D Resolution of disputes |
 | Art. 13E | [art-013-e.md](art-013-e.md) | 13E Observation of elections |
 | Art. 13F | [art-013-f.md](art-013-f.md) | 13F Other functions and powers of the JEA |
 | Art. 14 | [art-014.md](art-014.md) | 14 Public elections and parish elections |
 | Art. 15 | [art-015.md](art-015.md) | 15 Cost of election |
+| Art. 15A | [art-015-a.md](art-015-a.md) | 15A 2026 elections (transitional): cost of elections for Senators and Deputies |
 | Art. 16 | [art-016.md](art-016.md) | 16 Assistance |
 | Art. 17 | [art-017.md](art-017.md) | 17 Order for election |
+| Art. 17AA | [art-017-aa.md](art-017-aa.md) | 17AA 2026 elections (transitional): order for elections for Senators and Deputies |
 | Art. 17A | [art-017-a.md](art-017-a.md) | 17A Electoral administrator for a parish |
 | Art. 17B | [art-017-b.md](art-017-b.md) | 17B Application of this Part |
+| Art. 17BA | [art-017-ba.md](art-017-ba.md) | 17BA 2026 elections (transitional): application of this Part |
 | Art. 17C | [art-017-c.md](art-017-c.md) | 17C Nomination of a candidate |
 | Art. 17D | [art-017-d.md](art-017-d.md) | 17D Nomination forms: content |
 | Art. 17E | [art-017-e.md](art-017-e.md) | 17E Subscription of nomination form |
@@ -42,6 +46,7 @@ L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://
 | Art. 17G | [art-017-g.md](art-017-g.md) | 17G Validation of nomination forms |
 | Art. 17H | [art-017-h.md](art-017-h.md) | 17H Announcement of candidates standing for election |
 | Art. 17I | [art-017-i.md](art-017-i.md) | 17I Extension of nomination period if more vacancies than candidates |
+| Art. 17IB | [art-017-ib.md](art-017-ib.md) | 17IB Hustings: Senators |
 | Art. 17J | [art-017-j.md](art-017-j.md) | 17J Application of this Part |
 | Art. 18 | [art-018.md](art-018.md) | 18 Nomination of candidates |
 | Art. 19 | [art-019.md](art-019.md) | 19 Holding of nomination meeting |
@@ -86,9 +91,11 @@ L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://
 | Art. 49 | [art-049.md](art-049.md) | 49 Counting |
 | Art. 50 | [art-050.md](art-050.md) | 50 Recording the numbers at a counting station |
 | Art. 51 | [art-051.md](art-051.md) | 51 Invalid ballot papers |
-| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in public elections or parish elections |
+| Art. 52 | [art-052.md](art-052.md) | 52 Result in public elections (Senators) |
+| Art. 52A | [art-052-a.md](art-052-a.md) | 52A Result in public elections (Deputies or Connétables) or parish elections |
 | Art. 52AA | [art-052-aa.md](art-052-aa.md) | 52AA Recounts |
-| Art. 52C | [art-052-c.md](art-052-c.md) | 52C Procedure for recount |
+| Art. 52B | [art-052-b.md](art-052-b.md) | 52B Procedure for recount by Judicial Greffier: Senator elections |
+| Art. 52C | [art-052-c.md](art-052-c.md) | 52C Procedure for recount by Autorisé |
 | Art. 53 | [art-053.md](art-053.md) | 53 Completion of return and delivery of papers |
 | Art. 54 | [art-054.md](art-054.md) | 54 Report to Royal Court and arrangements for taking of oath |
 | Art. 55 | [art-055.md](art-055.md) | 55 Secrecy of used ballot papers |
@@ -110,5 +117,6 @@ L.12/2002 · official consolidation showing the law from 2022-06-22 · <https://
 | Art. 70 | [art-070.md](art-070.md) | 70 Misnomer or inaccurate description |
 | Art. 71 | [art-071.md](art-071.md) | 71 Civil liability |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations |
+| Art. 72B | [art-072-b.md](art-072-b.md) | 72B Consequential, transitional and other matters: Senators |
 | Art. 73 | [art-073.md](art-073.md) | 73 Savings and transitional provisions |
 | Art. 74 | [art-074.md](art-074.md) | 74 Citation and commencement |

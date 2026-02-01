@@ -1,6 +1,10 @@
 # 17G Validation of nomination forms
 (1) This paragraph applies in relation to each nomination form submitted to the JEA during the nomination period.
-(2) The JEA must send a copy of the nomination form to each electoral administrator for the constituency to which it relates.
+(2) The JEA must -
+(a) in relation to an election for the office of Senator, give a copy of the nomination form to the electoral administrator for -
+(i) the parish in which the prospective candidate’s address given under Article 17D(1)(b)(ii) is located; and
+(ii) each other parish (if any) in which a proposer or seconder’s address given under Article 17E(3) is located;
+(b) in relation to an election for the office of Deputy or Connétable, give a copy of the nomination form to each electoral administrator for the constituency to which it relates.
 (3) The electoral administrator must -
 (a) review the nomination form for the purposes of assessing whether or not it complies with the requirements of this Part; and
 (b) notify the JEA of the outcome of that review.
@@ -12,4 +16,4 @@
 (a) may be a date falling after the end of the nomination period determined under Article 17C(2); but
 (b) must not be a date falling before the end of the nomination period.
 (7) If the JEA is satisfied, following receipt of the notification under paragraph (3)(b), that the form complies with the requirements of this Part, the JEA must notify the prospective candidate accordingly (and the person is nominated for the purposes of this Part).
-(8) In paragraph (2), the reference to an electoral administrator for a constituency is a reference to the electoral administrator for any parish which alone or with other parishes, or part of which, comprises the constituency.
+(8) In paragraph (2)(b), the reference to an electoral administrator for the constituency is a reference to an electoral administrator for a parish that alone, with other parishes, or in part, comprises the constituency.

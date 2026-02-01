@@ -1,10 +1,11 @@
 # 17D Nomination forms: content
 (1) A nomination form must -
-(a) state the office, and the constituency, in respect of which the person is to be nominated as a candidate;
+(a) state the office in respect of which the person is to be nominated as a candidate;
+(aa) if the nomination is for the office of Deputy or Connétable, state the constituency to which the nomination relates;
 (b) state the prospective candidate’s -
 (i) full name, and
 (ii) home address;
-(c) include the written declaration required, in the case of a person to be nominated for the office of Deputy, by Article 9 of the States of Jersey Law 2005 or, in the case of a person to be nominated for the office of Connétable, by Article 4A of the Connétables (Jersey) Law 2008;
+(c) include the written declaration required, in the case of a person to be nominated for the office of Senator or Deputy, by Article 9 of the States of Jersey Law 2005 or, in the case of a person to be nominated for the office of Connétable, by Article 4A of the Connétables (Jersey) Law 2008;
 (d) include a declaration that the prospective candidate has read, and agrees to comply with, the code of conduct published by the JEA under Article 13C;
 (e) include the political party declaration (see Article 17F); and
 (f) comply with such other requirements as to form and content as the JEA determine.
