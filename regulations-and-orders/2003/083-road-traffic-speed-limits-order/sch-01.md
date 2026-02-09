@@ -180,15 +180,12 @@ La Rue du Rondin (from a point 40 metres north of La Rue Mahier to Le Mont de St
 Le Mont de Ste. Marie (from 221 metres south-east of the boundary with St. Ouen to La Rue du Rondin)
 La Verte Rue (from La Rue es Boeufs to the boundary with the parish of St. Lawrence)
 ST. OUEN
-Le Chemin de l’Eglise (from Rue Militaire for a distance of 60 yards)
-La Grande Route de St. Ouen (from a point 70 yards south of its junction with La Rue de la Pointe to La Route de Vinchelez)
-La Route Marais (from La Rue de la Croute to La Route de Vinchelez);
-La Route de Vinchelez (from La Grande Route de St. Ouen to its junction with La Rue de la Croix)
-La Rue de la Croix
-La Rue de la Croute
-La Rue de la Forge
-La Rue Militaire
-La Rue de la Pointe
+La Fosse Tauraude
+La Grande Route de St. Ouen (from a point 47 metres south of La Rue de la Forge to a point 64 metres south of its junction with La Rue de la Pointe)
+Le Mont de la Grève de Lecq (from its junction with Le Route de Vinchelez to a point 59 metres south of La Charrière Huet)
+La Rue du Mont Capel
+La Rue de la Pointe (from La Grande Route de St. Ouen to La Fosse Tauraude)
+La Route de Vinchelez (from a point 76 metres north of La Rue de la Croix to La Petite Rue)
 ST. PETER
 L’Avenue de la Commune (from the boundary with the parish of St. Brelade to Le Clos Saut Falluet)
 La Grande Route des Augerez (from its junction with La Grande Route de St. Pierre to a point 45 metres north of that junction)

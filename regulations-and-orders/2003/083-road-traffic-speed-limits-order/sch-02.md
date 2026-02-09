@@ -322,9 +322,29 @@ The unnamed road between La Route de Ste. Marie and La Verte Rue
 The unnamed road between La Rue de Bel Air and La Verte Rue, adjacent to the property known as “Eden House”
 La Verte Rue (from La Rue du Rondin to the property known as “Eden House”)
 Le Clos de l’Arsenal
+Le Mont de Ste. Marie (from the boundary with St. Ouen to a point 221 metres south-east)
 St. Mary’s Village (off Le Clos de l’Arsenal)
 ST. OUEN
-La Rue des Cosnets (between La Rue du Sud and a point 235 yards south)
+Clos de la Croute
+Ivy Close
+La Charrière Huet
+Le Chemin de l’Église (from La Rue Militaire to a point 68 metres east)
+Le Chemin du Moulin (from La Route des Laveurs to a point 102 metres north of La Charrière à Sablon)
+Le Clos des Papillons
+Le Clos Horrell
+La Grande Route de St. Ouen (from La Route de Vinchelez to a point 47 metres south of La Rue de la Forge)
+La Grève de Lecq
+Le Mont de la Grève de Lecq (from a point 59 metres south of La Charrière Huet to the junction with La Grève de Lecq)
+La Petite Fosse
+La Route de Plémont
+La Route de Trodez (from La Route de Vinchelez to a point 32 metres west)
+La Route de Vinchelez (from La Grande Route de St. Ouen to a point 76 metres north of La Rue de la Croix)
+La Route du Marais (from La Rue de la Croute to La Route de Vinchelez)
+La Rue de la Croix
+La Rue de la Forge
+La Rue de Petit Plemont
+La Rue Militaire
+La Ville des Marettes (both roads with that name)
 ST. PETER
 Le Clos Saut Falluet (between L’Avenue de la Commune and the boundary of the parish of St. Brelade)
 La Grande Route de St. Pierre (between La Route du Manoir and 220 metres north of its junction with La Rue des Sapins)

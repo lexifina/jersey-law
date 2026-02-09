@@ -192,31 +192,55 @@ La Ruette (between La Rue de la Frontière and La Rue de Bel Air)
 La Vau Bourel
 Water Lane
 ST. OUEN
+Chemin de la Commune du Fief de Lecq
+Clos Morel (both roads with that name)
+L’Amont de la Ville Bagot
+La Cache de Neuf Tours
+Le Chemin des Guérandes
+Le Chemin des Piétons
+Le Clos de la Fosse Au Bois
+Le Clos de Mahaut
 Les Doubles Chasses (between La Rue de l’Etocquet and La Rue du Nord)
+Le Douet
 La Fosse Buesnel
-Le Mont (between La Rue des Mannaies and La Ruette)
+Le Mont
+La Néthe Rue
+La Petite Rue (both roads with that name)
+La Profonde Rue
 La Rue de la Campagne
 La Rue de la Capelle
+La Rue au Cerf
+La Rue des Cosnets
 La Rue du Couvent
 La Rue du Creux Baillot
-La Rue de la Croute
+La Rue de la Croute (from La Route de Vinchelez to La Route du Marais)
 La Rue à l’Eau
 La Rue de l’Etocquet (between La Croiserie and Les Doubles Chasses)
+La Rue Ferrière
+La Rue de la Fontaine
 La Rue de la Fosse au Bois
 La Rue des Fouothets
 La Rue Freule
 La Rue de Grantez (between La Ruette de Grantez and La Rue du Couvent)
-La Rue des Mannaies
+La Rue de Haut
+La Rue de Lecq
 La Rue des Marettes
+La Rue de Moulin
 La Rue du Nord
 La Rue des Nouettes (between La Rue de Grantez and La Rue à l’Eau)
+La Rue de la Pointe (from La Rue de la Botellerie to La Fosse Tauraude)
+La Rue de la Porte
 La Rue du Sud
+La Rue de la Ville Bagot
 La Rue de la Ville au Neveu
 La Ruette
 La Ruette de Grantez (between Le Vier Mont and La Rue de Grantez)
-Les Ruettes (between La Rue à l’Eau and La Route du Marais)
-La Verte Rue
+Les Ruettes (both roads with that name)
+La Verte Rue (between La Rue de la Croix and La Rue de la Capelle)
 Le Vier Mont
+La Ville de la Croix
+Mont Huelin
+Ruette des Mannaies
 ST. PETER
 La Grande Pièce and the unnamed residential roads that branch from it
 Les Grupieaux (from La Rue du Craslin to La Rue de la Fontaine)
