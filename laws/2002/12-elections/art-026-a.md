@@ -10,4 +10,6 @@
 (b) the photograph of the candidate provided with the nomination form; and
 (c) if the candidate is endorsed by a political party, the name of the party.
 (2) The names of the candidates included in each document prepared under this Article must be shown in the same order as on the ballot paper.
-(3) The Autorisé or Adjoint supervising a polling station must ensure that a copy of each document prepared under this Article is made available (in the booth or otherwise) to each person attending a polling station.
+(3) The Autorisé or Adjoint supervising a polling station must -
+(a) ensure that a copy of each document prepared under this Article is made available (in the booth or otherwise) to each person attending a polling station; and
+(b) take the steps that the Autorisé or Adjoint considers appropriate for making the information contained in each document accessible to all persons.

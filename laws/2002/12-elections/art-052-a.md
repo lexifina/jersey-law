@@ -7,7 +7,7 @@
 (b) the principal Autorisé must, when satisfied that they have all the ballot paper packages for all the counting stations in the constituency, add the results of the counts in the constituency.
 (3) For any election to which this Article applies, the principal Autorisé must, if any candidates or their representatives are present (in accordance with Article 49(5)) -
 (a) inform them of the number of votes recorded, for each candidate, in the count in the constituency; and
-(b) show them the spoilt ballot papers.
+(b) show them the invalid ballot papers.
 (4) For any election to which this Article applies, after the principal Autorisé has taken the steps specified in paragraph (3) at the counting station -
 (a) any person who was entitled to vote in the election in the parish is entitled to be admitted into the counting station; and
 (b) the principal Autorisé must announce -

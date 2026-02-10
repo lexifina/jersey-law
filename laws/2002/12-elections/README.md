@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260209>
+L.12/2002 · official consolidation showing the law from 2026-02-10 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260313>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,8 +9,7 @@ L.12/2002 · official consolidation showing the law from 2026-02-01 · <https://
 | Art. 1A | [art-001-a.md](art-001-a.md) | 1A Electoral districts |
 | Art. 2 | [art-002.md](art-002.md) | 2 Entitlement to vote |
 | Art. 3 | [art-003.md](art-003.md) | 3 Voting where name omitted from electoral register |
-| Art. 4 | [art-004.md](art-004.md) | 4 Disqualification of certain offenders |
-| Art. 4A | [art-004-a.md](art-004-a.md) | 4A Voting by prisoners not disqualified under Article 4 |
+| Art. 4A | [art-004-a.md](art-004-a.md) | 4A Voting by prisoners |
 | Art. 5 | [art-005.md](art-005.md) | 5 Entitlement to be registered |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Advance registration |
 | Art. 6 | [art-006.md](art-006.md) | 6 Electoral registers |
@@ -46,6 +45,7 @@ L.12/2002 · official consolidation showing the law from 2026-02-01 · <https://
 | Art. 17G | [art-017-g.md](art-017-g.md) | 17G Validation of nomination forms |
 | Art. 17H | [art-017-h.md](art-017-h.md) | 17H Announcement of candidates standing for election |
 | Art. 17I | [art-017-i.md](art-017-i.md) | 17I Extension of nomination period if more vacancies than candidates |
+| Art. 17IA | [art-017-ia.md](art-017-ia.md) | 17IA Hustings: Deputies and Connétables |
 | Art. 17IB | [art-017-ib.md](art-017-ib.md) | 17IB Hustings: Senators |
 | Art. 17J | [art-017-j.md](art-017-j.md) | 17J Application of this Part |
 | Art. 18 | [art-018.md](art-018.md) | 18 Nomination of candidates |
@@ -69,7 +69,7 @@ L.12/2002 · official consolidation showing the law from 2026-02-01 · <https://
 | Art. 34 | [art-034.md](art-034.md) | 34 Doubtful votes |
 | Art. 35 | [art-035.md](art-035.md) | 35 Measures to assist voting by certain persons who are ill, disabled etc. |
 | Art. 35A | [art-035-a.md](art-035-a.md) | 35A Voters omitted from a supplementary electoral register |
-| Art. 36 | [art-036.md](art-036.md) | 36 Spoilt ballot papers |
+| Art. 36 | [art-036.md](art-036.md) | 36 Annulled ballot papers |
 | Art. 37 | [art-037.md](art-037.md) | 37 Interpretation |
 | Art. 38 | [art-038.md](art-038.md) | 38 Entitlement to pre-poll vote or postal vote |
 | Art. 40A | [art-040-a.md](art-040-a.md) | 40A Provision of copy of register and ballot papers to Judicial Greffier |

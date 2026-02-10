@@ -12,7 +12,7 @@
 (2) A nomination form -
 (a) may include a statement by the prospective candidate that his or her home address is not to be made public, and
 (b) where a statement under paragraph (a) is included, must state an alternative address for the prospective candidate.
-(3) Where an alternative address is stated in accordance with paragraph (2), the reference in Article 17H(3)(a) to the person’s address is to be treated as a reference to the alternative address.
+(3) Where an alternative address is stated in accordance with paragraph (2), the reference in Articles 17H(3)(a) and 22(3)(c) to the person’s address is to be treated as a reference to the alternative address.
 (4) If the prospective candidate is commonly known by a forename or surname which is different to that stated in accordance with paragraph (1)(b)(i), the nomination form may (in addition) state the commonly used forename or surname.
 (5) Where an alternative name is stated in accordance with paragraph (4), references in Articles 17H(3)(a), 22(3)(c) and 24(3B)(d) to the person’s name are to be treated as references to the alternative name.
 (6) But paragraph (4) does not apply if the JEA -
