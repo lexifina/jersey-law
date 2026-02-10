@@ -1,6 +1,6 @@
 # Political Parties (Registration) (Jersey) Law 2008
 
-L.31/2008 · official consolidation showing the law from 2026-02-01 · <https://www.jerseylaw.je/laws/current/l_31_2008_20260209>
+L.31/2008 · official consolidation showing the law from 2026-02-10 · <https://www.jerseylaw.je/laws/current/l_31_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
