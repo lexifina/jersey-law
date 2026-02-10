@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Regulations 1(2) and 2)
 FORMS
 FORM 1
@@ -65,7 +65,7 @@ the name, electoral district, parish, and
 elector number, of the seconder whose
 signature it is]
 FORM 4
-(Article 24(3) of the Elections (Jersey) Law 2002)
+(Article 24(3A) of the Elections (Jersey) Law 2002)
 Ballot paper
 Counterfoil and front of ballot paper
 COUNTERFOIL
@@ -113,7 +113,7 @@ No. †
 Election for
 §
 † This number must be printed and correspond with the number printed on the counterfoil to which this ballot paper is attached.
-§ The date, name of the parish and the office to be filled shall be printed here. If the parish is divided into different electoral districts, the name of the district should be inserted below the name of the parish.
+§ The date, name of the parish and the office to be filled shall be printed here.
 FORM 5
 (Article 34(2) of the Elections (Jersey) Law 2002)
 Declaration of elector where person has already voted in elector’s name
