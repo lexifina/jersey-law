@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3(1)(c))
 INFORMATION TO BE CONTAINED IN A PROSPECTUS
 1 The constitution and objectives of the fund
