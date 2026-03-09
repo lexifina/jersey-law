@@ -44,7 +44,12 @@ Beach Road
 Both sides (except such parts of the road as are subject to a prohibition as specified in Part 1 of Schedule 3 or listed in Schedule 7)
 Fountain Lane
 Both sides (except such parts of the road as are subject to a prohibition as specified in Part 1 of Schedule 3)
+La Rue à la Dame
+West side (from a point 18 yards south of its junction with Grands Vaux for a distance of 24 yards further south)
 Le Geyt Road
-West side (from a point 10 yards south of its junction with Les Grands Vaux for a distance of 17.5 yards in a southerly direction)
+West side (from a point 10 yards south of its junction with Grands Vaux for a distance of 17.5 yards in a southerly direction)
 New York Lane
 Both sides (except such parts of the road as are subject to a prohibition as specified in Part 1 of Schedule 3)
+St. Saviour’s Hill
+West side (from a point 11 yards south of its junction with Rectory Lane for a distance of 9 yards in a southerly direction)
+West side (from a point 7 yards east of its junction with Rectory Lane for a distance of 6 yards in an easterly direction)

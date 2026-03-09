@@ -12,7 +12,7 @@ Throughout its length
 Elizabeth Street
 Between its junction with La Route du Fort and Dicq Road
 Grands Vaux
-Between Rue à la Dame and Moulin de Pol
+Between La Rue à la Dame and Moulin de Pol
 La Rue du Tapon
 Throughout its length
 Les Varines
@@ -35,7 +35,7 @@ Throughout its length
 Claremont Road
 Between Bagatelle Road and the parish boundary
 La Rue à la Dame
-From its junction with Bel Air Lane to its junction with Les Grands Vaux
+From its junction with Bel Air Lane to its junction with Grands Vaux
 Le Geyt Road
 Throughout its length
 Les Ruettes

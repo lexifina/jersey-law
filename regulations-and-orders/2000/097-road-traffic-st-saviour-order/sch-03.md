@@ -12,7 +12,7 @@ Both sides
 Bagatelle Lane
 Both sides (between Bagatelle Road to Wellington Road)
 Bagatelle Road
-Both sides (between the Five Oaks junction and the junction with Patier Road)
+Both sides (between the Five Oaks junction and the junction with La Rue de Patier)
 Both sides (between the parish boundary and the junction with Bagatelle Lane)
 North side (from the junction with La Rue de Patier for a distance of 30 yards in a southerly direction)
 Bagot Road
@@ -55,9 +55,7 @@ Both sides (between the junction with Dicq Road and the parish boundary)
 Georgetown Road
 Both sides (between the parish boundary and the junction with Aubin Lane)
 Grands Vaux
-Both sides (between the junction with Deloraine Road and the parish boundary)
-North side (from its junction with Deloraine Road for a distance of 100 yards in an easterly direction)
-North side (from a point 143 yards east of the junction with Deloraine Road for a distance of 35 yards in an easterly direction)
+Both sides (between the parish boundary and its junction with La Rue à la Dame)
 Highlands Lane
 Both sides (between the entrance to Hautlieu School and the entrance to Highlands College)
 James Road
@@ -71,23 +69,22 @@ West side
 Langley Avenue
 Both sides (from a point 160 yards north of its junction with St. Saviour’s Hill for a distance of 80 yards in a northerly direction)
 Langley Park
-Both sides (from its junction with Les Grands Vaux for a distance of 67 yards in an easterly direction)
+Both sides (from its junction with Grands Vaux for a distance of 67 yards in an easterly direction)
 South side (from the beginning of the footway at its junction with Langley Avenue for a distance of 58 yards in a westerly direction)
-South side (from a point 180 yards east of its junction with Les Grands Vaux for a distance of 50 yards in an easterly direction)
-South side (from a point 295 yards east of its junction with Les Grands Vaux for a distance of 35 yards in a north easterly direction)
+South side (from a point 180 yards east of its junction with Grands Vaux for a distance of 50 yards in an easterly direction)
+South side (from a point 295 yards east of its junction with Grands Vaux for a distance of 35 yards in a north easterly direction)
 La Route du Fort
 Both sides
 La Rue de la Croix Besnard (Croix Besnard)
 North side ((a) from its junction with Les Varines and Bagatelle Road for a distance of 31 yards in an easterly direction (b) from a point 87 yards from the same junction for a distance of 13 yards in an easterly direction and (c) from its junction with La Rue de Beauvoir for a distance of 56 yards in a westerly direction)
 South side
 La Rue à la Dame
-East side (from its junction with Les Grands Vaux for a distance of 66 yards in a southerly direction)
-West side (from its junction with Les Grands Vaux for a distance of 20 yards in a southerly direction)
-West side (from a point 42 yards from its junction with Les Grands Vaux for a distance of 21 yards in a southerly direction)
+East side (from its junction with Grands Vaux for a distance of 66 yards in a southerly direction)
+West side (from its junction with Grands Vaux for a distance of 18 yards in a southerly direction)West side (from a point 42 yards from its junction with Grands Vaux for a distance of 21 yards in a southerly direction)
 La Rue des Friquettes
 East side (from its junction with La Rue des Pigneaux for a distance of 85 yards in a southerly direction)
 Both sides (from the junction with Princes Tower Road for a distance of 57 yards in a northerly direction)
-La Rue de la Hougette
+La Rue de la Houguette
 Both sides (from its junction with La Rue des Friquettes for a distance of 129 yards in an easterly direction)
 La Rue de Patier
 North side (between the junction with La Chasse Brunette and the junction with Sunshine Avenue)
@@ -110,13 +107,14 @@ East side (from a point 63 yards south of its junction with La Rue de Patier for
 West side (from a point 62 yards south of its junction with La Rue de Patier for a distance of 17 yards in a northerly direction then turning for a distance 12 yards in a westerly direction)
 Les Vaux New Road
 Both sides (between the junction with Le Geyt Road and the parish boundary)
+Little Sunshine Avenue
+North side (from its junction with Sunshine Avenue for a distance of 34 yards in a westerly direction)
+South side (from its junction with Sunshine Avenue for a distance of 44 yards in a westerly direction)
 Longueville Road
 Both sides (between the junction with Plat Douet Road and the junction with Old Brickfield Lane)
 Maison St. Louis Estate
 West side (from the south side of its junction with Highlands Close for a distance of 8 yards in a southerly direction)
-South side (from its junction with Wellington Road for a direction of 20 yards in a westerly direction)
-South side (from a point 39 yards west of its junction with Wellington Road for a distance of 15 yards in a westerly direction)
-North side (from a point 111 yards west of its junction with Wellington Road for a distance of 15 yards in an easterly direction)
+South side (from its junction with Wellington Road for a distance of 48 yards in a westerly direction)North side (from a point 111 yards west of its junction with Wellington Road for a distance of 15 yards in an easterly direction)
 Mary Street
 Both sides
 New York Lane
@@ -139,11 +137,17 @@ Both sides (between the property known as “Les Chênes” and the property kno
 South side (between Les Parquets and La Rue du Ponterrin)
 North side (between the east side of the entrance to Chestnut Avenue and La Rue du Ponterrin)
 St. Saviour’s Hill
-Both sides (between the junction with Rue à la Dame and the junction with Sunshine Avenue)
+Both sides (between the junction with La Rue à la Dame and the junction with Sunshine Avenue)
+West side (from its junction with Rectory Lane for a distance of 11 yards in a southerly direction)
+West side (from a point 20 yards south of its junction with Rectory Lane for a distance of 10 yards in a southerly direction)
+West side (from its junction with Rectory Lane for a distance of 7 yards in an easterly direction)
+West side (from a point 13 yards east of its junction with Rectory Lane for a distance of 10 yards in an easterly direction)
 St. Saviour’s Road
 Both sides (between the junction with Springfield Road and the junction with Wellington Road)
 Stopford Road
 Both sides (between St. Saviour’s Road and the parish boundary)
+Sunshine Avenue
+Both sides (from its junction with La Rue de Patier for a distance of 22 yards in a northerly direction)
 Valley Road
 Both sides (between the parish boundary and the junction with Le Geyt Road)
 Victoria Road

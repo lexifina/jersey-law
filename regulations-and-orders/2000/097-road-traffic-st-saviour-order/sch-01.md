@@ -41,8 +41,10 @@ James Road (between Belvedere Hill and Summerville Lane)
 Belvedere Hill to Summerville Lane
 La Chasse Brunet
 La Rue de Patier to Bagatelle Road
-La Rue de la Hougette
-La Rue des Friquettes to Princes Tower Road
+La Rue à la Dame (between the Five Oaks junction and Bel Air Lane)
+Five Oaks junction to Bel Air Lane
+La Rue de la Houguette
+From a point 103 yards east of La Rue des Friquettes in an easterly direction to its junction with Princes Tower Road
 La Rue Le Masurier
 The parish boundary to Stopford Road
 Le Geyt Road (between St. Saviour’s Hill and Springfield Road)
@@ -52,13 +54,11 @@ Belvedere Hill to Georgetown Road
 Old Brickfield Lane
 Les Varines to Longueville Road
 Patier Lane
-Bon Air Lane to Patier Road
+Bon Air Lane to La Rue de Patier
 Plat Douet Road (between Rue des Prés and Bagot Road)
 Rue des Prés to Bagot Road
 Rectory Lane (between Langley Avenue and the property known as “Langley House”)
 Langley Avenue to the property known as “Langley House”
-Rue à la Dame (between the Five Oaks junction and Bel Air Lane)
-Five Oaks junction to Bel Air Lane
 Rue de Beauvoir
 Croix Besnard to Les Varines
 Rue du Pré
