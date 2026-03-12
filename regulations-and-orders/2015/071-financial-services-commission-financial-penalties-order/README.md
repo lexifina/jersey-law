@@ -1,10 +1,10 @@
 # Financial Services Commission (Financial Penalties) (Jersey) Order 2015
 
-R&O.71/2015 · official consolidation showing the law from 2022-04-29 · <https://www.jerseylaw.je/laws/current/ro_71_2015_20260311>
+R&O.71/2015 · official consolidation showing the law from 2026-03-12 · <https://www.jerseylaw.je/laws/current/ro_71_2015_20260831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 3 | [art-003.md](art-003.md) | 3 Level of penalties |
 | Art. 4 | [art-004.md](art-004.md) | 4 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
