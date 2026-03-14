@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2026-02-10 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260313>
+L.12/2002 · official consolidation showing the law from 2026-03-14 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260315>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -117,6 +117,7 @@ L.12/2002 · official consolidation showing the law from 2026-02-10 · <https://
 | Art. 70 | [art-070.md](art-070.md) | 70 Misnomer or inaccurate description |
 | Art. 71 | [art-071.md](art-071.md) | 71 Civil liability |
 | Art. 72 | [art-072.md](art-072.md) | 72 Regulations |
+| Art. 72A | [art-072-a.md](art-072-a.md) | 72A Transitional provision: electoral registers |
 | Art. 72B | [art-072-b.md](art-072-b.md) | 72B Consequential, transitional and other matters: Senators |
 | Art. 73 | [art-073.md](art-073.md) | 73 Savings and transitional provisions |
 | Art. 74 | [art-074.md](art-074.md) | 74 Citation and commencement |
