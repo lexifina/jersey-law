@@ -19,10 +19,8 @@ Emergency Powers and Planning (Jersey) Law 1990
 Article 14(4)
 Firearms (Jersey) Law 2000
 Article 49
-Food Safety (Jersey) Law 1966
-Article 41(2)
-Food Safety (Miscellaneous Provisions) (Jersey) Law 2000
-Article 5(3)
+Food (Jersey) Law 2023
+Article 27(1)
 Mental Health (Jersey) Law 2016
 Article 35
 Misuse of Drugs (Jersey) Law 1978
