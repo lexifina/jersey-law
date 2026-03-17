@@ -1,6 +1,6 @@
 # Medicines (Prescription Only) (Jersey) Order 1997
 
-R&O.9140 · official consolidation showing the law from 2025-10-20 · <https://www.jerseylaw.je/laws/current/ro_9140_20260316>
+R&O.9140 · official consolidation showing the law from 2026-03-17 · <https://www.jerseylaw.je/laws/current/ro_9140>
 
 | Provision | File | Heading |
 | --- | --- | --- |

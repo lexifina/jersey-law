@@ -21,7 +21,7 @@ Conditions
 2. All prescription only medicines.
 2.(1) The sale or supply shall be subject to the presentation of an order signed by or on behalf of any person listed in any of paragraph 2(a), (b) and (c) of column 1 of this Part of this Schedule.
 (2) The order shall specify the status of the person signing it, and the amount of the prescription only medicine required.
-(b) an authorized officer within the meaning of the Food Safety (Jersey) Law 1966; and
+(b) an authorized officer within the meaning of the Food (Jersey) Law 2023; and
 (3) The sale or supply shall be only in connection with the exercise by the person of his or her statutory functions.
 (c) a person duly authorized by the Minister under Article 96 or 97 of the Law.
 3. Persons selling or supplying prescription only medicines to any person employed or engaged in connection with a scheme for testing the quality and checking the amount of drugs and appliances supplied under the Health Insurance (Jersey) Law 1967, or under any subordinate legislation made under that law.
