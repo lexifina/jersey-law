@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 3(2), (3) and (4))
 STANDARD CONDITIONS REGULATING THE SALE, SUPPLY AND STORAGE OF PESTICIDES
 1. It shall be the duty of every employer to ensure that a person in the employer’s employment who may be required to sell, supply or store a pesticide during the course of that employment, is provided with such instruction and guidance as is necessary to enable that person to comply with the requirements of the Law, the Orders made thereunder and any Code of Practice issued by the Minister under Article 7 of the Law.

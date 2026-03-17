@@ -1,6 +1,6 @@
 # Pesticides (General Provisions) (Jersey) Order 1991
 
-R&O.8274 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_8274_20260316>
+R&O.8274 · official consolidation showing the law from 2026-03-17 · <https://www.jerseylaw.je/laws/current/ro_8274>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,6 +11,6 @@ R&O.8274 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 5 | [art-005.md](art-005.md) | 5 Seizure or disposal of pesticides |
 | Art. 6 | [art-006.md](art-006.md) | 6 Release of information to the public |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |

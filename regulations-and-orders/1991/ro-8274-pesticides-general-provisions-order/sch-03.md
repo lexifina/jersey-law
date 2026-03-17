@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Article 3(5))
 STANDARD CONDITIONS REGULATING USE OF PESTICIDES
 1. It shall be the duty of every employer to ensure that any person in his or her employment who may be required to use a pesticide during the course of that employment, is provided with such instruction and guidance as is necessary to enable that person to comply with the requirements of the Law, the Orders made thereunder and any Code of Practice issued under Article 7 of the Law.

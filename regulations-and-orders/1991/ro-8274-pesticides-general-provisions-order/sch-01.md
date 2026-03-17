@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 3(1))
 STANDARD CONDITIONS REGULATING ADVERTISEMENT OF PESTICIDES
 1. An advertisement shall relate only to such uses of a pesticide as are permitted by the approval given in relation to that pesticide.
