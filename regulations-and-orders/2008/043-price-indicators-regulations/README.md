@@ -1,6 +1,6 @@
 # Price Indicators (Jersey) Regulations 2008
 
-R&O.43/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_43_2008_20260316>
+R&O.43/2008 · official consolidation showing the law from 2026-03-17 · <https://www.jerseylaw.je/laws/current/ro_43_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
