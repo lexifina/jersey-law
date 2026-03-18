@@ -31,7 +31,7 @@ north side, from its junction with La Rue du Hocq to the eastern boundary of the
 both sides, from the western edge of Le Hocq slipway parking area to a point 57 yards in a westerly direction.
 La Grande Route de St. Clement
 (a)
-north side, from the eastern boundary of the car park of the property known as “Priory Inn” to a point 24 yards east;
+north side, between its junction with La Rue au Seigneur and a point 24 yards west;
 (b)
 north side, between La Rue du Pignon and La Rue du Presbytère;
 (ba)
@@ -60,7 +60,14 @@ south side, between its junction with Plat Douet Road and a point at the eastern
 (c)
 south side, from a point 20 yards east of its junction with Green Road to the boundary of the Parish of St. Saviour.
 La Petite Sente
-both sides, from its junction with La Grande Route de la Côte to a point 260 yards in an easterly direction.
+(a)
+both sides, from its junction with La Grande Route de la Côte to a point 48 yards in an easterly direction;
+(b)
+north side, from a point 110 yards east of its junction with La Grande Route de la Côte to a point 8 yards further east;
+(c)
+north side, from a point 178 yards east of its junction with La Grande Route de la Côte to a point 8 yards further east;
+(d)
+north side, from a point 249 yards east of its junction with La Grande Route de la Côte to a point 8 yards further east.
 La Rue au Blancq
 both sides, from its junction with La Grande Route de St. Clement for a distance of 140 yards in a northerly direction.
 La Rue au Seigneur
@@ -102,7 +109,9 @@ La Rue du Pontlietaut
 (a)
 east side, from its junction with La Rue de la Chapelle to a point 45 yards further north;
 (b)
-east side, from its northern junction with Le Clos du Rosiers to a point 44 yards further north.
+east side, from a point 63 yards north of La Rue de la Chapelle to its junction with La Grande Route de St. Clement;
+(c)
+west side, from its junction with La Rue de la Croix to its junction with La Grande Route de St. Clement.
 La Rue du Presbytère
 both sides, between its junction with La Grande Route de St. Clement and the northern boundary of the property known as “No. 8 Rectory Close”.
 La Rue Hamel
