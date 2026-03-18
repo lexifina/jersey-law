@@ -26,7 +26,7 @@ The maximum parking period in respect of the following parking places is 3 hours
 St. Brelade
 STB19, STB26
 St. Helier
-STHA2, STH15, STH20A, STH21, STH24, STH25
+STHA2, STH15, STH20A, STH24, STH25
 PART 4
 The maximum parking period in respect of the following parking places is a total period of 12 hours in any continuous period of 24 hours.
 Grouville
@@ -36,7 +36,7 @@ STB2, STB3, STB3B, STB5, STB5A, STB6, STB7, STB8, STB9, STB11, STB15, STB20, STB
 St. Clement
 STC1, STC2, STC3, STC4, STC5
 St. Helier
-STHA3, STH26, STH26A
+STHA3, STH21, STH26, STH26A
 St. John
 SJ1
 St. Lawrence
