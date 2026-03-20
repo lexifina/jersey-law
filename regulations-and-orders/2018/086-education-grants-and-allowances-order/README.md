@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20260319>
+R&O.86/2018 · official consolidation showing the law from 2026-03-20 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20260616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -12,7 +12,6 @@ R&O.86/2018 · official consolidation showing the law from 2025-11-24 · <https:
 | Art. 5 | [art-005.md](art-005.md) | 5 Meaning of relevant income of dependent student living with “relevant person” |
 | Art. 6 | [art-006.md](art-006.md) | 6 Meaning of relevant income of independent student |
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Meaning of relevant income of certain dependent students living with a single parent |
-| Art. 6B | [art-006-b.md](art-006-b.md) | 6B Status of examples |
 | Art. 7 | [art-007.md](art-007.md) | 7 General rules for eligibility |
 | Art. 8 | [art-008.md](art-008.md) | 8 Eligibility for higher education grant |
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Exception to non-eligibility for a grant in respect of certain courses |
@@ -22,15 +21,16 @@ R&O.86/2018 · official consolidation showing the law from 2025-11-24 · <https:
 | Art. 12 | [art-012.md](art-012.md) | 12 Interpretation |
 | Art. 12A | [art-012-a.md](art-012-a.md) | 12A Relevant assets exceeding £500,000 |
 | Art. 13 | [art-013.md](art-013.md) | 13 Tuition fees grant |
-| Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA 2025 academic year: maximum maintenance grant if relevant income is less than £52,600 |
-| Art. 13CA | [art-013-ca.md](art-013-ca.md) | 13CA 2025 academic year: maintenance grant if relevant income is £52,600 or more, but less than £94,680 |
+| Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA Maximum maintenance grant if relevant income is less than £52,600 |
+| Art. 13CA | [art-013-ca.md](art-013-ca.md) | 13CA Maintenance grant if relevant income is £52,600 or more, but less than £94,680 |
 | Art. 13CB | [art-013-cb.md](art-013-cb.md) | 13CB Student detained in prison not entitled to maintenance grant |
 | Art. 13D | [art-013-d.md](art-013-d.md) | 13D London component increase |
 | Art. 14 | [art-014.md](art-014.md) | 14 Clinical courses |
 | Art. 15 | [art-015.md](art-015.md) | 15 Clinical component grant |
+| Art. 15A | [art-015-a.md](art-015-a.md) | 15A Clinical component grant - optional placements |
 | Art. 16 | [art-016.md](art-016.md) | 16 Arts foundation courses |
 | Art. 19 | [art-019.md](art-019.md) | 19 Reduction of grant to take account of child allowance |
-| Art. 20 | [art-020.md](art-020.md) | 20 Reduction of grant in respect of 4-year courses |
+| Art. 20 | [art-020.md](art-020.md) | 20 Reduction of grant for certain longer courses |
 | Art. 20A | [art-020-a.md](art-020-a.md) | 20A Reduced maintenance grant in respect of part-time courses |
 | Art. 21 | [art-021.md](art-021.md) | 21 Skills bursary allowance |
 | Art. 22 | [art-022.md](art-022.md) | 22 Interview attendance allowance |

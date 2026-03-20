@@ -85,9 +85,9 @@ E
 (c) consider the outcome of an assessment or rating applied to the institution by the appropriate body designated for that purpose in the British Islands.
 8 Distance learning course tuition fees grant
 (1) For the 2025 academic year, and subsequent academic years, the amount of tuition fees grant that may be awarded to a student undertaking a full-time distance learning course is the lower of -
-(a) the amount that may be awarded to a student in accordance with their relevant income; and
+(a) the amount that may be awarded to a student in accordance with their relevant income (their “full-time tuition fees grant entitlement”); and
 (b) the actual tuition fee applicable to the course for that academic year.
-(2) The amount of tuition fees grant that may be awarded to a student undertaking a full-time distance learning course, in accordance with their relevant income, (their “full-time tuition fees grant entitlement”) is as follows -
+(2) For the 2025 academic year, a student’s full-time tuition fees grant entitlement is as follows -
 Student’s relevant income (£)
 Full-time tuition fees grant entitlement (£)
 Less than 115,720
@@ -112,6 +112,33 @@ Less than 115,720
 954
 210,400 or more
 0
+(2A) Paragraph (2) and this paragraph are deleted on 1 September 2026.
+(2B) For the 2026 academic year, a student’s full-time tuition fees grant entitlement is as follows -
+Student’s relevant income (£)
+Full-time tuition fees grant entitlement (£)
+Less than 115,720
+9,790
+115,720 or more but less than 126,240
+8,815
+126,240 or more but less than 136,760
+7,835
+136,760 or more but less than 147,280
+6,855
+147,280 or more but less than 157,800
+5,875
+157,800 or more but less than 168,320
+4,895
+168,320 or more but less than 178,840
+3,915
+178,840 or more but less than 189,360
+2,935
+189,360 or more but less than 199,880
+1,955
+199,880 or more but less than 210,400
+975
+210,400 or more
+0
+(2C) Paragraph (2B) and this paragraph are deleted on 1 September 2027.
 (3) For the 2025 academic year, and subsequent academic years, the amount of tuition fees grant that may be awarded to a student undertaking a part-time distance learning course (“part-time tuition fees grant”) is determined according to the intensity of the course, based on the number of credits awarded for the course in that academic year, by calculating the following in order -
 (a) the full-time equivalent number of credits for each academic year of a course (“credits per academic year”) is determined as follows -
 Credits per academic year =
@@ -123,17 +150,20 @@ credits to be earned by the student in academic year
 credits per academic year
 (c) the part-time tuition fees grant is determined as follows -
 Part-time tuition fees grant = full-time tuition fees grant entitlement x course intensity
-(4) For example, a student has a relevant income of £95,000 and is undertaking a part-time distance learning course. The full-time course has a duration of 3 years and awards a total of 360 credits. During the academic year, the student will study 3 modules that award a total of 60 credits. Their part-time tuition fees grant would be determined as follows -
+(4)
 (5) The Minister may determine the intensity of a distance learning course by an alternative method if a course does not attract credits.
 (6) If the Minister is unable to reasonably determine the intensity of a course, the Minister may refuse to award a tuition fees grant in respect of that course.
 9 Distance learning course maximum maintenance grant if relevant income is less than £52,600
-(1) For the 2025 academic year and for subsequent academic years, a student who is undertaking a full-time distance learning course and whose relevant income is less than £52,600 may be awarded the full-time maximum maintenance grant specified in the following table -
+(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is less than £52,600 may be awarded, for that academic year, the full-time maximum maintenance grant specified in the following table -
 Student category
-Full-time maximum maintenance grant (£)
+Full-time maximum maintenance grant for 2025 academic year (£)
+Full-time maximum maintenance grant for 2026 academic year (£)
 D
 8,540
+8,831
 E
 9,138
+9,449
 (2) The amount of maximum maintenance grant that may be awarded to a student undertaking a part-time distance learning course (“part-time maximum maintenance grant”) is determined according to the intensity of the course, based on the number of credits awarded for the course in that academic year, by calculating the following in order -
 (a) the full-time equivalent number of credits for each academic year of a course (“credits per academic year”) is determined as follows -
 Credits per academic year =
@@ -146,23 +176,26 @@ credits per academic year
 (c) the part-time maximum maintenance grant is determined as follows -
 Part-time maximum maintenance grant =
 full-time maximum maintenance grant entitlement x course intensity
-(3) For example, a dependent student (category D) has a relevant income of £50,000 and is undertaking a part-time distance learning course. The full-time course has a duration of 3 years and awards a total of 360 credits. During the academic year, the student will study 3 modules that award a total of 60 credits. Their part-time maximum maintenance grant would be determined as follows -
+(3)
 (4) The Minister may determine the intensity of a distance learning course by an alternative method if a course does not attract credits.
 (5) If the Minister is unable to reasonably determine the intensity of a course, the Minister may refuse to award a maintenance grant in respect of that course.
 10 Distance learning course maintenance grant if relevant income is £52,600 or more, but less than £94,680
-(1) For the 2025 academic year and for subsequent academic years, a student who is undertaking a full-time distance learning course and whose relevant income is £94,679.99 may be awarded the full-time minimum maintenance grant specified in the following table -
+(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is £94,679.99 may be awarded, for that academic year, the full-time minimum maintenance grant specified in the following table -
 Student category
-Full-time minimum maintenance grant (£)
+Full-time minimum maintenance grant for 2025 academic year (£)
+Full-time minimum maintenance grant for 2026 academic year (£)
 D
 1,709
+1,768
 E
 1,829
+1,892
 (2) For the 2025 academic year and for subsequent academic years, a student who is undertaking a full-time distance learning course and whose relevant income is £52,600 or more, but less than £94,679.99, may be awarded a full-time maintenance grant (“MG”) of an amount calculated using the following formula -
 (3) In the formula -
 “MAG” means the maximum full-time maintenance grant that would be awardable if paragraph 9 applied to the student instead of sub-paragraph (2);
 “MIG” means the minimum full-time maintenance grant that would be awardable if sub-paragraph (1) applied to the student instead of sub-paragraph (2);
 “Z” means the student’s relevant income.
-(4) For example, the full-time maintenance grant (“MG”) awarded to an independent student (category E) who is undertaking a full-time distance learning course, and who has a relevant income of £65,000, would be calculated as follows -
+(4)
 (5) For the 2025 academic year and for subsequent academic years, the amount of maintenance grant that may be awarded to a student undertaking a part-time distance learning course (“part-time maintenance grant”) is determined according to the intensity of the course, based on the number of credits awarded for the course in that academic year, by calculating the following in order -
 (a) the full-time equivalent number of credits for each academic year of a course (“credits per academic year”) is determined as follows -
 Credits per academic year =
@@ -175,6 +208,6 @@ credits per academic year
 (c) the part-time maintenance grant is determined as follows -
 Part-time maximum maintenance grant =
 full-time maintenance grant entitlement x course intensity
-(6) For example, an independent student (category E) has a relevant income of £65,000 and is undertaking a part-time distance learning course. The full-time course has a duration of 3 years and awards a total of 360 credits. During the academic year, the student will study 3 modules that award a total of 60 credits. Their part-time maximum maintenance grant would be determined as follows -
+(6)
 (7) The Minister may determine the intensity of a distance learning course by an alternative method if a course does not attract credits.
 (8) If the Minister is unable to reasonably determine the intensity of a course, the Minister may refuse to award a maintenance grant in respect of that course.
