@@ -6,10 +6,7 @@ shall not affect the validity of the trust nor delay the trust taking effect and
 (2) The powers are -
 (a) to revoke, vary or amend the terms of a trust or any trusts or powers arising wholly or partly under it;
 (b) to advance, appoint, pay or apply income or capital of the trust property or to give directions for the making of such advancement, appointment, payment or application;
-(c) to act as, or give directions as to the appointment or removal of -
-(i) an officer of any corporation, or
-(ii) an officer of a limited liability partnership, separate limited partnership or any other partnership having separate legal personality,
-in which the trust holds an interest whether or not such interest in the corporation or partnership is wholly, partly, directly or indirectly held by the trust;
+(c) to act as, or give directions as to the appointment or removal of, an officer of any corporation in which the trust holds an interest, whether or not the interest is wholly, partly, directly or indirectly held by the trust;
 (d) to give directions to the trustee in connection with the purchase, retention, sale, management, lending, pledging or charging of the trust property or the exercise of any powers or rights arising from such property;
 (e) to appoint or remove any trustee, enforcer or beneficiary, or any other person who holds a power, discretion or right, or who acts in connection with the trust or in relation to trust property;
 (f) to appoint or remove an investment manager or investment adviser;
