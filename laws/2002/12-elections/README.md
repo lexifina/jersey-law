@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2026-03-16 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260319>
+L.12/2002 · official consolidation showing the law from 2026-03-20 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260323>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ L.12/2002 · official consolidation showing the law from 2026-03-16 · <https://
 | Art. 36 | [art-036.md](art-036.md) | 36 Annulled ballot papers |
 | Art. 37 | [art-037.md](art-037.md) | 37 Interpretation |
 | Art. 38 | [art-038.md](art-038.md) | 38 Entitlement to pre-poll vote or postal vote |
-| Art. 40A | [art-040-a.md](art-040-a.md) | 40A Provision of copy of register and ballot papers to Judicial Greffier |
+| Art. 40A | [art-040-a.md](art-040-a.md) | 40A Provision of copy of register to Judicial Greffier |
 | Art. 40B | [art-040-b.md](art-040-b.md) | 40B Pre-poll voting: facilities and arrangements |
 | Art. 40C | [art-040-c.md](art-040-c.md) | 40C Pre-poll voting locations treated as polling stations for certain purposes |
 | Art. 42 | [art-042.md](art-042.md) | 42 Procedure for pre-poll voting |
