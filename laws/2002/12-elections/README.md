@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2026-03-20 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260323>
+L.12/2002 · official consolidation showing the law from 2026-03-24 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260606>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,17 +11,29 @@ L.12/2002 · official consolidation showing the law from 2026-03-20 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Voting where name omitted from electoral register |
 | Art. 4A | [art-004-a.md](art-004-a.md) | 4A Voting by prisoners |
 | Art. 5 | [art-005.md](art-005.md) | 5 Entitlement to be registered |
-| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Advance registration |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Advance registration: general provision |
+| Art. 5B | [art-005-b.md](art-005-b.md) | 5B Advance registration: age grounds |
+| Art. 5C | [art-005-c.md](art-005-c.md) | 5C Advance registration: residency grounds |
+| Art. 5D | [art-005-d.md](art-005-d.md) | 5D Advance registration: age and residency grounds |
+| Art. 5E | [art-005-e.md](art-005-e.md) | 5E Chief Minister to supply lists of registrable persons |
+| Art. 5F | [art-005-f.md](art-005-f.md) | 5F Disclosure and use of information |
 | Art. 6 | [art-006.md](art-006.md) | 6 Electoral registers |
-| Art. 7 | [art-007.md](art-007.md) | 7 Addition and keeping of name on the electoral register |
-| Art. 7A | [art-007-a.md](art-007-a.md) | 7A Notice of registered voters |
-| Art. 8 | [art-008.md](art-008.md) | 8 Exclusion or removal of name from electoral register |
-| Art. 9 | [art-009.md](art-009.md) | 9 Application for name to be omitted from register |
-| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Senators, Deputies and Connétables |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Application for inclusion in electoral register |
+| Art. 6B | [art-006-b.md](art-006-b.md) | 6B Determination of application for inclusion in electoral register |
+| Art. 6C | [art-006-c.md](art-006-c.md) | 6C Removal of name: omission from Article 5E list |
+| Art. 6D | [art-006-d.md](art-006-d.md) | 6D Removal of name: death or leaving electoral district |
+| Art. 6E | [art-006-e.md](art-006-e.md) | 6E Confirmation of inclusion on electoral register |
+| Art. 9A | [art-009-a.md](art-009-a.md) | 9A Supplementary electoral registers for elections of Deputies and Connétables |
+| Art. 9B | [art-009-b.md](art-009-b.md) | 9B Supplementary electoral registers: content |
 | Art. 10 | [art-010.md](art-010.md) | 10 Appeals |
-| Art. 11 | [art-011.md](art-011.md) | 11 Electoral register to be available |
-| Art. 12 | [art-012.md](art-012.md) | 12 Electoral register in force for an election |
-| Art. 13 | [art-013.md](art-013.md) | 13 Regulations may amend times in this Part |
+| Art. 12 | [art-012.md](art-012.md) | 12 Electoral register in force for election |
+| Art. 12A | [art-012-a.md](art-012-a.md) | 12A Candidates’ primary and supplementary lists of voters: definitions |
+| Art. 12B | [art-012-b.md](art-012-b.md) | 12B Preparation and provision of candidates’ lists of voters |
+| Art. 12C | [art-012-c.md](art-012-c.md) | 12C Candidates’ lists of voters: opt-out notices |
+| Art. 12D | [art-012-d.md](art-012-d.md) | 12D Electoral administrators required to notify previous opt-outs |
+| Art. 12E | [art-012-e.md](art-012-e.md) | 12E Further provision about notices under Articles 12C and 12D |
+| Art. 12F | [art-012-f.md](art-012-f.md) | 12F Candidates’ lists of voters: opt-out, revocation and cancellation notices given close to an election |
+| Art. 13 | [art-013.md](art-013.md) | 13 Regulations amending this Part |
 | Art. 13A | [art-013-a.md](art-013-a.md) | 13A Establishment of Jersey Electoral Authority |
 | Art. 13B | [art-013-b.md](art-013-b.md) | 13B Reports on election |
 | Art. 13BA | [art-013-ba.md](art-013-ba.md) | 13BA 2026 elections (transitional): reports on elections for Senators and Deputies |
@@ -68,7 +80,6 @@ L.12/2002 · official consolidation showing the law from 2026-03-20 · <https://
 | Art. 33 | [art-033.md](art-033.md) | 33 Voting |
 | Art. 34 | [art-034.md](art-034.md) | 34 Doubtful votes |
 | Art. 35 | [art-035.md](art-035.md) | 35 Measures to assist voting by certain persons who are ill, disabled etc. |
-| Art. 35A | [art-035-a.md](art-035-a.md) | 35A Voters omitted from a supplementary electoral register |
 | Art. 36 | [art-036.md](art-036.md) | 36 Annulled ballot papers |
 | Art. 37 | [art-037.md](art-037.md) | 37 Interpretation |
 | Art. 38 | [art-038.md](art-038.md) | 38 Entitlement to pre-poll vote or postal vote |
@@ -83,7 +94,6 @@ L.12/2002 · official consolidation showing the law from 2026-03-20 · <https://
 | Art. 46 | [art-046.md](art-046.md) | 46 Duty of Judicial Greffier to forward votes to Autorisé before poll closes |
 | Art. 46A | [art-046-a.md](art-046-a.md) | 46A Duties of Autorisé on receipt of pre-poll and postal votes |
 | Art. 46B | [art-046-b.md](art-046-b.md) | 46B Name accidentally omitted from electoral register |
-| Art. 46C | [art-046-c.md](art-046-c.md) | 46C Formalities where person’s name is omitted from electoral register under Article 9 |
 | Art. 46D | [art-046-d.md](art-046-d.md) | 46D Candidate or representative not to interfere with application to postal vote |
 | Art. 47 | [art-047.md](art-047.md) | 47 Designation of counting stations |
 | Art. 47A | [art-047-a.md](art-047-a.md) | 47A Supervision of polling station after close of poll |

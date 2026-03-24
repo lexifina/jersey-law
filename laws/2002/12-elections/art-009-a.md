@@ -1,14 +1,15 @@
-# 9A Supplementary electoral registers for elections of Senators, Deputies and Connétables
-(1) Where the Royal Court has made an order for the holding of one or more elections for one or more Senators, Deputies or Connétables on one day in an electoral district, the electoral administrator for the parish which is, or part of which is, the electoral district shall also prepare and maintain a supplementary electoral register for the electoral district, in accordance with this Article.
-(2) Paragraphs (2) to (4) of Article 6 shall apply to a supplementary electoral register as they apply to an electoral register.
-(3) A supplementary register shall have effect and be used only for the purposes of the election or elections ordered by the Royal Court as mentioned in paragraph (1).
-(4) Where, during the late registration period, an electoral administrator for a parish is required by Article 5A to include the name of a person on the electoral register for an electoral district, the electoral administrator shall also include the person’s name in the supplementary electoral register for that district if the date entered in the electoral register for the person under Article 5A(6) is on or before the day of the poll.
-(5) Where, during the late registration period, an electoral administrator for a parish is required by Article 7(1) to include the name of a person on the electoral register for an electoral district, the electoral administrator shall also include the person’s name in the supplementary electoral register if that person’s name is not included in an electoral register for any other electoral district that is an electoral district in relation to an election of a Senator, Deputy or Connétable.
-(6) For the purposes of this Article, the late registration period -
-(a) begins at the time when the electoral register for the public election or elections becomes, in accordance with Article 12(1) or (1A), the electoral register in force for the election or elections; and
-(b) ends at midday on the seventh day before the day of the poll or polls.
-(7) For the purposes of the election or elections ordered by the Royal Court as mentioned in paragraph (1), the supplementary electoral register for the electoral district is the supplementary register as in force at the end of the late registration period.
-(8) If the name of a person is to be included in a supplementary register but, under Article 9, the person’s name has been omitted from the electoral register -
-(a) the person’s electoral number shall be entered in the supplementary electoral register against an entry signifying that the number is for a person whose name and address have been omitted from the electoral register under Article 9;
-(b) the number and entry shall be arranged in the register in a list that is separate from the list required by Article 6(2), as it is applied by paragraph (2) of this Article.
-(9) The electoral administrator for a parish shall cause a copy of a supplementary electoral register in force for an election to be available, free of charge, to candidates in the election.
+# 9A Supplementary electoral registers for elections of Deputies and Connétables
+(1) This Article applies if the Royal Court has made an order for the holding of -
+(a) an election for the office of Senator;
+(b) an election for the office of Deputy or Connétable for a constituency.
+(1A) If the order relates to an election for the office of Senator, the electoral administrator for each parish must prepare and maintain, in electronic form, a supplementary electoral register for each relevant electoral district that is, or is within, the parish.
+(2) If the order relates to an election for the office of Deputy or Connétable for a constituency, an electoral administrator for the constituency must prepare and maintain, in electronic form, a supplementary electoral register for each relevant electoral district that is, or is within, the constituency.
+(3) A supplementary register has effect only for the purposes of -
+(a) the election to which the order mentioned in paragraph (1) relates; or
+(b) if the order relates to more than 1 election to be held on the same day, each of those elections.
+(4) For the purposes of each election mentioned in Article 9A(1), the supplementary electoral register in force for an electoral district is that register as it stands at the end of the late registration period.
+(5) For the purposes of this Article and Article 9B, the late registration period -
+(a) begins at the time when the electoral register for the public election or elections becomes, in accordance with Article 12(1) or (3), the electoral register in force for the election or elections; and
+(b) ends at midday on the seventh working day before the day of the poll or polls.
+(6) In paragraphs (1A) and (2), “relevant electoral district”, in relation to an electoral administrator for a parish, means an electoral district that is, or is within, the parish.
+(7) In paragraph (2), the reference to an electoral administrator for a constituency is a reference to an electoral administrator for a parish that alone, with other parishes, or in part, comprises the constituency.

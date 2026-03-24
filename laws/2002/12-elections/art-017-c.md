@@ -12,7 +12,4 @@
 (a) must begin not more than 7 days after the day on which the order for the holding of the election is made under Article 17; and
 (b) must be a period of at least 2 working days.
 (5) A person who is nominated as a candidate for a public election cannot be nominated as a candidate for an election for any other constituency, or for any other office, where the poll for that election is held on the same day.
-(6) In this Article, “working day” means any day other than -
-(a) a Saturday or Sunday;
-(b) Christmas Day or Good Friday; or
-(c) a day that is observed as a public holiday or a bank holiday under the Public Holidays and Bank Holidays (Jersey) Law 1951.
+(6)

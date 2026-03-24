@@ -5,4 +5,4 @@
 (4) Where the Autorisé (or Adjoint) permits the elector to vote in accordance with this Article, the Autorisé (or Adjoint) shall -
 (a) if only one poll for a public election is being taken, mark off the name of the person on a copy of the electoral register;
 (b) if more than one poll for a public election is being taken mark, against the name of the person on a copy of the electoral register, the public election in which the Autorisé (or Adjoint) has permitted the elector to vote.
-(5) This Article does not apply in the case of an elector whose name is omitted from the register under Article 9.
+(5)
