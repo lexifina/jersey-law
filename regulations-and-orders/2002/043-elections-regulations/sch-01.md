@@ -12,37 +12,6 @@ Signed in my presence this……………..day of…………………… 20....
 Autorisé/Adjoint
 FORM 1A
 FORM 2
-(Articles 5A(8) and 7(4)(c) of the Elections (Jersey) Law 2002)
-Application for inclusion of name on the Electoral Register
-I apply for inclusion of my name on the Electoral Register for the electoral district in which I live.
-Surname
-Forenames in full
-Title
-Maiden Name if any
-I am ordinarily resident at:
-Address
-Parish
-Post Code
-Telephone
-E-mail
-I am, or within the next 3 months I will be, at least 16 years old:
-Date of birth in number format e.g. 09/05/1945 for 9 May 1945
-DD / MM / YYYY
-I have been, or within the next 3 months I will have been, ordinarily resident in Jersey for the required period:
-On DD / MM / YYYY [INSERT DATE]* I have been, or will have been, ordinarily resident in Jersey for -
-A**
-a period of at least 2 years up to and including that date OR
-B**
-a period of at least 6 months up to and including that date AND at any time, an additional period or periods of 5 years in total.
-*
-If, on the day you sign this form, you have completed the period of ordinary residence in Jersey described in A, or the periods described in B, enter the date you sign this form.
-If you will only have completed the period of ordinary residence in Jersey described in A, or the periods described in B, by a date within the next 3 months, enter that date.
-**
-Circle whichever of A or B applies to you. If both apply, you need only circle A.
-Occupation (optional - this information is not required for the Electoral Register but it can help to exclude some persons from jury service)
-I declare that the information given in this application about me is true.
-Signature
-Date when signed
 FORM 3
 (Article 20(4) of the Elections (Jersey) Law 2002)
 Nomination document

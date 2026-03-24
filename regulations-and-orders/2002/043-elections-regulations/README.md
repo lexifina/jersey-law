@@ -1,6 +1,6 @@
 # Elections (Jersey) Regulations 2002
 
-R&O.43/2002 · official consolidation showing the law from 2026-02-10 · <https://www.jerseylaw.je/laws/current/ro_43_2002_20260323>
+R&O.43/2002 · official consolidation showing the law from 2026-03-24 · <https://www.jerseylaw.je/laws/current/ro_43_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
