@@ -1,0 +1,1 @@
+A LAW to provide for the holding of referendums, for the establishment of a commission to advise on referendum questions and designate lead campaign groups, for the control of referendum expenses, and for related purposes
