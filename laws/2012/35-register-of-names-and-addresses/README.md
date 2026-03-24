@@ -1,6 +1,6 @@
 # Register of Names and Addresses (Jersey) Law 2012
 
-L.35/2012 · official consolidation showing the law from 2023-12-29 · <https://www.jerseylaw.je/laws/current/l_35_2012_20260323>
+L.35/2012 · official consolidation showing the law from 2026-03-24 · <https://www.jerseylaw.je/laws/current/l_35_2012_20260416>
 
 | Provision | File | Heading |
 | --- | --- | --- |
