@@ -8,7 +8,7 @@
 (2) A vehicle shall not be parked in the designated area unless -
 (a) the vehicle is an electric vehicle; and
 (b) there is displayed in the front window of the vehicle a valid permit issued by an issuing body under paragraph (3).
-(3) An issuing body may issue a permit to a car club upon payment of a fee of £844.60 for each permit.
+(3) An issuing body may issue a permit to a car club upon payment of a fee of £886.83 for each permit.
 (4) Subject to paragraph (5), an issuing body may issue to a car club as many permits authorising the parking of electric vehicles in the designated area as there are parking spaces in that area.
 (5) An issuing body must not issue a permit to a car club if the number of permits in force would as a result exceed the number of parking spaces in the designated area.
 (6) A permit issued under paragraph (3) expires on whichever of the following occurs first -
@@ -18,3 +18,4 @@
 (8) Where paragraph (7) applies, a permit holder must immediately return as many permits as are automatically revoked to whichever body issued them.
 (9) If a permit is in force for less than 12 months, the body that issued the permit must pay to the permit holder a refund of an amount calculated pro rata for the fee paid for the permit for each day that the permit is not in force.
 (10) A permit must be in the form that the Connétable and Minister agree.
+(11) The fee prescribed by this Article is inclusive of GST charged under the Goods and Services Tax (Jersey) Law 2007.

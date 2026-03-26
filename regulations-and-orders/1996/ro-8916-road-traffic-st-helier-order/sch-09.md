@@ -24,6 +24,9 @@ St. John’s Road, between its junction with West Park Avenue and a point 71 yar
 St. Mary’s Court
 West Park Avenue
 Westmount Road, between its junction with St. Aubin’s Road and a point 64 yards north-west of that junction
+Roads and parts of roads within Old Trinity Hill Zone
+Old Trinity Hill
+Trinity Road, between its junction with Trinity Hill and its junction with Les Vaux New Road
 ROADS and PARTS OF ROADS WITHIN richmond road ZONE
 La Pouquelaye, between its northern and southern junctions with Richmond Road
 Richmond Road
@@ -154,6 +157,8 @@ South side (from the southern boundary of No. 9 to a point 12 yards further sout
 Old St. John’s Road
 East side (between the northern boundary of No. 20 and a point 18 yards south)
 West side (from the north-east corner of the boundary of West Mount Park to a point 23 yards southwards)
+Old Trinity Hill
+West side (from a point 26 yards north of its junction with Les Vaux New Road to a point 48 yards further north)
 Oxford Road
 East side (between its junction with Stopford Road and a point 5 yards north of the northern boundary of No. 61)
 East side (between the northern boundary of No. 23 and the northern boundary of No. 53)
@@ -224,8 +229,6 @@ North side (between Clearview Street and a point 2 yards west of the eastern bou
 Parade, The
 (western arm)
 West side (between a point 123 yards north of the northern boundary of the Town Hall and a point 11 yards further north)
-Val Plaisant
-West side (between a point 12 yards north of the southern boundary of “Jersey Monument” and the southern boundary of No. 1)
 Victoria Street
 South side (between a point 124 yards west of David Place and a point 28 yards further west)
 PART 5
@@ -241,6 +244,11 @@ South side (between Lewis Lane and a point 12 yards west)
 PART 6
 (Article 29A(e))
 zone PARKING PLACES RESERVED FOR PERMIT HOLDERS BETWEEN 10 p.m. on one day and 9 a.m. on the following day
+Kensington Place
+North side (between a point 31 yards west of the eastern boundary of Central Apartments and a point 10 yards further west)
+South side (between a point 21 yards west of its junction with Kensington Street and a point 25 yards further west)
+Old Trinity Hill
+West side (between a point 14 yards north of Les Vaux New Road and a point 12 yards further north)
 Pomona Road
 East side (between a point 6 yards north of Pomona Lane and a point 5 yards further north)
 Part 7

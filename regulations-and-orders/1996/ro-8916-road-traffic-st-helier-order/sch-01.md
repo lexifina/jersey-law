@@ -132,7 +132,8 @@ Grove Street to Don Street
 Duhamel Street
 New Street to Duhamel Place
 Dumaresq Street
-Charing Cross to Le Geyt Street
+Hue Street (southern junction) to Charing Cross
+Hue Street (southern junction) to Le Geyt Street
 Elizabeth Lane
 Cheapside to Parade Road
 Esplanade (between Weighbridge Place and Conway Street)
@@ -377,6 +378,8 @@ St. Aubin’s Road (between a point 37 yards west of Peirson Road and Peirson Ro
 From a point 37 yards west of Peirson Road to Peirson Road
 St. Clement’s Road (between La Route du Fort and Colomberie)
 La Route du Fort to Colomberie
+St. John’s Road (between Parade Road and West Park Avenue)
+Parade Road to West Park Avenue
 St. Mark’s Lane
 St. Mark’s Road to Stopford Road
 St. Mark’s Road (between David Place and Janvrin Road)
@@ -450,6 +453,8 @@ Pedal cycles
 Oxford Road (between the entrance to Springfield Stadium and Stopford Road)
 Pedal cycles
 Oxford Road (between L’Avenue et Dolmen du Pré des Lumières and Stopford Road)
+Pedal cycles
+Stopford Road (between Byron Road and Chevalier Road)
 Pedal cycles
 York Street (between Charing Cross and the Parade)
 Pedal cycles

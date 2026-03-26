@@ -71,6 +71,8 @@ La Ruelle de Rauvet
 The entire road
 La Ruelle Vaucluse
 The entire road
+Lewis Street
+The entire road
 Old Trinity Hill
 The entire road
 Parade Road

@@ -14,8 +14,8 @@ West side (between a point 163 yards south of the north-eastern corner of the Ol
 Don Street
 East side (between a point 18 yards north of Burrard Street and a point 14 yards further north)
 Esplanade
-North side (between a point 34 yards east of Castle Street and a point 16 yards further east)
-North side (between a point 173 yards east of Castle Street and a point 17 yards further east)
+North side (between a point 53 yards east of its junction with Castle Street and a point 12 yards further east)
+North side (between a point 119 yards east of its junction with Castle Street and a point 11 yards further east)
 Gloucester Street
 South side (between a point 30 yards east of The Parade and a point 35 yards further east)
 Great Union Road

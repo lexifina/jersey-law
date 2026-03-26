@@ -55,7 +55,7 @@ Belmont Road
 Both sides
 Beresford Street
 North side
-South side (between Bath Street and a point 30 yards west)
+South side (between Bath Street and a point 8 yards west)
 Bond Street
 Both sides
 Brighton Lane
@@ -243,13 +243,16 @@ Elizabeth Place
 Both sides
 Esplanade
 North side (between Gloucester Street and Victoria Avenue)
-North side (between La Route de la Liberation and a point 14 yards east of the eastern boundary of Marina Court)
-North side (between Payn Street and Castle Street)
-North side (between its junction with Castle Street and a point 36 yards east)
-North side (between a point 61 yards east of its junction with Castle Street and a point 17 yards further east)
-North side (between a point 134 yards east of its junction with Castle Street and a point 54 yards further east)
-North side (between a point 19 yards west of Conway Street and Weighbridge Place)
-South side
+North side (between La Route de la Liberation and a point 67 yards east)
+North side (between a point 162 yards east of its junction with La Route de la Liberation and Castle Street)
+North side (between its junction with Castle Street and a point 37 yards east)
+North side (between a point 50 yards east of its junction with Castle Street and a point 3 yards further east)
+North side (between a point 65 yards east of its junction with Castle Street and a point 25 yards further east)
+North side (between a point 104 yards east of its junction with Castle Street and a point 2 yards further east)
+North side (between a point 130 yards east of its junction with Castle Street and a point 2 yards further east)
+North side (between a point 143 yards east of its junction with Castle Street and Weighbridge Place)
+South side (between Weighbridge Place and a point 54 yards west of its junction with Castle Street)
+South side (between a point 71 yards west of its junction with Castle Street and La Route de la Liberation)
 Farley’s Lane
 Both sides
 Francis Street
@@ -317,8 +320,8 @@ Both sides
 Havre des Pas Gardens
 Both sides
 Hilary Street
-West side (between a point 41 yards south of Peter Street and a point 30 yards north of La Motte Street)
-East side
+East side (between Peter Street and a point 29 yards north of La Motte Street)
+West side (between a point 41 yards south of Peter Street and La Motte Street)
 Hilgrove Street
 South side
 North side (between Bath Street and a point 26 yards east)
@@ -355,7 +358,8 @@ North side (between the Esplanade and a point 22 yards south-west of the eastern
 North side (between a point 10 yards south-west of the eastern corner of the Grand Hotel and a point 41 yards west of the eastern boundary of Central Apartments)
 North side (between the eastern boundary of Central Apartments and a point 25 yards east of Kensington Street)
 North side (between a point 62 yards east of Kensington Street and a point 33 yards west of The Parade and Cheapside)
-South side
+South side (between The Parade and Cheapside and a point 21 yards west of its junction with Kensington Street)
+South side (between a point 46 yards west of its junction with Kensington Street and Esplanade)
 Kensington Street
 Both sides
 La Chasse
@@ -367,7 +371,7 @@ Both sides
 La Motte Street
 North side (between Snow Hill and the western boundary of No. 11)
 North side (between Hilary Street and the western boundary of No. 3)
-North side (between Ann Street and a point 18 yards east of the western boundary of No. 39)
+North side (between Ann Street and a point 19 yards east of the western boundary of No. 39)
 South side
 La Petite Rue du Val Plaisant
 Both sides
@@ -429,7 +433,7 @@ West and north side
 East and south side (between Kensington Place and a point opposite the east side of Lewis Lane)
 Library Place
 North side
-South side (between Church Street and the eastern boundary of Barclays Bank)
+South side (between Church Street and a point 36 yards east of the western corner of No. 13)
 Lower King’s Cliff
 Both sides
 Manor Park Road -
@@ -537,7 +541,7 @@ West side (between Gloucester Street and a point 46 yards south)
 West side (between Union Street and a point 68 yards south of Gloucester Street)
 West side (between Gloucester Street and a point 30 yards north)
 West side (between a point 57 yards north of Gloucester Street and a point 42 yards further north)
-West side (between Kensington Place and a point 112 yards north of Gloucester Street)
+West side (between Kensington Place and a point 119 yards north of Gloucester Street)
 Parade Road
 North side
 South side (between Elizabeth Place and Elizabeth Lane)

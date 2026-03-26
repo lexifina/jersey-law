@@ -9,7 +9,7 @@ East side (between a point 25 yards north of La Route de La Liberation and a poi
 Colomberie
 South side (between a point 10 yards east of Roseville Street and a point 28 yards further east)
 La Motte Street
-North side (between a point 6 yards east of the western boundary of No. 39 and a point 12 yards further east)
+North side (between a point 12 yards east of the western boundary of No. 39 and a point 7 yards further east)
 Minden Place
 South side (between a point 80 yards west of Bath Street and a point 16 yards further west)
 Museum Street
@@ -41,18 +41,12 @@ South side (between a point 24 yards east of Kensington Street and a point 14 ya
 South side (between the western boundary of No. 13 and a point 3 yards to the west of the eastern boundary of No. 13)
 Stopford Road
 South side (between the western boundary of No. 72 and a point 13 yards west)
-Val Plaisant
-West side (between the southern boundary of “Jersey Monumental” and a point 12 yards north)
 Part 1B
 (Article 10(1))
 PAYING PARKING PLACES 20 MINUTE LIMIT between 9 a.m. and 10 p.m. except sundays
 Trinity Road
 West side (between the southern boundary of No. 35 and the northern boundary of No. 39)
 Part 1C
-(Article 10(1))
-PAYING PARKING PLACES 20 minute limit between 10 a.m. and 5 p.m. except sundays
-Beresford Street
-South side (between a point 8 yards west of its junction with “Wests Centre”, and a point 47 yards further west)
 PART 2
 (Article 11(1))
 Paying parking places - 1 hour limit
@@ -89,8 +83,8 @@ East side
 Dumaresq Street
 North side (between a point 10 yards east of the western boundary of No. 12 and a point 22 yards further east)
 Esplanade
-North side (between a point 99 yards east of its junction with Castle Street and a point 13 yards further east)
-North side (between a point 23 yards east of the boundary of Marina Court and a point 41 yards west of Payn Street)
+North side (between a point 90 yards east of its junction with Castle Street and a point 14 yards further east)
+North side (between a point 77 yards east of its junction with La Route de la Liberation and a point 59 yards further east)
 Gloucester Street
 South side (between the western boundary of No. 15 and a point 5 yards east and the eastern boundary of the Opera House)
 South side (between a point 19 yards east of The Parade and a point 11 yards further east)
@@ -107,8 +101,8 @@ West side (between Burrard Street and a point 26 yards north of Beresford Street
 Hope Street
 South side (between Wharf Street and a point 27 yards west of Bond Street)
 Hilary Street
+East side (between a point 22 yards north of La Motte Street and a point 7 yards further north)
 West side (between a point 7 yards north of the northern boundary of No. 14 and a point 15 yards further north)
-West side (between a point 18 yards north of La Motte Street and a point 12 yards further north)
 Hue Street
 West side (between a point 10 yards north of its southern junction with Dumaresq Street and a point 30 yards further north)
 North side (between a point 10 yards west of Great Union Road and a point 13 yards further west)
@@ -169,6 +163,9 @@ North side (between a point 10 yards west of Great Union Road and a point 13 yar
 Kensington Place
 North side (between a point 31 yards west of the eastern boundary of Central Apartments and a point 10 yards further west)
 North side (between the eastern boundary of No. 21 and a point 28 yards further east)
+South side (between a point 21 yards west of its junction with Kensington Street and a point 25 yards further west)
+Old Trinity Hill
+West side (between a point 14 yards north of its junction with Les Vaux New Road and a point 12 yards further north)
 Savile Street
 East side (between Cannon Street and a point 28 yards north)
 Vauxhall Street
@@ -296,8 +293,6 @@ North side (between a point 68 yards east of the entrance to the “Ville au Roi
 North side (between the western entrance to “Ville Au Roi Estate” and Old Mont Cochon)
 Old St. Andrew’s Road
 North side (between the western boundary of “Honfleur” and a point 50 yards east)
-Old Trinity Hill
-West side (between the southern boundary of No. 41 and a point 2 yards south of the southern boundary of No. 55)
 South Hill
 West side (between a point 59 yards north of its junction with Mount Bingham and Pier Road and the steps leading down to Pier Road)
 West side (between the northern corner of South Hill Gymnasium and a point 63 yards south)
@@ -347,7 +342,7 @@ Part 15
 (Article 27B)
 car club permit parking
 Esplanade
-North side (between a point 99 yards east of its junction with Castle Street and a point 13 yards further east)
+North side (between a point 106 yards east of its junction with Castle Street and a point 13 yards further east)
 Part 16
 (Article 27C)
 Electric vehicle parking - Paying parking places 2 hour limit between 9 a.m. and 10 p.m.

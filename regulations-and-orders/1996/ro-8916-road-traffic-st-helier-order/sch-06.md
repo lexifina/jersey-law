@@ -45,16 +45,16 @@ King Street
 at all times
 King Street
 (that part which forms its junction with New Street and New Cut)
-between 10 a.m. and 7 p.m.
+between 10 a.m. and 8 p.m.
 King Street
 (between its junction with Peirson Place and its junction with Halkett Place)
 between 10 a.m. and 6 a.m. on the following day
 La Grande Route du Mont à l’Abbé (between St. John’s Road and the entrance to Chestnut Farm)
 at all times
 New Cut
-between 10 a.m. and 7 p.m.
+between 10 a.m. and 8 p.m.
 New Street (between its junction with King Street and its junction with Union Street)
-between 10 a.m. and 7 p.m.
+between 10 a.m. and 8 p.m.
 Old Street
 (between its junction with York Street and its junction with Union Street)
 at all times
@@ -100,14 +100,14 @@ Hilgrove Street
 Between 6 a.m. and 10 a.m
 King Street
 (that part which forms its junction with New Street and New Cut)
-between 7 p.m. and 10 a.m. on the following day
+between 8 p.m. and 10 a.m. on the following day
 King Street
 (between its junction with Peirson Place and its junction with Halkett Place)
 between 6 a.m. and 10 a.m.
 New Cut
-between 7 p.m. and 10 a.m. on the following day
+between 8 p.m. and 10 a.m. on the following day
 New Street (between its junction with King Street and its junction with Union Street)
-between 7 p.m. and 10 a.m. on the following day
+between 8 p.m. and 10 a.m. on the following day
 Vine Street
 between 6 a.m. and 9.30 a.m.
 PART 3
@@ -118,31 +118,37 @@ Vehicle
 Brighton Lane
 Pedal cycles
 Broad Street (between Conway Street and Charing Cross)
-Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday 7 a.m. and 11 a.m.
+Omnibuses; pedal cycles; commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday 7 a.m. and 11 a.m.
 Charing Cross (between Broad Street and Sand Street)
 Pedal cycles
 Charing Cross (between Broad Street and York Street)
-Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
+Omnibuses; pedal cycles; commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
 Dorset Street
 Pedal cycles
+Dumaresq Street
+Cabs; pedal cycles
 Gas Place (between its junction with Chevalier Road and its junction with Common Lane)
-Pedal Cycles
+Pedal cycles
 La Grande Route du Mont à l’Abbé (between St. John’s Road and the entrance to Chestnut Farm)
 Pedal cycles
 King Street (that part which forms its junction with New Street and New Cut)
-Omnibuses, cabs, as defined in the Motor Traffic Law; minibuses for the disabled; pedal cycles
+Pedal cycles
 New Cut
-Omnibuses, cabs, as defined in the Motor Traffic Law; minibuses for the disabled; pedal cycles
+Pedal cycles
 New Street (between the northern boundary of No. 8 New Street and its junction with King Street)
-Omnibuses, cabs, as defined in the Motor Traffic Law; minibuses for the disabled; pedal cycles
+Pedal cycles
 New Street (between the northern boundary of No. 8 New Street and Union Street)
-Omnibuses, cabs, as defined in the Motor Traffic Law; vehicles used by disabled persons; minibuses for the disabled; vehicles accessing off-street vehicular facilities; pedal cycles
+Vehicles used by disabled persons; minibuses for disabled persons; vehicles accessing off-street vehicular facilities; pedal cycles
 Old Street
+Pedal cycles
+Phillips Street (between Providence Street and Museum Street)
+Pedal cycles
+Providence Street (between Charles Street and Ann Place)
 Pedal cycles
 Vine Street
 Jurats’ vehicles (Monday to Friday); vehicles used by disabled persons (Saturdays and Sundays)
 York Street (between Charing Cross and Seale Street)
-Omnibuses, pedal cycles, commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
+Omnibuses; pedal cycles; commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
 PART 4
 (Article 8(4))
 Parts of roads closed to vehicular traffic

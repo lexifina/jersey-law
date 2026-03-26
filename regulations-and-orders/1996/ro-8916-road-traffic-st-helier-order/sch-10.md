@@ -18,12 +18,12 @@ East side (between a point 5 yards north of Poonah Lane and a point 7 yards furt
 20 minutes
 8 a.m. to midnight Monday to Saturday;
 Beresford Street
-South side (between a point 49 yards east of Halkett Place and a point 62 yards further east)
+South side (between a point 49 yards east of its junction with Halkett Place and a point 62 yards further east)
 1 hour
 2 a.m. to 6 p.m. Monday to Saturday
-South side (between a point 8 yards west of its junction with Wests Centre and a point 45 yards further west
+South side (between a point 8 yards west of its junction with Bath Street and a point 21 yards further west)
 20 minutes
-6 a.m. to 10 a.m. Monday to Saturday
+At all times
 Broad Street
 North side (between a point 25 yards east of the western boundary of No. 36 and a point 24 yards further east)
 20 minutes
@@ -123,19 +123,18 @@ North side (between Clearview Street and a point 2 yards west of the eastern bou
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Esplanade
-North side (between a point 36 yards east of its junction with Castle Street and a point 12 yards further east)
+North side (between a point 37 yards east of its junction with Castle Street and a point 13 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
-North side (between a point 124 yards east of its junction with Castle Street and a point 10 yards further east)
+At all times
+North side (between a point 132 yards east of its junction with Castle Street and a point 11 yards further east)
 20 minutes
-5 a.m. to midnight Monday to Saturday
-North side (between a point 14 yards east of the eastern boundary of “Marina Court” and a point 9 yards further east).
+At all times
+North side (between a point 67 yards east of its junction with La Route de la Liberation and a point 10 yards further east)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
-South side (between a point 25 yards west of its junction with Castle Street to a point 20 yards further west)
+At all times
+South side (between a point 54 yards west of its junction with Castle Street and a point 17 yards further west)
 20 minutes
-5 a.m. to 6 p.m.
-Monday to Saturday
+At all times
 Gloucester Street
 South side (between the eastern boundary of “Everton House” and the western boundary of No. 15)
 20 minutes
@@ -148,7 +147,7 @@ East side (between a point 115 yards north of Green Street and a point 19 yards 
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Halkett Place
-East side (between Beresford Street and a point 14 yards north of Hilgrove Street)
+East side (between Beresford Street and a point 22 yards north of Hilgrove Street)
 1 hour
 2 a.m. to 6 p.m. Monday to Saturday
 West side (between a point 30 yards north of Burrard Street and a point 11 yards south)
@@ -195,7 +194,7 @@ West side (between a point 198 yards north of its junction with La Rue de Carter
 20 minutes
 At all times
 Library Place
-South side (between the western corner of No. 13 and a point 12 yards east)
+South side (between a point 2 yards east of the western corner of No. 13 to a point 14 yards further east)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
 Minden Place
@@ -220,9 +219,9 @@ West side (between a point 74 yards north of Burrard Street and a point 10 yards
 West side (between a point 28 yards south of Burrard Street and a point 10 yards further south)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
-West side (between a point 12 yards north of the southern boundary of “Jersey Monumental” and the southern boundary of No. 1)
+West side (between a point 9 yards north of its junction with Devonshire Place and a point 17 yards further north)
 20 minutes
-5 a.m. to midnight Monday to Saturday
+At all times
 Parade, The (western arm)
 West side (between the northern boundary of the Town Hall and a point 10 yards north)
 20 minutes
@@ -297,14 +296,17 @@ Bath Street
 West side (adjacent to No. 56)
 20 minutes
 5 a.m. to 6 p.m. Monday to Saturday
+West side (between a point 7 yards south of its junction with Robin Place and a point 21 yards further south)
+20 minutes
+At all times
 Broad Street
 North side (between a point 49 yards east of the western boundary of No. 36 and a point 15 yards further east)
 20 minutes
 7 a.m. to 11 a.m. Monday to Saturday
 Esplanade
-North side (between a point 188 yards east of its junction with Castle Street and a point 12 yards further east)
+North side (between a point 17 yards west of its junction with Conway Street and a point 15 yards further west)
 20 minutes
-5 a.m. to 6 p.m. Monday to Saturday
+At all times
 Halkett Place
 East side (between a point 10 yards south of Queen Street and a point 15 yards further south)
 20 minutes
@@ -313,3 +315,7 @@ La Motte Street
 South side (between Snow Hill and a point 14 yards east)
 20 minutes
 5 a.m. to 11 a.m. Monday to Saturday
+St. Saviour’s Road
+West side (between a point 15 yards north of its junction with Brooklyn Street and a point 37 yards further north)
+20 minutes
+At all times
