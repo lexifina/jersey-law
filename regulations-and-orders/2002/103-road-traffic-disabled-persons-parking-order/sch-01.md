@@ -54,7 +54,7 @@ West side (between a point 37 yards north of Waterloo Street and a point 10 yard
 West side (between a point one yard north of the southern boundary of the “Cock and Bottle” public house and Royal Court Road)
 East side (between a point 15 yards north of Beresford Street and a point 15 yards further north)
 Hilary Street
-West side (between its junction with La Motte Street and a point 18 yards north
+East side (between a point 9 yards north of La Motte Street and a point 13 yards further north)
 Mount Bingham
 North side (between a point 20 yards west of Green Street and a point 7 yards further west)
 New Street
@@ -64,7 +64,6 @@ Parade, The (eastern arm)
 East side (between a point 2 yards north of the northern boundary of No. 31 and a point 12 yards further north)
 Parade, The (western arm)
 West side (between a point 10 yards north of the northern boundary of the Town Hall and a point 12 yards further north)
-West side (between a point 99 yards north of its junction with Gloucester Street and a point 13 yards further north)
 People’s Park
 South-east side (between a point 22 yards south-west of Westmount Road and a point 12 yards further south-east)
 Peter Street
@@ -93,14 +92,22 @@ South side
 West Hill
 West side (between a point 140 yards north of its junction with Bellozanne Road and a point 12 yards further north)
 Parking places - 2 hour limit
+Beresford Street
+South side (between a point 29 yards west of Bath Street and a point 13 yards further west)
 Commercial Buildings
 East side (between a point 176 yards south of the Tunnel and a point 6 yards further south)
 Great Union Street
 South side (between a point 10 yards west of Devonshire Place and a point 12 yards further west)
+Halkett Place
+East side (between a point 9 yards north of Hilgrove Street and a point 13 yards further north)
 Hue Street
 West side (between a point 25 yards north of Union Street and a point 6 yards further north)
 La Motte Street
-North side (from a point 6 yards east of the western boundary of No. 39 for 11 yards in a westerly direction)
+North Side (between a point 2 yards east of the western boundary of No. 37 and a point 12 yards east of the western boundary of No. 39)
+Library Place
+South side (between a point 16 yards east of the western corner of No. 13 and a point 20 yards further east)
+Parade, The (western arm)
+West side (between a point 99 yards north of its junction with Gloucester Street and a point 20 yards further north)
 Richmond Road
 South side (between the north-eastern boundary of No. 8 Richmond Road and a point 5 yards west)
 Robin Place

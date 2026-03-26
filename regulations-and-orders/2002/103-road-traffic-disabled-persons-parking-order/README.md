@@ -1,6 +1,6 @@
 # Road Traffic (Disabled Persons) (Parking) (Jersey) Order 2002
 
-R&O.103/2002 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_103_2002_20260325>
+R&O.103/2002 · official consolidation showing the law from 2026-03-26 · <https://www.jerseylaw.je/laws/current/ro_103_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
