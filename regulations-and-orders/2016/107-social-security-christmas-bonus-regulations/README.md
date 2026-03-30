@@ -1,6 +1,6 @@
 # Social Security (Christmas Bonus) (Jersey) Regulations 2016
 
-R&O.107/2016 · official consolidation showing the law from 2023-12-04 · <https://www.jerseylaw.je/laws/current/ro_107_2016_20260329>
+R&O.107/2016 · official consolidation showing the law from 2026-03-30 · <https://www.jerseylaw.je/laws/current/ro_107_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
