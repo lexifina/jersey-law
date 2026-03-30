@@ -1,0 +1,12 @@
+# 1A Eligibility for Christmas bonus: maximum income and assets
+(1) For the purpose of Regulation 2(2)(d) of the Social Security (Christmas Bonus) (Jersey) Regulations 2016 -
+(a) the maximum income is the total annual income of the person and the person’s partner (if any) above which the person or their partner (if any) is liable to be charged income tax; and
+(b) the maximum total assets are assets of the person and the person’s partner (if any) with a total aggregated maximum value of £64,000 on the date that the person applies for the Christmas bonus.
+(2) For the purposes of paragraph (1)(a), a person or their partner is not liable to be charged income tax if -
+(a) neither the person nor their partner has been notified under Article 25 of the Income Tax (Jersey) Law 1961 that they are liable to be charged income tax in respect of the year of assessment of the person or their partner immediately preceding the year in which the person applies for the Christmas bonus; or
+(b) in the case where no assessment has been made in respect of that year of assessment, neither the person nor their partner has been notified under Article 25 of the Income Tax (Jersey) Law 1961 that they are liable to be charged income tax in respect of the year of assessment of the person or their partner immediately preceding the year of assessment referred to in paragraph (a).
+(3) A person is the partner of another person for the purposes of this Article if the person normally occupies, as their principal residence, the same dwelling as the other person and they are married, in a civil partnership or in a marriage-like or civil partnership-like relationship with each other.
+(4) But a person is not a partner of another person if they are living separately in the same dwelling under a formal agreement.
+(5) For the purpose of paragraph (3), if a person occupied, as their principal residence, the same dwelling as their partner before receiving long term care in an approved care home, they are treated as occupying, as their principal residence, the same dwelling as their partner.
+(6) When calculating the value of the assets under paragraph (1)(b), the person’s principal residence must not be treated as an asset.
+(7) In order for the Minister to ascertain the relevant total income or relevant total assets of a person, the Minister may have regard to any information provided by the Comptroller of Revenue or the other information that the Minister may require the person to provide.
