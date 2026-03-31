@@ -1,6 +1,6 @@
 # Dogs (Jersey) Law 1961
 
-L.37/1961 · official consolidation showing the law from 2025-12-02 · <https://www.jerseylaw.je/laws/current/l_37_1961_20260330>
+L.37/1961 · official consolidation showing the law from 2026-03-31 · <https://www.jerseylaw.je/laws/current/l_37_1961_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ L.37/1961 · official consolidation showing the law from 2025-12-02 · <https://
 | Art. 6 | [art-006.md](art-006.md) | 6 Wearing of collar by dogs |
 | Art. 7 | [art-007.md](art-007.md) | 7 Seizure of stray dogs by police officer |
 | Art. 8 | [art-008.md](art-008.md) | 8 Duty of person other than police officer taking possession of stray dogs |
-| Art. 9 | [art-009.md](art-009.md) | 9 Worrying of livestock by dogs |
+| Art. 9 | [art-009.md](art-009.md) | 9 Worrying of livestock |
 | Art. 10 | [art-010.md](art-010.md) | 10 Procedure on seizure of dogs except dogs that are dangerously out of control or are dangerous dogs |
 | Art. 11 | [art-011.md](art-011.md) | 11 Procedure on seizure of dogs that are dangerously out of control or are dangerous dogs |
 | Art. 11A | [art-011-a.md](art-011-a.md) | 11A Offence - dog dangerously out of control |
