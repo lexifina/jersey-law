@@ -1,6 +1,6 @@
 # Sea Fisheries (Licensing of Fishing Boats) (Jersey) Regulations 2003
 
-R&O.103/2003 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_103_2003_20260331>
+R&O.103/2003 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/ro_103_2003_20260413>
 
 | Provision | File | Heading |
 | --- | --- | --- |
