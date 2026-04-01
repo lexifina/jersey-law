@@ -1,6 +1,6 @@
 # Cremation (Jersey) Regulations 1961
 
-R&O.4253 · official consolidation showing the law from 2023-03-24 · <https://www.jerseylaw.je/laws/current/ro_4253_20260331>
+R&O.4253 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/ro_4253>
 
 | Provision | File | Heading |
 | --- | --- | --- |
