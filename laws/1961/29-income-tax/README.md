@@ -1,6 +1,6 @@
 # Income Tax (Jersey) Law 1961
 
-L.29/1961 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20260331>
+L.29/1961 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/l_29_1961_20260616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ L.29/1961 · official consolidation showing the law from 2026-01-01 · <https://
 | Art. 61 | [art-061.md](art-061.md) | 61 Schedule D |
 | Art. 62 | [art-062.md](art-062.md) | 62 Mode of charge under Schedule D; the Cases |
 | Art. 62A | [art-062-a.md](art-062-a.md) | 62A Disapplication of Schedule D where trade taxed under Schedule A |
-| Art. 62C | [art-062-c.md](art-062-c.md) | 62C Application of Schedule D to the repayments of a levy made to the Jersey Bank Depositors Compensation Board |
+| Art. 62C | [art-062-c.md](art-062-c.md) | 62C Application of Schedule D to the repayment of depositors’ compensation levy |
 | Art. 62D | [art-062-d.md](art-062-d.md) | 62D Application of Schedule D to termination and other payments |
 | Art. 63 | [art-063.md](art-063.md) | 63 Farming of land in Jersey to be charged under Schedule D |
 | Art. 64 | [art-064.md](art-064.md) | 64 Full tax to be charged |
@@ -120,7 +120,7 @@ L.29/1961 · official consolidation showing the law from 2026-01-01 · <https://
 | Art. 69A | [art-069-a.md](art-069-a.md) | 69A Restriction on deduction for emoluments of office or employment |
 | Art. 70 | [art-070.md](art-070.md) | 70 General rules as to deductions not allowable |
 | Art. 70A | [art-070-a.md](art-070-a.md) | 70A Deduction on account of Social Security contributions |
-| Art. 70B | [art-070-b.md](art-070-b.md) | 70B Deduction on account of a levy paid to the Jersey Bank Depositors Compensation Board |
+| Art. 70B | [art-070-b.md](art-070-b.md) | 70B Deduction on account of depositors’ compensation levy |
 | Art. 70C | [art-070-c.md](art-070-c.md) | 70C Deductions on account of foreign tax paid |
 | Art. 70D | [art-070-d.md](art-070-d.md) | 70D Employer’s contributions into group life insurance scheme |
 | Art. 70E | [art-070-e.md](art-070-e.md) | 70E Deductions for expenditure on regulatory compliance activity |
@@ -142,7 +142,7 @@ L.29/1961 · official consolidation showing the law from 2026-01-01 · <https://
 | Art. 77E | [art-077-e.md](art-077-e.md) | 77E Treatment of attributable earnings for other purposes |
 | Art. 78 | [art-078.md](art-078.md) | 78 Basis of computation under Case III |
 | Art. 79 | [art-079.md](art-079.md) | 79 Pensions chargeable under Case III |
-| Art. 79A | [art-079-a.md](art-079-a.md) | 79A Credit for tax paid on full attribution of deemed dividends |
+| Art. 79A | [art-079-a.md](art-079-a.md) | 79A Credit for tax paid on full attribution or deemed dividends |
 | Art. 80 | [art-080.md](art-080.md) | 80 Basis of computation under Cases IV and V |
 | Art. 80A | [art-080-a.md](art-080-a.md) | 80A Application of Article 80: individuals who become, or cease to be, ordinarily resident |
 | Art. 81 | [art-081.md](art-081.md) | 81 Basis of computation under Cases VI and VII |

@@ -1,4 +1,4 @@
-# 79A Credit for tax paid on full attribution of deemed dividends
+# 79A Credit for tax paid on full attribution or deemed dividends
 (1) This Article applies if an individual satisfies the conditions in paragraph (2).
 (2) The conditions are that -
 (a) the individual had a liability to pay tax in a year of assessment between 2009 and 2012 (inclusive) in respect of -

@@ -1,2 +1,2 @@
-# 62C Application of Schedule D to the repayments of a levy made to the Jersey Bank Depositors Compensation Board
-Tax shall be charged under Schedule D in respect of the repayment or the partial repayment to a bank of a levy paid by the bank to the Jersey Bank Depositors Compensation Board established by the Banking Business (Depositors Compensation) (Jersey) Regulations 2009 as if the repayment or the partial repayment were a trading receipt of the bank in the year in which it is made.
+# 62C Application of Schedule D to the repayment of depositors’ compensation levy
+Tax must be charged under Schedule D in respect of the repayment or partial repayment to a bank of depositors’ compensation levy as if the repayment or partial repayment were a trading receipt of the bank in the year in which the repayment or partial repayment is made.
