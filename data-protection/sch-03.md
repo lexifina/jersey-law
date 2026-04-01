@@ -21,6 +21,14 @@ The transfer is necessary for reasons of substantial public interest, which is t
 (c) the JFSC has taken reasonable steps to ensure that the transferee will not transfer the personal data to another person except -
 (i) with the consent of the JFSC, or
 (ii) in order to comply with an order of a court (whether or not a Jersey court) that directs the transferee to transfer the personal data to the other person.
+5A Transfer by or on behalf of the Jersey Resolution and Depositors Compensation Authority
+(1) The transfer is necessary for reasons of substantial public interest, which will be the case if -
+(a) the transfer is a disclosure that is permitted or required under an enactment in force in Jersey;
+(b) the transfer is made by or on behalf of the Jersey Resolution and Depositors Compensation Authority (“the Authority”); and
+(c) the Authority has taken reasonable steps to ensure that the transferee will not transfer the personal data to another person except -
+(i) with the consent of the Authority; or
+(ii) to comply with an order of a court (whether or not a Jersey court) that directs the transferee to transfer the personal data to the other person.
+(2) In this paragraph, “Jersey Resolution and Depositors Compensation Authority” means the Authority mentioned in Article 4 of the Bank (Recovery, Resolution and Depositors’ Compensation) (Jersey) Law 2017.
 6 Legal proceedings etc.
 The transfer -
 (a) is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings);
