@@ -17,8 +17,8 @@ Jersey Financial Services Commission
 Enabling or assisting the Commission to exercise statutory functions
 Data Protection Authority
 Enabling or assisting the Data Protection Authority to exercise functions under the Data Protection Authority (Jersey) Law 2018
-Jersey Resolution Authority
-Enabling or assisting the Jersey Resolution Authority to exercise functions under the Bank (Recovery and Resolution) (Jersey) Law 2017
+Jersey Resolution and Depositors Compensation Authority
+Enabling or assisting the Jersey Resolution and Depositors Compensation Authority to exercise functions under the Bank (Recovery, Resolution and Depositors’ Compensation) (Jersey) Law 2017
 Office of the Chief Statistician
 Enabling or assisting the Chief Statistician to exercise functions under the Statistics and Census (Jersey) Law 2018
 Minister with functions under the Sanctions and Asset-Freezing (Jersey) Law 2019
