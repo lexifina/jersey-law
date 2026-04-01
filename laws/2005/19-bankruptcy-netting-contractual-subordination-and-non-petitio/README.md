@@ -1,6 +1,6 @@
 # Bankruptcy (Netting, Contractual Subordination and Non-Petition Provisions) (Jersey) Law 2005
 
-L.19/2005 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_19_2005_20260331>
+L.19/2005 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/l_19_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,4 +11,5 @@ L.19/2005 · official consolidation showing the law from 2019-01-01 · <https://
 | Art. 4 | [art-004.md](art-004.md) | 4 Other provisions enforceable despite bankruptcy |
 | Art. 5 | [art-005.md](art-005.md) | 5 Fraud and misrepresentation |
 | Art. 6 | [art-006.md](art-006.md) | 6 Law to prevail in respect of bodies corporate established outside Jersey |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Bank Depositors Compensation Scheme |
 | Art. 7 | [art-007.md](art-007.md) | 7 Citation |
