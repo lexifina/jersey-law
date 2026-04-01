@@ -35,7 +35,7 @@ Conditions applicable to a deposit advertisement
 (d) a company also means a building society.
 4 Deposit protection
 (1) A deposit advertisement must state in relation to a deposit -
-(a) in every case, whether or not the repayment of the deposit, or the payment of any interest on the deposit, would (to any extent) be covered under a scheme for compensating depositors, being a scheme established under Article 37 of the Law; and
+(a) in every case, whether or not the repayment of the deposit, or the payment of any interest on the deposit, would (to any extent) be covered under a scheme for compensating depositors, being a scheme established under Article 37 of the Law and continued under Part 7A of the Bank (Recovery, Resolution and Depositors’ Compensation) (Jersey) Law 2017; and
 (b) in the case where the repayment of the deposit, or the payment of any interest on the deposit, would (to any extent) be covered under a scheme for compensating depositors established by law (and not merely by agreement) outside Jersey, that fact.
 (2) Nothing in sub-paragraph (1) prevents the inclusion in a deposit advertisement of matter relating or apparently relating to any other scheme, or an arrangement, for covering, guaranteeing, securing or otherwise protecting (to any extent) deposits, the interest on them, the repayment of deposits, or the payment of the interest on them.
 (3) If a deposit advertisement states or implies that the repayment of the deposit, or the payment of any interest on the deposit, would be covered under a scheme referred to in sub-paragraph (1) (or includes matter as described in sub-paragraph (2) relating or apparently relating to any other scheme or an arrangement) the advertisement must state -

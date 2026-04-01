@@ -1,6 +1,6 @@
 # Banking Business (General Provisions) (Jersey) Order 2002
 
-R&O.95/2002 · official consolidation showing the law from 2023-08-01 · <https://www.jerseylaw.je/laws/current/ro_95_2002_20260331>
+R&O.95/2002 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/ro_95_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
