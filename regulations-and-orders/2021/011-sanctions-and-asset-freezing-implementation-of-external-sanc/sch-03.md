@@ -127,3 +127,9 @@ The Yemen (Sanctions) (EU Exit) (No. 2) Regulations 2020
 regulation 39(4A) and (4B)
 The Zimbabwe (Sanctions) (EU Exit) Regulations 2019
 regulation 39(4A) and (4B)
+6 Trade, Aircraft and Shipping Sanctions (Civil Enforcement) Regulations 2024
+The following provisions of the Trade, Aircraft and Shipping (Civil Enforcement) Regulations 2024 do not have effect under Article 2 -
+(a) Part 2 (enforcement);
+(b) regulations 21 to 28 (information offences regime and disclosure of information by or to the Secretary of State);
+(c) regulation 29 (supplementary), to the extent that it relates to regulations 27 or 28;
+(d) Part 4 (miscellaneous).

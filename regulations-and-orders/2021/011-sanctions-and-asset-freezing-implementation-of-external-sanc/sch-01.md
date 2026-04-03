@@ -141,6 +141,10 @@ Syria 2
 The Syria (United Nations Sanctions) (Cultural Property) (EU Exit) Regulations 2020
 2020/1233
 none
+Trade, Aircraft and Shipping
+The Trade, Aircraft and Shipping Sanctions (Civil Enforcement) Regulations 2024
+2024/948
+none
 Venezuela
 The Venezuela (Sanctions) (EU Exit) Regulations 2019
 2019/135
