@@ -1,6 +1,6 @@
 # Restriction on Smoking (Workplaces) (Jersey) Regulations 2006
 
-R&O.126/2006 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_126_2006_20260405>
+R&O.126/2006 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_126_2006>
 
 | Provision | File | Heading |
 | --- | --- | --- |
