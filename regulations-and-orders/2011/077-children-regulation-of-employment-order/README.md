@@ -1,6 +1,6 @@
 # Children (Regulation of Employment) (Jersey) Order 2011
 
-R&O.77/2011 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_77_2011_20260405>
+R&O.77/2011 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_77_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
