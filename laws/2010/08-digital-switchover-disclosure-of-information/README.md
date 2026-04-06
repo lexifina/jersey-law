@@ -1,6 +1,6 @@
 # Digital Switchover (Disclosure of Information) (Jersey) Law 2010
 
-L.8/2010 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_8_2010_20260405>
+L.8/2010 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/l_8_2010_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
