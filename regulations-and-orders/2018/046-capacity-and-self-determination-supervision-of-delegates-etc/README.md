@@ -1,6 +1,6 @@
 # Capacity and Self-Determination (Supervision of Delegates etc.) (Jersey) Regulations 2018
 
-R&O.46/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_46_2018_20260405>
+R&O.46/2018 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_46_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
