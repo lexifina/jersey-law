@@ -1,6 +1,6 @@
 # Fire Precautions (Designated Premises) (Jersey) Regulations 2012
 
-R&O.156/2012 · official consolidation showing the law from 2023-01-01 · <https://www.jerseylaw.je/laws/current/ro_156_2012_20260405>
+R&O.156/2012 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_156_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
