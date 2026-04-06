@@ -1,6 +1,6 @@
 # Regulation of Care (Jersey) Law 2014
 
-L.42/2014 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_42_2014_20260405>
+L.42/2014 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/l_42_2014_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,6 +9,7 @@ L.42/2014 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 2 | [art-002.md](art-002.md) | 2 Regulated activities |
 | Art. 3 | [art-003.md](art-003.md) | 3 Requirement to be registered to carry on, or act as manager in relation to, regulated activity |
 | Art. 4 | [art-004.md](art-004.md) | 4 Application for registration as provider or manager |
+| Art. 4A | [art-004-a.md](art-004-a.md) | 4A Government or other major providers |
 | Art. 5 | [art-005.md](art-005.md) | 5 Grant or refusal of application |
 | Art. 6 | [art-006.md](art-006.md) | 6 Notice of intention to refuse application or impose conditions |
 | Art. 7 | [art-007.md](art-007.md) | 7 Notification of grant or refusal of application |
@@ -26,6 +27,8 @@ L.42/2014 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 Suspension of registration of manager |
 | Art. 20 | [art-020.md](art-020.md) | 20 Cancellation of registration |
 | Art. 21 | [art-021.md](art-021.md) | 21 Immediate cancellation of registration |
+| Art. 21A | [art-021-a.md](art-021-a.md) | 21A Individual as provider of home care services |
+| Art. 21B | [art-021-b.md](art-021-b.md) | 21B Same person registered as provider and manager |
 | Art. 22 | [art-022.md](art-022.md) | 22 Report on essential services |
 | Art. 23 | [art-023.md](art-023.md) | 23 Cancellation of registration upon request |
 | Art. 24 | [art-024.md](art-024.md) | 24 Inspectors |
@@ -42,17 +45,21 @@ L.42/2014 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 35 | [art-035.md](art-035.md) | 35 Establishment of Health and Social Care Commission |
 | Art. 36 | [art-036.md](art-036.md) | 36 Independence of Commission |
 | Art. 37 | [art-037.md](art-037.md) | 37 Functions of Commission |
+| Art. 37A | [art-037-a.md](art-037-a.md) | 37A Provision of services for other public authorities |
 | Art. 38 | [art-038.md](art-038.md) | 38 Reports, information and advice |
 | Art. 39 | [art-039.md](art-039.md) | 39 Minister’s duty to consult Commission |
 | Art. 40 | [art-040.md](art-040.md) | 40 Limitations of liability |
+| Art. 40A | [art-040-a.md](art-040-a.md) | 40A Annual assessment of funding by the Minister |
 | Art. 41 | [art-041.md](art-041.md) | 41 Fees and surcharge chargeable by Commission |
 | Art. 42 | [art-042.md](art-042.md) | 42 Exemption from income tax |
-| Art. 43 | [art-043.md](art-043.md) | 43 Requirement to prepare annual accounts and reports |
+| Art. 42A | [art-042-a.md](art-042-a.md) | 42A Strategic plan |
+| Art. 43 | [art-043.md](art-043.md) | 43 Accounts, audit and annual report |
 | Art. 44 | [art-044.md](art-044.md) | 44 Rights of appeal |
 | Art. 45 | [art-045.md](art-045.md) | 45 Offence of providing false or misleading information, etc. |
 | Art. 46 | [art-046.md](art-046.md) | 46 General provisions as to offences |
 | Art. 47 | [art-047.md](art-047.md) | 47 Defence - due diligence |
 | Art. 48 | [art-048.md](art-048.md) | 48 Service of documents |
 | Art. 49 | [art-049.md](art-049.md) | 49 Transitional and transfer Regulations |
+| Art. 49A | [art-049-a.md](art-049-a.md) | 49A Transitional provision relating to the Regulation of Care (Jersey) Amendment Law 2026 |
 | Art. 50 | [art-050.md](art-050.md) | 50 Citation |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 2 |
