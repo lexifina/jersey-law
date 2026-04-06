@@ -1,6 +1,6 @@
 # Goods and Services Tax (Jersey) Law 2007
 
-L.27/2007 · official consolidation showing the law from 2026-01-01 · <https://www.jerseylaw.je/laws/current/l_27_2007_20260405>
+L.27/2007 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/l_27_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
