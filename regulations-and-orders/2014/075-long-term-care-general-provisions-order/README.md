@@ -1,6 +1,6 @@
 # Long-Term Care (General Provisions) (Jersey) Order 2014
 
-R&O.75/2014 · official consolidation showing the law from 2023-12-04 · <https://www.jerseylaw.je/laws/current/ro_75_2014_20260405>
+R&O.75/2014 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_75_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
