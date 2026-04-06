@@ -1,6 +1,6 @@
 # Regulation of Care (Standards and Requirements) (Jersey) Regulations 2018
 
-R&O.119/2018 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20260405>
+R&O.119/2018 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20260716>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,9 +11,10 @@ R&O.119/2018 · official consolidation showing the law from 2025-11-24 · <https
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Conduct of regulated activity |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Openness and transparency |
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Respect and involvement |
+| Reg. 7A | [reg-007-a.md](reg-007-a.md) | 7A Visitors and involvement in community |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Person-centred care |
+| Reg. 8A | [reg-008-a.md](reg-008-a.md) | 8A Requirement to inform and update |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Personal plans and care records |
-| Reg. 9A | [reg-009-a.md](reg-009-a.md) | 9A Need for consent |
 | Reg. 10 | [reg-010.md](reg-010.md) | 10 Health and safety |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Safeguarding |
 | Reg. 12 | [reg-012.md](reg-012.md) | 12 Cleanliness and infection control |
@@ -22,10 +23,11 @@ R&O.119/2018 · official consolidation showing the law from 2025-11-24 · <https
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 Shared responsibilities |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Control and restraint |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Workers |
-| Reg. 18 | [reg-018.md](reg-018.md) | 18 Premises and equipment |
+| Reg. 18 | [reg-018.md](reg-018.md) | 18 Premises, vehicles and equipment |
 | Reg. 19 | [reg-019.md](reg-019.md) | 19 Reviewing quality of service |
 | Reg. 20 | [reg-020.md](reg-020.md) | 20 Provision of updated information and review of Statement of Purpose |
-| Reg. 21 | [reg-021.md](reg-021.md) | 21 Notification of incidents, accidents and other events |
+| Reg. 20A | [reg-020-a.md](reg-020-a.md) | 20A Requirement to display registration |
+| Reg. 21 | [reg-021.md](reg-021.md) | 21 Notification requirements |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Complaints and representations |
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Service records |
 | Reg. 24 | [reg-024.md](reg-024.md) | 24 Financial viability |
@@ -84,7 +86,8 @@ R&O.119/2018 · official consolidation showing the law from 2025-11-24 · <https
 | Reg. 77 | [reg-077.md](reg-077.md) | 77 Requirement in respect of provision of a social work service for children and young people |
 | Reg. 78 | [reg-078.md](reg-078.md) | 78 Requirement in respect of provision of an independent monitoring and review service in respect of looked after childr |
 | Reg. 79 | [reg-079.md](reg-079.md) | 79 Requirements in respect of provision of a child contact centre service |
-| Reg. 80 | [reg-080.md](reg-080.md) | 80 Requirement for Commission to carry out certain inspections |
+| Reg. 79A | [reg-079-a.md](reg-079-a.md) | 79A Requirement for regulated activities involving function carried out under Mental Health Law |
+| Reg. 80 | [reg-080.md](reg-080.md) | 80 Requirement for Commission to carry out inspections - general |
 | Reg. 81 | [reg-081.md](reg-081.md) | 81 Compliance with Regulations |
 | Reg. 82 | [reg-082.md](reg-082.md) | 82 Offences and improvement notices |
 | Reg. 83 | [reg-083.md](reg-083.md) | 83 Expiry of Regulations 3A, 17A and 80(3) to (5) |
