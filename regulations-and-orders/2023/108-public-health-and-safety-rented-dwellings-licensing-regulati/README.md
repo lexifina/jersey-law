@@ -1,6 +1,6 @@
 # Public Health and Safety (Rented Dwellings) (Licensing) (Jersey) Regulations 2023
 
-R&O.108/2023 · official consolidation showing the law from 2024-05-01 · <https://www.jerseylaw.je/laws/current/ro_108_2023_20260405>
+R&O.108/2023 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_108_2023_20260430>
 
 | Provision | File | Heading |
 | --- | --- | --- |
