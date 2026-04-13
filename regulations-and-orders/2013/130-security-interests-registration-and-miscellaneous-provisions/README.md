@@ -1,6 +1,6 @@
 # Security Interests (Registration and Miscellaneous Provisions) (Jersey) Order 2013
 
-R&O.130/2013 · official consolidation showing the law from 2022-09-01 · <https://www.jerseylaw.je/laws/current/ro_130_2013_20260412>
+R&O.130/2013 · official consolidation showing the law from 2026-04-13 · <https://www.jerseylaw.je/laws/current/ro_130_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
