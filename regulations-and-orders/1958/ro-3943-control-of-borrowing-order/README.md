@@ -1,6 +1,6 @@
 # Control of Borrowing (Jersey) Order 1958
 
-R&O.3943 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/ro_3943_20260412>
+R&O.3943 · official consolidation showing the law from 2026-04-13 · <https://www.jerseylaw.je/laws/current/ro_3943>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,8 +13,7 @@ R&O.3943 · official consolidation showing the law from 2024-01-11 · <https://w
 | Art. 5 | [art-005.md](art-005.md) | 5 Continuance of external body corporate in Jersey |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Continuance of external limited liability company in Jersey |
 | Art. 6 | [art-006.md](art-006.md) | 6 Grant of options to employees |
-| Art. 7 | [art-007.md](art-007.md) | 7 Government securities |
-| Art. 8 | [art-008.md](art-008.md) | 8 Prospectuses, etc. |
+| Art. 8 | [art-008.md](art-008.md) | 8 Foreign prospectuses |
 | Art. 9 | [art-009.md](art-009.md) | 9 Unit trusts |
 | Art. 10 | [art-010.md](art-010.md) | 10 Partnerships with limited partners |
 | Art. 11 | [art-011.md](art-011.md) | 11 Limited liability partnerships |
@@ -23,4 +22,5 @@ R&O.3943 · official consolidation showing the law from 2024-01-11 · <https://w
 | Art. 12A | [art-012-a.md](art-012-a.md) | 12A Fees |
 | Art. 13 | [art-013.md](art-013.md) | 13 Definitions |
 | Art. 14 | [art-014.md](art-014.md) | 14 Application |
+| Art. 14A | [art-014-a.md](art-014-a.md) | 14A Consents granted before 13 April 2026 |
 | Art. 15 | [art-015.md](art-015.md) | 15 Citation |

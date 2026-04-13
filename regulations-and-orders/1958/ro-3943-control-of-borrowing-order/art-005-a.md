@@ -1,1 +1,2 @@
 # 5A Continuance of external limited liability company in Jersey
+A certificate of continuance under Regulation 92 of the Limited Liability Companies (General Provisions) (Jersey) Regulations 2022 must not be issued to a limited liability company unless it has obtained the consent of the Commission to keep in issue, on its continuance in Jersey, its LLC interests, debentures and other securities that are in issue at the time when it applies for the certificate of continuance.
