@@ -1,6 +1,6 @@
 # Collective Investment Funds (Restriction of Scope) (Jersey) Order 2000
 
-R&O.42/2000 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_42_2000_20260412>
+R&O.42/2000 · official consolidation showing the law from 2026-04-13 · <https://www.jerseylaw.je/laws/current/ro_42_2000>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,4 +8,4 @@ R&O.42/2000 · official consolidation showing the law from 2023-02-14 · <https:
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Restriction of scope |
 | Art. 3 | [art-003.md](art-003.md) | 3 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
