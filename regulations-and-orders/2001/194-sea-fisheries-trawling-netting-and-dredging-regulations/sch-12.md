@@ -1,16 +1,12 @@
-# SCHEDULE 11
-(Regulations 33 and 35)
-Preparation of the mesh gauge
-1. The fisheries officer must -
-(a) select the appropriate size of jaw for the meshes to be measured;
-(b) ensure that the jaws are clean;
-(c) check that the gauge completes the self-test satisfactorily;
-(d) select the measuring force to be applied as follows -
-(i) for active gear -
-20 N for mesh sizes < 35 mm,
-50 N for mesh sizes ≥ 35 mm and < 55 mm,
-125 N for mesh sizes ≥ 55 mm;
-(ii) for passive gear -
-10 N for all mesh sizes;
-(e) verify the jaw type setting. The default setting is ‘Normal’. If small or large jaws are used, the fisheries officer must enter the menu and change the jaw type setting accordingly.
-2. When the activities set out in paragraph 1 are completed the gauge is ready to undertake mesh measurements.
+# Schedule 10
+(Regulations 29 and 30)
+Calibration and testing of the mesh gauge
+A. Verification of length measurement
+The verification of length measurement must be performed by inserting the jaws of the gauge to be used during the inspection, into slots of different lengths in the calibrated rigid test plate. This can be done at any time.
+Figure 1
+Length of slots in mm
+B. Verification of force measurement
+The verification of force measurement must be performed by hanging calibrated weights on the fixed jaw containing the load cell, with the gauge held vertical and secure. The weights must have the following values: 10, 20, 50 and 125 N. The weights must only be used under stable conditions.
+Figure 2
+(This drawing is for illustrative purposes only)
+1. Test weight
