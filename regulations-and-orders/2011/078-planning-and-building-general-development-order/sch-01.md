@@ -13,6 +13,8 @@ a structure required for a purpose (other than human habitation) incidental to t
 an extension to a dwelling, including a conservatory, canopy or porch, or the conversion of a garage attached to a dwelling, for human habitation;
 (c)
 the replacement of any conservatory roof;
+(ca)
+the replacement of a conservatory with an extension to a dwelling, if the extension is on the same footprint as the conservatory and the replacement is not located between the dwelling and an adjoining road;
 (d)
 the installation of a retractable awning on the dwelling-house.
 Work not permitted
@@ -40,6 +42,8 @@ the structure, extension or garage exceeds the maximum height of 3 metres above 
 the part of the structure (if any) within 1 metre of the boundary of an adjoining property exceeds 2 metres in height;
 (fa)
 in the case of a canopy or porch, the external area of the canopy or porch exceeds 3 square metres, the height of the canopy or porch from ground level exceeds 2.75 metres or the canopy or porch is erected within 2 metres of a road;
+(fb)
+in the case of an extension replacing a conservatory, the height, cubic volume or floor area of the extension is greater than that of the conservatory;
 (g)
 with the exception of the construction of a swimming pool or other pool or a canopy or porch, the total aggregated external area of any structures or buildings erected under this Class since 1st June 2007 exceeds 30 square metres;
 (h)
@@ -294,7 +298,7 @@ AA.1
 Internal alterations or building operations that do not amount to an external change or create new floor space.
 Work not permitted
 AA.2
-Work is not permitted by Class AA if the building is or forms part of a LBP.
+Work is not permitted by Class AA if the building is or forms part of a LBP, except if the LBP has a non-statutory grade 4 designation.
 AA.3
 Work is not permitted by Class AA if -
 (a)
@@ -309,7 +313,7 @@ Work not permitted
 AB.2
 Work is not permitted by Class AB if -
 (a)
-the work is for foul sewer systems, including packaged treatment plants, septic tanks or tight tanks;
+the work is for foul sewer systems, including packaged treatment plants, septic tanks or tight tanks, except if the work is the provision of a tight tank to serve a single dwelling-house;
 (b)
 the land is or forms part of a LBP, or is in an AAP.
 CLASS B
@@ -322,13 +326,20 @@ Work is not permitted by Class B if -
 (a)
 in the case of a satellite dish attached to a building, its diameter exceeds 1.2 metres or if it is placed on a principal elevation;
 (b)
-the work is the erection, construction or placing of mobile telephone network equipment;
+the work is the erection, construction or placing of mobile telephone network equipment, except if the equipment is a like-for-like or smaller replacement;
 (c)
 the building on which the installation is to be placed is or forms part of a LBP, or the building is in a CA and the installation would be visible from a road or the foreshore; or
 (d)
 in the case of a satellite dish, the work would result in there being more than 1 satellite dish being erected or placed at or on the building.
 Condition
+B.3
 Where a satellite dish is placed on land in front of the principal elevation, it must be placed no higher than 1 metre above ground level, measured at its highest point.
+B.4
+If the work is the replacement of mobile telephone network equipment, as soon as reasonably practicable after installing and commissioning the equipment the operator must -
+(a)
+measure the electromagnetic level (“EM level”) at the site; and
+(b)
+confirm that the EM level is below the ICNIRP reference level.
 CLASS BA
 Permitted development
 BA.1
@@ -443,7 +454,7 @@ the replacement of dormer windows and skylights;
 (j)
 the reduction or enlarging of windows or doors on the ground floor;
 (k)
-the re-rendering (up to a maximum additional wall thickness of 15 centimetres) of areas of a building that are already rendered including the installation of external insulation systems in the render finish.
+the rendering or cladding of a dwelling-house, including the installation of external insulation systems in the render finish, up to a maximum wall thickness of 15 centimetres.
 Work not permitted
 F.2
 Work is not permitted by Class F if -
@@ -592,6 +603,29 @@ the work would result in more than 1 lighting apparatus on any single elevation 
 the lighting apparatus is more than 30 cm in any dimension,
 (iii)
 the light output from the lighting apparatus is more than 500 lumens.
+CLASS P
+Permitted development
+P.1
+The installation, whether free-standing or attached to a building, of apparatus to provide drinking water to the public.
+Work not permitted
+P.2
+Work is not permitted by Class P if -
+(a)
+the land or building where the installation is to take place -
+(i)
+is or forms part of a LBP; or
+(ii)
+is in an AAP or a CA;
+(b)
+the work creates an obstruction to the view of a person using a road at or near a bend, corner, junction or intersection, and the obstruction to the person’s view is likely to cause danger to that person or any other person;
+(c)
+the apparatus -
+(i)
+exceeds 1.8 metres in height, including any instruction panel or dispenser; or
+(ii)
+exceeds 0.3 square metres;
+(d)
+surplus water from the installation is not adequately drained.
 PART 4
 THE INSTALLATION OF EQUIPMENT FOR THE GENERATION OF ELECTRICITY FROM RENEWABLE SOURCES OR FOR THE EFFICIENT USE OF ENERGY
 CLASS A
@@ -707,13 +741,13 @@ DEVELOPMENT BY PROVIDERS OF PUBLIC SERVICES AND UTILITIES
 CLASS A
 Permitted development
 A.1
-The erection or construction, or the maintenance, improvement or other alteration by a public authority of -
+The erection or construction, or the maintenance, improvement or other alteration by a public authority, or by a provider of social housing as defined in Regulation 1 of the Income Support (Jersey) Regulations 2007, of -
 (a)
-temporary works and equipment on land belonging to or maintained by the authority required for the purposes of a function exercised by the authority on that land;
+temporary works and equipment on land belonging to or maintained by the authority or provider required for the purposes of a function exercised by the authority or provider on that land;
 (b)
-lamp standards, bus shelters, public seats, fire alarms, cycle racks, security cameras, refuse bins, bollards, barriers for the control of people and vehicles and similar structures required in connection with the operation of a public service administered by them; or
+lamp standards, bus shelters, public seats, fire alarms, cycle racks, security cameras, refuse bins, bollards, barriers for the control of people and vehicles and similar structures required in connection with the operation of a service administered by the authority or provider; or
 (c)
-road surfaces or the surfaces of other public areas administered by the public authority.
+road surfaces or the surfaces of other public areas administered by the public authority or provider.
 Work not permitted
 A.2
 Work is not permitted by Class A if -
@@ -741,6 +775,39 @@ the work is carried out on land that is, or from time to time is, covered by sea
 Condition
 B.3
 On completion of any work carried out underground the surface of the site must be returned to its former condition.
+CLASS BA
+Permitted development
+BA.1
+The installation (whether free-standing or attached to a building), by Jersey Electricity plc, of an electric vehicle charging point that is accessible to the public.
+Work not permitted
+BA.2
+Work is not permitted by Class BA if -
+(a)
+the land or building where the installation is to take place -
+(i)
+is or forms part of a LBP; or
+(ii)
+is in an AAP or a CA;
+(b)
+the work creates an obstruction to the view of a person using a road at or near a bend, corner, junction or intersection, and the obstruction to the person’s view is likely to cause danger to that person or any other person;
+(c)
+the electric vehicle charging point is sited -
+(i)
+in an enclosed space;
+(ii)
+below ground; or
+(iii)
+in a multi-storey car park;
+(d)
+the electric vehicle charging point -
+(i)
+exceeds 2.25 metres in height, including any instruction panel or supply-socket housing;
+(ii)
+exceeds 0.5 metres in width or 0.9 metres in depth; or
+(iii)
+is located within 3 metres of another electric vehicle charging point;
+(e)
+the supply cable, from the mains supply to the charging point, runs above ground.
 CLASS C
 Permitted development
 C.1
@@ -761,6 +828,21 @@ D.2
 Work is not permitted by Class D if the land or building is or forms part of a LBP or, in a case where the works involve excavation of ground, the land is in an AAP.
 D.3
 Work is not permitted by Class D for the construction, extension or relocation of a runway.
+CLASS E
+Permitted development
+E.1
+The replacement of sports or play equipment or structures, excluding buildings.
+Work not permitted
+E.2
+Work is not permitted by Class E if -
+(a)
+the site of the equipment or structure is or forms part of a LBP, or is in an AAP or a CA;
+(b)
+the replacement equipment or structure exceeds the height of, or ground area covered by, the item being replaced;
+(c)
+the replacement equipment or structure is closer to any part of a boundary than the item being replaced;
+(d)
+the works involve resurfacing with an artificial surface, if the total ground area covered is more than 5 square metres.
 PART 7
 DEMOLITION
 CLASS A
@@ -768,6 +850,7 @@ Permitted development
 A.1
 The demolition of -
 (a)
+1 or more chimneys from a dwelling-house;
 (b)
 a building of a temporary nature (for example, a timber shed);
 (c)
