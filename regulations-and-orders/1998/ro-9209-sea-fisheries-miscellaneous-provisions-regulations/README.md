@@ -1,6 +1,6 @@
 # Sea Fisheries (Miscellaneous Provisions) (Jersey) Regulations 1998
 
-R&O.9209 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_9209_20260413>
+R&O.9209 · official consolidation showing the law from 2026-04-14 · <https://www.jerseylaw.je/laws/current/ro_9209>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -20,4 +20,7 @@ R&O.9209 · official consolidation showing the law from 2019-01-01 · <https://w
 | Reg. 8C | [reg-008-c.md](reg-008-c.md) | 8C Permits in respect of shellfish pots |
 | Reg. 8D | [reg-008-d.md](reg-008-d.md) | 8D Pot tags |
 | Reg. 8E | [reg-008-e.md](reg-008-e.md) | 8E Pot tags issued before 6th February 2007 |
+| Reg. 8F | [reg-008-f.md](reg-008-f.md) | 8F Sea fish to be retained on board whole |
+| Reg. 8G | [reg-008-g.md](reg-008-g.md) | 8G Prohibition on taking sea fish using electric current |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Citation |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
