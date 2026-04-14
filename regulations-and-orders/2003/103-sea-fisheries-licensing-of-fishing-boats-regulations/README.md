@@ -1,13 +1,12 @@
 # Sea Fisheries (Licensing of Fishing Boats) (Jersey) Regulations 2003
 
-R&O.103/2003 · official consolidation showing the law from 2026-04-01 · <https://www.jerseylaw.je/laws/current/ro_103_2003_20260413>
+R&O.103/2003 · official consolidation showing the law from 2026-04-14 · <https://www.jerseylaw.je/laws/current/ro_103_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
 | Reg. 1 | [reg-001.md](reg-001.md) | 1 Interpretation |
 | Reg. 2 | [reg-002.md](reg-002.md) | 2 Fishing in the territorial sea: licences and permits |
 | Reg. 3 | [reg-003.md](reg-003.md) | 3 Fishing by Jersey boats outside the territorial sea: licences and permits |
-| Reg. 3A | [reg-003-a.md](reg-003-a.md) | 3A Fishing in the Frouquier Aubert protected area |
 | Reg. 4 | [reg-004.md](reg-004.md) | 4 Requirement to carry fishing boat licence or fishing permit |
 | Reg. 5 | [reg-005.md](reg-005.md) | 5 Exception |
 | Reg. 6 | [reg-006.md](reg-006.md) | 6 Classes of licences and permits |
