@@ -1,6 +1,6 @@
 # Agriculture (Loans) (Jersey) Regulations 1974
 
-R&O.6042 · official consolidation showing the law from 2024-09-17 · <https://www.jerseylaw.je/laws/current/ro_6042_20260414>
+R&O.6042 · official consolidation showing the law from 2026-04-15 · <https://www.jerseylaw.je/laws/current/ro_6042>
 
 | Provision | File | Heading |
 | --- | --- | --- |
