@@ -1,6 +1,6 @@
 # Residential Tenancy (Condition Reports) (Jersey) Order 2014
 
-R&O.138/2014 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_138_2014_20260414>
+R&O.138/2014 · official consolidation showing the law from 2026-04-15 · <https://www.jerseylaw.je/laws/current/ro_138_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
