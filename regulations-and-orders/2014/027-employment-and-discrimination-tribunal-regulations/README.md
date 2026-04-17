@@ -1,6 +1,6 @@
 # Employment and Discrimination Tribunal (Jersey) Regulations 2014
 
-R&O.27/2014 · official consolidation showing the law from 2024-12-18 · <https://www.jerseylaw.je/laws/current/ro_27_2014_20260416>
+R&O.27/2014 · official consolidation showing the law from 2026-04-17 · <https://www.jerseylaw.je/laws/current/ro_27_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,6 @@ R&O.27/2014 · official consolidation showing the law from 2024-12-18 · <https:
 | Reg. 7 | [reg-007.md](reg-007.md) | 7 Remuneration and expenses of members |
 | Reg. 8 | [reg-008.md](reg-008.md) | 8 Hearings before single Tribunal member |
 | Reg. 9 | [reg-009.md](reg-009.md) | 9 Hearings before 3 Tribunal members |
-| Reg. 10 | [reg-010.md](reg-010.md) | 10 Powers of Deputy Chairman if Chairman unable to act |
+| Reg. 10 | [reg-010.md](reg-010.md) | 10 Powers of deputy chair if chair unable to act |
 | Reg. 11 | [reg-011.md](reg-011.md) | 11 Annual report |
 | Reg. 13 | [reg-013.md](reg-013.md) | 13 Citation |
