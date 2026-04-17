@@ -3,12 +3,13 @@
 (a) name;
 (b) residential address;
 (c) date of birth.
-(2) The only purposes for which the Minister may supply relevant information to a prescribed credit reference agency are to enable -
-(a) a person to meet their obligations relating to the detection and prevention of money laundering and terrorist financing under FSMA or the Proceeds of Crime (Jersey) Law 1999, or under legislation in another jurisdiction that the Minister is satisfied imposes equivalent obligations;
-(b) vetting of -
+(2) The only purposes for which the Minister may supply relevant information to a prescribed credit reference agency are -
+(a) to enable a person to meet their obligations relating to the detection and prevention of money laundering and terrorist financing under FSMA or the Proceeds of Crime (Jersey) Law 1999, or under legislation in another jurisdiction that the Minister is satisfied imposes equivalent obligations;
+(b) to enable vetting of -
 (i) an application for credit, or
-(ii) an application that could result in the giving of credit, or the giving of any guarantee, indemnity or assurance in relation to the giving of credit; and
-(c) statistical analysis of credit risk assessment in a case where no individual whose details are included in the Register is referred to by name or necessary implication.
+(ii) an application that could result in the giving of credit, or the giving of any guarantee, indemnity or assurance in relation to the giving of credit;
+(c) to enable statistical analysis of credit risk assessment in a case where no individual whose details are included in the Register is referred to by name or necessary implication; and
+(d) a law enforcement purpose (within the meaning given in Article 1(1) of the Data Protection (Jersey) Law 2018).
 (3) A person to whom relevant information is supplied under this Article must use the information only for the specified purposes.
 (4) The Minister may prescribe a person as a credit reference agency if Conditions A and B are satisfied.
 (5) Condition A is that the Minister is satisfied that the person is -
