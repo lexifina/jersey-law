@@ -2,7 +2,7 @@
 (Article 21(10))
 THE EMPLOYMENT FORUM
 1 Membership
-(1) The Employment Forum appointed under Article 21(9) (in this Schedule referred to as the “Forum”) shall consist of a chairman and 8 other members appointed by the Minister.
+(1) The Employment Forum appointed under Article 21(9) (in this Schedule referred to as the “Forum”) shall consist of a chair and 8 other members appointed by the Minister.
 (2) In appointing members, the Minister shall have regard to the desirability of securing that there is such a balance as the States consider appropriate between -
 (a) members with knowledge or experience of, or interest in, trade unions or matters relating to employees generally;
 (b) members with knowledge or experience of, or interest in, employers’ associations or matters relating to employers generally; and

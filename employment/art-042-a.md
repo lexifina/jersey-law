@@ -1,4 +1,4 @@
-# 38 Power to apply Part 4 to individuals who are not otherwise “employees”
+# 42A Power to apply Part 4 to individuals who are not otherwise “employees”
 The States may by Regulations make provision for this Part to apply, with or without modifications, as if -
 (a) any individual of a specified description who would not otherwise be an employee for the purposes of this Part were an employee for those purposes;
 (b) there were in the case of any such individual a contract of employment of a specified description under which the individual works; and
