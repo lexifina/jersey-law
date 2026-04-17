@@ -1,6 +1,6 @@
 # Limited Partnerships (Jersey) Law 1994
 
-L.22/1994 · official consolidation showing the law from 2025-02-21 · <https://www.jerseylaw.je/laws/current/l_22_1994_20260416>
+L.22/1994 · official consolidation showing the law from 2026-04-17 · <https://www.jerseylaw.je/laws/current/l_22_1994>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -40,6 +40,12 @@ L.22/1994 · official consolidation showing the law from 2025-02-21 · <https://
 | Art. 27 | [art-027.md](art-027.md) | 27 Settling accounts on winding up |
 | Art. 28 | [art-028.md](art-028.md) | 28 Legal proceedings and service of documents |
 | Art. 29 | [art-029.md](art-029.md) | 29 Authority to sign |
+| Art. 29A | [art-029-a.md](art-029-a.md) | 29A Meaning of eligible foreign limited partnership |
+| Art. 29B | [art-029-b.md](art-029-b.md) | 29B Eligible foreign limited partnership may continue in Jersey |
+| Art. 29C | [art-029-c.md](art-029-c.md) | 29C Application to continue as a limited partnership in Jersey |
+| Art. 29D | [art-029-d.md](art-029-d.md) | 29D Determination of application to continue |
+| Art. 29E | [art-029-e.md](art-029-e.md) | 29E Issue of certificate of continuance |
+| Art. 29F | [art-029-f.md](art-029-f.md) | 29F Effect of continuance |
 | Art. 30 | [art-030.md](art-030.md) | 30 Appointment of registrar, etc. |
 | Art. 30A | [art-030-a.md](art-030-a.md) | 30A Annual administration fee |
 | Art. 31 | [art-031.md](art-031.md) | 31 Fees, charges and forms |
