@@ -40,8 +40,8 @@ Nephys spp.
 Nereis spp.
 Marphysa sanguinea
 2kg comprised wholly of any single species or a combination of species
-2kg comprised wholly of any single species or a combination of species
-2kg comprised wholly of any single species or a combination of species
+per person limit
+per person limit
 Basking Shark
 Cetorhinus maximus
 0
@@ -60,11 +60,10 @@ Dipturus nidarosiensis
 Black Winkle
 Littorina littorea
 200
-200
-200
+per person limit
+per person limit
 Bluefin Tuna
 Thunnus thynnus
-0
 0
 0
 Blue Shark
@@ -89,7 +88,6 @@ Coley/Coalfish
 Haddock
 Hake
 Ling
-Pollock
 Poor Cod
 Rockling
 Whiting
@@ -98,7 +96,6 @@ Pollachius virens
 Meleanogrammus aeglefinus
 Merluccius merluccius
 Molva molva
-Pollachius pollachius
 Trisopterus minutus
 Gaidropsarus
 Merlangius merlangus
@@ -107,7 +104,7 @@ Merlangius merlangus
 Common Octopus
 Octopus vulgaris
 2
-2
+per person limit
 Common Skate
 Dipturus batis
 0
@@ -152,7 +149,7 @@ Gobius cobitis
 Green Crab
 Carcinus maenas
 100
-100
+per person limit
 GURNARD
 Grey Gurnard
 Red Gurnard
@@ -163,7 +160,7 @@ Aspitrigal cuculus
 Trigloporus lastoviza
 Chelidonichthys lucerna
 20 comprised wholly of any single species or a combination of species
-20 comprised wholly of any single species or a combination of species
+per person limit
 HERRING-LIKE FISH
 Anchovy
 Herring
@@ -176,7 +173,7 @@ Gymnammodytes semisquamatus, Ammodytes spp. and Hyperoplus spp.
 Sardina pilchardus
 Sprattus sprattus
 5kg comprised wholly of any single species or a combination of species
-5kg comprised wholly of any single species or a combination of species
+per person limit
 LIMPETS
 Black-footed Limpet
 China Limpet
@@ -185,8 +182,8 @@ Patella depressa
 Patella ulyssiponensis
 Patella vulgata
 100 comprised wholly of any single species or a combination of species
-100 comprised wholly of any single species or a combination of species
-100 comprised wholly of any single species or a combination of species
+per person limit
+per person limit
 MACKEREL
 Mackerel
 Scad
@@ -204,7 +201,7 @@ Mullus surmuletus
 Chelon labrosus
 Liza ramada
 20 comprised wholly of any single species or a combination of species
-20 comprised wholly of any single species or a combination of species
+per person limit
 Orange Roughy
 Hoplostethus atlanticus
 0
@@ -218,8 +215,8 @@ Haliotis tuberculata
 Otter Shell
 Lutraria angustior
 20
-20
-20
+per person limit
+per person limit
 OYSTERS
 Native Oyster
 Pacific Oyster
@@ -228,6 +225,10 @@ Crassostrea gigas
 50 comprised wholly of any single species or a combination of species
 50 comprised wholly of any single species or a combination of species
 50 comprised wholly of any single species or a combination of species
+Pollack
+Pollachius pollachius
+3
+15
 Porbeagle Shark
 Lamna nasus
 0
@@ -246,15 +247,17 @@ Crangon crangon
 25kg comprised wholly of any single species or a combination of species
 RAYS
 Blonde Ray
-Small-eyed Ray
 Thornback Ray
 Undulate Ray
 Raja brachyura
-Raja microocellata
 Raja clavata
 Raja undulata
 5 comprised wholly of any single species or a combination of species
 5 comprised wholly of any single species or a combination of species
+Scallop
+Pecten maximus
+24
+per person limit
 Sea Bass
 Dicentrarchus labrax
 (a) 0 during the period 1st February to 31st March in any year; or
@@ -263,13 +266,11 @@ Dicentrarchus labrax
 (b) 10 at all other times
 SHARKS/DOGFISH
 Bull Huss
-Small-spotted Catshark
 Starry Smoothhound
 Scyliorhinus stellaris
-Scyliorhinus canicula
 Mustelus asterias
-20 comprised wholly of any single species or a combination of species
-20 comprised wholly of any single species or a combination of species
+5 comprised wholly of any single species or a combination of species
+5 comprised wholly of any single species or a combination of species
 SMALL CLAMS
 Banded Palourde
 Chequered Palourde
@@ -296,7 +297,15 @@ Ensis spp. and Solen Marginatus
 Acanthocardia tuberculata
 Spisula solida
 150 comprised wholly of any single species or a combination of species
-150 comprised wholly of any single species or a combination of species
+per person limit
+Small-eyed Ray
+Raja microocellata
+0
+0
+Small-spotted Catshark
+Scyliorhinus canicula
+20
+per person limit
 Smooth Hammerhead Shark
 Sphyrna zygaena
 0
@@ -304,8 +313,8 @@ Sphyrna zygaena
 0
 Spider Crab
 Maja brachydactyla
-10
-50
+20
+20
 Spurdog
 Squalus acanthias
 0
@@ -319,7 +328,7 @@ Alloteuthis subulata
 Sepia spp.
 Loligo vulgaris
 10kg comprised wholly of any single species or a combination of species
-10kg comprised wholly of any single species or a combination of species
+per person limit
 Swordfish
 Xiphias gladius
 0
@@ -348,5 +357,5 @@ Ballan Wrasse
 Cuckoo Wrasse
 Labrus bergylta
 Labrus mixtus
-5 comprised wholly of any single species or a combination of species
-5 comprised wholly of any single species or a combination of species
+2 comprised wholly of any single species or a combination of species
+10 comprised wholly of any single species or a combination of species

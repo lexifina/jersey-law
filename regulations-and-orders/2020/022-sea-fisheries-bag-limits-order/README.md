@@ -1,6 +1,6 @@
 # Sea Fisheries (Bag Limits) (Jersey) Order 2020
 
-R&O.22/2020 · official consolidation showing the law from 2023-06-29 · <https://www.jerseylaw.je/laws/current/ro_22_2020_20260419>
+R&O.22/2020 · official consolidation showing the law from 2026-04-20 · <https://www.jerseylaw.je/laws/current/ro_22_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
