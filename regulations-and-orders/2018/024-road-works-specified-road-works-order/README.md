@@ -1,6 +1,6 @@
 # Road Works (Specified Road Works) (Jersey) Order 2018
 
-R&O.24/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_24_2018_20260420>
+R&O.24/2018 · official consolidation showing the law from 2026-04-21 · <https://www.jerseylaw.je/laws/current/ro_24_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
