@@ -5,5 +5,5 @@
 (i) at any time between the hours of 8 a.m. and 5.30 p.m. on any day when the school is open to children, and
 (ii) at any other time when the school is open to children.
 (2) A traffic sign placed and operated in accordance with paragraph (1) shall -
-(a) comply with Article 28A of the Traffic Signs (Jersey) Order 1968; and
+(a) comply with Article 52 of the Road Traffic (Signs) (Jersey) Order 2026; and
 (b) indicate a speed limit of 20 miles per hour.

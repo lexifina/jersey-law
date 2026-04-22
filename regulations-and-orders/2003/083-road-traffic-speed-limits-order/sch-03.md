@@ -17,7 +17,7 @@ La Petite Sente
 La Rue de la Blinerie
 La Rue du Coin
 La Rue du Genestet
-La Rue de la Hougette
+La Rue de la Houguette
 La Rue de la Lourderie
 La Rue des Nouettes
 La Rue du Presbytère

@@ -232,6 +232,7 @@ Phillips Street
 Pleasant Street
 Pomona Lane
 Pomona Road
+Poonah Lane
 Poonah Road
 Providence Street
 Queens Avenue
@@ -379,6 +380,7 @@ Dunell Road
 Elizabeth Street
 Fountain Lane
 The estate roads at Grasett Park
+Grands Vaux (between its boundary with St. Helier at the point that is 85 metres south of Stafford Lane and a point 30 metres south of Langley Park)
 Highlands Lane
 James Road
 La Chasse Brunet
@@ -386,9 +388,12 @@ La Croix de Bois
 La Pointe
 La Rue à la Dame
 La Rue de Deloraine
-La Rue de La Hougette
+La Rue de la Bachauderie
+La Rue de la Hambye
+La Rue de la Houguette
 La Rue de Patier
 La Rue des Friquettes
+La Rue des Prés (from Plat Douet Road to a point 488 metres east)
 La Rue du Froid Vent (from Wellington Road to St. Saviour’s Hill)
 La Rue St. Thomas
 La Ruette de Patier
@@ -401,12 +406,11 @@ Le Clos Gosset
 Le Dicq
 The estate roads at Le Geyt Flats
 The estate roads at Les Cinq Chênes
-Les Grands Vaux (between its boundary with St. Helier at the point that is 93 yards south of Stafford Lane and a point 33 yards south of Langley Park)
 Le Jardin à Pommiers and the unnamed residential roads that branch from it
 Little Sunshine Avenue
 Maison St. Louis
 Mary Street
-Plat Douet Road (from La Rue des Près to Bagot Road)
+Plat Douet Road (from Victoria Road to Bagot Road)
 Rectory Lane
 Sunshine Avenue
 Swan Farm Lane

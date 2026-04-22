@@ -211,36 +211,37 @@ La Rue des Vignes (from a point 144 metres south of its junction with La Rue Cap
 La Rue de la Ville au Bas
 Le Vieux Beaumont
 ST. SAVIOUR
-Any road within the area bounded by St. Saviour’s Road, St. Saviour’s Hill, Bagatelle Road and the southerly boundary of the parish, except a road described in Schedule 2 or Schedule 3
 Albert Road
 Aubin Lane
 Bagatelle Road
 Bagot Road
 Brickfield Lane
 Georgetown Road
+Grands Vaux (between Le Mont de la Rosière and a point 68 metres east of La Rue de Deloraine)
+Grands Vaux (between its southern boundary with the parish of St. Helier and a point 30 metres south of Langley Park)
+Holly Lodge
 La Chasse du Mourin
 La Fosse a l’Ecrivain
-La Grande Route de St. Martin (between Five Oaks and a point 50 yards south-westerly from La Rue du Moulin and between a point 70 yards south of La Rue du Ponterrin and the property known as Les Hautes Carrieres)
+La Grande Route de St. Martin (between Five Oaks and a point 46 metres south-westerly from La Rue du Moulin and between a point 64 metres south of La Rue du Ponterrin and the property known as Les Hautes Carrieres)
 La Route de Maufant (from La Grande Route de St. Martin to Maufant Vineries)
 La Route de la Hougue Bie (from La Rue du Trot to the entrance to La Hougue Bie)
-La Route de la Hougue Bie (from a point 50 yards east of the entrance to St. Saviour’s Hospital to a point 230 yards west of La Ruette des Ecorvees)
+La Route de la Hougue Bie (from a point 46 metres east of the entrance to St. Saviour’s Hospital to a point 210 metres west of La Ruette des Ecorvees)
 La Route des Champs
 La Route du Fort
 La Rue de Beauvoir
 La Rue de Champ Colin
 La Rue de St. Mannelier
-La Rue de la Bachauderie
 La Rue de la Chouquetterie
 La Rue de la Commune
 La Rue de la Croix Besnard
 La Rue de la Freminerie
 La Rue de la Guilleaumerie (between La Rue du Pont and La Rue du Ponterin)
-La Rue de la Hambye
 La Rue de la Retraite (between La Rue de Bauvoir to La Rue du Tapon)
 La Rue des Pigneaux
-La Rue des Prés
+La Rue des Prés (from a point 488 metres east of Plat Douet Road to Longueville Road)
 La Rue des Prés Trading Estate
 La Rue du Château Clairval
+La Rue du Froid Vent (from Bagatelle Road to Wellington Road)
 La Rue du Moulin
 La Rue du Paradis
 La Rue du Pont
@@ -257,9 +258,8 @@ La Ruette du Ponterrin
 Le Mont de la Roserie
 Le Mont es Neaux
 Le Mont Sohier
+Le Parcq du Soleil
 Le Val Aume
-Les Grands Vaux (between Le Mont de la Rosière and a point 74 yards east of La Rue de Deloraine)
-Les Grands Vaux (between its southern boundary with the parish of St. Helier and a point 33 yards south of Langley Park)
 Les Routeurs
 Les Ruettes
 Les Varines
@@ -268,7 +268,7 @@ Longueville Road (from Bagot Road to Le Mont ès Nieaux)
 Ivystill Lane
 New York Lane
 Petit Ponterrin
-Plat Douet Road (from the boundary with the Parish of St. Clement to La Rue des Prés)
+Plat Douet Road (from the boundary with the parish of St. Clement to Victoria Road)
 Princes Tower Road (from La Rue des Friquettes to La Rue de la Houguette)
 St. Mark’s Road
 St. Saviour’s Hill
@@ -277,6 +277,7 @@ Springfield Road
 Stopford Road
 Unnamed road between La Rue de la Parade and La Rue du Paradis
 Victoria Road
+Wellington Road
 TRINITY
 La Route d’Ebenezer (from its junction with La Rue de la Petite Falaise to a point 320 metres west of that junction)
 La Rue de la Monnaie (from La Rue d’Asplet to La Rue de la Fontaine)
