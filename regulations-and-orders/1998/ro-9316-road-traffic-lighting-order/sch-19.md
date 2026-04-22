@@ -104,7 +104,7 @@ ADDITIONAL PROVISIONS RELATING TO THE ABOVE DIAGRAMS
 4. Any variation in a dimension as to the angle of hatching specified in any of those diagrams shall be treated as permitted for the purposes of this Schedule if the variation does not exceed 5 degrees.
 5. A rear marking of a type shown in diagram 1 or 4 of this Part shall be constructed in the form of a single plate, and every rear marking shown in diagrams 2, 3 or 5 of this Part shall be constructed in the form of 2 plates of equal size and shape.
 6. The height of each half of the marking shown in diagram 3 of this Part may be reduced to a minimum of 140 mm provided the width is increased so that each half of the marking has a minimum area of 980 cm.
-7. All letters incorporated in a rear marking of a type shown in diagrams 4 or 5 of this Part shall have the proportions and form letters as shown in Part 5 of Schedule 4 to the Traffic Signs (Jersey) Order 1968.
+7. All letters incorporated in a rear marking of a type shown in diagrams 4 or 5 of this Part shall have the proportions and form letters as shown in Schedule 8, Part 2, to the Road Traffic (Signs) (Jersey) Order 2026.
 PART 4
 REAR MARKINGS PRESCRIBED FOR MOTOR VEHICLES WHENEVER FIRST USED AND TRAILERS WHENEVER MANUFACTURED
 Left
