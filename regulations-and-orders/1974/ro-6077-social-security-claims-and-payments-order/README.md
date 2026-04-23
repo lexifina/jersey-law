@@ -1,6 +1,6 @@
 # Social Security (Claims and Payments) (Jersey) Order 1974
 
-R&O.6077 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_6077_20260422>
+R&O.6077 · official consolidation showing the law from 2026-04-23 · <https://www.jerseylaw.je/laws/current/ro_6077_20260825>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ R&O.6077 · official consolidation showing the law from 2025-11-24 · <https://w
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Obligations of beneficiaries in receipt of benefit to notify change of circumstances |
 | Art. 3 | [art-003.md](art-003.md) | 3 Claims and notices sent by post |
-| Art. 4 | [art-004.md](art-004.md) | 4 Claims to be made in writing to the Minister |
+| Art. 4 | [art-004.md](art-004.md) | 4 Claims to be made to Minister |
 | Art. 5 | [art-005.md](art-005.md) | 5 Supply of claim forms |
 | Art. 6 | [art-006.md](art-006.md) | 6 Claims not on appropriate forms |
 | Art. 7 | [art-007.md](art-007.md) | 7 Information to be given when making a claim for benefit |

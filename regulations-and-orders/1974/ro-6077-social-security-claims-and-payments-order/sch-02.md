@@ -73,10 +73,12 @@ INCAPACITY BENEFIT
 (b) the expression “hospital” means any institution for the reception and treatment of persons suffering from illness and any maternity home (and, for this purpose, “illness” includes mental disorder and incapacity requiring medical treatment or nursing); and
 (c) the expression “in-patient” means a person admitted as an in-patient to a hospital for the purpose of receiving their treatment by or under the direction of a medical practitioner.
 2 Claims in advance
-(1) Where, for the purposes of the provisions of the Social Security (Medical Certification) (Jersey) Order 1974, it has been certified -
-(a) that a person is incapable of work and will continue to be incapable of work for the period specified in the certificate; or
-(b) that a person (being a person who, throughout the period of 6 months immediately preceding the date of the certificate, has been in receipt of incapacity benefit) is incapable of work,
-a claim for incapacity benefit may, unless the Minister otherwise directs, be made by that person in respect of the period of 13 weeks, or such shorter period as the Minister may in the circumstances determine, in either case commencing immediately after the date of the certificate.
+(1) Sub-paragraph (1A) applies if, for the purposes of Article 7(1A), evidence has been provided -
+(a) that a person is incapable of work and will continue to be incapable of work for the period covered by the evidence; or
+(b) that a person (being a person who, throughout the period of 6 months immediately preceding the date of the evidence provided, has been in receipt of incapacity benefit) is incapable of work.
+(1A) Unless the Minister otherwise directs, a claim for incapacity benefit may be made by that person, commencing immediately after the date of the evidence provided, for -
+(a) a period of 13 weeks; or
+(b) a shorter period that the Minister may in the circumstances determine.
 (2) Any claim for incapacity benefit made by any such person may, if it is made on the form containing the certificate, be treated by the Minister as a claim made also in respect of any days in the said period of 13 weeks or in any such shorter period, as the case may be.
 (3) Where for the said purposes it has been certified that it is to be expected that a child will be born, adopted or the subject of a parental order, and either -
 (a) a claim for incapacity benefit is made by the birth mother of the child on or after the date of that certificate, or
