@@ -1,6 +1,6 @@
 # Tourism (General Provisions) (Jersey) Order 1990
 
-R&O.8104 · official consolidation showing the law from 2025-11-06 · <https://www.jerseylaw.je/laws/current/ro_8104_20260422>
+R&O.8104 · official consolidation showing the law from 2026-04-23 · <https://www.jerseylaw.je/laws/current/ro_8104>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -14,9 +14,8 @@ R&O.8104 · official consolidation showing the law from 2025-11-06 · <https://w
 | Art. 8 | [art-008.md](art-008.md) | 8 Requirements for registration as self-catering accommodation |
 | Art. 9 | [art-009.md](art-009.md) | 9 Uses of self-catering accommodation |
 | Art. 10 | [art-010.md](art-010.md) | 10 Self-catering accommodation forming part of other premises |
-| Art. 11 | [art-011.md](art-011.md) | 11 Self-catering accommodation in use on appointed day |
-| Art. 12 | [art-012.md](art-012.md) | 12 Registration of youth hostels |
-| Art. 13 | [art-013.md](art-013.md) | 13 Requirements for registration as youth hostel |
+| Art. 12 | [art-012.md](art-012.md) | 12 Registration of hostels |
+| Art. 13 | [art-013.md](art-013.md) | 13 Requirements for registration as hostel |
 | Art. 14 | [art-014.md](art-014.md) | 14 Registration of holiday camps |
 | Art. 15 | [art-015.md](art-015.md) | 15 Requirements for registration as holiday camp |
 | Art. 16 | [art-016.md](art-016.md) | 16 Registration of camp sites |

@@ -9,7 +9,7 @@ Amount of fee
 £5.63 multiplied by the number of persons who can be lodged on the premises
 3. Self-Catering Accommodation Register
 £7.86 multiplied by the number of persons who can be lodged on the premises
-4. Youth Hostel Register
+4. Hostel Register
 £4.72 multiplied by the number of persons who can be lodged on the premises
 5. Holiday Camp Register
 £5.93 multiplied by the number of persons who can be lodged on the premises
