@@ -1,9 +1,9 @@
 # Schedule 9
 (Articles 28 and 29A)
-Saint Helier residential and business parking zoneS
+Saint Helier residential and business parking zones
 Part 1
 (Article 28)
-ROADS and PARTS OF ROADS WITHIN cheapside ZONE
+Roads and parts of roads within Cheapside Zone
 Cheapside
 Elizabeth Lane
 Elizabeth Place, between its junction with Savile Street and a point 72 yards south-west of that junction
@@ -27,10 +27,10 @@ Westmount Road, between its junction with St. Aubin’s Road and a point 64 yard
 Roads and parts of roads within Old Trinity Hill Zone
 Old Trinity Hill
 Trinity Road, between its junction with Trinity Hill and its junction with Les Vaux New Road
-ROADS and PARTS OF ROADS WITHIN richmond road ZONE
+Roads and parts of roads within Richmond Road Zone
 La Pouquelaye, between its northern and southern junctions with Richmond Road
 Richmond Road
-ROADS and PARTS OF ROADS WITHIN ST. MARK’S ZONE
+Roads and parts of roads within St. Mark’s Zone
 Apsley Road
 Byron Lane
 Byron Road
@@ -47,7 +47,7 @@ Val Plaisant, between its junction with Byron Road and a point 34 yards south of
 Vauxhall Street, between its junction with David Place and a point 13 yards west of that junction
 Victoria Street, between its junction with David Place and a point 20 yards west of that junction
 Windsor Crescent
-ROADS and PARTS OF ROADS WITHIN St. THOMAS’ ZONE
+Roads and parts of roads within St. Thomas’ zone
 Albert Street
 Aquila Road
 Brighton Close
@@ -90,9 +90,9 @@ Vauxhall Street, between its junction with Val Plaisant and a point 13 yards wes
 Victoria Street, between its junction with Val Plaisant and a point 20 yards west of its junction with David Place
 Winchester Street
 Windsor Road
-PART 2
+Part 2
 (Article 29A(a))
-zone Parking places reserved for permit holders
+Zone parking places reserved for permit holders
 Albert Street
 North side (between a point 2 yards west of the eastern boundary of No. 6 and a point 11 yards further east)
 South side (between a point 4 yards west of the western boundary of No. 16 and a point 11 yards further east)
@@ -206,9 +206,9 @@ South side (between the western boundary of No. 18 and a point 18 yards east)
 Windsor Road
 North side (between a point 24 yards west of its junction with Val Plaisant and a point 21 yards further west)
 South side (between a point 15 yards west of its junction with Val Plaisant and a point 4 yards west of the eastern boundary of No. 24)
-PART 3
+Part 3
 (Article 29A(b))
-zone PARKING PLACES RESERVED FOR PERMIT HOLDERS BETWEEN 6 P.M. AND 8 A.M. on any day
+Zone parking places reserved for permit holders between 6 p.m. and 8 a.m. on any day
 Peirson Road
 South side (from a point 3 yards north-east of the northern boundary of No. 25 to a point 2 yards north of the southern boundary of No. 23)
 St. Mark’s Road
@@ -217,9 +217,9 @@ Stopford Road
 North side (between a point 13 yards east from the junction with St. Mark’s Lane and a point 8 yards further east)
 Victoria Street
 South side (between a point 51 yards west of David Place and a point 13 yards further west)
-PART 4
+Part 4
 (Article 29A(c))
-zone PARKING PLACES RESERVED FOR PERMIT HOLDERS BETWEEN 6 P.M. AND 5 A.M. MONDAY TO SATURDAY AND at any time on a SUNDAY
+Zone parking places reserved for permit holders between 6 p.m. and 5 a.m. monday to saturday and at any time on a sunday
 Aquila Road
 East side (between Devonshire Lane and a point 24 yards north)
 Columbus Street
@@ -231,9 +231,9 @@ Parade, The
 West side (between a point 123 yards north of the northern boundary of the Town Hall and a point 11 yards further north)
 Victoria Street
 South side (between a point 124 yards west of David Place and a point 28 yards further west)
-PART 5
+Part 5
 (Article 29A(d))
-zone PARKING PLACES RESERVED FOR PERMIT HOLDERS BETWEEN MIDNIGHT. AND 8 A.M. MONDAY TO SATURDAY AND at any time on a SUNDAY
+Zone parking places reserved for permit holders between midnight. And 8 a.m. monday to saturday and at any time on a sunday
 Aquila Road
 East side (between a point 5 yards north of Poonah Land and a point 7 yards further north).
 Cheapside
@@ -241,9 +241,9 @@ South side (between a point 11 yards west of its junction with Kensington Place 
 Peirson Road
 South side (between Lewis Lane and a point 10 yards east)
 South side (between Lewis Lane and a point 12 yards west)
-PART 6
+Part 6
 (Article 29A(e))
-zone PARKING PLACES RESERVED FOR PERMIT HOLDERS BETWEEN 10 p.m. on one day and 9 a.m. on the following day
+Zone parking places reserved for permit holders between 10 p.m. On one day and 9 a.m. On the following day
 Kensington Place
 North side (between a point 31 yards west of the eastern boundary of Central Apartments and a point 10 yards further west)
 South side (between a point 21 yards west of its junction with Kensington Street and a point 25 yards further west)
@@ -253,6 +253,6 @@ Pomona Road
 East side (between a point 6 yards north of Pomona Lane and a point 5 yards further north)
 Part 7
 (Article 29A(f))
-zone PARKING places reserved for permit holders between 10 p.M. on one day AND 8 a.m. on the following day
+Zone parking places reserved for permit holders between 10 p.m. On one day and 8 a.m. On the following day
 Oxford Road
 North side (between a point 15 yards east of Common Lane and a point 30 yards further east)

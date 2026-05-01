@@ -1,7 +1,7 @@
 # Schedule 1
 (Article 3)
 One-way traffic
-PART 1
+Part 1
 (Article 3(1))
 One-way traffic routes
 Road
@@ -422,14 +422,14 @@ Windsor Road (between Great Union Road and Garden Lane)
 Great Union Road to Garden Lane
 York Street
 Charing Cross to the Parade
-PART 2
+Part 2
 (Article 3(3))
 One-way traffic routes for vehicles exceeding 6 feet 6 inches in width
 Road
 Direction
-PART 3
+Part 3
 (Article 3(2))
-EXEMPTIONS
+Exemptions
 Road
 Vehicle
 Broad Street (between Conway Street and Charing Cross)

@@ -1,7 +1,7 @@
 # Schedule 7
 (Article 9)
 Driving and stationing of certain vehicles
-PART 1
+Part 1
 (Article 9(1)(a))
 Roads not to be used by chars-à-banc
 Hansford Lane
@@ -18,7 +18,7 @@ Tower Road
 From its junction with La Route ès Nouaux to its junction with Westmount Road
 Vallée des Vaux
 The entire road
-PART 2
+Part 2
 (Article 9(1)(b))
 Areas in which chars-à-banc not to be used
 The area bounded by the following roads or parts of a road -
@@ -39,7 +39,7 @@ Don Road
 Colomberie
 Hill Street
 Mulcaster Street
-PART 3
+Part 3
 (Article 9(2))
 One-way traffic routes for chars-à-banc
 Road
@@ -48,7 +48,7 @@ Tower Road (between St. John’s Road and Westmount Road)
 St. John’s Road to Westmount Road
 Westmount Road
 Tower Road to Cheapside
-PART 4
+Part 4
 (Article 9(6))
 Roads of restricted use by vehicles exceeding 6 feet 6 inches in width
 Bellozanne Road
@@ -97,7 +97,7 @@ Undercliffe Road
 The entire road
 Ann Street
 Between La Motte Street and Brooklyn Street
-PART 5
+Part 5
 (Article 9(7))
 Areas of restricted use by vehicles exceeding 6 feet 6 inches in width
 The area bounded by the following roads or parts of a road -
@@ -107,7 +107,7 @@ Midvale Road
 Val Plaisant
 Devonshire Place
 Great Union Street
-PART 6
+Part 6
 (Article 9(8))
 Areas of restricted use by vehicles exceeding 5 tons in gross vehicle weight
 Stafford Lane

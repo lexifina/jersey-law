@@ -1,7 +1,7 @@
 # Schedule 6
 (Article 8)
 Pedestrian roads - closing to, and restricted use by, vehicular traffic
-PART 1
+Part 1
 (Article 8(1))
 Roads closed to vehicular traffic
 Road
@@ -84,7 +84,7 @@ between 9.30 a.m. and 6 a.m. the following day
 York Street
 (between Charing Cross and Seale Street)
 at all times
-PART 2
+Part 2
 (Article 8(2))
 Roads subject to restricted use by vehicular traffic
 Road
@@ -110,7 +110,7 @@ New Street (between its junction with King Street and its junction with Union St
 between 8 p.m. and 10 a.m. on the following day
 Vine Street
 between 6 a.m. and 9.30 a.m.
-PART 3
+Part 3
 (Article 8(3))
 Vehicles exempt from restrictions
 Road
@@ -149,7 +149,7 @@ Vine Street
 Jurats’ vehicles (Monday to Friday); vehicles used by disabled persons (Saturdays and Sundays)
 York Street (between Charing Cross and Seale Street)
 Omnibuses; pedal cycles; commercial vehicles if being used for the purposes of loading and unloading goods in the course of the vehicle owner’s trade on a Monday to Saturday between 7 a.m. and 11 a.m.
-PART 4
+Part 4
 (Article 8(4))
 Parts of roads closed to vehicular traffic
 La Grande Route de Mont à l’Abbé

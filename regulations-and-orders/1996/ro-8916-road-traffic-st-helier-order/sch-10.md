@@ -1,7 +1,7 @@
 # Schedule 10
 (Article 39)
-PART 1
-Parking of vehicles ON ROADS for loading and unloading
+Part 1
+Parking of vehicles on roads for loading and unloading
 Area
 Location
 Waiting period
@@ -286,8 +286,8 @@ York Street
 West side (between a point opposite the northern side of Dumaresq Street and a point 15 yards north)
 unlimited
 7 a.m. to 11 a.m. Monday to Saturday
-PART 2
-PARKING OF VEHICLES ON FOOTWAYS OR CYCLE TRACKS FOR LOADING AND UNLOADING
+Part 2
+Parking of vehicles on footways or cycle tracks for loading and unloading
 Area
 Location
 Waiting period

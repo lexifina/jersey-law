@@ -1,7 +1,7 @@
 # Schedule 2
 (Article 4)
 Prohibition or restriction of turns
-PART 1
+Part 1
 (Article 4(1))
 Prohibition of left-hand turns
 La Route du Fort
@@ -13,9 +13,9 @@ Pen-y-Craig Avenue
 Rouge Bouillon
 Victoria Avenue (at the eastern end of the Lower Park)
 St. Aubin’s Road
-PART 2
+Part 2
 (Article 4(2))
-Prohibition of U-turns
+Prohibition of u-turns
 Victoria Avenue
 At the West Park junction
 At the First Tower junction
@@ -26,7 +26,7 @@ At the Gloucester Street junction
 At the Castle Street junction
 Part 3
 (Article 4(3))
-prohibition of Right-HAND TURNS
+Prohibition of right-hand turns
 All vehicles
 La Route de St. Aubin
 Farley’s Lane

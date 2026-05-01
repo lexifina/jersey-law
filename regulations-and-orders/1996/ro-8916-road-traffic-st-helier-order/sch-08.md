@@ -1,7 +1,7 @@
 # Schedule 8
 (Articles 11 and 20)
 Parking places on roads
-PART 1
+Part 1
 (Article 11(1))
 Paying parking places - 20 minute limit
 Caledonia Place
@@ -27,9 +27,9 @@ Seale Street
 North side (between a point 10 yards east of the eastern boundary of the Seaton Youth Club and the western boundary of No. 24)
 St. James Street
 East side (between a point 10 yards north of Chapel Lane and a point 18 yards further north)
-PART 1a
+Part 1a
 (Article 10(1))
-PAYING PARKING PLACES 20 MINUTE LIMIT between 9 a.m. and 10 p.m.
+Paying parking places 20 minute limit between 9 a.m. And 10 p.m.
 Lewis Street
 South side (between a point 16 yards west of Cheapside and a point 11 yards further west)
 Old St. John’s Road
@@ -43,11 +43,11 @@ Stopford Road
 South side (between the western boundary of No. 72 and a point 13 yards west)
 Part 1B
 (Article 10(1))
-PAYING PARKING PLACES 20 MINUTE LIMIT between 9 a.m. and 10 p.m. except sundays
+Paying parking places 20 minute limit between 9 a.m. And 10 p.m. Except sundays
 Trinity Road
 West side (between the southern boundary of No. 35 and the northern boundary of No. 39)
 Part 1C
-PART 2
+Part 2
 (Article 11(1))
 Paying parking places - 1 hour limit
 Albert Place
@@ -143,7 +143,7 @@ Wharf Street
 West side (between Conway Street and a point 31 yards north of Weighbridge Place)
 Part 2A
 (Article 10(1))
-PAYING PARKING PLACES 1 hour LIMIT between 9 a.m. and 10 p.m.
+Paying parking places 1 hour limit between 9 a.m. And 10 p.m.
 Aquila Road
 East side (between a point 24 yards north of Devonshire Lane and a point 29 yards further north)
 East side (between Poonah Road and a point 22 yards south)
@@ -172,7 +172,7 @@ Vauxhall Street
 North side (between a point 6 yards east of the eastern boundary of No. 15 and a point 17 yards further east)
 Victoria Street
 South side (between a point 84 yards west of David Place and a point 40 yards further west
-PART 3
+Part 3
 (Article 11(1))
 Paying parking places - 2 hour limit
 Albert Street
@@ -233,20 +233,20 @@ West Park Avenue
 East side (between the northern boundary of No. 1 and a point 11 yards further north)
 Windsor Road
 North side (between a point 14 yards west of its junction with Val Plaisant and a point 10 yards further west)
-PART 3A
+Part 3A
 (Article 20(2)(a))
-PARKING DISCS - 10 MINUTE LIMIT
+Parking discs - 10 minute limit
 Beresford Street
 South side (between a point 14 yards east of its junction with Halkett Place and a point 35 yards further east)
 Part 3B
 (Article 20(2)(ab))
-PARKING DISCS 10 MINUTE LIMIT BETWEEN 8 A.M. AND MIDNIGHT
+Parking discs 10 minute limit between 8 a.m. and midnight
 Cheapside
 South side (between a point 11 yards west of its junction with Kensington Place and a point 16 yards further west)
 Peirson Road
 South side (between Lewis Lane and a point 10 yards east)
 South side (between Lewis Lane and a point 12 yards west)
-PART 4
+Part 4
 (Article 20(2)(b))
 Parking discs - 2 hour limit
 Dongola Road
@@ -260,8 +260,8 @@ East side (between a point 28 yards south of Croydon Road and the southern bound
 Westmount Road
 East side (between a point 18 yards north of the northern boundary of “Briez-izel” and a point 48 yards further north)
 West side (between a point 25 yards north of the southern boundary of the private lane leading to “Ponderosa”, “Rockferry” and “Camden” and a point 26 yards further north)”;
-PART 5
-PART 6
+Part 5
+Part 6
 (Article 20(2)(c))
 Parking discs - 3 hour limit
 Cleveland Avenue
@@ -304,26 +304,26 @@ West side (between a point 35 yards south of the southern boundary of White Lodg
 West Hill
 West side (between a point 10 yards north of its junction with Bellozanne Road and a point 130 yards further north)
 East side (from the northern boundary of Halcyon House to a point 11 yards further north)
-PART 7
-PART 8
-PART 9
-PART 10
+Part 7
+Part 8
+Part 9
+Part 10
 (Article 23)
-Parking places for States police vehicles
+Parking places for states police vehicles
 Church Street
 East side (between a point 21 yards north of Royal Court Road and a point 6 yards further north)
-PART 11
+Part 11
 (Article 24)
-Parking places for Jurats’ vehicles
+Parking places for jurats’ vehicles
 Vine Street
 South side (between Brook Street and a point 47 yards east) (between Monday and Friday)
 South side (between a point 55 yards east of Brook Street and a point 12 yards further east) (between Monday and Friday)
-PART 12
+Part 12
 (Article 25)
 Parking places for vehicles of crown officers
 Halkett Place
 West side (between Royal Court Road and Hill Street)
-PART 13
+Part 13
 (Articles 26 and 27)
 Parking places restricted to vehicles not exceeding 6 feet 6 inches in width and to a time limit of 12 hours
 La Pouquelaye
@@ -335,16 +335,16 @@ St. John’s Road
 East side (between the north boundary of “Acton Burnell” and a point one yard to the north of the northern boundary of No. 52)
 Part 14
 (Article 27A)
-Special Business Parking Permit Area
+Special business parking permit area
 Seale Street
 North side (between the western boundary of No. 20 and a point 16 yards further west)
 Part 15
 (Article 27B)
-car club permit parking
+Car club permit parking
 Esplanade
 North side (between a point 106 yards east of its junction with Castle Street and a point 13 yards further east)
 Part 16
 (Article 27C)
-Electric vehicle parking - Paying parking places 2 hour limit between 9 a.m. and 10 p.m.
+Electric vehicle parking - paying parking places 2 hour limit between 9 a.m. And 10 p.m.
 Parade, The (eastern arm)
 West side (between a point 18 yards north of its junction with Union Street and a point 10 yards further north)”.
