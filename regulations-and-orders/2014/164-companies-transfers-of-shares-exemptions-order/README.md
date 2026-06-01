@@ -1,6 +1,6 @@
 # Companies (Transfers of Shares - Exemptions) (Jersey) Order 2014
 
-R&O.164/2014 · official consolidation showing the law from 2025-12-03 · <https://www.jerseylaw.je/laws/current/ro_164_2014_20260531>
+R&O.164/2014 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/ro_164_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
