@@ -1,0 +1,1 @@
+A LAW to amend and extend the law relating to the declaring of the property of a person to be en désastre; to make provision for the disqualification and personal liability of persons involved in the management of companies and other bodies corporate and legal persons; to abolish certain customary law concepts; and for connected purposes
