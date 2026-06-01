@@ -1,6 +1,6 @@
 # Companies (Demerger) (Jersey) Regulations 2018
 
-R&O.71/2018 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_71_2018_20260531>
+R&O.71/2018 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/ro_71_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
