@@ -1,6 +1,6 @@
 # Limited Liability Companies (General Provisions) (Jersey) Regulations 2022
 
-R&O.37/2022 · official consolidation showing the law from 2023-02-14 · <https://www.jerseylaw.je/laws/current/ro_37_2022_20260531>
+R&O.37/2022 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/ro_37_2022_20260616>
 
 | Provision | File | Heading |
 | --- | --- | --- |
