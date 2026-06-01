@@ -32,4 +32,3 @@
 (13) In this Article -
 (a) a reference to a facility includes a reference to a facility, element or service that is an associated facility;
 (b) “specified” means specified in a notice given by the Minister under this Article.
-[not in force]

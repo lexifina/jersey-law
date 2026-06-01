@@ -1,6 +1,6 @@
 # Telecommunications (Jersey) Law 2002
 
-L.1/2002 · official consolidation showing the law from 2025-10-08 · <https://www.jerseylaw.je/laws/current/l_1_2002_20260531>
+L.1/2002 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/l_1_2002_20260831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -40,6 +40,22 @@ L.1/2002 · official consolidation showing the law from 2025-10-08 · <https://w
 | Art. 24H | [art-024-h.md](art-024-h.md) | 24H Compliance with and enforcement of provisions relating to designated vendor directions |
 | Art. 24I | [art-024-i.md](art-024-i.md) | 24I Requirement not to disclose |
 | Art. 24J | [art-024-j.md](art-024-j.md) | 24J Power of Minister to require information etc. |
+| Art. 24K | [art-024-k.md](art-024-k.md) | 24K Duty to take security measures |
+| Art. 24L | [art-024-l.md](art-024-l.md) | 24L Duty to take specified security measures |
+| Art. 24M | [art-024-m.md](art-024-m.md) | 24M Duty to take measures in response to security compromise |
+| Art. 24N | [art-024-n.md](art-024-n.md) | 24N Duty to take specified measures in response to security compromise |
+| Art. 24O | [art-024-o.md](art-024-o.md) | 24O Power to issue code of practice |
+| Art. 24P | [art-024-p.md](art-024-p.md) | 24P Withdrawal of code of practice |
+| Art. 24Q | [art-024-q.md](art-024-q.md) | 24Q Effect of code of practice |
+| Art. 24R | [art-024-r.md](art-024-r.md) | 24R Duty to explain failure to act in accordance with code of practice |
+| Art. 24S | [art-024-s.md](art-024-s.md) | 24S Duty to inform of risk of security compromise |
+| Art. 24T | [art-024-t.md](art-024-t.md) | 24T Duty to inform of occurrence of security compromise |
+| Art. 24U | [art-024-u.md](art-024-u.md) | 24U Authority to inform others of occurrence or risk of security compromise |
+| Art. 24V | [art-024-v.md](art-024-v.md) | 24V General duty of Authority to ensure compliance with security duties |
+| Art. 24W | [art-024-w.md](art-024-w.md) | 24W Civil liability for breach of security duties |
+| Art. 24X | [art-024-x.md](art-024-x.md) | 24X Limits on duty to comply with security duties |
+| Art. 24Y | [art-024-y.md](art-024-y.md) | 24Y Statement of policy on ensuring compliance with security duties |
+| Art. 24Z | [art-024-z.md](art-024-z.md) | 24Z Security reports |
 | Art. 24ZA | [art-024-za.md](art-024-za.md) | 24ZA Right of appeal |
 | Art. 24ZB | [art-024-zb.md](art-024-zb.md) | 24ZB Power to amend this Part by Regulations to provide for Authority to require payment of fees |
 | Art. 24ZC | [art-024-zc.md](art-024-zc.md) | 24ZC Power of Authority to require information |

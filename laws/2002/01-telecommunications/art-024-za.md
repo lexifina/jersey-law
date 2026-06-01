@@ -3,12 +3,12 @@
 (2) The decisions in this paragraph are decisions -
 (a) to initiate, bring or carry on civil proceedings;
 (b) to take preliminary steps for the purpose of enabling criminal or civil proceedings to be initiated;
-(c) [not in force]
-(d) [not in force]
+(c) relating to the making or revision of a statement of policy under Article 24Y;
+(d) relating to the making of a security report under Article 24Z;
 (e) relating to the making or revision of a statement of policy under Article 24ZE;
 (f) to require information for the purpose of preparing a report under paragraph 2 of Schedule 1;
 (g) to impose a duty by an inspection notice under paragraph 4 of Schedule 1;
-(h) [not in force]
+(h) to include an urgency statement in an assessment notice given under paragraph 1 of Schedule 2.
 (3) A person who is required, by a confirmation decision given under paragraph 12 of Schedule 1, to pay a penalty, may appeal to the Court against the Minister’s decision to impose that penalty.
 (4) An appeal under this Article must be made by sending the Court a notice of appeal -
 (a) in accordance with Rules of Court; and

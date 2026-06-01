@@ -3,6 +3,6 @@
 (a) public communications providers;
 (b) users of public electronic communications networks and public electronic communications services.
 (2) Paragraph (1) does not affect the requirement to publish a statement of policy under -
-(a) [not in force]
+(a) Article 24Y;
 (b) Article 24ZE.
 (3) Publication under paragraph (1) may be in such manner as the Authority considers appropriate.

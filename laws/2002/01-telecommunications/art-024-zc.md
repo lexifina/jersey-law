@@ -2,12 +2,12 @@
 (1) The Authority may require a person falling within paragraph (3) to provide it with any information that it reasonably requires for the purposes of carrying out its functions under this Part including, in particular, information it requires -
 (a) for the purposes of establishing whether a person, other than the Authority or the Minister, has breached a requirement under this Part;
 (b) for the purposes of assessing the risk of a security compromise occurring in relation to a public electronic communications network or a public electronic communications service;
-(c) [not in force]
-(d) [not in force]
-(e) [not in force]
+(c) for the purposes of giving a notification under Article 24R;
+(d) as a result of a notification given under Article 24S or 24T;
+(e) for the purposes of preparing a report under Article 24Z;
 (f) for the purposes of carrying out its functions under paragraph 2 or 4 of Schedule 1;
-(g) [not in force]
-(h) [not in force]
+(g) for the purposes of an assessment under paragraph 1 of Schedule 2; or
+(h) for the purposes of carrying out its functions under paragraphs 4 to 11 of Schedule 2.
 (2) The Authority may require a person falling within paragraph (3) -
 (a) to produce, generate or obtain information for the purpose of providing it under paragraph (1);
 (b) to collect or retain information that the person would not otherwise collect or retain for the purpose of providing it under paragraph (1);
