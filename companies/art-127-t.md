@@ -18,3 +18,4 @@
 (ii) that the application of every member who has so applied to the court has been determined by the court in a way which does not prevent the Commission from granting the application made to it under this Article;
 (e) that the company has complied with such other conditions as may be prescribed; and
 (f) that the company is not prevented by Article 127I from making the application.
+(3) In this Article, “creditor” has the same meaning as in Article 127R.

@@ -20,8 +20,8 @@
 (5) If Article 127FD does not apply to the merger, the application shall in addition be accompanied by -
 (a) information, as at the time of the application under this Article, as to -
 (i) any notice of objection given by a creditor under Article 127FE(2)(a), or
-(ii) if no such notice has been given, the date on which the time for doing so has elapsed or will elapse; and
-(b) evidence satisfactory to the Commission that the merger would not be unfairly prejudicial to the interests of any creditor of any of the merging bodies.
+(ii) if no such notice has been given, the date on which the time for doing so has elapsed or will elapse.
+(b)
 (6) If the merged body is to be a company -
 (a) the application shall in addition be accompanied by -
 (i) the consents of its proposed directors to act as such, and
@@ -35,7 +35,7 @@
 (c) if the overseas body is not to be a survivor body, the overseas body will, in due course after completion of the merger, cease to be a body incorporated under the law of the jurisdiction in which it is presently incorporated.
 (8) If the merged body is to be an overseas body, the application shall in addition be accompanied by evidence satisfactory to the Commission that the laws of the jurisdiction in which the merged body is to be incorporated provide that upon the merger -
 (a) the property and rights to which the merging bodies were entitled immediately before the merger will become the property and rights of the merged body;
-(b) the merged body will become subject to any criminal and civil liabilities, and any contracts, debts and other obligations, to which the merging bodies were subject immediately before merger; and
+(b) the merged body will become subject to any criminal and civil liabilities, and any contracts, debts and other obligations, including rights and obligations entered into as a trustee or in another fiduciary capacity, to which the merging bodies were subject immediately before merger; and
 (c) any actions and other legal proceedings that, immediately before the merger, were pending by or against any of the merging bodies may be continued by or against the merged body.
 (9) In paragraphs (10), (11) and (12) ‘objection’ means -
 (a) the making by a member of an application to the court under Article 127FB in respect of any merging company; and

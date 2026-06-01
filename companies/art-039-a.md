@@ -6,3 +6,4 @@
 (b) the value, as determined by the directors, of the “cause” received by the company, otherwise than in cash, for the issue of shares of that class.
 (3A) An amount may be transferred by the company to a stated capital account from any other account of the company.
 (4) A stated capital account may be applied by the company for any purpose for which a share premium account may be applied by a par value company.
+(5) This Article is subject to Articles 39B to 39F.

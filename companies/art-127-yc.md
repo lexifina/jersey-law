@@ -3,7 +3,7 @@
 (2) A memorandum which forms part of the application in accordance with Article 127YA(3) and which specifies that -
 (a) the cell or proposed cell to which it refers is to be, or to be taken to be, a public company, shall be taken to be a memorandum delivered to the registrar under Article 3(1) constituting an application for the formation of a public company, although it has not been signed in accordance with that paragraph; or
 (b) the cell or proposed cell to which it refers is to be, or to be taken to be, a private company, shall be taken to be a memorandum delivered to the registrar under Article 3(2) constituting an application for the formation of a private company, although it has not been signed in accordance with that paragraph.
-(3) Article 3(3) shall apply in relation to a cell or proposed cell of a cell company as if all the words after “more than 30 persons” were deleted.
+(3)
 (4) A reference in Article 3(10) to Article 127YA(4) shall be taken to be a reference to Article 127YB(2).
 (5) Article 4(3) shall not apply in relation to a cell or a proposed cell.
 (6) Nothing in this Law shall be taken to require there to be a subscriber in relation to a cell or a proposed cell.

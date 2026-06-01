@@ -13,6 +13,8 @@ or by sending copies to some members in accordance with sub-paragraph (a) and su
 (a) the period specified for this purpose in the articles; or
 (b) if none is specified, the period of 28 days beginning with the circulation date.
 (7) The agreement of a member to such a resolution is ineffective if signified after the end of that period.
-(8) For the purposes of this Article an “eligible member” is a member who, at the circulation date, would be entitled to vote on the resolution if it were proposed at a meeting.
-(9) In this Article the “circulation date” means the date on which copies of the resolution are sent or submitted to members in accordance with this Article (or, if copies are sent or submitted to members on different days, the first of those days).
+(8) For the purposes of this Part -
+(a) an “eligible member” is a member who, at the circulation date, would be entitled to vote on the resolution if it were proposed at a meeting;
+(b) “circulation date” means the date on which copies of the resolution are sent or submitted to members (or, if copies are sent or submitted to members on different days, the first of those days).
+(9)
 (10) The validity of a resolution, if passed, is not affected by a failure to comply with this Article.

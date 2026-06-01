@@ -1,6 +1,6 @@
 # 157C Order of court commencing creditors’ winding up
 (1) The court, after considering an application made, and the affidavit required, under Article 157A, may -
-(a) make an order that a creditors’ winding up must commence in respect of the company from the date the application is made or such other date as the court deems fit and appoint a person nominated by the applicant or selected by the court as the liquidator; or
+(a) make an order that a creditors’ winding up must commence in respect of the company and appoint a person nominated by the applicant or selected by the court as the liquidator; or
 (b) dismiss the application and make such order as it thinks fit.
 (2) The court may -
 (a) at any time adjourn the hearing of an application made under Article 157A for such time as the court thinks fit;

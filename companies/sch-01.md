@@ -1,6 +1,6 @@
 # Schedule 1
 (Article 215)
-Punishment of Offences
+Punishment of offences
 Article of Law creating offence
 General nature of offence
 Punishment
@@ -14,22 +14,6 @@ Level 3
 Level 2
 15(5)
 Company failing to change name on direction of registrar
-Level 3
-Level 2
-16(5)
-Company failing to comply with condition of direction, or to deliver to registrar copy of notice of direction of Commission or of withdrawal or amendment of condition
-Level 3
-Level 2
-17(5)
-Private company failing to give written notice to registrar of increase of membership beyond 30
-Level 3
-Level 2
-17(8)
-Private company failing to deliver to registrar Act of the court relieving company from consequences of increasing the number of its members beyond 30
-Level 3
-Level 2
-17(8)
-Company failing to deliver to registrar copy of direction by Commission modifying Article 17(2) in its application to the company
 Level 3
 Level 2
 22(1A)
@@ -66,6 +50,10 @@ A fine
 Company failing to deliver to registrar Act of court ordering rectification of register of members
 Level 3
 Level 2
+47(6)
+Company failing to notify registrar of rectification of error or omission in the register
+Level 3
+Level 2
 49(10)
 Company failing to comply with requirements in respect of overseas branch registers
 Level 3
@@ -85,10 +73,9 @@ Level 2
 55(10)
 Director making statement without reasonable grounds for the opinion expressed
 2 years or a fine; or both
-58B(4)
-Company failing to dispose for treasury shares
-Level 3
-Level 2
+55A(3)
+Director making statement without reasonable grounds for the opinion expressed
+2 years or a fine; or both
 61A(3)
 Director making solvency statement without reasonable grounds for the opinion expressed
 2 years or a fine; or both
@@ -138,6 +125,12 @@ Failure to give notice, to member entitled to vote at company meeting, that he o
 Level 3
 96(5)
 Officer of company authorizing or permitting issue of irregular invitations to appoint proxies
+A fine
+96A(6)
+Failure to give notice of direct voting option to member entitled to vote at company meeting
+Level 3
+96A(9)
+Officer of company authorising or permitting irregular issue of direct voting forms
 A fine
 98(4)
 Company failing to keep minutes of proceedings at company and board meetings, etc.
@@ -227,9 +220,16 @@ A fine
 113Q(4)
 Officer of company that fails to comply with a direction to have the company’s accounts re-audited or to restate them (and failing, if further directed to do so, to have those restated accounts audited)
 2 years or a fine; or both
+113T(5)
+Officer of equivalently regulated company failing to deliver audited accounts to registrar within 5 days of filing with prescribed regulator, or failing to notify registrar that financial statements were filed late
+Level 3
+Level 2
 115(5)
 Director making statement without having reasonable grounds for doing so
 2 years or a fine, or both
+115ZB(3)
+Director making statement without having reasonable grounds for doing so
+2 years or a fine; or both
 117(6)
 Offeror failing to send to company whose shares are the subject of the offer notice and declaration required by Article 117(4); making false declaration for purposes of Article 117(4)
 2 years or a fine; or both

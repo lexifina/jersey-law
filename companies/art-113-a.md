@@ -6,7 +6,8 @@
 (3) The report must -
 (a) state the name of the auditor; and
 (b) be signed and dated.
-(4) If -
-(a) the auditor is an individual, the report must be signed by the auditor; or
-(b) the auditor is a firm, the report must be signed in his or her name by the individual in the firm who is responsible to it for examining and reporting on the accounts, for and on behalf of the auditor.
+(4) If the auditor is an individual, the report must be signed by the auditor.
+(4A) If the auditor is a firm, the report must be signed, for and on behalf of the auditor, by the individual in the firm who is responsible to it for examining and reporting on the accounts -
+(a) in that individual’s name; and
+(b) clearly stating the individual’s full name.
 (5) The fact that an individual signs an audit report does not make the individual liable to any civil liability to which the individual would not otherwise be liable.

@@ -1,0 +1,3 @@
+# 77A Insurance
+(1) A company may purchase and maintain insurance in relation to a person who is or was an officer of the company or who, at the request of the company, is or was serving as an officer of, or in any other capacity is or was acting for, another body corporate or a partnership, joint venture trust or other enterprise, against any liability asserted against the person and incurred by the person in that capacity.
+(2) Paragraph (1) applies whether or not the company has the power to indemnify the person against the liability under Article 77 (or would have had the power to indemnify the person against the liability under Article 77 before its substitution by the Companies (Jersey) Amendment Law 2026).

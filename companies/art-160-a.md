@@ -10,6 +10,4 @@
 (4) If -
 (a) the liquidator appointed by the court without reasonable excuse fails to comply with paragraph (1), the liquidator commits an offence; or
 (b) the directors of the company in respect of which a creditors’ winding up is ordered without reasonable excuse fail to comply with paragraph (2), the directors commit an offence.
-(5) For the purposes of paragraph (1) “working day” means a weekday (within the meaning of Part 1 of the Schedule to the Public Holidays and Bank Holidays (Jersey) Act 2010) other than -
-(a) a day specified in that Schedule as a day which is to be observed as a public holiday; or
-(b) a day noted in that Schedule as a day which is by custom observed as a general holiday.
+(5)

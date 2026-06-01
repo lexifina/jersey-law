@@ -21,5 +21,5 @@
 (7) The persons falling within this paragraph are -
 (a) the persons proposed in the merger agreement, or in a special resolution passed under Article 127FA -
 (i) to be directors of the merged body, or
-(ii) to manage the merged body, if it is to be a body that does not have directors; and
-(b) if none of the directors of the merging companies is a person referred to in sub-paragraph (a), each person who must sign a certificate under paragraph (5).
+(ii) to manage the merged body, if it is to be a body that does not have directors.
+(b)

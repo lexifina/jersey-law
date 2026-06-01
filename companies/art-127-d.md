@@ -12,7 +12,7 @@
 (d) in relation to any securities of a merging company, the information specified in paragraph (3).
 (3) The information referred to in paragraph (2)(d) is -
 (a) if the securities are to be converted into securities of the merged body, the manner in which that conversion is to be done; or
-(b) otherwise, what the holders are to receive instead and the manner in which and the time at which they are to receive it.
+(b) otherwise, whether the holders are to receive anything instead and the manner in which and the time at which they are to receive it.
 (4) If the merged body is to be a new company, the merger agreement shall also set out -
 (a) the proposed memorandum and articles of the merged company; and
 (b) a draft of any other document or information that would be required by Part 2 to be delivered to the registrar if the merged company were being incorporated under this Law otherwise than by merger.

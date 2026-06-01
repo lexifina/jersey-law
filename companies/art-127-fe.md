@@ -1,10 +1,10 @@
 # 127FE Objection by creditor if all solvency statements made
 (1) This Article applies to a merger to which Article 127FD does not apply.
-(2) A creditor of a merging company who objects to the merger -
+(2) A creditor of a merging company with a claim against the company for a liquidated sum exceeding £25,000 who objects to the merger -
 (a) may, within 21 days of the date of the publication of the notice under Article 127FC(5), give notice of the creditor’s objection to the company; and
 (b) may, within 21 days of the date of the notice of objection, if the creditor’s claim against the company has not been discharged, apply to the court for an order restraining the merger or modifying the merger agreement.
 (3) If a creditor makes an application under paragraph (2)(b), the company shall, within a reasonable time after receiving a copy of the application, send a copy of it to each other creditor -
-(a) to whom a notice was sent under Article 127FC(1);
+(a) to whom a notice was sent under Article 127FC(1) or (1A);
 (b) who has required notification under Article 127FC(3)(b);
 (c) who has given notice of objection under paragraph (2)(a); or
 (d) to whom the court orders that a copy should be sent.

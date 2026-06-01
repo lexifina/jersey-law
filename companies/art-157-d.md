@@ -7,4 +7,4 @@
 (c) the company.
 (4) If the court makes an order under this Article, the court may make such further order as it thinks fit.
 (5) If the court makes an order under this Article, the creditors’ winding up terminates from the date of the order unless the court orders otherwise.
-(6) An order made under this Article does not prejudice the validity of any act of the liquidator relating to the company between the date the application for the creditors’ winding up is made under Article 157C(1)(a) and the date of the termination of the creditors’ winding up under paragraph (5).
+(6) An order made under this Article does not affect the validity of any act of the liquidator (including a liquidator appointed provisionally under Article 157B) relating to the company between the date of the liquidator’s appointment and the date of the termination of the creditors’ winding up under paragraph (5).

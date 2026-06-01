@@ -1,5 +1,5 @@
 # 115ZA Order treating distribution as made in accordance with Article 115
-(1) Where a distribution has been made by a company in contravention of Article 115 and the company makes an application to the court, the court shall make an order that the distribution is to be treated for all purposes as if it had been made in accordance with that Article if the court -
+(1) Where a distribution has been made by a company in contravention of Article 115 the company may make an application to the court, and the court shall make an order that the distribution is to be treated for all purposes as if it had been made in accordance with that Article if the court -
 (a) considers that all of the conditions specified in paragraph (2) are met; and
 (b) does not consider that it would be contrary to the interests of justice to do so.
 (2) The conditions referred to in paragraph (1)(a) are that -

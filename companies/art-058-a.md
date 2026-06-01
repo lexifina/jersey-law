@@ -1,16 +1,13 @@
 # 58A Treasury shares
-(1) A company may hold as treasury shares any of the limited shares that it has redeemed or purchased under this Part (including by the purchase of depositary certificates), to the extent that -
-(a) it is not prohibited, by its memorandum or articles of association, from holding shares as treasury shares; and
-(b) it is authorized by a resolution of the company to hold the shares as treasury shares.
+(1) A company may hold as treasury shares any of the limited shares that it has redeemed or purchased under this Part (including by the purchase of depositary certificates), to the extent that it is not prohibited, by its articles of association, from holding shares as treasury shares.
 (2) A company that holds shares as treasury shares may -
 (a) cancel the shares;
-(b) sell the shares;
-(c) transfer the shares for the purposes of or under an employees’ share scheme; or
-(d) hold the shares without cancelling, selling or transferring them.
+(b) transfer the shares for any purpose, for or without consideration; or
+(c) hold the shares without cancelling or transferring them.
 (3) While shares are held by a company as treasury shares -
 (a) the company shall not, for the purposes of Articles 71, 89 and 92(2) be treated as being a member or as holding shares in the company;
 (b) the company shall not exercise any voting rights attaching to the shares;
-(c) if a provision of this Law (other than Article 58B) requires -
+(c) if a provision of this Law requires -
 (i) a proportion of votes attaching to shares held in the company to be obtained, or
 (ii) a proportion of the holders of shares of the company, (which may include persons representing by proxy other holders of shares of the company) to consent or not to consent,
 in order for a resolution to be passed or an action or decision to be taken or not to be taken by any person, the shares held as treasury shares shall not for the purposes of that provision be taken into account in determining -
@@ -31,9 +28,5 @@ in order for a resolution to be passed or an action or decision to be taken or n
 (8) If shares are held by a company as treasury shares -
 (a) the register kept under Article 41 shall include an entry relating to the number of shares held as treasury shares.
 (b)
-(9) For the purposes of this Article, an employees’ share scheme is a scheme for encouraging or facilitating the holding of shares or debentures in a company by or for the benefit of -
-(a) the bona fide employees or former employees of the company, the company’s subsidiary or holding company or a subsidiary of the company’s holding company; or
-(b) the wives, husbands, widows, widowers, civil partners or surviving civil partners or minor children or minor step-children of such employees or former employees.
-(10) In paragraph (9) the following are treated as the child of a person -
-(a) the person’s adopted child;
-(b) a child who is the subject of a parental order in which the person is named as the child’s parent.
+(9)
+(10)

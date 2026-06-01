@@ -5,7 +5,7 @@
 (c) any merging body falling within Article 127B(3) that is not a survivor body ceases to be incorporated as a separate body.
 (2) When a merger is completed in which the merged body is a company or a body falling within Article 127B(3) -
 (a) all property and rights to which each merging body was entitled immediately before the merger was completed become the property and rights of the merged body;
-(b) the merged body becomes subject to all criminal and civil liabilities, and all contracts, debts and other obligations, to which each of the merging bodies was subject immediately before the merger was completed; and
+(b) the merged body becomes subject to all criminal and civil liabilities, and all contracts, debts and other obligations, including rights and obligations entered into as a trustee or in another fiduciary capacity, to which each of the merging bodies was subject immediately before the merger was completed; and
 (c) all actions and other legal proceedings which, immediately before the merger was completed, were pending by or against any of the merging bodies may be continued by or against the merged body.
 (3) Entries made on the register under Article 127FM are conclusive evidence of the following matters to which they refer -
 (a) that on the completion date specified in the entry the merging bodies merged and continued as the merged body; and

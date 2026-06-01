@@ -2,6 +2,9 @@
 (1) Upon the issue of the certificate of continuance by the registrar -
 (a) the body corporate becomes a company incorporated under this Law, to which this Law applies accordingly; and
 (b) the memorandum and articles, or the instrument constituting or defining the constitution of the body corporate, as amended in accordance with its articles of continuance, become the memorandum and articles of the continued company.
+(1A) The issue of the certificate of continuance by the registrar does not -
+(a) create a new legal entity; or
+(b) prejudice or affect the continuity of the body corporate that has become a company incorporated under this Law.
 (2) When a body corporate is continued as a company incorporated under this Law -
 (a) all property and rights to which the body corporate was entitled immediately before the certificate of continuance is issued are the property and rights of the company;
 (b) the company is subject to all criminal and civil liabilities, and all contracts, debts and other obligations, to which the body corporate was subject immediately before the certificate of continuance is issued; and

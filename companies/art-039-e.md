@@ -1,0 +1,2 @@
+# 39E Relief may be reflected in company’s balance sheet
+If a company allots shares and any amount or value in respect of those shares is not transferred to its share premium account or stated capital account by virtue of the application of any relief under Article 39B or 39C, an equivalent amount or value may also be disregarded in determining the amount or value at which any shares or other consideration provided for the shares issued is to be included in the company’s balance sheet.
