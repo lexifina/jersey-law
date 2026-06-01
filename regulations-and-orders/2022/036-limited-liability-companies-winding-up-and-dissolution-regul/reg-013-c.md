@@ -1,6 +1,6 @@
 # 13C Order of Court commencing creditors’ winding up
 (1) The Court, after considering an application made, and the affidavit required, under Regulation 13A, may -
-(a) make an order that a creditors’ winding up must commence in respect of the limited liability company from the date of the application or such other date as the Court deems fit and appoint a person nominated by the applicant or selected by the Court as the liquidator; or
+(a) make an order that a creditors’ winding up must commence in respect of the limited liability company and appoint a person nominated by the applicant or selected by the Court as the liquidator; or
 (b) dismiss the application and make such order as it thinks fit.
 (2) The Court may -
 (a) at any time adjourn the hearing of an application made under Regulation 13A for such time as the Court thinks fit;

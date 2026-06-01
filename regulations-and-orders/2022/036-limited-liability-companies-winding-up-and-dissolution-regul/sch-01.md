@@ -1,6 +1,6 @@
-# Schedule
+# Schedule 1
 (Regulation 13A(2)(a))
-statutory demand
+Statutory demand
 STATUTORY DEMAND
 Under Regulation 13A of the Limited Liability Companies (Winding Up and Dissolution) (Jersey) Regulations 2022
 Warning

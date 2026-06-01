@@ -13,3 +13,4 @@
 (6) The liquidator appointed by the Court must preside over the creditors’ meeting called under this Regulation.
 (7) In paragraph (1), “working day” means a day which is not -
 (a) a Saturday, a Sunday, Christmas Day, or Good Friday; or
+(b) a day that is a public holiday under the Public Holidays and Bank Holidays (Jersey) Act 2010.
