@@ -1,6 +1,6 @@
 # Financial Services (Disclosure and Provision of Information) (Jersey) Order 2020
 
-R&O.184/2020 · official consolidation showing the law from 2021-01-06 · <https://www.jerseylaw.je/laws/current/ro_184_2020_20260531>
+R&O.184/2020 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/ro_184_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
