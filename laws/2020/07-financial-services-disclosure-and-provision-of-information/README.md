@@ -1,6 +1,6 @@
 # Financial Services (Disclosure and Provision of Information) (Jersey) Law 2020
 
-L.7/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-07-2020.aspx>
+L.7/2020 Â· official consolidation showing the law from 2026-06-01 Â· <https://www.jerseylaw.je/laws/current/l_7_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -13,6 +13,9 @@ L.7/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-07-
 | Art. 6 | [art-006.md](art-006.md) | 6 Appointment of nominated person |
 | Art. 7 | [art-007.md](art-007.md) | 7 Nominated person to provide information to Commission |
 | Art. 8 | [art-008.md](art-008.md) | 8 Commission to maintain register |
+| Art. 8A | [art-008-a.md](art-008-a.md) | 8A Interpretation of Articles 8B and 8C |
+| Art. 8B | [art-008-b.md](art-008-b.md) | 8B Disclosure and use of beneficial owner information |
+| Art. 8C | [art-008-c.md](art-008-c.md) | 8C Relevant person to provide information to Commission |
 | Art. 9 | [art-009.md](art-009.md) | 9 Provision of information to local competent authorities |
 | Art. 10 | [art-010.md](art-010.md) | 10 Permitted disclosure of information |
 | Art. 11 | [art-011.md](art-011.md) | 11 Authority to disclose information |
@@ -31,6 +34,5 @@ L.7/2020 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-07-
 | Art. 24 | [art-024.md](art-024.md) | 24 Rules of Court |
 | Art. 25 | [art-025.md](art-025.md) | 25 Customary law |
 | Art. 26 | [art-026.md](art-026.md) | 26 Transitional provisions |
-| Art. 27 | [art-027.md](art-027.md) | 27 Foundations (Jersey) Law 2009 amended |
 | Art. 28 | [art-028.md](art-028.md) | 28 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
