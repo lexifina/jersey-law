@@ -1,6 +1,6 @@
 # Elections (Jersey) Law 2002
 
-L.12/2002 · official consolidation showing the law from 2026-03-24 · <https://www.jerseylaw.je/laws/current/l_12_2002_20260606>
+L.12/2002 · official consolidation showing the law from 2026-06-07 · <https://www.jerseylaw.je/laws/current/l_12_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
