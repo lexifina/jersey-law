@@ -1,6 +1,6 @@
 # Civil Partners Causes Rules 2012
 
-R&O.42/2012 · official consolidation showing the law from 2025-04-14 · <https://www.jerseylaw.je/laws/current/ro_42_2012_20260606>
+R&O.42/2012 · official consolidation showing the law from 2026-06-07 · <https://www.jerseylaw.je/laws/current/ro_42_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
