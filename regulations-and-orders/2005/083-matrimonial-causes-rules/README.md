@@ -1,6 +1,6 @@
 # Matrimonial Causes Rules 2005
 
-R&O.83/2005 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/ro_83_2005_20260606>
+R&O.83/2005 · official consolidation showing the law from 2026-06-07 · <https://www.jerseylaw.je/laws/current/ro_83_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
