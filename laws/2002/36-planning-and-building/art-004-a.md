@@ -1,19 +1,18 @@
-# 4A Procedure for and following lodging of draft Island Plan
-(1) A draft Island Plan cannot be debated by the States unless it has been lodged for a minimum period of 12 weeks.
-(2) An amendment to a draft Island Plan cannot be debated by the States -
-(a) in the case of an amendment to the draft bridging plan, unless it has been lodged during -
-(i) the period of 12 weeks mentioned in Article 3(3A), or
-(ii) such further period, ending not less than 5 weeks before the debate, as may be prescribed by Order; or
-(b) in the case of an amendment to a draft Island Plan other than the draft bridging plan, unless it has been lodged for a minimum period of 8 weeks.
-(3) An amendment to an amendment to a draft Island Plan cannot be debated by the States -
-(a) in the case of an amendment to an amendment to the draft bridging plan, unless it has been lodged during -
-(i) the period of 12 weeks mentioned in Article 3(3A), or
-(ii) such further period, ending not less than 4 weeks before the debate, as may be prescribed by Order;
-(b) in the case of an amendment to an amendment to a draft Island Plan other than the draft bridging plan, unless it has been lodged for a minimum period of 6 weeks.
-(3A) An amendment by the Minister to the Minister’s proposals in the draft bridging plan cannot be debated by the States unless it has been -
-(a) made in accordance with such further provision on the procedure for the draft bridging plan as may be made by Order; and
-(b) lodged for a minimum period of 2 weeks.
-(4) But paragraph (2), (3) or (3A), as the case may be, does not apply if the States agree that an amendment lodged by the Minister may be debated forthwith or on a day or at a time approved by the States.
-(5)
-(6)
-(7)
+# 4A Regulations to set out Island Plan procedures
+(1) The States may make Regulations to set out the procedures that must be followed in relation to the lodging of a draft Island Plan, including (but not limited to) -
+(a) the process and minimum lodging period for lodging a draft Island Plan;
+(b) the process and minimum lodging period for lodging an amendment to a draft Island Plan;
+(c) the procedures that must be followed during the period between lodging a draft Island Plan and debating it;
+(d) the manner in which the Minister’s proposals, in the form of a draft Island Plan, are to be publicised;
+(e) the manner in which representations on those proposals are to be made;
+(f) the procedures to be followed when representations are required to be considered by an independent planning inspector;
+(g) the appointment, powers and general functions of an independent planning inspector.
+(2) Before lodging the first draft Island Plan after the commencement of the Planning and Building (Jersey) Amendment Law 2026, the Minister must lodge Regulations under paragraph (1) in sufficient time that those Regulations can be approved by the States and brought into force before a draft Island Plan is lodged.
+(3) The States may make Regulations to set out the procedures that must be followed for making a revision to an Island Plan or to the bridging island plan, including (but not limited to) -
+(a) the manner in which the Minister’s proposals, in the form of a draft revision of an Island Plan or of the bridging island plan, are to be publicised;
+(b) the manner in which representations on those proposals are to be made;
+(c) whether or not representations are required to be considered by an independent planning inspector;
+(d) the procedures to be followed when representations are required to be considered by an independent planning inspector;
+(e) the manner in which the Minister’s proposals, in the form of a draft revision of an Island Plan or of the bridging island plan, are to be approved.
+(4) Before preparing the first draft revision of an Island Plan or of the bridging island plan after the commencement of the Planning and Building (Jersey) Amendment Law 2026, the Minister must lodge Regulations under paragraph (3) in sufficient time that those Regulations can be approved by the States and brought into force before a draft revision is prepared.
+(5) In this Article, “amendment” includes an amendment to an amendment.

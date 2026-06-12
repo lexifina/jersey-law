@@ -1,6 +1,6 @@
 # Planning and Building (Jersey) Law 2002
 
-L.36/2002 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_36_2002_20260611>
+L.36/2002 · official consolidation showing the law from 2026-06-12 · <https://www.jerseylaw.je/laws/current/l_36_2002_20260713>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -9,7 +9,8 @@ L.36/2002 · official consolidation showing the law from 2024-01-11 · <https://
 | Art. 2 | [art-002.md](art-002.md) | 2 Purposes of Law |
 | Art. 3 | [art-003.md](art-003.md) | 3 Minister to prepare a draft Island Plan |
 | Art. 4 | [art-004.md](art-004.md) | 4 Form of draft Island Plan |
-| Art. 4A | [art-004-a.md](art-004-a.md) | 4A Procedure for and following lodging of draft Island Plan |
+| Art. 4A | [art-004-a.md](art-004-a.md) | 4A Regulations to set out Island Plan procedures |
+| Art. 4B | [art-004-b.md](art-004-b.md) | 4B Regulations for consequential amendments |
 | Art. 5 | [art-005.md](art-005.md) | 5 Meaning of “develop”, commencement of development, etc. |
 | Art. 6 | [art-006.md](art-006.md) | 6 Minister may publish guidelines, etc. |
 | Art. 7 | [art-007.md](art-007.md) | 7 Land not to be developed without permission |
