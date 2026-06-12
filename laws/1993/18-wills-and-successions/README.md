@@ -1,6 +1,6 @@
 # Wills and Successions (Jersey) Law 1993
 
-L.18/1993 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_18_1993_20260611>
+L.18/1993 · official consolidation showing the law from 2026-06-12 · <https://www.jerseylaw.je/laws/current/l_18_1993>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -8,16 +8,16 @@ L.18/1993 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 1 | [art-001.md](art-001.md) | 1 Interpretation |
 | Art. 2 | [art-002.md](art-002.md) | 2 Représentation |
 | Art. 3 | [art-003.md](art-003.md) | 3 Right of maternal relatives in collateral succession |
+| Art. 3AA | [art-003-aa.md](art-003-aa.md) | 3AA Right of relatives of the half-blood in collateral succession |
 | Art. 3A | [art-003-a.md](art-003-a.md) | 3A Assets forming part of immovable estate treated as acquêts |
 | Art. 4 | [art-004.md](art-004.md) | 4 Heirs take as tenants in common |
-| Art. 5 | [art-005.md](art-005.md) | 5 Right of surviving spouse to life enjoyment of matrimonial home or surviving civil partner to life enjoyment of civil  |
+| Art. 5 | [art-005.md](art-005.md) | 5 Right on intestacy of surviving spouse or civil partner to usufruit (life enjoyment) of matrimonial home or civil part |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Dower |
+| Art. 5B | [art-005-b.md](art-005-b.md) | 5B References to dower in enactments and in dispositions |
 | Art. 6 | [art-006.md](art-006.md) | 6 Devolution of immovable estate on intestacy |
-| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Extension of right in nature of dower to surviving spouses and surviving civil partners |
-| Art. 6B | [art-006-b.md](art-006-b.md) | 6B Extension of right in nature of dower to widowers |
-| Art. 6C | [art-006-c.md](art-006-c.md) | 6C References to dower in enactments and in dispositions |
 | Art. 7 | [art-007.md](art-007.md) | 7 Devolution of movable estate |
-| Art. 8 | [art-008.md](art-008.md) | 8 Spouses living apart |
-| Art. 8AA | [art-008-aa.md](art-008-aa.md) | 8AA Civil partners living apart |
+| Art. 8 | [art-008.md](art-008.md) | 8 Spouses residing apart |
+| Art. 8AA | [art-008-aa.md](art-008-aa.md) | 8AA Civil partners residing apart |
 | Art. 8A | [art-008-a.md](art-008-a.md) | 8A Interpretation of Part 3A |
 | Art. 8B | [art-008-b.md](art-008-b.md) | 8B Application of Part 3A |
 | Art. 8C | [art-008-c.md](art-008-c.md) | 8C Equality of succession |
@@ -34,6 +34,7 @@ L.18/1993 · official consolidation showing the law from 2025-11-24 · <https://
 | Art. 14A | [art-014-a.md](art-014-a.md) | 14A Abolition of viduité |
 | Art. 14B | [art-014-b.md](art-014-b.md) | 14B Abolition of requirement of consummation in relation to dower |
 | Art. 14C | [art-014-c.md](art-014-c.md) | 14C Abolition of rules relating to collateral succession of immovable estate |
+| Art. 14D | [art-014-d.md](art-014-d.md) | 14D Abolition of role of sex in determining principal heir |
 | Art. 15 | [art-015.md](art-015.md) | 15 Costs of administration |
 | Art. 16 | [art-016.md](art-016.md) | 16 Testamentary dispositions and appointments revoked by divorce or dissolution of civil partnership |
 | Art. 17 | [art-017.md](art-017.md) | 17 Will made by a minor |
