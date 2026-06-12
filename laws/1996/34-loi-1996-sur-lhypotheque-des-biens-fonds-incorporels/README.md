@@ -1,6 +1,6 @@
 # Loi (1996) sur l’hypothèque des biens-fonds incorporels
 
-L.34/1996 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_34_1996_20260611>
+L.34/1996 · official consolidation showing the law from 2026-06-12 · <https://www.jerseylaw.je/laws/current/l_34_1996>
 
 | Provision | File | Heading |
 | --- | --- | --- |
