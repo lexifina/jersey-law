@@ -1,0 +1,1 @@
+A LAW to make provision for imposing an economic substance test on Jersey resident companies and for determining whether the test is met by assessing the extent of certain relevant activities carried out by such companies and taking appropriate enforcement action.
