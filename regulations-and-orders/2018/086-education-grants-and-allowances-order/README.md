@@ -1,6 +1,6 @@
 # Education (Grants and Allowances) (Jersey) Order 2018
 
-R&O.86/2018 · official consolidation showing the law from 2026-03-20 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20260616>
+R&O.86/2018 · official consolidation showing the law from 2026-06-17 · <https://www.jerseylaw.je/laws/current/ro_86_2018_20260831>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ R&O.86/2018 · official consolidation showing the law from 2026-03-20 · <https:
 | Art. 24 | [art-024.md](art-024.md) | 24 Vacation study allowance |
 | Art. 25 | [art-025.md](art-025.md) | 25 Field trip allowance |
 | Art. 26 | [art-026.md](art-026.md) | 26 Applications for grants and allowances |
-| Art. 27 | [art-027.md](art-027.md) | 27 Information provided by the Comptroller of Taxes |
+| Art. 27 | [art-027.md](art-027.md) | 27 Information provided by Comptroller of Revenue |
 | Art. 28 | [art-028.md](art-028.md) | 28 Period of grant or allowance |
 | Art. 29 | [art-029.md](art-029.md) | 29 Withdrawal of grant or allowance in cases of failure etc. |
 | Art. 30 | [art-030.md](art-030.md) | 30 Payment of grant or allowance |
