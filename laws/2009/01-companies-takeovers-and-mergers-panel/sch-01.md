@@ -7,7 +7,7 @@ SPECIFIED PERSONS
 1A Minister for External Relations
 2 Minister for Treasury and Resources
 3 Commission
-4 Comptroller of Income Tax
+4 Comptroller of Revenue
 5 Agent of the Impôts
 6 Attorney General
 7 Viscount
@@ -26,7 +26,7 @@ the Financial Services (Jersey) Law 1998.
 14 A disclosure for the purpose of enabling any of the following to exercise its functions -
 the European Central Bank;
 the central bank of any country or territory outside Jersey.
-15 A disclosure for the purpose of enabling or assisting the Comptroller of Income Tax to exercise his or her functions.
+15 A disclosure for the purpose of enabling or assisting the Comptroller of Revenue to exercise his or her functions.
 16 A disclosure for the purpose of enabling or assisting the Agent of the Impôts to exercise his or her functions.
 17 A disclosure for the purpose of enabling or assisting the Jersey Competition Regulatory Authority to exercise its functions.
 18 A disclosure for the purpose of enabling or assisting the Attorney General to exercise his or her functions in connection with charities.
