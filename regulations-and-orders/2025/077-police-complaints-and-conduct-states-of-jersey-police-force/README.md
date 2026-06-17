@@ -1,6 +1,6 @@
 # Police (Complaints and Conduct - States of Jersey Police Force) Regulations 2025
 
-R&O.77/2025 · official consolidation showing the law from 2025-12-05 · <https://www.jerseylaw.je/laws/current/ro_77_2025_20260616>
+R&O.77/2025 · official consolidation showing the law from 2026-06-17 · <https://www.jerseylaw.je/laws/current/ro_77_2025>
 
 | Provision | File | Heading |
 | --- | --- | --- |
