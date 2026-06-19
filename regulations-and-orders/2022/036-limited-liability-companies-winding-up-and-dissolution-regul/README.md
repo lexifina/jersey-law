@@ -1,6 +1,6 @@
 # Limited Liability Companies (Winding Up and Dissolution) (Jersey) Regulations 2022
 
-R&O.36/2022 · official consolidation showing the law from 2026-06-01 · <https://www.jerseylaw.je/laws/current/ro_36_2022_20260618>
+R&O.36/2022 · official consolidation showing the law from 2026-06-19 · <https://www.jerseylaw.je/laws/current/ro_36_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
