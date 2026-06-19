@@ -1,6 +1,6 @@
 # Companies (General Provisions) (Jersey) Order 2002
 
-R&O.74/2002 · official consolidation showing the law from 2026-05-05 · <https://www.jerseylaw.je/laws/current/ro_74_2002_20260618>
+R&O.74/2002 · official consolidation showing the law from 2026-06-19 · <https://www.jerseylaw.je/laws/current/ro_74_2002_20260929>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,8 +10,8 @@ R&O.74/2002 · official consolidation showing the law from 2026-05-05 · <https:
 | Art. 3 | [art-003.md](art-003.md) | 3 Application |
 | Art. 4 | [art-004.md](art-004.md) | 4 Control of borrowing |
 | Art. 5 | [art-005.md](art-005.md) | 5 Circulation of prospectus |
-| Art. 7 | [art-007.md](art-007.md) | 7 Qualifications of liquidator |
-| Art. 8 | [art-008.md](art-008.md) | 8 Investigation into conduct of liquidators |
+| Art. 7 | [art-007.md](art-007.md) | 7 Qualifications of liquidator and administrator |
+| Art. 8 | [art-008.md](art-008.md) | 8 Investigation into conduct of liquidators and administrators |
 | Art. 9 | [art-009.md](art-009.md) | 9 Prescribed minimum liquidated sum |
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Statutory demand |
 | Art. 10 | [art-010.md](art-010.md) | 10 Citation |
