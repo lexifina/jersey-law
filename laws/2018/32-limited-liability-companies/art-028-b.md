@@ -1,0 +1,4 @@
+# 28B Personal responsibility for liabilities if person acts while disqualified
+(1) A person who has ceased to hold office under Article 28A is personally responsible for liabilities of the limited liability company that are incurred at a time when that person was involved in its management while subject to director disqualification sanctions.
+(2) If a person is personally responsible under paragraph (1) for liabilities of a limited liability company, the person is jointly and severally liable in respect of those liabilities with it and with any other person who, whether under this Article or otherwise, is so liable.
+(3) For the purposes of this Article, a person is involved in the management of a limited liability company if that person is a manager or is concerned whether directly or indirectly or takes part in its management.
