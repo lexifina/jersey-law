@@ -11,5 +11,6 @@
 (b) send a copy of the relevant act of court to the registrar.
 (6) Nothing in this Article prevents a person with security over the whole or part of the assets of the company (whether such security was taken before or after the commencement of the Companies (Jersey) Amendment Law 2026) from -
 (a) enforcing that security;
+(aa) exercising contractual rights that the person with security has under the agreement creating that security;
 (b) making an application under Article 52 of the Security Interests (Jersey) Law 2012; or
 (c) commencing or proceeding with any action or legal proceeding to enforce that security if it is a hypothec over Jersey immovable property.
