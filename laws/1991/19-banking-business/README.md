@@ -1,6 +1,6 @@
 # Banking Business (Jersey) Law 1991
 
-L.19/1991 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/l_19_1991_20260630>
+L.19/1991 · official consolidation showing the law from 2026-07-01 · <https://www.jerseylaw.je/laws/current/l_19_1991>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -41,7 +41,6 @@ L.19/1991 · official consolidation showing the law from 2024-02-27 · <https://
 | Art. 34 | [art-034.md](art-034.md) | 34 Communication with Commission by auditors and approved professionals |
 | Art. 35 | [art-035.md](art-035.md) | 35 Repayment of unauthorized deposits |
 | Art. 36 | [art-036.md](art-036.md) | 36 Profits from unauthorized deposits |
-| Art. 37 | [art-037.md](art-037.md) | 37 Compensation schemes |
 | Art. 37A | [art-037-a.md](art-037-a.md) | 37A Commission may appoint a manager in prescribed circumstances |
 | Art. 37B | [art-037-b.md](art-037-b.md) | 37B Injunctions and remedial orders |
 | Art. 38 | [art-038.md](art-038.md) | 38 Restriction on use of certain names and descriptions |
