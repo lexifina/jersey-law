@@ -1,0 +1,8 @@
+# 142G Eligible deposit in joint account
+(1) In this Article, “joint account” means an account -
+(a) that is in the names of 2 or more persons, or over which 2 or more persons have rights; and
+(b) that may be operated against the signature of 1 or more of those persons.
+(2) A deposit held in a joint account with a bank is an eligible deposit to the same extent as an eligible depositor has an interest in the account.
+(3) If an eligible deposit is held in a joint account with a bank, the amount in the account is to be divided -
+(a) according to the holders’ shares in the account; but
+(b) if there is no indication of the share of each holder, equally between them.
