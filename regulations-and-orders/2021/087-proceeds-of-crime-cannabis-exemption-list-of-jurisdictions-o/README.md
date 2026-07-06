@@ -1,6 +1,6 @@
 # Proceeds of Crime (Cannabis Exemption - List of Jurisdictions) (Jersey) Order 2021
 
-R&O.87/2021 · official consolidation showing the law from 2023-05-19 · <https://www.jerseylaw.je/laws/current/ro_87_2021_20260705>
+R&O.87/2021 · official consolidation showing the law from 2026-07-06 · <https://www.jerseylaw.je/laws/current/ro_87_2021>
 
 | Provision | File | Heading |
 | --- | --- | --- |

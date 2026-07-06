@@ -27,6 +27,7 @@ Poland
 Portugal
 Romania
 Slovenia
+South Africa
 Spain
 Sweden
 Switzerland
