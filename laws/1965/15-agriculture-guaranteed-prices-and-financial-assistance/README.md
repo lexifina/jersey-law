@@ -1,6 +1,6 @@
 # Agriculture (Guaranteed Prices and Financial Assistance) (Jersey) Law 1965
 
-L.15/1965 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_15_1965_20260713>
+L.15/1965 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_15_1965_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
