@@ -1,6 +1,6 @@
 # Drainage (Jersey) Law 2005
 
-L.3/2005 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_3_2005_20260713>
+L.3/2005 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_3_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
