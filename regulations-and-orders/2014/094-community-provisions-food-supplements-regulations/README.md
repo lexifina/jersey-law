@@ -1,6 +1,6 @@
 # Community Provisions (Food Supplements) (Jersey) Regulations 2014
 
-R&O.94/2014 · official consolidation showing the law from 2026-03-17 · <https://www.jerseylaw.je/laws/current/ro_94_2014_20260713>
+R&O.94/2014 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/ro_94_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
