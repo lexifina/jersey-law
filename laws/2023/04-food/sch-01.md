@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 58)
 Order making powers
 The Minister may by Order make provision for the regulation of any of the following matters -

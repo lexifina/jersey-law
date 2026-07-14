@@ -1,6 +1,6 @@
 # Food (Jersey) Law 2023
 
-L.4/2023 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-04-2023.aspx>
+L.4/2023 Â· official consolidation showing the law from 2026-07-14 Â· <https://www.jerseylaw.je/laws/current/l_4_2023>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -61,12 +61,11 @@ L.4/2023 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-04-
 | Art. 54 | [art-054.md](art-054.md) | 54 Right to carry on business pending appeal |
 | Art. 55 | [art-055.md](art-055.md) | 55 Disputes as to compensation |
 | Art. 56 | [art-056.md](art-056.md) | 56 Rules of Court |
-| Art. 57 | [art-057.md](art-057.md) | 57 Criminal Procedure (Jersey) Law 2018 amended |
 | Art. 58 | [art-058.md](art-058.md) | 58 Orders: specific provisions |
 | Art. 59 | [art-059.md](art-059.md) | 59 Regulations: specific provisions |
 | Art. 60 | [art-060.md](art-060.md) | 60 Further provisions as to Orders and Regulations |
 | Art. 61 | [art-061.md](art-061.md) | 61 Repeals and savings |
 | Art. 62 | [art-062.md](art-062.md) | 62 Consequential amendments to enactments |
 | Art. 63 | [art-063.md](art-063.md) | 63 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
