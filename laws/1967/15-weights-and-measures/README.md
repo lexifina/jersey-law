@@ -1,6 +1,6 @@
 # Weights and Measures (Jersey) Law 1967
 
-L.15/1967 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_15_1967_20260713>
+L.15/1967 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_15_1967>
 
 | Provision | File | Heading |
 | --- | --- | --- |
