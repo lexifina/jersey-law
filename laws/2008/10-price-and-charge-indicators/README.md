@@ -1,6 +1,6 @@
 # Price and Charge Indicators (Jersey) Law 2008
 
-L.10/2008 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_10_2008_20260713>
+L.10/2008 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_10_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
