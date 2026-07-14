@@ -1,0 +1,1 @@
+A LAW to confer protection on consumers against unfair commercial practices; to create offences of contravening the prohibitions against such practices, and to impose penalties for those offences; to confer powers to investigate instances of alleged unfair commercial practices, and to require undertakings to restrict such practices; and for connected purposes
