@@ -1,6 +1,6 @@
 # Distance Selling (Jersey) Law 2007
 
-L.37/2007 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_37_2007_20260713>
+L.37/2007 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_37_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
