@@ -1,6 +1,6 @@
 # Regulation of Care (Jersey) Law 2014
 
-L.42/2014 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/l_42_2014_20260713>
+L.42/2014 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_42_2014_20260716>
 
 | Provision | File | Heading |
 | --- | --- | --- |
