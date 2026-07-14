@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 9)
 APPEALS
 (1) A person served with an abatement notice under Article 5 may appeal against the notice to the Court within the period of 21 days beginning with the day on which the person was served the notice.

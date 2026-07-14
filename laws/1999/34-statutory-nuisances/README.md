@@ -1,6 +1,6 @@
 # Statutory Nuisances (Jersey) Law 1999
 
-L.34/1999 · official consolidation showing the law from 2024-12-11 · <https://www.jerseylaw.je/laws/current/l_34_1999_20260713>
+L.34/1999 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_34_1999>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -24,4 +24,4 @@ L.34/1999 · official consolidation showing the law from 2024-12-11 · <https://
 | Art. 17 | [art-017.md](art-017.md) | 17 Service of notices |
 | Art. 18 | [art-018.md](art-018.md) | 18 Saving provisions |
 | Art. 19 | [art-019.md](art-019.md) | 19 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
