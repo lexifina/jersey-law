@@ -1,6 +1,6 @@
 # High Hedges (Jersey) Law 2008
 
-L.4/2008 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_4_2008_20260713>
+L.4/2008 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_4_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
