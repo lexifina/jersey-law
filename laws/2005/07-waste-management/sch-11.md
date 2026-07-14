@@ -1,8 +1,8 @@
 # Schedule 11
 (Article 112)
-Operations by Minister for the Environment
+Operations by Minister for Planning and Regulation
 1 Interpretation of Schedule
-(1) In this Schedule, references to the Minister for the Environment as the regulator are references to that Minister in that Minister’s capacity as the Minister responsible for exercising and performing the functions, powers and duties that are for the time being conferred and imposed on the Minister for the Environment by the provisions of this Law other than this Schedule.
+(1) In this Schedule, references to the Minister for Planning and Regulation as the regulator are references to that Minister in that Minister’s capacity as the Minister responsible for exercising and performing the functions, powers and duties that are for the time being conferred and imposed on the Minister for Planning and Regulation by the provisions of this Law other than this Schedule.
 (2) In this Schedule -
 “waste management certificate” means a waste management certificate that is issued by the Minister under this Schedule;
 “vary”, when referring to a waste management certificate, means to vary any term or condition of the certificate.
