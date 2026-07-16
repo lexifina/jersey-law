@@ -1,6 +1,6 @@
 # Official Analyst (Jersey) Law 2022
 
-L.30/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-30-2022.aspx>
+L.30/2022 Â· official consolidation showing the law from 2026-07-16 Â· <https://www.jerseylaw.je/laws/current/l_30_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,7 +18,6 @@ L.30/2022 Â· as enacted Â· <https://www.jerseylaw.je/laws/enacted/Pages/L-30
 | Art. 11 | [art-011.md](art-011.md) | 11 Limitation of liability |
 | Art. 12 | [art-012.md](art-012.md) | 12 Fees |
 | Art. 13 | [art-013.md](art-013.md) | 13 Transitional provisions |
-| Art. 14 | [art-014.md](art-014.md) | 14 Food Safety (Jersey) Law 1966 amended |
-| Art. 15 | [art-015.md](art-015.md) | 15 The 2019 Law amended |
-| Schedule 1 | [sch-01.md](sch-01.md) | “Schedule 6 |
-| Schedule 2 | [sch-02.md](sch-02.md) | Schedule |
+| Art. 16 | [art-016.md](art-016.md) | 16 Consequential amendments |
+| Art. 17 | [art-017.md](art-017.md) | 17 Citation and commencement |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule |
