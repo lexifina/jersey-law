@@ -1,0 +1,1 @@
+A LAW to make provision for and in connection with giving further effect in Jersey to the rights and obligations set out in the United Nations Convention on the Rights of the Child; to amend the Commissioner for Children and Young People (Jersey) Law 2019 in connection with the Standing Orders of the States of Jersey; and for connected purposes.
