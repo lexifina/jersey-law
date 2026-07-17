@@ -1,7 +1,7 @@
 # 31B Grant of bail by Centenier where person is charged with an offence
 (1) This Article applies where a Centenier releases on bail a person charged with an offence (the ‘person charged’).
 (2) Where it appears to the Centenier that it is necessary to do so -
-(a) for the purpose of preventing the person charged from failing to surrender to the custody of the Magistrate’s Court or Youth Court (as the case may be);
+(a) for the purpose of preventing the person charged from failing to surrender to the custody of the court;
 (b) for the purpose of preventing the person charged from committing an offence while on bail;
 (c) for the purpose of preventing the person charged from interfering with witnesses or otherwise obstructing the course of justice, whether in relation to himself or herself, or any other person; or
 (d) for the protection of the person charged or, if he or she is under the age of 18, for that person’s own welfare or in his or her own interests,
