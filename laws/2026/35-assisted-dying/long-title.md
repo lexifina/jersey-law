@@ -1,0 +1,1 @@
+A LAW to provide for the assisted dying of someone who has a terminal illness, who is experiencing (or is expected to experience) unbearable suffering and who chooses to end their life with the help of a medical professional.
