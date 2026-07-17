@@ -1,0 +1,1 @@
+A LAW to make provision for, or in connection with the granting of bail by a court in criminal proceedings; to amend the Police Procedures and Criminal Evidence (Jersey) Law 2003 in relation to police bail and detention; and for connected purposes.
