@@ -1,6 +1,6 @@
 # Homicide (Jersey) Law 1986
 
-L.3/1986 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_3_1986_20260716>
+L.3/1986 · official consolidation showing the law from 2026-07-17 · <https://www.jerseylaw.je/laws/current/l_3_1986>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,5 +11,6 @@ L.3/1986 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Provocation |
 | Art. 5 | [art-005.md](art-005.md) | 5 Time of death |
 | Art. 6 | [art-006.md](art-006.md) | 6 Restrictions on prosecution for a fatal offence |
+| Art. 6A | [art-006-a.md](art-006-a.md) | 6A Suicide |
 | Art. 7 | [art-007.md](art-007.md) | 7 Saving |
 | Art. 8 | [art-008.md](art-008.md) | 8 Citation |
