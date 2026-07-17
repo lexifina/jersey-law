@@ -1,6 +1,6 @@
 # Regulation of Care (Jersey) Law 2014
 
-L.42/2014 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_42_2014_20260716>
+L.42/2014 · official consolidation showing the law from 2026-07-17 · <https://www.jerseylaw.je/laws/current/l_42_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,6 +27,7 @@ L.42/2014 · official consolidation showing the law from 2026-07-14 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 Suspension of registration of manager |
 | Art. 20 | [art-020.md](art-020.md) | 20 Cancellation of registration |
 | Art. 21 | [art-021.md](art-021.md) | 21 Immediate cancellation of registration |
+| Art. 21AA | [art-021-aa.md](art-021-aa.md) | 21AA Cancellation of registration relating to assisted dying service |
 | Art. 21A | [art-021-a.md](art-021-a.md) | 21A Individual as provider of home care services |
 | Art. 21B | [art-021-b.md](art-021-b.md) | 21B Same person registered as provider and manager |
 | Art. 22 | [art-022.md](art-022.md) | 22 Report on essential services |
@@ -62,4 +63,5 @@ L.42/2014 · official consolidation showing the law from 2026-07-14 · <https://
 | Art. 49 | [art-049.md](art-049.md) | 49 Transitional and transfer Regulations |
 | Art. 49A | [art-049-a.md](art-049-a.md) | 49A Transitional provision relating to the Regulation of Care (Jersey) Amendment Law 2026 |
 | Art. 50 | [art-050.md](art-050.md) | 50 Citation |
+| Art. 5A | [art-005-a.md](art-005-a.md) | 5A Assisted dying |
 | Schedule 1 | [sch-01.md](sch-01.md) | Schedule 2 |
