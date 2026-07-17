@@ -1,6 +1,6 @@
 # Royal Court (Jersey) Law 1948
 
-L.8/1948 · official consolidation showing the law from 2025-07-28 · <https://www.jerseylaw.je/laws/current/l_8_1948_20260716>
+L.8/1948 · official consolidation showing the law from 2026-07-17 · <https://www.jerseylaw.je/laws/current/l_8_1948>
 
 | Provision | File | Heading |
 | --- | --- | --- |
