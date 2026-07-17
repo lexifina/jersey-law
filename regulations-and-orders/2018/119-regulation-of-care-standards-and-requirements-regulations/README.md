@@ -1,6 +1,6 @@
 # Regulation of Care (Standards and Requirements) (Jersey) Regulations 2018
 
-R&O.119/2018 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_119_2018_20260716>
+R&O.119/2018 · official consolidation showing the law from 2026-07-17 · <https://www.jerseylaw.je/laws/current/ro_119_2018>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -34,6 +34,7 @@ R&O.119/2018 · official consolidation showing the law from 2026-04-06 · <https
 | Reg. 25 | [reg-025.md](reg-025.md) | 25 Charges |
 | Reg. 26 | [reg-026.md](reg-026.md) | 26 Commissioned services |
 | Reg. 27 | [reg-027.md](reg-027.md) | 27 Absence of manager |
+| Reg. 27A | [reg-027-a.md](reg-027-a.md) | 27A Requirement in respect of provision of assisted dying |
 | Reg. 28 | [reg-028.md](reg-028.md) | 28 Education, employment and leisure activity |
 | Reg. 29 | [reg-029.md](reg-029.md) | 29 Behaviour management, discipline and restraint |
 | Reg. 30 | [reg-030.md](reg-030.md) | 30 Appointment of independent persons |
