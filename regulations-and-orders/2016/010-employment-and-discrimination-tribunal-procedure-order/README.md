@@ -1,6 +1,6 @@
 # Employment and Discrimination Tribunal (Procedure) (Jersey) Order 2016
 
-R&O.10/2016 · official consolidation showing the law from 2025-07-25 · <https://www.jerseylaw.je/laws/current/ro_10_2016_20260722>
+R&O.10/2016 · official consolidation showing the law from 2026-07-23 · <https://www.jerseylaw.je/laws/current/ro_10_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
