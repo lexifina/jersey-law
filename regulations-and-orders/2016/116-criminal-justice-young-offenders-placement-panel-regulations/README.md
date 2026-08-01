@@ -1,6 +1,6 @@
 # Criminal Justice (Young Offenders) (Placement Panel) (Jersey) Regulations 2016
 
-R&O.116/2016 · official consolidation showing the law from 2024-02-27 · <https://www.jerseylaw.je/laws/current/ro_116_2016_20260731>
+R&O.116/2016 · official consolidation showing the law from 2026-08-01 · <https://www.jerseylaw.je/laws/current/ro_116_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
