@@ -1,6 +1,6 @@
 # Registered Designs (Jersey) Law 1957
 
-L.11/1957 · official consolidation showing the law from 2024-09-17 · <https://www.jerseylaw.je/laws/current/l_11_1957_20260731>
+L.11/1957 · official consolidation showing the law from 2026-08-01 · <https://www.jerseylaw.je/laws/current/l_11_1957>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -18,7 +18,6 @@ L.11/1957 · official consolidation showing the law from 2024-09-17 · <https://
 | Art. 9 | [art-009.md](art-009.md) | 9 Effect of registration |
 | Art. 10 | [art-010.md](art-010.md) | 10 Power of court to cancel registration |
 | Art. 11 | [art-011.md](art-011.md) | 11 Rectification of register |
-| Art. 12 | [art-012.md](art-012.md) | 12 Power to correct clerical errors |
 | Art. 13 | [art-013.md](art-013.md) | 13 Use of registered designs for the services of the Crown |
 | Art. 14 | [art-014.md](art-014.md) | 14 Use of registered designs for the service of the States |
 | Art. 15 | [art-015.md](art-015.md) | 15 Reference of disputes as to use by Crown or States |
@@ -28,7 +27,6 @@ L.11/1957 · official consolidation showing the law from 2024-09-17 · <https://
 | Art. 19 | [art-019.md](art-019.md) | 19 False representation that a design is registered |
 | Art. 20 | [art-020.md](art-020.md) | 20 Rules of court |
 | Art. 20A | [art-020-a.md](art-020-a.md) | 20A Regulations |
-| Art. 21 | [art-021.md](art-021.md) | 21 Powers of states as regards fees |
 | Art. 22 | [art-022.md](art-022.md) | 22 Saving of vested rights |
 | Art. 22A | [art-022-a.md](art-022-a.md) | 22A Transitional provisions |
 | Art. 23 | [art-023.md](art-023.md) | 23 Citation |
