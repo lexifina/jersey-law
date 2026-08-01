@@ -1,6 +1,6 @@
 # Intellectual Property (Plant Varieties) (Jersey) Law 2016
 
-L.15/2016 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_15_2016_20260731>
+L.15/2016 · official consolidation showing the law from 2026-08-01 · <https://www.jerseylaw.je/laws/current/l_15_2016_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
