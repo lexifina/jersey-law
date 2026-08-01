@@ -1,6 +1,6 @@
 # Patents (Jersey) Law 1957
 
-L.10/1957 · official consolidation showing the law from 2024-09-17 · <https://www.jerseylaw.je/laws/current/l_10_1957_20260731>
+L.10/1957 · official consolidation showing the law from 2026-08-01 · <https://www.jerseylaw.je/laws/current/l_10_1957>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -19,7 +19,6 @@ L.10/1957 · official consolidation showing the law from 2024-09-17 · <https://
 | Art. 9A | [art-009-a.md](art-009-a.md) | 9A Compulsory licences - applications and grant |
 | Art. 9B | [art-009-b.md](art-009-b.md) | 9B Other matters relating to compulsory licences |
 | Art. 10 | [art-010.md](art-010.md) | 10 Rectification of register |
-| Art. 11 | [art-011.md](art-011.md) | 11 Power to correct clerical errors |
 | Art. 12 | [art-012.md](art-012.md) | 12 Use of inventions of registered patents for the services of the Crown |
 | Art. 13 | [art-013.md](art-013.md) | 13 Use of inventions of registered patents for the service of the States |
 | Art. 14 | [art-014.md](art-014.md) | 14 Reference of disputes as to use by Crown or States |
@@ -34,7 +33,6 @@ L.10/1957 · official consolidation showing the law from 2024-09-17 · <https://
 | Art. 23 | [art-023.md](art-023.md) | 23 Unauthorized claim of patent rights |
 | Art. 24 | [art-024.md](art-024.md) | 24 Rules of Court |
 | Art. 24A | [art-024-a.md](art-024-a.md) | 24A Regulations |
-| Art. 25 | [art-025.md](art-025.md) | 25 Powers of States as regards fees |
 | Art. 26 | [art-026.md](art-026.md) | 26 Saving of vested rights |
 | Art. 26A | [art-026-a.md](art-026-a.md) | 26A Transitional provisions |
 | Art. 27 | [art-027.md](art-027.md) | 27 Citation |
