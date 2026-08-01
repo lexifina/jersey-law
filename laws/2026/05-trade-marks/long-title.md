@@ -1,0 +1,1 @@
+A LAW to make provision for registered trade marks, to give effect to the Protocol relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid on 27 June 1989, and to certain provisions of the Paris Convention for the Protection of Industrial Property of 20 March 1883, as revised and amended, and for connected purposes.
