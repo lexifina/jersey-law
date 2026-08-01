@@ -6,6 +6,7 @@ In this Schedule -
 “acquittal” and related expressions are to be construed in accordance with paragraph 2(7);
 “new evidence” is to be construed in accordance with paragraph 5(2);
 “officer”, except in paragraph 10, means a police officer or an officer of the Impôts within the meaning of the Customs and Excise (Jersey) Law 1999;
+“paragraph 3 application” means an application to the Court of Appeal under paragraph 3(1) or (2);
 “qualifying offence” is an offence specified in Regulations made under paragraph 2(8);
 “2003 Law” means the Police Procedures and Criminal Evidence (Jersey) Law 2003.
 2 Cases that may be retried
@@ -13,7 +14,7 @@ In this Schedule -
 (a) under Part 7;
 (b) on appeal against a conviction under Part 7;
 (c) on appeal from a decision on such an appeal; or
-(d) before the Royal Court under the Loi (1864) réglant la Procédure Criminelle including an appeal against a conviction under that Loi, or an appeal from a decision on such an appeal.
+(d) before the Royal Court under the Loi (1864) réglant la Procédure Criminelle (as in force before 1 October 2021) including an appeal against a conviction under that Loi, or an appeal from a decision on such an appeal.
 (2) A person acquitted of an offence in proceedings mentioned in sub-paragraph (1) is treated for the purposes of that sub-paragraph as also acquitted of any qualifying offence of which he or she could have been convicted in the proceedings because of the first-mentioned offence being charged in the indictment, except an offence -
 (a) of which he or she has been convicted;
 (b) in respect of which a special verdict has been recorded under Article 72 of the Mental Health Law; or
@@ -24,7 +25,7 @@ In this Schedule -
 (6) This Schedule applies whether the acquittal was before or after this Law was adopted by the States.
 (7) References in this Schedule to acquittal are to acquittal in circumstances within sub-paragraph (1) or (4).
 (8) The States shall, by Regulations, specify the offences or description of offences that are qualifying offences for the purposes of this paragraph.
-3 Application to Court of Appeal
+3 Application to Court of Appeal for order quashing acquittal and retrial or determination about acquittal outside Jersey
 (1) The Attorney General may apply to the Court of Appeal for an order -
 (a) quashing a person’s acquittal in proceedings within paragraph 2(1); and
 (b) ordering the person to be retried for the qualifying offence.
@@ -35,6 +36,37 @@ In this Schedule -
 (a) there is evidence to show that the requirements of paragraph 5 appear to be met; and
 (b) it is in the public interest for the application to proceed.
 (4) Not more than one application in relation to an acquittal may be made under sub-paragraph (1) or (2).
+3A Notice of paragraph 3 application, arrest and bail
+(1) The Attorney General must give notice to the Court of Appeal of a paragraph 3 application.
+(2) Not later than 7 days after the day on which notice of the paragraph 3 application is given, the Attorney General must serve on the person to whom the application relates -
+(a) notice that the Court of Appeal has been given notice of a paragraph 3 application; and
+(b) notice that the person is charged with the qualifying offence to which the application relates.
+(3) Sub-paragraph (2) applies whether the person to whom the application relates is in Jersey or elsewhere, but the Court of Appeal may, on application by the Attorney General, extend the 7-day period for service of the notice if it considers it necessary to do so because of the person’s absence from Jersey.
+(4) At any time before the Court of Appeal begins to consider the application, the Royal Court may, on the application of the Attorney General, issue a warrant for the arrest of the person to whom the paragraph 3 application relates.
+(5) A person arrested must be brought before the Royal Court not later than 48 hours after arrest and the Court must, pending the person’s appearance before the Court of Appeal for the hearing of a paragraph 3 application -
+(a) remand the person in custody; or
+(b) grant the person bail.
+(6) If a person arrested is granted bail, the Attorney General must serve that person with notice to appear before the Court of Appeal at the time and on the date specified in the notice.
+3B Court of Appeal procedure for paragraph 3 application
+(1) The Court of Appeal must hold a hearing to consider a paragraph 3 application.
+(2) A person to whom a paragraph 3 application relates -
+(a) unless they are in custody elsewhere than in Jersey or excused attendance by the Court of Appeal, must be present at any hearing under this paragraph even if they are in custody, subject to sub-paragraph (3); and
+(b) is entitled to be represented at the hearing, whether they are present or not.
+(3) If a person in custody in Jersey refuses to be present at a hearing under this paragraph (including an adjourned hearing), the Court of Appeal may proceed with the hearing in the person’s absence.
+(4) If a person granted bail under paragraph 3A(5)(b) fails without reasonable excuse to attend a hearing under this paragraph, the Court of Appeal may proceed with the hearing in the person’s absence if the Court is satisfied that the person was served with notice of the hearing in accordance with paragraph 3A(6).
+(5) The Court of Appeal may -
+(a) at any adjournment of a hearing under this paragraph grant the person bail or remand them in custody; or
+(b) when it makes an order under paragraph 4(1)(a) or 4(3)(a), or a declaration under paragraph 4(4), grant the person bail or remand them in custody pending -
+(i) trial in the Royal Court; or
+(ii) the determination of an appeal to the Judicial Committee of the Privy Council under paragraph 8.
+(6) If a person granted bail under sub-paragraph (5)(a) fails without reasonable excuse to attend an adjourned hearing, the Court of Appeal may proceed with the hearing in the person’s absence.
+(7) If the person has no legal representation, any hearing adjourned under this paragraph must not be for a period of more than -
+(a) 42 days in respect of a person in custody; and
+(b) 60 days in respect of a person on bail.
+(8) For the purposes of a paragraph 3 application and determination under paragraph 4, the Court of Appeal may, if it is in the interests of justice to do so -
+(a) order the production of any document, exhibit or other thing, the production of which appears to the Court to be necessary for the determination of the application; or
+(b) order to attend for examination before the Court any person who appears to be a person who could be required to give evidence at a retrial (if ordered) and capable of assisting the Court’s determination of the application.
+(9) The Court of Appeal may consider more than 1 paragraph 3 application (whether relating to the same person or not) at the same hearing, but only if the offences concerned could be charged in the same indictment.
 4 Determination by Court of Appeal
 (1) On an application under paragraph 3(1), the Court of Appeal -
 (a) if satisfied that the requirements of paragraphs 5 and 6 are met, must make the order applied for; or
@@ -60,18 +92,7 @@ In this Schedule -
 (c) whether it is likely that the new evidence would have been adduced in the earlier proceedings against the acquitted person but for a failure by an officer or by the Attorney General to act with due diligence or expedition; and
 (d) whether, since those proceedings or, if later, since the commencement of this Schedule, any officer or the Attorney General has failed to act with due diligence or expedition.
 (3) In sub-paragraph (2), references to an officer or the Attorney General include references to a person charged with corresponding duties under the law in force elsewhere than in Jersey.
-7 Procedure and evidence
-(1) The Attorney General must give notice to the Court of Appeal of an application under paragraph 3(1) or (2).
-(2) Within 7 days beginning with the day on which any such notice is given, notice of the application must be served by the Attorney General on the person to whom the application relates, charging him or her with the offence to which it relates.
-(3) Sub-paragraph (2) applies whether the person to whom the application relates is in Jersey or elsewhere, but the Court of Appeal may, on application by the Attorney General, extend the time for service under that sub-paragraph if it considers it necessary to do so because of that person’s absence from Jersey.
-(4) The Court of Appeal must consider the application at a hearing.
-(5) The person to whom the application relates -
-(a) is entitled to be present at the hearing, although he or she may be in custody, unless he or she is in custody elsewhere than in Jersey; and
-(b) is entitled to be represented at the hearing, whether he or she is present or not.
-(6) For the purposes of the application, the Court of Appeal may, if it thinks it expedient in the interests of justice -
-(a) order the production of any document, exhibit or other thing, the production of which appears to the Court to be necessary for the determination of the application; and
-(b) order any witness who would be a compellable witness in proceedings pursuant to an order or declaration made on the application to attend for examination and be examined before the court.
-(7) The Court of Appeal may at one hearing consider more than one application (whether or not relating to the same person), but only if the offences concerned could be tried on the same indictment.
+7
 8 Appeals
 (1) An appeal lies to the Judicial Committee of the Privy Council, at the instance of the acquitted person or the Attorney General, from any decision of the Court of Appeal on an application under paragraph 3(1) or (2).
 (2) An appeal under this Article lies only with leave of the Court of Appeal.
@@ -82,14 +103,14 @@ In this Schedule -
 (4) An order under this paragraph may apply to a matter which has been included in a publication published before the order takes effect, but such an order -
 (a) applies only to the later inclusion of the matter in a publication (whether directly or by inclusion of the earlier publication); and
 (b) does not otherwise affect the earlier publication.
-(5) After notice of an application has been given under paragraph 7(1) relating to the acquitted person and the qualifying offence, the Court may make an order under this paragraph only -
+(5) After notice of an application has been given under paragraph 3A(1) relating to the acquitted person and the qualifying offence, the Court may make an order under this paragraph only -
 (a) of its own motion; or
 (b) on the application of the Attorney General.
-(6) Before such notice has been given under paragraph 7(1), an order under this paragraph -
+(6) Before such notice has been given under paragraph 3A(1), an order under this paragraph -
 (a) may be made only on the application of the Attorney General; and
 (b) may not be made unless, since the acquittal concerned, an investigation of the commission by the acquitted person of the qualifying offence has been commenced by officers.
 (7) The court may at any time, of its own motion or on an application made by the Attorney General or the acquitted person, vary or revoke an order under this paragraph.
-(8) Any order made under this paragraph before notice of an application has been given under paragraph 7(1) relating to the acquitted person and the qualifying offence must specify the time when it ceases to have effect.
+(8) Any order made under this paragraph before notice of an application has been given under paragraph 3A(1) relating to the acquitted person and the qualifying offence must specify the time when it ceases to have effect.
 (9) An order under this paragraph which is made or has effect after such notice has been given ceases to have effect, unless it specifies an earlier time -
 (a) when there is no longer any step that could be taken which would lead to the acquitted person being tried pursuant to an order made on the application; or
 (b) if the acquitted person is tried pursuant to such an order, at the conclusion of the trial.
