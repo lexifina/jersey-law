@@ -1,6 +1,6 @@
 # Prison (Jersey) Law 1957
 
-L.1/1957 · official consolidation showing the law from 2023-09-21 · <https://www.jerseylaw.je/laws/current/l_1_1957_20260731>
+L.1/1957 · official consolidation showing the law from 2026-08-01 · <https://www.jerseylaw.je/laws/current/l_1_1957>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -37,6 +37,6 @@ L.1/1957 · official consolidation showing the law from 2023-09-21 · <https://w
 | Art. 26 | [art-026.md](art-026.md) | 26 Display of notice of penalties |
 | Art. 27 | [art-027.md](art-027.md) | 27 Power to provide young offender institutions |
 | Art. 28 | [art-028.md](art-028.md) | 28 Transfer from young offender institution to prison |
-| Art. 29 | [art-029.md](art-029.md) | 29 Rules and directions for the management of the prison and other institutions |
+| Art. 29 | [art-029.md](art-029.md) | 29 Rules and directions for the management of the prison |
 | Art. 30 | [art-030.md](art-030.md) | 30 Persons unlawfully at large |
 | Art. 32 | [art-032.md](art-032.md) | 32 Citation |
