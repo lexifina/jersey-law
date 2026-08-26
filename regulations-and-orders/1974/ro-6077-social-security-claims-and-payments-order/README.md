@@ -1,6 +1,6 @@
 # Social Security (Claims and Payments) (Jersey) Order 1974
 
-R&O.6077 · official consolidation showing the law from 2026-04-23 · <https://www.jerseylaw.je/laws/current/ro_6077_20260825>
+R&O.6077 · official consolidation showing the law from 2026-08-26 · <https://www.jerseylaw.je/laws/current/ro_6077>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -16,6 +16,7 @@ R&O.6077 · official consolidation showing the law from 2026-04-23 · <https://w
 | Art. 9 | [art-009.md](art-009.md) | 9 Withdrawal of claims for long term incapacity allowance |
 | Art. 10 | [art-010.md](art-010.md) | 10 Interchange with claims for other benefits under the law |
 | Art. 11 | [art-011.md](art-011.md) | 11 Time and manner of payment of benefit |
+| Art. 11A | [art-011-a.md](art-011-a.md) | 11A Calculation of time of certain benefits |
 | Art. 12 | [art-012.md](art-012.md) | 12 Time and manner of payment of lump sum benefit |
 | Art. 13 | [art-013.md](art-013.md) | 13 Time for claiming benefit |
 | Art. 14 | [art-014.md](art-014.md) | 14 Extinguishment of right to sums payable by way of benefit which are not obtained within the prescribed time |
