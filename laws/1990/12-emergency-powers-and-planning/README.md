@@ -1,6 +1,6 @@
 # Emergency Powers and Planning (Jersey) Law 1990
 
-L.12/1990 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_12_1990_20260831>
+L.12/1990 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/l_12_1990_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ L.12/1990 · official consolidation showing the law from 2023-11-24 · <https://
 | Art. 3 | [art-003.md](art-003.md) | 3 Emergency Planning Officer |
 | Art. 4 | [art-004.md](art-004.md) | 4 Designation of competent authorities |
 | Art. 5 | [art-005.md](art-005.md) | 5 Power of competent authority in relation to fuel and electricity |
-| Art. 6 | [art-006.md](art-006.md) | 6 Powers of competent authority in relation to telecommunications |
+| Art. 6 | [art-006.md](art-006.md) | 6 Powers of competent authority in relation to telecommunications, cyber security and cyber resilience |
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Powers of competent authority in relation to postal services |
 | Art. 7 | [art-007.md](art-007.md) | 7 Powers of competent authority in relation to gas |
 | Art. 8 | [art-008.md](art-008.md) | 8 Powers of competent authority in relation to food |
