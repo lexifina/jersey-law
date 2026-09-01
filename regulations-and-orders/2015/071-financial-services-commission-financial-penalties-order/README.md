@@ -1,6 +1,6 @@
 # Financial Services Commission (Financial Penalties) (Jersey) Order 2015
 
-R&O.71/2015 · official consolidation showing the law from 2026-03-12 · <https://www.jerseylaw.je/laws/current/ro_71_2015_20260831>
+R&O.71/2015 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/ro_71_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
