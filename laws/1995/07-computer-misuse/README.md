@@ -1,6 +1,6 @@
 # Computer Misuse (Jersey) Law 1995
 
-L.7/1995 · official consolidation showing the law from 2019-05-03 · <https://www.jerseylaw.je/laws/current/l_7_1995_20260831>
+L.7/1995 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/l_7_1995_20261001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -11,6 +11,7 @@ L.7/1995 · official consolidation showing the law from 2019-05-03 · <https://w
 | Art. 4 | [art-004.md](art-004.md) | 4 Unauthorized access with intent to commit or facilitate commission of further offences |
 | Art. 5 | [art-005.md](art-005.md) | 5 Unauthorized acts with intent to impair, or with recklessness as to impairing, operation of computer |
 | Art. 5A | [art-005-a.md](art-005-a.md) | 5A Making, supplying or obtaining articles for use in offence under Article 2 or 5 |
+| Art. 5B | [art-005-b.md](art-005-b.md) | 5B Exemption for cyber security |
 | Art. 6 | [art-006.md](art-006.md) | 6 Territorial scope of offences under this Law |
 | Art. 7 | [art-007.md](art-007.md) | 7 Significant links with jurisdiction of Jersey |
 | Art. 8 | [art-008.md](art-008.md) | 8 Territorial scope of inchoate offences related to offences under this Law |
