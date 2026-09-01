@@ -8,6 +8,9 @@
 (c) serious economic or operational problems for persons who use electronic communications networks, electronic communications services or associated facilities.
 (3) In a case where the duty in paragraph (2) does not arise, the Authority may inform the Minister of the risk or occurrence (as the case may be) of the security compromise.
 (4) The Authority may inform any of the following about the risk or occurrence (as the case may be) of the security compromise -
+(aa) the JCSC appointed under Article 2 of the Cyber Security (Jersey) Law 2026;
+(ab) the Director of the JCSC appointed under that Article;
+(ac) the Minister for Sustainable Economic Development, to the extent that the Minister is discharging a function under the Cyber Security (Jersey) Law 2026;
 (a) a person who uses or has used the network or service;
 (b) a communications provider;
 (c) a person who makes associated facilities available;
