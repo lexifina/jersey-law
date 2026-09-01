@@ -87,32 +87,8 @@ E
 (1) For the 2025 academic year, and subsequent academic years, the amount of tuition fees grant that may be awarded to a student undertaking a full-time distance learning course is the lower of -
 (a) the amount that may be awarded to a student in accordance with their relevant income (their “full-time tuition fees grant entitlement”); and
 (b) the actual tuition fee applicable to the course for that academic year.
-(2) For the 2025 academic year, a student’s full-time tuition fees grant entitlement is as follows -
-Student’s relevant income (£)
-Full-time tuition fees grant entitlement (£)
-Less than 115,720
-9,535
-115,720 or more but less than 126,240
-8,583
-126,240 or more but less than 136,760
-7,629
-136,760 or more but less than 147,280
-6,676
-147,280 or more but less than 157,800
-5,722
-157,800 or more but less than 168,320
-4,768
-168,320 or more but less than 178,840
-3,815
-178,840 or more but less than 189,360
-2,861
-189,360 or more but less than 199,880
-1,907
-199,880 or more but less than 210,400
-954
-210,400 or more
-0
-(2A) Paragraph (2) and this paragraph are deleted on 1 September 2026.
+(2)
+(2A)
 (2B) For the 2026 academic year, a student’s full-time tuition fees grant entitlement is as follows -
 Student’s relevant income (£)
 Full-time tuition fees grant entitlement (£)
