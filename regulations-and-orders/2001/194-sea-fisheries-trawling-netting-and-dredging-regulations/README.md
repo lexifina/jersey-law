@@ -1,6 +1,6 @@
 # Sea Fisheries (Trawling, Netting and Dredging) (Jersey) Regulations 2001
 
-R&O.194/2001 · official consolidation showing the law from 2026-04-14 · <https://www.jerseylaw.je/laws/current/ro_194_2001_20260831>
+R&O.194/2001 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/ro_194_2001>
 
 | Provision | File | Heading |
 | --- | --- | --- |
