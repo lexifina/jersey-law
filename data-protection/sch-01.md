@@ -11,6 +11,7 @@ Social Security Department
 Health & Safety Inspectorate
 Income Tax Department
 Jersey Customs & Immigration Service
+Jersey Cyber Security Centre
 Jersey Financial Services Commission
 Jersey Fire and Rescue Service
 Jersey Gambling Commission
