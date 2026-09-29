@@ -25,7 +25,17 @@ In relation to the Democratic People’s Republic of Korea (Sanctions) (EU Exit)
 1A Iran (Sanctions) Regulations 2023: shipping
 In relation to the Iran (Sanctions) Regulations 2023 -
 (a) for the purpose of regulation 49(8) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the Merchant Shipping Act 1995 is to be read as to Article 177(1), (3) and (4) of the Shipping (Jersey) Law 2002, with the references to section 284(2A) corresponding to Article 177(3)(b) and section 284(1A)(a) to Article 177(2)(a);
-(b) for the purpose of regulation 54(1)(b) the reference to section 17(11) of the Merchant Shipping Act 1995 is to be read as to Article 20(10) of the Shipping (Jersey) Law 2002.
+(b)
+1B Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019: movement of aircraft and detention of ships
+(1) The persons who commit the offence in Article 4(1)(a) of contravening regulation 36A(1) of the UK 2019 Regulations are the operator and pilot in command of the Iranian aircraft.
+(2) For the purpose of regulation 36J(8) of the UK 2019 Regulations -
+(a) the reference to section 284(1), (2), (2A), (2B), (3) and (8) of the UK 1995 Act is to be read as a reference to Article 177(1), (3) and (4) of the 2002 Law;
+(b) section 284(1A)(a) of the UK 1995 Act corresponds to Article 177(2)(a) of the 2002 Law; and
+(c) section 284(2A) of the UK 1995 Act corresponds to Article 177(3)(b) of the 2002 Law.
+(3) In this paragraph -
+“2002 Law” means the Shipping (Jersey) Law 2002;
+“UK 1995 Act” means the Merchant Shipping Act 1995 of the UK;
+“UK 2019 Regulations” means the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 of the UK (S.I. 2019/461).
 2 Iraq (Sanctions) (EU Exit) Regulations 2020: modification of application of Part 3 of Law for partial asset-freeze
 In relation to a designated person as defined in regulation 6(1) of the Iraq (Sanctions) (EU Exit) Regulations 2020, the effect of Article 3 of this Order is modified so that for the purpose of the application of Part 3 of the Law -
 (a) Article 10 of the Law applies only in relation to relevant funds or economic resources, as defined by regulation 8(4); and
