@@ -1,6 +1,6 @@
 # Companies (General Provisions) (Jersey) Order 2002
 
-R&O.74/2002 · official consolidation showing the law from 2026-06-19 · <https://www.jerseylaw.je/laws/current/ro_74_2002_20260929>
+R&O.74/2002 · official consolidation showing the law from 2026-09-30 · <https://www.jerseylaw.je/laws/current/ro_74_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
