@@ -1,6 +1,6 @@
 # Civil Aviation (Supplementary Provisions) (Jersey) Law 1955
 
-L.11/1955 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_11_1955_20261001>
+L.11/1955 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_11_1955>
 
 | Provision | File | Heading |
 | --- | --- | --- |
