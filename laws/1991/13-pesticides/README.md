@@ -1,6 +1,6 @@
 # Pesticides (Jersey) Law 1991
 
-L.13/1991 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_13_1991_20261001>
+L.13/1991 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_13_1991>
 
 | Provision | File | Heading |
 | --- | --- | --- |
