@@ -1,6 +1,6 @@
 # Architects (Registration) (Jersey) Law 1954
 
-L.16/1954 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_16_1954_20261001>
+L.16/1954 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_16_1954>
 
 | Provision | File | Heading |
 | --- | --- | --- |
