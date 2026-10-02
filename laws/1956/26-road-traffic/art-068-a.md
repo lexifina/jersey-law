@@ -29,7 +29,7 @@ is guilty of an offence and liable to a fine of level 2 on the standard scale.
 (b) a public parking place -
 (i) administered by a parish, means the Connétable of that parish,
 (ii) administered by an administration for which the Minister for Education and Lifelong Learning is responsible, means the Minister for Education and Lifelong Learning,
-(iii) administered by an administration for which the Minister for Sustainable Economic Development is responsible, means the Minister for Sustainable Economic Development, or
+(iii) administered by an administration for which the Minister for Economic Development is responsible, means the Minister for Economic Development, or
 (iv) administered by an administration for which the Minister for Infrastructure is responsible, means the Minister for Infrastructure;
 “parking contravention” means -
 (a) an offence under Article 40(1) of permitting or causing a vehicle to remain at rest on any footway or cycle track in contravention of Article 40(1);
