@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 1)
 Spear thistle (cirsium vulgare (Savi) Ten.) (tcheurdron).
 Creeping or field thistle (cirsium arvense (L.) Scop.) (tcheurdron).
