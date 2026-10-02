@@ -1,6 +1,6 @@
 # Export of Agricultural Produce (Jersey) Order 1972
 
-R&O.5651 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_5651_20261001>
+R&O.5651 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_5651>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -17,5 +17,5 @@ R&O.5651 · official consolidation showing the law from 2019-01-01 · <https://w
 | Art. 10 | [art-010.md](art-010.md) | 10 Presumption |
 | Art. 11 | [art-011.md](art-011.md) | 11 Proof in certain proceedings |
 | Art. 12 | [art-012.md](art-012.md) | 12 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |

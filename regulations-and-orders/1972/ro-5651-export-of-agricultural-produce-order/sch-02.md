@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 5(5))
 SPECIFICATIONS
 PART 1
@@ -46,7 +46,7 @@ In any container the following quality variations are permitted in respect of ca
 in the case of Class I, an amount of calabrese by number or weight not exceeding 5% meeting the requirements of Class II; and
 in the case of Class II, an amount of calabrese by number or weight not exceeding 5% not meeting the requirements of that Class but fit for human consumption.
 Presentation‎
-All calabrese at the time it is packed for export must be pre-cooled to such maximum temperature as may from time to time be specified by the Minister for the Environment in a notice published in the Jersey Gazette. Where presented with leaves, not more than 5 small leaves may be retained close to the head. The overall length of the calabrese including the stalk must not be more than 17.5 cm and the stalk must be cut cleanly across the butt. The majority of the heads of the calabrese, other than pre-packed calabrese, within a container must be visible and those calabrese visible must be representative of the calabrese packed in the container as a whole. The net weight of calabrese packed in each container shall be at least 10 lb or 15 lb depending on the type of container used. Branching of calabrese is not permitted for export.
+All calabrese at the time it is packed for export must be pre-cooled to such maximum temperature as may from time to time be specified by the Minister in a notice published in the Jersey Gazette. Where presented with leaves, not more than 5 small leaves may be retained close to the head. The overall length of the calabrese including the stalk must not be more than 17.5 cm and the stalk must be cut cleanly across the butt. The majority of the heads of the calabrese, other than pre-packed calabrese, within a container must be visible and those calabrese visible must be representative of the calabrese packed in the container as a whole. The net weight of calabrese packed in each container shall be at least 10 lb or 15 lb depending on the type of container used. Branching of calabrese is not permitted for export.
 Lining of containers
 Every container in which 15 lb or more of calabrese is packed for export shall be lined with clean waterproof paper in such a way as to ensure that the calabrese is protected when the lid of the container is closed.
 Marks on containers
@@ -341,7 +341,7 @@ Quality Variations -
 in the case of Class I, an amount of courgettes not exceeding 10% meeting the requirements of Class II; and
 in the case of Class II, an amount of courgettes not exceeding 10% not meeting the requirements of that class but fit for human consumption.
 Presentation‎
-All courgettes within a container, other than a bulk container of a type approved by the Minister for the Environment, shall be packed in rows and those courgettes visible shall be representative of the courgettes packed in the container as a whole.
+All courgettes within a container, other than a bulk container of a type approved by the Minister, shall be packed in rows and those courgettes visible shall be representative of the courgettes packed in the container as a whole.
 Marks on containers
 Every container in which courgettes are packed for export shall bear a label on one end only, either securely affixed thereto or forming part of the cover thereof, in the form and of the minimum dimensions shown in the following diagram -
 Every such label shall be clearly and indelibly marked in the following manner -
@@ -387,12 +387,12 @@ PART 7
 POTATOES
 Grading‎
 Potatoes shall be packed for export in 2 grades, namely ware and mids.
-Before such date as the Minister for the Environment may from year to year determine, potatoes which exceed 10 cm in length shall not be packed for export in the ware grade.
+Before such date as the Minister may from year to year determine, potatoes which exceed 10 cm in length shall not be packed for export in the ware grade.
 Potatoes shall not be packed for export in the mids grade unless they comply with the following conditions, that is to say -
-(a) that, before such date as the Minister for the Environment may from year to year determine (hereinafter referred to as “specified date”) they do not exceed 4.5 cm in length;
+(a) that, before such date as the Minister may from year to year determine (hereinafter referred to as “specified date”) they do not exceed 4.5 cm in length;
 (b) that after the specified date -
-(i) they have been riddled through a mechanical grader of a type approved by the Minister for the Environment, and
-(ii) unless otherwise specified by the Minister for the Environment, they have been graded as being no less in diameter than 19 mm nor more than 32 mm.
+(i) they have been riddled through a mechanical grader of a type approved by the Minister, and
+(ii) unless otherwise specified by the Minister, they have been graded as being no less in diameter than 19 mm nor more than 32 mm.
 For the purposes of this Part of this Schedule the word “diameter” means the longest transverse diameter taken at right angles to a line running from the rose end to the heel end.
 Marks on containers
 Containers, other than sacks, in which mids are packed for export shall be closed with a cover coloured red.
@@ -466,7 +466,7 @@ Quality variations -
 in the case of Class I Round an amount of tomatoes by number or weight not exceeding 10% meeting the requirements of Class II Round;
 in the case of Class II Round, Class III Round and Class III Small an amount of tomatoes by number or weight not exceeding 10% not meeting the requirements of those Classes but fit for human consumption.
 Covers and markings
-Every container in which tomatoes are packed for export shall be covered with paper of a type approved by the Minister for the Environment.
+Every container in which tomatoes are packed for export shall be covered with paper of a type approved by the Minister.
 The outside of one end or side of every such container shall bear a label, either securely affixed thereto or forming part of the cover of the container, of the minimum dimensions shown in the following diagram -
 Every such label shall be clearly and indelibly marked in the following manner -
 (a) in the space marked “W” there shall be inserted in block letters each not less than 8 mm in height the words “JERSEY TOMATOES”;
