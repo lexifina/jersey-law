@@ -1,6 +1,6 @@
-# SCHEDULE 10
+# Schedule 10
 (Articles 5, 16 and 18)
-devices, substances and methods prohibited for killing or taking wild birds
+Devices, substances and methods prohibited for killing or taking wild birds
 Anaesthetic or stupefying substances
 Artificial lighting, mirrors or other dazzling devices
 Automatic or semi-automatic weapons

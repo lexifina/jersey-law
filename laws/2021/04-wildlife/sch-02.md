@@ -1,6 +1,6 @@
-# SCHEDULE 2
+# Schedule 2
 (Article 5)
-protected wild birds
+Protected wild birds
 All wild birds, except birds of the following species:
 Common name
 Species name

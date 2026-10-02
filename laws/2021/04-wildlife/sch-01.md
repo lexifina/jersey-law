@@ -1,6 +1,6 @@
-# SCHEDULE 1
+# Schedule 1
 (Article 5)
-PROTECTED WILD ANIMALS
+Protected wild animals
 Common name
 Species name
 Specific provisions conferring protection*
@@ -22,7 +22,10 @@ Damselfly, southern emerald
 Lestes barbarus
 Articles 7, 14, 15, 19 and 20
 Dolphins (all species)
-Delphinidae
+Cetacea
+Eel, European
+Anguilla anguilla
+Articles 7, 14, 15, 19 and 20
 Fan mussel
 Atrina fragilis
 Five-shilling shell
@@ -34,7 +37,7 @@ Grasshopper, heath
 Chorthippus vagans
 Articles 7, 14, 15, 19 and 20
 Grasshopper, Jersey
-Euchorthippus pulvinatus subs. Elegantulus
+Euchorthippus elegantulus
 Articles 7, 14, 15, 19 and 20
 Hairstreak, white letter
 Satyrium w-album
@@ -50,10 +53,10 @@ Podarcis muralis
 Lumpsucker
 Cyclopterus lumpus
 Newt, palmate
-Lissotriton helveticus or Triturus helveticus
+Lissotriton helveticus
 Articles 7, 14, 15, 19 and 20
 Pink sea fan
-Eunicella verrucose
+Eunicella verrucosa
 Porpoises (all species)
 Cetacea
 Seahorse, long-snouted
@@ -61,20 +64,22 @@ Hippocampus guttulatus
 Seahorse, short-snouted
 Hippocampus hippocampus
 Seals (all species)
-Pennipedia
+Pinnipedia
 Sharks, pelagic (all species except houndsharks and catsharks)
 Selachimorpha (except Triakidae and Scyliorhinidae)
 Shrew, Millet’s, common, or French
-Sorex coronatus ssp fretalis
+Sorex coronatus fretalis
 Articles 7, 14, 15, 19 and 20
 Shrew, lesser white-toothed
 Crocidura suaveolens
 Articles 7, 14, 15, 19 and 20
+Skipper, large chequered
+Heteropterus morpheus
 Slow-worm
 Anguis fragilis
 Articles 7, 14, 15, 19 and 20
 Snake, grass
-Natrix natrix and Natrix Helvetica
+Natrix helvetica
 Squirrel, red
 Sciurus vulgaris
 Sturgeon
@@ -88,16 +93,14 @@ Swallowtail
 Papilio machaon
 Articles 7, 14, 15, 19 and 20
 Twaite shad
-Allosa fallax
+Alosa fallax
 Articles 7, 14, 15, 19 and 20
 Toad, common
-Bufo bufo and Bufo spinosus
-Tuna, Atlantic Bluefin
-Thunnus thynnus
+Bufo spinosus
 Turtle, marine (all species)
-Chelonidae and Dermochelyidae
+Cheloniidae and Dermochelyidae
 Vole, Jersey bank
-Clethrionomys glareolus ssp. caesarius
+Clethrionomys glareolus caesarius
 Articles 7, 14, 15, 19 and 20
 Whales (all species)
 Cetacea
