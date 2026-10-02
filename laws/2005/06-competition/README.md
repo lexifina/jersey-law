@@ -1,6 +1,6 @@
 # Competition (Jersey) Law 2005
 
-L.6/2005 · official consolidation showing the law from 2026-05-01 · <https://www.jerseylaw.je/laws/current/l_6_2005_20261001>
+L.6/2005 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_6_2005>
 
 | Provision | File | Heading |
 | --- | --- | --- |
