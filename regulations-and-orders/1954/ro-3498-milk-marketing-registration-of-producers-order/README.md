@@ -1,6 +1,6 @@
 # Milk Marketing (Registration of Producers) (Jersey) Order 1954
 
-R&O.3498 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_3498_20261001>
+R&O.3498 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_3498>
 
 | Provision | File | Heading |
 | --- | --- | --- |

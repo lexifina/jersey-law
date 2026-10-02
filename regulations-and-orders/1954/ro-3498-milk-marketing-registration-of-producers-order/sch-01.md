@@ -1,6 +1,6 @@
 # Schedule
 APPLICATION FOR REGISTRATION
-To the Minister for Sustainable Economic Development
+To the Minister for Economic Development
 I...................................................................................................................
 (state full name)
 of.................................................................................................................
