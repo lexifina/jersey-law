@@ -1,6 +1,6 @@
 # Water (Jersey) Law 1972
 
-L.15/1972 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_15_1972_20261001>
+L.15/1972 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_15_1972>
 
 | Provision | File | Heading |
 | --- | --- | --- |
