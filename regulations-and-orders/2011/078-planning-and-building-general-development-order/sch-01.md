@@ -882,7 +882,7 @@ Conditions
 A.3
 If the work is the partial demolition of a building or structure, any exposed structures must be made good and decorated to match the remaining building or structure.
 A.4
-If the work requires the disconnection of a mains service, the demolition must not be commenced until the Building Control Surveyor of the Minister for the Environment has been consulted.
+If the work requires the disconnection of a mains service, the demolition must not be commenced until the Building Control Surveyor of the Minister for Planning and Regulation has been consulted.
 A.5
 In the case of the infilling of land as a result of removal of a swimming pool, the infill must be clean and inert material.
 PART 8
