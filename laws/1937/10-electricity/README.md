@@ -1,6 +1,6 @@
 # Electricity (Jersey) Law 1937
 
-L.10/1937 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_10_1937_20261001>
+L.10/1937 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_10_1937>
 
 | Provision | File | Heading |
 | --- | --- | --- |
