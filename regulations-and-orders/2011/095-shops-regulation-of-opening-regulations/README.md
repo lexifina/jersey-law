@@ -1,6 +1,6 @@
 # Shops (Regulation of Opening) (Jersey) Regulations 2011
 
-R&O.95/2011 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_95_2011_20261001>
+R&O.95/2011 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_95_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
