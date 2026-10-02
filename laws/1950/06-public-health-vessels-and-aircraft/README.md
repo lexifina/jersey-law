@@ -1,6 +1,6 @@
 # Public Health (Vessels and Aircraft) (Jersey) Law 1950
 
-L.6/1950 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_6_1950_20261001>
+L.6/1950 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_6_1950>
 
 | Provision | File | Heading |
 | --- | --- | --- |
