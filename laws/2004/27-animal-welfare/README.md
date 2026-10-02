@@ -1,6 +1,6 @@
 # Animal Welfare (Jersey) Law 2004
 
-L.27/2004 · official consolidation showing the law from 2019-03-13 · <https://www.jerseylaw.je/laws/current/l_27_2004_20261001>
+L.27/2004 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_27_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
