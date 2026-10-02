@@ -1,6 +1,6 @@
 # Air and Sea Ports (Incorporation) (Jersey) Law 2015
 
-L.9/2015 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_9_2015_20261001>
+L.9/2015 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_9_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
