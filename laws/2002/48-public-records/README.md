@@ -1,6 +1,6 @@
 # Public Records (Jersey) Law 2002
 
-L.48/2002 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_48_2002_20261001>
+L.48/2002 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_48_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
