@@ -1,6 +1,6 @@
 # Pet Travel Scheme (Jersey) Regulations 2011
 
-R&O.165/2011 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_165_2011_20261001>
+R&O.165/2011 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_165_2011>
 
 | Provision | File | Heading |
 | --- | --- | --- |
