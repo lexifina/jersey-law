@@ -1,6 +1,6 @@
 # Schedule 8
 (Article 49)
-PORT CONTROLS
+Port controls
 1 Interpretation
 (1) In this Schedule -
 “captain” means master of a ship or commander of an aircraft;
@@ -104,7 +104,7 @@ For the purpose of satisfying himself or herself whether there are any persons w
 (c) require conditions to be met and restrictions to be complied with in relation to the embarkation or disembarkation of passengers in a control area;
 (d) require the port managers to display, in specified locations in control areas, notices containing specified information about the provisions of this Schedule in such form as may be specified.
 (4) Where port managers receive notice under sub-paragraph (3) they shall take all reasonable steps to comply with any requirements set out in the notice.
-(5) The Minister shall inform the Minister for Sustainable Economic Development of any designations made and requirements imposed under this paragraph.
+(5) The Minister shall inform the Minister for Economic Development of any designations made and requirements imposed under this paragraph.
 12 Duty of captain on arrival and departure
 (1) This paragraph applies to a ship employed to carry passengers for reward, or an aircraft, which -
 (a) arrives in Jersey;
@@ -139,8 +139,8 @@ For the purpose of satisfying himself or herself whether there are any persons w
 (b) wilfully contravenes a prohibition imposed under or by virtue of this Schedule; or
 (c) wilfully obstructs, or seeks to frustrate, a search or examination under or by virtue of this Schedule.
 (2) A person guilty of an offence under this paragraph shall be liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding level 3 on the standard scale, or both.
-TABLE
-DESIGNATED PORTS
+Table
+Designated ports
 Seaports
 St. Helier, harbours
 Gorey harbour
