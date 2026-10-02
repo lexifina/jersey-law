@@ -1,6 +1,6 @@
 # Veterinary Surgeons (Jersey) Law 1999
 
-L.6/1999 · official consolidation showing the law from 2020-05-28 · <https://www.jerseylaw.je/laws/current/l_6_1999_20261001>
+L.6/1999 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_6_1999>
 
 | Provision | File | Heading |
 | --- | --- | --- |
