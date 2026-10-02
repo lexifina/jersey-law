@@ -5,3 +5,4 @@
 is guilty of an offence and liable to imprisonment for a term of 2 years and a fine.
 (2) Paragraphs (2) to (10) of Article 10 apply in respect of a statement or representation to which this Article applies, as if a reference in those paragraphs -
 (a) to development, refers to an operation or change of use under Article 54, or to use or operation of a device, or to an activity, under Article 55, as the case may be; and
+(b) to planning permission, refers to permission under either of those Articles.

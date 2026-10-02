@@ -1,6 +1,6 @@
 # Planning and Building (Jersey) Law 2002
 
-L.36/2002 · official consolidation showing the law from 2026-07-14 · <https://www.jerseylaw.je/laws/current/l_36_2002_20261001>
+L.36/2002 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_36_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ L.36/2002 · official consolidation showing the law from 2026-07-14 · <https://
 | Art. 12 | [art-012.md](art-012.md) | 12 Public inquiries |
 | Art. 13 | [art-013.md](art-013.md) | 13 Environmental impact of proposed development |
 | Art. 14 | [art-014.md](art-014.md) | 14 Development of concern to highway authority |
-| Art. 15 | [art-015.md](art-015.md) | 15 Development of concern to the Minister for Sustainable Economic Development |
+| Art. 15 | [art-015.md](art-015.md) | 15 Development of concern to the Minister for Economic Development |
 | Art. 16 | [art-016.md](art-016.md) | 16 Development of concern to the Minister for Infrastructure |
 | Art. 17 | [art-017.md](art-017.md) | 17 Development of concern to any Minister, etc. |
 | Art. 19 | [art-019.md](art-019.md) | 19 Grant of planning permission |
