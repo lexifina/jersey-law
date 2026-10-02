@@ -1,6 +1,6 @@
 # EU Legislation (Monitoring of Residues in Animals) (Jersey) Regulations 2019
 
-R&O.104/2019 · official consolidation showing the law from 2026-03-17 · <https://www.jerseylaw.je/laws/current/ro_104_2019_20261001>
+R&O.104/2019 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_104_2019>
 
 | Provision | File | Heading |
 | --- | --- | --- |
