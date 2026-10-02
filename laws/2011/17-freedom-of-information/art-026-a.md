@@ -20,7 +20,7 @@
 (o) the Intelligence and Security Committee of Parliament established under section 1 of the Justice and Security Act 2013 of the United Kingdom;
 (p) the Director appointed under Article 2 of the Cyber Security (Jersey) Law 2026;
 (q) an employee of the JCSC employed under that Article;
-(r) the Minister for Sustainable Economic Development, to the extent that the Minister is discharging a function under that Law.
+(r) the Minister for Economic Development, to the extent that the Minister is discharging a function under that Law.
 (3) Except as provided by paragraph (4), a certificate signed by the Chief Minister certifying that the information to which it applies was directly or indirectly supplied by, or relates to, any of the bodies specified in paragraph (2) is conclusive evidence of that fact.
 (4) A person aggrieved by the decision of the Chief Minister to issue a certificate under paragraph (3) may appeal to the Royal Court on the grounds that the Chief Minister did not have reasonable grounds for issuing the certificate.
 (5) The decision of the Royal Court on the appeal shall be final.
