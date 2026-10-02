@@ -1,6 +1,6 @@
 # Sea Beaches (Removal of Sand and Stone) (Jersey) Law 1963
 
-L.17/1963 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_17_1963_20261001>
+L.17/1963 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_17_1963>
 
 | Provision | File | Heading |
 | --- | --- | --- |
