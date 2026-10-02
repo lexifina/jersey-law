@@ -1,6 +1,6 @@
 # Explosives (Jersey) Law 1970
 
-L.1/1971 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_1_1971_20261001>
+L.1/1971 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_1_1971>
 
 | Provision | File | Heading |
 | --- | --- | --- |
