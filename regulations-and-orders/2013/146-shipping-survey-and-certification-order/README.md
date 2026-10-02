@@ -1,6 +1,6 @@
 # Shipping (Survey and Certification) (Jersey) Order 2013
 
-R&O.146/2013 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_146_2013_20261001>
+R&O.146/2013 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_146_2013>
 
 | Provision | File | Heading |
 | --- | --- | --- |
