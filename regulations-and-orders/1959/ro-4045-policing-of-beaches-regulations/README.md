@@ -1,6 +1,6 @@
 # Policing of Beaches (Jersey) Regulations 1959
 
-R&O.4045 · official consolidation showing the law from 2025-06-18 · <https://www.jerseylaw.je/laws/current/ro_4045_20261001>
+R&O.4045 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_4045>
 
 | Provision | File | Heading |
 | --- | --- | --- |
