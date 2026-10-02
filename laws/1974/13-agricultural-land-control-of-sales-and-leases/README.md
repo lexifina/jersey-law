@@ -1,6 +1,6 @@
 # Agricultural Land (Control of Sales and Leases) (Jersey) Law 1974
 
-L.13/1974 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/l_13_1974_20261001>
+L.13/1974 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_13_1974>
 
 | Provision | File | Heading |
 | --- | --- | --- |
