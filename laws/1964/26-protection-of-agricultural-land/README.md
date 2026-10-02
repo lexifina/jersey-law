@@ -1,6 +1,6 @@
 # Protection of Agricultural Land (Jersey) Law 1964
 
-L.26/1964 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_26_1964_20261001>
+L.26/1964 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_26_1964>
 
 | Provision | File | Heading |
 | --- | --- | --- |
