@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulations 5 and 8)
 conditions for the approval of embryo collection and embryo production teams
 In order to be given approval each embryo collection team must fulfil the following requirements -

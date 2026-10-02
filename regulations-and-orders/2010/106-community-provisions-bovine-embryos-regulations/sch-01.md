@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 3(2)(b))
 CONDITIONS APPLYING TO DONOR ANIMALS FOR Embryo collection
 1 Health history of donor animal

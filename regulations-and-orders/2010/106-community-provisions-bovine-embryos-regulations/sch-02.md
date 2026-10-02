@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulations 3(2)(c) and 11(3))
 conditions relating to the collection, processing, storage and transport of embryos
 1 Collection and processing

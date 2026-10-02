@@ -1,4 +1,4 @@
-# SCHEDULE 4
+# Schedule 4
 (Regulation 8)
 additional conditions for the approval of embryo production teams
 In order to be given approval each embryo production team must fulfil the following requirements, in addition to the requirements in Schedule 3 -

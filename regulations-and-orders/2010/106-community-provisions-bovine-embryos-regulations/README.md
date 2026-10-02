@@ -1,6 +1,6 @@
 # Community Provisions (Bovine Embryos) (Jersey) Regulations 2010
 
-R&O.106/2010 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_106_2010_20261001>
+R&O.106/2010 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_106_2010>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ R&O.106/2010 · official consolidation showing the law from 2020-12-08 · <https
 | Reg. 21 | [reg-021.md](reg-021.md) | 21 Orders amending these Regulations |
 | Reg. 22 | [reg-022.md](reg-022.md) | 22 Fees for certificates, approvals and inspections |
 | Reg. 23 | [reg-023.md](reg-023.md) | 23 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |
