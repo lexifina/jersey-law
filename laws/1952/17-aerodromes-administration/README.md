@@ -1,6 +1,6 @@
 # Aerodromes (Administration) (Jersey) Law 1952
 
-L.17/1952 · official consolidation showing the law from 2025-12-04 · <https://www.jerseylaw.je/laws/current/l_17_1952_20261001>
+L.17/1952 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_17_1952>
 
 | Provision | File | Heading |
 | --- | --- | --- |
