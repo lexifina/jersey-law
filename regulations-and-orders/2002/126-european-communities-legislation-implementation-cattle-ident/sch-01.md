@@ -1,3 +1,3 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 3)
 LOGO FOR EARTAGS

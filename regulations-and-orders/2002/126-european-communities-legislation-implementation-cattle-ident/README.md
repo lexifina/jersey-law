@@ -1,6 +1,6 @@
 # European Communities Legislation (Implementation) (Cattle Identification) (Jersey) Regulations 2002
 
-R&O.126/2002 · official consolidation showing the law from 2019-10-22 · <https://www.jerseylaw.je/laws/current/ro_126_2002_20261001>
+R&O.126/2002 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_126_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -21,5 +21,5 @@ R&O.126/2002 · official consolidation showing the law from 2019-10-22 · <https
 | Reg. 15 | [reg-015.md](reg-015.md) | 15 False information |
 | Reg. 16 | [reg-016.md](reg-016.md) | 16 Offences by bodies corporate |
 | Reg. 17 | [reg-017.md](reg-017.md) | 17 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
