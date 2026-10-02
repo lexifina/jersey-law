@@ -1,6 +1,6 @@
 # Plant Health (Jersey) Law 2003
 
-L.30/2003 · official consolidation showing the law from 2021-09-28 · <https://www.jerseylaw.je/laws/current/l_30_2003_20261001>
+L.30/2003 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_30_2003>
 
 | Provision | File | Heading |
 | --- | --- | --- |
