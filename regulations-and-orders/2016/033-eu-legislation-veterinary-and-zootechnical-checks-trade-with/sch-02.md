@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 4(2))
 diseases
 Foot and mouth disease

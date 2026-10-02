@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 2)
 animals and animal products subject to harmonized health requirements
 1 Veterinary legislation

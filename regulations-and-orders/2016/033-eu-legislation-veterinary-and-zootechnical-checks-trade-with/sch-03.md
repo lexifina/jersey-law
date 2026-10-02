@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 16(3))
 Approval of holdings, centres and organizations
 1 Approval of persons, holdings, centres and organizations

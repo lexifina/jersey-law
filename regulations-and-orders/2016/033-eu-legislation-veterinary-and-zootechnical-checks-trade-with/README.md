@@ -1,6 +1,6 @@
 # EU Legislation (Veterinary and Zootechnical Checks - Trade with Member States) (Jersey) Regulations 2016
 
-R&O.33/2016 · official consolidation showing the law from 2020-12-08 · <https://www.jerseylaw.je/laws/current/ro_33_2016_20261001>
+R&O.33/2016 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_33_2016>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -32,6 +32,6 @@ R&O.33/2016 · official consolidation showing the law from 2020-12-08 · <https:
 | Reg. 26 | [reg-026.md](reg-026.md) | 26 Charges for inspections, tests, examinations and other activities |
 | Reg. 27 | [reg-027.md](reg-027.md) | 27 Orders amending these Regulations |
 | Reg. 28 | [reg-028.md](reg-028.md) | 28 Citation |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
