@@ -1,6 +1,6 @@
 # Shipping (Oil Pollution) (Liability and Compensation) (Jersey) Law 2015
 
-L.8/2015 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_8_2015_20261001>
+L.8/2015 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_8_2015>
 
 | Provision | File | Heading |
 | --- | --- | --- |
