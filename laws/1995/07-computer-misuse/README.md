@@ -1,6 +1,6 @@
 # Computer Misuse (Jersey) Law 1995
 
-L.7/1995 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/l_7_1995_20261001>
+L.7/1995 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_7_1995>
 
 | Provision | File | Heading |
 | --- | --- | --- |
