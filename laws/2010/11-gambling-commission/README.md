@@ -1,6 +1,6 @@
 # Gambling Commission (Jersey) Law 2010
 
-L.11/2010 · official consolidation showing the law from 2025-11-24 · <https://www.jerseylaw.je/laws/current/l_11_2010_20261001>
+L.11/2010 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_11_2010>
 
 | Provision | File | Heading |
 | --- | --- | --- |
