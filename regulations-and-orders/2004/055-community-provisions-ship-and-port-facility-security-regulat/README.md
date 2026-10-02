@@ -1,6 +1,6 @@
 # Community Provisions (Ship and Port Facility - Security) (Jersey) Regulations 2004
 
-R&O.55/2004 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_55_2004_20261001>
+R&O.55/2004 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_55_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
