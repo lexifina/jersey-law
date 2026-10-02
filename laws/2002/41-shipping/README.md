@@ -1,6 +1,6 @@
 # Shipping (Jersey) Law 2002
 
-L.41/2002 · official consolidation showing the law from 2025-06-27 · <https://www.jerseylaw.je/laws/current/l_41_2002_20261001>
+L.41/2002 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_41_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
