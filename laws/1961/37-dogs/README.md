@@ -1,6 +1,6 @@
 # Dogs (Jersey) Law 1961
 
-L.37/1961 · official consolidation showing the law from 2026-03-31 · <https://www.jerseylaw.je/laws/current/l_37_1961_20261001>
+L.37/1961 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_37_1961_20261106>
 
 | Provision | File | Heading |
 | --- | --- | --- |
