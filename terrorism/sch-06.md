@@ -1,6 +1,6 @@
 # Schedule 6
 (Article 32)
-FINANCIAL INFORMATION
+Financial information
 1 Order to provide customer information
 (1) Where an order has been made under this paragraph in relation to a terrorist investigation, an officer of the Force named in the order may require a financial institution to which the order applies to provide customer information for the purposes of the investigation.
 (2) The order may provide that it applies to -

@@ -1,6 +1,6 @@
 # Schedule 5
 (Article 31)
-TERRORIST INVESTIGATIONS: INFORMATION
+Terrorist investigations: information
 Searches
 1 Warrant for search of premises
 (1) An officer of the Force may apply to the Bailiff for the issue of a warrant under this paragraph for the purposes of a terrorist investigation.

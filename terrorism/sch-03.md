@@ -1,6 +1,6 @@
 # Schedule 3
 (Article 27(5))
-FORFEITURE ORDERS RELATING TO PROPERTY
+Forfeiture orders relating to property
 1 Implementation and enforcement
 (1) Where the Royal Court makes an order under Article 27 (in this Schedule referred to as a “forfeiture order”) it may make an order -
 (a) requiring any property to which the forfeiture order applies to be paid or handed over to the Viscount;

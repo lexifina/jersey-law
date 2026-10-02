@@ -1,6 +1,6 @@
 # Schedule 1
 (Article 6)
-PROSCRIBED ORGANIZATIONS
+Proscribed organizations
 The Irish Republican Army.
 Cumann na mBan.
 Fianna na hEireann.

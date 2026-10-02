@@ -1,6 +1,6 @@
 # Schedule 7
 (Article 33)
-ACCOUNT MONITORING ORDERS
+Account monitoring orders
 1 Account monitoring orders
 (1) The Bailiff may, on an application made to him or her by an officer of the Force of at least the rank of chief inspector, make an account monitoring order if he or she is satisfied that -
 (a) the order is sought for the purposes of a terrorist investigation;

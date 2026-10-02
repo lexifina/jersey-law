@@ -1,8 +1,8 @@
 # Schedule 9
 (Article 37 and Schedule 8)
-DETENTION
-PART 1
-TREATMENT OF PERSONS DETAINED UNDER ARTICLE 37 OR SCHEDULE 8
+Detention
+Part 1
+Treatment of persons detained under Article 37 or Schedule 8
 1 Place of detention
 (1) The Minister shall designate places at which persons may be detained under Article 37 or Schedule 8.
 (2) In this Schedule a reference to a police station includes a reference to any place which the Minister has designated under sub-paragraph (1) as a place where a person may be detained under Article 37.
@@ -215,8 +215,8 @@ In the application of paragraphs 11 to 15 -
 (iii) a swab taken from any part of a person’s body including the mouth but not any other body orifice,
 (iv) saliva,
 (v) a footprint or a similar impression of any part of a person’s body other than a part of his hand.
-PART 2
-REVIEW OF DETENTION UNDER ARTICLE 37
+Part 2
+Review of detention under Article 37
 17 Requirement for review
 (1) A person’s detention shall be periodically reviewed by a review officer.
 (2) The first review shall be carried out as soon as is reasonably practicable after the time of the person’s arrest.
@@ -281,8 +281,8 @@ REVIEW OF DETENTION UNDER ARTICLE 37
 (a) incapable of understanding what is said to him or her;
 (b) violent or likely to become violent; or
 (c) in urgent need of medical attention.
-PART 3
-EXTENSION OF DETENTION UNDER ARTICLE 37
+Part 3
+Extension of detention under Article 37
 25 Warrant of further detention
 (1) An officer of the Force of at least the rank of chief inspector may apply to the Bailiff for the issue of a warrant of further detention under this Part.
 (2) A warrant of further detention -

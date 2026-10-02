@@ -1,6 +1,6 @@
 # Schedule 2
 (Article 8)
-THE PROSCRIBED ORGANIZATIONS APPEAL COMMISSION
+The Proscribed Organizations Appeal Commission
 1 Constitution
 (1) The Commission shall consist of members appointed by the Bailiff.
 (2) The Bailiff shall appoint one of the members as chairman.
