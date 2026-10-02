@@ -1,6 +1,6 @@
 # Shipping (Distress Signals and Prevention of Collisions) (Jersey) Order 2004
 
-R&O.25/2004 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/ro_25_2004_20261001>
+R&O.25/2004 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_25_2004>
 
 | Provision | File | Heading |
 | --- | --- | --- |
