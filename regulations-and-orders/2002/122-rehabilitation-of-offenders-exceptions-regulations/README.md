@@ -1,6 +1,6 @@
 # Rehabilitation of Offenders (Exceptions) (Jersey) Regulations 2002
 
-R&O.122/2002 · official consolidation showing the law from 2026-04-06 · <https://www.jerseylaw.je/laws/current/ro_122_2002_20261001>
+R&O.122/2002 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_122_2002>
 
 | Provision | File | Heading |
 | --- | --- | --- |
