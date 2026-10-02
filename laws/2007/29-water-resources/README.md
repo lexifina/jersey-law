@@ -1,6 +1,6 @@
 # Water Resources (Jersey) Law 2007
 
-L.29/2007 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_29_2007_20261001>
+L.29/2007 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_29_2007>
 
 | Provision | File | Heading |
 | --- | --- | --- |
