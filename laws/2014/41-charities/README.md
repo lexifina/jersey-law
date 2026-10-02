@@ -1,6 +1,6 @@
 # Charities (Jersey) Law 2014
 
-L.41/2014 · official consolidation showing the law from 2025-10-16 · <https://www.jerseylaw.je/laws/current/l_41_2014_20261001>
+L.41/2014 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_41_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
