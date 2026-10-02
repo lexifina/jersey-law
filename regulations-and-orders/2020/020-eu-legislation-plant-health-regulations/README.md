@@ -1,6 +1,6 @@
 # EU Legislation (Plant Health) (Jersey) Regulations 2020
 
-R&O.20/2020 · official consolidation showing the law from 2020-12-31 · <https://www.jerseylaw.je/laws/current/ro_20_2020_20261001>
+R&O.20/2020 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_20_2020>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ R&O.20/2020 · official consolidation showing the law from 2020-12-31 · <https:
 | Reg. 49 | [reg-049.md](reg-049.md) | 49 Orders generally |
 | Reg. 50 | [reg-050.md](reg-050.md) | 50 Review |
 | Reg. 53 | [reg-053.md](reg-053.md) | 53 Citation and commencement |
-| Schedule 1 | [sch-01.md](sch-01.md) | SCHEDULE 1 |
-| Schedule 2 | [sch-02.md](sch-02.md) | SCHEDULE 2 |
-| Schedule 3 | [sch-03.md](sch-03.md) | SCHEDULE 3 |
-| Schedule 4 | [sch-04.md](sch-04.md) | SCHEDULE 4 |
+| Schedule 1 | [sch-01.md](sch-01.md) | Schedule 1 |
+| Schedule 2 | [sch-02.md](sch-02.md) | Schedule 2 |
+| Schedule 3 | [sch-03.md](sch-03.md) | Schedule 3 |
+| Schedule 4 | [sch-04.md](sch-04.md) | Schedule 4 |

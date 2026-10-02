@@ -1,4 +1,4 @@
-# SCHEDULE 3
+# Schedule 3
 (Regulation 38(1))
 Offences: relevant provisions in the EU Regulations
 Provision of the EU Plant Health Regulation

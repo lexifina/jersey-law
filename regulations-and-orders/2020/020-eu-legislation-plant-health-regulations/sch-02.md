@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 (Regulation 23)
 Measures relating to the planting of certain solanaceous species and the control of relevant plant pests
 1 General interpretation of Schedule 2

@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 (Regulation 18)
 Temporary national measures
 1 Interpretation of Part 1
