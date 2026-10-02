@@ -1,6 +1,6 @@
 # Civil Aviation (Jersey) Law 2008
 
-L.35/2008 · official consolidation showing the law from 2024-01-11 · <https://www.jerseylaw.je/laws/current/l_35_2008_20261001>
+L.35/2008 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_35_2008>
 
 | Provision | File | Heading |
 | --- | --- | --- |
