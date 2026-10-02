@@ -1,6 +1,6 @@
 # Potatoes (Precautions against Blight) (Jersey) Order 1961
 
-R&O.4226 · official consolidation showing the law from 2019-01-01 · <https://www.jerseylaw.je/laws/current/ro_4226_20261001>
+R&O.4226 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_4226>
 
 | Provision | File | Heading |
 | --- | --- | --- |
