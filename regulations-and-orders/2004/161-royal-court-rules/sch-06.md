@@ -6,7 +6,7 @@ Between
 (full name)
 Appellant
 And
-The Minister for the Environment
+The Minister for Planning and Regulation
 Respondent
 PART A (to be completed by all appellants)
 TAKE NOTICE that in exercise of the right of appeal conferred by Article 1 of the High Hedges (Jersey) Law 2008 I am appealing to the Royal Court against your decision on (date of decision) 20 to (give details of, not reasons for, the decision)

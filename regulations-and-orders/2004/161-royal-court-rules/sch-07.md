@@ -5,7 +5,7 @@ Between
 (give full name)
 Appellant
 And
-The Minister for the Environment
+The Minister for Planning and Regulation
 Respondent
 TAKE NOTICE that, in exercise of the right of appeal conferred by Article (1) of the Planning and Building (Jersey) Law 2002, I am appealing to the Royal Court against your determination on(2) 20 that(3)
 The appeal is brought on the following point(s) of law:(4)
