@@ -1,6 +1,6 @@
 # Official Controls (Animals, Food, Feed and Plant Health etc.) (Jersey) Regulations 2022
 
-R&O.15/2022 · official consolidation showing the law from 2022-02-15 · <https://www.jerseylaw.je/laws/current/ro_15_2022_20261001>
+R&O.15/2022 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/ro_15_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
