@@ -1,6 +1,6 @@
 # Aircraft Registration (Jersey) Law 2014
 
-L.23/2014 · official consolidation showing the law from 2023-11-24 · <https://www.jerseylaw.je/laws/current/l_23_2014_20261001>
+L.23/2014 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_23_2014>
 
 | Provision | File | Heading |
 | --- | --- | --- |
