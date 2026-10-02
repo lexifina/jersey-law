@@ -1,6 +1,6 @@
 # Endangered Species (CITES) (Jersey) Law 2012
 
-L.20/2012 · official consolidation showing the law from 2023-08-18 · <https://www.jerseylaw.je/laws/current/l_20_2012_20261001>
+L.20/2012 · official consolidation showing the law from 2026-10-02 · <https://www.jerseylaw.je/laws/current/l_20_2012>
 
 | Provision | File | Heading |
 | --- | --- | --- |
