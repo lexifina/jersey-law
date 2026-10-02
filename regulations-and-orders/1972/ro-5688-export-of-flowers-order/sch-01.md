@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 (Article 3)
 PART 1
 Destination
