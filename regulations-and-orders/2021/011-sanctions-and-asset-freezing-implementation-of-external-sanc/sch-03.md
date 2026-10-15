@@ -65,8 +65,10 @@ In relation to a designated person as defined in regulation 17 of the Libya (San
 (ii) publicises a notice that disapplies the UK Russia general licence, by taking steps equivalent to those required by Article 16(5)(b) of the Law for revocation of a general licence granted by the Minister.
 5 Finance reporting obligations
 In the UK sanctions instruments in the first column of the following table, the provisions listed in the second column are to be read as if -
-(a) for “30th November” there were substituted “31 March”; and
-(b) for “30th September” there were substituted “31 December”.
+(a) a reference to 30 November in each calendar year referred to 31 March in each calendar year (for example, 31 March 2027);
+(b) a reference to 30 September in that calendar year referred to 31 December in the previous calendar year (for example, 31 December 2026);
+(c) a reference to 30 September in the following calendar year referred to 31 December in the calendar year in which the last report was provided (for example, 31 December 2027); and
+(d) a reference to 30 November in that (following) calendar year referred to 31 March in the calendar year following that in which the last report was provided (for example, 31 March 2028).
 UK sanctions instrument
 Provisions
 The Afghanistan (Sanctions) (EU Exit) Regulations 2020
@@ -93,8 +95,8 @@ The Democratic Republic of the Congo (Sanctions) (EU Exit) Regulations 2019
 regulation 39(4A) and (4B)
 The Unauthorised Drilling Activities in the Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020
 regulation 24(4A) and (4B)
-The Global Human Rights Sanctions Regulations 2020
-regulation 25(4A) and (4B)
+The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
+regulation 33(5) and (6)
 The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 regulation 33(5) and (6)
 The Guinea (Sanctions) (EU Exit) Regulations 2019

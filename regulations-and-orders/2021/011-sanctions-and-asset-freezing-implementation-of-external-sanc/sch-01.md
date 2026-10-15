@@ -57,10 +57,10 @@ Eastern Mediterranean
 The Unauthorised Drilling Activities in the Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020
 2020/1474
 regulation 10
-Global Human Rights
-The Global Human Rights Sanctions Regulations 2020
-2020/680
-regulation 10
+Global Human Rights and International Humanitarian Law
+The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026
+2026/1071
+regulation 13
 Global Irregular Migration and Trafficking
 The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025
 2025/902
