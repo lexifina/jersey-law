@@ -1,6 +1,6 @@
 # Social Security (Contributions) (Jersey) Order 1975
 
-R&O.6108 · official consolidation showing the law from 2025-04-22 · <https://www.jerseylaw.je/laws/current/ro_6108_20261018>
+R&O.6108 · official consolidation showing the law from 2026-10-19 · <https://www.jerseylaw.je/laws/current/ro_6108_20261122>
 
 | Provision | File | Heading |
 | --- | --- | --- |
@@ -10,7 +10,8 @@ R&O.6108 · official consolidation showing the law from 2025-04-22 · <https://w
 | Art. 3 | [art-003.md](art-003.md) | 3 Incapacity for work |
 | Art. 4 | [art-004.md](art-004.md) | 4 Provisions determining days of incapacity for work |
 | Art. 5 | [art-005.md](art-005.md) | 5 Persons unemployed and incapable of work during the same period |
-| Art. 6 | [art-006.md](art-006.md) | 6 Persons in receipt of long term incapacity allowance |
+| Art. 6 | [art-006.md](art-006.md) | 6 Persons in receipt of long term incapacity allowance assessed before 19 October 2026 |
+| Art. 6AA | [art-006-aa.md](art-006-aa.md) | 6AA Persons in receipt of long term incapacity allowance |
 | Art. 6A | [art-006-a.md](art-006-a.md) | 6A Persons in receipt of incapacity pensions |
 | Art. 7 | [art-007.md](art-007.md) | 7 Persons over pensionable age |
 | Art. 8 | [art-008.md](art-008.md) | 8 Imprisonment or detention in legal custody |
