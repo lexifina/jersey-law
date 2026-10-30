@@ -1,0 +1,71 @@
+{
+ "parts": {
+  "10-interpretation.json": {
+   "acts": [
+    "interpretation"
+   ],
+   "sha256": "885a32d263658dca72383854b7b726f3e5917284920634604e37f0d9b67b2c34"
+  },
+  "20-proceeds-of-crime.json": {
+   "acts": [
+    "proceeds-of-crime"
+   ],
+   "sha256": "cab829ddb6dd7c4f24e57f9e3c248fccce35f2ff8be722dff01911d2fe922787"
+  },
+  "21-misuse-of-drugs.json": {
+   "acts": [
+    "misuse-of-drugs"
+   ],
+   "sha256": "fe37a4ba5e147f2c3659da9e18ecdfaa7f8190fcfa001d3416056b8d47a310cf"
+  },
+  "22-terrorism.json": {
+   "acts": [
+    "terrorism"
+   ],
+   "sha256": "bd7ebf83d41be50233b45896a5a01d66cd408a343d8b283384b4ac1f40815057"
+  },
+  "23-police-procedures.json": {
+   "acts": [
+    "police-procedures"
+   ],
+   "sha256": "1680c0b23049883f5a4580d4c333bbc92f3e99b6ea7418303b8ddec3091a9ce9"
+  },
+  "30-companies.json": {
+   "acts": [
+    "companies"
+   ],
+   "sha256": "88b76ab83c2ba79ba94ad9a994cdbc6a1be9dac226f4a7154a95af939ee862c0"
+  },
+  "31-employment.json": {
+   "acts": [
+    "employment"
+   ],
+   "sha256": "a688758ab3a449ac2420db0b8ea579171feba133c443adcad22511614e68ed85"
+  },
+  "32-criminal-procedure.json": {
+   "acts": [
+    "criminal-procedure"
+   ],
+   "sha256": "e6833c63da6609a2997972f4c140df2c34449167e154bf13ca17e9eca8300b41"
+  },
+  "33-sexual-offences.json": {
+   "acts": [
+    "sexual-offences"
+   ],
+   "sha256": "953d5aad6965a3e8cbbaaee5431ec7b72f9d22bfa1938feb4ff08d86243dd472"
+  },
+  "34-human-rights.json": {
+   "acts": [
+    "human-rights"
+   ],
+   "sha256": "e1ffd0cf38d4bcf690b64f0ac8df8ba25897a240450da030c8e5d7fad37cf331"
+  },
+  "35-data-protection.json": {
+   "acts": [
+    "data-protection"
+   ],
+   "sha256": "04f6570247d13e209de205c835380fcc2bb7b1b366225fa7cf6443521e78ce6c"
+  }
+ },
+ "schema": 1
+}
