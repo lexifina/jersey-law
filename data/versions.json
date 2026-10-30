@@ -1,0 +1,393 @@
+{
+ "country": "JE",
+ "acts": [
+  {
+   "slug": "interpretation",
+   "short": "Interpretation Law",
+   "title": "Interpretation (Jersey) Law 1954",
+   "url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "718bd8b50d5ae37e790e9b50cc4be28be78848f604ed068d5f728a49c32690b9"
+    },
+    {
+     "from": "2022-01-31",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "3240b887ace6d31cf58b8c9c45c417609b9dd095e9c7d8d4a910d2e2cb184230"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "00e465322b7a0b162eb23ed72e4c47199377ed227147228befd42ee8be7b8748"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "878e06d0ab9e21c570b61c45da3a98f8840c998c57bf229c497305c06e283277"
+    },
+    {
+     "from": "2025-11-24",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "ef6c990dd3ba1b6c31999c28d8329c0f0a1a448a589c4cb35caf0bdb22ce9849"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 18,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_17_1954",
+     "sha256": "5cc03cd038093563261f66573955d236a6a1d25326698b14a9fc49a7fedf950b"
+    }
+   ]
+  },
+  {
+   "slug": "proceeds-of-crime",
+   "short": "POCL",
+   "title": "Proceeds of Crime (Jersey) Law 1999",
+   "url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 57,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "54c4af4b433f225bd6b6cb305eb5f0652d67a05f5f7acb792fb219593bb7d0ad"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 58,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "4d2e68d4d7c63d9e7157dc4c667fd37269dff832f1a335c4ad2bc48bab16bdcc"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 60,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "fb123843e21a6c3b99e5adbf733538a4050ed0cdbf8c75a03faa80754b328cdc"
+    },
+    {
+     "from": "2023-04-12",
+     "units": 60,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "a4124c994bbc98e96b1d7f8bd3fe12c993db62dd7a8d39e0b9c8acb89c41896b"
+    },
+    {
+     "from": "2023-07-25",
+     "units": 59,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "bbfcd6a2bdb60346462e607995af5a521f84a9c7d346c3fa4fd52f0150ea31df"
+    },
+    {
+     "from": "2024-02-27",
+     "units": 59,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "6fa19074382110a4e3198ba1f2b3b96e098676c52878dd28cfac89af339681b6"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 59,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "41e0b3e70ba6a78dbdbfe97bb68d996a967e0fd7402e0302be84ae5b2d797ee5"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 59,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_8_1999",
+     "sha256": "0f1ca11f5519445ffc2f076ca64a32a801b709e1ea3a4d68e5248a4fd5065d66"
+    }
+   ]
+  },
+  {
+   "slug": "misuse-of-drugs",
+   "short": "Misuse of Drugs Law",
+   "title": "Misuse of Drugs (Jersey) Law 1978",
+   "url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 44,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+     "sha256": "642037d1ee419663b9ecfc70063496c618d268f7630dec33566e43bfad40b10f"
+    },
+    {
+     "from": "2023-01-30",
+     "units": 44,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+     "sha256": "fdd2a19127b8d6950650e195bc2da3b5cd93e2b484fe1467536fa4907b33ce28"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 44,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+     "sha256": "e518088f0b1f3455ca21689ea2cd5bccf7e72f7bc8287c2104a178231351d9ac"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 45,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+     "sha256": "cc7d6c6978d01064db17200e39cac7bc3cea20cf0c3b4ed31bb6736b69bd73b3"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 45,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_10_1978",
+     "sha256": "089feb06f2e12848cbc45646ca98ae995beafd126a90882e5d54755d35cc1c46"
+    }
+   ]
+  },
+  {
+   "slug": "terrorism",
+   "short": "Terrorism Law",
+   "title": "Terrorism (Jersey) Law 2002",
+   "url": "https://www.jerseylaw.je/laws/current/l_40_2002",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 75,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_40_2002",
+     "sha256": "1763496ebd0e13a34f2b4a95882b73ae8d6d3024fc8fe082922e33b93182fbae"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 75,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_40_2002",
+     "sha256": "b52dd0a8aa9379306dce67bdb44e7c8f828fcaa24fafd2e479a8adf4d8d4f04a"
+    }
+   ]
+  },
+  {
+   "slug": "police-procedures",
+   "short": "PPCE Law",
+   "title": "Police Procedures and Criminal Evidence (Jersey) Law 2003",
+   "url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 131,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+     "sha256": "302c392238718a83828300447d1810a4567bc2c639ea1ae1cbe92cfe95704c6b"
+    },
+    {
+     "from": "2023-09-21",
+     "units": 131,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+     "sha256": "deccc478954df17d9c2b453cdd98198d2825a73f899df874b595598d0cb8a948"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 132,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+     "sha256": "d7ec79e4796fd9ff6e774d9ef7f7776eb166a8aa12661e3ed699800d4f654d2b"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 132,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+     "sha256": "d1fbd9430685aba4693ef21b569b42c1d655d53b0bc60c9729486c9b73768961"
+    },
+    {
+     "from": "2026-07-17",
+     "units": 132,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_5_2003",
+     "sha256": "d193d631cd197a6a79fc409c5f4723d4a1456fcb5c15d16a76dfe0ab3869d73e"
+    }
+   ]
+  },
+  {
+   "slug": "companies",
+   "short": "Companies Law",
+   "title": "Companies (Jersey) Law 1991",
+   "url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 370,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "5c218de6fd948066c14309935615b3a2d3cbd67f69fc7be987fac5523e75efe9"
+    },
+    {
+     "from": "2025-11-24",
+     "units": 370,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "a022d53f83631409d23b11dce64ee6ce303c1752d0ee76ee3a813a3aea88fee1"
+    },
+    {
+     "from": "2026-03-06",
+     "units": 370,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "1110cd2e6c00baca4822bbd0b29063ed5d6ff4ca31b72a017ddf7ca3775eac73"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 386,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "5d0ddcf5e3b63530b38a6c03b93d46b3ddffb26c7913a4561d96acc818f0107f"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 406,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "81945b04f96ac70fa9e9aaa340279d1dd33583ef307090b40689c9f39258e204"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 407,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_30_1991",
+     "sha256": "078fe60b870c33d3d93dcaddfa0f4795baff78d4ebb9bac50a3084798f10fa81"
+    }
+   ]
+  },
+  {
+   "slug": "employment",
+   "short": "EL",
+   "title": "Employment (Jersey) Law 2003",
+   "url": "https://www.jerseylaw.je/laws/current/l_42_2003",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 186,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_42_2003",
+     "sha256": "5c117903fd8aa64f81420e1ce6da2ce056994b00615bf6e19a7f70f7fbe76162"
+    },
+    {
+     "from": "2025-07-25",
+     "units": 189,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_42_2003",
+     "sha256": "29745c1101d2381bcdb0e9749f669db5c39c3c911f431bbdc770a48c07c4a6f8"
+    },
+    {
+     "from": "2026-04-17",
+     "units": 188,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_42_2003",
+     "sha256": "245ef46be227c161585d10214e74ca4c23da5a92b112768a5b1bdd7cd9e2ffbc"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure",
+   "short": "Criminal Procedure Law",
+   "title": "Criminal Procedure (Jersey) Law 2018",
+   "url": "https://www.jerseylaw.je/laws/current/l_25_2018",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 124,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_25_2018",
+     "sha256": "50b75437d03084f4d3229f38f9d4a45e7a0955602ffc052ad43a85f40f22e649"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 124,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_25_2018",
+     "sha256": "f89b1ff0bb6b5e88e6b7a721906730de3fa77c33c0873b4b55764894ded3da83"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 129,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_25_2018",
+     "sha256": "1c80bf8493dabc3a2d76a0a2d6ad089b4ef4232b33fbdddc2dbf50ebfd7755bd"
+    }
+   ]
+  },
+  {
+   "slug": "sexual-offences",
+   "short": "Sexual Offences Law",
+   "title": "Sexual Offences (Jersey) Law 2018",
+   "url": "https://www.jerseylaw.je/laws/current/l_20_2018",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 49,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_20_2018",
+     "sha256": "a021b5cb39a3c8f7871acbe265078cc649865d4d6b5011d1dd87612c45509eb0"
+    },
+    {
+     "from": "2026-04-06",
+     "units": 49,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_20_2018",
+     "sha256": "f8a065017ec2802a3dcd858735523a9cbaa0259f0b37412b8cce60265388177f"
+    }
+   ]
+  },
+  {
+   "slug": "human-rights",
+   "short": "HRL",
+   "title": "Human Rights (Jersey) Law 2000",
+   "url": "https://www.jerseylaw.je/laws/current/l_19_2000",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 21,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_19_2000",
+     "sha256": "6dbeda1f5a5f1f079f0dd8cd7dde83b30e075dd340582d2233a4c2c21a7d43c6"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 21,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_19_2000",
+     "sha256": "4e7e4c2de997f7b0f2edaee1e7eae2f010ee466d63b736aa3b752001d8107ad0"
+    }
+   ]
+  },
+  {
+   "slug": "data-protection",
+   "short": "DPL",
+   "title": "Data Protection (Jersey) Law 2018",
+   "url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "db0f1587f056039dd754d479f4da34a65e087c9cc4f93116367b55f1d239d5e7"
+    },
+    {
+     "from": "2023-05-06",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "3861e3e40244cca553f60f66a7faa25b18e9f2c830a9ab4b21c3a4578a36d645"
+    },
+    {
+     "from": "2023-11-24",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "aee1adb3517fba83084091c03823e13b1497060cb12492c221c20fb1a2ceda7f"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "60a7f088bd55fe6eea6271bb1c18c5ab988caa05d38ed141d11d79561077d79d"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "a546d46df5b7096abcbb3bab906bef2fd5a99c19a7dfa57ca68dc91d22ac92e8"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "afcc228e4001b326e0da97c5f70b0736c6b296911b8ea7e2dd3b77bbb1321c3d"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "1cae3bf3099b8e52b81a993145b8abeb3f532c674eca6af35d398763c70b9a55"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 93,
+     "source_url": "https://www.jerseylaw.je/laws/current/l_3_2018",
+     "sha256": "ee91c58786e3a1757173a183b2761bb4c1d90b577cce283df827399577cdba9e"
+    }
+   ]
+  }
+ ]
+}
