@@ -1,4 +1,4 @@
-# 11A Additional requirements for financial groups and DNFBP groups
+# 11A Additional requirements for financial groups
 (1) This Article applies to a financial group of which a relevant person is a member.
 (2) In addition to the requirements in Article 11, a financial group must maintain a programme to prevent and detect money laundering that includes -
 (a) policies and procedures by which a relevant person within a financial group, which carries on financial services business or equivalent business, may disclose information to a member of the same financial group, but only where such disclosure is appropriate for the purpose of preventing and detecting money laundering or managing money laundering risks;
