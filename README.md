@@ -1,5 +1,7 @@
 # Jersey: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jersey's national law, which global-law reads at `jersey/national/acts/`.
+
 A first build of the law of Jersey as git: one file per provision, with the official text and its date taken from the official consolidation on [jerseylaw.je](https://www.jerseylaw.je). It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `je/`.
 
 **What is in it now** (language: English, the language of Jersey legislation)
