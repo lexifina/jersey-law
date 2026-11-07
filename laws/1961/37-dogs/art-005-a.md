@@ -4,7 +4,7 @@
 (3) The register must include -
 (a) the name of the owner of the dog;
 (b) the address at which the dog is kept, which must be the same as the address at which the owner ordinarily resides;
-(c) confirmation that there is insurance complying with Article 5C in respect of the dog;
+(c)
 (d) the number of the identifying microchip implanted in the dog;
 (e) if the dog’s DNA is recorded, where it is recorded; and
 (f) any conditions imposed by the States Veterinary Officer.
