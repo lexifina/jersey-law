@@ -1,6 +1,8 @@
 # Schedule 1
 (Article 1(2) to (4))
-Fees
+fees
+Part 1
+Applications relating to licences
 Part 1 - Applications
 Fee
 1 - Licence application
@@ -32,29 +34,43 @@ medium regulatory requirement
 4.3
 low regulatory requirement
 £1,719.80
-5 - Waste carriers registration
-5.1
-application
-£148.10
-5.2
-on triennial renewal
-£148.10
-6 - Transboundary consignment note
-6.1
-application
-£1,593.80
-6.2
-shipment fee - for each permitted shipment
-£141.00
 Part 2 - Annual fees
 Fee
-7 - Licence subsistence
-7.1
+5 - Licence subsistence
+5.1
 high inspection frequency
 £16,276.30
-7.2
+5.2
 medium inspection frequency
 £8,135.00
-7.3
+5.3
 low inspection frequency
 £4,070.20
+Part 2
+Applications relating to waste carriers registrations
+Application or renewal
+Fee
+Application
+£148.10
+3-year periodic fee
+£148.10
+Part 3
+Supply of transboundary consignment notes
+Number of trailers
+Fee
+1
+£1,743
+2 to 5
+£3,796
+6 to 20
+£4,762
+21 to 100
+£6,816
+101 to 300
+£7,638
+301 to 500
+£11,012
+501 to 1000
+£15,754
+more than 1000
+£15,754, plus £1,376 for each additional hundred or part of a hundred over 1000
