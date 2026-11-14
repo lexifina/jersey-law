@@ -5,45 +5,78 @@
 <img alt="Jersey law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Jersey as a git history: one file per Article or Schedule, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an Article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jersey's national law, which global-law reads at `jersey/national/acts/`.
 
-A first build of the law of Jersey as git: one file per provision, with the official text and its date taken from the official consolidation on [jerseylaw.je](https://www.jerseylaw.je). It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `je/`.
+**What is in it now:** 11 Laws of the States of Jersey, among them the Employment, Companies, Data Protection, Human Rights and Interpretation Laws, with 50 official consolidated versions from 2020-11-25 to 2026-10-02 and 1,205 Articles and Schedules; 34 of the 57 changes after the first versions are credited to the 34 amending Laws, Regulations, Orders and Law Revision Board items that made them. [`REPRODUCE.md`](REPRODUCE.md) lists every Law with its versions; [`data/laws.csv`](data/laws.csv) lists the 45 laws in the record, with the day each amending law's change took effect.
 
-**What is in it now** (language: English, the language of Jersey legislation)
+Each Law is a folder named after its short title, with one file per Article or Schedule (`art-015-a.md` is Article 15A, `sch-02.md` Schedule 2), plus `long-title.md` and a `README.md` listing its provisions and their changes (`employment/art-001.md` is Article 1 of the Employment (Jersey) Law 2003, L.42/2003).
 
-| Folder | Law | Versions | History |
-| --- | --- | ---: | --- |
-| `interpretation/` | Interpretation (Jersey) Law 1954 | 6 | Official consolidations from 2021-09-28 to 2026-06-19, the last still current |
-| `proceeds-of-crime/` | Proceeds of Crime (Jersey) Law 1999 | 8 | Official consolidations from 2021-10-08 to 2025-07-02, the last still current |
-| `misuse-of-drugs/` | Misuse of Drugs (Jersey) Law 1978 | 5 | Official consolidations from 2021-09-28 to 2025-12-05, the last still current |
-| `terrorism/` | Terrorism (Jersey) Law 2002 | 2 | Official consolidations from 2024-06-14 to 2026-10-02, the last still current |
-| `police-procedures/` | Police Procedures and Criminal Evidence (Jersey) Law 2003 | 5 | Official consolidations from 2021-10-01 to 2026-07-17, the last still current |
-| `companies/` | Companies (Jersey) Law 1991 | 6 | Official consolidations from 2024-02-27 to 2026-09-30, the last still current |
-| `employment/` | Employment (Jersey) Law 2003 | 3 | Official consolidations from 2025-02-21 to 2026-04-17, the last still current |
-| `criminal-procedure/` | Criminal Procedure (Jersey) Law 2018 | 3 | Official consolidations from 2023-09-21 to 2026-08-01, the last still current |
-| `sexual-offences/` | Sexual Offences (Jersey) Law 2018 | 2 | Official consolidations from 2024-02-27 to 2026-04-06, the last still current |
-| `human-rights/` | Human Rights (Jersey) Law 2000 | 2 | Official consolidations from 2021-10-01 to 2024-01-11, the last still current |
-| `data-protection/` | Data Protection (Jersey) Law 2018 | 8 | Official consolidations from 2020-11-25 to 2026-10-02, the last still current |
+The text is in English, the language Jersey legislation is enacted in, as jerseylaw.je prints it.
 
-## What it does not show
+## Questions as git commands
 
-- **Who made each change.** A changed Article or Schedule is credited to an amending law only when that version's own endnotes name the law for it and the version's date is one of the law's commencement dates in its Table of Legislation History (or the date a Law Revision Board item revised it). Anything else is committed by the publisher as an unexplained change.
-- **Coverage.** Jersey has no penal, civil or commercial code; criminal law is customary law plus statutes such as the Sexual Offences, Proceeds of Crime, Misuse of Drugs, Terrorism and Police Procedures and Criminal Evidence Laws included here. Jersey has no single constitutional text, and many more Laws are not yet included.
-- **Headings and notes.** Part, division and cross headings, endnotes, the legislation history table and footnote markers are not law text and are not in the files. Tables inside schedules are not kept as tables.
+| Question | Command |
+| --- | --- |
+| Every change to Article 1 of the Employment Law | `git log -p --word-diff -- employment/art-001.md` |
+| Which law wrote each line of Article 1? | `git blame employment/art-001.md` |
+| Every change to the Employment Law, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- employment ':!employment/README.md'` |
+| Article 1 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 employment art-001` |
+
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Jersey law](https://global-law.lexifina.com/v1/try_claude?country=jersey)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=jersey)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=jersey)**: a search of Jersey law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add jersey/national/acts
+python3 tools/law.py show 2026-01-01 jersey/national/acts/employment/art-001.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Europe/Jersey, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for every version, the "Showing the law from" day its official consolidation on jerseylaw.je states (Legislation (Jersey) Law 2021);
+- for the first version of a Law, the day of the oldest consolidation published as text (2020-11-25 at the earliest), not the day the Law was enacted.
+
+The first version is the "oldest version available", credited to the publisher (Jersey Legal Information Board) and naming the laws the source says produced it. A changed Article or Schedule is credited to an amending law (`Employment and Discrimination (Jersey) Amendment Law 2026 <l-11-2026@jerseylaw.je.invalid>`) only when that version's endnotes name the law for it and the version's day is one of the law's commencement days in its Table of Legislation History, or the day a Law Revision Board item revised it; any other change is the publisher's, and its message says it is unexplained.
 
 ## How it is checked
 
-Every version names its source page and the sha256 of the bytes it was read from. Each version is read back from git and must match `corpus.json` (`tools/check_repo.py`); the results are in `REPRODUCE.md`.
+- Every version names its source page and the sha256 of the bytes it was read from (`data/versions.json`).
+- `tools/check_repo.py` reads each of the 50 versions back from git on the day it took effect and on the day before, and compares it with the corpus: 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build. The same corpus always gives the same commit hashes; a second build has not yet been compared.
+- History is append-only: `tools/append.py` adds new versions after the newest one and never replaces a published commit.
+
+## What it does not show
+
+- **Most Jersey law.** 11 Laws are here; other Laws, Regulations and Orders, case law and customary law are not. Jersey has no penal, civil or commercial code and no single constitutional text.
+- **Laws as enacted.** Each history starts at the oldest consolidation jerseylaw.je publishes as text, which already holds the amendments made before it.
+- **Who made every change.** 23 of the 57 changes are not credited to a law, because the endnotes and the Table of Legislation History do not tie them to one.
+- **Headings and notes.** Part, division and cross headings, endnotes, history tables and footnote markers are not law text and are not in the files; tables inside Schedules are not kept as tables.
+- **Versions after 2026-10-30**, when the record was retrieved.
 
 ## Sources
 
-| Source | Kind | Past versions | Licence |
+| Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Jersey Law](https://www.jerseylaw.je) | Official legislation (Jersey Legal Information Board) | – | Open States Assembly Licence (OSAL-J) v.1 |
+| [Jersey Law](https://www.jerseylaw.je) (Jersey Legal Information Board) | Official consolidated legislation | the current consolidation, and earlier copies of the same page | The text, the "Showing the law from" day of each version, and the endnotes and Table of Legislation History naming each amending law and its commencement |
 
 ## Licence
 
-Jersey legislation: (c) States Assembly, offered under the Open States Assembly Licence (OSAL-J) v.1. The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`. This repository is not legal advice and not an official publication.
+See [`LICENSE`](LICENSE). The States Assembly holds the copyright in Jersey legislation (Intellectual Property (Unregistered Rights) (Jersey) Law 2011, Articles 185 and 186), and the Greffier of the States offers it for re-use under the Open States Assembly Licence (OSAL-J) v.1; the arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
+
+No AI model wrote, translated or corrected legal text, and no model runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
