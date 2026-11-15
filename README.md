@@ -28,7 +28,8 @@ The text is in English, the language Jersey legislation is enacted in, as jersey
 
 - **[Ask Claude about Jersey law](https://global-law.lexifina.com/v1/try_claude?country=jersey)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=jersey)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=jersey)**: a search of Jersey law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Jersey law on our site](https://lexifina.com/law?country=jersey&q=annual+leave)**: a search for "annual leave", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdiction=jersey)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
