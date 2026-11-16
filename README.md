@@ -58,6 +58,7 @@ The first version is the "oldest version available", credited to the publisher (
 - `tools/check_repo.py` reads each of the 50 versions back from git on the day it took effect and on the day before, and compares it with the corpus: 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
 - Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build. The same corpus always gives the same commit hashes; a second build has not yet been compared.
 - History is append-only: `tools/append.py` adds new versions after the newest one and never replaces a published commit.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ The first version is the "oldest version available", credited to the publisher (
 See [`LICENSE`](LICENSE). The States Assembly holds the copyright in Jersey legislation (Intellectual Property (Unregistered Rights) (Jersey) Law 2011, Articles 185 and 186), and the Greffier of the States offers it for re-use under the Open States Assembly Licence (OSAL-J) v.1; the arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and no model runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
