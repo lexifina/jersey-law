@@ -1,6 +1,6 @@
 # Immigration (Fees) (Jersey) Order 2022
 
-R&O.45/2022 · official consolidation showing the law from 2026-09-01 · <https://www.jerseylaw.je/laws/current/ro_45_2022_20261115>
+R&O.45/2022 · official consolidation showing the law from 2026-11-16 · <https://www.jerseylaw.je/laws/current/ro_45_2022>
 
 | Provision | File | Heading |
 | --- | --- | --- |
