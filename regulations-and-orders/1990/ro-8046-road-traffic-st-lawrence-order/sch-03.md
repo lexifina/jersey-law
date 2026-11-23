@@ -1,6 +1,6 @@
 # Schedule 3
 (Article 5)
-PART 1
+Part 1
 (Article 5(1)(a))
 Prohibition of waiting
 La Grande Route de St. Laurent
@@ -52,13 +52,12 @@ La Rue de la Ville Emphrie
 Both sides (between its junction with La Rue des Prés Sorsoleil and the eastern boundary of the property known as “Les Cypres”).
 Rue du Nord
 Both sides (from the northern boundary of La Motte Garages to the junction with La Rue du Galet).
-St. Aubin’s Road
+La Route de St. Aubin
 North side.
-South side (between a point 50 yards west of its junction with La Rue du Galet and a point 12 yards east of the eastern side of the entrance to “Alma Gardens”).
-South side (between a point 15 yards east of the main gate entrance to Coronation Park and the eastern boundary of Bel Royal Terrace).
-South side (from a point 90 yards west of its junction with La Rue du Galet to a point 105 yards east of its junction with La Rue du Galet).
-South side (from its junction with the parish boundary with St. Helier to a point 125 yards west of that junction).
-South side (from its junction with La Vallée de St. Pierre, east for a distance of 24 yards).
+South side (from its junction with the parish boundary with St. Helier to a point 126 yards further west).
+South side (from the eastern side of its junction with La Rue du Galet to a point 106 yards further east).
+South side (from the western side of its junction with La Rue du Galet to a point 105 yards further west).
+South side (from a point 15 yards east of the eastern side of the main gate entrance to Coronation Park to the junction with La Vallée de St. Pierre).
 Le Mont Cambrai
 North side (for a distance of 11 yards in an easterly direction from its junction with the entrance road to La Vallette).
 West and North side (from its junction with La Rue de Haut to a point 11 yards east of the entrance road to La Vallette).
@@ -72,8 +71,10 @@ South side.
 Le Mont Cochon
 West side (from a point 10 yards south of its junction with La Ruelle St. Claire to a point 25 yards further south).
 La Route de St. Jean
-Both sides (from a point 25 yards south of its junction with La Rue des Bilières to a point 10 yards further south).
+Both sides (from a point 23 yards south of its junction with La Rue des Bilières to a point 10 yards further south).
 Both sides (from a point 103 yards south of its junction with La Rue des Bilières to a point 47 yards further south).
-PART 2
+West side (from a point 150 yards south of its junction with La Rue des Bilières to a point 66 yards further south).
+East side (from a point 150 yards south of its junction with La Rue des Bilières to a point 69 yards further south).
+Part 2
 (Article 5(1)(b))
 RESTRICTION OF WAITING

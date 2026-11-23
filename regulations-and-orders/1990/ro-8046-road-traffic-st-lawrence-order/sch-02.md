@@ -1,13 +1,13 @@
 # Schedule 2
 (Article 4)
 Restriction or prohibition of turns
-PART 1
+Part 1
 (Article 4(1))
 Prohibition of U-turns
 Victoria Avenue
 At the La Rue du Galet junction.
 At the junction with the road serving Bel Royal Car Park.
-PART 2
+Part 2
 (Article 4(2))
 Other Prohibited turns
 Road

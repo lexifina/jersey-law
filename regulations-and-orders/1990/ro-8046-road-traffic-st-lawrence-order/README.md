@@ -1,6 +1,6 @@
 # Road Traffic (St. Lawrence) (Jersey) Order 1990
 
-R&O.8046 · official consolidation showing the law from 2023-07-10 · <https://www.jerseylaw.je/laws/current/ro_8046_20261122>
+R&O.8046 · official consolidation showing the law from 2026-11-23 · <https://www.jerseylaw.je/laws/current/ro_8046>
 
 | Provision | File | Heading |
 | --- | --- | --- |
