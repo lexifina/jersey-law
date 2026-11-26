@@ -25,7 +25,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 
 ## Counts
 
-120 Laws, 0 Regulations and Orders, 0 Orders in Council. 52 pages or versions held:
+125 Laws, 0 Regulations and Orders, 0 Orders in Council. 53 pages or versions held:
 
 | Page | Why held |
 | --- | --- |
@@ -81,3 +81,4 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_8_2018` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_8_2019` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_8_2025` | commenced in stages or no day ("1 January 2025 Adopted Law given effect as if enacted on 22 October 2024 by R&O.") |
+| `pit:l_30_2012` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
