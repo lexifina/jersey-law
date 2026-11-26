@@ -9,7 +9,7 @@ The law of Jersey as a git history: one file per Article or Schedule, one commit
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jersey's national law, which global-law reads at `jersey/national/acts/`.
 
-**What is in it now:** 78 Laws of the States of Jersey in force, 0 Regulations and Orders (R&Os) and 0 Orders in Council, among them the States of Jersey, Employment, Companies, Data Protection, Human Rights and Interpretation Laws, each as currently consolidated on jerseylaw.je and, where it came into force on one day, as enacted. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
+**What is in it now:** 120 Laws of the States of Jersey in force, 0 Regulations and Orders (R&Os) and 0 Orders in Council, among them the States of Jersey, Employment, Companies, Data Protection, Human Rights and Interpretation Laws, each with the point-in-time versions jerseylaw.je publishes (from 2021) and, where it came into force on one day, as enacted. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
 
 Each Law is a folder under `laws/<year>/<number>-<slug>/`, each R&O under `regulations-and-orders/<year>/<number>-<slug>/`, with one file per Article, Regulation, Rule or Schedule (`art-015-a.md` is Article 15A, `reg-003.md` Regulation 3, `sch-02.md` Schedule 2), plus `long-title.md` and a `README.md` listing its provisions (`laws/2003/42-employment/art-001.md` is Article 1 of the Employment (Jersey) Law 2003, L.42/2003).
 
@@ -62,8 +62,8 @@ The first version is the "oldest version available", credited to the publisher (
 
 ## What it does not show
 
-- **Every past version.** Each law has at most two versions here: as enacted (when it came into force on one day) and as now consolidated; the point-in-time versions in between sit on jerseylaw.je pages outside the OSAL-J licence and are not read. Case law, customary law and spent or repealed laws are not here. Jersey has no penal, civil or commercial code and no single constitutional text; the States of Jersey Law 2005 is the main constitutional Law.
-- **Laws as enacted, for some.** A Law brought into force in stages, or whose as-enacted page is in an older format, starts at its current consolidation (see the held list in [`REPRODUCE.md`](REPRODUCE.md)).
+- **Every past version.** Point-in-time versions start in 2021, when jerseylaw.je began publishing them; before that a Law has at most its as-enacted text. Case law, customary law and spent or repealed laws are not here. Jersey has no penal, civil or commercial code and no single constitutional text; the States of Jersey Law 2005 is the main constitutional Law.
+- **Laws as enacted, for some.** A Law brought into force in stages starts at its first point-in-time consolidation (see the held list in [`REPRODUCE.md`](REPRODUCE.md)).
 - **Who made every change.** 23 of the 57 changes are not credited to a law, because the endnotes and the Table of Legislation History do not tie them to one.
 - **Headings and notes.** Part, division and cross headings, endnotes, history tables and footnote markers are not law text and are not in the files; tables inside Schedules are not kept as tables.
 - **Versions after 2026-11-26**, when the record was last retrieved.

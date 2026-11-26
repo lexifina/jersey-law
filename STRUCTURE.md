@@ -20,9 +20,9 @@ repeats; `In-force-basis:` says where that day comes from:
 - `commencement (Table of Legislation History)`: a Law as enacted, on the one commencement day the Table of
   Legislation History of its own current consolidation gives it (Laws brought into force in stages get no as-enacted
   version);
-- `Showing the law from (official consolidation)`: the current consolidation, on the "Showing the law from" day the
-  page states. When exactly one law in the Table commenced that day, the commit is credited to it; otherwise to the
-  publisher.
+- `Showing the law from (official consolidation)`: each point-in-time consolidation jerseylaw.je lists for the
+  instrument (published from 2021) and the current one, on the "Showing the law from" day the page states. When
+  exactly one law in the Table commenced that day, the commit is credited to it; otherwise to the publisher.
 
 Before 1970 git cannot store a date: such commits are dated 1 January 1970 (a second apart, in order) and carry the
 real day in the subject and the `In-force:` trailer. No date in this repository is the day we downloaded anything.
