@@ -1,0 +1,27 @@
+{
+  "corpus": "je/national/acts",
+  "name": "Jersey law: the Laws, Regulations and Orders of Jersey as the Jersey Legal Information Board publishes them on jerseylaw.je",
+  "label": "Jersey",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind",
+      "Citation"
+    ],
+    "time": "12:00 Europe/Jersey"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the Law as enacted; for a consolidation, the one law the Table of Legislation History shows commencing that day, else \"Jersey Legal Information Board (jerseylaw.je)\"",
+  "citation": {
+    "file": "((?:laws|regulations-and-orders|orders-in-council)/[0-9]{4}/[^/]+)/(?:art|reg|rule)-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(Article|Regulation|Rule|Art\\.?|Reg\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.jerseylaw.je/laws/current",
+    "https://www.jerseylaw.je/laws/enacted"
+  ]
+}

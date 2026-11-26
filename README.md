@@ -9,9 +9,9 @@ The law of Jersey as a git history: one file per Article or Schedule, one commit
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jersey's national law, which global-law reads at `jersey/national/acts/`.
 
-**What is in it now:** 11 Laws of the States of Jersey, among them the Employment, Companies, Data Protection, Human Rights and Interpretation Laws, with 50 official consolidated versions from 2020-11-25 to 2026-10-02 and 1,205 Articles and Schedules; 34 of the 57 changes after the first versions are credited to the 34 amending Laws, Regulations, Orders and Law Revision Board items that made them. [`REPRODUCE.md`](REPRODUCE.md) lists every Law with its versions; [`data/laws.csv`](data/laws.csv) lists the 45 laws in the record, with the day each amending law's change took effect.
+**What is in it now:** 40 Laws of the States of Jersey in force, 0 Regulations and Orders (R&Os) and 0 Orders in Council, among them the States of Jersey, Employment, Companies, Data Protection, Human Rights and Interpretation Laws, each as currently consolidated on jerseylaw.je and, where it came into force on one day, as enacted. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
 
-Each Law is a folder named after its short title, with one file per Article or Schedule (`art-015-a.md` is Article 15A, `sch-02.md` Schedule 2), plus `long-title.md` and a `README.md` listing its provisions and their changes (`employment/art-001.md` is Article 1 of the Employment (Jersey) Law 2003, L.42/2003).
+Each Law is a folder under `laws/<year>/<number>-<slug>/`, each R&O under `regulations-and-orders/<year>/<number>-<slug>/`, with one file per Article, Regulation, Rule or Schedule (`art-015-a.md` is Article 15A, `reg-003.md` Regulation 3, `sch-02.md` Schedule 2), plus `long-title.md` and a `README.md` listing its provisions (`laws/2003/42-employment/art-001.md` is Article 1 of the Employment (Jersey) Law 2003, L.42/2003).
 
 The text is in English, the language Jersey legislation is enacted in, as jerseylaw.je prints it.
 
@@ -19,10 +19,10 @@ The text is in English, the language Jersey legislation is enacted in, as jersey
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 1 of the Employment Law | `git log -p --word-diff -- employment/art-001.md` |
-| Which law wrote each line of Article 1? | `git blame employment/art-001.md` |
-| Every change to the Employment Law, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- employment ':!employment/README.md'` |
-| Article 1 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 employment art-001` |
+| Every change to Article 1 of the Employment Law | `git log -p --word-diff -- laws/2003/42-employment/art-001.md` |
+| Which law wrote each line of Article 1? | `git blame laws/2003/42-employment/art-001.md` |
+| Every change to the Employment Law, with the day each took effect and the law that made it | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- laws/2003/42-employment ':!laws/2003/42-employment/README.md'` |
+| Article 1 as in force on 1 January 2026 | `git show $(git rev-list -1 --before="2026-01-01 23:59" HEAD -- laws/2003/42-employment):laws/2003/42-employment/art-001.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add jersey/national/acts
-python3 tools/law.py show 2026-01-01 jersey/national/acts/employment/art-001.md
+python3 tools/law.py show 2026-01-01 jersey/national/acts/laws/2003/42-employment/art-001.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -48,7 +48,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 Each commit is dated at noon, Europe/Jersey, on the day the version took effect, and carries it in its `In-force:` trailer:
 
 - for every version, the "Showing the law from" day its official consolidation on jerseylaw.je states (Legislation (Jersey) Law 2021);
-- for the first version of a Law, the day of the oldest consolidation published as text (2020-11-25 at the earliest), not the day the Law was enacted.
+- for a Law as enacted, its commencement day in the Table of Legislation History (only when it gives one day); before 1970, the commit is dated 1 January 1970 and the real day is in the subject and trailer.
 
 The first version is the "oldest version available", credited to the publisher (Jersey Legal Information Board) and naming the laws the source says produced it. A changed Article or Schedule is credited to an amending law (`Employment and Discrimination (Jersey) Amendment Law 2026 <l-11-2026@jerseylaw.je.invalid>`) only when that version's endnotes name the law for it and the version's day is one of the law's commencement days in its Table of Legislation History, or the day a Law Revision Board item revised it; any other change is the publisher's, and its message says it is unexplained.
 
@@ -62,11 +62,11 @@ The first version is the "oldest version available", credited to the publisher (
 
 ## What it does not show
 
-- **Most Jersey law.** 11 Laws are here; other Laws, Regulations and Orders, case law and customary law are not. Jersey has no penal, civil or commercial code and no single constitutional text.
-- **Laws as enacted.** Each history starts at the oldest consolidation jerseylaw.je publishes as text, which already holds the amendments made before it.
+- **Every past version.** Each law has at most two versions here: as enacted (when it came into force on one day) and as now consolidated; the point-in-time versions in between sit on jerseylaw.je pages outside the OSAL-J licence and are not read. Case law, customary law and spent or repealed laws are not here. Jersey has no penal, civil or commercial code and no single constitutional text; the States of Jersey Law 2005 is the main constitutional Law.
+- **Laws as enacted, for some.** A Law brought into force in stages, or whose as-enacted page is in an older format, starts at its current consolidation (see the held list in [`REPRODUCE.md`](REPRODUCE.md)).
 - **Who made every change.** 23 of the 57 changes are not credited to a law, because the endnotes and the Table of Legislation History do not tie them to one.
 - **Headings and notes.** Part, division and cross headings, endnotes, history tables and footnote markers are not law text and are not in the files; tables inside Schedules are not kept as tables.
-- **Versions after 2026-10-30**, when the record was retrieved.
+- **Versions after 2026-11-26**, when the record was last retrieved.
 
 ## Sources
 
@@ -76,7 +76,7 @@ The first version is the "oldest version available", credited to the publisher (
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The States Assembly holds the copyright in Jersey legislation (Intellectual Property (Unregistered Rights) (Jersey) Law 2011, Articles 185 and 186), and the Greffier of the States offers it for re-use under the Open States Assembly Licence (OSAL-J) v.1; the arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
+See [`LICENSE`](LICENSE). The States Assembly holds the copyright in Jersey legislation (Intellectual Property (Unregistered Rights) (Jersey) Law 2011, Articles 185 and 186), and the Greffier of the States offers it for re-use under the Open States Assembly Licence (OSAL-J) v.1; the arrangement, tables, commit messages and tools are by Lexifina, dedicated to the public domain (CC0 1.0).
 
 No AI model wrote, translated or corrected legal text, and no model runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
