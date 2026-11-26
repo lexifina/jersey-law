@@ -129,17 +129,17 @@ Part-time tuition fees grant = full-time tuition fees grant entitlement x course
 (4)
 (5) The Minister may determine the intensity of a distance learning course by an alternative method if a course does not attract credits.
 (6) If the Minister is unable to reasonably determine the intensity of a course, the Minister may refuse to award a tuition fees grant in respect of that course.
-9 Distance learning course maximum maintenance grant if relevant income is less than £52,600
-(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is less than £52,600 may be awarded, for that academic year, the full-time maximum maintenance grant specified in the following table -
+9 Distance learning course maximum maintenance grant if relevant income is less than the lower income threshold
+(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is less than the lower income threshold may be awarded, for that academic year, the full-time maximum maintenance grant specified in the following table -
 Student category
-Full-time maximum maintenance grant for 2025 academic year (£)
 Full-time maximum maintenance grant for 2026 academic year (£)
+Full-time maximum maintenance grant for 2027 and subsequent academic years (£)
 D
-8,540
 8,831
+9,141
 E
-9,138
 9,449
+9,780
 (2) The amount of maximum maintenance grant that may be awarded to a student undertaking a part-time distance learning course (“part-time maximum maintenance grant”) is determined according to the intensity of the course, based on the number of credits awarded for the course in that academic year, by calculating the following in order -
 (a) the full-time equivalent number of credits for each academic year of a course (“credits per academic year”) is determined as follows -
 Credits per academic year =
@@ -155,18 +155,18 @@ full-time maximum maintenance grant entitlement x course intensity
 (3)
 (4) The Minister may determine the intensity of a distance learning course by an alternative method if a course does not attract credits.
 (5) If the Minister is unable to reasonably determine the intensity of a course, the Minister may refuse to award a maintenance grant in respect of that course.
-10 Distance learning course maintenance grant if relevant income is £52,600 or more, but less than £94,680
-(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is £94,679.99 may be awarded, for that academic year, the full-time minimum maintenance grant specified in the following table -
+10 Distance learning course maintenance grant if relevant income is the lower income threshold or more, but less than the higher income threshold
+(1) A student who is undertaking a full-time distance learning course and whose relevant income for an academic year is less than the higher income threshold may be awarded, for that academic year, the full-time minimum maintenance grant specified in the following table -
 Student category
-Full-time minimum maintenance grant for 2025 academic year (£)
 Full-time minimum maintenance grant for 2026 academic year (£)
+Full-time minimum maintenance grant for 2027 and subsequent academic years (£)
 D
-1,709
 1,768
+1,830
 E
-1,829
 1,892
-(2) For the 2025 academic year and for subsequent academic years, a student who is undertaking a full-time distance learning course and whose relevant income is £52,600 or more, but less than £94,679.99, may be awarded a full-time maintenance grant (“MG”) of an amount calculated using the following formula -
+1,959
+(2) For the 2025 academic year and for subsequent academic years, a student who is undertaking a full-time distance learning course and whose relevant income is the lower income threshold or more, but less than the higher income threshold, may be awarded a full-time maintenance grant (“MG”) of an amount calculated using the following formula -
 (3) In the formula -
 “MAG” means the maximum full-time maintenance grant that would be awardable if paragraph 9 applied to the student instead of sub-paragraph (2);
 “MIG” means the minimum full-time maintenance grant that would be awardable if sub-paragraph (1) applied to the student instead of sub-paragraph (2);
