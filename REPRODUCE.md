@@ -25,7 +25,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 
 ## Counts
 
-393 Laws, 230 Regulations and Orders, 0 Orders in Council. 459 pages or versions held:
+393 Laws, 305 Regulations and Orders, 0 Orders in Council. 462 pages or versions held:
 
 | Page | Why held |
 | --- | --- |
@@ -486,5 +486,8 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_9_2013` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2015` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2024` | point-in-time versions before 2025-06-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_4226` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_5651` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_5688` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `ro_40_2010` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `ro_5717` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
