@@ -25,7 +25,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 
 ## Counts
 
-393 Laws, 375 Regulations and Orders, 0 Orders in Council. 535 pages or versions held:
+393 Laws, 465 Regulations and Orders, 0 Orders in Council. 603 pages or versions held:
 
 | Page | Why held |
 | --- | --- |
@@ -486,19 +486,65 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_9_2013` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2015` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2024` | point-in-time versions before 2025-06-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_100_2020` | point-in-time versions before 2023-04-12 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_100_2021` | point-in-time versions before 2025-12-25 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_104_2019` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_108_2023` | point-in-time versions before 2026-05-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_113_2021` | point-in-time versions before 2025-07-10 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_114_2018` | point-in-time versions before 2020-05-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_118_2022` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_119_2018` | point-in-time versions before 2026-07-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_11_2017` | point-in-time versions before 2025-12-25 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_11_2021` | point-in-time versions before 2026-10-15 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_125_2021` | point-in-time versions before 2023-08-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_128_2018` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_129_2021` | point-in-time versions before 2025-06-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_12_2017` | point-in-time versions before 2025-12-25 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_132_2018` | point-in-time versions before 2024-03-28 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_133_2018` | point-in-time versions before 2026-04-21 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_134_2021` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_138_2017` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_138_2020` | point-in-time versions before 2026-06-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_13_2017` | point-in-time versions before 2019-10-10 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_13_2020` | point-in-time versions before 2021-02-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_146_2020` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_147_2020` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_148_2019` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_15_2022` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_184_2020` | point-in-time versions before 2026-06-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_188_2020` | point-in-time versions before 2024-12-16 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_18_2018` | point-in-time versions before 2019-10-15 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_1_2018` | point-in-time versions before 2020-12-31 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_20_2020` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_22_2020` | point-in-time versions before 2026-04-20 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_22_2023` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_24_2017` | point-in-time versions before 2025-12-05 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_24_2018` | point-in-time versions before 2026-04-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_2_2024` | point-in-time versions before 2026-04-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_32_2018` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_33_2020` | point-in-time versions before 2022-04-29 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_3498` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_36_2022` | point-in-time versions before 2026-06-19 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_37_2022` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_3894` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_38_2021` | point-in-time versions before 2024-05-07 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_3943` | point-in-time versions before 2026-04-13 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4045` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_41_2018` | point-in-time versions before 2024-12-09 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4204` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4226` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4253` | point-in-time versions before 2026-04-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4325` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4338` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_4387` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_44_2018` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_45_2018` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_45_2022` | point-in-time versions before 2026-11-16 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_46_2018` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_47_2022` | point-in-time versions before 2024-02-26 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5003` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5010` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_50_2020` | point-in-time versions before 2022-04-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_50_2024` | point-in-time versions before 2025-09-03 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5114` | point-in-time versions before 2021-05-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5129` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
@@ -508,8 +554,11 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:ro_5626` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5651` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5688` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_57_2017` | point-in-time versions before 2023-09-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5956` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_5996` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_59_2018` | point-in-time versions before 2019-12-23 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_5_2023` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6042` | point-in-time versions before 2026-04-15 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6077` | point-in-time versions before 2026-08-26 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6080` | point-in-time versions before 2020-11-24 not added: the folder was published before they were read (history is append-only) |
@@ -517,22 +566,29 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:ro_6082` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6083` | point-in-time versions before 2020-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6085` | point-in-time versions before 2019-05-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_60_2019` | point-in-time versions before 2022-04-30 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6107` | point-in-time versions before 2022-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6108` | point-in-time versions before 2026-11-23 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6134` | point-in-time versions before 2020-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6149` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6153` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6229` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_64_2023` | point-in-time versions before 2023-11-08 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6597` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6690` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6766` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_6776` | point-in-time versions before 2019-06-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_69_2018` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_6_2017` | point-in-time versions before 2022-02-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7016` | point-in-time versions before 2023-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7028` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_70_2019` | point-in-time versions before 2026-07-08 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7111` | point-in-time versions before 2023-08-09 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_71_2018` | point-in-time versions before 2026-06-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7526` | point-in-time versions before 2019-12-18 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7546` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7676` | point-in-time versions before 2026-03-18 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_76_2018` | point-in-time versions before 2019-05-31 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_77_2025` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7816` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7833` | point-in-time versions before 2024-12-11 not added: the folder was published before they were read (history is append-only) |
@@ -540,7 +596,10 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:ro_7938` | point-in-time versions before 2024-06-10 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7954` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_7955` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_79_2018` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_7_2019` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8046` | point-in-time versions before 2026-11-23 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_80_2018` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8104` | point-in-time versions before 2026-04-23 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8140` | point-in-time versions before 2025-07-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8162` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
@@ -550,17 +609,26 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:ro_8331` | point-in-time versions before 2025-07-31 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8443` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8632` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_86_2018` | point-in-time versions before 2026-11-26 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_86_2020` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_87_2021` | point-in-time versions before 2026-07-06 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8813` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8916` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_8974` | point-in-time versions before 2020-01-31 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_89_2019` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_8_2023` | point-in-time versions before 2023-06-30 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9137` | point-in-time versions before 2025-10-20 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9138` | point-in-time versions before 2025-12-04 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9140` | point-in-time versions before 2026-03-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9141` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_91_2019` | point-in-time versions before 2021-09-23 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9209` | point-in-time versions before 2026-04-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_92_2022` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9310` | point-in-time versions before 2021-05-05 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9313` | point-in-time versions before 2026-08-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9316` | point-in-time versions before 2026-04-22 not added: the folder was published before they were read (history is append-only) |
 | `pit:ro_9354` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_97_2018` | point-in-time versions before 2020-05-05 not added: the folder was published before they were read (history is append-only) |
+| `pit:ro_99_2019` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `ro_40_2010` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `ro_5717` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
