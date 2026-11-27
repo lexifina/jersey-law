@@ -25,7 +25,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 
 ## Counts
 
-393 Laws, 166 Regulations and Orders, 0 Orders in Council. 445 pages or versions held:
+393 Laws, 230 Regulations and Orders, 0 Orders in Council. 459 pages or versions held:
 
 | Page | Why held |
 | --- | --- |
@@ -187,6 +187,19 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `l_1_1832` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `l_2_1840` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `l_3_1884` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_13_2001` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_1_1771` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_28_1973` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_2_1869` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_2_1884` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_32_1997` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_3_1931` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_4_1851` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_5_1900` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_5_1986` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_6_1998` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_9_1967` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `oinc_9_1970` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `pit:l_10_1937` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_1953` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_1957` | point-in-time versions before 2026-08-01 not added: the folder was published before they were read (history is append-only) |
@@ -474,3 +487,4 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_9_2015` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2024` | point-in-time versions before 2025-06-14 not added: the folder was published before they were read (history is append-only) |
 | `ro_40_2010` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `ro_5717` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
