@@ -25,7 +25,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 
 ## Counts
 
-298 Laws, 0 Regulations and Orders, 0 Orders in Council. 278 pages or versions held:
+393 Laws, 59 Regulations and Orders, 0 Orders in Council. 349 pages or versions held:
 
 | Page | Why held |
 | --- | --- |
@@ -53,6 +53,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_14_2009` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_14_2012` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_14_2014` | commenced in stages ("25 July 2014 - Parts 1, 2 and 6 and Schedules 1 and 2 25 November 2014 (R&O.186/") |
+| `enacted:l_15_1967` | commenced in stages ("1 June 1968 except Schedule 3 Part 6(5) and Part 11 which commence 1 January 197") |
 | `enacted:l_15_2008` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_15_2016` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_16_2018` | as-enacted page not in the current format (no Articles found) |
@@ -64,6 +65,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_17_2015` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_17_2017` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_17_2018` | commenced in stages ("19 September 2018 (Articles 1, 4, 5, 8, 9, 10 and 11 only) See R&O.93/2018 19 Ju") |
+| `enacted:l_18_1962` | commenced in stages ("19 September 1962 (Articles 1, 19-22), 1 December 1962 (Articles 5, 6, 8, 9(1)(a") |
 | `enacted:l_18_2006` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_18_2010` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_18_2014` | commenced in stages ("1 January 2016 - whole Law except Articles 10(4) to (8) and 11; 1 January 2019 -") |
@@ -81,7 +83,9 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_20_2022` | commenced in stages ("24 June 2022 (Articles 15 and 16 only) 1 January 2024 (all remaining provisions ") |
 | `enacted:l_21_2010` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_21_2012` | commenced in stages ("Parts 1, 2 and 5 and Articles 16 and 18 - 12 December 2013; Parts 3 and 4 and Ar") |
+| `enacted:l_22_1949` | commenced in stages ("15 March 1950 (R&O.2594), (Articles 1, 2, 4, 5(1), 43, 44 and 47 in force 17 Jan") |
 | `enacted:l_22_2026` | commenced in stages ("1 September 2026 - Parts 1, 2, 3 and 7 and Schedules 1, 2 and 4 (R&O.86/2026) No") |
+| `enacted:l_23_1962` | commenced in stages ("Articles 1, 6, 7, 17, 18, 19, 21 in force 1 December 1962, remainder in force 1 ") |
 | `enacted:l_23_2009` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_23_2014` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_24_2004` | as-enacted page not in the current format (no Articles found) |
@@ -103,6 +107,8 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_27_2007` | commenced in stages ("17 August 2007, as to Part 1, Articles 97 to 102, Schedule 2 and so much of any ") |
 | `enacted:l_27_2014` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_27_2018` | as-enacted page not in the current format (no Articles found) |
+| `enacted:l_28_1952` | commenced in stages or no day ("1 January 1953 and 17 October 1952 (R&O.3189)") |
+| `enacted:l_28_1969` | commenced in stages or no day ("17 November 1969 (for making Orders) 3 July 1970 for all other purposes") |
 | `enacted:l_28_2004` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_28_2014` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_29_1993` | as-enacted page not in the current format (no Articles found) |
@@ -111,6 +117,7 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_29_2011` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_29_2016` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_2_1905` | as-enacted page not in the current format (no Articles found) |
+| `enacted:l_2_1948` | commenced in stages ("22 September 1948 (Articles 1-3, 32, 35, 36), 1 October 1948 (Articles 5, 6, 10,") |
 | `enacted:l_2_2017` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_2_2019` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_30_2003` | as-enacted page not in the current format (no Articles found) |
@@ -148,17 +155,23 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `enacted:l_4_2017` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_4_2018` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_50_2002` | as-enacted page not in the current format (no Articles found) |
+| `enacted:l_5_1948` | commenced in stages ("1 November 1948 (Articles 1 and 16 to 21) 1 January 1949 (Articles 2 to 15) (R&O") |
+| `enacted:l_5_1974` | commenced in stages or no day ("17 May 1974, 18 September 1974 (R&O.6042)") |
 | `enacted:l_5_2011` | as-enacted page not in the current format (no Articles found) |
+| `enacted:l_6_1951` | commenced in stages ("5 May 1951 (Article 9, 2 February 1952, R&O.3038)") |
+| `enacted:l_6_1988` | commenced in stages ("1 June 1988, (1 June 1989 for Article 4) (R&O.7757)") |
 | `enacted:l_6_1997` | commenced in stages ("1 August 1997, Schedule 3, paragraph 2(1)(b) in force 1 January 1999 (R&O.9096)") |
 | `enacted:l_6_2005` | commenced in stages ("1 May 2005 (except Parts 2 and 3) 1 November 2005 (Parts 2 and 3) (R&O.22/2005)") |
 | `enacted:l_6_2010` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_6_2011` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_6_2014` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_6_2016` | as-enacted page not in the current format (no Articles found) |
+| `enacted:l_7_1949` | commenced in stages or no day ("1 August 1949 (Art. 22 in force 6 July 1949) (R&O.2421)") |
 | `enacted:l_7_2005` | commenced in stages ("1 November 2006, except - 1 February 2007 (Articles 23, 38 and 49, Part 4, Artic") |
 | `enacted:l_7_2009` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_7_2014` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_7_2025` | commenced in stages or no day ("1 January 2025 Adopted Law given effect as if enacted on 22 October 2024 by R&O.") |
+| `enacted:l_8_1948` | commenced in stages ("15 January 1949 (original Articles 13, 14, 15 in force 1 February 1965 R&O.4617)") |
 | `enacted:l_8_1990` | as-enacted page not in the current format (no Articles found) |
 | `enacted:l_8_2005` | commenced in stages ("11 March 2005 - Articles 1, 47, 48, 49 and 53 26 July 2005 - Article 6, Article ") |
 | `enacted:l_8_2010` | as-enacted page not in the current format (no Articles found) |
@@ -173,46 +186,66 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `l_1_1813` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `l_1_1832` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `l_2_1840` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
+| `l_3_1884` | no Articles/Regulations/Schedules or no usable "Showing the law from" day |
 | `pit:l_10_1978` | point-in-time versions before 2025-12-05 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_10_1994` | point-in-time versions before 2021-10-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_2008` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_2009` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_2013` | point-in-time versions before 2026-04-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_2017` | point-in-time versions before 2026-07-06 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_10_2019` | point-in-time versions before 2026-07-16 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_11_1996` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_11_1998` | point-in-time versions before 2025-12-04 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_11_2003` | point-in-time versions before 2024-12-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_11_2010` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_11_2014` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_11_2016` | point-in-time versions before 2024-12-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_11_2019` | point-in-time versions before 2024-12-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_12_1994` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_12_1996` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_12_2001` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_12_2002` | point-in-time versions before 2026-06-07 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_12_2006` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_12_2013` | point-in-time versions before 2019-07-23 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_12_2016` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_12_2018` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_12_2021` | point-in-time versions before 2025-06-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_13_1991` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_13_2002` | point-in-time versions before 2025-06-18 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_13_2019` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_14_1999` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_14_2000` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_14_2003` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_14_2009` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_14_2012` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_14_2014` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_14_2022` | point-in-time versions before 2025-10-29 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_15_2000` | point-in-time versions before 2023-04-12 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_15_2008` | point-in-time versions before 2022-04-29 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_15_2016` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_15_2021` | point-in-time versions before 2026-02-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_16_1998` | point-in-time versions before 2026-06-12 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_16_2018` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_16_2025` | point-in-time versions before 2025-11-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_1954` | point-in-time versions before 2026-06-19 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_1961` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_17_1997` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2004` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2005` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2011` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2014` | point-in-time versions before 2026-02-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2017` | point-in-time versions before 2026-03-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_17_2018` | point-in-time versions before 2020-12-31 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_18_1993` | point-in-time versions before 2026-06-12 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_18_2006` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_18_2010` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_18_2014` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_18_2022` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_19_1994` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_19_2000` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_19_2005` | point-in-time versions before 2026-04-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_19_2011` | point-in-time versions before 2022-03-25 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_1_2002` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_1_2009` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_1_2010` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_1_2012` | point-in-time versions before 2024-06-14 not added: the folder was published before they were read (history is append-only) |
@@ -224,25 +257,35 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_20_2022` | point-in-time versions before 2026-07-16 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_21_2010` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_21_2012` | point-in-time versions before 2023-01-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_22_1994` | point-in-time versions before 2026-04-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_22_2001` | point-in-time versions before 2019-05-03 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_22_2026` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_23_2009` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_23_2014` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_24_1995` | point-in-time versions before 2023-02-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_24_2004` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_24_2012` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_24_2014` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_25_2014` | point-in-time versions before 2026-10-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_25_2017` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_25_2018` | point-in-time versions before 2026-08-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_26_1993` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_26_2005` | point-in-time versions before 2026-10-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_26_2011` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_26_2014` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_26_2018` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_27_1999` | point-in-time versions before 2025-06-05 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_27_2002` | point-in-time versions before 2021-10-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_27_2004` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_27_2005` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_27_2007` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_27_2014` | point-in-time versions before 2026-08-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_27_2018` | point-in-time versions before 2025-06-18 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_27_2022` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_28_2004` | point-in-time versions before 2020-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_28_2005` | point-in-time versions before 2025-04-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_28_2014` | point-in-time versions before 2023-04-12 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_29_1998` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_29_2005` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_29_2007` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_29_2008` | point-in-time versions before 2022-09-01 not added: the folder was published before they were read (history is append-only) |
@@ -252,20 +295,31 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_2_2019` | point-in-time versions before 2026-03-18 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_2_2020` | point-in-time versions before 2022-05-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_30_1991` | point-in-time versions before 2026-09-30 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_30_2003` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_30_2008` | point-in-time versions before 2025-12-04 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_30_2012` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_30_2016` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_30_2022` | point-in-time versions before 2026-07-16 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_31_1995` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_31_2001` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_31_2008` | point-in-time versions before 2026-02-10 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_31_2011` | point-in-time versions before 2026-04-15 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_31_2012` | point-in-time versions before 2026-09-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_31_2014` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_32_1995` | point-in-time versions before 2021-09-28 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_32_1998` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_32_2003` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_32_2008` | point-in-time versions before 2025-02-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_32_2018` | point-in-time versions before 2026-06-22 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_33_1999` | point-in-time versions before 2026-05-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_33_2005` | point-in-time versions before 2025-06-18 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_34_1996` | point-in-time versions before 2026-06-12 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_34_1999` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_34_2000` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_35_2007` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_35_2008` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_35_2012` | point-in-time versions before 2026-04-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_36_2002` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_36_2007` | point-in-time versions before 2025-06-18 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_37_2007` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_37_2012` | point-in-time versions before 2025-12-05 not added: the folder was published before they were read (history is append-only) |
@@ -275,26 +329,40 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_3_2018` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_3_2019` | point-in-time versions before 2026-06-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_40_2002` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_41_2002` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_41_2014` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_42_1998` | point-in-time versions before 2021-10-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_42_2003` | point-in-time versions before 2026-04-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_42_2014` | point-in-time versions before 2026-07-17 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_48_2002` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_4_1994` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_4_1997` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_4_1998` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_4_1999` | point-in-time versions before 2023-09-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_4_2008` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_4_2012` | point-in-time versions before 2025-11-24 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_4_2017` | point-in-time versions before 2019-07-23 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_4_2021` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_4_2023` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_50_2002` | point-in-time versions before 2026-04-06 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_51_2002` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_5_1998` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_5_1999` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_5_2003` | point-in-time versions before 2026-07-17 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_5_2011` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_6_1997` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_6_1999` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_6_2005` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_6_2011` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_6_2012` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_7_1995` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_7_2005` | point-in-time versions before 2026-07-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_7_2009` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_7_2014` | point-in-time versions before 2024-02-27 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_7_2020` | point-in-time versions before 2026-06-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_7_2025` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_1990` | point-in-time versions before 2026-06-01 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_8_1998` | point-in-time versions before 2026-01-01 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_1999` | point-in-time versions before 2025-07-02 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_2005` | point-in-time versions before 2026-07-16 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_2010` | point-in-time versions before 2026-10-02 not added: the folder was published before they were read (history is append-only) |
@@ -302,6 +370,9 @@ Crawl), built by the earlier pipeline (`tools/`).
 | `pit:l_8_2018` | point-in-time versions before 2025-02-21 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_2019` | point-in-time versions before 2023-05-30 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_8_2021` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_9_1995` | point-in-time versions before 2025-06-18 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_9_2000` | point-in-time versions before 2024-10-18 not added: the folder was published before they were read (history is append-only) |
+| `pit:l_9_2001` | point-in-time versions before 2024-01-11 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2005` | point-in-time versions before 2024-06-14 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2007` | point-in-time versions before 2025-09-19 not added: the folder was published before they were read (history is append-only) |
 | `pit:l_9_2013` | point-in-time versions before 2022-01-20 not added: the folder was published before they were read (history is append-only) |
