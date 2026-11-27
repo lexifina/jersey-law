@@ -66,7 +66,7 @@ The first version is the "oldest version available", credited to the publisher (
 - **Laws as enacted, for some.** A Law brought into force in stages starts at its first point-in-time consolidation (see the held list in [`REPRODUCE.md`](REPRODUCE.md)).
 - **Who made every change.** 23 of the 57 changes are not credited to a law, because the endnotes and the Table of Legislation History do not tie them to one.
 - **Headings and notes.** Part, division and cross headings, endnotes, history tables and footnote markers are not law text and are not in the files; tables inside Schedules are not kept as tables.
-- **Versions after 2026-11-26**, when the record was last retrieved.
+- **Versions after 2026-11-27**, when the record was last retrieved.
 
 ## Sources
 
