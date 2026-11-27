@@ -9,7 +9,7 @@ The law of Jersey as a git history: one file per Article or Schedule, one commit
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jersey's national law, which global-law reads at `jersey/national/acts/`.
 
-**What is in it now:** 393 Laws of the States of Jersey in force, 465 Regulations and Orders (R&Os) and 0 Orders in Council, among them the States of Jersey, Employment, Companies, Data Protection, Human Rights and Interpretation Laws, each with the point-in-time versions jerseylaw.je publishes (from 2021) and, where it came into force on one day, as enacted. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
+**What is in it now:** 393 Laws of the States of Jersey in force, 563 Regulations and Orders (R&Os) and 0 Orders in Council, among them the States of Jersey, Employment, Companies, Data Protection, Human Rights and Interpretation Laws, each with the point-in-time versions jerseylaw.je publishes (from 2021) and, where it came into force on one day, as enacted. See [`STRUCTURE.md`](STRUCTURE.md) for the layout and [`REPRODUCE.md`](REPRODUCE.md) for the sources.
 
 Each Law is a folder under `laws/<year>/<number>-<slug>/`, each R&O under `regulations-and-orders/<year>/<number>-<slug>/`, with one file per Article, Regulation, Rule or Schedule (`art-015-a.md` is Article 15A, `reg-003.md` Regulation 3, `sch-02.md` Schedule 2), plus `long-title.md` and a `README.md` listing its provisions (`laws/2003/42-employment/art-001.md` is Article 1 of the Employment (Jersey) Law 2003, L.42/2003).
 
